@@ -43,6 +43,8 @@ const OVERLAYS = html`
   <div class="overlay board" id="board" data-open="false" role="dialog" aria-modal="true" aria-labelledby="board-title" aria-hidden="true"><div class="card"></div></div>
   <div class="overlay brain" id="brain" data-open="false" role="dialog" aria-modal="true" aria-labelledby="brain-title" aria-hidden="true"></div>
   <div class="overlay reel-box" id="reel" data-open="false" role="dialog" aria-modal="true" aria-labelledby="reel-title" aria-hidden="true"></div>
+  <div class="overlay sheet" id="sheet" data-open="false" role="dialog" aria-modal="true" aria-labelledby="sheet-title" aria-hidden="true"><div class="card"></div></div>
+  <div class="overlay peek" id="peek" data-open="false" role="dialog" aria-modal="true" aria-labelledby="peek-title" aria-hidden="true"></div>
   <div class="devbar" id="devbar" data-open="false" aria-label="Developer bar"></div>`;
 
 const current = (p, here) => (p.id === here ? 'page' : 'false');

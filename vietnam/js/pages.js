@@ -7,6 +7,7 @@ export const PAGES = [
   { id: 'budget', href: 'budget.html', label: 'Budget', icon: 'ticket', n: '05', hashes: ['budget'] },
   { id: 'calendar', href: 'calendar.html', label: 'Calendar', icon: 'calendar', n: '06', hashes: ['calendar'] },
   { id: 'book', href: 'book.html', label: 'Book', icon: 'check', n: '07', hashes: ['checklist', 'book', 'share'] },
+  { id: 'manager', href: 'manager.html', label: 'Manager', icon: 'folder', n: '08', hashes: ['manager', 'vault', 'docs'] },
   { id: 'sources', href: 'sources.html', label: 'Sources', icon: 'link', n: '09', hashes: ['sources'], quiet: true },
 ];
 

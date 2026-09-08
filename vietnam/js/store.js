@@ -44,6 +44,26 @@ export function createStore() {
     toggleCheck(id) {
       this.set((s) => ({ checklist: { ...s.checklist, [id]: !s.checklist[id] } }));
     },
+    // Manager records: one per slot id. A slot marked booked / done also ticks
+    // its checklist step, so the Book page and the Manager never disagree.
+    setVault(id, patch) {
+      this.set((s) => {
+        const rec = { ...(s.vault[id] || {}), ...patch };
+        const checklist = 'status' in patch ? { ...s.checklist, [id]: patch.status !== 'todo' } : s.checklist;
+        return { vault: { ...s.vault, [id]: rec }, checklist };
+      });
+    },
+    addSlot(slot) {
+      this.set((s) => ({ vaultCustom: [...s.vaultCustom, slot] }));
+    },
+    // Custom calendar events. Removal is a soft delete (`deleted: true`), so an
+    // undo is one flag away and Google sync can clean up the pushed copy.
+    addEvent(ev) {
+      this.set((s) => ({ events: [...s.events, ev] }));
+    },
+    setEvent(id, patch) {
+      this.set((s) => ({ events: s.events.map((e) => (e.id === id ? { ...e, ...patch } : e)) }));
+    },
     reset() {
       state = structuredClone(DEFAULT_STATE);
       emit();

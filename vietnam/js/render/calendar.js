@@ -1,112 +1,126 @@
 import { $, html, inr } from '../dom.js';
 import { icon } from '../icons.js';
-import { TRIP, STOPS, isoOf } from '../data/trip.js';
-import { DAYS, SLOTS, whereFor, sleepFor } from '../data/days.js';
-import { PHOTOS } from '../data/photos.js';
-import { PRICES } from '../data/prices.js';
+import { TRIP } from '../data/trip.js';
 import { findStrategy } from '../strategies.js';
 import { planTrip } from '../plan.js';
-import { addDays, dayOf, fmtDate } from '../export/dates.js';
+import { eventsFor, inMonth, KINDS } from '../events.js';
+import { addDays, toISO } from '../export/dates.js';
 import { ICS_NAME, buildICS } from '../export/ics.js';
+import { monthView, mondayBefore, monthOf, shiftMonth, monthLabel } from './cal/month.js';
+import { weekView } from './cal/week.js';
+import { agendaView } from './cal/agenda.js';
+import { openSheet } from './sheet.js';
+import { gcalPanel, mountGcalPanel } from './gcalPanel.js';
 
-// Calendar page: a month grid (Mon-first) around the trip dates. Each trip day
-// is a photo cell with its picks, fixed legs and bed; the day before day 1
-// carries the Delhi departure on open-jaw routes. Tap a cell → day board.
+// Calendar page controller. View state (which of month / week / agenda, and the
+// cursor date) lives here and in the URL hash (#calendar/week/2026-10-26) so a
+// reload or a shared link lands on the same view. Everything drawn comes from
+// eventsFor(state); clicks bubble up to one handler that opens the day board
+// for trip days and the event sheet for everything else.
 
-const WD = ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun'];
-const mondayBefore = (iso) => {
-  const d = new Date(`${iso}T00:00:00`);
-  return addDays(iso, -((d.getDay() + 6) % 7));
+const VIEWS = ['month', 'week', 'agenda'];
+const today = () => toISO(new Date());
+let view = 'month';
+let cursor = TRIP.start;
+let icsUrl = null;
+let store = null;
+
+const parseHash = () => {
+  const m = location.hash.match(/^#calendar\/(month|week|agenda)(?:\/(\d{4}-\d{2}-\d{2}))?$/);
+  if (m) { view = m[1]; cursor = m[2] || cursor; }
 };
+const writeHash = () => history.replaceState(null, '', `#calendar/${view}/${cursor}`);
 
-const flyOut = (state) => {
-  const leg = findStrategy(state.strategy).legs(PRICES, state)[0];
-  return leg.price.iso && leg.price.iso < TRIP.start ? { iso: leg.price.iso, leg } : null;
+const step = (n) => (view === 'week' ? addDays(cursor, 7 * n) : `${shiftMonth(monthOf(cursor), n)}-01`);
+const weekLabel = (monday) => {
+  const sun = addDays(monday, 6);
+  const a = new Date(`${monday}T00:00:00`); const b = new Date(`${sun}T00:00:00`);
+  const same = a.getMonth() === b.getMonth();
+  return `${a.getDate()}${same ? '' : ` ${a.toLocaleDateString('en-IN', { month: 'short' })}`} – ${b.getDate()} ${b.toLocaleDateString('en-IN', { month: 'long', year: 'numeric' })}`;
 };
+const label = () => (view === 'week' ? weekLabel(mondayBefore(cursor)) : monthLabel(monthOf(cursor)));
 
-const pickChips = (planned) => {
-  const seen = new Set();
-  const items = SLOTS.flatMap((k) => planned.slots[k].items || []).filter((x) => !x.cont && !seen.has(x.id) && seen.add(x.id));
-  return items.map((x) => html`<span class="cchip">${icon(x.icon)}<span>${x.name}</span></span>`);
-};
-
-const fixedChips = (planned) => SLOTS.filter((k) => planned.slots[k].fixed)
-  .map((k) => html`<span class="cchip cfix">${icon(planned.slots[k].icon)}<span>${planned.slots[k].text.split(' · ')[0]}</span></span>`);
-
-const tripCell = (day, iso, state, transit, plan) => {
-  const photo = PHOTOS[day.photo];
-  const planned = plan.days[day.n - 1];
-  const bed = sleepFor(day, transit);
-  const stop = STOPS.find((s) => s.id === day.stop);
-  return html`
-    <button class="ccell is-trip" type="button" role="gridcell" data-day="${day.n}" aria-label="Day ${day.n}, ${fmtDate(iso)}, ${day.title}. Open the day board.">
-      <img src="assets/photos/${day.photo}.jpg" alt="" width="${photo.w}" height="${photo.h}" loading="lazy" decoding="async" style="object-position: ${photo.pos || '50% 50%'}" />
-      <span class="cdate num">${Number(iso.slice(8))}<em>D${day.n}</em></span>
-      <span class="cwhere">${whereFor(day, transit) || stop.name}</span>
-      <span class="cchips">${fixedChips(planned)}${pickChips(planned)}</span>
-      <span class="cbed">${icon(bed.usd ? 'bed' : 'moon')}<span>${bed.name}</span></span>
-    </button>`;
-};
-
-const flyCell = (iso, fo) => html`
-  <div class="ccell is-fly" role="gridcell" aria-label="${fmtDate(iso)}, fly out of Delhi">
-    <span class="cdate num">${Number(iso.slice(8))}<em>D0</em></span>
-    <span class="cwhere">${TRIP.origin}</span>
-    <span class="cchips"><span class="cchip cfix">${icon('plane')}<span>${fo.leg.from} → ${fo.leg.to}</span></span></span>
-    <span class="cbed"><span>${fo.leg.price.range.split(' · ')[0]} · ${fo.leg.price.carrier}</span></span>
+const toolbar = () => html`
+  <div class="cal-nav">
+    <button class="btn-icon" type="button" data-step="-1" aria-label="Previous ${view === 'week' ? 'week' : 'month'}">${icon('chevron', 'flip')}</button>
+    <h2 class="cal-label" aria-live="polite">${label()}</h2>
+    <button class="btn-icon" type="button" data-step="1" aria-label="Next ${view === 'week' ? 'week' : 'month'}">${icon('chevron')}</button>
+    <span class="cal-jumps">
+      <button class="btn btn-ghost" type="button" data-jump="today">Today</button>
+      <button class="btn btn-ghost" type="button" data-jump="trip">Trip</button>
+    </span>
+  </div>
+  <div class="seg" role="radiogroup" aria-label="Calendar view">
+    ${VIEWS.map((v) => html`<label><input type="radio" name="cal-view" value="${v}" ${v === view ? 'checked' : ''} /><span>${v[0].toUpperCase()}${v.slice(1)}</span></label>`)}
   </div>`;
 
-const blankCell = (iso) => html`
-  <div class="ccell" role="gridcell" aria-label="${fmtDate(iso)}"><span class="cdate num">${Number(iso.slice(8))}</span></div>`;
-
-const cell = (iso, state, transit, plan, fo) => {
-  const n = dayOf(iso);
-  if (n >= 1) return tripCell(DAYS[n - 1], iso, state, transit, plan);
-  if (fo && iso === fo.iso) return flyCell(iso, fo);
-  return blankCell(iso);
-};
-
-const gridView = (state) => {
+const body = (state) => {
   const transit = findStrategy(state.strategy).transit;
   const plan = planTrip(state, transit);
-  const fo = flyOut(state);
-  const first = mondayBefore(fo ? fo.iso : TRIP.start);
-  const last = addDays(TRIP.start, TRIP.days - 1);
-  const weeks = Math.ceil((Math.round((new Date(`${last}T00:00:00`) - new Date(`${first}T00:00:00`)) / 864e5) + 1) / 7);
-  const cells = Array.from({ length: weeks * 7 }, (_, i) => cell(addDays(first, i), state, transit, plan, fo));
-  return html`
-    <div class="crow chead" role="row">${WD.map((w) => html`<span role="columnheader">${w}</span>`)}</div>
-    ${Array.from({ length: weeks }, (_, w) => html`<div class="crow" role="row">${cells.slice(w * 7, w * 7 + 7)}</div>`)}`;
+  const events = eventsFor(state);
+  const t = today();
+  if (view === 'week') return weekView(mondayBefore(cursor), events, t);
+  if (view === 'agenda') return agendaView(monthOf(cursor), events, t);
+  return monthView(monthOf(cursor), transit, plan, events, t);
 };
 
 const legend = (state) => {
   const transit = findStrategy(state.strategy).transit;
   const plan = planTrip(state, transit);
+  const n = inMonth(eventsFor(state), monthOf(cursor)).length;
   return html`
-    <span class="cchip cfix">${icon('train')}fixed leg</span>
-    <span class="cchip">${icon('sparkle')}pick</span>
+    ${['flight', 'do', 'deadline', 'doc', 'custom'].map((k) => html`<span class="evc ev-${k} is-tag">${icon(KINDS[k].icon)}<span>${KINDS[k].label}</span></span>`)}
     <span class="chip num">${plan.placed.size} picks · ${inr(plan.cost)} pp</span>
-    <span class="sub">October 2026 · tap a day for the board</span>`;
+    <span class="sub">${n} on the calendar this month · tap anything for details</span>`;
 };
 
-let icsUrl = null;
+const setView = (v, iso) => {
+  if (v) view = v;
+  if (iso) cursor = iso;
+  writeHash();
+  renderCalendar(store.get());
+};
 
-export function mountCalendar(store) {
-  const grid = $('#cal-grid');
-  if (!grid) return;
-  grid.addEventListener('click', (e) => {
-    const c = e.target.closest('[data-day]');
-    if (c) document.dispatchEvent(new CustomEvent('day:open', { detail: Number(c.dataset.day) }));
+export function mountCalendar(s) {
+  store = s;
+  const root = $('#calendar');
+  if (!root) return;
+  parseHash();
+  $('#cal-actions').innerHTML = html`
+    <button class="btn" id="cal-add" type="button">${icon('plus')}Add event</button>
+    <a class="btn" id="cal-ics" download="${ICS_NAME}" href="#">${icon('download')}.ics</a>`;
+  root.addEventListener('click', (e) => {
+    const t = e.target;
+    const day = t.closest('[data-day]'); if (day) return document.dispatchEvent(new CustomEvent('day:open', { detail: Number(day.dataset.day) }));
+    const ev = t.closest('[data-ev]'); if (ev) return openSheet({ mode: 'event', id: ev.dataset.ev });
+    const add = t.closest('[data-new]'); if (add) return openSheet({ mode: 'form', id: null, iso: add.dataset.new });
+    const date = t.closest('[data-date]'); if (date) return openSheet({ mode: 'day', iso: date.dataset.date });
+    if (t.closest('#cal-add')) return openSheet({ mode: 'form', id: null, iso: cursor });
+    const st = t.closest('[data-step]'); if (st) return setView(null, step(Number(st.dataset.step)));
+    const j = t.closest('[data-jump]'); if (j) return setView(null, j.dataset.jump === 'today' ? today() : TRIP.start);
+    return undefined;
   });
-  $('#cal-actions').innerHTML = html`<a class="btn" id="cal-ics" download="${ICS_NAME}" href="#">${icon('calendar')}Add to calendar</a>`;
-  void store;
+  root.addEventListener('change', (e) => {
+    if (e.target.name === 'cal-view' && VIEWS.includes(e.target.value)) setView(e.target.value);
+  });
+  root.addEventListener('keydown', (e) => {
+    if (e.target.closest('input, textarea, select') || e.altKey || e.metaKey || e.ctrlKey) return;
+    if (e.key === 'ArrowLeft') setView(null, step(-1));
+    if (e.key === 'ArrowRight') setView(null, step(1));
+  });
+  window.addEventListener('hashchange', () => { parseHash(); renderCalendar(store.get()); });
+  mountGcalPanel(store);
 }
 
 export function renderCalendar(state) {
   const grid = $('#cal-grid');
   if (!grid) return;
-  grid.innerHTML = gridView(state);
+  $('#cal-toolbar').innerHTML = toolbar();
+  grid.innerHTML = body(state);
+  grid.dataset.view = view;
+  grid.setAttribute('aria-label', `Calendar, ${label()}, ${view} view`);
   $('#cal-legend').innerHTML = legend(state);
+  $('#cal-gcal').innerHTML = gcalPanel(state);
   if (icsUrl) URL.revokeObjectURL(icsUrl);
   icsUrl = URL.createObjectURL(new Blob([buildICS(state)], { type: 'text/calendar;charset=utf-8' }));
   $('#cal-ics').href = icsUrl;

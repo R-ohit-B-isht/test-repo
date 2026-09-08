@@ -17,6 +17,9 @@ export const DEFAULT_STATE = {
   picks: DEFAULT_PICKS,
   custom: [],
   checklist: {},
+  vault: {},
+  vaultCustom: [],
+  events: [],
   theme: 'auto',
 };
 
@@ -24,3 +27,14 @@ export const DEFAULT_STATE = {
 // dev dump, never sent anywhere but generativelanguage.googleapis.com.
 export const GEMINI_KEY_SLOT = 'vietnam-gemini-key';
 export const GEMINI_MODELS = ['gemini-2.5-flash', 'gemini-2.5-pro'];
+
+// Google Calendar sync: the OAuth client id you paste and the ids of events
+// already pushed live in their own slots too — never in state, never shared.
+export const GCAL_CLIENT_SLOT = 'vietnam-gcal-client';
+export const GCAL_MAP_SLOT = 'vietnam-gcal-map';
+export const GCAL_NAME = 'Vietnam · Oct 2026';
+
+// Documents (e-visa PDF, tickets, passport scan) are stored as blobs in IndexedDB;
+// only their names and sizes live in state.
+export const VAULT_DB = 'vietnam-vault';
+export const VAULT_MAX_MB = 25;

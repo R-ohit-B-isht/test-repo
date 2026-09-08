@@ -5,12 +5,16 @@ import { icon } from '../icons.js';
 //   offline  → your saved plan works, Gemini / booking links / reels do not;
 //   install  → the browser offered "add to home screen" (Chromium only);
 //   update   → a new service worker is waiting; reload to get it;
-//   shared / badShare → what happened to the plan carried in a shared link.
+//   shared / badShare → what happened to the plan carried in a shared link;
+//   toast    → a short confirmation with an optional Undo, sent by any page as
+//              `document.dispatchEvent(new CustomEvent('toast', { detail: { text, undo } }))`.
 // State pattern: exactly one message shows at a time, offline wins.
 
 let installPrompt = null;
 let waitingWorker = null;
 let notice = null;
+let toast = null;
+let toastTimer = 0;
 
 const MSG = {
   offline: () => html`${icon('offline')}<span>Offline · plan saved. Brain, booking and reels need data.</span>`,
@@ -18,10 +22,12 @@ const MSG = {
   badShare: () => html`${icon('shield')}<span>That link's plan could not be read · showing your saved plan</span><button type="button" data-net="dismiss-notice" aria-label="Dismiss">×</button>`,
   install: () => html`${icon('download')}<span>Keep it on your phone</span><button type="button" data-net="install">Install</button><button type="button" data-net="dismiss" aria-label="Not now">×</button>`,
   update: () => html`${icon('sparkle')}<span>New version ready</span><button type="button" data-net="reload">Reload</button>`,
+  toast: () => html`${icon(toast.icon || 'check')}<span>${toast.text}</span>${toast.undo ? html`<button type="button" data-net="undo">Undo</button>` : ''}<button type="button" data-net="dismiss-toast" aria-label="Dismiss">×</button>`,
 };
 
 const pick = () => {
   if (!navigator.onLine) return 'offline';
+  if (toast) return 'toast';
   if (notice) return notice;
   if (waitingWorker) return 'update';
   if (installPrompt && !sessionStorage.getItem('install-dismissed')) return 'install';
@@ -59,12 +65,20 @@ export function mountNet(shared) {
   window.addEventListener('offline', show);
   window.addEventListener('beforeinstallprompt', (e) => { e.preventDefault(); installPrompt = e; show(); });
   window.addEventListener('appinstalled', () => { installPrompt = null; show(); });
+  document.addEventListener('toast', (e) => {
+    toast = e.detail;
+    clearTimeout(toastTimer);
+    toastTimer = setTimeout(() => { toast = null; show(); }, toast.undo ? 8000 : 4000);
+    show();
+  });
   bar.addEventListener('click', async (e) => {
     const b = e.target.closest('[data-net]');
     if (!b) return;
     if (b.dataset.net === 'install' && installPrompt) { await installPrompt.prompt(); installPrompt = null; }
     if (b.dataset.net === 'dismiss') sessionStorage.setItem('install-dismissed', '1');
     if (b.dataset.net === 'dismiss-notice') notice = null;
+    if (b.dataset.net === 'undo') { toast?.undo?.(); toast = null; }
+    if (b.dataset.net === 'dismiss-toast') toast = null;
     if (b.dataset.net === 'reload' && waitingWorker) {
       navigator.serviceWorker.addEventListener('controllerchange', () => location.reload(), { once: true });
       waitingWorker.postMessage('skip-waiting');

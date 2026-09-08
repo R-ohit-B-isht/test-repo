@@ -3,8 +3,8 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
-  <title>Calendar · Vietnam planner</title>
-  <meta name="description" content="23–31 October 2026 on a calendar: flights, trains, tours and every pick on its day." />
+  <title>Manager · Vietnam planner</title>
+  <meta name="description" content="Visa, passport, tickets, beds: one slot each, with the PDF kept on your device and the dates on your calendar." />
   <meta name="color-scheme" content="light dark" />
   <meta name="theme-color" content="#f7f2e8" />
   <link rel="icon" href="assets/favicon.svg" type="image/svg+xml" />
@@ -15,7 +15,7 @@
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600&family=Inter:wght@400;500;600&display=swap" />
   <link rel="stylesheet" href="css/app.css" />
 </head>
-<body data-page="calendar">
+<body data-page="manager">
   <a class="skip" href="#main">Skip to content</a>
   <div class="progress" id="progress" aria-hidden="true"></div>
 
@@ -24,19 +24,18 @@
   </header>
 
   <main id="main">
-    <section class="section page-top" id="calendar" aria-labelledby="calendar-title">
+    <section class="section page-top" id="manager" aria-labelledby="manager-title">
       <div class="wrap">
         <div class="section-head reveal">
           <div>
-            <span class="eyebrow">06 · Calendar</span>
-            <h1 class="page-title" id="calendar-title">Nine dates. One glance.</h1>
+            <span class="eyebrow">08 · Manager</span>
+            <h1 class="page-title" id="manager-title">Papers, tickets, beds. In hand.</h1>
           </div>
-          <div class="cal-actions" id="cal-actions"></div>
+          <div class="ms-headbar" id="mgr-head"></div>
         </div>
-        <div class="cal-toolbar reveal" id="cal-toolbar"></div>
-        <div class="cal reveal" id="cal-grid" role="grid" aria-label="Trip calendar, October 2026"></div>
-        <div class="cal-legend reveal" id="cal-legend"></div>
-        <div class="cal-gcal reveal" id="cal-gcal"></div>
+        <nav class="ms-nav reveal" id="mgr-nav" aria-label="Groups"></nav>
+        <div class="ms-groups reveal" id="mgr-groups"></div>
+        <p class="sub ms-bin" id="mgr-bin"></p>
       </div>
     </section>
     <div class="wrap">

@@ -44,6 +44,13 @@ const PATHS = {
   music: 'M9 18a2 2 0 1 0 0 .01M19 16a2 2 0 1 0 0 .01M9 18V5l10-2v13',
   beer: 'M6 5h9v14a2 2 0 0 1-2 2H8a2 2 0 0 1-2-2zM15 9h3a2 2 0 0 1 2 2v3a2 2 0 0 1-2 2h-3M9 10v7M12 10v7',
   wallet: 'M3 7h16a2 2 0 0 1 2 2v9a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2zM3 7V5a2 2 0 0 1 2-2h11v4M16 14h.01',
+  folder: 'M3 7a2 2 0 0 1 2-2h4l2 2h8a2 2 0 0 1 2 2v9a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2zM3 11h18',
+  file: 'M7 3h7l5 5v13H7zM14 3v5h5M10 13h4M10 17h4',
+  plus: 'M12 5v14M5 12h14',
+  trash: 'M4 7h16M9 7V4h6v3M6 7l1 13h10l1-13M10 11v6M14 11v6',
+  chevron: 'M9 6l6 6-6 6',
+  upload: 'M12 16V5M7 10l5-5 5 5M4 20h16',
+  undo: 'M4 9h10a5 5 0 0 1 0 10H9M4 9l4-4M4 9l4 4',
   phone: 'M8 3h8a1 1 0 0 1 1 1v16a1 1 0 0 1-1 1H8a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1zM11 18h2',
   umbrella: 'M3 12a9 9 0 0 1 18 0zM12 3v1M12 12v6a2 2 0 0 0 4 0',
 };
