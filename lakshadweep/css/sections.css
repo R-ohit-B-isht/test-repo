@@ -68,6 +68,9 @@
 .route-card .name .badge { font-size: 10px; }
 .route-card .price { font: 600 1.25rem/1 var(--font-display); text-align: right; white-space: nowrap; }
 .route-card .price small { display: block; font: 500 11px/1.4 var(--font-ui); color: var(--fg-3); margin-top: 4px; }
+.route-card .price .delta { font-family: var(--font-mono); font-variant-numeric: tabular-nums; }
+.route-card .price .delta.is-low { color: var(--jade); }
+.route-card .blurb { grid-column: 2 / -1; font-size: var(--fs-1); color: var(--fg-3); line-height: 1.4; text-wrap: pretty; }
 .route-card .sub { grid-column: 2 / -1; display: flex; flex-wrap: wrap; align-items: center; gap: var(--s-2) var(--s-3); font-size: var(--fs-1); color: var(--fg-2); }
 .route-card .sub .vs.is-good { color: var(--jade); font-weight: 600; }
 .route-card .sub .vs.is-over { color: var(--coral); font-weight: 600; }

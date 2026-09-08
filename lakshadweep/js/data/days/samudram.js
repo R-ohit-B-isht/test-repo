@@ -2,7 +2,7 @@
 // boat and sightseeing on that shore day are inside the package (scuba is not).
 export const SAMUDRAM_BLOCKS = {
   samudramBoard: {
-    icon: 'ship', place: 'Kochi → at sea', nav: 'Ship', photo: 'ship', base: 'sea', at: ['Kochi', 'Minicoy'],
+    icon: 'ship', place: 'Kochi → at sea', nav: 'Ship', photo: 'ship', base: 'sea', at: ['Kochi', 'Minicoy'], free: ['night'],
     title: 'Board M.V. Kavaratti',
     fixed: [{ ic: 'permit', t: 'SPORTS check-in at the wharf' }, { ic: 'ship', t: 'Cabin, meals, transfers: all in the package' }, { ic: 'sun', t: 'Sail at dusk' }],
     meals: { b: 'fortKochi', l: 'samudram', d: 'samudram' },
@@ -34,9 +34,9 @@ export const SAMUDRAM_BLOCKS = {
     spend: [],
   },
   samudramReturn: {
-    icon: 'ship', place: 'At sea → Kochi', nav: 'Kochi', photo: 'kochi', base: 'Kochi', at: 'Kochi',
+    icon: 'ship', place: 'At sea → Kochi', nav: 'Kochi', photo: 'kochi', base: 'Kochi', at: 'Kochi', cap: 2, free: ['pm', 'night'],
     title: 'Back to Willingdon Island',
-    fixed: [{ ic: 'ship', t: 'Dock by morning' }, { ic: 'bus', t: 'Bus to Fort Kochi' }, { ic: 'walk', t: 'Free afternoon in the old town' }],
+    fixed: [{ ic: 'ship', t: 'Dock by morning' }, { ic: 'bus', t: 'Bus to Fort Kochi' }],
     meals: { b: 'samudram', l: 'kayees', d: 'harbour' },
     stay: 'zostel',
     spend: [{ key: 'kochiBus' }],

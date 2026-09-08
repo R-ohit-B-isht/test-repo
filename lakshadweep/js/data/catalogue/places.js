@@ -28,7 +28,7 @@ export const ISLANDS = [
   },
   {
     id: 'kalpitti', name: 'Kalpitti Island', group: 'uninhabited', icon: 'walk', at: 'Kalpitti', bases: ['Agatti'],
-    reach: 'base', slots: 0, on: true, hint: 'Sandbank off Agatti’s south tip · low tide', source: 'wikiLakshadweep',
+    reach: 'base', slots: 0, on: true, when: 'pm', hint: 'Sandbank off Agatti’s south tip · low tide', source: 'wikiLakshadweep',
   },
   {
     id: 'cheriyam', name: 'Cheriyam Island', group: 'uninhabited', icon: 'island', at: 'Cheriyam', bases: ['Kalpeni'],
@@ -51,11 +51,11 @@ export const ISLANDS = [
 const mark = (id, name, at, icon, hint, extra = {}) => ({ id, name, group: 'landmark', icon, at, bases: [at], reach: 'base', slots: 0, on: true, hint, source: 'samudram', ...extra });
 
 export const LANDMARKS = [
-  mark('agattiBeach', 'Agatti Lagoon Beach', 'Agatti', 'sun', 'West shore · sunset side', { source: 'dreamtrip' }),
-  mark('ujra', 'Ujra Mosque', 'Kavaratti', 'mosque', 'Driftwood ceiling · dress modestly'),
-  mark('aquarium', 'Kavaratti Marine Aquarium', 'Kavaratti', 'aquarium', 'Near the jetty · small entry fee'),
-  mark('thundi', 'Thundi Beach', 'Minicoy', 'sun', 'Blue Flag beach · Minicoy’s lagoon side', { source: 'wikiLakshadweep' }),
-  mark('minicoyLight', 'Minicoy Lighthouse', 'Minicoy', 'light', '1885 · climb for the atoll view'),
+  mark('agattiBeach', 'Agatti Lagoon Beach', 'Agatti', 'sun', 'West shore · sunset side', { source: 'dreamtrip', when: 'pm' }),
+  mark('ujra', 'Ujra Mosque', 'Kavaratti', 'mosque', 'Driftwood ceiling · dress modestly', { when: 'am' }),
+  mark('aquarium', 'Kavaratti Marine Aquarium', 'Kavaratti', 'aquarium', 'Near the jetty · small entry fee', { when: 'pm' }),
+  mark('thundi', 'Thundi Beach', 'Minicoy', 'sun', 'Blue Flag beach · Minicoy’s lagoon side', { source: 'wikiLakshadweep', when: 'pm' }),
+  mark('minicoyLight', 'Minicoy Lighthouse', 'Minicoy', 'light', '1885 · climb for the atoll view', { when: 'am' }),
   {
     id: 'pittiReefs', name: 'Pitti Bird Sanctuary reefs', group: 'landmark', icon: 'snorkel', at: 'Pitti', bases: ['Kavaratti'],
     reach: 'nolanding', key: 'charter', pair: 'pitti', slots: 1, on: false, hint: 'Snorkel off the boat, same trip as Pitti', note: 'No landing on the sandbank', source: 'wikiLakshadweep',

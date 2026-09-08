@@ -56,6 +56,7 @@
 .tile__name small { font-weight: 400; color: var(--fg-2); font-size: var(--fs-1); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 .tile__price { font-size: var(--fs-1); font-weight: 600; color: var(--fg-2); white-space: nowrap; font-variant-numeric: tabular-nums; }
 .tile__price:empty { display: none; }
+.tile__price small { margin-left: 2px; font-size: 10px; font-weight: 500; color: var(--fg-3); }
 
 /* Reel chip in the toggle row's footer */
 .tile__reel { display: inline-flex; align-items: center; gap: 4px; margin: 0 var(--s-3) var(--s-3); padding: 0 10px; height: 26px; border: 0; border-radius: var(--r-pill); background: var(--rain-soft); color: var(--rain); font: 600 11px/1 var(--font-ui); cursor: pointer; justify-self: start; }

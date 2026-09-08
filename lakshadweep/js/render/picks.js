@@ -1,7 +1,7 @@
 // Section 03: the catalogue as photo tiles. Every item stays visible; the tile
 // shows where it lands (Day n), why it can't (off route…), its price and its
 // exact photos (swipe strip → lightbox). Filter chips narrow by kind / island.
-import { CATALOGUE, REACH, isExtra } from '../data/catalogue.js';
+import { CATALOGUE, REACH, WHEN, isExtra } from '../data/catalogue.js';
 import { PRICES } from '../data/prices.js';
 import { itemPhotos, photoSize } from '../data/photos.js';
 import { itemReels } from '../data/reels.js';
@@ -16,15 +16,24 @@ const KINDS = [
   { id: 'fun', name: 'Fun', ic: 'kayak', test: (c) => c.group === 'experience' && !isExtra(c) },
   { id: 'see', name: 'See', ic: 'camera', test: (c) => c.group === 'landmark' || (c.group === 'experience' && isExtra(c)) },
   { id: 'islands', name: 'Islands', ic: 'island', test: (c) => c.group === 'inhabited' || c.group === 'uninhabited' },
+  { id: 'stop', name: 'Kochi & ship', ic: 'boat', test: (c) => c.group === 'stopover' },
 ];
-const WHERE = ['Agatti', 'Kavaratti', 'Kalpeni', 'Minicoy'];
+const WHERE = [
+  { id: 'Agatti', name: 'Agatti' }, { id: 'Kavaratti', name: 'Kavaratti' }, { id: 'Kalpeni', name: 'Kalpeni' }, { id: 'Minicoy', name: 'Minicoy' },
+  { id: 'Kochi', name: 'Kochi' }, { id: 'sea', name: 'At sea' },
+];
+const count = (test) => CATALOGUE.filter(test).length;
 const filter = { kind: 'all', where: '' };
 
 function priceTag(item) {
   if (!item.key) return isExtra(item) ? 'free' : '';
   const p = PRICES[item.key];
-  return p.status === 'unavailable' ? 'quote locally' : fmt(p.amount);
+  if (p.status === 'unavailable') return 'quote locally';
+  return html`${fmt(p.amount)}<small>${unitShort(p.unit)}</small>`;
 }
+const unitShort = (unit) => (/^per person/.test(unit) ? 'pp' : (unit.match(/^per (\w+)/) || [])[1] || '');
+
+const hint = (item) => (item.when ? `${WHEN[item.when].short} · ${item.hint}` : item.hint);
 
 function media(item, photos) {
   if (!photos.length) return html`<span class="tile__none" title="No exact photo found">${raw(icon(item.icon))}<small>no exact photo</small></span>`;
@@ -50,14 +59,14 @@ function tile(item) {
       <div class="tile__media">${raw(media(item, photos))}<span class="tile__day" data-pick-tag></span></div>
       <button type="button" class="tile__toggle" data-pick="${item.id}" aria-pressed="false" title="${item.hint} · ${item.note || REACH[item.reach].hint}">
         <span class="tile__check" aria-hidden="true">${raw(icon('check'))}</span>
-        <span class="tile__name">${item.name}<small>${item.hint}</small></span>
-        <span class="tile__price">${priceTag(item)}</span>
+        <span class="tile__name">${item.name}<small>${hint(item)}</small></span>
+        <span class="tile__price">${raw(priceTag(item))}</span>
       </button>
       ${raw(reelChip(item))}
     </article>`;
 }
 
-const chip = (group, id, name, ic) => html`<button type="button" class="chip" data-filter="${group}" data-value="${id}" aria-pressed="false">${ic ? raw(icon(ic)) : ''}${name}</button>`;
+const chip = (group, id, name, ic, n) => html`<button type="button" class="chip" data-filter="${group}" data-value="${id}" aria-pressed="false">${ic ? raw(icon(ic)) : ''}${name}${n ? raw(html`<small>${n}</small>`) : ''}</button>`;
 
 function applyFilter() {
   const kind = KINDS.find((k) => k.id === filter.kind);
@@ -72,8 +81,8 @@ function applyFilter() {
 export function mountPicks(store) {
   $('#picks-grid').innerHTML = CATALOGUE.map(tile).join('');
   $('#picks-bar').innerHTML = html`
-    <div class="mode-chips" role="group" aria-label="Kind">${raw(KINDS.map((k) => chip('kind', k.id, k.name, k.ic)).join(''))}</div>
-    <div class="mode-chips" role="group" aria-label="Island">${raw([chip('where', '', 'Anywhere'), ...WHERE.map((w) => chip('where', w, w))].join(''))}</div>`;
+    <div class="mode-chips" role="group" aria-label="Kind">${raw(KINDS.map((k) => chip('kind', k.id, k.name, k.ic, k.test && count(k.test))).join(''))}</div>
+    <div class="mode-chips" role="group" aria-label="Where">${raw([chip('where', '', 'Anywhere'), ...WHERE.map((w) => chip('where', w.id, w.name, null, count((c) => c.bases.includes(w.id))))].join(''))}</div>`;
   applyFilter();
   $('#picks').addEventListener('click', (e) => {
     const f = e.target.closest('[data-filter]');

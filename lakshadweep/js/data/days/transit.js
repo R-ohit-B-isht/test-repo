@@ -1,13 +1,14 @@
 // Travel-day blocks: flights, train, ship crossings, Kochi nights.
 // fixed[]  logistics that always happen (icon + text); picks fill the rest of the day
-// base     island where picks can be scheduled ('sea' / 'rail' = none)
+// base     where picks can be scheduled ('sea' = deck extras only, 'rail' = none)
+// free     parts of the day open for timed picks: am / pm / night   cap → max slots
 // at       map anchor: a PLACES id, or [from, to] for the midpoint of a crossing
 // meals    b / l / d → EATS ids       stay → STAYS id       spend[] → PRICES ids
 export const TRANSIT_BLOCKS = {
   flyDelKochi: {
-    icon: 'plane', place: 'Delhi → Kochi', nav: 'Kochi', photo: 'kochi', base: 'Kochi', at: 'Kochi',
+    icon: 'plane', place: 'Delhi → Kochi', nav: 'Kochi', photo: 'kochi', base: 'Kochi', at: 'Kochi', cap: 3, free: ['pm', 'night'],
     title: 'Fly south',
-    fixed: [{ ic: 'plane', t: 'IndiGo 05:55 → 09:05' }, { ic: 'bus', t: 'KSRTC AC bus to Fort Kochi, ~1h45' }, { ic: 'sun', t: 'Chinese fishing nets at sunset' }],
+    fixed: [{ ic: 'plane', t: 'IndiGo 05:55 → 09:05' }, { ic: 'bus', t: 'KSRTC AC bus to Fort Kochi, ~1h45' }],
     meals: { b: 'delhi', l: 'kayees', d: 'harbour' },
     stay: 'zostel',
     spend: [{ key: 'delKochi', transport: true }, { key: 'kochiBus' }],
@@ -29,7 +30,7 @@ export const TRANSIT_BLOCKS = {
     spend: [],
   },
   trainOut3: {
-    icon: 'train', place: 'Rails → Kochi', nav: 'Kochi', photo: 'kochi', base: 'Kochi', at: 'Kochi',
+    icon: 'train', place: 'Rails → Kochi', nav: 'Kochi', photo: 'kochi', base: 'Kochi', at: 'Kochi', cap: 1, free: ['night'],
     title: 'Into Kerala by evening',
     fixed: [{ ic: 'train', t: 'Ernakulam Town ~18:00' }, { ic: 'bus', t: 'Bus to Fort Kochi' }],
     meals: { b: 'pantry', l: 'pantry', d: 'harbour' },
@@ -37,7 +38,7 @@ export const TRANSIT_BLOCKS = {
     spend: [{ key: 'kochiBus' }],
   },
   flyKochiAgatti: {
-    icon: 'plane', place: 'Kochi → Agatti', nav: 'Agatti', photo: 'agatti', base: 'Agatti', at: 'Agatti', cap: 2,
+    icon: 'plane', place: 'Kochi → Agatti', nav: 'Agatti', photo: 'agatti', base: 'Agatti', at: 'Agatti', cap: 2, free: ['pm', 'night'],
     title: 'Land on the atoll',
     fixed: [{ ic: 'bus', t: '07:00 bus to the airport' }, { ic: 'plane', t: 'COK → AGX ~1h15, permit checked twice' }],
     meals: { b: 'airport', l: 'homestay', d: 'cucumber' },
@@ -45,23 +46,23 @@ export const TRANSIT_BLOCKS = {
     spend: [{ key: 'kochiBus' }, { key: 'kochiAgattiAir', transport: true }],
   },
   sailKochiAgatti: {
-    icon: 'ship', place: 'Kochi → at sea', nav: 'Ship', photo: 'ship', base: 'sea', at: ['Kochi', 'Agatti'],
+    icon: 'ship', place: 'Kochi → at sea', nav: 'Ship', photo: 'ship', base: 'sea', at: ['Kochi', 'Agatti'], free: ['pm', 'night'],
     title: 'Board at Willingdon Island',
-    fixed: [{ ic: 'bus', t: 'Bus to the wharf, permits checked' }, { ic: 'ship', t: 'Sails afternoon · date set by the schedule' }, { ic: 'sun', t: 'Sunset from the aft deck' }],
+    fixed: [{ ic: 'bus', t: 'Bus to the wharf, permits checked' }, { ic: 'ship', t: 'Sails afternoon · date set by the schedule' }],
     meals: { b: 'fortKochi', l: 'shipCanteen', d: 'shipCanteen' },
     stay: 'ship',
     spend: [{ key: 'kochiBus' }, { key: 'shipOut', transport: true }],
   },
   sailArriveAgatti: {
-    icon: 'wave', place: 'At sea → Agatti', nav: 'Agatti', photo: 'agatti', base: 'Agatti', at: 'Agatti', cap: 2,
+    icon: 'wave', place: 'At sea → Agatti', nav: 'Agatti', photo: 'agatti', base: 'Agatti', at: 'Agatti', cap: 2, free: ['pm', 'night'],
     title: 'Wake up in the lagoon',
-    fixed: [{ ic: 'wave', t: 'Dolphins off the bow, with luck' }, { ic: 'boat', t: 'Tender to the jetty; host meets you' }],
+    fixed: [{ ic: 'boat', t: 'Tender to the jetty; host meets you' }],
     meals: { b: 'shipCanteen', l: 'homestay', d: 'cucumber' },
     stay: 'agattiHome',
     spend: [],
   },
   sailKavarattiKochi: {
-    icon: 'ship', place: 'Kavaratti → at sea', nav: 'Ship', photo: 'ship', base: 'sea', at: ['Kavaratti', 'Kochi'],
+    icon: 'ship', place: 'Kavaratti → at sea', nav: 'Ship', photo: 'ship', base: 'sea', at: ['Kavaratti', 'Kochi'], free: ['pm', 'night'],
     title: 'Board at dusk',
     fixed: [{ ic: 'sun', t: 'Last swim; homestay holds the bags' }, { ic: 'ship', t: '~17 h crossing · shawl + seasickness tablets' }],
     meals: { b: 'homestay', l: 'kavarattiHotel', d: 'shipCanteen' },
@@ -69,7 +70,7 @@ export const TRANSIT_BLOCKS = {
     spend: [{ key: 'shipBack', transport: true }],
   },
   atSeaKochi: {
-    icon: 'wave', place: 'At sea → Kochi', nav: 'Kochi', photo: 'kochi', base: 'Kochi', at: 'Kochi',
+    icon: 'wave', place: 'At sea → Kochi', nav: 'Kochi', photo: 'kochi', base: 'sea', at: 'Kochi', free: ['am', 'pm'],
     title: 'A day of blue',
     fixed: [{ ic: 'wave', t: 'Open sea until evening' }, { ic: 'bus', t: 'Dock at Willingdon Island, bus to Fort Kochi' }],
     meals: { b: 'shipCanteen', l: 'shipCanteen', d: 'harbour' },
@@ -77,17 +78,17 @@ export const TRANSIT_BLOCKS = {
     spend: [{ key: 'kochiBus' }],
   },
   flyAgattiKochi: {
-    icon: 'plane', place: 'Agatti → Kochi', nav: 'Kochi', photo: 'agatti', base: 'Kochi', at: 'Kochi',
+    icon: 'plane', place: 'Agatti → Kochi', nav: 'Kochi', photo: 'agatti', base: 'Kochi', at: 'Kochi', cap: 3, free: ['pm', 'night'],
     title: 'Atoll from the window seat',
-    fixed: [{ ic: 'plane', t: 'FLY91 IC 3101 09:50 → 11:10' }, { ic: 'bus', t: 'Bus to Fort Kochi' }, { ic: 'walk', t: 'Mattancherry: palace, synagogue, spice streets' }],
+    fixed: [{ ic: 'plane', t: 'FLY91 IC 3101 09:50 → 11:10' }, { ic: 'bus', t: 'Bus to Fort Kochi' }],
     meals: { b: 'homestay', l: 'kayees', d: 'harbour' },
     stay: 'zostel',
     spend: [{ key: 'agattiKochiAir', transport: true }, { key: 'kochiBus' }],
   },
   flyKochiDel: {
-    icon: 'plane', place: 'Kochi → Delhi', nav: 'Delhi', base: 'Kochi', at: 'Delhi',
+    icon: 'plane', place: 'Kochi → Delhi', nav: 'Delhi', base: 'Kochi', at: 'Delhi', cap: 1, free: ['am'],
     title: 'Home by night',
-    fixed: [{ ic: 'walk', t: 'Morning in Mattancherry' }, { ic: 'bus', t: '10:50 bus to the airport' }, { ic: 'plane', t: 'COK → DEL afternoon flight' }],
+    fixed: [{ ic: 'bus', t: '10:50 bus to the airport' }, { ic: 'plane', t: 'COK → DEL afternoon flight' }],
     meals: { b: 'fortKochi', l: 'airport', d: 'delhi' },
     stay: 'home',
     spend: [{ key: 'kochiBus' }, { key: 'kochiDel', transport: true }],

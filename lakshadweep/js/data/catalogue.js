@@ -2,8 +2,9 @@
 // The plan groups picked items onto nearby days automatically (see ../grouping.js).
 import { ISLANDS, LANDMARKS } from './catalogue/places.js';
 import { EXPERIENCES } from './catalogue/experiences.js';
+import { STOPOVER } from './catalogue/stopover.js';
 
-export const CATALOGUE = [...ISLANDS, ...LANDMARKS, ...EXPERIENCES];
+export const CATALOGUE = [...ISLANDS, ...LANDMARKS, ...EXPERIENCES, ...STOPOVER];
 export const CATALOGUE_BY_ID = Object.fromEntries(CATALOGUE.map((c) => [c.id, c]));
 
 export const CATALOGUE_GROUPS = [
@@ -11,7 +12,15 @@ export const CATALOGUE_GROUPS = [
   { id: 'uninhabited', name: 'Uninhabited islands & atolls', hint: 'Boat trips from a base island' },
   { id: 'landmark', name: 'Landmarks', hint: 'Free, on foot · ride along, don’t fill the day' },
   { id: 'experience', name: 'Experiences', hint: 'Paid unless noted' },
+  { id: 'stopover', name: 'Kochi & the crossing', hint: 'The mainland stopover and the nights at sea' },
 ];
+
+// Time-of-day hint for the day timeline. Items without `when` fall in by order.
+export const WHEN = {
+  am: { label: 'Morning', short: 'AM' },
+  pm: { label: 'Afternoon', short: 'PM' },
+  night: { label: 'Evening', short: 'EVE' },
+};
 
 export const REACH = {
   base: { label: 'on foot', hint: 'On the island you sleep on' },

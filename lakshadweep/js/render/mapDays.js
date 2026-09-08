@@ -51,7 +51,7 @@ function pill(a) {
   const label = rangeLabel(a.ns);
   const w = label.length * 4.6 + 8;
   const x = Math.min(Math.max(pt.x, w / 2 + 2), W - w / 2 - 2);
-  const icons = [...new Set(a.picks.filter((p) => !isExtra(p)).map((p) => p.icon))].slice(0, ICON_MAX);
+  const icons = [...new Set(a.picks.filter((p) => !isExtra(p) && p.group !== 'stopover').map((p) => p.icon))].slice(0, ICON_MAX);
   const row = icons.map((ic, i) => `<use href="#i-${ic}" x="${pt.x - (icons.length * 9) / 2 + i * 9}" y="${pt.y + 7}" width="8" height="8"/>`).join('');
   return `<g class="map__day" role="button" tabindex="0" data-daysheet="${a.ns[0]}" aria-label="Open day ${label.slice(1)} at ${esc(where(a.at))}">
     <rect x="${x - w / 2}" y="${pt.y - 20}" width="${w}" height="12" rx="6"/>

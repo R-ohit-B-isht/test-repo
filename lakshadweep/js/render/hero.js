@@ -68,7 +68,9 @@ export function renderHero(state) {
   total.dataset.prev = String(prev ?? b.perPerson);
   animateNumber(total, b.perPerson, fmt);
   prev = b.perPerson;
-  $('[data-hero-sub]', calc).textContent = `${plan.length} days · beds, meals, permit, every ticket`;
+  $('[data-hero-sub]', calc).textContent = b.extras
+    ? `${plan.length} days · every ticket, bed, meal, permit · ${fmtK(b.extras)} of fun you can untick`
+    : `${plan.length} days · every ticket, bed, meal, permit`;
   $('[data-hero-group]', calc).textContent = `· ${fmt(b.group)} for ${state.travellers}`;
   $('[data-hero-n]', calc).textContent = state.travellers;
   $('[data-step="-1"]', calc).disabled = state.travellers <= 1;

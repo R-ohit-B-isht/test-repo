@@ -3,9 +3,10 @@
 import { TRIP_PHOTOS } from './photos/trip.js';
 import { ITEM_PHOTO_RECORDS } from './photos/items.js';
 import { WEB_PHOTO_RECORDS, WEB_ITEM_PHOTOS } from './photos/web.js';
+import { KOCHI_PHOTO_RECORDS, KOCHI_ITEM_PHOTOS } from './photos/kochi.js';
 
 // Web records last so a same-id trip shot (kochi, ship) is replaced by the stronger one.
-export const PHOTOS = { ...TRIP_PHOTOS, ...ITEM_PHOTO_RECORDS, ...WEB_PHOTO_RECORDS };
+export const PHOTOS = { ...TRIP_PHOTOS, ...ITEM_PHOTO_RECORDS, ...KOCHI_PHOTO_RECORDS, ...WEB_PHOTO_RECORDS };
 
 // Catalogue item id → photo ids. Only photos whose source names the exact island /
 // landmark / activity are listed; items with no such photo are absent.
@@ -27,6 +28,8 @@ const COMMONS_ITEM_PHOTOS = {
   snorkel: ['snorkel_1', 'snorkel_2', 'snorkel_3'],
   fishing: ['fishing_1', 'fishing_2'],
   glassBottom: ['glassBottom_1'],
+  jetSki: ['bangaram_w1'],
+  ...KOCHI_ITEM_PHOTOS,
 };
 
 // Web shots lead (they're the exciting ones), Commons set follows.

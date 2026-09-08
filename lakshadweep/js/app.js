@@ -25,7 +25,7 @@ $('#sprite').innerHTML = iconSprite();
 mountOverlays();
 mountHero(store);
 mountRoute(store);
-mountItinerary();
+mountItinerary(store);
 mountPicks(store);
 mountBudget(store);
 mountChecklist(store);

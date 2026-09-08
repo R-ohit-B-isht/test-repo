@@ -2,7 +2,7 @@
 // priced from the same data the ledger uses) and the traveller's current plan.
 // Nothing here is a fare source: prices are quoted so the model can reason,
 // and the ledger recomputes everything after an edit.
-import { CATALOGUE, REACH, isExtra } from '../data/catalogue.js';
+import { CATALOGUE, REACH, WHEN, isExtra } from '../data/catalogue.js';
 import { PRICES } from '../data/prices.js';
 import { STRATEGIES, SHIP_CLASSES, TRAIN_CLASSES } from '../strategies.js';
 import { BLOCKS } from '../data/days.js';
@@ -16,11 +16,12 @@ const priceOf = (item) => {
   return p.status === 'unavailable' ? 'price unknown' : `₹${p.amount}`;
 };
 
-const basesOf = (s) => [...new Set(s.days.map((d) => BLOCKS[d].base).filter((b) => /^[A-Z]/.test(b) && b !== 'Kochi'))];
+const BASE_NAME = { sea: 'aboard ship', rail: 'on the train' };
+const basesOf = (s) => [...new Set(s.days.map((d) => BASE_NAME[BLOCKS[d].base] || BLOCKS[d].base))];
 
 function catalogueLines() {
   return CATALOGUE.map((c) =>
-    `${c.id} | ${c.name} | ${c.group} | ${isExtra(c) ? 'extra (walk/look-in, not counted)' : `major (${c.slots}/4 of a day)`} | ${REACH[c.reach].label}${c.bases.length ? ` · base ${c.bases.join('/')}` : ''} | ${priceOf(c)}`,
+    `${c.id} | ${c.name} | ${c.group} | ${isExtra(c) ? 'extra (walk/look-in, not counted)' : `major (${c.slots}/4 of a day)`} | ${REACH[c.reach].label}${c.bases.length ? ` · base ${c.bases.join('/')}` : ''}${c.when ? ` · ${WHEN[c.when].label.toLowerCase()} only` : ''} | ${priceOf(c)}`,
   ).join('\n');
 }
 

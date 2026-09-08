@@ -17,15 +17,18 @@ const vs = (transport) => {
     : html`<span class="vs is-over">${fmtK(-diff)} over the ₹40k ticket</span>`;
 };
 
-function card(row, max, badge, checked) {
+const delta = (row, low) => (row.perPerson - low > 0 ? html`<small class="delta">+${fmtK(row.perPerson - low)}</small>` : html`<small class="delta is-low">lowest</small>`);
+
+function card(row, max, low, badge, checked) {
   const { strategy: s, plan } = row;
   return html`
     <button type="button" class="route-card" role="radio" data-id="${s.id}" aria-checked="${checked}" tabindex="${checked ? 0 : -1}">
       <span class="radio" aria-hidden="true"></span>
-      <span class="name">${s.name}${badge ? raw(html`<span class="badge badge-jade">${badge}</span>`) : ''}</span>
-      <span class="price">${fmt(row.essentials)}<small>all-in / person</small></span>
+      <span class="name">${s.name}<span class="badge ${badge ? 'badge-jade' : ''}">${badge || s.badge}</span></span>
+      <span class="price">${fmt(row.perPerson)}${raw(delta(row, low))}</span>
       <span class="sub"><span class="mode-chips">${raw(plan.legs.map((l) => icon(l.icon)).join(''))}</span><span>${plan.length} days · ${plan.islandNights} island nights</span>${raw(vs(row.transport))}</span>
-      <span class="bar" aria-hidden="true"><i style="width:${Math.round((row.essentials / max) * 100)}%"></i></span>
+      <span class="blurb">${s.blurb}</span>
+      <span class="bar" aria-hidden="true"><i style="width:${Math.round((row.perPerson / max) * 100)}%"></i></span>
     </button>`;
 }
 
@@ -67,14 +70,14 @@ let mapKey = '';
 
 export function renderRoute(state) {
   const rows = compareStrategies(state);
-  const best = cheapest(rows);
-  const bestTen = cheapest(rows.filter((r) => r.plan.length === 10));
-  const max = Math.max(...rows.map((r) => r.essentials));
-  const key = rows.map((r) => r.essentials).join(',');
+  const best = cheapest(rows, 'perPerson');
+  const bestTen = cheapest(rows.filter((r) => r.plan.length === 10), 'perPerson');
+  const max = Math.max(...rows.map((r) => r.perPerson));
+  const key = rows.map((r) => r.perPerson).join(',');
   if (key !== cardsKey) {
     cardsKey = key;
     const badgeFor = (r) => (r === best ? 'Cheapest' : r === bestTen ? 'Cheapest 10 days' : '');
-    $('#strategy-picker').innerHTML = rows.map((r) => card(r, max, badgeFor(r), r.strategy.id === state.strategy)).join('');
+    $('#strategy-picker').innerHTML = rows.map((r) => card(r, max, best.perPerson, badgeFor(r), r.strategy.id === state.strategy)).join('');
   }
   syncChecked($('#strategy-picker'), state.strategy);
 

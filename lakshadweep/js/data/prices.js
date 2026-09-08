@@ -3,9 +3,10 @@
 // id → { label, short, amount, status, date?, fares?, unit, range, source }
 import { TRANSPORT_PRICES } from './prices/transport.js';
 import { GROUND_PRICES } from './prices/ground.js';
+import { FUN_PRICES } from './prices/fun.js';
 
 export const PRICES = Object.fromEntries(
-  Object.entries({ ...TRANSPORT_PRICES, ...GROUND_PRICES }).map(([id, p]) => [id, { ...p, id }]),
+  Object.entries({ ...TRANSPORT_PRICES, ...GROUND_PRICES, ...FUN_PRICES }).map(([id, p]) => [id, { ...p, id }]),
 );
 
 export const FARE_STATUS = {

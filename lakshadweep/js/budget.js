@@ -19,7 +19,7 @@ export const BUCKETS = [
   { id: 'stay', label: 'Beds', icon: 'home', essential: true },
   { id: 'food', label: 'Meals, 3 a day', icon: 'meal', essential: true },
   { id: 'local', label: 'Buses & permit', icon: 'permit', essential: true },
-  { id: 'extras', label: 'Boats & water sports', icon: 'snorkel', essential: false },
+  { id: 'extras', label: 'Fun: boats, water sports, shows', icon: 'snorkel', essential: false },
 ];
 
 // Per-person cost of one spend item for the given party.
