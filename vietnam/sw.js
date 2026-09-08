@@ -1,7 +1,7 @@
 /* Service worker: the whole planner (pages, code, day heroes) is precached so the
    saved plan opens with no data. Photos from Wikimedia/Flickr and the Google fonts
    are cached as they are seen. Gemini, YouTube and booking sites are never cached. */
-const VERSION = 'v4';
+const VERSION = 'v5';
 const SHELL = `shell-${VERSION}`;
 const MEDIA = `media-${VERSION}`;
 const MEDIA_MAX = 240;

@@ -51,6 +51,40 @@ const current = (p, here) => (p.id === here ? 'page' : 'false');
 const navLink = (p, here) => html`<a href="${p.href}" aria-current="${current(p, here)}">${p.label}</a>`;
 const tabLink = (p, here) => html`<a href="${p.href}" aria-current="${current(p, here)}">${icon(p.icon)}<span>${p.label}</span></a>`;
 
+// Phone tab bar: the four `tab` pages plus a More tab. When you are on one of
+// the other pages the More tab wears that page's icon and label so the bar
+// still tells you where you are.
+const moreTab = (rest, here) => {
+  const on = rest.find((p) => p.id === here);
+  return html`<button type="button" id="more-btn" aria-current="${on ? 'page' : 'false'}" aria-haspopup="dialog" aria-controls="more" aria-expanded="false">${icon(on ? on.icon : 'dots')}<span>${on ? on.label : 'More'}</span></button>`;
+};
+
+const moreSheet = (pages, here) => html`
+  <div class="overlay sheet more" id="more" data-open="false" role="dialog" aria-modal="true" aria-labelledby="more-title" aria-hidden="true">
+    <div class="card">
+      <div class="card-head"><h3 class="h3" id="more-title">All pages</h3><button class="btn-icon" type="button" data-close aria-label="Close">×</button></div>
+      <nav class="more-grid" aria-label="All pages">
+        ${pages.map((p) => html`<a href="${p.href}" aria-current="${current(p, here)}">${icon(p.icon)}<b>${p.label}</b><span class="eyebrow">${p.n}</span></a>`)}
+      </nav>
+    </div>
+  </div>`;
+
+const mountMore = () => {
+  const btn = $('#more-btn');
+  const root = $('#more');
+  if (!btn || !root) return;
+  const set = (open) => {
+    root.dataset.open = String(open);
+    root.setAttribute('aria-hidden', String(!open));
+    btn.setAttribute('aria-expanded', String(open));
+    if (open) ($('[aria-current="page"]', root) || $('[data-close]', root)).focus();
+    else btn.focus();
+  };
+  btn.addEventListener('click', () => set(root.dataset.open !== 'true'));
+  root.addEventListener('click', (e) => { if (e.target === root || e.target.closest('[data-close]')) set(false); });
+  addEventListener('keydown', (e) => { if (e.key === 'Escape' && root.dataset.open === 'true') set(false); });
+};
+
 const pagerLink = (p, dir) => (p ? html`
   <a class="pager-link is-${dir}" href="${p.href}">
     <span class="eyebrow">${dir === 'next' ? 'Next' : 'Back'} · ${p.n}</span>
@@ -69,10 +103,14 @@ export function mountShell() {
   const nav = PAGES.filter((p) => !p.quiet);
   $('#topbar').innerHTML = html`${BRAND}<nav class="topnav" aria-label="Pages">${nav.map((p) => navLink(p, here))}</nav>${ACTIONS}`;
   const tabs = $('#tabbar');
-  if (tabs) tabs.innerHTML = html`${nav.map((p) => tabLink(p, here))}`;
+  if (tabs) {
+    const rest = PAGES.filter((p) => !p.tab);
+    tabs.innerHTML = html`${nav.filter((p) => p.tab).map((p) => tabLink(p, here))}${moreTab(rest, here)}`;
+  }
   const { prev, next } = neighbours(here);
   const pager = $('#pager');
   if (pager) pager.innerHTML = html`${pagerLink(prev, 'prev')}${pagerLink(next, 'next')}`;
-  if (!$('#help')) document.body.insertAdjacentHTML('beforeend', OVERLAYS);
+  if (!$('#help')) document.body.insertAdjacentHTML('beforeend', OVERLAYS + moreSheet(PAGES, here));
+  mountMore();
   return { here, prev, next };
 }
