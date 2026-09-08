@@ -68,7 +68,6 @@
 .day__near { list-style: none; margin: 0; display: flex; flex-wrap: wrap; gap: 6px; align-items: center; }
 .day__near:empty { display: none; }
 .near-label { font: 500 10px/1 var(--font-mono); letter-spacing: 0.06em; text-transform: uppercase; color: var(--fg-3); }
-.near-label--add { color: var(--coral); }
 .near { display: inline-flex; align-items: center; gap: 4px; height: 26px; padding: 0 8px; border-radius: var(--r-pill); background: var(--jade-soft); color: var(--jade); font: 500 var(--fs-1)/1 var(--font-ui); white-space: nowrap; }
 .near .ic { width: 13px; height: 13px; }
 .near--add { border: 1px dashed var(--line); background: transparent; color: var(--fg-2); cursor: pointer; transition: border-color var(--t-fast) var(--ease-out), color var(--t-fast) var(--ease-out), background-color var(--t-fast) var(--ease-out), transform var(--t-fast) var(--ease-out); }

@@ -44,5 +44,5 @@ export function nearby(day, picks) {
   const extras = day.picks.filter(isExtra);
   const more = openings(day, picks);
   if (!extras.length && !more.length) return '';
-  return html`${extras.length ? raw(html`<li class="near-label">Nearby</li>`) : ''}${raw(extras.map(nearChip).join(''))}${more.length ? raw(html`<li class="near-label near-label--add">Add</li>`) : ''}${raw(more.map(addChip).join(''))}`;
+  return html`${extras.length ? raw(html`<li class="near-label">Nearby</li>`) : ''}${raw(extras.map(nearChip).join(''))}${raw(more.map(addChip).join(''))}`;
 }
