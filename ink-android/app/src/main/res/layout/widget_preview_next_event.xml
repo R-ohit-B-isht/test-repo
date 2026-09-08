@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/widget_preview_bg"
+    android:gravity="center"
+    android:padding="16dp"
+    android:text="@string/widget_next_event_label"
+    android:textColor="@color/ink_navy"
+    android:textSize="14sp"
+    android:textStyle="bold" />
