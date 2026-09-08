@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ink</string>
+
+    <string name="widget_calendar_label">Ink · Calendar</string>
+    <string name="widget_tasks_label">Ink · Tasks</string>
+    <string name="widget_next_event_label">Ink · Next event</string>
+    <string name="widget_calendar_description">Month grid with today highlighted and your events.</string>
+    <string name="widget_tasks_description">Your open tasks, most urgent first.</string>
+    <string name="widget_next_event_description">Countdown to what is coming up next.</string>
+
+    <string name="notification_channel_reminders">Event reminders</string>
+    <string name="notification_channel_live">Live schedule</string>
+    <string name="notification_channel_live_description">Persistent, glanceable card with your next events (Android equivalent of Live Activities).</string>
+</resources>
