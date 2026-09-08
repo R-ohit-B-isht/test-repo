@@ -64,6 +64,23 @@ export function createStore() {
     setEvent(id, patch) {
       this.set((s) => ({ events: s.events.map((e) => (e.id === id ? { ...e, ...patch } : e)) }));
     },
+    // Split ledger: people and expenses. Same rule — nothing is ever spliced
+    // out, removal sets `deleted` so the row can come back with one tap.
+    addPerson(p) {
+      this.set((s) => ({ people: [...s.people, p], me: s.me || (p.me ? p.id : null) }));
+    },
+    setPerson(id, patch) {
+      this.set((s) => ({ people: s.people.map((p) => (p.id === id ? { ...p, ...patch } : p)) }));
+    },
+    setMe(id) {
+      this.set((s) => ({ me: id, people: s.people.map((p) => ({ ...p, me: p.id === id })) }));
+    },
+    addExpense(x) {
+      this.set((s) => ({ expenses: [...s.expenses, x] }));
+    },
+    setExpense(id, patch) {
+      this.set((s) => ({ expenses: s.expenses.map((x) => (x.id === id ? { ...x, ...patch, updated: Date.now() } : x)) }));
+    },
     reset() {
       state = structuredClone(DEFAULT_STATE);
       emit();

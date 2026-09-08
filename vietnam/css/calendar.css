@@ -94,6 +94,7 @@
 .ev-deadline { --ev: color-mix(in srgb, var(--lantern) 70%, var(--fg)); --ev-soft: color-mix(in srgb, var(--lantern) 14%, var(--card)); }
 .ev-doc { --ev: var(--rain); --ev-soft: var(--rain-soft); }
 .ev-custom { --ev: var(--indigo); --ev-soft: color-mix(in srgb, var(--indigo) 12%, var(--card)); }
+.ev-spend { --ev: var(--jade); --ev-soft: var(--jade-soft); }
 .cal-legend .evc.is-tag { background: var(--card); }
 
 /* ---- Week: 7 columns, all-day strip, hour grid ------------------------- */

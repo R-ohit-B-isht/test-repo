@@ -10,6 +10,7 @@ import { mountChecklist, renderChecklist } from './render/checklist.js';
 import { mountCalendar, renderCalendar } from './render/calendar.js';
 import { mountSheet, renderSheet } from './render/sheet.js';
 import { mountManager, renderManager } from './render/manager.js';
+import { mountSplit, renderSplit } from './render/split.js';
 import { mountExport, renderExport } from './render/export.js';
 import { mountBrain } from './render/brain.js';
 import { mountReel } from './render/reel.js';
@@ -34,6 +35,7 @@ const PAGE = {
   calendar: [[mountCalendar, renderCalendar], [mountSheet, renderSheet]],
   book: [[mountChecklist, renderChecklist], [mountExport, renderExport]],
   manager: [[mountManager, renderManager]],
+  split: [[mountSplit, renderSplit]],
   sources: [[renderSources, null]],
 };
 

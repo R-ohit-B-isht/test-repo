@@ -7,6 +7,8 @@ import { planTrip } from './plan.js';
 import { timelineFor } from './timeline.js';
 import { slotsFor, recordOf, liveFiles } from './vault/slots.js';
 import { addDays, toMins } from './export/dates.js';
+import { totals } from './split/math.js';
+import { liveExpenses, personOf } from './split/model.js';
 
 // One flat list of everything the calendar, the ICS file and Google Calendar
 // need: trip days, fixed legs, picks and meals from the day timelines, the
@@ -15,7 +17,9 @@ import { addDays, toMins } from './export/dates.js';
 // Delhi departure (`tz: 'in'`); `start == null` means all day.
 //
 //   { id, kind, iso, start, end, tz, title, sub, icon, dayN, slot, x, meal, done }
-//   kind: 'day' | 'flight' | 'ground' | 'do' | 'eat' | 'deadline' | 'doc' | 'custom'
+//   kind: 'day' | 'flight' | 'ground' | 'do' | 'eat' | 'deadline' | 'doc' | 'custom' | 'spend'
+// 'spend' is one all-day row per date with money in the Split ledger; it stays
+// in-app (not in the .ics or Google sync), so the amounts never leave the browser.
 
 export const KINDS = {
   day: { label: 'Trip day', icon: 'sun' },
@@ -26,7 +30,10 @@ export const KINDS = {
   deadline: { label: 'Book by', icon: 'clock' },
   doc: { label: 'Document', icon: 'file' },
   custom: { label: 'Yours', icon: 'star' },
+  spend: { label: 'Spent', icon: 'wallet' },
 };
+
+export const LOCAL_KINDS = new Set(['spend']);
 
 const stopName = (id) => STOPS.find((s) => s.id === id)?.name || id;
 const ev = (fields) => ({ start: null, end: null, tz: 'vn', sub: '', ...fields });
@@ -85,6 +92,18 @@ const custom = (state) => state.events.filter((e) => !e.deleted).map((e) => ev({
   title: e.title, sub: e.note || '', where: e.where || '', own: e,
 }));
 
+const spends = (state) => {
+  const t = totals(state);
+  return Object.entries(t.byDay).map(([iso, sum]) => {
+    const rows = liveExpenses(state).filter((x) => x.iso === iso && x.kind === 'spend');
+    const paid = {};
+    rows.forEach((x) => { paid[x.by] = (paid[x.by] || 0) + x.inr; });
+    const top = Object.entries(paid).sort((a, b) => b[1] - a[1])[0];
+    const who = top ? personOf(state, top[0])?.name : null;
+    return ev({ id: `spend-${iso}`, kind: 'spend', iso, icon: 'wallet', title: `Spent ₹${sum.toLocaleString('en-IN')}`, sub: `${rows.length} row${rows.length > 1 ? 's' : ''}${who ? ` · ${who} paid most` : ''}` });
+  });
+};
+
 const order = (a, b) => a.iso.localeCompare(b.iso) || (a.start ?? -1) - (b.start ?? -1) || a.kind.localeCompare(b.kind);
 
 export function eventsFor(state) {
@@ -92,7 +111,7 @@ export function eventsFor(state) {
   const plan = planTrip(state, transit);
   const steps = stepsFor(state.strategy);
   const rows = DAYS.flatMap((day) => rowEvents(day, timelineFor(day, plan.days[day.n - 1], transit).rows, steps));
-  return [...flyOut(state, steps), ...dayEvents(transit), ...rows, ...deadlines(state, steps), ...docs(state), ...custom(state)].sort(order);
+  return [...flyOut(state, steps), ...dayEvents(transit), ...rows, ...deadlines(state, steps), ...docs(state), ...custom(state), ...spends(state)].sort(order);
 }
 
 export const onDate = (events, iso) => events.filter((e) => e.iso === iso);

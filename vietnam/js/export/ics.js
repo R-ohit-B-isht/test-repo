@@ -1,5 +1,5 @@
 import { TRIP } from '../data/trip.js';
-import { eventsFor } from '../events.js';
+import { eventsFor, LOCAL_KINDS } from '../events.js';
 import { TZ, TZ_HOME, addDays, icsStamp, icsDate } from './dates.js';
 
 // iCalendar export of the plan you are looking at — the same event list the
@@ -38,8 +38,9 @@ const vevent = (e) => [
   'END:VEVENT',
 ];
 
-// Ticked-off deadlines stay out of the file: they are done.
-export const exportable = (events) => events.filter((e) => !(e.kind === 'deadline' && e.done));
+// Ticked-off deadlines stay out of the file (they are done), and so do the
+// Split ledger's spend rows: money stays in the browser.
+export const exportable = (events) => events.filter((e) => !LOCAL_KINDS.has(e.kind) && !(e.kind === 'deadline' && e.done));
 
 export function buildICS(state, events = exportable(eventsFor(state))) {
   return [

@@ -4,6 +4,7 @@ import { STRATEGIES } from './strategies.js';
 import { computeBudget } from './budget.js';
 import { CHECKLIST } from './data/checklist.js';
 import { ACTIVITIES, DEFAULT_PICKS } from './data/activities.js';
+import { isoOf } from './data/trip.js';
 
 // Developer bar (Command pattern: each button is a named action on the store).
 // Opens with ?dev=1, localStorage.IS_DEV='true', or the D key.
@@ -19,6 +20,28 @@ export function mountDev(store) {
   let open = IS_DEV;
   const allChecks = (on) => Object.fromEntries(CHECKLIST.map((c) => [c.id, on]));
 
+  // Dev-only Split ledger so the page can be exercised without typing: three
+  // people named as test rows, one row per trip day, all currency / split modes.
+  const devLedger = () => {
+    const now = Date.now();
+    const ids = ['p-dev-me', 'p-dev-a', 'p-dev-b'];
+    const people = [['Test me', 20, true], ['Test A', 140, false], ['Test B', 260, false]]
+      .map(([name, hue, me], i) => ({ id: ids[i], name, hue, me, created: now }));
+    const all = Object.fromEntries(ids.map((id) => [id, 1]));
+    const row = (n, title, cat, inr, by, split, extra = {}) => ({
+      id: `x-dev-${n}-${cat}`, kind: 'spend', iso: isoOf(n), title, cat, amount: inr, cur: 'INR', inr, by, split, note: '', receipt: null, created: now, updated: now, ...extra,
+    });
+    const expenses = [
+      row(1, 'Test hostel', 'stay', 2550, ids[0], { mode: 'equal', parts: all }),
+      row(1, 'Test dinner', 'food', 900, ids[1], { mode: 'equal', parts: all }),
+      row(2, 'Test tickets', 'fun', 3300, ids[2], { mode: 'shares', parts: { [ids[0]]: 2, [ids[1]]: 1, [ids[2]]: 1 } }),
+      row(3, 'Test Grab', 'ride', 415, ids[0], { mode: 'exact', parts: { [ids[0]]: 200, [ids[2]]: 215 } }),
+      { ...row(4, 'Test night out', 'night', 1087, ids[1], { mode: 'equal', parts: all }), amount: 300000, cur: 'VND' },
+      { ...row(5, 'Test paid back', 'other', 500, ids[2], { mode: 'equal', parts: {} }), kind: 'settle', to: ids[0] },
+    ];
+    return { me: ids[0], people, expenses };
+  };
+
   const ACTIONS = {
     'Cycle route': () => store.set((s) => ({ strategy: STRATEGIES[(STRATEGIES.findIndex((x) => x.id === s.strategy) + 1) % STRATEGIES.length].id })),
     'All picks': () => store.setPicks(Object.fromEntries(ACTIVITIES.map((x) => [x.id, true]))),
@@ -30,6 +53,8 @@ export function mountDev(store) {
     'Drop Gemini spots': () => store.set((s) => ({ custom: [], picks: Object.fromEntries(Object.entries(s.picks).filter(([k]) => !k.startsWith('ai-'))) })),
     'Tick all': () => store.set({ checklist: allChecks(true) }),
     'Untick all': () => store.set({ checklist: {} }),
+    'Split: test ledger': () => store.set(devLedger()),
+    'Split: clear': () => store.set({ me: null, people: [], expenses: [], rate: 0 }),
     'Dump budget': () => { $('pre', bar).hidden = !$('pre', bar).hidden; },
     Reset: () => store.reset(),
     ...Object.fromEntries(Object.entries(PRESETS).map(([k, v]) => [k, () => store.set(v)])),

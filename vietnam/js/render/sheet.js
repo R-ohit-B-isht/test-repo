@@ -59,7 +59,7 @@ const eventFace = (state, e) => html`
     ${e.dayN >= 1 ? html`<button class="btn" type="button" data-board="${e.dayN}">${icon('grid')}Open day board</button>` : ''}
     ${e.kind === 'deadline' ? html`<button class="btn" type="button" data-tick="${e.slot}">${icon(e.done ? 'undo' : 'check')}${e.done ? 'Not done yet' : 'Mark done'}</button>` : ''}
     ${e.kind === 'custom' ? html`<button class="btn" type="button" data-edit="${e.id}">${icon('sparkle')}Edit</button><button class="btn btn-ghost" type="button" data-remove="${e.id}">${icon('trash')}Remove</button>` : ''}
-    ${gcal(e)}
+    ${e.kind === 'spend' ? html`<a class="btn" href="split.html">${icon('wallet')}Open in Split</a>` : gcal(e)}
   </div>`;
 
 const dayFace = (state, iso) => {

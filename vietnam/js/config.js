@@ -20,6 +20,10 @@ export const DEFAULT_STATE = {
   vault: {},
   vaultCustom: [],
   events: [],
+  me: null,
+  people: [],
+  expenses: [],
+  rate: 0,
   theme: 'auto',
 };
 
@@ -38,3 +42,8 @@ export const GCAL_NAME = 'Vietnam · Oct 2026';
 // only their names and sizes live in state.
 export const VAULT_DB = 'vietnam-vault';
 export const VAULT_MAX_MB = 25;
+
+// Split ledger: whole rupees per entry; ₫ entries are converted with the rate
+// you set (0 = use the sourced mid-market rate from data/trip.js).
+export const SPLIT_MAX_INR = 5_000_000;
+export const SPLIT_MAX_PEOPLE = 12;
