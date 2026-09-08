@@ -26,6 +26,7 @@ data class EditorState(
     val draft: WallpaperConfig = WallpaperConfig(),
     val tab: EditorTab = EditorTab.BACKGROUND,
     val preview: Bitmap? = null,
+    val use24Hour: Boolean = false,
     val loaded: Boolean = false,
     val applying: Boolean = false,
     val message: String? = null,
@@ -52,7 +53,7 @@ class WallpaperEditorViewModel(private val container: AppContainer) : ViewModel(
                 val snapshot = container.buildSnapshot()
                 val use24h = container.settings.current().use24Hour
                 val bmp = withContext(Dispatchers.Default) { composer.compose(PREVIEW_W, PREVIEW_H, draft, snapshot, use24h) }
-                _state.update { it.copy(preview = bmp) }
+                _state.update { it.copy(preview = bmp, use24Hour = use24h) }
             }
         }
     }

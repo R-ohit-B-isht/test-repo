@@ -33,6 +33,7 @@ import androidx.compose.runtime.remember
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.clip
+import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.graphics.asImageBitmap
 import androidx.compose.ui.layout.ContentScale
 import androidx.compose.ui.unit.dp
@@ -68,6 +69,7 @@ fun WallpaperEditorScreen(container: AppContainer, onBack: () -> Unit) {
             ) {
                 state.preview?.let {
                     Image(it.asImageBitmap(), contentDescription = "Lock screen preview", contentScale = ContentScale.Crop, modifier = Modifier.fillMaxSize())
+                    LockScreenChrome(use24Hour = state.use24Hour, textColor = Color(state.draft.textArgb))
                 }
             }
             Spacer(Modifier.height(16.dp))
