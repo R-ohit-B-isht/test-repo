@@ -51,12 +51,11 @@ const current = (p, here) => (p.id === here ? 'page' : 'false');
 const navLink = (p, here) => html`<a href="${p.href}" aria-current="${current(p, here)}">${p.label}</a>`;
 const tabLink = (p, here) => html`<a href="${p.href}" aria-current="${current(p, here)}">${icon(p.icon)}<span>${p.label}</span></a>`;
 
-// Phone tab bar: the four `tab` pages plus a More tab. When you are on one of
-// the other pages the More tab wears that page's icon and label so the bar
-// still tells you where you are.
+// Phone tab bar: the `tab` pages plus a More tab on the right that lights up
+// while you are on one of the pages it holds.
 const moreTab = (rest, here) => {
-  const on = rest.find((p) => p.id === here);
-  return html`<button type="button" id="more-btn" aria-current="${on ? 'page' : 'false'}" aria-haspopup="dialog" aria-controls="more" aria-expanded="false">${icon(on ? on.icon : 'dots')}<span>${on ? on.label : 'More'}</span></button>`;
+  const on = rest.some((p) => p.id === here);
+  return html`<button type="button" id="more-btn" aria-current="${on ? 'page' : 'false'}" aria-haspopup="dialog" aria-controls="more" aria-expanded="false">${icon('dots')}<span>More</span></button>`;
 };
 
 const moreSheet = (pages, here) => html`

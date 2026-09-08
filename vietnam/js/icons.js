@@ -53,7 +53,7 @@ const PATHS = {
   undo: 'M4 9h10a5 5 0 0 1 0 10H9M4 9l4-4M4 9l4 4',
   phone: 'M8 3h8a1 1 0 0 1 1 1v16a1 1 0 0 1-1 1H8a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1zM11 18h2',
   umbrella: 'M3 12a9 9 0 0 1 18 0zM12 3v1M12 12v6a2 2 0 0 0 4 0',
-  dots: 'M5 12h.01M12 12h.01M19 12h.01',
+  dots: 'M5 12a1 1 0 1 0 .01 0M12 12a1 1 0 1 0 .01 0M19 12a1 1 0 1 0 .01 0',
 };
 
 export const icon = (name, cls = '') => raw(

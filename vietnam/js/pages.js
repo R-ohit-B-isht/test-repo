@@ -4,7 +4,7 @@
 export const PAGES = [
   { id: 'route', href: 'index.html', label: 'Route', icon: 'pin', n: '02', hashes: ['top', 'hero', 'route', 'map'] },
   { id: 'days', href: 'days.html', label: 'Days', icon: 'grid', n: '03', hashes: ['days', 'shelf'], tab: true },
-  { id: 'picks', href: 'picks.html', label: 'Picks', icon: 'sparkle', n: '04', hashes: ['picker', 'picks'], tab: true },
+  { id: 'picks', href: 'picks.html', label: 'Picks', icon: 'sparkle', n: '04', hashes: ['picker', 'picks'] },
   { id: 'budget', href: 'budget.html', label: 'Budget', icon: 'ticket', n: '05', hashes: ['budget'] },
   { id: 'calendar', href: 'calendar.html', label: 'Calendar', icon: 'calendar', n: '06', hashes: ['calendar'], tab: true },
   { id: 'book', href: 'book.html', label: 'Book', icon: 'check', n: '07', hashes: ['checklist', 'book', 'share'] },
