@@ -1,0 +1,243 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Lakshadweep from Delhi: ten days, under the ₹40k ticket</title>
+  <meta name="description" content="Lakshadweep from Delhi for less than the ₹40,000 flight quote: five routes compared on a real map, a photo-led day-by-day plan, every island and activity as a toggle, and a cost ledger with every fare sourced." />
+  <meta name="color-scheme" content="light dark" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;0,9..144,600;1,9..144,400&family=Inter:wght@400;500;600&display=swap" />
+  <link rel="stylesheet" href="css/tokens.css" />
+  <link rel="stylesheet" href="css/base.css" />
+  <link rel="stylesheet" href="css/components.css" />
+  <link rel="stylesheet" href="css/chrome.css" />
+  <link rel="stylesheet" href="css/sections.css" />
+  <link rel="stylesheet" href="css/route.css" />
+  <link rel="stylesheet" href="css/days.css" />
+  <link rel="stylesheet" href="css/picker.css" />
+  <link rel="stylesheet" href="css/ledger.css" />
+  <link rel="stylesheet" href="css/sheet.css" />
+  <link rel="stylesheet" href="css/brain.css" />
+  <link rel="stylesheet" href="css/reel.css" />
+  <script>
+    // Apply saved theme before first paint to avoid a flash.
+    try {
+      const s = JSON.parse(localStorage.getItem('lakshadweep-ledger:v3') || '{}');
+      if (s.theme && s.theme !== 'auto') document.documentElement.dataset.theme = s.theme;
+    } catch {}
+  </script>
+</head>
+<body>
+  <a class="skip" href="#route">Skip to content</a>
+  <div id="sprite"></div>
+
+  <div class="progress" aria-hidden="true"><span id="progress-bar"></span></div>
+
+  <header class="topbar" role="banner">
+    <div class="wrap">
+      <a class="brand" href="#top"><svg class="ic" aria-hidden="true"><use href="#i-island"/></svg>Lakshadweep <em>planner</em></a>
+      <nav class="topnav" aria-label="Sections">
+        <a href="#route">Route</a>
+        <a href="#days">Days</a>
+        <a href="#picks">Picks</a>
+        <a href="#budget">Budget</a>
+        <a href="#booking">Booking</a>
+        <a href="#sources">Sources</a>
+      </nav>
+      <div class="topbar-actions">
+        <time class="clock" id="clock" aria-label="Indian Standard Time" datetime=""></time>
+        <button class="btn btn-ghost brain-btn" id="brain-open" type="button" data-overlay="#brain" aria-haspopup="dialog" aria-controls="brain" aria-expanded="false" aria-label="Plan brain" title="Plan brain (G)"><svg class="ic" aria-hidden="true"><use href="#i-spark"/></svg><span>Brain</span></button>
+        <button class="btn-icon theme-btn" id="theme-toggle" type="button" aria-label="Theme: auto" title="Theme (T)">auto</button>
+        <button class="btn-icon" id="help-toggle" type="button" data-overlay="#help" aria-haspopup="dialog" aria-controls="help" aria-expanded="false" title="Shortcuts (?)" aria-label="Keyboard shortcuts">?</button>
+      </div>
+    </div>
+  </header>
+
+  <nav class="rail" aria-label="Section dots">
+    <a href="#top">Top</a>
+    <a href="#route">Route</a>
+    <a href="#days">Days</a>
+    <a href="#picks">Picks</a>
+    <a href="#budget">Budget</a>
+    <a href="#booking">Booking</a>
+    <a href="#sources">Sources</a>
+  </nav>
+
+  <main id="top">
+    <section class="hero" aria-labelledby="hero-title">
+      <div class="hero-bg" aria-hidden="true"><img src="img/bangaram-w2.jpg" alt="" width="1400" height="1088" fetchpriority="high" decoding="async" /></div>
+      <div class="wrap">
+        <div class="hero-copy">
+          <p class="eyebrow reveal"><svg class="ic" aria-hidden="true"><use href="#i-plane"/></svg><span>Delhi → Lakshadweep</span><span class="eyebrow__sep" aria-hidden="true">·</span><span id="hero-window"></span></p>
+          <h1 class="reveal" id="hero-title">Ten days on the atolls, <em>under the ₹40k ticket</em></h1>
+          <p class="hero-sub reveal" id="hero-sub">Fly to Kochi, sail out with the islanders, sleep in homestays, and eat tuna three ways.</p>
+          <div class="hero-chips reveal" id="hero-chips" aria-label="Trip at a glance"></div>
+        </div>
+        <div class="card calc reveal" id="calc" aria-live="polite"></div>
+      </div>
+    </section>
+
+    <section class="section" id="route" aria-labelledby="route-title">
+      <div class="wrap">
+        <header class="section-head">
+          <div><span class="eyebrow">01 · Route</span><h2 id="route-title">Five ways there. One is cheapest.</h2></div>
+          <p class="muted small" id="route-note">Delhi and Kochi are just the way in; the map keeps to the islands.</p>
+        </header>
+        <div class="route-grid">
+          <figure class="card map-card" id="route-map"></figure>
+          <div class="routes-col">
+            <div class="routes" role="radiogroup" aria-label="Transport strategy" id="strategy-picker"></div>
+            <div class="card legs-card" id="route-view"></div>
+            <div class="classes" id="class-picker"></div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section" id="days" aria-labelledby="days-title">
+      <div class="wrap">
+        <header class="section-head">
+          <div><span class="eyebrow">02 · Days</span><h2 id="days-title"><span id="days-count"></span> days, one card each</h2></div>
+          <div class="days-head">
+            <ol class="dots" id="day-nav" aria-label="Jump to day"></ol>
+            <button type="button" class="btn-icon" data-shelf="-1" aria-label="Previous day"><svg class="ic" aria-hidden="true"><use href="#i-left"/></svg></button>
+            <button type="button" class="btn-icon" data-shelf="1" aria-label="Next day"><svg class="ic" aria-hidden="true"><use href="#i-right"/></svg></button>
+          </div>
+        </header>
+      </div>
+      <div class="wrap shelf-wrap"><ol class="shelf" id="day-list"></ol></div>
+    </section>
+
+    <section class="section" id="picks" aria-labelledby="picks-title">
+      <div class="wrap">
+        <header class="section-head">
+          <div><span class="eyebrow">03 · Picks</span><h2 id="picks-title">Tick what you want. Days regroup themselves.</h2></div>
+          <div class="picks-note" id="picks-note" role="status"></div>
+        </header>
+        <div class="picks-bar" id="picks-bar"></div>
+        <div class="picker" id="picks-grid" aria-label="Places and experiences to add"></div>
+      </div>
+    </section>
+
+    <section class="section" id="budget" aria-labelledby="budget-title">
+      <div class="wrap">
+        <header class="section-head">
+          <div><span class="eyebrow">04 · Budget</span><h2 id="budget-title">Per person, everything counted</h2></div>
+        </header>
+        <div class="budget-grid">
+          <form class="controls" id="controls" aria-label="Budget controls">
+            <div class="card">
+              <span class="eyebrow" id="travellers-label">Travellers</span>
+              <div class="calc-row">
+                <span>Rooms and boats split across the party</span>
+                <div class="stepper" role="group" aria-labelledby="travellers-label">
+                  <button type="button" class="btn-icon" data-step="-1" aria-label="Fewer travellers">−</button>
+                  <output id="travellers" aria-live="polite">2</output>
+                  <button type="button" class="btn-icon" data-step="1" aria-label="More travellers">+</button>
+                </div>
+              </div>
+            </div>
+            <div class="card slider">
+              <label for="homestay-rate"><svg class="ic" aria-hidden="true"><use href="#i-home"/></svg>Homestay, per room</label>
+              <output for="homestay-rate" id="homestay-rate-out"></output>
+              <input type="range" id="homestay-rate" min="2500" max="5000" step="100" />
+              <span class="hint">Two share a room · Agatti and Kavaratti leads</span>
+            </div>
+            
+            <div class="card">
+              <span class="eyebrow">Days out · from your picks</span>
+              <p class="field-sum" id="picks-summary"></p>
+              <ul class="days-out" id="days-out" aria-label="Paid picks by day"></ul>
+              <div class="preset-row">
+                <button type="button" class="btn btn-ghost" data-preset="cheaper"><svg class="ic" aria-hidden="true"><use href="#i-bag"/></svg>Cheaper</button>
+                <button type="button" class="btn btn-ghost" data-preset="splurge"><svg class="ic" aria-hidden="true"><use href="#i-snorkel"/></svg>Splurge</button>
+              </div>
+            </div>
+          </form>
+          <div class="card total-card" id="ledger" aria-live="polite"></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section" id="booking" aria-labelledby="booking-title">
+      <div class="wrap">
+        <header class="section-head">
+          <div><span class="eyebrow">05 · Booking</span><h2 id="booking-title">In this order</h2></div>
+        </header>
+        <div class="check-grid">
+          <div class="card"><ol class="steps" id="checklist"></ol></div>
+          <div class="card done-card" id="checklist-done" role="status"></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section" id="sources" aria-labelledby="sources-title">
+      <div class="wrap">
+        <header class="section-head">
+          <div><span class="eyebrow">06 · Sources</span><h2 id="sources-title">Where every rupee came from</h2></div>
+          <p class="muted small">Observed fares and published tariffs, not live availability. Re-check each link before paying.</p>
+        </header>
+        <details class="fold" open>
+          <summary><svg class="ic" aria-hidden="true"><use href="#i-right"/></svg>Fares &amp; tariffs <span class="chip" id="source-count"></span></summary>
+          <ol class="sources" id="source-list"></ol>
+        </details>
+        <details class="fold">
+          <summary><svg class="ic" aria-hidden="true"><use href="#i-right"/></svg>Design &amp; code lineage</summary>
+          <ol class="sources" id="credit-list"></ol>
+        </details>
+        <details class="fold">
+          <summary><svg class="ic" aria-hidden="true"><use href="#i-right"/></svg>Photographs <span class="chip" id="photo-count"></span></summary>
+          <ol class="sources sources--photos" id="photo-list"></ol>
+        </details>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="wrap">
+      <p>Planning aid, not a booking service. Permits are issued by the Lakshadweep Administration; no island can be entered without one.</p>
+      <p class="kbd">T theme · G brain · ? shortcuts · 1–6 sections · J/K days · D developer mode</p>
+    </div>
+  </footer>
+
+  <div class="overlay" id="help" role="dialog" aria-modal="true" aria-labelledby="help-title" hidden>
+    <div class="card">
+      <div class="card-head">
+        <h3 id="help-title">Keyboard</h3>
+        <button class="btn-icon" type="button" data-close aria-label="Close"><svg class="ic" aria-hidden="true"><use href="#i-close"/></svg></button>
+      </div>
+      <dl class="kbd-list">
+        <dt><kbd>T</kbd></dt><dd>Cycle theme: auto → light → dark</dd>
+        <dt><kbd>G</kbd></dt><dd>Open the plan brain (Gemini)</dd>
+        <dt><kbd>1</kbd>–<kbd>6</kbd></dt><dd>Jump to a section</dd>
+        <dt><kbd>J</kbd> / <kbd>K</kbd></dt><dd>Next / previous day</dd>
+        <dt><kbd>R</kbd></dt><dd>Next route</dd>
+        <dt><kbd>?</kbd></dt><dd>This overlay</dd>
+        <dt><kbd>D</kbd></dt><dd>Developer mode (or <code>?dev=1</code>)</dd>
+      </dl>
+    </div>
+  </div>
+
+  <div class="overlay brain" id="brain" role="dialog" aria-modal="true" aria-labelledby="brain-title" hidden data-busy="false">
+    <div class="card">
+      <div class="card-head">
+        <h3 id="brain-title"><svg class="ic" aria-hidden="true"><use href="#i-spark"/></svg>Plan brain</h3>
+        <span class="chip brain-model">Gemini · your key</span>
+        <button class="btn-icon" type="button" data-close aria-label="Close"><svg class="ic" aria-hidden="true"><use href="#i-close"/></svg></button>
+      </div>
+      <p class="sub">Say what you want in plain words. It proposes ticks; nothing changes until you apply, and the ledger reprices from the same fares.</p>
+    </div>
+  </div>
+
+  <div class="overlay reel-box" id="reel" role="dialog" aria-modal="true" aria-labelledby="reel-title" hidden></div>
+
+  <dialog class="gal" id="gallery" aria-label="Photos"></dialog>
+  <dialog class="gal sheet" id="daysheet" aria-label="Day details" tabindex="-1"></dialog>
+
+  <aside class="dev" id="dev" hidden aria-label="Developer mode"></aside>
+
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>

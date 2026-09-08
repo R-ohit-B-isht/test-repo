@@ -1,0 +1,88 @@
+/* Brain overlay: Gemini planner as a centred card. Ask bar + quick chips +
+   key sheet + ticked suggestions with per-change deltas. */
+
+.brain > .card { max-width: 640px; display: grid; gap: var(--s-3); max-height: calc(100dvh - 2 * var(--s-4)); overflow: auto; }
+.brain .card-head { margin-bottom: 0; }
+.brain .card-head h3 { display: inline-flex; align-items: center; gap: var(--s-2); }
+.brain .card-head h3 .ic { width: 20px; height: 20px; color: var(--coral); }
+.brain-model { margin-left: auto; }
+.brain .sub { margin: 0; color: var(--fg-2); font-size: var(--fs-1); }
+
+.brain__ask { display: grid; grid-template-columns: auto minmax(0, 1fr) auto auto; align-items: center; gap: var(--s-2); }
+.brain__spark { display: grid; place-items: center; width: 24px; height: 24px; color: var(--coral); }
+.brain[data-busy='true'] .brain__spark { animation: brain-spin 1.2s linear infinite; }
+@keyframes brain-spin { to { rotate: 360deg; } }
+.brain__in {
+  min-width: 0; height: 44px; padding: 0 var(--s-3);
+  border: 1px solid var(--line); border-radius: var(--r-pill); background: var(--bg);
+  color: var(--fg); font: 500 var(--fs-2)/1 var(--font-ui);
+  transition: border-color var(--t-fast) var(--ease-out), box-shadow var(--t-fast) var(--ease-out);
+}
+.brain__in::placeholder { color: var(--fg-3); }
+.brain__in:focus-visible { outline: none; border-color: var(--coral); box-shadow: 0 0 0 3px color-mix(in srgb, var(--coral) 25%, transparent); }
+.brain__keychip { position: relative; }
+.brain__keychip::before { content: ''; width: 6px; height: 6px; border-radius: 50%; background: var(--coral); transition: background-color var(--t-fast) var(--ease-out); }
+.brain__keychip[data-has-key='true']::before { background: var(--jade); }
+.brain__keychip[aria-expanded='true'] { background: var(--fg); color: var(--bg); }
+
+.brain__chips { display: flex; flex-wrap: wrap; gap: var(--s-1); }
+
+.brain__key[hidden] { display: none; }
+.brain__key { display: grid; grid-template-columns: minmax(0, 1fr) auto auto auto; align-items: center; gap: var(--s-2); padding: var(--s-3); border-radius: var(--r-ctl); background: var(--bg-2); }
+.brain__key input { min-width: 0; height: 36px; padding: 0 var(--s-2); border: 1px solid var(--line); border-radius: var(--r-ctl); background: var(--card); color: var(--fg); font: 500 var(--fs-1)/1 var(--font-mono); }
+.brain__key input:focus-visible { outline: 2px solid var(--coral); outline-offset: 1px; }
+.brain__getkey { font-size: var(--fs-1); color: var(--fg-2); white-space: nowrap; }
+
+.brain__out:empty { display: none; }
+.brain__out { display: grid; gap: var(--s-2); }
+.brain__note { margin: 0; color: var(--fg-2); font-size: var(--fs-1); display: flex; gap: var(--s-2); align-items: center; }
+.brain__note.is-error { color: var(--coral); }
+.brain__dots { display: inline-flex; gap: 4px; }
+.brain__dots i { width: 6px; height: 6px; border-radius: 50%; background: var(--coral); animation: brain-dot 0.4s var(--ease-out) infinite alternate; }
+.brain__dots i:nth-child(2) { animation-delay: 0.13s; }
+.brain__dots i:nth-child(3) { animation-delay: 0.26s; }
+@keyframes brain-dot { to { opacity: 0.25; transform: translateY(-2px); } }
+
+.brain__sum { margin: 0; font: 500 var(--fs-3)/1.25 var(--font-display); }
+.brain__list { list-style: none; margin: 0; padding: 0; display: grid; gap: var(--s-1); }
+.sug label {
+  display: grid; grid-template-columns: auto auto minmax(0, 1fr) auto; align-items: center; gap: 4px var(--s-2);
+  padding: var(--s-2) var(--s-3); border: 1px solid var(--line); border-radius: var(--r-ctl); cursor: pointer;
+  transition: background-color var(--t-fast) var(--ease-out), border-color var(--t-fast) var(--ease-out);
+}
+.sug label:hover { background: var(--bg-2); }
+.sug input { accent-color: var(--coral); width: 18px; height: 18px; margin: 0; }
+.sug input:focus-visible { outline: 2px solid var(--coral); outline-offset: 2px; }
+.sug .ic { width: 16px; height: 16px; color: var(--fg-3); }
+.sug__name { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; font-weight: 500; }
+.sug__name b { font: 600 11px/1 var(--font-mono); color: var(--fg-3); letter-spacing: 0.04em; text-transform: uppercase; margin-right: 6px; }
+.sug small { grid-column: 3; color: var(--fg-2); font-size: var(--fs-1); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.sug__delta { grid-column: 4; grid-row: 1 / span 2; font: 600 var(--fs-2)/1 var(--font-ui); font-variant-numeric: tabular-nums; white-space: nowrap; }
+.sug__delta[data-neg='true'], .brain__total em[data-neg='true'] { color: var(--jade); }
+.sug__delta[data-neg='false'], .brain__total em[data-neg='false'] { color: var(--coral); }
+.sug input:not(:checked) ~ .sug__name, .sug input:not(:checked) ~ small, .sug input:not(:checked) ~ .sug__delta { opacity: 0.45; }
+.sug input:disabled ~ * { opacity: 0.6; }
+.sug--no { display: grid; grid-template-columns: auto minmax(0, 1fr) auto; align-items: center; gap: var(--s-2); padding: var(--s-2) var(--s-3); border: 1px dashed var(--line); border-radius: var(--r-ctl); color: var(--fg-3); font-size: var(--fs-1); }
+.sug--no .ic { width: 16px; height: 16px; }
+.sug--no small { white-space: nowrap; }
+
+.brain__foot { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: var(--s-2) var(--s-3); padding-top: var(--s-2); border-top: 1px solid var(--line); }
+.brain__total { font-size: var(--fs-1); color: var(--fg-2); font-variant-numeric: tabular-nums; }
+.brain__total b { color: var(--fg); font-weight: 600; font-size: var(--fs-2); }
+.brain__total em { font-style: normal; font-weight: 600; }
+
+@media (max-width: 599px) {
+  .brain__ask { grid-template-columns: auto minmax(0, 1fr) auto; }
+  .brain__in { grid-column: 2 / span 2; }
+  .brain__ask .btn { grid-column: 1 / span 2; grid-row: 2; justify-self: stretch; }
+  .brain__keychip { grid-column: 3; grid-row: 2; }
+  .brain__key { grid-template-columns: minmax(0, 1fr) auto auto; }
+  .brain__getkey { grid-column: 1 / -1; }
+  .sug label { grid-template-columns: auto auto minmax(0, 1fr); }
+  .sug__delta { grid-column: 3; grid-row: 3; justify-self: start; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .brain__dots i { animation: none; opacity: 0.6; }
+  .brain[data-busy='true'] .brain__spark { animation: none; }
+}

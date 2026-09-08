@@ -1,0 +1,73 @@
+/* Day board: <dialog> with the day's cards grouped Travel · See & do · Eat · Stay.
+   Paper card on desktop, full-height sheet on phones. */
+
+.sheet {
+  width: min(960px, calc(100vw - 2 * var(--s-3)));
+  max-height: calc(100dvh - 2 * var(--s-3));
+  padding: 0; overflow: auto; scrollbar-width: thin;
+  background: var(--card); color: var(--fg); border-radius: var(--r-card); box-shadow: var(--shadow-2);
+}
+.sheet::backdrop { background: color-mix(in srgb, #10233a 60%, transparent); }
+.sheet__head {
+  position: sticky; top: 0; z-index: 1;
+  display: grid; grid-template-columns: auto 1fr auto auto; gap: var(--s-3); align-items: center;
+  padding: var(--s-3) var(--s-4); background: var(--card); border-bottom: 1px solid var(--line);
+}
+.sheet__n { font: 600 var(--fs-3)/1 var(--font-display); color: var(--coral); }
+.sheet__where { display: grid; gap: 2px; min-width: 0; }
+.sheet__where b { font-weight: 600; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.sheet__where time { color: var(--fg-3); font-size: var(--fs-1); }
+.sheet__mode { display: grid; place-items: center; width: 40px; height: 40px; border-radius: 50%; background: var(--bg-2); color: var(--fg-2); }
+.sheet__mode .ic { width: 20px; height: 20px; }
+.sheet .gal__close { background: var(--bg-2); color: var(--fg); }
+.sheet__title { margin: 0; padding: var(--s-4) var(--s-4) 0; font: 600 var(--fs-3)/1.2 var(--font-display); letter-spacing: -0.01em; text-wrap: balance; }
+.sheet__body { display: grid; gap: var(--s-4); padding: var(--s-4); }
+.sheet__cat { display: grid; gap: var(--s-2); }
+.sheet__cat > .label { display: flex; gap: var(--s-2); align-items: baseline; margin: 0; }
+.sheet__cat > .label small { font-size: inherit; letter-spacing: 0; opacity: 0.6; }
+
+.dtiles { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 168px), 1fr)); gap: var(--s-2); align-items: start; }
+.dtile {
+  position: relative; display: grid; width: 100%; padding: 0; text-align: left; font: inherit; color: inherit;
+  border: 1px solid var(--line); border-radius: var(--r-ctl); background: var(--bg); overflow: hidden;
+  transition: border-color var(--t-fast) var(--ease-out), box-shadow var(--t-fast) var(--ease-out);
+}
+button.dtile { cursor: zoom-in; }
+button.dtile:hover, button.dtile:focus-visible { border-color: var(--coral); box-shadow: var(--shadow-1); }
+button.dtile:hover .dtile__photo { transform: scale(1.03); }
+.dtile__photo { display: block; width: 100%; aspect-ratio: 3 / 2; height: auto; object-fit: cover; transition: transform var(--t-slow) var(--ease-out); }
+.dtile__ic { display: grid; place-items: center; height: 56px; background: var(--bg-2); color: var(--fg-2); }
+.dtile__ic .ic { width: 22px; height: 22px; }
+.dtile__n {
+  position: absolute; top: 6px; right: 6px; display: inline-flex; gap: 3px; align-items: center; padding: 2px 7px;
+  color: #fff; background: rgb(16 35 58 / 0.7); font: 600 11px/1.4 var(--font-mono); border-radius: var(--r-pill);
+}
+.dtile__n .ic { width: 11px; height: 11px; }
+.dtile__text { display: grid; gap: 2px; align-content: start; padding: var(--s-2); font-size: var(--fs-1); line-height: 1.3; }
+.dtile__slot { font: 600 10px/1.4 var(--font-mono); letter-spacing: 0.08em; text-transform: uppercase; color: var(--fg-3); }
+.dtile__name { font-weight: 600; color: var(--fg); }
+.dtile__sub, .dtile__note { color: var(--fg-2); overflow: hidden; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; }
+.dtile__tag { color: var(--jade); font-weight: 600; }
+
+.sheet__foot {
+  position: sticky; bottom: 0; display: grid; grid-template-columns: auto 1fr auto; gap: var(--s-3); align-items: center;
+  padding: var(--s-2) var(--s-4); background: var(--card); border-top: 1px solid var(--line);
+}
+.sheet__spend { display: grid; justify-items: center; font-variant-numeric: tabular-nums; }
+.sheet__spend small { color: var(--fg-3); font-size: 11px; letter-spacing: 0.08em; text-transform: uppercase; }
+.sheet__spend b { font: 600 var(--fs-3)/1.2 var(--font-display); }
+.sheet__step { display: inline-flex; gap: 4px; align-items: center; min-height: 40px; padding: 0 var(--s-3); border-radius: var(--r-pill); color: var(--fg-2); font-weight: 600; font-size: var(--fs-1); }
+.sheet__step:hover, .sheet__step:focus-visible { color: var(--fg); background: var(--bg-2); }
+.sheet__step:disabled { opacity: 0.3; cursor: default; background: none; }
+.sheet__step .ic { width: 16px; height: 16px; }
+
+@media (max-width: 599px) {
+  .sheet { width: 100vw; max-width: 100vw; max-height: 100dvh; height: 100dvh; margin: 0; border-radius: 0; }
+  .sheet__head, .sheet__title, .sheet__body, .sheet__foot { padding-left: var(--s-3); padding-right: var(--s-3); }
+  .dtiles { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .dtile, .dtile__photo { transition: none; }
+  button.dtile:hover .dtile__photo { transform: none; }
+}

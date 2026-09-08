@@ -1,0 +1,12 @@
+/* Section 04 ledger card: headline number, stacked bar, dotted-leader lines. */
+.total-card { display: grid; gap: var(--s-3); }
+.ledger-big { display: flex; align-items: baseline; gap: var(--s-2); flex-wrap: wrap; }
+.ledger-big .num { font: 600 clamp(2.5rem, 5vw, 3.25rem)/1 var(--font-display); letter-spacing: -0.02em; font-variant-numeric: tabular-nums; }
+.ledger-big small { color: var(--fg-2); font-size: var(--fs-1); }
+.total-card .stack-key { margin-top: calc(-1 * var(--s-2)); }
+.ledger-line.is-extra .lbl, .ledger-line.is-extra .amt { color: var(--fg-2); font-weight: 500; }
+.ledger-sub { color: var(--fg-3); font-size: var(--fs-1); }
+.ledger-sub .amt { font-weight: 500; }
+.ledger-total .lbl { font-weight: 600; }
+.ledger-note { margin: 0; font-size: var(--fs-1); color: var(--fg-3); }
+.ring b small { font: 500 0.875rem/1 var(--font-ui); color: var(--fg-3); }

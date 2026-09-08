@@ -1,0 +1,30 @@
+/* Section 01: the islands SVG map inside its card. Route cards/legs live in sections.css. */
+
+.map-card { padding: var(--s-3); display: grid; gap: var(--s-2); background: linear-gradient(180deg, var(--lagoon) 0%, var(--card) 100%); }
+.map__cap { font-size: var(--fs-1); color: var(--fg-3); text-align: center; }
+
+.map { display: block; width: 100%; height: auto; overflow: visible; font: 500 9px/1 var(--font-ui); }
+.map__grid { stroke: var(--fg); stroke-opacity: 0.1; stroke-width: 0.5; }
+.map__gridlbl { fill: var(--fg-3); font-size: 7.5px; letter-spacing: 0.06em; font-family: var(--font-mono); }
+.map__scale line { stroke: var(--fg-2); stroke-width: 1; }
+.map__scale text { fill: var(--fg-3); font-size: 7.5px; font-family: var(--font-mono); }
+.map__leg { fill: none; stroke: var(--fg); stroke-width: 1.25; stroke-linecap: round; }
+.map__mode circle { fill: var(--card); stroke: var(--fg); stroke-width: 0.75; }
+.map__mode use { stroke: var(--fg); fill: none; stroke-width: 1.75; stroke-linecap: round; stroke-linejoin: round; }
+.map__node circle { fill: var(--fg); }
+.map__node text { paint-order: stroke; stroke: var(--card); stroke-width: 2.5px; stroke-linejoin: round; fill: var(--fg); font-size: 9px; font-weight: 600; }
+.map__code { fill: var(--fg-3); font-size: 7.5px; letter-spacing: 0.06em; font-weight: 500; }
+.map__lensbg { fill: var(--card); stroke: var(--line); stroke-width: 0.75; }
+.map__lensline { stroke: var(--fg-3); stroke-width: 0.5; stroke-dasharray: 2 2; }
+.map__isle { fill: var(--lagoon); stroke: var(--jade); stroke-width: 0.5; }
+.map__node--lens text { font-size: 9px; }
+.map__node--lens.is-off circle { fill: var(--card); stroke: var(--fg-3); stroke-width: 0.75; }
+.map__node--lens.is-off text { fill: var(--fg-3); font-weight: 500; }
+.map__node--lens.is-ghost circle { fill: none; stroke: var(--coral); stroke-width: 0.75; stroke-dasharray: 1.5 1.5; }
+.map__node--edge path { fill: none; stroke: var(--fg-2); stroke-width: 1.25; stroke-linecap: round; stroke-linejoin: round; }
+.map__day { cursor: pointer; outline: none; }
+.map__day rect { fill: var(--coral); stroke: var(--card); stroke-width: 0; transition: stroke-width var(--t-fast) var(--ease-out), fill var(--t-fast) var(--ease-out); }
+.map__day:hover rect, .map__day:focus-visible rect { stroke-width: 1.5; fill: var(--fg); }
+.map__day text { fill: var(--coral-ink); font-size: 7.5px; letter-spacing: 0.04em; font-weight: 600; }
+.map__acts use { stroke: var(--jade); fill: none; stroke-width: 1.75; stroke-linecap: round; stroke-linejoin: round; }
+.map__ghost { fill: none; stroke: var(--coral); stroke-width: 0.75; stroke-dasharray: 1.5 1.5; }
