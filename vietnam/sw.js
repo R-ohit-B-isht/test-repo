@@ -4,7 +4,7 @@
    Street-map tiles (CARTO only) have two caches: the cities the user chose to
    save (`tiles-v1`, written by js/gmap/cache.js, kept across versions) and a
    small rolling cache of tiles seen while browsing. */
-const VERSION = 'v18';
+const VERSION = 'v19';
 const SHELL = `shell-${VERSION}`;
 const MEDIA = `media-${VERSION}`;
 const MEDIA_MAX = 240;
@@ -19,7 +19,7 @@ const PRECACHE = [
   'assets/photos/hanoi.jpg', 'assets/photos/halong.jpg', 'assets/photos/ninhbinh.jpg', 'assets/photos/hue.jpg', 'assets/photos/haivan.jpg',
   'assets/photos/danang.jpg', 'assets/photos/hoian.jpg', 'assets/photos/train.jpg', 'assets/photos/golden.jpg',
   'css/app.css', 'css/tokens.css', 'css/base.css', 'css/components.css', 'css/chrome.css', 'css/sections.css', 'css/pages.css',
-  'css/picker.css', 'css/importer.css', 'css/board.css', 'css/brain.css', 'css/reel.css', 'css/timeline.css', 'css/order.css', 'css/hops.css', 'css/votes.css', 'css/ritual.css', 'css/book.css', 'css/calendar.css', 'css/manager.css', 'css/split.css', 'css/today.css', 'css/trail.css', 'css/gmap.css', 'css/mag.css', 'css/score.css', 'css/journal.css', 'css/print.css',
+  'css/picker.css', 'css/importer.css', 'css/board.css', 'css/brain.css', 'css/reel.css', 'css/timeline.css', 'css/order.css', 'css/hops.css', 'css/votes.css', 'css/ritual.css', 'css/book.css', 'css/calendar.css', 'css/manager.css', 'css/split.css', 'css/today.css', 'css/trail.css', 'css/gmap.css', 'css/mag.css', 'css/score.css', 'css/journal.css', 'css/sync.css', 'css/print.css',
   'vendor/leaflet/leaflet.js', 'vendor/leaflet/leaflet.css', 'vendor/leaflet/images/layers.png', 'vendor/leaflet/images/layers-2x.png',
   'vendor/leaflet/images/marker-icon.png', 'vendor/leaflet/images/marker-icon-2x.png', 'vendor/leaflet/images/marker-shadow.png',
   'js/app.js', 'js/pages.js', 'js/store.js', 'js/config.js', 'js/dom.js', 'js/icons.js', 'js/plan.js', 'js/strategies.js', 'js/timeline.js',
@@ -34,6 +34,7 @@ const PRECACHE = [
   'js/split/model.js', 'js/split/math.js', 'js/split/csv.js', 'js/split/card.js', 'js/canvas.js',
   'js/score.js', 'js/score/card.js', 'js/render/score.js', 'js/render/sc/view.js',
   'js/journal.js', 'js/journal/exif.js', 'js/journal/files.js', 'js/render/journal.js', 'js/render/ingest.js', 'js/render/recap.js', 'js/render/jn/view.js',
+  'js/sync.js', 'js/sync/client.js', 'js/sync/engine.js', 'js/render/sync.js',
   'js/brain/gemini.js', 'js/brain/context.js', 'js/brain/apply.js', 'js/brain/vibe.js',
   'js/render/hero.js', 'js/render/route.js', 'js/render/map.js', 'js/render/itinerary.js', 'js/render/dayboard.js', 'js/render/timeline.js', 'js/render/order.js', 'js/render/orderDrag.js', 'js/render/hops.js', 'js/route.js',
   'js/render/picker.js', 'js/render/picks.js', 'js/render/tile.js', 'js/render/gallery.js', 'js/render/budget.js', 'js/render/checklist.js',

@@ -92,6 +92,8 @@ export function mountDev(store) {
     'Tick all': () => store.set({ checklist: allChecks(true) }),
     'Untick all': () => store.set({ checklist: {} }),
     'Split: test ledger': () => store.set(devLedger()),
+    'Sync: local server': () => { localStorage.setItem('vietnam-sync-url', 'http://127.0.0.1:8000'); location.reload(); },
+    'Sync: leave + unset': () => { localStorage.removeItem('vietnam-sync-url'); localStorage.removeItem('vietnam-sync-doc'); store.set({ sync: null }); location.reload(); },
     'Split: clear': () => store.set({ me: null, people: [], expenses: [], cash: [], rate: 0, fxLive: null, hearts: {}, present: {} }),
     // Test voters (from the test ledger's people) hearting a spread of picks so the
     // votes card, conflicts and Gemini resolve can be exercised without friends.

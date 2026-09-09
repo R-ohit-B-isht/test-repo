@@ -36,7 +36,7 @@ export const DEFAULT_STATE = {
   photos: [],       // journal.js · photo metadata { id, day, name, type, size, w, h, taken, added, caption, deleted }; bytes in IndexedDB
   present: {},      // score.js · { [activityId]: { [personId]: 'showed' } } — "was there" ticks
   imports: [],      // importer.js · pasted links { id, url, provider, act, created, deleted }
-  sync: null,       // sync.js · { room, at } once you join a room; never in share links
+  sync: null,       // sync/engine.js · { room, joined } once you join a room; never in share links
 };
 
 // Fields a share link may carry. Everything else is local: documents, money,
@@ -54,6 +54,15 @@ export const GEMINI_MODEL_SLOT = 'vietnam-gemini-model';
 export const GCAL_CLIENT_SLOT = 'vietnam-gcal-client';
 export const GCAL_MAP_SLOT = 'vietnam-gcal-map';
 export const GCAL_NAME = 'Vietnam · Oct 2026';
+
+// Room sync (F16): the FastAPI service in ../vietnam-sync. Empty until one is
+// deployed; dev mode (or the slot) can point at a local one. The last agreed
+// room document and the server version live in their own slot, not in state.
+export const SYNC_URL_SLOT = 'vietnam-sync-url';
+export const SYNC_DOC_SLOT = 'vietnam-sync-doc';
+export const SYNC_URL = localStorage.getItem(SYNC_URL_SLOT) || '';
+export const SYNC_POLL_MS = 6000;
+export const SYNC_PUSH_DEBOUNCE_MS = 800;
 
 // Documents (e-visa PDF, tickets, passport scan) are stored as blobs in IndexedDB;
 // only their names and sizes live in state.

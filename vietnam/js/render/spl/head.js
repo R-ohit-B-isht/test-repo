@@ -38,7 +38,7 @@ export const head = (state) => {
     ${you ? avatar(you, 'lg') : ''}
     <div class="spl-headtxt">
       <p class="spl-line ${cls}">${line}</p>
-      <p class="sub">${icon('wallet')}${inr(t.total)} spent · ${t.count} row${t.count === 1 ? '' : 's'} · ${icon('shield')}saved in this browser, never in a share link</p>
+      <p class="sub">${icon('wallet')}${inr(t.total)} spent · ${t.count} row${t.count === 1 ? '' : 's'} · ${state.sync?.room ? html`${icon('users')}<a class="spl-room" href="book.html#sync-card">room ${state.sync.room}</a>` : html`${icon('shield')}saved in this browser, never in a share link`}</p>
     </div>`;
 };
 

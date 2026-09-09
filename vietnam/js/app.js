@@ -33,6 +33,8 @@ import { mountScore, renderScore } from './render/score.js';
 import { mountJournal, renderJournal } from './render/journal.js';
 import { mountIngest } from './render/ingest.js';
 import { mountRecap } from './render/recap.js';
+import { createSync } from './sync/engine.js';
+import { mountSync } from './render/sync.js';
 
 // Bootstrap. Every page shares the store (localStorage), the chrome and the
 // overlays; only the renderers listed for <body data-page> mount here, so a
@@ -69,6 +71,7 @@ const reel = mountReel(store);
 const replay = mountReplay(store);
 const recap = mountRecap(store);
 mountIngest(store);
+mountSync(createSync(store));
 renderFooter();
 
 store.subscribe((state) => {
