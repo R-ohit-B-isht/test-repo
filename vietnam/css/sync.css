@@ -1,0 +1,30 @@
+/* Room sync card (Book › Take it with you) */
+.sync-card { display: grid; grid-template-columns: 44px minmax(0, 1fr); gap: var(--s-3); align-items: start; margin-bottom: var(--s-3); }
+.sync-card .ic-wrap { width: 44px; height: 44px; border-radius: 50%; display: grid; place-items: center; background: var(--bg-2); color: var(--fg); }
+.sync-card .ic-wrap .ic { width: 22px; height: 22px; }
+.sync-card.is-on .ic-wrap { background: var(--jade-soft); color: var(--jade); }
+.sync-body { display: grid; gap: var(--s-2); min-width: 0; }
+.sync-body h3 { font-family: var(--font-display); font-size: var(--fs-3); }
+.sync-body .sub { color: var(--fg-2); font-size: var(--fs-1); }
+.sync-body code { font: 500 0.92em var(--font-mono); color: var(--fg); }
+.sync-body .row { display: flex; flex-wrap: wrap; gap: var(--s-2); align-items: center; }
+.sync-body output { font: 500 var(--fs-1) var(--font-mono); color: var(--jade); }
+.sync-form { display: flex; gap: var(--s-2); align-items: center; flex-wrap: wrap; min-width: 0; }
+.sync-form input { flex: 1 1 140px; min-width: 0; padding: 10px 12px; border-radius: var(--r-ctl); border: 1px solid var(--line); background: var(--bg); color: var(--fg); font: 500 var(--fs-1) var(--font-mono); letter-spacing: 0.06em; text-transform: uppercase; }
+.sync-form input[type='url'] { text-transform: none; letter-spacing: 0; flex-basis: 260px; }
+.sync-form input:focus-visible { outline: 2px solid var(--jade); outline-offset: 2px; }
+.sync-code { display: inline-flex; gap: 6px; padding: var(--s-1) 0; }
+.sync-code span { display: grid; place-items: center; width: 40px; height: 48px; border-radius: var(--r-ctl); background: var(--bg-2); border: 1px solid var(--line); font: 600 1.5rem var(--font-mono); color: var(--fg); }
+.sync-code span:nth-child(3) { margin-right: 8px; }
+.sync-msg { display: flex; align-items: center; gap: var(--s-2); font: 500 var(--fs-1) var(--font-mono); color: var(--fg-2); }
+.sync-msg .ic { width: 14px; height: 14px; }
+.sync-msg.is-ok { color: var(--jade); }
+.sync-msg.is-err { color: var(--lantern); }
+
+/* Split header: in-room chip */
+.spl-room { display: inline-flex; align-items: center; gap: 4px; color: var(--jade); text-decoration: none; font-weight: 600; }
+.spl-room:hover, .spl-room:focus-visible { text-decoration: underline; }
+
+@media (max-width: 420px) {
+  .sync-code span { width: 34px; height: 42px; font-size: 1.25rem; }
+}

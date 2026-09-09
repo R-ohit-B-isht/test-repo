@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <title>Map · Vietnam planner</title>
+  <meta name="description" content="Street map of every pick, meal, bed and station in each city, with the tiles saved for offline." />
+  <meta name="color-scheme" content="light dark" />
+  <meta name="theme-color" content="#f7f2e8" />
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml" />
+  <link rel="apple-touch-icon" href="assets/icon-192.png" />
+  <link rel="manifest" href="manifest.webmanifest" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link rel="preconnect" href="https://a.basemaps.cartocdn.com" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600&family=Inter:wght@400;500;600&display=swap" />
+  <link rel="stylesheet" href="vendor/leaflet/leaflet.css" />
+  <link rel="stylesheet" href="css/app.css" />
+</head>
+<body data-page="map">
+  <a class="skip" href="#main">Skip to content</a>
+  <div class="progress" id="progress" aria-hidden="true"></div>
+
+  <header class="topbar">
+    <div class="wrap" id="topbar"></div>
+  </header>
+
+  <main id="main">
+    <section class="section page-top" id="gmap" aria-labelledby="map-title">
+      <div class="wrap">
+        <div class="section-head reveal">
+          <div>
+            <span class="eyebrow">11 · Map</span>
+            <h1 class="page-title" id="map-title">Every pin, street by street.</h1>
+          </div>
+          <p class="lede">Your picks, meals, beds and stations per city. Save a city and the map keeps drawing with no data.</p>
+        </div>
+        <div class="gm-head" id="gm-head"></div>
+        <div class="gm-stage">
+          <div class="gm-canvas" id="gm-canvas" role="region" aria-label="Street map" tabindex="0"></div>
+          <button class="btn-icon gm-home" type="button" data-home aria-label="Show the whole city" title="Whole city">⌖</button>
+        </div>
+        <div class="gm-offline" id="gm-offline"></div>
+        <div class="gm-list" id="gm-list" aria-label="Pins in this city"></div>
+      </div>
+    </section>
+    <div class="wrap">
+      <nav class="pager" id="pager" aria-label="Pages"></nav>
+    </div>
+  </main>
+
+  <footer class="footer">
+    <div class="wrap" id="footer"></div>
+  </footer>
+
+  <nav class="rail" id="rail" aria-label="Section index"></nav>
+  <nav class="tabbar" id="tabbar" aria-label="Pages"></nav>
+  <div class="netbar" id="netbar" role="status" aria-live="polite" hidden></div>
+
+  <script src="vendor/leaflet/leaflet.js" defer></script>
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>

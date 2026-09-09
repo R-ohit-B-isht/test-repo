@@ -1,0 +1,105 @@
+/* Shared components. Shape identity: paper cards (12px) with a "ledger" dotted
+   leader between label and number, pill chips, ticket notches on route cards. */
+
+.card {
+  background: var(--card); border: 1px solid var(--line); border-radius: var(--r-card);
+  padding: var(--s-4); box-shadow: var(--shadow-1);
+  transition: background-color var(--t-base) var(--ease-out), border-color var(--t-base) var(--ease-out);
+}
+
+.btn {
+  display: inline-flex; align-items: center; justify-content: center; gap: var(--s-2);
+  min-height: 44px; padding: 0 var(--s-4); border-radius: var(--r-pill);
+  font-weight: 600; font-size: var(--fs-2); text-decoration: none;
+  background: var(--lantern); color: var(--lantern-ink);
+  transition: transform var(--t-fast) var(--ease-out), background-color var(--t-fast) var(--ease-out), box-shadow var(--t-fast) var(--ease-out);
+}
+.btn:hover { box-shadow: var(--shadow-1); }
+.btn:active { transform: scale(0.97); }
+.btn:disabled { opacity: 0.5; cursor: not-allowed; box-shadow: none; transform: none; }
+.btn-ghost { background: transparent; color: var(--fg); border: 1px solid var(--line); }
+.btn-ghost:hover { background: var(--bg-2); }
+.btn-icon { width: 40px; min-height: 40px; padding: 0; border-radius: 50%; background: transparent; color: var(--fg); border: 1px solid var(--line); }
+.btn-icon:hover { background: var(--bg-2); }
+.btn-sm { min-height: 34px; padding: 0 var(--s-3); font-size: var(--fs-1); background: var(--bg-2); color: var(--fg); border: 1px solid var(--line); }
+.btn-sm:hover { background: var(--card); }
+.btn-sm .ic { width: 14px; height: 14px; }
+.link { display: inline-flex; align-items: center; gap: 4px; background: none; border: 0; padding: 0; color: var(--fg-2); font: inherit; cursor: pointer; text-decoration: underline; text-decoration-color: var(--line); text-underline-offset: 3px; }
+.link:hover { color: var(--lantern); }
+.link .ic { width: 14px; height: 14px; }
+.row { display: flex; flex-wrap: wrap; gap: var(--s-2); align-items: center; }
+.h3 { font: 600 var(--fs-4)/1.1 var(--font-display); overflow-wrap: anywhere; }
+
+.chip {
+  display: inline-flex; align-items: center; gap: 6px; min-height: 28px; padding: 0 10px;
+  border-radius: var(--r-pill); font-size: var(--fs-1); font-weight: 500;
+  background: var(--bg-2); color: var(--fg-2); white-space: nowrap;
+}
+.chip .ic { width: 1em; height: 1em; }
+.chip-jade { background: var(--jade-soft); color: var(--jade); }
+.chip-rain { background: var(--rain-soft); color: var(--rain); }
+.chip-sun { background: var(--sun-soft); color: color-mix(in srgb, var(--sun) 60%, var(--fg)); }
+.chip-lantern { background: var(--lantern); color: var(--lantern-ink); }
+.chip-ink { background: var(--fg); color: var(--bg); }
+
+.mode-chips { display: flex; flex-wrap: wrap; gap: var(--s-1); align-items: center; }
+.mode-chips .ic { width: 18px; height: 18px; color: var(--fg-2); }
+.mode-chips .sep { width: 12px; height: 1px; background: var(--line); }
+
+.badge {
+  display: inline-flex; align-items: center; gap: 4px; height: 20px; padding: 0 8px;
+  border-radius: var(--r-pill); font: 500 11px/1 var(--font-mono); letter-spacing: 0.04em; text-transform: uppercase;
+}
+
+/* Segmented radio (Skyscanner travel modes) */
+.seg { display: inline-flex; padding: 3px; gap: 2px; border-radius: var(--r-pill); background: var(--bg-2); border: 1px solid var(--line); }
+.seg label { position: relative; }
+.seg input { position: absolute; inset: 0; opacity: 0; margin: 0; cursor: pointer; }
+.seg span {
+  display: inline-flex; align-items: center; gap: 6px; height: 34px; padding: 0 14px; border-radius: var(--r-pill);
+  font-size: var(--fs-1); font-weight: 600; color: var(--fg-2);
+  transition: background-color var(--t-fast) var(--ease-out), color var(--t-fast) var(--ease-out), transform var(--t-fast) var(--ease-out);
+}
+.seg input:checked + span { background: var(--card); color: var(--fg); box-shadow: var(--shadow-1); }
+.seg input:focus-visible + span { outline: 2px solid var(--lantern); outline-offset: 2px; }
+.seg input:active + span { transform: scale(0.97); }
+
+/* Stepper */
+.stepper { display: inline-flex; align-items: center; gap: var(--s-2); }
+.stepper output { min-width: 2ch; text-align: center; font-weight: 600; font-size: var(--fs-3); font-family: var(--font-display); }
+
+/* Slider row */
+.slider { display: grid; grid-template-columns: 1fr auto; gap: var(--s-1) var(--s-3); align-items: center; }
+.slider label { font-weight: 500; display: inline-flex; align-items: center; gap: var(--s-2); }
+.slider output { font-weight: 600; }
+.slider input { grid-column: 1 / -1; width: 100%; accent-color: var(--lantern); height: 32px; margin: 0; }
+.slider .hint { grid-column: 1 / -1; font-size: var(--fs-1); color: var(--fg-3); margin-top: -4px; }
+
+/* Ledger line with dotted leader */
+.ledger { display: grid; gap: var(--s-2); }
+.ledger-line { display: grid; grid-template-columns: auto 1fr auto; align-items: center; gap: var(--s-2); }
+.ledger-line .ic { color: var(--fg-3); }
+.ledger-line .lead { border-bottom: 2px dotted var(--line); height: 0.6em; }
+.ledger-line .lbl { display: inline-flex; align-items: center; gap: var(--s-2); }
+.ledger-line .amt { font-weight: 600; }
+.ledger-total { border-top: 1px solid var(--line); padding-top: var(--s-3); margin-top: var(--s-2); }
+.ledger-total .amt { font-family: var(--font-display); font-size: var(--fs-3); }
+
+/* Source pill: trust indicator beside a price (trivago) */
+.src {
+  display: inline-flex; align-items: center; gap: 4px; font: 500 11px/1 var(--font-mono); letter-spacing: 0.02em;
+  color: var(--fg-3); text-decoration: none; padding: 3px 6px; border-radius: var(--r-ctl); border: 1px dashed var(--line);
+  transition: color var(--t-fast) var(--ease-out), border-color var(--t-fast) var(--ease-out);
+}
+.src:hover { color: var(--lantern); border-color: var(--lantern); }
+.src .ic { width: 11px; height: 11px; }
+
+/* Stacked cost bar */
+.stack { display: flex; height: 12px; border-radius: var(--r-pill); overflow: hidden; background: var(--bg-2); }
+.stack span { transition: flex-grow var(--t-base) var(--ease-out); min-width: 0; }
+.stack-key { display: flex; flex-wrap: wrap; gap: var(--s-2) var(--s-3); margin-top: var(--s-2); font-size: var(--fs-1); color: var(--fg-2); }
+.stack-key i { display: inline-block; width: 8px; height: 8px; border-radius: 2px; margin-right: 6px; vertical-align: middle; }
+
+/* Reveal on scroll */
+.reveal { opacity: 0; translate: 0 16px; transition: opacity 500ms var(--ease-out), translate 500ms var(--ease-out); }
+.reveal.in { opacity: 1; translate: 0 0; }

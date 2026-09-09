@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <title>Budget · Vietnam planner</title>
+  <meta name="description" content="Per-person budget for the trip: flights, beds, food, transport and your picks, all sourced." />
+  <meta name="color-scheme" content="light dark" />
+  <meta name="theme-color" content="#f7f2e8" />
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml" />
+  <link rel="apple-touch-icon" href="assets/icon-192.png" />
+  <link rel="manifest" href="manifest.webmanifest" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600&family=Inter:wght@400;500;600&display=swap" />
+  <link rel="stylesheet" href="css/app.css" />
+</head>
+<body data-page="budget">
+  <a class="skip" href="#main">Skip to content</a>
+  <div class="progress" id="progress" aria-hidden="true"></div>
+
+  <header class="topbar">
+    <div class="wrap" id="topbar"></div>
+  </header>
+
+  <main id="main">
+    <section class="section page-top" id="budget" aria-labelledby="budget-title">
+      <div class="wrap">
+        <div class="section-head reveal">
+          <div>
+            <span class="eyebrow">05 · Budget</span>
+            <h1 class="page-title" id="budget-title">Your comfort, your number.</h1>
+          </div>
+          <div id="travellers-seg"></div>
+        </div>
+        <div class="budget-grid">
+          <div class="controls reveal" id="controls"></div>
+          <div class="card total-card reveal" id="ledger" aria-live="polite"></div>
+        </div>
+      </div>
+    </section>
+    <div class="wrap">
+      <nav class="pager" id="pager" aria-label="Pages"></nav>
+    </div>
+  </main>
+
+  <footer class="footer">
+    <div class="wrap" id="footer"></div>
+  </footer>
+
+  <nav class="rail" id="rail" aria-label="Section index"></nav>
+  <nav class="tabbar" id="tabbar" aria-label="Pages"></nav>
+  <div class="netbar" id="netbar" role="status" aria-live="polite" hidden></div>
+
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>

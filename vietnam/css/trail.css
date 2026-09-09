@@ -1,0 +1,82 @@
+/* Trail (F2 · Polarsteps): actual GPS line over the planned route, the "I'm
+   here" card on Today, and the end-of-trip replay overlay. */
+
+/* Map layer. Planned line stays dashed grey; the real one is solid jade. */
+.map .tr-line { fill: none; stroke: var(--jade); stroke-width: 2.5; stroke-linejoin: round; stroke-linecap: round; }
+.map .tr-dot { fill: var(--jade); stroke: var(--card); stroke-width: 1.5; }
+.map .tr-dot.is-off { fill: var(--sun); }
+.map .tr-dot.is-last { stroke: var(--jade); stroke-width: 2; fill: var(--card); }
+@media (prefers-reduced-motion: no-preference) {
+  .rp-map .tr-dot.is-last { animation: tr-pulse 1.6s var(--ease-out) infinite; transform-box: fill-box; transform-origin: center; }
+  @keyframes tr-pulse { 0%, 100% { transform: scale(1); } 50% { transform: scale(1.35); } }
+}
+
+.tr-under { display: flex; flex-wrap: wrap; align-items: center; gap: var(--s-2) var(--s-3); margin-top: var(--s-2); }
+.tr-under .btn-sm { margin-left: auto; }
+.tr-key { display: inline-flex; align-items: center; gap: 6px; font: 500 var(--fs-1)/1 var(--font-mono); color: var(--fg-3); }
+.tr-key i { width: 18px; height: 0; border-top: 2px dashed var(--fg-2); }
+.tr-key .k-real { border-top: 2.5px solid var(--jade); }
+
+/* Today card */
+.trailc { display: grid; gap: var(--s-3); }
+.trailc .row { display: flex; flex-wrap: wrap; align-items: center; gap: var(--s-2) var(--s-3); }
+.trailc-top .btn { flex: 0 0 auto; }
+.trailc-foot { padding-top: var(--s-2); border-top: 1px solid var(--line); }
+.trailc-foot .btn-sm:first-of-type { margin-left: auto; }
+.trst { display: flex; align-items: center; gap: var(--s-2); }
+.trst.is-err { color: var(--lantern); }
+.trpins { list-style: none; margin: 0; padding: 0; display: grid; gap: var(--s-2); }
+.trpin { display: grid; grid-template-columns: auto minmax(0, 1fr) auto auto; gap: var(--s-2); align-items: center; padding: var(--s-2) var(--s-3); border-radius: var(--r-ctl); background: var(--bg-2); border-left: 3px solid var(--jade); }
+.trpin.is-off { border-left-color: var(--sun); }
+.trpin-t { color: var(--fg-3); font-size: var(--fs-1); }
+.trpin-body { display: grid; min-width: 0; }
+.trpin-body b { font-weight: 600; overflow-wrap: anywhere; }
+.trpin-body .sub { font-size: var(--fs-1); }
+.big-num { font: 600 1.75rem/1 var(--font-display); letter-spacing: -0.01em; }
+
+/* Replay overlay */
+.overlay.replay { z-index: 60; align-items: end; padding: 0; background: color-mix(in srgb, var(--indigo) 82%, transparent); }
+.overlay.replay .card {
+  max-width: 880px; width: 100%; max-height: 94dvh; overflow-y: auto; overscroll-behavior: contain;
+  border-radius: var(--r-card) var(--r-card) 0 0; translate: 0 24px; display: grid; gap: var(--s-3); align-content: start;
+  transition: translate var(--t-base) var(--ease-out);
+}
+.overlay.replay[data-open='true'] .card { translate: 0 0; }
+.overlay.replay .card-head { margin-bottom: 0; }
+.rp-grid { display: grid; gap: var(--s-4); grid-template-columns: minmax(0, 1fr); }
+.rp-map.map { position: relative; top: auto; background: var(--bg-2); border-radius: var(--r-ctl); padding: var(--s-2); }
+.rp-map svg { display: block; margin: 0 auto; max-height: 34dvh; }
+.rp-map .land { fill: var(--card); }
+.rp-map .day-badge { cursor: default; }
+.rp-key { position: absolute; left: var(--s-3); bottom: var(--s-3); display: flex; gap: var(--s-3); padding: 4px 8px; border-radius: 999px; background: color-mix(in srgb, var(--card) 88%, transparent); }
+.rp-side { display: grid; gap: var(--s-2); align-content: start; min-width: 0; }
+.rp-photo { aspect-ratio: 5 / 3; border-radius: var(--r-ctl); overflow: hidden; background: var(--bg-2); }
+.rp-photo img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.rp-title { font: 600 var(--fs-3)/1.15 var(--font-display); margin: 0; }
+.rp-stat { margin: 0; color: var(--fg-2); font-size: var(--fs-1); }
+.rp-end { display: grid; gap: var(--s-2); padding: var(--s-3); border-radius: var(--r-ctl); background: var(--jade-soft); color: var(--jade); }
+.rp-end b { color: var(--fg); font-size: var(--fs-2); }
+.rp-end .row { display: flex; gap: var(--s-2); flex-wrap: wrap; }
+.rp-bar { display: flex; align-items: center; gap: var(--s-2); padding-top: var(--s-2); border-top: 1px solid var(--line); }
+.rp-dots { list-style: none; margin: 0; padding: 0; display: flex; gap: 6px; flex: 1; justify-content: center; min-width: 0; }
+.rp-dots li { flex: 1 1 0; max-width: 28px; min-width: 8px; }
+.rp-dots button { display: block; width: 100%; height: 20px; padding: 6px 0; border-radius: 999px; border: 0; background: var(--line); background-clip: content-box; cursor: pointer; transition: background-color var(--t-base) var(--ease-out); }
+.rp-dots button.is-done { background: color-mix(in srgb, var(--jade) 55%, var(--line)); }
+.rp-dots button.is-cur { background: var(--jade); }
+.rp-dots button:focus-visible { outline: 2px solid var(--lantern); outline-offset: 3px; }
+
+@media (min-width: 720px) {
+  .overlay.replay { align-items: center; padding: var(--s-4); }
+  .overlay.replay .card { border-radius: var(--r-card); }
+  .rp-grid { grid-template-columns: minmax(0, 1.2fr) minmax(240px, 0.8fr); }
+  .rp-map svg { max-height: 60dvh; }
+}
+@media (max-width: 480px) {
+  .overlay.replay .h3 { font-size: 1.75rem; }
+  .rp-photo { aspect-ratio: 2 / 1; }
+  .trpin { grid-template-columns: auto minmax(0, 1fr) auto auto; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .overlay.replay .card { transition: none; translate: 0 0; }
+  .rp-dots button { transition: none; }
+}

@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <title>Book · Vietnam planner</title>
+  <meta name="description" content="Booking order with dates, one-tap provider links, and share / export of your plan." />
+  <meta name="color-scheme" content="light dark" />
+  <meta name="theme-color" content="#f7f2e8" />
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml" />
+  <link rel="apple-touch-icon" href="assets/icon-192.png" />
+  <link rel="manifest" href="manifest.webmanifest" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600&family=Inter:wght@400;500;600&display=swap" />
+  <link rel="stylesheet" href="css/app.css" />
+</head>
+<body data-page="book">
+  <a class="skip" href="#main">Skip to content</a>
+  <div class="progress" id="progress" aria-hidden="true"></div>
+
+  <header class="topbar">
+    <div class="wrap" id="topbar"></div>
+  </header>
+
+  <main id="main">
+    <section class="section page-top" id="checklist" aria-labelledby="checklist-title">
+      <div class="wrap">
+        <div class="section-head reveal">
+          <div>
+            <span class="eyebrow">07 · Book it</span>
+            <h1 class="page-title" id="checklist-title">In this order.</h1>
+          </div>
+          <span class="chip" id="date-chip"></span>
+        </div>
+        <div class="ritual-host reveal" id="ritual" aria-live="polite"></div>
+        <div class="check-grid">
+          <div class="card steps reveal" id="steps"></div>
+          <div class="reveal">
+            <div class="card done-card" id="done"></div>
+            <div class="card stays-card" id="stays"></div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section" id="share" aria-labelledby="share-title">
+      <div class="wrap">
+        <div class="section-head reveal">
+          <div>
+            <span class="eyebrow">07 · Take it with you</span>
+            <h2 id="share-title">Share it. Print it. Calendar it.</h2>
+          </div>
+        </div>
+        <div class="card sync-card reveal" id="sync-card"></div>
+        <div class="export-grid reveal" id="export"></div>
+      </div>
+    </section>
+    <div class="wrap">
+      <nav class="pager" id="pager" aria-label="Pages"></nav>
+    </div>
+  </main>
+
+  <footer class="footer">
+    <div class="wrap" id="footer"></div>
+  </footer>
+
+  <nav class="rail" id="rail" aria-label="Section index"></nav>
+  <nav class="tabbar" id="tabbar" aria-label="Pages"></nav>
+  <div class="netbar" id="netbar" role="status" aria-live="polite" hidden></div>
+
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>

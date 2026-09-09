@@ -1,0 +1,87 @@
+/* Saw it on Insta? — paste a clip link, review the pick it becomes, add it. */
+
+.picker-import { display: grid; gap: var(--s-3); margin-bottom: var(--s-4); }
+.picker-import:empty { display: none; }
+
+.imp { display: grid; gap: var(--s-2); }
+.imp h3 { display: flex; align-items: center; gap: var(--s-2); font: 600 var(--fs-3)/1.1 var(--font-display); margin: 0; }
+.imp h3 .ic { width: 18px; height: 18px; color: var(--lantern); }
+.imp .sub { margin: 0; font-size: var(--fs-1); color: var(--fg-3); }
+.imp-row { display: grid; grid-template-columns: 1fr auto; gap: var(--s-2); align-items: stretch; }
+.imp-row input {
+  width: 100%; min-width: 0; min-height: 44px; padding: var(--s-2) var(--s-3); border: 1px solid var(--line); border-radius: var(--r-ctl);
+  background: var(--bg-2); color: var(--fg); font: inherit; font-family: var(--font-mono); font-size: var(--fs-1);
+}
+.imp-row input:focus-visible { outline: 2px solid var(--lantern); outline-offset: 1px; border-color: transparent; }
+.imp-row .btn { white-space: nowrap; display: inline-flex; align-items: center; gap: 8px; }
+.imp[data-busy='true'] .imp-row input, .imp[data-busy='true'] textarea { opacity: 0.6; }
+.imp-spin { width: 14px; height: 14px; border-radius: 50%; border: 2px solid currentColor; border-right-color: transparent; animation: imp-spin 0.8s linear infinite; }
+@keyframes imp-spin { to { transform: rotate(360deg); } }
+.imp-cap textarea { min-height: 44px; resize: vertical; }
+.imp-cap.is-need > span { color: var(--lantern); }
+.imp-cap.is-need textarea { border-color: var(--lantern); }
+.imp .btn-link { margin: 0; justify-self: start; display: inline-flex; align-items: center; gap: 6px; }
+.imp .btn-link .ic { width: 13px; height: 13px; }
+.imp-err { margin: 0; font-size: var(--fs-1); color: color-mix(in srgb, var(--lantern) 70%, var(--fg)); }
+
+/* Review card: photo strip on top, what was read, editable fields, Add / Discard. */
+.imp-res {
+  display: grid; gap: var(--s-3); padding: var(--s-3); border: 1px solid color-mix(in srgb, var(--lantern) 45%, var(--line));
+  background: color-mix(in srgb, var(--lantern) 6%, var(--card)); animation: imp-in var(--t-base) var(--ease-out) both;
+}
+@keyframes imp-in { from { opacity: 0; transform: translateY(6px); } }
+.imp-strip { position: relative; margin: calc(-1 * var(--s-3)) calc(-1 * var(--s-3)) 0; border-radius: var(--r-card) var(--r-card) 0 0; overflow: hidden; }
+.imp-strip .pics { margin: 0; grid-column: auto; aspect-ratio: 16 / 7; }
+.imp-nopic { display: grid; place-items: center; aspect-ratio: 16 / 5; background: var(--bg-2); color: var(--fg-3); }
+.imp-nopic .ic { width: 28px; height: 28px; }
+.imp-head { display: flex; align-items: center; gap: var(--s-3); min-width: 0; }
+.imp-txt { min-width: 0; flex: 1; display: grid; gap: 4px; }
+.imp-txt .sub { display: flex; flex-wrap: wrap; align-items: center; gap: 6px; margin: 0; font-size: var(--fs-1); color: var(--fg-3); }
+.imp-src { overflow-wrap: anywhere; }
+.imp-src .ic { width: 13px; height: 13px; flex: none; }
+.imp-src i { font-style: normal; color: var(--fg-2); }
+.imp-match { display: grid; grid-template-columns: auto 1fr auto; align-items: center; gap: var(--s-3); padding: var(--s-2) var(--s-3); border-radius: var(--r-ctl); background: var(--jade-soft); color: var(--fg); font-size: var(--fs-1); }
+.imp-match .th { width: 44px; height: 44px; object-fit: cover; border-radius: var(--r-ctl); display: block; }
+.imp-match:not(:has(.th)) { grid-template-columns: 1fr auto; }
+.imp-match .btn-sm { display: inline-flex; align-items: center; gap: 6px; }
+.imp-match .btn-sm .ic { width: 13px; height: 13px; }
+.imp-fields { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: var(--s-3); }
+.imp-fields .imp-name, .imp-fields .imp-note { grid-column: 1 / -1; }
+.imp-kind { justify-self: start; min-height: 40px; align-items: center; }
+.imp-kind span { display: inline-flex; align-items: center; gap: 6px; }
+.imp-kind .ic { position: absolute; left: 12px; top: 50%; translate: 0 -50%; width: 13px; height: 13px; pointer-events: none; z-index: 1; }
+.imp-kind label span { padding-left: 30px; }
+.imp-go { justify-content: space-between; flex-wrap: wrap; gap: var(--s-2); }
+.imp-go .btn { display: inline-flex; align-items: center; gap: 6px; }
+.imp-go .btn .ic { width: 14px; height: 14px; }
+.imp-go .btn:disabled { opacity: 0.5; cursor: not-allowed; }
+@media (min-width: 720px) {
+  .imp-fields { grid-template-columns: repeat(4, minmax(0, 1fr)); }
+  .imp-fields .imp-name { grid-column: 1 / 3; }
+  .imp-fields .imp-note { grid-column: 1 / -1; }
+}
+
+/* Saved from links: one row per clip you kept. */
+.imp-saved { display: grid; gap: var(--s-2); }
+.imp-list { list-style: none; margin: 0; padding: 0; display: grid; gap: var(--s-2); }
+.imp-item { display: flex; align-items: center; gap: var(--s-2); padding: var(--s-2); border: 1px solid var(--line); border-radius: var(--r-card); background: var(--card); }
+.imp-item.is-on { border-color: var(--fg-2); }
+.imp-item .th { flex: none; width: 48px; height: 48px; object-fit: cover; border-radius: var(--r-ctl); display: block; background: var(--bg-2); }
+.imp-item .th.is-blank { display: grid; place-items: center; color: var(--fg-3); }
+.imp-item .th.is-blank .ic { width: 18px; height: 18px; }
+.imp-itxt { display: grid; min-width: 0; flex: 1; }
+.imp-itxt b { font-weight: 600; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.imp-itxt small { font: 500 11px var(--font-mono); color: var(--fg-3); }
+.imp-item .src { display: inline-grid; place-items: center; width: 36px; height: 36px; border-radius: 50%; color: var(--fg-2); }
+.imp-item .src .ic { width: 14px; height: 14px; }
+.imp-item .btn-icon { width: 36px; min-height: 36px; }
+.imp-item .btn-icon .ic { width: 14px; height: 14px; }
+
+/* The tile a saved clip became gets a lantern pulse so you spot it. */
+.tile.is-new { animation: imp-hit 1.2s var(--ease-out); }
+@keyframes imp-hit { 0% { box-shadow: 0 0 0 0 color-mix(in srgb, var(--lantern) 70%, transparent); } 100% { box-shadow: 0 0 0 14px transparent; } }
+
+@media (prefers-reduced-motion: reduce) {
+  .imp-res, .tile.is-new { animation: none; }
+  .imp-spin { animation-duration: 2s; }
+}

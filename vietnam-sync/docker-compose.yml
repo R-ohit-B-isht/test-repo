@@ -1,0 +1,11 @@
+services:
+  sync:
+    build: .
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./app:/srv/app
+      - ./data:/srv/data
+    environment:
+      SYNC_CORS_ORIGINS: "*"
+    command: uvicorn app.main:app --host 0.0.0.0 --port 8000 --reload
