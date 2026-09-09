@@ -2,6 +2,7 @@ import { DEFAULT_STATE, SHAREABLE } from './config.js';
 import { DEFAULT_PICKS, BY_ID, EXTRA_STOPS } from './data/activities.js';
 import { STOPS } from './data/trip.js';
 import { STRATEGIES } from './strategies.js';
+import { findHop } from './data/hops.js';
 
 // Share a plan as a URL: ?p=<base64url JSON>. Versioned, so an old link still
 // opens; anything unknown or out of range is dropped rather than trusted.
@@ -21,7 +22,8 @@ export const encodePlan = (state) => {
   const off = Object.keys(DEFAULT_PICKS).filter((id) => !state.picks[id]);
   const custom = (state.custom || []).map(({ id, stop, slot, h, name, note, inr, kind }) => ({ id, stop, slot, h, name, note, inr, kind }));
   const order = Object.fromEntries(Object.entries(state.order || {}).filter(([, ids]) => ids?.length));
-  const payload = { v: VERSION, s: state.strategy, b: state.berth, on, off, custom, order };
+  const hops = Object.fromEntries(Object.entries(state.hops || {}).filter(([id, w]) => findHop(id)?.ways.some((x) => x.id === w)));
+  const payload = { v: VERSION, s: state.strategy, b: state.berth, on, off, custom, order, hops };
   Object.keys(DIALS).forEach((k) => { payload[k] = state[k]; });
   return b64(JSON.stringify(payload));
 };
@@ -64,6 +66,10 @@ export const decodePlan = (p) => {
     Object.entries(d.order).forEach(([n, ids]) => {
       if (/^[1-8]$/.test(n) && Array.isArray(ids)) patch.order[n] = ids.filter((id) => known.has(id)).slice(0, 12);
     });
+  }
+  patch.hops = {};
+  if (d.hops && typeof d.hops === 'object') {
+    Object.entries(d.hops).forEach(([id, w]) => { if (findHop(id)?.ways.some((x) => x.id === w)) patch.hops[id] = w; });
   }
   return patch;
 };

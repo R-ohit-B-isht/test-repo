@@ -90,6 +90,31 @@ export const SOURCES = {
     url: 'https://hanoibus.com/route/86-noi-bai-airport-city-center',
     note: 'Flat 45,000 ₫, every 25–30 min, ~45 min from the railway station / Old Quarter.',
   },
+  threelandAirport: {
+    name: 'Threeland · Old Quarter → Noi Bai',
+    url: 'https://threeland.com/blogs/how-to-get-from-hanoi-old-quarter-to-noi-bai-han-airport',
+    note: 'Grab / taxi 230,000–350,000 ₫ per car, 35–60 min. Bus 86 35,000–45,000 ₫, 50–70 min. GrabBike 120,000–200,000 ₫.',
+  },
+  impressBus: {
+    name: 'Impress Travel · Da Nang → Hue buses 2026',
+    url: 'https://impresstravel.com/bus-da-nang-to-hue-schedule-prices-booking-tips/',
+    note: 'Limousine vans hourly 05:00–21:00, 150,000–250,000 ₫, hotel pickup both ends, 2–2.5 h via the tunnel. Private ride 900,000–1,100,000 ₫.',
+  },
+  minhVuCar: {
+    name: 'Minh Vu Travel · private car Da Nang → Hue',
+    url: 'https://danangtohoian.com/private-car-da-nang-to-hue/',
+    note: '1,100,000 ₫ per 4-seat car via the tunnel, 2–2.5 h; Hai Van pass + Lang Co stops as a small add-on. Verified June 2026.',
+  },
+  daytripsNinhBinh: {
+    name: 'Day Trips Vietnam · Hanoi → Ninh Binh 2026',
+    url: 'https://daytripsvietnam.com/transport/hanoi-to-ninh-binh/',
+    note: 'SE train ~2 h, soft seat 150,000–200,000 ₫, hard seat ~100,000 ₫. Limousine van 250,000–300,000 ₫ with Old Quarter pickup, 2–2.5 h. Group day tour US$35–55.',
+  },
+  vnParadiseHalong: {
+    name: 'Vietnam Paradise Travel · Hanoi → Ha Long 2026',
+    url: 'https://www.vietnamparadisetravel.com/guide/hanoi-to-ha-long-bay',
+    note: 'Limousine vans 260,000–330,000 ₫ per person, 2.5–3 h, hourly. Private car from 1,100,000 ₫ per vehicle. Fares checked Aug 2026.',
+  },
   halongDay: {
     name: 'The Sinh Tour · Diamond Era day cruise 2026',
     url: 'https://thesinhtour.com/en/diamond-era-cruise-halong-1-day/',

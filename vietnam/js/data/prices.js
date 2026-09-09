@@ -37,6 +37,15 @@ export const PRICES = {
   grabToStation: p(inrFromVnd(125000), 'marbleMountains', 'estimate', '100,000–150,000 ₫ per car, Marble Mountains → Da Nang', { perGroup: true }),
   bus86: p(inrFromVnd(45000), 'bus86', 'listed', 'flat 45,000 ₫'),
 
+  // Other ways to do the same hops (hops.js). Per car where Grab / private.
+  grabAirportHoiAn: p(inrFromVnd(525000), 'grabPrices', 'estimate', '450,000–600,000 ₫ per car', { perGroup: true }),
+  busDadHue: p(inrFromVnd(200000), 'impressBus', 'estimate', '150,000–250,000 ₫ limousine van', { iso: '2026-10-26' }),
+  carDadHue: p(inrFromVnd(1100000), 'minhVuCar', 'listed', '1,100,000 ₫ per 4-seat car', { perGroup: true }),
+  trainNinhBinh: p(inrFromVnd(175000), 'daytripsNinhBinh', 'estimate', '150,000–200,000 ₫ soft seat', { iso: '2026-10-29' }),
+  limoNinhBinh: p(inrFromVnd(275000), 'daytripsNinhBinh', 'estimate', '250,000–300,000 ₫', { iso: '2026-10-29' }),
+  limoHalong: p(inrFromVnd(295000), 'vnParadiseHalong', 'estimate', '260,000–330,000 ₫', { iso: '2026-10-30' }),
+  grabHanAirport: p(inrFromVnd(290000), 'threelandAirport', 'estimate', '230,000–350,000 ₫ per car', { perGroup: true }),
+
   // Daily rates — sliders start here, you decide the comfort
   bed: p(inrFromUsd(9), 'hostels', 'estimate', 'dorm US$5–16/night'),
   food: p(inrFromUsd(10.5), 'foodBudget', 'estimate', 'US$6–10 street · US$10–18 mixed'),

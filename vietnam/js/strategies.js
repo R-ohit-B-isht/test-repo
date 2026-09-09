@@ -3,16 +3,25 @@
 // Direction is middle → north because the cheapest exact-date fares land in Da Nang
 // (Fri night AirAsia via KUL) and leave from Hanoi (Sat evening VietJet non-stop).
 
+import { findHop, wayOf, wayPrice } from './data/hops.js';
+
 const leg = (from, to, mode, price, note = '') => ({ from, to, mode, price, note });
+
+// A hop you can do more than one way (hops.js): the leg follows your choice.
+const hopLeg = (id, P, s) => {
+  const hop = findHop(id);
+  const w = wayOf(hop, s.hops);
+  return leg(hop.from, hop.to, w.mode, wayPrice(w, P, s), `day ${hop.day} · ${w.name}`);
+};
 
 // Shared legs. Flight legs carry their searched date, shown next to the fare.
 const arrive = (P) => leg('DEL', 'DAD', 'plane', P.delDad, `${P.delDad.date} · ${P.delDad.carrier}`);
 const home = (P) => leg('HAN', 'DEL', 'plane', P.hanDel, `${P.hanDel.date} · ${P.hanDel.carrier}`);
-const toHoiAn = (P) => leg('DAD ✈', 'Hoi An', 'bus', P.shuttleHoiAn, 'day 1 · Hoi An Express shuttle');
+const toHoiAn = (P, s) => hopLeg('dadHoian', P, s);
 const toMarble = (P) => leg('Hoi An', 'Marble Mts', 'car', P.grabMarble, 'day 3 · Grab, split by car');
 const toStation = (P) => leg('Marble Mts', 'Da Nang stn', 'car', P.grabToStation, 'day 3 · Grab, split by car');
-const toHue = (P) => leg('Da Nang', 'Hue', 'train', P.trainDadHue, 'day 3 · SE2 12:46, Hai Van pass');
-const airportBus = (P) => leg('Hanoi', 'HAN ✈', 'bus', P.bus86, 'day 8 · bus 86, 45 min');
+const toHue = (P, s) => hopLeg('dadHue', P, s);
+const airportBus = (P, s) => hopLeg('hanAirport', P, s);
 
 const northBy = {
   train: (P, s) => leg('Hue', 'Hanoi', 'train', s.berth === '4' ? P.train4 : P.train6, 'night 4 · SE20 21:30 → 11:55'),
@@ -29,7 +38,7 @@ export const STRATEGIES = [
     paidNights: 6,
     summary: 'Fly into Da Nang Fri night, out of Hanoi Sat evening. One night on the rails.',
     why: 'Two one-ways beat every return fare, and the SE20 saves a hotel night.',
-    legs: (P, s) => [arrive(P), toHoiAn(P), toMarble(P), toStation(P), toHue(P), northBy.train(P, s), airportBus(P), home(P)],
+    legs: (P, s) => [arrive(P), toHoiAn(P, s), toMarble(P), toStation(P), toHue(P, s), northBy.train(P, s), airportBus(P, s), home(P)],
   },
   {
     id: 'bus',
@@ -39,7 +48,7 @@ export const STRATEGIES = [
     paidNights: 6,
     summary: 'Same shape, sleeper bus instead of the train. Hostel pickup, ~12 h.',
     why: 'Book days out, not weeks. Reclining bunk, no shower, arrives before dawn.',
-    legs: (P) => [arrive(P), toHoiAn(P), toMarble(P), toStation(P), toHue(P), northBy.bus(P), airportBus(P), home(P)],
+    legs: (P, s) => [arrive(P), toHoiAn(P, s), toMarble(P), toStation(P), toHue(P, s), northBy.bus(P), airportBus(P, s), home(P)],
   },
   {
     id: 'fly',
@@ -49,7 +58,7 @@ export const STRATEGIES = [
     paidNights: 7,
     summary: 'Skip the night train: Hue → Hanoi in 75 min. Costs a bed and a bag fee.',
     why: 'Fastest. You pay a Hanoi hotel night and get a Hanoi evening on day 4.',
-    legs: (P) => [arrive(P), toHoiAn(P), toMarble(P), toStation(P), toHue(P), northBy.fly(P), airportBus(P), home(P)],
+    legs: (P, s) => [arrive(P), toHoiAn(P, s), toMarble(P), toStation(P), toHue(P, s), northBy.fly(P), airportBus(P, s), home(P)],
   },
   {
     id: 'roundtrip',
@@ -62,7 +71,7 @@ export const STRATEGIES = [
     legs: (P, s) => [
       leg('DEL', 'HAN', 'plane', P.delHanReturn, `${P.delHanReturn.date} · ${P.delHanReturn.carrier}`),
       leg('HAN', 'DAD', 'plane', P.hanDad, `${P.hanDad.date} · ${P.hanDad.carrier}`),
-      toHoiAn(P), toMarble(P), toStation(P), toHue(P), northBy.train(P, s), airportBus(P),
+      toHoiAn(P, s), toMarble(P), toStation(P), toHue(P, s), northBy.train(P, s), airportBus(P, s),
     ],
   },
 ];

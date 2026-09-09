@@ -1,3 +1,5 @@
+import { hopSlot } from './hops.js';
+
 // Eight days, middle → north. Each day has three slots — AM / PM / Night — and
 // each slot is either fixed transit (`fx`) or an open window the planner fills
 // from the switched-on activities (plan.js): `stops` lists which places are in
@@ -9,7 +11,8 @@
 
 // `at` / `till` are clock times ('HH:MM', '+1' = next day) for the hour timeline;
 // open slots take `at` when they start later than the usual 08:00 / 13:00 / 19:00.
-const fx = (icon, text, at, till) => ({ fixed: true, icon, text, at, till });
+// A fixed slot with `hop` re-labels itself from hops.js when you pick another way.
+const fx = (icon, text, at, till, hop = null) => ({ fixed: true, icon, text, at, till, hop });
 const open = (stops, extra = {}) => ({ stops, ...extra });
 const meal = (name, dish, vnd, src) => ({ name, dish, vnd, src });
 const stay = (name, area, usd, src, stop = null) => ({ name, area, usd, src, stop });
@@ -26,7 +29,7 @@ export const DAYS = [
   {
     n: 1, stop: 'hoian', photo: 'hoian', title: 'Land. Lanterns.', weather: 'central',
     slots: {
-      am: fx('plane', 'Land Da Nang 10:50 · shared shuttle to Hoi An', '10:50', '12:45'),
+      am: fx('plane', 'Land Da Nang 10:50 · shared shuttle to Hoi An', '10:50', '12:45', 'dadHoian'),
       pm: open(['hoian'], { h: 4, lead: 'Check in ~13:30', at: '13:30' }),
       night: open(['hoian']),
     },
@@ -54,10 +57,10 @@ export const DAYS = [
     tips: ['Da Nang is 30 km · Grab ~300,000 ₫ each way', 'Rain day: tailor fitting, café hopping'],
   },
   {
-    n: 3, stop: 'danang', where: 'Da Nang → Hue', photo: 'haivan', title: 'Marble Mountains. Hai Van by rail.', weather: 'central',
+    n: 3, stop: 'danang', where: 'Da Nang → Hue', photo: 'haivan', title: 'Marble Mountains. Over the Hai Van.', weather: 'central',
     slots: {
       am: open(['danang'], { lead: 'Grab out of Hoi An at 07:00', at: '07:00' }),
-      pm: fx('train', 'SE2 12:46 → Hue 15:23 · left-side seats for the Hai Van coast', '12:46', '15:23'),
+      pm: fx('train', 'SE2 12:46 → Hue 15:23 · left-side seats for the Hai Van coast', '12:46', '15:23', 'dadHue'),
       night: open(['hue']),
     },
     meals: [
@@ -74,8 +77,8 @@ export const DAYS = [
       am: open(['hue']),
       pm: open(['hue'], { h: { train: 5, bus: 4, fly: 2 }, lead: { fly: 'Be at HUI by 14:30' }, at: { fly: '12:30' } }),
       night: {
-        train: fx('train', 'SE20 21:30 → Hanoi 11:55 · lower berth', '21:30', '11:55+1'),
-        bus: fx('bus', 'Sleeper bus ~18:00 · hostel pickup · ~12 h', '18:00', '06:00+1'),
+        train: fx('train', 'SE20 21:30 → Hanoi 11:55 · lower berth', '21:30', '11:55+1', 'hueHan'),
+        bus: fx('bus', 'Sleeper bus ~18:00 · hostel pickup · ~12 h', '18:00', '06:00+1', 'hueHan'),
         fly: open(['hanoi'], { h: 2, lead: 'VietJet 15:55 → HAN 17:10 · Old Quarter by 19:00', at: '19:30' }),
       },
     },
@@ -136,7 +139,7 @@ export const DAYS = [
     n: 8, stop: 'hanoi', photo: 'train', title: 'Last lap. Home.', weather: 'north',
     slots: {
       am: open(['hanoi']),
-      pm: fx('bus', 'Bus 86 from Long Bien by 15:30 · 45,000 ₫ · HAN by 16:30', '15:30', '16:30'),
+      pm: fx('bus', 'Bus 86 from Long Bien by 15:30 · 45,000 ₫ · HAN by 16:30', '15:30', '16:30', 'hanAirport'),
       night: fx('plane', 'VietJet 19:10 → Delhi 22:50', '19:10', '22:50'),
     },
     meals: [
@@ -156,9 +159,10 @@ export const sleepFor = (day, transit) => pick(day.sleep, transit);
 export const mealsFor = (day, transit) => day.meals.map((m) => pick(m, transit));
 export const whereFor = (day, transit) => pick(day.where, transit);
 
-// One slot, resolved for a transit: { fixed, icon, text } or { stops, h, lead }.
-export const slotFor = (day, key, transit) => {
+// One slot, resolved for a transit and your hop choices:
+// { fixed, icon, text, hop } or { stops, h, lead }.
+export const slotFor = (day, key, transit, hops = {}) => {
   const s = pick(day.slots[key], transit);
-  if (s.fixed) return { ...s, text: pick(s.text, transit) };
+  if (s.fixed) return { ...s, text: pick(s.text, transit), ...(s.hop ? hopSlot(s.hop, hops) : null) };
   return { stops: s.stops, h: pick(s.h, transit) ?? SLOT_HOURS[key], lead: pick(s.lead, transit) || '', at: pick(s.at, transit) };
 };

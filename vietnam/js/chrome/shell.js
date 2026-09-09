@@ -88,7 +88,7 @@ const pagerLink = (p, dir) => (p ? html`
   <a class="pager-link is-${dir}" href="${p.href}">
     <span class="eyebrow">${dir === 'next' ? 'Next' : 'Back'} · ${p.n}</span>
     <b>${dir === 'next' ? html`${p.label} ${icon('arrow')}` : html`${icon('arrow', 'flip')} ${p.label}`}</b>
-  </a>` : '<span></span>');
+  </a>` : html`<span></span>`);
 
 // Old links like /vietnam/#picker (shared before the split) still work.
 const redirectLegacyHash = (here) => {

@@ -19,9 +19,9 @@ const actLine = (x, state, plan) => {
   return [x.id, x.name, x.stop, isFun(x) ? 'fun' : 'see', `${x.slot}/${x.h}h`, inr == null ? 'free' : `₹${inr}${x.est ? '~' : ''}`, state.picks[x.id] ? 'ON' : 'off', where, flag(x.must, '★must'), flag(x.tag, `#${x.tag}`), flag(x.est, 'gemini-added'), x.note || ''].filter(Boolean).join(' | ');
 };
 
-const dayLine = (d, transit) => {
+const dayLine = (d, transit, hops) => {
   const slots = SLOTS.map((k) => {
-    const s = slotFor(d, k, transit);
+    const s = slotFor(d, k, transit, hops);
     return `${k}:${s.fixed ? `FIXED(${s.text})` : `${s.stops.join('/')} ${s.h}h`}`;
   }).join(' · ');
   const meals = mealsFor(d, transit).map((m) => m.name).join(', ');
@@ -39,7 +39,7 @@ export function buildContext(state) {
     `BUDGET NOW: total ₹${b.total} pp · ${b.lines.map((l) => `${l.id}=₹${l.amount}`).join(' ')}`,
     `RULES: max ${MAX_PER_DAY} fun picks a day; 'see' picks never take a slot. Packing is automatic — you only switch ids ON/off.`,
     `DAYS:`,
-    ...DAYS.map((d) => dayLine(d, transit)),
+    ...DAYS.map((d) => dayLine(d, transit, state.hops)),
     `CATALOG (id | name | stop | kind | slot/hours | ₹pp | state | placed | flags | note):`,
     ...catalogOf(state).map((x) => actLine(x, state, b.plan)),
   ].join('\n');

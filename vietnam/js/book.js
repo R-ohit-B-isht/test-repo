@@ -35,6 +35,8 @@ const TICKET = {
 const GROUND = {
   twelveGo: (from, to, date, people) => ({ name: '12Go', url: `https://12go.asia/en/travel/${from}/${to}?date=${date}&people=${people}` }),
   dsvn: () => ({ name: 'dsvn.vn · official rail', url: 'https://dsvn.vn/#/' }),
+  // Baolau's search needs its own station ids, so this opens the search page, not a prefilled result.
+  baolau: () => ({ name: 'Baolau · search', url: 'https://booking.baolau.com/en/' }),
   vexere: (routePath, date) => ({ name: 'Vexere', url: `https://vexere.com/en-US/${routePath}.html?date=${ddmmyyyy(date)}` }),
 };
 
@@ -96,6 +98,23 @@ export const stepLinks = (step, state) => {
   const legs = findStrategy(state.strategy).legs(PRICES, state);
   const leg = legs.find((l) => l.price === PRICES[step.price]);
   return leg ? legLinks(leg, state) : [];
+};
+
+// Links for one way of doing a hop (hops.js). Keys: 'dsvn', '12go:from/to',
+// 'vexere:<path>', 'flight:<PRICES key>', else a SOURCES key (the page it was
+// priced from). Dates come from the hop's day.
+const VEXERE_PATH = { 'hue/hanoi': 'sleeper-bus-ticket-booking-from-hue-thua-thien-hue-to-ha-noi-2647t1241' };
+export const wayLinks = (hop, way, state) => {
+  const date = iso(hop.day);
+  return way.links.map((k) => {
+    const [kind, arg] = k.split(':');
+    if (k === 'dsvn') return GROUND.dsvn();
+    if (k === 'baolau') return GROUND.baolau();
+    if (kind === '12go') return GROUND.twelveGo(...arg.split('/'), date, state.travellers);
+    if (kind === 'vexere') return VEXERE_PATH[arg] ? GROUND.vexere(VEXERE_PATH[arg], date) : null;
+    if (kind === 'flight') return FLIGHT.google(hop.from, hop.to, PRICES[arg].iso);
+    return src(k);
+  }).filter(Boolean);
 };
 
 // Paid activity → ticket searches plus the official page it was priced from.

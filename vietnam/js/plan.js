@@ -18,10 +18,10 @@ const slotKeys = (x) => (x.slot === 'any' || x.slot === 'day' ? ['am', 'pm'] : [
 const isDayLong = (x) => x.slot === 'day';
 const isMulti = (x) => x.spans > 1;
 
-const emptyDay = (day, transit) => ({
+const emptyDay = (day, transit, hops) => ({
   n: day.n,
   slots: Object.fromEntries(SLOTS.map((k) => {
-    const s = slotFor(day, k, transit);
+    const s = slotFor(day, k, transit, hops);
     return [k, s.fixed ? { ...s, items: [] } : { ...s, left: s.h, items: [] }];
   })),
   count: 0,
@@ -158,7 +158,7 @@ export function planTrip(state, transit) {
   const on = all.filter((x) => state.picks[x.id] && !x.closed && !isExtra(x));
   const bundled = new Set(on.flatMap((x) => x.includes || []));
   const wanted = on.filter((x) => !bundled.has(x.id) && isFun(x)).sort(mustFirst);
-  const days = DAYS.map((d) => emptyDay(d, transit));
+  const days = DAYS.map((d) => emptyDay(d, transit, state.hops));
   const placed = new Map();
   const seen = new Map();
 

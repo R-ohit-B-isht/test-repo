@@ -49,7 +49,7 @@ const goSec = (planned) => {
   const all = [...legs, ...leads];
   return all.length ? sec('go', 'arrow', 'Get there', 0, html`
     <div class="bgo">${all.map((l) => html`
-      <div class="bcard"><span class="ic-wrap">${icon(l.icon)}</span><span class="when">${SLOT_LABEL[l.k]}</span><span class="txt">${l.text}</span></div>`)}
+      <div class="bcard"><span class="ic-wrap">${icon(l.icon)}</span><span class="when">${SLOT_LABEL[l.k]}</span><span class="txt">${l.text}</span>${l.hop ? html`<a class="chip bways" href="index.html#hop-${l.hop}">other ways ${icon('arrow')}</a>` : ''}</div>`)}
     </div>`) : '';
 };
 

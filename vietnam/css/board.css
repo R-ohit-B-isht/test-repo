@@ -59,6 +59,9 @@ body.is-locked { overflow: hidden; }
 .bcard .txt .sub { color: var(--fg-3); font-size: var(--fs-1); }
 .bcard .amt { color: var(--fg-2); font-size: var(--fs-1); display: inline-flex; align-items: center; gap: var(--s-1); white-space: nowrap; }
 .bcard .src { color: var(--fg-3); display: inline-flex; }
+.bcard .bways { text-decoration: none; color: var(--fg-2); white-space: nowrap; }
+.bcard .bways:hover { color: var(--lantern); }
+.bcard .bways:focus-visible { outline: 2px solid var(--lantern); outline-offset: 2px; }
 .bcard .src .ic { width: 13px; height: 13px; }
 .bsec-eat .bcard .ic-wrap { background: var(--sun-soft); color: color-mix(in srgb, var(--sun) 60%, var(--fg)); }
 .bsec-sleep .bcard .ic-wrap { background: var(--jade-soft); color: var(--jade); }

@@ -1,0 +1,39 @@
+/* Ways to get there (route page): one strip per hop, one tile per way. */
+.hops { margin-top: var(--s-4); display: grid; gap: var(--s-3); }
+.hop { padding-top: var(--s-3); border-top: 1px dashed var(--line); display: grid; gap: var(--s-2); }
+.hop-head { display: flex; align-items: center; gap: var(--s-2); flex-wrap: wrap; }
+.hop-head b { font-weight: 600; }
+.hop-ways { display: grid; gap: var(--s-2); grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); }
+.hop-way { display: grid; gap: var(--s-1); min-width: 0; }
+.hop-tile {
+  display: grid; grid-template-columns: 24px minmax(0, 1fr); grid-template-areas: 'mode name' 'bar bar' 'meta meta' 'note note';
+  gap: var(--s-1) var(--s-2); align-items: center; width: 100%; text-align: left;
+  padding: var(--s-2) var(--s-3); border-radius: var(--r-card); border: 1px solid var(--line); background: var(--bg-2); color: var(--fg);
+  font: inherit; font-size: var(--fs-1); line-height: 1.3;
+  transition: border-color var(--t-fast) var(--ease-out), background var(--t-fast) var(--ease-out), transform var(--t-fast) var(--ease-out);
+}
+button.hop-tile { cursor: pointer; }
+button.hop-tile:hover { background: var(--card); }
+button.hop-tile:active { transform: scale(0.97); }
+button.hop-tile:focus-visible { outline: 2px solid var(--lantern); outline-offset: 2px; }
+.hop-way.on .hop-tile { border-color: var(--jade); background: var(--card); box-shadow: inset 0 0 0 1px var(--jade); }
+.hop-way.on .hop-mode { color: var(--jade); }
+.hop-mode { grid-area: mode; color: var(--fg-2); display: grid; place-items: center; }
+.hop-mode .ic { width: 20px; height: 20px; }
+.hop-name { grid-area: name; font-weight: 600; font-size: var(--fs-2); }
+.hop-bar { grid-area: bar; height: 4px; border-radius: 2px; background: var(--line); overflow: hidden; }
+.hop-bar i { display: block; height: 100%; background: var(--fg-3); border-radius: 2px; transition: width var(--t-base) var(--ease-out); }
+.hop-way.on .hop-bar i { background: var(--jade); }
+.hop-meta { grid-area: meta; display: flex; justify-content: space-between; align-items: baseline; gap: var(--s-2); min-width: 0; }
+.hop-time { color: var(--fg-2); white-space: nowrap; }
+.hop-amt { font-weight: 600; text-align: right; display: inline-flex; flex-wrap: wrap; justify-content: flex-end; align-items: baseline; gap: 2px 6px; }
+.hop-amt small { font-weight: 400; color: var(--fg-3); }
+.hop-amt.muted { font-weight: 400; }
+.hop-note { grid-area: note; color: var(--fg-3); }
+.hop-links { display: flex; flex-wrap: wrap; gap: var(--s-1) var(--s-2); padding: 0 var(--s-2); font-size: var(--fs-1); }
+.hop-links a { display: inline-flex; align-items: center; gap: 3px; color: var(--fg-2); text-decoration: none; border-bottom: 1px dashed var(--line); }
+.hop-links a:hover { color: var(--lantern); border-color: var(--lantern); }
+.hop-links a:focus-visible { outline: 2px solid var(--lantern); outline-offset: 2px; border-radius: 2px; }
+.hop-links .ic { width: 12px; height: 12px; }
+@media (max-width: 400px) { .hop-ways { grid-template-columns: 1fr; } }
+@media (prefers-reduced-motion: reduce) { .hop-tile, .hop-bar i { transition: none; } button.hop-tile:active { transform: none; } }
