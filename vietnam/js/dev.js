@@ -5,7 +5,9 @@ import { computeBudget } from './budget.js';
 import { CHECKLIST } from './data/checklist.js';
 import { ACTIVITIES, DEFAULT_PICKS } from './data/activities.js';
 import { isoOf } from './data/trip.js';
-import { cyclePin } from './clock.js';
+import { cyclePin, today } from './clock.js';
+import { shiftISO } from './ritual.js';
+import { MICRO } from './data/ritual.js';
 
 // Developer bar (Command pattern: each button is a named action on the store).
 // Opens with ?dev=1, localStorage.IS_DEV='true', or the D key.
@@ -50,7 +52,7 @@ export function mountDev(store) {
   const ACTIONS = {
     'Cycle route': () => store.set((s) => ({ strategy: STRATEGIES[(STRATEGIES.findIndex((x) => x.id === s.strategy) + 1) % STRATEGIES.length].id })),
     'All picks': () => store.setPicks(Object.fromEntries(ACTIVITIES.map((x) => [x.id, true]))),
-    'No picks': () => store.setPicks({}),
+    'No picks': () => store.setPicks(Object.fromEntries(ACTIVITIES.map((x) => [x.id, false]))),
     'Default picks': () => store.setPicks({ ...DEFAULT_PICKS }),
     'Parks + cruise': () => store.setPicks(Object.fromEntries(ACTIVITIES.filter((x) => x.tag === 'park' || x.id === 'halongOvernight').map((x) => [x.id, true]))),
     'Night owl': () => store.setPicks(Object.fromEntries(ACTIVITIES.filter((x) => x.tag === 'night' || x.must).map((x) => [x.id, true]))),
@@ -75,6 +77,14 @@ export function mountDev(store) {
       store.set({ ...base, hearts });
     },
     'Votes: clear': () => store.set({ hearts: {} }),
+    // Ritual fixtures: a live 5-day streak ending today (on the pinned clock), or
+    // everything ticked so the T-1 "ready" moment can be seen without waiting.
+    'Ritual: streak 5': () => store.set((s) => ({ ritual: { ...s.ritual, dates: Array.from({ length: 5 }, (_, i) => shiftISO(today(), -i)) } })),
+    'Ritual: all done': () => store.set({
+      checklist: Object.fromEntries(CHECKLIST.map((c) => [c.id, true])),
+      ritual: { dates: Array.from({ length: 5 }, (_, i) => shiftISO(today(), -i)), done: MICRO.map((m) => m.id) },
+    }),
+    'Ritual: clear': () => store.set({ ritual: { dates: [], done: [] } }),
     'Clock: cycle': () => { const l = cyclePin(); $('[data-act="Clock: cycle"]', bar).textContent = `Clock: ${l}`; store.set({}); },
     'Fares: clear logs': () => store.set({ fares: {} }),
     'Dump budget': () => { $('pre', bar).hidden = !$('pre', bar).hidden; },

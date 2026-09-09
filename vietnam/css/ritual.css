@@ -1,0 +1,90 @@
+/* Countdown ritual — Duolingo streak dots, Ahead's one-task-a-day cadence.
+   Three columns on desktop (count · task · week), stacked on phones. The
+   lantern is the peak: it only lights when nothing is left to do. */
+
+.ritual-host:empty { display: none; }
+.ritual-host { margin-bottom: var(--s-4); }
+.ritual {
+  display: grid; grid-template-columns: auto minmax(0, 1fr) auto; gap: var(--s-4); align-items: center;
+  border-left: 4px solid var(--jade);
+}
+.ritual.is-eve, .ritual.is-ready { border-left-color: var(--lantern); }
+.ritual.is-trip { border-left-color: var(--sun); }
+.ritual.is-after { border-left-color: var(--line); }
+
+.ritual-count { display: grid; gap: 2px; min-width: 132px; }
+.ritual-count .num { display: block; font: 500 clamp(2rem, 4vw, 2.75rem) / 1 var(--font-display); letter-spacing: -0.03em; margin-top: 4px; }
+.ritual.is-ready .ritual-count .num, .ritual.is-eve .ritual-count .num { color: var(--lantern); }
+.ritual-count .sub { font-size: var(--fs-1); color: var(--fg-2); }
+
+.ritual-body { display: grid; gap: var(--s-2); min-width: 0; }
+.ritual-task, .ritual-rest { display: grid; grid-template-columns: 32px minmax(0, 1fr) auto; gap: var(--s-3); align-items: start; }
+.ritual .ic-wrap { width: 32px; height: 32px; border-radius: 50%; display: grid; place-items: center; background: var(--jade-soft); color: var(--jade); }
+.ritual .ic-wrap .ic { width: 16px; height: 16px; }
+.ritual .ic-wrap.is-done { background: var(--jade); color: var(--paper); }
+.ritual-task.is-late .ic-wrap { background: var(--sun-soft); color: color-mix(in srgb, var(--sun) 60%, var(--fg)); }
+.ritual .txt { min-width: 0; }
+.ritual .txt b { display: block; font-size: var(--fs-2); }
+.ritual .txt span { display: block; font-size: var(--fs-1); color: var(--fg-2); margin-top: 2px; }
+.ritual .txt .links { margin-top: var(--s-2); }
+.ritual .side { display: grid; justify-items: end; gap: 4px; }
+.ritual .when { font: 500 11px var(--font-mono); color: var(--fg-3); white-space: nowrap; }
+.ritual-task.is-late .when { color: color-mix(in srgb, var(--sun) 60%, var(--fg)); }
+.ritual .tick { width: 40px; height: 40px; padding: 0; background: none; border: 0; border-radius: 50%; cursor: pointer; display: grid; place-items: center; }
+.ritual .tick .box {
+  width: 32px; height: 32px; border-radius: 50%; border: 2px solid var(--line); display: grid; place-items: center; background: var(--card); color: var(--paper);
+  transition: background-color var(--t-fast) var(--ease-out), border-color var(--t-fast) var(--ease-out), transform var(--t-fast) var(--ease-out);
+}
+.ritual .tick .box .ic { scale: 0; transition: scale var(--t-fast) var(--ease-out); }
+.ritual .tick:hover .box { border-color: var(--jade); }
+.ritual .tick:active .box { transform: scale(0.9); }
+.ritual .tick:focus-visible { outline: 2px solid var(--lantern); outline-offset: 2px; }
+.ritual-rest .btn { align-self: center; }
+
+.ritual-more { border-top: 1px solid var(--line); padding-top: var(--s-2); }
+.ritual-more summary { cursor: pointer; font: 500 var(--fs-1) var(--font-ui); color: var(--fg-2); list-style: none; display: inline-flex; align-items: center; gap: 6px; min-height: 28px; }
+.ritual-more summary::-webkit-details-marker { display: none; }
+.ritual-more summary::before { content: '+'; font-family: var(--font-mono); color: color-mix(in srgb, var(--sun) 60%, var(--fg)); }
+.ritual-more[open] summary::before { content: '−'; }
+.ritual-more summary:focus-visible { outline: 2px solid var(--lantern); outline-offset: 2px; border-radius: 4px; }
+.ritual-more .ritual-task { padding-top: var(--s-3); }
+
+/* Ready: the peak. Lantern lights, copy goes short. */
+.ritual-ready { text-align: center; padding: var(--s-2) 0; }
+.ritual-ready .lantern-glow { color: var(--lantern); width: 44px; height: 44px; margin: 0 auto var(--s-2); transform-origin: 50% 0; animation: ritual-swing 900ms var(--ease-out) 2; }
+.ritual-ready .lantern-glow .ic { width: 44px; height: 44px; filter: drop-shadow(0 0 12px color-mix(in srgb, var(--lantern) 55%, transparent)); }
+.ritual-ready h3 { font: 600 var(--fs-3) / 1.1 var(--font-display); letter-spacing: -0.01em; margin: 0; }
+.ritual-ready p { margin: 4px 0 0; font-size: var(--fs-1); color: var(--fg-2); }
+@keyframes ritual-swing { 0% { rotate: -8deg; } 50% { rotate: 8deg; } 100% { rotate: 0deg; } }
+
+/* Week dots + streak */
+.ritual-foot { display: grid; gap: var(--s-2); justify-items: end; }
+.ritual-week { display: flex; gap: 6px; }
+.ritual-week span { display: grid; justify-items: center; gap: 3px; font: 500 10px var(--font-mono); color: var(--fg-3); }
+.ritual-week i { width: 12px; height: 12px; border-radius: 50%; border: 2px solid var(--line); background: transparent; transition: background-color var(--t-fast) var(--ease-out), border-color var(--t-fast) var(--ease-out); }
+.ritual-week .is-hit i { background: var(--jade); border-color: var(--jade); }
+.ritual-week .is-today i { border-color: var(--fg-2); }
+.ritual-week .is-today.is-hit i { border-color: var(--jade); box-shadow: 0 0 0 2px color-mix(in srgb, var(--jade) 25%, transparent); }
+.ritual-week .is-today { color: var(--fg); }
+.ritual-streak { display: inline-flex; align-items: center; gap: 4px; font: 500 var(--fs-1) var(--font-mono); color: var(--fg-2); }
+.ritual-streak .ic { width: 13px; height: 13px; color: var(--jade); }
+.ritual.is-ticked .ritual-streak { color: var(--jade); }
+
+@media (max-width: 760px) {
+  .ritual { grid-template-columns: 1fr; gap: var(--s-3); }
+  .ritual-count { grid-template-columns: auto 1fr; align-items: baseline; column-gap: var(--s-3); }
+  .ritual-count .eyebrow { grid-column: 1 / -1; }
+  .ritual-count .num { font-size: 2rem; margin-top: 0; }
+  .ritual-foot { grid-template-columns: 1fr auto; justify-items: start; align-items: center; }
+}
+@media (max-width: 480px) {
+  .ritual-task, .ritual-rest { gap: var(--s-2) var(--s-3); }
+  .ritual .side { grid-template-columns: 1fr; justify-items: center; }
+  .ritual .side .when { order: 1; }
+  .ritual-rest { grid-template-columns: 32px minmax(0, 1fr); }
+  .ritual-rest .btn { grid-column: 2; justify-self: start; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .ritual-ready .lantern-glow { animation: none; }
+}

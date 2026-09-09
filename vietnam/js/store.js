@@ -39,7 +39,8 @@ export function createStore() {
       this.set((s) => ({ picks: { ...s.picks, [id]: !s.picks[id] } }));
     },
     setPicks(picks) {
-      this.set({ picks });
+      const off = Object.fromEntries(Object.keys(DEFAULT_STATE.picks).map((id) => [id, false]));
+      this.set({ picks: { ...off, ...picks } });
     },
     // Hearts: one flag per activity per person (votes.js).
     toggleHeart(id, pid) {
@@ -51,6 +52,19 @@ export function createStore() {
     },
     toggleCheck(id) {
       this.set((s) => ({ checklist: { ...s.checklist, [id]: !s.checklist[id] } }));
+    },
+    // Countdown ritual (ritual.js): tick today's task. Booking steps tick the
+    // checklist, micro tasks land in ritual.done; either way today joins the streak.
+    tickRitual(id, isStep, iso) {
+      this.set((s) => {
+        const r = s.ritual || {};
+        const dates = (r.dates || []).includes(iso) ? r.dates : [...(r.dates || []), iso];
+        const done = isStep || (r.done || []).includes(id) ? (r.done || []) : [...(r.done || []), id];
+        return {
+          ritual: { ...r, dates, done },
+          ...(isStep ? { checklist: { ...s.checklist, [id]: true } } : {}),
+        };
+      });
     },
     // Manager records: one per slot id. A slot marked booked / done also ticks
     // its checklist step, so the Book page and the Manager never disagree.

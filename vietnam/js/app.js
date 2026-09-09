@@ -15,6 +15,7 @@ import { mountExport, renderExport } from './render/export.js';
 import { mountBrain } from './render/brain.js';
 import { mountReel } from './render/reel.js';
 import { mountVotes } from './render/votes.js';
+import { mountRitual, renderRitual } from './render/ritual.js';
 import { renderSources, renderFooter } from './render/sources.js';
 import { mountShell } from './chrome/shell.js';
 import { mountTheme } from './chrome/theme.js';
@@ -30,11 +31,11 @@ import { mountDev } from './dev.js';
 
 const PAGE = {
   route: [[mountHero, renderHero], [mountRoute, renderRoute]],
-  days: [[mountItinerary, renderItinerary]],
+  days: [[mountRitual, renderRitual], [mountItinerary, renderItinerary]],
   picks: [[mountPicker, renderPicker]],
   budget: [[mountBudget, renderBudget]],
   calendar: [[mountCalendar, renderCalendar], [mountSheet, renderSheet]],
-  book: [[mountChecklist, renderChecklist], [mountExport, renderExport]],
+  book: [[mountRitual, renderRitual], [mountChecklist, renderChecklist], [mountExport, renderExport]],
   manager: [[mountManager, renderManager]],
   split: [[mountSplit, renderSplit]],
   sources: [[renderSources, null]],

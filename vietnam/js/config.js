@@ -29,7 +29,7 @@ export const DEFAULT_STATE = {
   order: {},        // plan.js · your drag order of picks per day { [n]: [ids] }
   hops: {},         // data/hops.js · how you do each intercity hop { [hopId]: wayId }
   hearts: {},       // votes.js · { [activityId]: { [personId]: true } }
-  ritual: { dates: [] }, // ritual.js · ISO days you ticked a prep task (streak)
+  ritual: { dates: [], done: [] }, // ritual.js · ISO days you ticked a task (streak), micro task ids done
   cash: [],         // cash.js · ATM withdrawals { id, iso, vnd, fee, inr, deleted }
   fxLive: null,     // fx.js · last live rate fetched { vndPerInr, iso, src }
   trail: [],        // trail.js · GPS points you dropped { id, t, lat, lng, acc, day, deleted }
