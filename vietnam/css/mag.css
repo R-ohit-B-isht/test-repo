@@ -75,7 +75,9 @@
 .mg-col .mg-h + .mg-h, .mg-meals + .mg-h { margin-top: var(--s-3); }
 
 .mg-slot { display: grid; grid-template-columns: 44px minmax(0, 1fr); gap: var(--s-3); align-items: start; }
-.mg-slot > .lbl { padding-top: 12px; }
+.mg-slot > .lbl { grid-column: 1; padding-top: 12px; }
+.mg-slot > :not(.lbl) { grid-column: 2; min-width: 0; }
+.mg-do .txt { min-width: 0; }
 .mg-fixed, .mg-lead, .mg-open { display: flex; align-items: center; gap: var(--s-2); padding: 10px 0; font-size: var(--fs-2); color: var(--fg-2); }
 .mg-fixed .ic { width: 16px; height: 16px; flex: none; color: var(--fg-3); }
 .mg-lead { padding-bottom: 0; }
@@ -88,8 +90,9 @@
 .mg-ph .ic { width: 22px; height: 22px; }
 .mg-do b { display: block; font: 500 var(--fs-3) / 1.15 var(--font-display); letter-spacing: -0.015em; overflow-wrap: anywhere; }
 @media (max-width: 480px) {
-  .mg-do { grid-template-columns: 72px minmax(0, 1fr) auto; }
-  .mg-do img, .mg-ph { width: 72px; }
+  .mg-do { grid-template-columns: 72px minmax(0, 1fr); gap: 4px var(--s-3); }
+  .mg-do img, .mg-ph { width: 72px; grid-row: 1 / 3; }
+  .mg-do .amt { grid-column: 2; justify-self: start; }
   .mg-do b { font-size: 1.125rem; }
 }
 .mg-do.is-cont { grid-template-columns: minmax(0, 1fr); padding: 6px 0; }

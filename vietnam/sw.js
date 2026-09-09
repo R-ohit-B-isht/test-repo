@@ -4,7 +4,7 @@
    Street-map tiles (CARTO only) have two caches: the cities the user chose to
    save (`tiles-v1`, written by js/gmap/cache.js, kept across versions) and a
    small rolling cache of tiles seen while browsing. */
-const VERSION = 'v19';
+const VERSION = 'v20';
 const SHELL = `shell-${VERSION}`;
 const MEDIA = `media-${VERSION}`;
 const MEDIA_MAX = 240;
