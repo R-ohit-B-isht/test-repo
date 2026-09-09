@@ -5,6 +5,7 @@ import { compareStrategies } from '../budget.js';
 import { PRICES, KIND_LABEL, CHECKED } from '../data/prices.js';
 import { SOURCES } from '../data/sources.js';
 import { renderMap, mountMap } from './map.js';
+import { faresCard, mountFares } from './fares.js';
 
 // Route picker: every strategy is the same card shape (Citymapper), so the eye
 // compares price, modes and one line of "why". Legs list = the selected ticket.
@@ -57,6 +58,7 @@ export function mountRoute(store) {
   $('#routes').addEventListener('change', (e) => { if (e.target.name === 'strategy') store.set({ strategy: e.target.value }); });
   $('#berth-seg').addEventListener('change', (e) => { if (e.target.name === 'berth') store.set({ berth: e.target.value }); });
   mountMap();
+  mountFares(store);
 }
 
 const renderBerth = (state, show) => {
@@ -85,6 +87,8 @@ export function renderRoute(state) {
   const current = results.find((r) => r.id === state.strategy);
   $('#legs').innerHTML = html`<span class="eyebrow">${current.strategy.summary}</span>${current.legs.map((l) => legRow(l, state.travellers))}
     <p class="small muted legs-note">${icon('info')} Flights: ${CHECKED}, one adult, taxes in, 7 kg cabin bag only. Grab fares split by ${state.travellers}.</p>`;
+  const fares = $('#fares');
+  if (fares) fares.innerHTML = faresCard(current.legs, state);
   renderBerth(state, current.strategy.transit === 'train');
   $('#rejected').innerHTML = html`<summary>${icon('arrow')} Also checked, and dropped</summary>${REJECTED.map((r) => rejectedRow(r, state))}`;
   renderMap(current.strategy);

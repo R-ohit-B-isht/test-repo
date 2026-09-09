@@ -1,12 +1,12 @@
-import { DEFAULT_STATE } from './config.js';
+import { DEFAULT_STATE, SHAREABLE } from './config.js';
 import { DEFAULT_PICKS, BY_ID, EXTRA_STOPS } from './data/activities.js';
 import { STOPS } from './data/trip.js';
 import { STRATEGIES } from './strategies.js';
 
 // Share a plan as a URL: ?p=<base64url JSON>. Versioned, so an old link still
 // opens; anything unknown or out of range is dropped rather than trusted.
-// Only plan data travels — never the checklist, theme or the Gemini key
-// (which lives in its own localStorage slot and is not part of state anyway).
+// Only SHAREABLE plan data travels — never the checklist, documents, ledger,
+// photos, GPS or keys — and opening a link resets only those same fields.
 
 const VERSION = 1;
 const DIALS = { travellers: [1, 6], bed: [200, 6000], food: [200, 4000], local: [50, 2500], buffer: [0, 40] };
@@ -20,7 +20,8 @@ export const encodePlan = (state) => {
   const on = Object.keys(state.picks).filter((id) => state.picks[id] && !DEFAULT_PICKS[id]);
   const off = Object.keys(DEFAULT_PICKS).filter((id) => !state.picks[id]);
   const custom = (state.custom || []).map(({ id, stop, slot, h, name, note, inr, kind }) => ({ id, stop, slot, h, name, note, inr, kind }));
-  const payload = { v: VERSION, s: state.strategy, b: state.berth, on, off, custom };
+  const order = Object.fromEntries(Object.entries(state.order || {}).filter(([, ids]) => ids?.length));
+  const payload = { v: VERSION, s: state.strategy, b: state.berth, on, off, custom, order };
   Object.keys(DIALS).forEach((k) => { payload[k] = state[k]; });
   return b64(JSON.stringify(payload));
 };
@@ -58,6 +59,12 @@ export const decodePlan = (p) => {
   const known = new Set([...Object.keys(BY_ID), ...patch.custom.map((x) => x.id)]);
   (Array.isArray(d.off) ? d.off : []).forEach((id) => { if (known.has(id)) patch.picks[id] = false; });
   (Array.isArray(d.on) ? d.on : []).forEach((id) => { if (known.has(id)) patch.picks[id] = true; });
+  patch.order = {};
+  if (d.order && typeof d.order === 'object') {
+    Object.entries(d.order).forEach(([n, ids]) => {
+      if (/^[1-8]$/.test(n) && Array.isArray(ids)) patch.order[n] = ids.filter((id) => known.has(id)).slice(0, 12);
+    });
+  }
   return patch;
 };
 
@@ -71,6 +78,7 @@ export function restoreShared(store) {
   u.searchParams.delete('p');
   history.replaceState(null, '', u.toString());
   if (!patch) return 'bad';
-  store.set({ ...structuredClone(DEFAULT_STATE), checklist: store.get().checklist, theme: store.get().theme, ...patch });
+  const fresh = structuredClone(DEFAULT_STATE);
+  store.set(Object.fromEntries(SHAREABLE.map((k) => [k, k in patch ? patch[k] : fresh[k]])));
   return 'applied';
 }

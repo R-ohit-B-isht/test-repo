@@ -5,6 +5,7 @@ import { computeBudget } from './budget.js';
 import { CHECKLIST } from './data/checklist.js';
 import { ACTIVITIES, DEFAULT_PICKS } from './data/activities.js';
 import { isoOf } from './data/trip.js';
+import { cyclePin } from './clock.js';
 
 // Developer bar (Command pattern: each button is a named action on the store).
 // Opens with ?dev=1, localStorage.IS_DEV='true', or the D key.
@@ -55,6 +56,8 @@ export function mountDev(store) {
     'Untick all': () => store.set({ checklist: {} }),
     'Split: test ledger': () => store.set(devLedger()),
     'Split: clear': () => store.set({ me: null, people: [], expenses: [], rate: 0 }),
+    'Clock: cycle': () => { const l = cyclePin(); $('[data-act="Clock: cycle"]', bar).textContent = `Clock: ${l}`; store.set({}); },
+    'Fares: clear logs': () => store.set({ fares: {} }),
     'Dump budget': () => { $('pre', bar).hidden = !$('pre', bar).hidden; },
     Reset: () => store.reset(),
     ...Object.fromEntries(Object.entries(PRESETS).map(([k, v]) => [k, () => store.set(v)])),

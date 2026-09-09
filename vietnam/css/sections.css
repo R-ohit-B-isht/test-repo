@@ -197,3 +197,25 @@
 .pic-credits summary::-webkit-details-marker { display: none; }
 .pic-credits[open] summary { border-color: var(--fg-2); }
 .pic-credits .credits { margin-top: var(--s-2); }
+
+/* Fare watch (Hopper's verdict badge, stated as a rule) */
+.fares { margin-top: var(--s-4); display: grid; gap: var(--s-3); }
+.fare-top { display: flex; justify-content: space-between; align-items: flex-end; gap: var(--s-3); flex-wrap: wrap; }
+.fare { padding-top: var(--s-3); border-top: 1px dashed var(--line); display: grid; gap: var(--s-2); }
+.fare-head { display: grid; grid-template-columns: 24px minmax(0, 1fr) auto; gap: var(--s-3); align-items: start; }
+.fare-head > .ic { color: var(--fg-2); margin-top: 2px; }
+.fare-head b { font-weight: 600; }
+.fare-verdict { font-weight: 600; }
+.fare-why { margin: 0; }
+.fare-trend.up { color: var(--sun); }
+.fare-trend.down { color: var(--jade); }
+.fare-tools { gap: var(--s-2); }
+.fare-log { display: inline-flex; gap: var(--s-1); margin-left: auto; }
+.fare-log input { width: 8.5em; min-height: 34px; padding: 0 var(--s-2); border-radius: var(--r-pill); border: 1px solid var(--line); background: var(--card); color: var(--fg); font: inherit; font-size: var(--fs-1); }
+.fare-log input:focus-visible { outline: 2px solid var(--lantern); outline-offset: 1px; }
+.fare-logs { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: var(--s-1) var(--s-3); color: var(--fg-2); }
+.fare-logs li { display: inline-flex; align-items: center; gap: 4px; }
+@media (max-width: 560px) {
+  .fare-log { margin-left: 0; width: 100%; }
+  .fare-log input { flex: 1; }
+}

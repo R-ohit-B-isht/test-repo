@@ -10,6 +10,7 @@ const p = (amount, source, kind, range, extra = {}) => ({ amount, source, kind, 
 const flight = (amount, source, date, carrier, range, iso, isoBack) => p(amount, source, 'observed', range, { date, carrier, iso, isoBack });
 
 export const CHECKED = 'Google Flights, checked 7 Sep 2026';
+export const CHECKED_ISO = '2026-09-07';
 
 export const PRICES = {
   // International, one way. Searched for the exact dates below.

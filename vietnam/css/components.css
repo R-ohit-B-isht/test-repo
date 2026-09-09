@@ -21,6 +21,14 @@
 .btn-ghost:hover { background: var(--bg-2); }
 .btn-icon { width: 40px; min-height: 40px; padding: 0; border-radius: 50%; background: transparent; color: var(--fg); border: 1px solid var(--line); }
 .btn-icon:hover { background: var(--bg-2); }
+.btn-sm { min-height: 34px; padding: 0 var(--s-3); font-size: var(--fs-1); background: var(--bg-2); color: var(--fg); border: 1px solid var(--line); }
+.btn-sm:hover { background: var(--card); }
+.btn-sm .ic { width: 14px; height: 14px; }
+.link { display: inline-flex; align-items: center; gap: 4px; background: none; border: 0; padding: 0; color: var(--fg-2); font: inherit; cursor: pointer; text-decoration: underline; text-decoration-color: var(--line); text-underline-offset: 3px; }
+.link:hover { color: var(--lantern); }
+.link .ic { width: 14px; height: 14px; }
+.row { display: flex; flex-wrap: wrap; gap: var(--s-2); align-items: center; }
+.h3 { font: 600 var(--fs-4)/1.1 var(--font-display); overflow-wrap: anywhere; }
 
 .chip {
   display: inline-flex; align-items: center; gap: 6px; min-height: 28px; padding: 0 10px;

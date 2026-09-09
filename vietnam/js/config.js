@@ -25,7 +25,22 @@ export const DEFAULT_STATE = {
   expenses: [],
   rate: 0,
   theme: 'auto',
+  fares: {},        // fare.js · fares you logged after a recheck, per PRICES key
+  order: {},        // plan.js · your drag order of picks per day { [n]: [ids] }
+  hearts: {},       // votes.js · { [activityId]: { [personId]: true } }
+  ritual: { dates: [] }, // ritual.js · ISO days you ticked a prep task (streak)
+  cash: [],         // cash.js · ATM withdrawals { id, iso, vnd, fee, inr, deleted }
+  fxLive: null,     // fx.js · last live rate fetched { vndPerInr, iso, src }
+  trail: [],        // trail.js · GPS points you dropped { id, t, lat, lng, acc, day, deleted }
+  photos: [],       // journal.js · photo metadata { id, day, name, type, size, created, deleted }; bytes in IndexedDB
+  present: {},      // score.js · { [activityId]: { [personId]: 'planned' | 'paid' | 'showed' } }
+  imports: [],      // importer.js · pasted links { id, url, provider, act, created, deleted }
+  sync: null,       // sync.js · { room, at } once you join a room; never in share links
 };
+
+// Fields a share link may carry. Everything else is local: documents, money,
+// people, photos, GPS, keys — they never enter a URL and a link never wipes them.
+export const SHAREABLE = ['strategy', 'travellers', 'berth', 'bed', 'food', 'local', 'buffer', 'picks', 'custom', 'order'];
 
 // Gemini key lives in its own localStorage slot: never in state, never in the
 // dev dump, never sent anywhere but generativelanguage.googleapis.com.
