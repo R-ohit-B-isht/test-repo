@@ -29,6 +29,7 @@ import { mountNet } from './chrome/net.js';
 import { restoreShared } from './share.js';
 import { mountDev } from './dev.js';
 import { mountMag, renderMag } from './render/mag.js';
+import { mountScore, renderScore } from './render/score.js';
 
 // Bootstrap. Every page shares the store (localStorage), the chrome and the
 // overlays; only the renderers listed for <body data-page> mount here, so a
@@ -46,6 +47,7 @@ const PAGE = {
   today: [[mountToday, renderToday]],
   map: [[mountGmap, renderGmap]],
   trip: [[mountMag, renderMag]],
+  score: [[mountScore, renderScore]],
   sources: [[renderSources, null]],
 };
 

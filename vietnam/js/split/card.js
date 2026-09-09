@@ -1,33 +1,12 @@
 import { livePeople, personOf } from './model.js';
 import { balances, settleUp, totals } from './math.js';
 import { TRIP } from '../data/trip.js';
+import { W, PAD, PAPER, inr, avatar, clip, fontsReady, stamp, toBlob, sharePng } from '../canvas.js';
 
 // Settle-up card as an image (Splitwise's shareable "who owes who"). Drawn on
 // a canvas from the live ledger, then handed to the Web Share sheet as a PNG
 // when the browser allows files, else downloaded. Names + rupee figures only:
 // no notes, receipts or row titles leave the device.
-
-const W = 1080;
-const PAD = 72;
-const inr = (n) => '₹' + Math.round(n).toLocaleString('en-IN');
-const hsl = (h, s, l) => `hsl(${h} ${s}% ${l}%)`;
-
-const PAPER = { bg: '#f6f1e7', ink: '#1b1a17', mute: '#6f6a60', line: '#e3dccb', jade: '#1f7a5c', lantern: '#d64a1f', soft: '#efe8d8' };
-
-const fontsReady = () => (document.fonts?.ready || Promise.resolve());
-
-function avatar(ctx, p, x, y, r) {
-  const h = p?.hue ?? 14;
-  ctx.beginPath(); ctx.arc(x, y, r, 0, Math.PI * 2);
-  ctx.fillStyle = p ? hsl(h, 70, 82) : PAPER.soft; ctx.fill();
-  ctx.lineWidth = 2; ctx.strokeStyle = p ? `hsl(${h} 45% 60% / 0.5)` : PAPER.line; ctx.stroke();
-  ctx.fillStyle = p ? hsl(h, 45, 22) : PAPER.mute;
-  ctx.font = `600 ${Math.round(r * 0.9)}px Inter, system-ui, sans-serif`;
-  ctx.textAlign = 'center'; ctx.textBaseline = 'middle';
-  ctx.fillText((p?.name || '?').trim().charAt(0).toUpperCase(), x, y + 2);
-}
-
-const clip = (ctx, s, max) => { let t = s; while (t.length > 1 && ctx.measureText(t).width > max) t = t.slice(0, -1); return t === s ? s : `${t.slice(0, -1)}…`; };
 
 // Layout → { canvas, blob }. Height grows with the number of rows.
 export async function drawSettleCard(state) {
@@ -99,24 +78,13 @@ export async function drawSettleCard(state) {
     y += 80;
   }
 
-  ctx.textAlign = 'left'; ctx.fillStyle = PAPER.mute; ctx.font = '400 24px Inter, system-ui, sans-serif';
-  const d = new Date();
-  ctx.fillText(`${d.toLocaleDateString('en-IN', { day: 'numeric', month: 'short', year: 'numeric' })} · from the Vietnam planner`, PAD, H - 60);
-
-  const blob = await new Promise((res) => c.toBlob(res, 'image/png'));
+  stamp(ctx, H, 'who owes who');
+  const blob = await toBlob(c);
   return { canvas: c, blob };
 }
 
 // Share sheet with the PNG when possible, else save it. Returns how it went.
 export async function shareSettleCard(state) {
   const { blob } = await drawSettleCard(state);
-  const file = new File([blob], 'vietnam-settle-up.png', { type: 'image/png' });
-  if (navigator.canShare?.({ files: [file] })) {
-    try { await navigator.share({ files: [file], title: 'Vietnam · who owes who' }); return 'shared'; } catch (e) { if (e.name === 'AbortError') return 'cancelled'; }
-  }
-  const url = URL.createObjectURL(blob);
-  const a = Object.assign(document.createElement('a'), { href: url, download: file.name });
-  document.body.appendChild(a); a.click(); a.remove();
-  setTimeout(() => URL.revokeObjectURL(url), 2000);
-  return 'saved';
+  return sharePng(blob, 'vietnam-settle-up.png', 'Vietnam · who owes who');
 }

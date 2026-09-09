@@ -4,7 +4,7 @@
    Street-map tiles (CARTO only) have two caches: the cities the user chose to
    save (`tiles-v1`, written by js/gmap/cache.js, kept across versions) and a
    small rolling cache of tiles seen while browsing. */
-const VERSION = 'v16';
+const VERSION = 'v17';
 const SHELL = `shell-${VERSION}`;
 const MEDIA = `media-${VERSION}`;
 const MEDIA_MAX = 240;
@@ -12,14 +12,14 @@ const TILES = 'tiles-v1';
 const TILES_SEEN = 'tiles-seen-v1';
 const TILES_SEEN_MAX = 300;
 
-const PAGES = ['index.html', 'days.html', 'picks.html', 'budget.html', 'calendar.html', 'book.html', 'manager.html', 'split.html', 'today.html', 'map.html', 'trip.html', 'sources.html'];
+const PAGES = ['index.html', 'days.html', 'picks.html', 'budget.html', 'calendar.html', 'book.html', 'manager.html', 'split.html', 'today.html', 'map.html', 'trip.html', 'score.html', 'sources.html'];
 const PRECACHE = [
   './', ...PAGES, 'manifest.webmanifest',
   'assets/favicon.svg', 'assets/wave.svg', 'assets/icon-192.png', 'assets/icon-512.png',
   'assets/photos/hanoi.jpg', 'assets/photos/halong.jpg', 'assets/photos/ninhbinh.jpg', 'assets/photos/hue.jpg', 'assets/photos/haivan.jpg',
   'assets/photos/danang.jpg', 'assets/photos/hoian.jpg', 'assets/photos/train.jpg', 'assets/photos/golden.jpg',
   'css/app.css', 'css/tokens.css', 'css/base.css', 'css/components.css', 'css/chrome.css', 'css/sections.css', 'css/pages.css',
-  'css/picker.css', 'css/importer.css', 'css/board.css', 'css/brain.css', 'css/reel.css', 'css/timeline.css', 'css/order.css', 'css/hops.css', 'css/votes.css', 'css/ritual.css', 'css/book.css', 'css/calendar.css', 'css/manager.css', 'css/split.css', 'css/today.css', 'css/trail.css', 'css/gmap.css', 'css/mag.css', 'css/print.css',
+  'css/picker.css', 'css/importer.css', 'css/board.css', 'css/brain.css', 'css/reel.css', 'css/timeline.css', 'css/order.css', 'css/hops.css', 'css/votes.css', 'css/ritual.css', 'css/book.css', 'css/calendar.css', 'css/manager.css', 'css/split.css', 'css/today.css', 'css/trail.css', 'css/gmap.css', 'css/mag.css', 'css/score.css', 'css/print.css',
   'vendor/leaflet/leaflet.js', 'vendor/leaflet/leaflet.css', 'vendor/leaflet/images/layers.png', 'vendor/leaflet/images/layers-2x.png',
   'vendor/leaflet/images/marker-icon.png', 'vendor/leaflet/images/marker-icon-2x.png', 'vendor/leaflet/images/marker-shadow.png',
   'js/app.js', 'js/pages.js', 'js/store.js', 'js/config.js', 'js/dom.js', 'js/icons.js', 'js/plan.js', 'js/strategies.js', 'js/timeline.js',
@@ -31,7 +31,8 @@ const PRECACHE = [
   'js/gmap.js', 'js/gmap/tiles.js', 'js/gmap/cache.js', 'js/render/gmap.js', 'js/render/gm/leaflet.js', 'js/render/gm/view.js', 'js/render/gm/offline.js',
   'js/export/dates.js', 'js/export/ics.js', 'js/export/gcal.js', 'js/events.js', 'js/gcal/sync.js',
   'js/vault/slots.js', 'js/vault/db.js', 'js/vault/files.js', 'js/vault/parse.js',
-  'js/split/model.js', 'js/split/math.js', 'js/split/csv.js',
+  'js/split/model.js', 'js/split/math.js', 'js/split/csv.js', 'js/split/card.js', 'js/canvas.js',
+  'js/score.js', 'js/score/card.js', 'js/render/score.js', 'js/render/sc/view.js',
   'js/brain/gemini.js', 'js/brain/context.js', 'js/brain/apply.js', 'js/brain/vibe.js',
   'js/render/hero.js', 'js/render/route.js', 'js/render/map.js', 'js/render/itinerary.js', 'js/render/dayboard.js', 'js/render/timeline.js', 'js/render/order.js', 'js/render/orderDrag.js', 'js/render/hops.js', 'js/route.js',
   'js/render/picker.js', 'js/render/picks.js', 'js/render/tile.js', 'js/render/gallery.js', 'js/render/budget.js', 'js/render/checklist.js',

@@ -92,7 +92,7 @@ export function mountDev(store) {
     'Tick all': () => store.set({ checklist: allChecks(true) }),
     'Untick all': () => store.set({ checklist: {} }),
     'Split: test ledger': () => store.set(devLedger()),
-    'Split: clear': () => store.set({ me: null, people: [], expenses: [], cash: [], rate: 0, fxLive: null, hearts: {} }),
+    'Split: clear': () => store.set({ me: null, people: [], expenses: [], cash: [], rate: 0, fxLive: null, hearts: {}, present: {} }),
     // Test voters (from the test ledger's people) hearting a spread of picks so the
     // votes card, conflicts and Gemini resolve can be exercised without friends.
     'Votes: test hearts': () => {
@@ -108,6 +108,18 @@ export function mountDev(store) {
       store.set({ ...base, hearts });
     },
     'Votes: clear': () => store.set({ hearts: {} }),
+    // Score fixtures: the test people ticked "was there" on the first days' picks
+    // so standings, breakdowns and the board image have something to show.
+    'Score: test showed': () => {
+      const s = store.get();
+      const base = s.people.filter((p) => !p.deleted).length >= 3 ? {} : devLedger();
+      const ppl = (base.people || s.people).filter((p) => !p.deleted).map((p) => p.id);
+      const on = ACTIVITIES.filter((x) => !x.closed && s.picks[x.id]).map((x) => x.id);
+      const present = {};
+      on.slice(0, 5).forEach((id, i) => { present[id] = Object.fromEntries(ppl.slice(0, ppl.length - (i % 2)).map((pid) => [pid, 'showed'])); });
+      store.set({ ...base, present });
+    },
+    'Score: clear': () => store.set({ present: {} }),
     // Ritual fixtures: a live 5-day streak ending today (on the pinned clock), or
     // everything ticked so the T-1 "ready" moment can be seen without waiting.
     'Ritual: streak 5': () => store.set((s) => ({ ritual: { ...s.ritual, dates: Array.from({ length: 5 }, (_, i) => shiftISO(today(), -i)) } })),

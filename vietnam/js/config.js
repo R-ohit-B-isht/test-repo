@@ -34,7 +34,7 @@ export const DEFAULT_STATE = {
   fxLive: null,     // fx.js · last live rate fetched { vndPerInr, iso, src }
   trail: [],        // trail.js · GPS points you dropped { id, t, lat, lng, acc, day, deleted }
   photos: [],       // journal.js · photo metadata { id, day, name, type, size, created, deleted }; bytes in IndexedDB
-  present: {},      // score.js · { [activityId]: { [personId]: 'planned' | 'paid' | 'showed' } }
+  present: {},      // score.js · { [activityId]: { [personId]: 'showed' } } — "was there" ticks
   imports: [],      // importer.js · pasted links { id, url, provider, act, created, deleted }
   sync: null,       // sync.js · { room, at } once you join a room; never in share links
 };

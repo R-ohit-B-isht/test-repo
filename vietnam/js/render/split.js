@@ -24,6 +24,7 @@ const tools = (state) => html`
     <div class="row">
       <a class="btn btn-ghost" id="spl-csv" href="#" download="${CSV_NAME}" ${liveExpenses(state).length ? '' : 'aria-disabled="true"'}>${icon('download')}CSV</a>
       <a class="btn btn-ghost" href="calendar.html">${icon('calendar')}On the calendar</a>
+      <a class="btn btn-ghost" href="score.html">${icon('star')}Score board</a>
     </div>
   </article>`;
 

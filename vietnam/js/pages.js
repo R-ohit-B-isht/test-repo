@@ -13,7 +13,8 @@ export const PAGES = [
   { id: 'today', href: 'today.html', label: 'Today', icon: 'clock', n: '10', hashes: ['today', 'now', 'next'], tab: true },
   { id: 'map', href: 'map.html', label: 'Map', icon: 'pin', n: '11', hashes: ['streets', 'pins', 'gmap'] },
   { id: 'trip', href: 'trip.html', label: 'Magazine', icon: 'eye', n: '12', hashes: ['trip', 'magazine', 'issue'] },
-  { id: 'sources', href: 'sources.html', label: 'Sources', icon: 'link', n: '13', hashes: ['sources'], quiet: true },
+  { id: 'score', href: 'score.html', label: 'Score', icon: 'star', n: '13', hashes: ['score', 'points', 'leaderboard'] },
+  { id: 'sources', href: 'sources.html', label: 'Sources', icon: 'link', n: '14', hashes: ['sources'], quiet: true },
 ];
 
 export const currentPage = () => document.body.dataset.page || 'route';
