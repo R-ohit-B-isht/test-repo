@@ -125,7 +125,7 @@
 .spl-empty .sub { margin: 0 0 var(--s-2); max-width: 32ch; }
 
 /* Summary + balances cards. */
-.spl-sum, .spl-bal, .spl-tools { display: grid; gap: var(--s-3); padding: var(--s-4); }
+.spl-sum, .spl-bal, .spl-tools, .spl-fx, .spl-cash, .spl-daily { display: grid; gap: var(--s-3); padding: var(--s-4); }
 .spl-sum-head { display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px var(--s-2); }
 .spl-sum-head .eyebrow { flex-basis: 100%; }
 .spl-sum-head > b { font: 600 var(--fs-4)/1 var(--font-display); font-size: clamp(1.75rem, 4vw, 2.5rem); }
@@ -165,6 +165,50 @@
 .spl-tools .row { display: flex; flex-wrap: wrap; gap: var(--s-2); }
 .spl-tools .sub { margin: 0; font-size: var(--fs-1); }
 .spl-tools .btn[aria-disabled='true'] { opacity: 0.5; pointer-events: none; }
+
+/* Money cards: FX, cash, daily rings (Wise / Revolut). */
+.spl-fx .sub, .spl-cash .sub, .spl-daily .sub { margin: 0; font-size: var(--fs-1); }
+.fx-from { font-size: var(--fs-0); }
+.fx-conv { display: grid; grid-template-columns: minmax(0, 1fr) auto minmax(0, 1fr); gap: var(--s-2); align-items: end; }
+.fx-eq { padding-bottom: 10px; color: var(--fg-3); font-weight: 600; }
+.fx-override { flex: 1; min-width: 7em; max-width: 11em; }
+.fx-override input { min-height: 34px; padding: 0 var(--s-2); font-size: var(--fs-1); }
+.fx-err { color: var(--lantern); display: flex; gap: 6px; align-items: center; }
+.fx-err .ic { width: 14px; height: 14px; flex: none; }
+.spl-fx .row { align-items: end; }
+.cash-you dd.is-down { color: var(--lantern); }
+.cash-list { list-style: none; margin: 0; padding: 0; display: grid; gap: 4px; font-size: var(--fs-1); }
+.cash-list li { display: grid; grid-template-columns: 44px auto minmax(0, 1fr) auto; gap: var(--s-2); align-items: center; padding: 4px 0; border-bottom: 1px solid var(--line); }
+.cash-list li:last-child { border-bottom: 0; }
+.cash-list b { font-weight: 600; }
+.cash-list .sub { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.spl-cash { container-type: inline-size; }
+.cash-form { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: var(--s-2); align-items: end; }
+.cash-form .cash-atm { grid-column: 1 / -1; }
+.cash-form .btn { grid-column: 1 / -1; justify-self: start; }
+.cash-form input { min-height: 36px; padding: 0 var(--s-2); font-size: var(--fs-1); min-width: 0; width: 100%; }
+@container (min-width: 440px) {
+  .cash-form { grid-template-columns: repeat(4, minmax(0, 1fr)); }
+  .cash-form .cash-atm { grid-column: 1 / 4; }
+  .cash-form .btn { grid-column: 4; justify-self: stretch; }
+}
+.ring { width: 32px; height: 32px; transform: rotate(0deg); }
+.ring.lg { width: 72px; height: 72px; }
+.ring-bg { fill: none; stroke: var(--bg-2); stroke-width: 3.5; }
+.ring-fg { fill: none; stroke: var(--jade); stroke-width: 3.5; stroke-linecap: round; transition: stroke-dasharray var(--t-base) var(--ease-out); }
+.ring.is-over .ring-fg { stroke: var(--lantern); }
+.ring-txt { font: 600 8px var(--font-mono); fill: var(--fg); text-anchor: middle; }
+.daily-top { display: flex; gap: var(--s-3); align-items: center; }
+.daily-top .ring { flex: none; }
+.daily-big { display: block; font: 600 var(--fs-4)/1 var(--font-display); font-size: clamp(1.5rem, 4vw, 2rem); margin: 4px 0 2px; }
+.daily-strip { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(8, minmax(0, 1fr)); gap: 4px; }
+.daily-strip a { display: grid; justify-items: center; gap: 2px; padding: 4px 0; border-radius: var(--r-ctl); color: var(--fg-2); font: 500 11px var(--font-mono); text-decoration: none; }
+.daily-strip a:hover { background: var(--bg-2); }
+.daily-strip a:focus-visible { outline: 2px solid var(--lantern); outline-offset: 1px; }
+.daily-strip .is-empty .ring-fg { stroke: transparent; }
+.daily-strip .is-today a { background: var(--bg-2); color: var(--fg); }
+.daily-strip .ring { width: 28px; height: 28px; }
+.is-down { color: var(--lantern); }
 
 /* Floating add on phones (the toolbar button covers wide screens). */
 .fab {
@@ -228,5 +272,5 @@
 }
 
 @media (prefers-reduced-motion: reduce) {
-  .spl-bar i, .pchip, .xrow, .fab { transition: none; }
+  .spl-bar i, .pchip, .xrow, .fab, .ring-fg { transition: none; }
 }

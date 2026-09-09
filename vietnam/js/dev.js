@@ -40,7 +40,11 @@ export function mountDev(store) {
       { ...row(4, 'Test night out', 'night', 1087, ids[1], { mode: 'equal', parts: all }), amount: 300000, cur: 'VND' },
       { ...row(5, 'Test paid back', 'other', 500, ids[2], { mode: 'equal', parts: {} }), kind: 'settle', to: ids[0] },
     ];
-    return { me: ids[0], people, expenses };
+    const cash = [
+      { id: 'c-dev-1', iso: isoOf(1), vnd: 3000000, inr: 11000, fee: 200, atm: 'Test ATM, Hoi An', created: now },
+      { id: 'c-dev-2', iso: isoOf(4), vnd: 2000000, inr: 7350, fee: 0, atm: 'Test ATM, Hue', created: now },
+    ];
+    return { me: ids[0], people, expenses, cash };
   };
 
   const ACTIONS = {
@@ -55,7 +59,7 @@ export function mountDev(store) {
     'Tick all': () => store.set({ checklist: allChecks(true) }),
     'Untick all': () => store.set({ checklist: {} }),
     'Split: test ledger': () => store.set(devLedger()),
-    'Split: clear': () => store.set({ me: null, people: [], expenses: [], rate: 0 }),
+    'Split: clear': () => store.set({ me: null, people: [], expenses: [], cash: [], rate: 0, fxLive: null }),
     'Clock: cycle': () => { const l = cyclePin(); $('[data-act="Clock: cycle"]', bar).textContent = `Clock: ${l}`; store.set({}); },
     'Fares: clear logs': () => store.set({ fares: {} }),
     'Dump budget': () => { $('pre', bar).hidden = !$('pre', bar).hidden; },

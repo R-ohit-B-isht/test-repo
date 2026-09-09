@@ -1,7 +1,7 @@
 import { $, html } from '../dom.js';
 import { icon } from '../icons.js';
 import { computeBudget } from '../budget.js';
-import { livePeople, liveExpenses, personOf, rateOf } from '../split/model.js';
+import { livePeople, liveExpenses, personOf } from '../split/model.js';
 import { buildCSV, CSV_NAME } from '../split/csv.js';
 import { onboarding, head, people, summary } from './spl/head.js';
 import { balanceCard } from './spl/balances.js';
@@ -9,6 +9,7 @@ import { ledger } from './spl/ledger.js';
 import { openSheet, closeSheet, refreshSheet, syncForm } from './spl/sheet.js';
 import { saveExpense, saveSettle, removeExpense, removePerson, savePerson, addPerson, claimMe } from './spl/actions.js';
 import { openPeek, mountPeek } from './mgr/peek.js';
+import { fxCard, cashCard, dailyCard, mountMoney } from './spl/money.js';
 
 // Split page controller: maps DOM events on the page and the sheet to actions,
 // then paints every region from state. Typing happens inside the sheet, which
@@ -20,8 +21,6 @@ let csvUrl = null;
 
 const tools = (state) => html`
   <article class="card spl-tools">
-    <label class="fld"><span>₫ per ₹</span><input type="number" name="rate" inputmode="numeric" min="1" step="1" value="${state.rate > 0 ? state.rate : ''}" placeholder="${rateOf(state)}" aria-describedby="spl-rate-hint" /></label>
-    <p class="sub" id="spl-rate-hint">Blank uses the sourced mid-market rate. Cards and ATMs give a few % less.</p>
     <div class="row">
       <a class="btn btn-ghost" id="spl-csv" href="#" download="${CSV_NAME}" ${liveExpenses(state).length ? '' : 'aria-disabled="true"'}>${icon('download')}CSV</a>
       <a class="btn btn-ghost" href="calendar.html">${icon('calendar')}On the calendar</a>
@@ -78,6 +77,7 @@ export function mountSplit(s) {
   const root = $('#split');
   if (!root) return;
   mountPeek();
+  mountMoney(s);
   const sheet = $('#sheet');
   [root, sheet, $('#spl-fab')].forEach((el) => {
     el.addEventListener('submit', onSubmit);
@@ -88,6 +88,14 @@ export function mountSplit(s) {
   sheet.addEventListener('keydown', (e) => { if (e.key === 'Escape') closeSheet(); });
   root.addEventListener('keydown', (e) => { if (e.key === 'Enter' && e.target.name === 'rate') e.target.blur(); });
 }
+
+// Regions with inputs: skip the repaint while you are typing in them.
+const paintKeepingFocus = (sel, markup) => {
+  const el = $(sel);
+  if (!el) return;
+  if (el.contains(document.activeElement) && document.activeElement.tagName === 'INPUT') return;
+  el.innerHTML = markup;
+};
 
 export function renderSplit(state) {
   const root = $('#split');
@@ -101,6 +109,9 @@ export function renderSplit(state) {
   $('#spl-ledger').innerHTML = ledger(state, filter);
   $('#spl-sum').innerHTML = summary(state, computeBudget(state).group);
   $('#spl-bal').innerHTML = balanceCard(state);
+  paintKeepingFocus('#spl-daily', dailyCard(state));
+  paintKeepingFocus('#spl-fx', fxCard(state));
+  paintKeepingFocus('#spl-cash', cashCard(state));
   $('#spl-tools').innerHTML = tools(state);
   const gone = state.expenses.filter((x) => x.deleted).length;
   $('#spl-bin').textContent = gone ? `${gone} removed row${gone > 1 ? 's' : ''} kept for undo.` : '';

@@ -1,4 +1,4 @@
-import { html, inr } from '../../dom.js';
+import { html, inr, vnd } from '../../dom.js';
 import { icon } from '../../icons.js';
 import { fmtDate } from '../../export/dates.js';
 import { catOf, dayLabel, nameOf, myLine, sharesOf } from '../../split/model.js';
@@ -8,7 +8,7 @@ import { avatarOf, signed, empty } from './bits.js';
 // The ledger: every expense and payment, grouped by date (trip days named),
 // newest first. Each row is a button that opens its sheet.
 
-export const typed = (x) => (x.cur === 'VND' ? `₫${Math.round(x.amount).toLocaleString('en-US')}` : '');
+export const typed = (x) => (x.cur === 'VND' ? vnd(x.amount) : '');
 
 const who = (state, x) => {
   if (x.kind === 'settle') return html`${nameOf(state, x.by)} paid ${x.to === state.me ? 'you' : nameOf(state, x.to)} <b class="num">${inr(x.inr)}</b>`;

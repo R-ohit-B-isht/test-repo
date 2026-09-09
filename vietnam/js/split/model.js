@@ -1,6 +1,8 @@
-import { FX, TRIP } from '../data/trip.js';
+import { TRIP } from '../data/trip.js';
 import { SPLIT_MAX_INR } from '../config.js';
 import { dayOf } from '../export/dates.js';
+import { rateInfo } from '../fx.js';
+import { today } from '../clock.js';
 
 // Split ledger model. People and expenses live in state (localStorage) next to
 // the rest of the plan; a receipt photo, if any, is a Manager-style file meta
@@ -34,7 +36,7 @@ export const personOf = (state, id) => state.people.find((p) => p.id === id) || 
 export const nameOf = (state, id) => (id === state.me ? 'You' : personOf(state, id)?.name || 'Someone');
 export const me = (state) => personOf(state, state.me);
 
-export const rateOf = (state) => (state.rate > 0 ? state.rate : FX.vndPerInr);
+export const rateOf = (state) => rateInfo(state).rate;
 export const toInr = (amount, cur, state) => (cur === 'VND' ? Math.round(amount / rateOf(state)) : Math.round(amount));
 
 export const newId = (p) => `${p}-${Date.now().toString(36)}${Math.random().toString(36).slice(2, 6)}`;
@@ -82,6 +84,6 @@ export const dayLabel = (iso) => {
 export const clampInr = (n) => Math.max(0, Math.min(SPLIT_MAX_INR, Math.round(Number(n) || 0)));
 
 export const defaultIso = () => {
-  const today = new Date().toISOString().slice(0, 10);
-  return today >= TRIP.start ? today : TRIP.start;
+  const now = today();
+  return now >= TRIP.start ? now : TRIP.start;
 };

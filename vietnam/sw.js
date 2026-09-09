@@ -32,7 +32,7 @@ const PRECACHE = [
   'js/render/spl/form.js', 'js/render/spl/sheet.js', 'js/render/spl/actions.js',
 ];
 
-const NEVER = ['generativelanguage.googleapis.com', 'accounts.google.com', 'www.googleapis.com', 'calendar.google.com', 'youtube.com', 'youtube-nocookie.com', 'ytimg.com'];
+const NEVER = ['generativelanguage.googleapis.com', 'accounts.google.com', 'www.googleapis.com', 'calendar.google.com', 'youtube.com', 'youtube-nocookie.com', 'ytimg.com', 'open.er-api.com'];
 const MEDIA_HOSTS = ['upload.wikimedia.org', 'live.staticflickr.com', 'fonts.googleapis.com', 'fonts.gstatic.com'];
 
 self.addEventListener('install', (e) => {

@@ -20,3 +20,4 @@ export const $ = (sel, root = document) => root.querySelector(sel);
 export const $$ = (sel, root = document) => [...root.querySelectorAll(sel)];
 
 export const inr = (n) => '₹' + Math.round(n).toLocaleString('en-IN');
+export const vnd = (n) => '₫' + Math.round(n).toLocaleString('en-US');
