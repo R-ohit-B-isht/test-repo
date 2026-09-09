@@ -94,5 +94,5 @@ export function renderRoute(state) {
   renderHops(state);
   renderBerth(state, current.strategy.transit === 'train');
   $('#rejected').innerHTML = html`<summary>${icon('arrow')} Also checked, and dropped</summary>${REJECTED.map((r) => rejectedRow(r, state))}`;
-  renderMap(current.strategy);
+  renderMap(current.strategy, state);
 }

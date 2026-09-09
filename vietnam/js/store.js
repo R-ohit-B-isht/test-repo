@@ -122,6 +122,14 @@ export function createStore() {
     setImport(id, patch) {
       this.set((s) => ({ imports: (s.imports || []).map((r) => (r.id === id ? { ...r, ...patch } : r)) }));
     },
+    // GPS trail (trail.js). Pins are private and soft-deleted; `setPin` flips
+    // `deleted` both ways so the toast's Undo is a one-liner.
+    addPin(p) {
+      this.set((s) => ({ trail: [...(s.trail || []), p] }));
+    },
+    setPin(id, patch) {
+      this.set((s) => ({ trail: (s.trail || []).map((p) => (p.id === id ? { ...p, ...patch } : p)) }));
+    },
     reset() {
       state = structuredClone(DEFAULT_STATE);
       emit();

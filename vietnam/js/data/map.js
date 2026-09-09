@@ -13,3 +13,13 @@ export const MAP = {
     hoian: [313.6, 370.3],
   },
 };
+
+// The same Mercator fit, as a function: lat/lng → [x, y] in the viewBox.
+// Least-squares against the six city points above (max error 0.2 units).
+const MX = [44.649, -4523.374];
+const MY = [-2560.111, 1089.227];
+const merc = (lat) => Math.log(Math.tan(Math.PI / 4 + (lat * Math.PI) / 360));
+export const project = (lat, lng) => [
+  Math.round((MX[0] * lng + MX[1]) * 10) / 10,
+  Math.round((MY[0] * merc(lat) + MY[1]) * 10) / 10,
+];

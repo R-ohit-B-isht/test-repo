@@ -126,13 +126,24 @@ const setCurrent = (n) => {
 export function mountItinerary(store) {
   const shelf = $('#shelf');
   $('#day-dots').innerHTML = DAYS.map((d) => html`<button type="button" data-day="${d.n}" aria-label="Day ${d.n}"></button>`).join('');
+  // A programmatic jump owns the current day until the shelf stops scrolling;
+  // on wide screens several cards pass the observer on the way and must not win.
   let pending = null;
+  let settle = 0;
+  const settled = () => { if (pending !== null) setCurrent(pending); pending = null; };
   const go = (n) => {
     const target = $(`.day[data-day="${n}"]`, shelf);
     if (!target) return;
     pending = n;
+    clearTimeout(settle);
+    settle = setTimeout(settled, 700);
     shelf.scrollTo({ left: target.offsetLeft - shelf.offsetLeft, behavior: 'smooth' });
   };
+  shelf.addEventListener('scroll', () => {
+    if (pending === null) return;
+    clearTimeout(settle);
+    settle = setTimeout(settled, 120);
+  }, { passive: true });
   const current = () => Number($$('.day').find((el) => el.classList.contains('is-current'))?.dataset.day || 1);
   $('#day-dots').addEventListener('click', (e) => { const b = e.target.closest('button'); if (b) go(Number(b.dataset.day)); });
   $('#day-prev').addEventListener('click', () => go(Math.max(1, current() - 1)));
@@ -153,14 +164,13 @@ export function mountItinerary(store) {
   });
 
   const io = new IntersectionObserver((entries) => {
-    if (pending !== null) {
-      const r = $(`.day[data-day="${pending}"]`, shelf).getBoundingClientRect(); const s = shelf.getBoundingClientRect();
-      if (r.left >= s.left - 8 && r.right <= s.right + 8) { setCurrent(pending); pending = null; return; }
-    }
+    if (pending !== null) return;
     const best = entries.filter((e) => e.isIntersecting).sort((a, b) => b.intersectionRatio - a.intersectionRatio || a.target.dataset.day - b.target.dataset.day)[0];
     if (best) setCurrent(Number(best.target.dataset.day));
   }, { root: shelf, threshold: [0.6] });
   shelf.addEventListener('rendered', () => $$('.day', shelf).forEach((el) => io.observe(el)));
+  const asked = Number(new URLSearchParams(window.location.search).get('day'));
+  if (asked >= 1 && asked <= DAYS.length) shelf.addEventListener('rendered', () => go(asked), { once: true });
 }
 
 export function renderItinerary(state) {

@@ -8,6 +8,7 @@ import { isoOf } from './data/trip.js';
 import { cyclePin, today } from './clock.js';
 import { shiftISO } from './ritual.js';
 import { MICRO } from './data/ritual.js';
+import { devTrail } from './trail/replay.js';
 
 // Developer bar (Command pattern: each button is a named action on the store).
 // Opens with ?dev=1, localStorage.IS_DEV='true', or the D key.
@@ -121,6 +122,10 @@ export function mountDev(store) {
     // Link fixtures for the picker's "Saw it on Insta?" reader: real public clips,
     // read live through the same oEmbed / Commons calls (dev only, nothing stored).
     ...Object.fromEntries(Object.entries(LINKS).map(([k, detail]) => [`Link: ${k}`, () => document.dispatchEvent(new CustomEvent('link:read', { detail }))])),
+    // Synthetic GPS trail along the planned route (two pins a day) so the map
+    // overlay and the replay can be seen without being in Vietnam. Dev only.
+    'Trail: demo pins': () => store.set({ trail: devTrail() }),
+    'Trail: clear': () => store.set({ trail: [] }),
     'Clock: cycle': () => { const l = cyclePin(); $('[data-act="Clock: cycle"]', bar).textContent = `Clock: ${l}`; store.set({}); },
     'Fares: clear logs': () => store.set({ fares: {} }),
     'Dump budget': () => { $('pre', bar).hidden = !$('pre', bar).hidden; },

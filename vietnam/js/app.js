@@ -16,6 +16,7 @@ import { mountToday, renderToday } from './render/today.js';
 import { mountExport, renderExport } from './render/export.js';
 import { mountBrain } from './render/brain.js';
 import { mountReel } from './render/reel.js';
+import { mountReplay } from './render/replay.js';
 import { mountVotes } from './render/votes.js';
 import { mountRitual, renderRitual } from './render/ritual.js';
 import { renderSources, renderFooter } from './render/sources.js';
@@ -53,6 +54,7 @@ mountDayBoard(store);
 mountVotes(store);
 const brain = mountBrain(store);
 const reel = mountReel(store);
+const replay = mountReplay(store);
 renderFooter();
 
 store.subscribe((state) => {
@@ -63,7 +65,7 @@ store.subscribe((state) => {
 mountTheme(store);
 mountScroll();
 mountNet(shared);
-mountKeys(store, { toggleDev: mountDev(store), brain, reel });
+mountKeys(store, { toggleDev: mountDev(store), brain, reel, replay });
 
 if ('serviceWorker' in navigator) navigator.serviceWorker.register('sw.js').catch(() => {});
 
