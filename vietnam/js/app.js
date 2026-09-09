@@ -5,6 +5,7 @@ import { mountRoute, renderRoute } from './render/route.js';
 import { mountItinerary, renderItinerary } from './render/itinerary.js';
 import { mountDayBoard, renderDayBoard } from './render/dayboard.js';
 import { mountPicker, renderPicker } from './render/picker.js';
+import { mountImporter, renderImporter } from './render/importer.js';
 import { mountBudget, renderBudget } from './render/budget.js';
 import { mountChecklist, renderChecklist } from './render/checklist.js';
 import { mountCalendar, renderCalendar } from './render/calendar.js';
@@ -32,7 +33,7 @@ import { mountDev } from './dev.js';
 const PAGE = {
   route: [[mountHero, renderHero], [mountRoute, renderRoute]],
   days: [[mountRitual, renderRitual], [mountItinerary, renderItinerary]],
-  picks: [[mountPicker, renderPicker]],
+  picks: [[mountPicker, renderPicker], [mountImporter, renderImporter]],
   budget: [[mountBudget, renderBudget]],
   calendar: [[mountCalendar, renderCalendar], [mountSheet, renderSheet]],
   book: [[mountRitual, renderRitual], [mountChecklist, renderChecklist], [mountExport, renderExport]],

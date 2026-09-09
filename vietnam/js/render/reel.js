@@ -8,14 +8,15 @@ import { lookup } from '../data/activities.js';
 // play chip, the lightbox and its keyboard/focus plumbing. Nothing loads until
 // a chip is tapped, so tiles stay light.
 
-export const reelsOf = (id) => REELS[id] || [];
+// A pick saved from a YouTube link brings its own clip (`yt`).
+export const reelsOf = (x) => (x?.yt ? [{ v: x.yt, t: x.clip || x.name, by: x.by || 'YouTube', len: '', short: true }] : REELS[x?.id] || []);
 
 const poster = (r) => `https://i.ytimg.com/vi/${r.v}/hqdefault.jpg`;
 const embed = (r) => `https://www.youtube-nocookie.com/embed/${r.v}?autoplay=1&rel=0&playsinline=1`;
 const watch = (r) => `https://www.youtube.com/watch?v=${r.v}`;
 
 export const reelChip = (x) => {
-  const n = reelsOf(x.id).length;
+  const n = reelsOf(x).length;
   return n ? html`<button class="reel" type="button" data-reel="${x.id}" aria-label="Play ${n} clip${n > 1 ? 's' : ''} of ${x.name}">${icon('play')}<span>${n > 1 ? `${n} reels` : 'reel'}</span></button>` : '';
 };
 
@@ -29,7 +30,7 @@ const clipRow = (cur) => (r, i) => html`
 
 const view = (state) => {
   const x = lookup(state, ui.id);
-  const list = reelsOf(ui.id);
+  const list = reelsOf(x);
   const r = list[ui.i];
   if (!x || !r) return '';
   return html`
@@ -41,7 +42,7 @@ const view = (state) => {
       <div class="rframe ${r.short ? 'is-short' : ''}">
         <iframe src="${embed(r)}" title="${r.t}" allow="autoplay; encrypted-media; picture-in-picture" allowfullscreen referrerpolicy="strict-origin-when-cross-origin" loading="eager"></iframe>
       </div>
-      <p class="sub rmeta"><b>${r.t}</b> · ${r.by} · <a href="${watch(r)}" target="_blank" rel="noopener">YouTube ↗</a></p>
+      <p class="sub rmeta"><b>${r.t}</b>${r.by ? ` · ${r.by}` : ''} · <a href="${watch(r)}" target="_blank" rel="noopener">YouTube ↗</a></p>
       ${list.length > 1 ? html`<div class="rclips" role="group" aria-label="More clips">${list.map(clipRow(ui.i))}</div>` : ''}
     </div>`;
 };
@@ -56,7 +57,7 @@ const paint = () => {
 };
 
 const open = (id, i = 0) => {
-  if (!reelsOf(id).length) return;
+  if (!reelsOf(lookup(store.get(), id)).length) return;
   if (ui.id == null) ui.lastFocus = document.activeElement;
   ui = { ...ui, id, i };
   root.dataset.open = 'true';

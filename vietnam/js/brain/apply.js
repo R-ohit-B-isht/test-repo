@@ -75,18 +75,18 @@ const addChanges = (adds, state, out, ignored) => {
     if (names.has(a.name.trim().toLowerCase())) return ignored.push(`${a.name} is already in the catalog`);
     const x = toActivity(a);
     if (lookup(state, x.id)) return ignored.push(`${a.name} already added`);
-    out.push(change('add', `add:${x.id}`, x.name, `new · ${STOP_NAME[x.stop]} · ${x.free ? 'free' : `≈₹${x.inr} estimate`}`, (s) => ({ custom: [...(s.custom || []), x], picks: { ...s.picks, [x.id]: true } })));
+    out.push(change('add', `add:${x.id}`, x.name, `new · ${STOP_NAME[x.stop]} · ${x.free ? 'free' : `≈₹${x.inr} estimate`}`, (s) => ({ custom: [...(s.custom || []).filter((c) => c.id !== x.id), x], picks: { ...s.picks, [x.id]: true } })));
   });
 };
 
 const removeChanges = (ids, state, out, ignored) => {
   (Array.isArray(ids) ? ids : []).forEach((id) => {
-    const x = (state.custom || []).find((c) => c.id === id);
+    const x = (state.custom || []).find((c) => c.id === id && !c.deleted);
     if (!x) return ignored.push(`cannot remove "${id}" — not a Gemini-added spot`);
     out.push(change('remove', `remove:${id}`, x.name, 'remove added spot', (s) => {
       const picks = { ...s.picks };
       delete picks[id];
-      return { custom: (s.custom || []).filter((c) => c.id !== id), picks };
+      return { custom: (s.custom || []).map((c) => (c.id === id ? { ...c, deleted: true } : c)), picks };
     }));
   });
 };

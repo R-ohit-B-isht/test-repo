@@ -103,6 +103,25 @@ export function createStore() {
     setExpense(id, patch) {
       this.set((s) => ({ expenses: s.expenses.map((x) => (x.id === id ? { ...x, ...patch, updated: Date.now() } : x)) }));
     },
+    // Custom picks (Gemini-added or saved from a link) live beside the catalog.
+    addCustom(x) {
+      const { deleted, ...clean } = x;
+      this.set((s) => ({ custom: [...(s.custom || []).filter((c) => c.id !== x.id), clean], picks: { ...s.picks, [x.id]: true } }));
+    },
+    dropCustom(id) {
+      this.set((s) => {
+        const picks = { ...s.picks };
+        delete picks[id];
+        return { custom: (s.custom || []).map((c) => (c.id === id ? { ...c, deleted: true } : c)), picks };
+      });
+    },
+    // Links you saved (importer.js); removed ones are flagged, not erased.
+    addImport(rec) {
+      this.set((s) => ({ imports: [...(s.imports || []), rec] }));
+    },
+    setImport(id, patch) {
+      this.set((s) => ({ imports: (s.imports || []).map((r) => (r.id === id ? { ...r, ...patch } : r)) }));
+    },
     reset() {
       state = structuredClone(DEFAULT_STATE);
       emit();

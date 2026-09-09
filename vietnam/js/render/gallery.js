@@ -8,6 +8,14 @@ import { PICS } from '../data/pics.js';
 
 export const picsOf = (id) => PICS[id] || [];
 
+// Picks saved from a link carry their own Commons photos; a YouTube clip with
+// no photo match falls back to its poster frame.
+export const picsFor = (x) => {
+  if (x.pics?.length) return x.pics;
+  if (x.yt && !PICS[x.id]) return [{ u: `https://i.ytimg.com/vi/${x.yt}/hqdefault.jpg`, w: 480, h: 360, alt: x.clip || x.name, by: x.by || 'YouTube', lic: 'video still' }];
+  return picsOf(x.id);
+};
+
 // Commons thumbs are re-sizable by rewriting the `NNNpx-` segment of the URL,
 // but hotlinks only work for the standard steps (250/330/500/960/1280…).
 const STEPS = [500, 960, 1280];
@@ -17,7 +25,7 @@ const SIZES = '(min-width: 1100px) 400px, (min-width: 600px) 50vw, 100vw';
 
 // `extra` is trusted markup layered over the strip (the reel play chip).
 export const strip = (x, extra = '') => {
-  const p = picsOf(x.id);
+  const p = picsFor(x);
   if (!p.length) return '';
   const many = p.length > 1;
   return html`
@@ -34,7 +42,7 @@ export const strip = (x, extra = '') => {
 };
 
 export const thumb = (x) => {
-  const im = picsOf(x.id)[0];
+  const im = picsFor(x)[0];
   return im ? html`<img class="th" src="${sized(im.u, 250)}" alt="" width="120" height="${Math.round((120 * im.h) / im.w)}" loading="lazy" decoding="async" />` : '';
 };
 

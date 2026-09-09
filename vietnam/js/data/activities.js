@@ -125,8 +125,9 @@ export const BY_ID = Object.fromEntries(ACTIVITIES.map((x) => [x.id, x]));
 
 // The catalog plus anything the plan brain added (`state.custom`, `est: true`,
 // rupee estimates rather than sourced list prices).
-export const catalogOf = (state) => (state.custom?.length ? [...ACTIVITIES, ...state.custom] : ACTIVITIES);
-export const lookup = (state, id) => BY_ID[id] || state.custom?.find((x) => x.id === id);
+// Removed custom picks stay in state flagged `deleted` so an undo can bring them back.
+export const catalogOf = (state) => (state.custom?.length ? [...ACTIVITIES, ...state.custom.filter((x) => !x.deleted)] : ACTIVITIES);
+export const lookup = (state, id) => BY_ID[id] || state.custom?.find((x) => x.id === id && !x.deleted);
 
 export const isExtra = (x) => EXTRA_STOPS.some((s) => s.id === x.stop);
 export const isFun = (x) => x.kind !== 'see';

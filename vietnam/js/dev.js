@@ -15,6 +15,17 @@ import { MICRO } from './data/ritual.js';
 // Paste fixtures for the Manager reader. Shaped like real confirmations so the
 // regex and Gemini paths get exercised; the refs are made up and never saved
 // unless you tap Fill.
+const LINKS = {
+  'YT match': { url: 'https://www.youtube.com/watch?v=3B3EtAQNVdk' },           // "Sun World Ba Na Hills" in the title → catalog match
+  'YT new': { url: 'https://youtu.be/69WMflA3410' },                             // Hai Van Pass → not in the catalog → new pick
+  'TikTok': { url: 'https://www.tiktok.com/@makisantos_/video/7652011912963624213' },
+  'IG no caption': { url: 'https://www.instagram.com/explore/tags/haivanpass/' }, // Instagram gives nothing → asks for the caption
+  'IG + caption': { url: 'https://www.instagram.com/explore/tags/haivanpass/', caption: 'Hai Van Pass by scooter from Da Nang, stop at the old French bunkers' },
+  'YT broken': { url: 'https://www.youtube.com/watch?v=zzzzzzzzzzz' },           // oEmbed 400 → error state
+  'not a link': { url: 'ba na hills' },
+  'other site': { url: 'https://www.klook.com/activity/1234-ba-na-hills/' },
+};
+
 const PASTE_FLIGHT = `AirAsia X — Booking confirmed
 Booking number: D7K2QZ
 Passenger: ROHIT B
@@ -107,6 +118,9 @@ export function mountDev(store) {
     'Paste: flight': () => document.dispatchEvent(new CustomEvent('paste:read', { detail: PASTE_FLIGHT })),
     'Paste: hostel': () => document.dispatchEvent(new CustomEvent('paste:read', { detail: PASTE_HOSTEL })),
     'Paste: junk': () => document.dispatchEvent(new CustomEvent('paste:read', { detail: 'hey are we still on for saturday? bring the cable' })),
+    // Link fixtures for the picker's "Saw it on Insta?" reader: real public clips,
+    // read live through the same oEmbed / Commons calls (dev only, nothing stored).
+    ...Object.fromEntries(Object.entries(LINKS).map(([k, detail]) => [`Link: ${k}`, () => document.dispatchEvent(new CustomEvent('link:read', { detail }))])),
     'Clock: cycle': () => { const l = cyclePin(); $('[data-act="Clock: cycle"]', bar).textContent = `Clock: ${l}`; store.set({}); },
     'Fares: clear logs': () => store.set({ fares: {} }),
     'Dump budget': () => { $('pre', bar).hidden = !$('pre', bar).hidden; },

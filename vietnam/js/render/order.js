@@ -1,7 +1,7 @@
 import { html } from '../dom.js';
 import { icon } from '../icons.js';
 import { SLOT_LABEL } from '../data/days.js';
-import { picsOf, sized } from './gallery.js';
+import { picsFor, sized } from './gallery.js';
 import { pinOf } from '../data/geo.js';
 import { movableOf } from '../plan.js';
 import { slotOf, hopOf, routeMinutes, swapped, shortest } from '../route.js';
@@ -20,7 +20,7 @@ const hop = (d, a, b) => {
 };
 
 const item = (d, items, x, i) => {
-  const im = picsOf(x.id)[0];
+  const im = picsFor(x)[0];
   const up = swapped(d, items, i, -1);
   const down = swapped(d, items, i, 1);
   return html`

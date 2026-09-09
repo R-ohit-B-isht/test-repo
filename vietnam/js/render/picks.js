@@ -14,9 +14,12 @@ export const priceTag = (x, travellers) => {
   return html`<span class="tag ${x.food ? 'tag-food' : ''} ${x.est ? 'tag-est' : ''}" title="${title}">${x.est ? '≈' : ''}${inr(amt)}${x.per === 'group' ? '/pp' : ''}</span>`;
 };
 
+// Catalog picks link to their price source; picks saved from a link go back to the clip.
 export const srcIcon = (x) => {
   const s = x.src && SOURCES[x.src];
-  return s ? html`<a class="src" href="${s.url}" target="_blank" rel="noopener" aria-label="Source: ${s.name}" title="${s.name}">${icon('link')}</a>` : '';
+  if (s) return html`<a class="src" href="${s.url}" target="_blank" rel="noopener" aria-label="Source: ${s.name}" title="${s.name}">${icon('link')}</a>`;
+  if (x.link) return html`<a class="src" href="${x.link}" target="_blank" rel="noopener noreferrer" aria-label="Open the clip you saved this from" title="the clip you saved this from">${icon('link')}</a>`;
+  return '';
 };
 
 export const includesText = (x) => (x.includes || []).map((id) => BY_ID[id]?.name).filter(Boolean).join(' · ');

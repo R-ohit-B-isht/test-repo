@@ -23,7 +23,7 @@ const unb64 = (s) => new TextDecoder().decode(Uint8Array.from(atob(s.replace(/-/
 export const encodePlan = (state) => {
   const on = Object.keys(state.picks).filter((id) => state.picks[id] && !DEFAULT_PICKS[id]);
   const off = Object.keys(DEFAULT_PICKS).filter((id) => !state.picks[id]);
-  const custom = (state.custom || []).map(({ id, stop, slot, h, name, note, inr, kind }) => ({ id, stop, slot, h, name, note, inr, kind }));
+  const custom = (state.custom || []).filter((x) => !x.deleted).map(({ id, stop, slot, h, name, note, inr, kind, yt }) => ({ id, stop, slot, h, name, note, inr, kind, ...(yt ? { yt } : {}) }));
   const order = Object.fromEntries(Object.entries(state.order || {}).filter(([, ids]) => ids?.length));
   const hops = Object.fromEntries(Object.entries(state.hops || {}).filter(([id, w]) => findHop(id)?.ways.some((x) => x.id === w)));
   const votes = encodeVotes(state);
@@ -46,7 +46,8 @@ const cleanCustom = (x) => {
   const h = Number(x.h);
   if (!Number.isFinite(h) || h <= 0 || h > 12) return null;
   const inr = Math.max(0, Math.min(50000, Math.round(Number(x.inr)) || 0));
-  return { id: `ai-${String(x.id || x.name).replace(/^ai-/, '').replace(/[^a-z0-9-]/gi, '').slice(0, 32)}`, stop: x.stop, slot: x.slot, h, name: x.name.slice(0, 80), note: typeof x.note === 'string' ? x.note.slice(0, 120) : 'added by Gemini · estimate', inr, free: inr <= 0, kind: x.kind === 'see' ? 'see' : 'fun', icon: 'sparkle', est: true };
+  const yt = typeof x.yt === 'string' && /^[\w-]{11}$/.test(x.yt) ? { yt: x.yt } : {};
+  return { id: `ai-${String(x.id || x.name).replace(/^ai-/, '').replace(/[^a-z0-9-]/gi, '').slice(0, 32)}`, stop: x.stop, slot: x.slot, h, name: x.name.slice(0, 80), note: typeof x.note === 'string' ? x.note.slice(0, 120) : 'added by Gemini · estimate', inr, free: inr <= 0, kind: x.kind === 'see' ? 'see' : 'fun', icon: 'sparkle', est: true, ...yt };
 };
 
 // Returns a state patch, or null when the payload is not a plan we recognise.
