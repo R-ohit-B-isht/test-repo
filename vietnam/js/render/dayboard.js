@@ -10,6 +10,8 @@ import { tile, pickHandler } from './tile.js';
 import { mountGalleries } from './gallery.js';
 import { brainCta } from './brain.js';
 import { timelineView } from './timeline.js';
+import { orderStrip } from './order.js';
+import { orderClick, mountOrderDrag } from './orderDrag.js';
 
 // Day board: tap a day card → full-screen dialog with that day as a photo grid,
 // grouped Do / Get there / Eat / Sleep / Also see / Nearby. Every tile is the
@@ -83,9 +85,10 @@ const viewSwitch = () => html`
   </div>`;
 
 const body = (day, state, transit, plan, planned, near) => (view === 'hours'
-  ? html`${timelineView(day, planned, transit)}${grid('near', 'pin', 'Nearby · tap to add', near, state, plan)}`
+  ? html`${timelineView(day, planned, transit)}${orderStrip(planned, state)}${grid('near', 'pin', 'Nearby · tap to add', near, state, plan)}`
   : html`
       ${doSec(planned, state, plan)}
+      ${orderStrip(planned, state)}
       ${goSec(planned)}
       ${eatSec(day, transit)}
       ${sleepSec(day, transit)}
@@ -137,6 +140,7 @@ export function mountDayBoard(store) {
     card.scrollTop = 0;
     $('[data-close]', root).focus();
   };
+  const planFor = (s) => planTrip(s, findStrategy(s.strategy).transit);
   document.addEventListener('day:open', (e) => show(e.detail));
   root.addEventListener('click', (e) => {
     if (e.target === root || e.target.closest('[data-close]')) return close();
@@ -144,8 +148,10 @@ export function mountDayBoard(store) {
     if (go) return show(Math.min(DAYS.length, Math.max(1, open + Number(go.dataset.boardGo))));
     const v = e.target.closest('[data-view]');
     if (v) { view = v.dataset.view; return renderDayBoard(store.get()); }
+    if (orderClick(store, e, planFor)) return undefined;
     return onPick(e);
   });
+  mountOrderDrag(root, store, planFor);
   root.addEventListener('keydown', (e) => {
     if (e.key === 'Escape') return close();
     if (e.target.closest('.pics-track') || e.altKey || e.metaKey || e.ctrlKey) return undefined;

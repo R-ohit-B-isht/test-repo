@@ -11,7 +11,7 @@ export const picsOf = (id) => PICS[id] || [];
 // Commons thumbs are re-sizable by rewriting the `NNNpx-` segment of the URL,
 // but hotlinks only work for the standard steps (250/330/500/960/1280…).
 const STEPS = [500, 960, 1280];
-const sized = (u, px) => u.replace(/\/\d+px-/, `/${px}px-`);
+export const sized = (u, px) => u.replace(/\/\d+px-/, `/${px}px-`);
 const srcset = (im) => STEPS.filter((s) => s < im.w).map((s) => `${sized(im.u, s)} ${s}w`).concat(`${im.u} ${im.w}w`).join(', ');
 const SIZES = '(min-width: 1100px) 400px, (min-width: 600px) 50vw, 100vw';
 

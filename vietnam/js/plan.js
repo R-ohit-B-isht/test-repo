@@ -114,6 +114,45 @@ const nearbyFor = (d, all, placed, seen, bundled, noRoom) => {
     .map((x) => ({ x, status: x.closed ? 'closed' : noRoom.includes(x.id) ? 'noroom' : 'off' }));
 };
 
+// Picks you can drag: single-slot items (not a full-day park, not a cruise leg).
+export const movableOf = (d) => SLOTS.flatMap((k) => d.slots[k].items.filter((x) => !x.cont && !(isDayLong(x) && !x.short) && !isMulti(x)));
+
+// Your order for a day (state.order[n], ids) replaces the packer's. Movable
+// picks come off their slots and go back in your sequence: am first, then pm,
+// then night, each into the first slot from the last one used that has the
+// stop and the hours. No fit anywhere → back where the packer had it, and
+// the hours view flags the overrun.
+const applyOrder = (d, ids) => {
+  if (!ids?.length) return;
+  const movable = movableOf(d);
+  if (movable.length < 2) return;
+  const before = movable.map((x) => x.id).join();
+  const rank = (x) => { const i = ids.indexOf(x.id); return i < 0 ? ids.length + movable.indexOf(x) : i; };
+  const ordered = [...movable].sort((p, q) => rank(p) - rank(q));
+  const home = new Map();
+  SLOTS.forEach((k) => {
+    const s = d.slots[k];
+    if (s.fixed) return;
+    s.items.forEach((x) => { if (movable.includes(x)) { home.set(x.id, k); s.left += x.h; } });
+    s.items = s.items.filter((x) => !movable.includes(x));
+  });
+  let from = 0;
+  ordered.forEach((x) => {
+    const keys = SLOTS.filter((k) => slotKeys(x).includes(k));
+    const fit = keys.find((k) => SLOTS.indexOf(k) >= from && roomFor(d, x, k)) || keys.find((k) => roomFor(d, x, k)) || home.get(x.id) || keys[0] || SLOTS[0];
+    d.slots[fit].items.push(x); d.slots[fit].left -= x.h;
+    from = SLOTS.indexOf(fit);
+  });
+  d.custom = movableOf(d).map((x) => x.id).join() !== before;
+};
+
+// A copy of the day with `ids` applied: what the board would show for that order.
+export const reordered = (d, ids) => {
+  const c = { ...d, slots: Object.fromEntries(SLOTS.map((k) => [k, { ...d.slots[k], items: [...d.slots[k].items] }])) };
+  applyOrder(c, ids);
+  return c;
+};
+
 export function planTrip(state, transit) {
   const all = catalogOf(state);
   const on = all.filter((x) => state.picks[x.id] && !x.closed && !isExtra(x));
@@ -129,6 +168,7 @@ export function planTrip(state, transit) {
   fillSingles(days, singles, placed, false);
   fillSingles(days, singles, placed, true);
   on.filter((x) => !bundled.has(x.id) && !isFun(x)).forEach((x) => attachSee(days, x, seen));
+  days.forEach((d) => applyOrder(d, state.order?.[d.n]));
 
   const noRoom = wanted.filter((x) => !placed.has(x.id)).map((x) => x.id);
   const nearby = days.map((d) => nearbyFor(d, all, placed, seen, bundled, noRoom));

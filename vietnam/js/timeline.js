@@ -1,4 +1,6 @@
 import { DAYS, SLOTS, mealsFor, sleepFor, slotFor } from './data/days.js';
+import { KMH } from './data/geo.js';
+import { HOP, FAR, hopOf } from './route.js';
 
 // Hour-by-hour view of one planned day. Derived from the same plan the cards
 // use: fixed transit keeps its clock times (`at` / `till` in days.js), open
@@ -8,8 +10,6 @@ import { DAYS, SLOTS, mealsFor, sleepFor, slotFor } from './data/days.js';
 const START = { am: 8 * 60, pm: 13 * 60, night: 19 * 60 };
 const END = { am: 12 * 60, pm: 18 * 60, night: 23.5 * 60 };
 const MEAL = { am: ['Breakfast', 7.25 * 60, 30], pm: ['Lunch', 12 * 60, 45], night: ['Dinner', 18 * 60, 60] };
-const HOP = 20;        // minutes between two picks in the same town
-const FAR = 60;        // minutes when the next pick is in another town (Grab)
 const DAY = 24 * 60;
 
 const mins = (c) => {
@@ -55,8 +55,9 @@ const byClock = (p, q) => (mins(p.at) ?? Infinity) - (mins(q.at) ?? Infinity);
 const firstAt = (s) => mins([...s.items].filter((x) => !x.cont).sort(byClock)[0]?.at);
 
 // One open slot: picks in order, with gaps; returns the new cursor and stop.
-const openSlot = (rows, notes, s, key, cursor, prevStop) => {
-  const items = s.items.filter((x) => !x.cont).sort(byClock);
+const openSlot = (rows, notes, pd, s, key, cursor, prevStop) => {
+  const items = s.items.filter((x) => !x.cont);
+  if (!pd.custom) items.sort(byClock);
   let t = Math.max(cursor, firstAt(s) ?? mins(s.at) ?? START[key]);
   if (s.items.some((x) => x.cont && x.name === 'Night on board')) {
     rows.push(row('sleep', t, 23 * 60, 'Night on board the cruise', { key, overnight: true }));
@@ -67,9 +68,11 @@ const openSlot = (rows, notes, s, key, cursor, prevStop) => {
     return { cursor: Math.max(t, END[key]), stop: prevStop };
   }
   let stop = prevStop;
+  let last = null;
   items.forEach((x, i) => {
-    const gap = i === 0 ? 0 : x.stop === stop ? HOP : FAR;
-    if (gap) rows.push(row('hop', t, t + gap, gap === FAR ? 'Grab to the next town' : 'Walk / GrabBike', { key }));
+    const hop = i === 0 ? null : hopOf(pd, last, x);
+    const gap = hop ? hop.min : 0;
+    if (gap) rows.push(row('hop', t, t + gap, hop.kind === 'est' ? `${hop.km} km · Grab / bike` : gap === FAR ? 'Grab to the next town' : 'Walk / GrabBike', { key, est: hop.kind === 'est' ? hop : null }));
     t += gap;
     const start = Math.max(t, mins(x.at) ?? 0);
     free(rows, t, start, key);
@@ -82,6 +85,7 @@ const openSlot = (rows, notes, s, key, cursor, prevStop) => {
     if (missed) notes.push(`${x.name} starts ${clock(mins(x.at))} · you only get there ${clock(start)}`);
     t = end;
     stop = x.stop;
+    last = x;
   });
   return { cursor: t, stop };
 };
@@ -115,7 +119,7 @@ const conflicts = (rows, notes) => {
 // `pd` is the packed day from planTrip(); `day` the data record.
 export function timelineFor(day, pd, transit) {
   const rows = [];
-  const notes = [`${HOP} min between picks in town · ${FAR} min when the next one is in another town`];
+  const notes = [`Hops from straight-line distance at ~${KMH} km/h · ${HOP} min when a pick has no pin`];
   const meals = mealsFor(day, transit);
   const arrive = arrivalOf(day, transit);
   let cursor = 6.5 * 60;
@@ -135,7 +139,7 @@ export function timelineFor(day, pd, transit) {
     if (arrive && key === 'am') {
       cursor = mealRow(rows, key, cursor, meals[i], arrive.t, 'on board');
       cursor = Math.max(cursor, arrive.t);
-      ({ cursor, stop } = openSlot(rows, notes, s, key, cursor, stop));
+      ({ cursor, stop } = openSlot(rows, notes, pd, s, key, cursor, stop));
       return;
     }
     if (s.items.length && s.items.every((x) => x.cont && x.name !== 'Night on board')) {
@@ -147,7 +151,7 @@ export function timelineFor(day, pd, transit) {
     const fed = s.items.find((x) => x.eats === key);
     if (fed) rows.push(row('eat', slotStart, slotStart + MEAL[key][2], `${MEAL[key][0]} · ${fed.name}`, { key, meal: meals[i], inside: 'inside the tour' }));
     else cursor = mealRow(rows, key, cursor, meals[i], slotStart);
-    ({ cursor, stop } = openSlot(rows, notes, s, key, cursor, stop));
+    ({ cursor, stop } = openSlot(rows, notes, pd, s, key, cursor, stop));
   });
 
   const sleep = sleepFor(day, transit);
