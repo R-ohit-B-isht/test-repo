@@ -28,6 +28,7 @@ import { mountKeys } from './chrome/keys.js';
 import { mountNet } from './chrome/net.js';
 import { restoreShared } from './share.js';
 import { mountDev } from './dev.js';
+import { mountMag, renderMag } from './render/mag.js';
 
 // Bootstrap. Every page shares the store (localStorage), the chrome and the
 // overlays; only the renderers listed for <body data-page> mount here, so a
@@ -44,11 +45,14 @@ const PAGE = {
   split: [[mountSplit, renderSplit]],
   today: [[mountToday, renderToday]],
   map: [[mountGmap, renderGmap]],
+  trip: [[mountMag, renderMag]],
   sources: [[renderSources, null]],
 };
 
+// The magazine reads a shared link without applying it, so the store is
+// only ever replaced from a link on the pages that edit the plan.
 const store = createStore();
-const shared = restoreShared(store);
+const shared = currentPage() === 'trip' ? null : restoreShared(store);
 mountShell();
 
 const renderers = (PAGE[currentPage()] || []).map(([mount, render]) => { mount(store); return render; }).filter(Boolean);

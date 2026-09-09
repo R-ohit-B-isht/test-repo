@@ -1,6 +1,7 @@
 import { $, html } from '../dom.js';
 import { icon } from '../icons.js';
 import { shareUrl } from '../share.js';
+import { magUrl } from '../mag.js';
 import { buildICS, ICS_NAME } from '../export/ics.js';
 
 // Take-it-with-you card row: share link (URL carries picks + route + dials,
@@ -22,6 +23,12 @@ const view = () => html`
       <output id="x-share-out" aria-live="polite"></output>
     </div>
     <span class="url" id="x-share-url"></span>`)}
+  ${card('mag', 'eye', 'Send the magazine', 'The same link, laid out like an issue: cover, a spread per day, the numbers. Read-only.', html`
+    <div class="row">
+      <a class="btn btn-primary" id="x-mag" href="trip.html">${icon('eye')}Open</a>
+      <button class="btn" type="button" data-x="mag">${icon('link')}Copy link</button>
+      <output id="x-mag-out" aria-live="polite"></output>
+    </div>`)}
   ${card('print', 'grid', 'Print or PDF', 'Days, picks, prices and the checklist, on paper. Use “Save as PDF”.', html`
     <div class="row"><button class="btn" type="button" data-x="print">${icon('grid')}Print this plan</button></div>`)}
   ${card('ics', 'calendar', 'Add to calendar', 'Every day, flight, train, pick and meal as events. Google, Apple, Outlook.', html`
@@ -54,6 +61,10 @@ export function mountExport(store) {
     if (b.dataset.x === 'native') {
       try { await navigator.share({ title: 'Vietnam plan', url }); } catch { /* cancelled */ }
     }
+    if (b.dataset.x === 'mag') {
+      const mo = $('#x-mag-out', host);
+      try { await navigator.clipboard.writeText(magUrl(store.get())); flash(mo, 'Copied'); } catch { flash(mo, 'Open it and copy the address'); }
+    }
   });
   $('#x-ics', host).addEventListener('click', () => flash($('#x-ics-out', host), 'Saved'));
 }
@@ -62,6 +73,7 @@ export function renderExport(state) {
   const host = $('#export');
   if (!host) return;
   $('#x-share-url', host).textContent = shareUrl(state);
+  $('#x-mag', host).href = magUrl(state);
   if (icsUrl) URL.revokeObjectURL(icsUrl);
   icsUrl = URL.createObjectURL(new Blob([buildICS(state)], { type: 'text/calendar;charset=utf-8' }));
   $('#x-ics', host).href = icsUrl;

@@ -9,6 +9,7 @@ import { cyclePin, today } from './clock.js';
 import { shiftISO } from './ritual.js';
 import { MICRO } from './data/ritual.js';
 import { devTrail } from './trail/replay.js';
+import { magUrl } from './mag.js';
 
 // Developer bar (Command pattern: each button is a named action on the store).
 // Opens with ?dev=1, localStorage.IS_DEV='true', or the D key.
@@ -128,6 +129,9 @@ export function mountDev(store) {
     'Trail: clear': () => store.set({ trail: [] }),
     'Clock: cycle': () => { const l = cyclePin(); $('[data-act="Clock: cycle"]', bar).textContent = `Clock: ${l}`; store.set({}); },
     'Fares: clear logs': () => store.set({ fares: {} }),
+    // The magazine as a friend would see it: this plan carried in the link, read-only.
+    'Magazine: as link': () => { location.href = magUrl(store.get()); },
+    'Magazine: bad link': () => { location.href = `${location.pathname.replace(/[^/]*$/, 'trip.html')}?p=not-a-plan`; },
     'Dump budget': () => { $('pre', bar).hidden = !$('pre', bar).hidden; },
     Reset: () => store.reset(),
     ...Object.fromEntries(Object.entries(PRESETS).map(([k, v]) => [k, () => store.set(v)])),
