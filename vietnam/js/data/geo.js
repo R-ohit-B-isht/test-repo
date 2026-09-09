@@ -30,6 +30,12 @@ export const GEO = {
 
 export const pinOf = (x) => GEO[x?.id] || null;
 
+// Town centres, for the weather forecast and "where am I" questions.
+export const STOP_GEO = {
+  hanoi: [21.028, 105.854], ninhbinh: [20.254, 105.975], halong: [20.951, 107.078],
+  hue: [16.463, 107.590], danang: [16.054, 108.202], hoian: [15.880, 108.338],
+};
+
 const R = 6371;
 const rad = (d) => (d * Math.PI) / 180;
 export function kmBetween(a, b) {

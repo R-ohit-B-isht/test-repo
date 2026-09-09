@@ -1,21 +1,21 @@
 /* Service worker: the whole planner (pages, code, day heroes) is precached so the
    saved plan opens with no data. Photos from Wikimedia/Flickr and the Google fonts
    are cached as they are seen. Gemini, YouTube and booking sites are never cached. */
-const VERSION = 'v12';
+const VERSION = 'v13';
 const SHELL = `shell-${VERSION}`;
 const MEDIA = `media-${VERSION}`;
 const MEDIA_MAX = 240;
 
-const PAGES = ['index.html', 'days.html', 'picks.html', 'budget.html', 'calendar.html', 'book.html', 'manager.html', 'split.html', 'sources.html'];
+const PAGES = ['index.html', 'days.html', 'picks.html', 'budget.html', 'calendar.html', 'book.html', 'manager.html', 'split.html', 'today.html', 'sources.html'];
 const PRECACHE = [
   './', ...PAGES, 'manifest.webmanifest',
   'assets/favicon.svg', 'assets/wave.svg', 'assets/icon-192.png', 'assets/icon-512.png',
   'assets/photos/hanoi.jpg', 'assets/photos/halong.jpg', 'assets/photos/ninhbinh.jpg', 'assets/photos/hue.jpg', 'assets/photos/haivan.jpg',
   'assets/photos/danang.jpg', 'assets/photos/hoian.jpg', 'assets/photos/train.jpg', 'assets/photos/golden.jpg',
   'css/app.css', 'css/tokens.css', 'css/base.css', 'css/components.css', 'css/chrome.css', 'css/sections.css', 'css/pages.css',
-  'css/picker.css', 'css/importer.css', 'css/board.css', 'css/brain.css', 'css/reel.css', 'css/timeline.css', 'css/order.css', 'css/hops.css', 'css/votes.css', 'css/ritual.css', 'css/book.css', 'css/calendar.css', 'css/manager.css', 'css/split.css', 'css/print.css',
+  'css/picker.css', 'css/importer.css', 'css/board.css', 'css/brain.css', 'css/reel.css', 'css/timeline.css', 'css/order.css', 'css/hops.css', 'css/votes.css', 'css/ritual.css', 'css/book.css', 'css/calendar.css', 'css/manager.css', 'css/split.css', 'css/today.css', 'css/print.css',
   'js/app.js', 'js/pages.js', 'js/store.js', 'js/config.js', 'js/dom.js', 'js/icons.js', 'js/plan.js', 'js/strategies.js', 'js/timeline.js',
-  'js/share.js', 'js/book.js', 'js/budget.js', 'js/dev.js', 'js/votes.js', 'js/ritual.js', 'js/clock.js',
+  'js/share.js', 'js/book.js', 'js/budget.js', 'js/dev.js', 'js/votes.js', 'js/ritual.js', 'js/clock.js', 'js/today.js', 'js/weather.js',
   'js/chrome/shell.js', 'js/chrome/theme.js', 'js/chrome/scroll.js', 'js/chrome/keys.js', 'js/chrome/net.js',
   'js/data/trip.js', 'js/data/prices.js', 'js/data/sources.js', 'js/data/days.js', 'js/data/activities.js', 'js/data/checklist.js', 'js/data/ritual.js',
   'js/data/photos.js', 'js/data/pics.js', 'js/data/reels.js', 'js/data/map.js', 'js/data/geo.js', 'js/data/hops.js',
@@ -30,9 +30,10 @@ const PRECACHE = [
   'js/render/manager.js', 'js/render/mgr/card.js', 'js/render/mgr/head.js', 'js/render/mgr/peek.js', 'js/render/mgr/paste.js', 'js/render/importer.js', 'js/render/imp/view.js', 'js/brain/link.js',
   'js/render/split.js', 'js/render/spl/bits.js', 'js/render/spl/head.js', 'js/render/spl/balances.js', 'js/render/spl/ledger.js',
   'js/render/spl/form.js', 'js/render/spl/sheet.js', 'js/render/spl/actions.js',
+  'js/render/today.js', 'js/render/tod/view.js',
 ];
 
-const NEVER = ['generativelanguage.googleapis.com', 'accounts.google.com', 'www.googleapis.com', 'calendar.google.com', 'youtube.com', 'youtube-nocookie.com', 'ytimg.com', 'open.er-api.com'];
+const NEVER = ['generativelanguage.googleapis.com', 'accounts.google.com', 'www.googleapis.com', 'calendar.google.com', 'api.open-meteo.com', 'youtube.com', 'youtube-nocookie.com', 'ytimg.com', 'open.er-api.com'];
 const MEDIA_HOSTS = ['upload.wikimedia.org', 'live.staticflickr.com', 'fonts.googleapis.com', 'fonts.gstatic.com'];
 
 self.addEventListener('install', (e) => {
