@@ -31,5 +31,6 @@ export const balanceCard = (state) => {
       <header class="spl-sum-head"><span class="eyebrow">Balances</span>${pays.length ? html`<small class="sub">${pays.length} payment${pays.length > 1 ? 's' : ''} clears it</small>` : html`<small class="sub chip chip-jade">${icon('check')}all settled</small>`}</header>
       <ul class="bal-list">${people.map((p) => row(state, p, net[p.id] || 0))}</ul>
       ${pays.length ? html`<ul class="bal-pays" aria-label="Settle up">${pays.map((t, i) => transfer(state, t, i))}</ul>` : ''}
+      <div class="row"><button class="btn btn-ghost btn-sm" type="button" data-share-card>${icon('share')}Share as image</button><span class="sub" id="bal-share-note">Names and ₹ only.</span></div>
     </article>`;
 };

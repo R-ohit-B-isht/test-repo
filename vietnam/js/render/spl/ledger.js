@@ -28,7 +28,7 @@ const row = (state, x) => html`
     <button class="xrow ${x.kind === 'settle' ? 'is-settle' : ''}" type="button" data-x="${x.id}">
       <span class="xic ev-${x.kind === 'settle' ? 'settle' : x.cat}">${icon(x.kind === 'settle' ? 'check' : catOf(x.cat).icon)}</span>
       <span class="xtxt">
-        <b>${x.kind === 'settle' ? 'Settle up' : x.title}</b>
+        <b>${x.kind === 'settle' ? 'Settle up' : x.title}${x.series ? html` <small class="xseries num">${x.series.n}/${x.series.of}</small>` : ''}</b>
         <small>${avatarOf(state, x.by, 'xs')}${who(state, x)}${x.receipt ? icon('file') : ''}</small>
       </span>
       ${mine(state, x)}

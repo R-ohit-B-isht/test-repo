@@ -177,11 +177,11 @@
 .sh-form { display: grid; gap: var(--s-3); }
 .fld { display: grid; gap: 4px; min-width: 0; }
 .fld > span { font: 500 11px var(--font-mono); text-transform: uppercase; letter-spacing: 0.06em; color: var(--fg-3); }
-.fld input, .fld textarea, .ms-fields input, .ms-fields textarea, .ms-addrow input, .ms-addrow select, .gc-form input {
+.fld input, .fld textarea, .fld select, .ms-fields input, .ms-fields textarea, .ms-addrow input, .ms-addrow select, .gc-form input {
   width: 100%; min-height: 40px; padding: var(--s-2) var(--s-3); border: 1px solid var(--line); border-radius: var(--r-ctl); background: var(--bg-2); color: var(--fg); font: inherit;
 }
 .fld textarea, .ms-fields textarea { resize: vertical; }
-.fld input:focus-visible, .fld textarea:focus-visible, .ms-fields input:focus-visible, .ms-fields textarea:focus-visible, .ms-addrow input:focus-visible, .ms-addrow select:focus-visible, .gc-form input:focus-visible { outline: 2px solid var(--lantern); outline-offset: 1px; border-color: transparent; }
+.fld input:focus-visible, .fld textarea:focus-visible, .fld select:focus-visible, .ms-fields input:focus-visible, .ms-fields textarea:focus-visible, .ms-addrow input:focus-visible, .ms-addrow select:focus-visible, .gc-form input:focus-visible { outline: 2px solid var(--lantern); outline-offset: 1px; border-color: transparent; }
 .fld-row { display: grid; grid-template-columns: 1fr 1fr; gap: var(--s-3); align-items: end; }
 .fld-check { grid-template-columns: auto 1fr; align-items: center; min-height: 40px; }
 .fld-check input { width: 18px; height: 18px; min-height: 0; padding: 0; accent-color: var(--lantern); }

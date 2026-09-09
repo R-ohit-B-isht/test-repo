@@ -7,7 +7,7 @@ import { onboarding, head, people, summary } from './spl/head.js';
 import { balanceCard } from './spl/balances.js';
 import { ledger } from './spl/ledger.js';
 import { openSheet, closeSheet, refreshSheet, syncForm } from './spl/sheet.js';
-import { saveExpense, saveSettle, removeExpense, removePerson, savePerson, addPerson, claimMe } from './spl/actions.js';
+import { saveExpense, saveSettle, removeExpense, removeSeries, removePerson, savePerson, addPerson, claimMe, shareCard } from './spl/actions.js';
 import { openPeek, mountPeek } from './mgr/peek.js';
 import { fxCard, cashCard, dailyCard, mountMoney } from './spl/money.js';
 
@@ -55,6 +55,8 @@ const onClick = (e) => {
   if (hit('[data-x]')) return openSheet(state, { mode: 'x', id: hit('[data-x]').dataset.x });
   if (hit('[data-edit]')) return openSheet(state, { mode: 'form', id: hit('[data-edit]').dataset.edit });
   if (hit('[data-remove]')) return removeExpense(store, hit('[data-remove]').dataset.remove);
+  if (hit('[data-remove-series]')) return removeSeries(store, hit('[data-remove-series]').dataset.removeSeries);
+  if (hit('[data-share-card]')) return shareCard(store);
   if (hit('[data-settle]')) { const d = hit('[data-settle]').dataset; return openSheet(state, { mode: 'settle', id: null, preset: { from: d.from, to: d.to, inr: Number(d.inr) } }); }
   if (hit('[data-person]')) return openSheet(state, { mode: 'person', id: hit('[data-person]').dataset.person });
   if (hit('[data-me]')) { const id = hit('[data-me]').dataset.me; claimMe(store, id); return openSheet(store.get(), { mode: 'person', id }); }

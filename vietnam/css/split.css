@@ -166,6 +166,10 @@
 .spl-tools .sub { margin: 0; font-size: var(--fs-1); }
 .spl-tools .btn[aria-disabled='true'] { opacity: 0.5; pointer-events: none; }
 
+.xseries { font-weight: 500; color: var(--fg-3); }
+.spl-series { display: flex; gap: 6px; align-items: center; margin: 0; }
+.spl-series .ic { width: 14px; height: 14px; }
+
 /* Money cards: FX, cash, daily rings (Wise / Revolut). */
 .spl-fx .sub, .spl-cash .sub, .spl-daily .sub { margin: 0; font-size: var(--fs-1); }
 .fx-from { font-size: var(--fs-0); }

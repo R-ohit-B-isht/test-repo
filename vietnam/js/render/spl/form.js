@@ -39,7 +39,10 @@ export const expenseForm = (state, own, preset = {}) => {
         </div>
       </div>
       <p class="sub spl-rate" data-rate>${x.cur === 'VND' && x.amount ? `≈ ${inr(toInr(x.amount, 'VND', state))} at ₫${rateOf(state)} per ₹` : `₫ converts at ₫${rateOf(state)} per ₹ (change below the list)`}</p>
-      <label class="fld"><span>When</span><input name="iso" type="date" required value="${x.iso}" /></label>
+      <div class="fld-row">
+        <label class="fld"><span>When</span><input name="iso" type="date" required value="${x.iso}" /></label>
+        ${own ? '' : html`<label class="fld"><span>Repeat</span><select name="nights">${[1, 2, 3, 4, 5, 6, 7, 8].map((n) => html`<option value="${n}">${n === 1 ? 'Once' : `${n} nights, one row each`}</option>`)}</select></label>`}
+      </div>
       <div class="fld"><span>Category</span>
         <div class="seg spl-cats-seg" role="radiogroup" aria-label="Category">
           ${CATS.map((c) => html`<label><input type="radio" name="cat" value="${c.id}" ${x.cat === c.id ? 'checked' : ''} /><span>${icon(c.icon)}${c.label}</span></label>`)}
@@ -91,6 +94,7 @@ export const expenseFace = (state, x) => {
     </div>
     <h3 class="h3" id="sheet-title">${x.kind === 'settle' ? `${nameOf(state, x.by)} paid ${x.to === state.me ? 'you' : nameOf(state, x.to)}` : x.title}</h3>
     <p class="sub">${day ? `${day} · ` : ''}${fmtDate(x.iso, { weekday: 'long', day: 'numeric', month: 'long' })}${x.note ? ` · ${x.note}` : ''}</p>
+    ${x.series ? html`<p class="sub spl-series">${icon('calendar')}Night ${x.series.n} of ${x.series.of} · same amount each night</p>` : ''}
     <p class="spl-big num">${inr(x.inr)}${typed(x) ? html` <small>${typed(x)}</small>` : ''}</p>
     ${shares ? html`
       <ul class="spl-shares">
@@ -101,6 +105,7 @@ export const expenseFace = (state, x) => {
     <div class="sh-actions">
       ${x.kind === 'settle' ? '' : html`<button class="btn" type="button" data-edit="${x.id}">${icon('sparkle')}Edit</button>`}
       <button class="btn btn-ghost" type="button" data-remove="${x.id}">${icon('trash')}Remove</button>
+      ${x.series ? html`<button class="btn btn-ghost" type="button" data-remove-series="${x.series.id}">${icon('trash')}All ${x.series.of} nights</button>` : ''}
     </div>`;
 };
 
@@ -139,7 +144,8 @@ export function readExpense(form, state) {
   const sum = Object.values(parts).reduce((a, b) => a + b, 0);
   if (mode !== 'equal' && sum <= 0) return { error: mode === 'exact' ? 'Exact amounts add up to zero.' : 'Give someone at least one share.' };
   if (mode === 'exact' && Math.abs(sum - rupees) > Math.max(1, among.length)) return { error: `Exact amounts add to ${inr(sum)}, not ${inr(rupees)}.` };
-  return { data: { kind: 'spend', title: String(f.get('title')).trim().slice(0, 60), iso: f.get('iso'), cat: catOf(f.get('cat')).id, amount, cur, inr: rupees, by: f.get('by'), split: { mode, parts }, note: String(f.get('note') || '').trim().slice(0, 120) } };
+  const nights = Math.min(8, Math.max(1, Math.round(Number(f.get('nights')) || 1)));
+  return { nights, data: { kind: 'spend', title: String(f.get('title')).trim().slice(0, 60), iso: f.get('iso'), cat: catOf(f.get('cat')).id, amount, cur, inr: rupees, by: f.get('by'), split: { mode, parts }, note: String(f.get('note') || '').trim().slice(0, 120) } };
 }
 
 export function readSettle(form) {

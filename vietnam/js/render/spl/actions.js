@@ -3,6 +3,7 @@ import { storeFile } from '../../vault/files.js';
 import { livePeople, liveExpenses, newId, nextHue, personOf } from '../../split/model.js';
 import { readExpense, readSettle } from './form.js';
 import { openSheet, closeSheet } from './sheet.js';
+import { shareSettleCard } from '../../split/card.js';
 
 // Store-changing actions for the Split page. Each one validates, writes
 // through the store and moves the sheet to the right face.
@@ -12,7 +13,7 @@ const showErr = (form, msg) => { const p = $('.ms-err', form); if (p) { p.textCo
 
 export async function saveExpense(store, form) {
   const state = store.get();
-  const { data, error } = readExpense(form, state);
+  const { data, nights, error } = readExpense(form, state);
   if (error) return showErr(form, error);
   const file = $('input[name=receipt]', form).files[0];
   let receipt;
@@ -24,10 +25,33 @@ export async function saveExpense(store, form) {
     return openSheet(store.get(), { mode: 'x', id: form.dataset.id });
   }
   const id = newId('x');
+  if (nights > 1) {
+    const sid = newId('s');
+    const rows = Array.from({ length: nights }, (_, i) => ({ id: i ? newId('x') : id, ...data, iso: shiftIso(data.iso, i), series: { id: sid, n: i + 1, of: nights }, receipt: i ? null : receipt || null, created: Date.now() + i, updated: Date.now() }));
+    store.set((s) => ({ expenses: [...s.expenses, ...rows] }));
+    toast(`${inr(data.inr)} × ${nights} nights logged`);
+    return openSheet(store.get(), { mode: 'x', id });
+  }
   store.addExpense({ id, ...data, receipt: receipt || null, created: Date.now(), updated: Date.now() });
   toast(`${inr(data.inr)} logged`);
   return openSheet(store.get(), { mode: 'x', id });
 }
+
+const shiftIso = (iso, days) => { const d = new Date(`${iso}T00:00:00`); d.setDate(d.getDate() + days); return `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`; };
+
+export const removeSeries = (store, sid) => {
+  const flag = (on) => store.set((s) => ({ expenses: s.expenses.map((x) => (x.series?.id === sid ? { ...x, deleted: on, deletedAt: on ? Date.now() : x.deletedAt } : x)) }));
+  flag(true);
+  closeSheet();
+  toast('All nights removed', () => flag(false));
+};
+
+export const shareCard = async (store) => {
+  try {
+    const how = await shareSettleCard(store.get());
+    if (how === 'saved') toast('Card saved as PNG');
+  } catch (e) { toast(`Could not make the card: ${e.message}`); }
+};
 
 export const saveSettle = (store, form) => {
   const { data, error } = readSettle(form);
