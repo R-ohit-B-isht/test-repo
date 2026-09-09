@@ -8,6 +8,7 @@ import { openPeek, mountPeek } from './mgr/peek.js';
 import { hero, stack, weather, tickets, before, after } from './tod/view.js';
 import { trailSection, mountTrail } from './trail.js';
 import { trailAfter } from './trl/view.js';
+import { todayCard } from './jn/view.js';
 
 // Today page controller. Re-renders on store changes and once a minute so
 // the "now" card moves on its own; weather is fetched once per stop + date
@@ -45,7 +46,7 @@ function paint() {
   }
   if (ph.phase === 'after') {
     const done = Object.values(state.picks || {}).filter(Boolean).length;
-    root.innerHTML = html`${pinNote()}${after(ph, done)}${trailAfter(state)}`;
+    root.innerHTML = html`${pinNote()}${after(ph, done)}${todayCard(state, null)}${trailAfter(state)}`;
     return;
   }
   const d = dayNow(state, ph);
@@ -56,7 +57,7 @@ function paint() {
     ${hero(d, ph, wx)}
     <div class="tgrid">
       <div>${stack(d, tix, ph)}</div>
-      <aside>${weather(wx, d.stop, ph, d.day.n)}${trailSection(state, d.day.n)}${tickets(tix)}</aside>
+      <aside>${weather(wx, d.stop, ph, d.day.n)}${trailSection(state, d.day.n)}${todayCard(state, d.day.n)}${tickets(tix)}</aside>
     </div>`;
 }
 

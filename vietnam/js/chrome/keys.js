@@ -7,7 +7,7 @@ import { neighbours, currentPage } from '../pages.js';
 
 const typing = (e) => /^(INPUT|TEXTAREA|SELECT)$/.test(e.target.tagName) && e.target.type !== 'radio';
 
-export function mountKeys(store, { toggleDev, brain, reel, replay }) {
+export function mountKeys(store, { toggleDev, brain, reel, replay, recap }) {
   const help = $('#help');
   const setHelp = (open) => {
     help.dataset.open = String(open);
@@ -21,6 +21,7 @@ export function mountKeys(store, { toggleDev, brain, reel, replay }) {
   addEventListener('keydown', (e) => {
     if (e.metaKey || e.ctrlKey || e.altKey || typing(e)) return;
     if (e.key === 'Escape') {
+      if (recap?.isOpen()) return recap.close();
       if (replay?.isOpen()) return replay.close();
       if (reel?.isOpen()) return reel.close();
       if (brain?.isOpen()) brain.close();

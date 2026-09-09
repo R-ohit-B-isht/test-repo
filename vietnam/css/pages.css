@@ -61,7 +61,7 @@
 .pager-link .ic.flip { transform: scaleX(-1); }
 
 .netbar {
-  position: fixed; left: 0; right: 0; bottom: calc(var(--s-3) + env(safe-area-inset-bottom)); z-index: 44;
+  position: fixed; left: 0; right: 0; bottom: calc(var(--s-3) + env(safe-area-inset-bottom)); z-index: 80;
   width: fit-content; margin-inline: auto; display: flex; align-items: center; gap: var(--s-2); max-width: calc(100% - 2 * var(--s-3));
   padding: 10px 14px; border-radius: var(--r-pill); font-size: var(--fs-1); font-weight: 500;
   background: var(--indigo); color: #f1ebdf; box-shadow: var(--shadow-2);

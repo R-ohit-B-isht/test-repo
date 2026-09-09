@@ -58,6 +58,7 @@ const PATHS = {
   umbrella: 'M3 12a9 9 0 0 1 18 0zM12 3v1M12 12v6a2 2 0 0 0 4 0',
   dots: 'M5 12a1 1 0 1 0 .01 0M12 12a1 1 0 1 0 .01 0M19 12a1 1 0 1 0 .01 0',
   heart: 'M12 20s-7-4.5-7-10a4 4 0 0 1 7-2.5A4 4 0 0 1 19 10c0 5.5-7 10-7 10z',
+  camera: 'M4 8h3.5l1.5-3h6l1.5 3H20v11H4zM12 17.5a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7z',
 };
 
 export const icon = (name, cls = '') => raw(

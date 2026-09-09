@@ -33,7 +33,7 @@ export const DEFAULT_STATE = {
   cash: [],         // cash.js · ATM withdrawals { id, iso, vnd, fee, inr, deleted }
   fxLive: null,     // fx.js · last live rate fetched { vndPerInr, iso, src }
   trail: [],        // trail.js · GPS points you dropped { id, t, lat, lng, acc, day, deleted }
-  photos: [],       // journal.js · photo metadata { id, day, name, type, size, created, deleted }; bytes in IndexedDB
+  photos: [],       // journal.js · photo metadata { id, day, name, type, size, w, h, taken, added, caption, deleted }; bytes in IndexedDB
   present: {},      // score.js · { [activityId]: { [personId]: 'showed' } } — "was there" ticks
   imports: [],      // importer.js · pasted links { id, url, provider, act, created, deleted }
   sync: null,       // sync.js · { room, at } once you join a room; never in share links
@@ -59,6 +59,10 @@ export const GCAL_NAME = 'Vietnam · Oct 2026';
 // only their names and sizes live in state.
 export const VAULT_DB = 'vietnam-vault';
 export const VAULT_MAX_MB = 25;
+// Journal photos are re-encoded before they are kept: long edge for the full
+// view, and a small thumb for the grid (both JPEG, same IndexedDB store).
+export const JOURNAL_MAX_PX = 1600;
+export const JOURNAL_THUMB_PX = 400;
 
 // Split ledger: whole rupees per entry; ₫ entries are converted with the rate
 // you set (0 = use the sourced mid-market rate from data/trip.js).

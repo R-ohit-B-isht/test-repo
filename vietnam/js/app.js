@@ -30,6 +30,9 @@ import { restoreShared } from './share.js';
 import { mountDev } from './dev.js';
 import { mountMag, renderMag } from './render/mag.js';
 import { mountScore, renderScore } from './render/score.js';
+import { mountJournal, renderJournal } from './render/journal.js';
+import { mountIngest } from './render/ingest.js';
+import { mountRecap } from './render/recap.js';
 
 // Bootstrap. Every page shares the store (localStorage), the chrome and the
 // overlays; only the renderers listed for <body data-page> mount here, so a
@@ -48,6 +51,7 @@ const PAGE = {
   map: [[mountGmap, renderGmap]],
   trip: [[mountMag, renderMag]],
   score: [[mountScore, renderScore]],
+  journal: [[mountJournal, renderJournal]],
   sources: [[renderSources, null]],
 };
 
@@ -63,6 +67,8 @@ mountVotes(store);
 const brain = mountBrain(store);
 const reel = mountReel(store);
 const replay = mountReplay(store);
+const recap = mountRecap(store);
+mountIngest(store);
 renderFooter();
 
 store.subscribe((state) => {
@@ -73,7 +79,7 @@ store.subscribe((state) => {
 mountTheme(store);
 mountScroll();
 mountNet(shared);
-mountKeys(store, { toggleDev: mountDev(store), brain, reel, replay });
+mountKeys(store, { toggleDev: mountDev(store), brain, reel, replay, recap });
 
 if ('serviceWorker' in navigator) navigator.serviceWorker.register('sw.js').catch(() => {});
 

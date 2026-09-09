@@ -130,6 +130,13 @@ export function createStore() {
     setPin(id, patch) {
       this.set((s) => ({ trail: (s.trail || []).map((p) => (p.id === id ? { ...p, ...patch } : p)) }));
     },
+    // Journal photos (journal.js): metadata only, bytes live in IndexedDB.
+    addPhotos(metas) {
+      this.set((s) => ({ photos: [...(s.photos || []), ...metas] }));
+    },
+    setPhoto(id, patch) {
+      this.set((s) => ({ photos: (s.photos || []).map((p) => (p.id === id ? { ...p, ...patch } : p)) }));
+    },
     reset() {
       state = structuredClone(DEFAULT_STATE);
       emit();
