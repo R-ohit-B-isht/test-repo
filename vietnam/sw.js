@@ -1,24 +1,33 @@
 /* Service worker: the whole planner (pages, code, day heroes) is precached so the
    saved plan opens with no data. Photos from Wikimedia/Flickr and the Google fonts
-   are cached as they are seen. Gemini, YouTube and booking sites are never cached. */
-const VERSION = 'v14';
+   are cached as they are seen. Gemini, YouTube and booking sites are never cached.
+   Street-map tiles (CARTO only) have two caches: the cities the user chose to
+   save (`tiles-v1`, written by js/gmap/cache.js, kept across versions) and a
+   small rolling cache of tiles seen while browsing. */
+const VERSION = 'v15';
 const SHELL = `shell-${VERSION}`;
 const MEDIA = `media-${VERSION}`;
 const MEDIA_MAX = 240;
+const TILES = 'tiles-v1';
+const TILES_SEEN = 'tiles-seen-v1';
+const TILES_SEEN_MAX = 300;
 
-const PAGES = ['index.html', 'days.html', 'picks.html', 'budget.html', 'calendar.html', 'book.html', 'manager.html', 'split.html', 'today.html', 'sources.html'];
+const PAGES = ['index.html', 'days.html', 'picks.html', 'budget.html', 'calendar.html', 'book.html', 'manager.html', 'split.html', 'today.html', 'map.html', 'sources.html'];
 const PRECACHE = [
   './', ...PAGES, 'manifest.webmanifest',
   'assets/favicon.svg', 'assets/wave.svg', 'assets/icon-192.png', 'assets/icon-512.png',
   'assets/photos/hanoi.jpg', 'assets/photos/halong.jpg', 'assets/photos/ninhbinh.jpg', 'assets/photos/hue.jpg', 'assets/photos/haivan.jpg',
   'assets/photos/danang.jpg', 'assets/photos/hoian.jpg', 'assets/photos/train.jpg', 'assets/photos/golden.jpg',
   'css/app.css', 'css/tokens.css', 'css/base.css', 'css/components.css', 'css/chrome.css', 'css/sections.css', 'css/pages.css',
-  'css/picker.css', 'css/importer.css', 'css/board.css', 'css/brain.css', 'css/reel.css', 'css/timeline.css', 'css/order.css', 'css/hops.css', 'css/votes.css', 'css/ritual.css', 'css/book.css', 'css/calendar.css', 'css/manager.css', 'css/split.css', 'css/today.css', 'css/trail.css', 'css/print.css',
+  'css/picker.css', 'css/importer.css', 'css/board.css', 'css/brain.css', 'css/reel.css', 'css/timeline.css', 'css/order.css', 'css/hops.css', 'css/votes.css', 'css/ritual.css', 'css/book.css', 'css/calendar.css', 'css/manager.css', 'css/split.css', 'css/today.css', 'css/trail.css', 'css/gmap.css', 'css/print.css',
+  'vendor/leaflet/leaflet.js', 'vendor/leaflet/leaflet.css', 'vendor/leaflet/images/layers.png', 'vendor/leaflet/images/layers-2x.png',
+  'vendor/leaflet/images/marker-icon.png', 'vendor/leaflet/images/marker-icon-2x.png', 'vendor/leaflet/images/marker-shadow.png',
   'js/app.js', 'js/pages.js', 'js/store.js', 'js/config.js', 'js/dom.js', 'js/icons.js', 'js/plan.js', 'js/strategies.js', 'js/timeline.js',
   'js/share.js', 'js/book.js', 'js/budget.js', 'js/dev.js', 'js/votes.js', 'js/ritual.js', 'js/clock.js', 'js/today.js', 'js/weather.js', 'js/trail.js', 'js/trail/replay.js',
   'js/chrome/shell.js', 'js/chrome/theme.js', 'js/chrome/scroll.js', 'js/chrome/keys.js', 'js/chrome/net.js',
   'js/data/trip.js', 'js/data/prices.js', 'js/data/sources.js', 'js/data/days.js', 'js/data/activities.js', 'js/data/checklist.js', 'js/data/ritual.js',
-  'js/data/photos.js', 'js/data/pics.js', 'js/data/reels.js', 'js/data/map.js', 'js/data/geo.js', 'js/data/hops.js',
+  'js/data/photos.js', 'js/data/pics.js', 'js/data/reels.js', 'js/data/map.js', 'js/data/geo.js', 'js/data/hops.js', 'js/data/places.js',
+  'js/gmap.js', 'js/gmap/tiles.js', 'js/gmap/cache.js', 'js/render/gmap.js', 'js/render/gm/leaflet.js', 'js/render/gm/view.js', 'js/render/gm/offline.js',
   'js/export/dates.js', 'js/export/ics.js', 'js/export/gcal.js', 'js/events.js', 'js/gcal/sync.js',
   'js/vault/slots.js', 'js/vault/db.js', 'js/vault/files.js', 'js/vault/parse.js',
   'js/split/model.js', 'js/split/math.js', 'js/split/csv.js',
@@ -35,6 +44,9 @@ const PRECACHE = [
 
 const NEVER = ['generativelanguage.googleapis.com', 'accounts.google.com', 'www.googleapis.com', 'calendar.google.com', 'api.open-meteo.com', 'youtube.com', 'youtube-nocookie.com', 'ytimg.com', 'open.er-api.com'];
 const MEDIA_HOSTS = ['upload.wikimedia.org', 'live.staticflickr.com', 'fonts.googleapis.com', 'fonts.gstatic.com'];
+const TILE_HOST = /^[a-d]\.basemaps\.cartocdn\.com$/;
+const TILE_PATH = /^\/(rastertiles\/voyager|dark_all)\/\d{1,2}\/\d+\/\d+(@2x)?\.png$/;
+const isTile = (url) => url.protocol === 'https:' && TILE_HOST.test(url.hostname) && TILE_PATH.test(url.pathname) && !url.search;
 
 self.addEventListener('install', (e) => {
   e.waitUntil(caches.open(SHELL).then((c) => c.addAll(PRECACHE)).then(() => self.skipWaiting()));
@@ -43,7 +55,7 @@ self.addEventListener('install', (e) => {
 self.addEventListener('activate', (e) => {
   e.waitUntil(
     caches.keys()
-      .then((keys) => Promise.all(keys.filter((k) => ![SHELL, MEDIA].includes(k)).map((k) => caches.delete(k))))
+      .then((keys) => Promise.all(keys.filter((k) => ![SHELL, MEDIA, TILES, TILES_SEEN].includes(k)).map((k) => caches.delete(k))))
       .then(() => self.clients.claim())
   );
 });
@@ -88,11 +100,28 @@ const media = async (req) => {
   return res;
 };
 
+// Tiles: saved cities first, then tiles seen recently, then the network. Only
+// CARTO tile URLs of the two styles the map uses ever get here; the rolling
+// cache is count-capped and the saved one is written/removed by the page.
+const tile = async (req) => {
+  const saved = await caches.open(TILES);
+  const hit = (await saved.match(req.url)) || (await (await caches.open(TILES_SEEN)).match(req.url));
+  if (hit) return hit;
+  const res = await fetch(req);
+  if (res.ok) {
+    const seen = await caches.open(TILES_SEEN);
+    seen.put(req.url, res.clone());
+    trim(TILES_SEEN, TILES_SEEN_MAX);
+  }
+  return res;
+};
+
 self.addEventListener('fetch', (e) => {
   const req = e.request;
   if (req.method !== 'GET') return;
   const url = new URL(req.url);
   if (NEVER.some((h) => url.hostname.endsWith(h))) return;
   if (url.origin === location.origin) return e.respondWith(shell(req));
+  if (isTile(url)) return e.respondWith(tile(req));
   if (MEDIA_HOSTS.includes(url.hostname)) return e.respondWith(media(req));
 });

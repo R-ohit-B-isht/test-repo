@@ -32,6 +32,9 @@ export function renderSources() {
     ${Object.entries(PHOTOS).map(photoCredit)}
     ${CREDITS.map((c) => html`<span class="chip chip-ink" title="${c.took}">${c.name}</span>`)}
     <a class="chip" href="https://www.naturalearthdata.com/" target="_blank" rel="noopener">map · Natural Earth · public domain</a>
+    <a class="chip" href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">street map · © OpenStreetMap contributors · ODbL</a>
+    <a class="chip" href="https://carto.com/attributions" target="_blank" rel="noopener">tiles · © CARTO basemaps</a>
+    <a class="chip" href="https://leafletjs.com/" target="_blank" rel="noopener">Leaflet 1.9.4 · BSD-2</a>
     ${picCredits()}`;
 }
 

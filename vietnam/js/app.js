@@ -13,6 +13,7 @@ import { mountSheet, renderSheet } from './render/sheet.js';
 import { mountManager, renderManager } from './render/manager.js';
 import { mountSplit, renderSplit } from './render/split.js';
 import { mountToday, renderToday } from './render/today.js';
+import { mountGmap, renderGmap } from './render/gmap.js';
 import { mountExport, renderExport } from './render/export.js';
 import { mountBrain } from './render/brain.js';
 import { mountReel } from './render/reel.js';
@@ -42,6 +43,7 @@ const PAGE = {
   manager: [[mountManager, renderManager]],
   split: [[mountSplit, renderSplit]],
   today: [[mountToday, renderToday]],
+  map: [[mountGmap, renderGmap]],
   sources: [[renderSources, null]],
 };
 

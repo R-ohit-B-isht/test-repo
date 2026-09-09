@@ -7,6 +7,7 @@ const ORDER = ['auto', 'light', 'dark'];
 const ICON = { auto: 'sparkle', light: 'sun', dark: 'moon' };
 
 export const nextTheme = (t) => ORDER[(ORDER.indexOf(t) + 1) % ORDER.length];
+export const isDark = (t) => t === 'dark' || (t === 'auto' && matchMedia('(prefers-color-scheme: dark)').matches);
 
 export function mountTheme(store) {
   const btn = $('#theme-btn');
@@ -15,7 +16,6 @@ export function mountTheme(store) {
     document.documentElement.dataset.theme = s.theme;
     btn.innerHTML = icon(ICON[s.theme]).s;
     btn.setAttribute('aria-label', `Theme: ${s.theme}`);
-    const dark = s.theme === 'dark' || (s.theme === 'auto' && matchMedia('(prefers-color-scheme: dark)').matches);
-    $('meta[name="theme-color"]').content = dark ? '#121a17' : '#f7f2e8';
+    $('meta[name="theme-color"]').content = isDark(s.theme) ? '#121a17' : '#f7f2e8';
   });
 }
