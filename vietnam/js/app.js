@@ -14,6 +14,7 @@ import { mountSplit, renderSplit } from './render/split.js';
 import { mountExport, renderExport } from './render/export.js';
 import { mountBrain } from './render/brain.js';
 import { mountReel } from './render/reel.js';
+import { mountVotes } from './render/votes.js';
 import { renderSources, renderFooter } from './render/sources.js';
 import { mountShell } from './chrome/shell.js';
 import { mountTheme } from './chrome/theme.js';
@@ -45,6 +46,7 @@ mountShell();
 
 const renderers = (PAGE[currentPage()] || []).map(([mount, render]) => { mount(store); return render; }).filter(Boolean);
 mountDayBoard(store);
+mountVotes(store);
 const brain = mountBrain(store);
 const reel = mountReel(store);
 renderFooter();

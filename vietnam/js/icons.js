@@ -54,6 +54,7 @@ const PATHS = {
   phone: 'M8 3h8a1 1 0 0 1 1 1v16a1 1 0 0 1-1 1H8a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1zM11 18h2',
   umbrella: 'M3 12a9 9 0 0 1 18 0zM12 3v1M12 12v6a2 2 0 0 0 4 0',
   dots: 'M5 12a1 1 0 1 0 .01 0M12 12a1 1 0 1 0 .01 0M19 12a1 1 0 1 0 .01 0',
+  heart: 'M12 20s-7-4.5-7-10a4 4 0 0 1 7-2.5A4 4 0 0 1 19 10c0 5.5-7 10-7 10z',
 };
 
 export const icon = (name, cls = '') => raw(

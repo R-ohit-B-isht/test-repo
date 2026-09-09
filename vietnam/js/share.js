@@ -3,11 +3,14 @@ import { DEFAULT_PICKS, BY_ID, EXTRA_STOPS } from './data/activities.js';
 import { STOPS } from './data/trip.js';
 import { STRATEGIES } from './strategies.js';
 import { findHop } from './data/hops.js';
+import { encodeVotes, mergeVotes, MAX_VOTERS } from './votes.js';
 
 // Share a plan as a URL: ?p=<base64url JSON>. Versioned, so an old link still
 // opens; anything unknown or out of range is dropped rather than trusted.
 // Only SHAREABLE plan data travels — never the checklist, documents, ledger,
 // photos, GPS or keys — and opening a link resets only those same fields.
+// Votes (first names + hearted ids) ride along too, but MERGE instead of
+// replace, so a friend's link adds their hearts to yours.
 
 const VERSION = 1;
 const DIALS = { travellers: [1, 6], bed: [200, 6000], food: [200, 4000], local: [50, 2500], buffer: [0, 40] };
@@ -23,7 +26,8 @@ export const encodePlan = (state) => {
   const custom = (state.custom || []).map(({ id, stop, slot, h, name, note, inr, kind }) => ({ id, stop, slot, h, name, note, inr, kind }));
   const order = Object.fromEntries(Object.entries(state.order || {}).filter(([, ids]) => ids?.length));
   const hops = Object.fromEntries(Object.entries(state.hops || {}).filter(([id, w]) => findHop(id)?.ways.some((x) => x.id === w)));
-  const payload = { v: VERSION, s: state.strategy, b: state.berth, on, off, custom, order, hops };
+  const votes = encodeVotes(state);
+  const payload = { v: VERSION, s: state.strategy, b: state.berth, on, off, custom, order, hops, ...(votes.length ? { votes } : {}) };
   Object.keys(DIALS).forEach((k) => { payload[k] = state[k]; });
   return b64(JSON.stringify(payload));
 };
@@ -71,6 +75,11 @@ export const decodePlan = (p) => {
   if (d.hops && typeof d.hops === 'object') {
     Object.entries(d.hops).forEach(([id, w]) => { if (findHop(id)?.ways.some((x) => x.id === w)) patch.hops[id] = w; });
   }
+  patch.votes = (Array.isArray(d.votes) ? d.votes : [])
+    .filter((v) => v && typeof v.n === 'string' && Array.isArray(v.h))
+    .map((v) => ({ n: v.n.trim().slice(0, 24), h: v.h.filter((id) => known.has(id)) }))
+    .filter((v) => v.n && v.h.length)
+    .slice(0, MAX_VOTERS);
   return patch;
 };
 
@@ -85,6 +94,8 @@ export function restoreShared(store) {
   history.replaceState(null, '', u.toString());
   if (!patch) return 'bad';
   const fresh = structuredClone(DEFAULT_STATE);
-  store.set(Object.fromEntries(SHAREABLE.map((k) => [k, k in patch ? patch[k] : fresh[k]])));
+  const known = new Set([...Object.keys(BY_ID), ...patch.custom.map((x) => x.id)]);
+  const merged = mergeVotes(store.get(), patch.votes, known);
+  store.set({ ...Object.fromEntries(SHAREABLE.map((k) => [k, k in patch ? patch[k] : fresh[k]])), ...(merged || {}) });
   return 'applied';
 }

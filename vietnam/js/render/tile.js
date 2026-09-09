@@ -6,6 +6,7 @@ import { priceTag, srcIcon, includesText, mustMark } from './picks.js';
 import { strip, galleryClick } from './gallery.js';
 import { reelChip, reelClick } from './reel.js';
 import { ticketLinks } from '../book.js';
+import { heartCount, iHeart, lovedBy } from '../votes.js';
 
 // One activity tile: photo strip, name, note, status badge, price, source.
 // Shared by the picker grid, the "+days" cards and the day board.
@@ -33,6 +34,15 @@ const bookIcon = (x, plan, status) => {
   return l ? html`<a class="src book" href="${l.url}" target="_blank" rel="noopener noreferrer" aria-label="Find tickets on ${l.name}" title="Tickets · ${l.name}">${icon('ticket')}</a>` : '';
 };
 
+// Airbnb-style heart: one per person, the count is the whole group's.
+export const heart = (x, state) => {
+  const n = heartCount(state, x.id);
+  const mine = iHeart(state, x.id);
+  const who = lovedBy(state, x.id);
+  const label = n ? `${mine ? 'Unheart' : 'Heart'} · ${who.join(', ')} want${who.length === 1 && who[0] !== 'you' ? 's' : ''} this` : 'Heart this';
+  return html`<button class="heart ${mine ? 'is-mine' : ''} ${n ? 'has-votes' : ''}" type="button" data-heart="${x.id}" aria-pressed="${String(mine)}" aria-label="${label}" title="${label}">${icon('heart')}${n ? html`<span class="num">${n}</span>` : ''}</button>`;
+};
+
 export const tile = (x, state, plan) => {
   const status = statusOf(x, state, plan);
   const dead = status === 'closed' || status === 'bundled';
@@ -49,14 +59,14 @@ export const tile = (x, state, plan) => {
         <span class="nm">${x.name}${mustMark(x)}</span>
         <span class="sub">${x.closed || x.note || ''}${x.includes ? html` · incl. ${includesText(x)}` : ''}</span>
       </span>
-      <span class="meta">${badge(x, status, plan)}${priceTag(x, state.travellers)}${bookIcon(x, plan, status)}${srcIcon(x)}</span>
+      <span class="meta">${badge(x, status, plan)}${priceTag(x, state.travellers)}${bookIcon(x, plan, status)}${srcIcon(x)}${x.closed ? '' : heart(x, state)}</span>
     </div>`;
 };
 
 // Tap anywhere on the card — photo included — flips the pick; gallery arrows,
 // the reel chip and source links are the only parts that do their own thing.
 export const pickHandler = (store) => (e) => {
-  if (galleryClick(e) || reelClick(e) || e.target.closest('a')) return false;
+  if (galleryClick(e) || reelClick(e) || e.target.closest('a') || e.target.closest('[data-heart]')) return false;
   const b = e.target.closest('[data-pick]') || e.target.closest('.tile')?.querySelector('[data-pick]');
   if (!b || b.disabled) return false;
   store.togglePick(b.dataset.pick);

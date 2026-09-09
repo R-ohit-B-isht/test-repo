@@ -15,7 +15,7 @@ const card = (id, ic, title, blurb, body) => html`
   </div>`;
 
 const view = () => html`
-  ${card('share', 'link', 'Share the plan', 'One link holds your picks, route and travellers. Open it anywhere.', html`
+  ${card('share', 'link', 'Share the plan', 'One link holds your picks, route, travellers and hearts. Open it anywhere.', html`
     <div class="row">
       <button class="btn btn-primary" type="button" data-x="share">${icon('link')}Copy link</button>
       ${navigator.share ? html`<button class="btn" type="button" data-x="native">Send…</button>` : ''}

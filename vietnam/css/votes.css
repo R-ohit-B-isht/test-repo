@@ -1,0 +1,79 @@
+/* Group votes — Airbnb wishlist hearts. A heart on every tile (picker, +days
+   cards, day board), one card on the Picks page that totals them, and a tiny
+   "who are you?" sheet the first time you heart something. Lantern is the one
+   accent, so a full heart reads as "wanted" without shouting. */
+
+.heart {
+  position: relative; z-index: 1; display: inline-flex; align-items: center; gap: 3px; min-height: 24px; padding: 0 7px 0 5px;
+  border-radius: var(--r-pill); border: 1px solid var(--line); background: var(--card); color: var(--fg-3);
+  font: 500 11px var(--font-mono); cursor: pointer; margin-left: auto;
+  transition: border-color var(--t-fast) var(--ease-out), color var(--t-fast) var(--ease-out), background-color var(--t-fast) var(--ease-out), transform var(--t-fast) var(--ease-out);
+}
+.heart .ic { width: 14px; height: 14px; fill: none; transition: fill var(--t-fast) var(--ease-out), transform var(--t-fast) var(--ease-out); }
+.heart:hover { border-color: var(--lantern); color: var(--lantern); }
+.heart:active { transform: scale(0.94); }
+.heart:focus-visible { outline: 2px solid var(--lantern); outline-offset: 2px; }
+.heart.has-votes { color: var(--fg-2); border-color: var(--fg-3); }
+.heart.is-mine { color: var(--lantern); border-color: var(--lantern); background: color-mix(in srgb, var(--lantern) 10%, var(--card)); }
+.heart.is-mine .ic { fill: var(--lantern); animation: heart-pop var(--t-base) var(--ease-out); }
+@keyframes heart-pop { 0% { transform: scale(0.7); } 60% { transform: scale(1.25); } 100% { transform: scale(1); } }
+.chip.chip-heart { background: color-mix(in srgb, var(--lantern) 12%, var(--card)); color: var(--lantern); text-decoration: none; }
+.chip.chip-heart .ic { width: 13px; height: 13px; fill: var(--lantern); margin-right: 4px; }
+.picker-kind .ic { fill: none; }
+.picker-kind input:checked + .ic { fill: currentColor; }
+
+/* Votes card */
+.picker-votes { margin-bottom: var(--s-4); }
+.picker-votes:empty { display: none; }
+.votes { display: grid; gap: var(--s-3); border-left: 4px solid var(--lantern); }
+.votes-head { display: flex; flex-wrap: wrap; gap: var(--s-3); align-items: flex-start; justify-content: space-between; }
+.votes-head .eyebrow { display: inline-flex; align-items: center; gap: 6px; }
+.votes-head .eyebrow .ic { width: 12px; height: 12px; fill: var(--lantern); color: var(--lantern); }
+.votes-head h3 { margin: 4px 0 0; font: 600 var(--fs-3)/1.15 var(--font-display); letter-spacing: -0.01em; overflow-wrap: anywhere; }
+.votes-cta { display: flex; flex-wrap: wrap; gap: var(--s-2); }
+.votes-people { display: flex; flex-wrap: wrap; gap: var(--s-2); align-items: center; }
+.vchip {
+  display: inline-flex; align-items: center; gap: 6px; min-height: 32px; padding: 2px 10px 2px 4px;
+  border: 1px solid var(--line); border-radius: var(--r-pill); background: var(--bg); color: var(--fg); font: 500 var(--fs-1) var(--font-ui);
+}
+.vchip b { font: 500 11px var(--font-mono); color: var(--fg-3); }
+.vchip.is-me { border-color: var(--lantern); }
+.vchip-add { cursor: pointer; border-style: dashed; color: var(--fg-2); padding-left: 8px; transition: border-color var(--t-fast), color var(--t-fast); }
+.vchip-add .ic { width: 14px; height: 14px; }
+.vchip-add:hover { border-color: var(--lantern); color: var(--lantern); }
+.vchip-add:focus-visible { outline: 2px solid var(--lantern); outline-offset: 2px; }
+.votes-top { list-style: none; margin: 0; padding: 0; display: grid; gap: 6px; }
+.votes-top li { display: grid; grid-template-columns: 28px minmax(0, 1fr) auto; gap: 4px var(--s-2); align-items: center; }
+.votes-top .ic-wrap { width: 28px; height: 28px; border-radius: var(--r-ctl); display: grid; place-items: center; background: var(--bg-2); color: var(--fg-2); grid-row: span 2; }
+.votes-top .ic-wrap .ic { width: 16px; height: 16px; }
+.votes-top .nm { font-weight: 600; font-size: var(--fs-2); overflow-wrap: anywhere; }
+.votes-top .who { grid-column: 2; color: var(--fg-3); font-size: 12px; overflow-wrap: anywhere; }
+.votes-top b { grid-row: span 2; display: inline-flex; align-items: center; gap: 3px; color: var(--lantern); font: 600 var(--fs-2) var(--font-mono); }
+.votes-top b .ic { width: 14px; height: 14px; fill: var(--lantern); }
+.votes-empty { margin: 0; color: var(--fg-3); font-size: var(--fs-1); display: inline-flex; flex-wrap: wrap; align-items: center; gap: 4px; }
+.votes-empty .ic { width: 13px; height: 13px; }
+.votes-fights { list-style: none; margin: 0; padding: var(--s-3); border-radius: var(--r-ctl); background: var(--sun-soft); display: grid; gap: 6px; }
+.votes-fights li { display: flex; flex-wrap: wrap; align-items: center; gap: 4px 8px; font-size: var(--fs-1); color: color-mix(in srgb, var(--sun) 40%, var(--fg)); }
+.votes-fights .nm { font-weight: 600; color: var(--fg); }
+.votes-fights .chip { min-height: 20px; padding: 0 7px; font-size: 11px; }
+.votes-fights .sub { color: var(--fg-3); }
+
+/* Who are you? — small centred sheet */
+.overlay.who .card { max-width: 420px; display: grid; gap: var(--s-3); }
+.overlay.who .card-head { margin: 0; }
+.overlay.who h3 { display: inline-flex; align-items: center; gap: var(--s-2); margin: 0; font: 600 var(--fs-3)/1.1 var(--font-display); }
+.overlay.who h3 .ic { width: 20px; height: 20px; color: var(--lantern); fill: var(--lantern); }
+.overlay.who .sub { margin: 0; color: var(--fg-3); font-size: var(--fs-1); }
+.who-row { display: flex; gap: var(--s-2); }
+.who-row input { flex: 1; min-width: 0; min-height: 44px; padding: 0 var(--s-3); border: 1px solid var(--line); border-radius: var(--r-ctl); background: var(--bg-2); color: var(--fg); font: inherit; }
+.who-row input:focus-visible { outline: 2px solid var(--lantern); outline-offset: 1px; border-color: transparent; }
+
+@media (max-width: 480px) {
+  .who-row { flex-direction: column; }
+  .votes-cta { width: 100%; }
+  .votes-cta .btn, .votes-cta .chip-brain { flex: 1; justify-content: center; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .heart.is-mine .ic { animation: none; }
+}

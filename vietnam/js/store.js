@@ -41,6 +41,14 @@ export function createStore() {
     setPicks(picks) {
       this.set({ picks });
     },
+    // Hearts: one flag per activity per person (votes.js).
+    toggleHeart(id, pid) {
+      this.set((s) => {
+        const mine = { ...(s.hearts[id] || {}) };
+        if (mine[pid]) delete mine[pid]; else mine[pid] = true;
+        return { hearts: { ...s.hearts, [id]: mine } };
+      });
+    },
     toggleCheck(id) {
       this.set((s) => ({ checklist: { ...s.checklist, [id]: !s.checklist[id] } }));
     },

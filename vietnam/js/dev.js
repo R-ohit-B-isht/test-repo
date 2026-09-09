@@ -59,7 +59,22 @@ export function mountDev(store) {
     'Tick all': () => store.set({ checklist: allChecks(true) }),
     'Untick all': () => store.set({ checklist: {} }),
     'Split: test ledger': () => store.set(devLedger()),
-    'Split: clear': () => store.set({ me: null, people: [], expenses: [], cash: [], rate: 0, fxLive: null }),
+    'Split: clear': () => store.set({ me: null, people: [], expenses: [], cash: [], rate: 0, fxLive: null, hearts: {} }),
+    // Test voters (from the test ledger's people) hearting a spread of picks so the
+    // votes card, conflicts and Gemini resolve can be exercised without friends.
+    'Votes: test hearts': () => {
+      const s = store.get();
+      const base = s.people.filter((p) => !p.deleted).length >= 3 ? {} : devLedger();
+      const ppl = (base.people || s.people).filter((p) => !p.deleted).map((p) => p.id);
+      const on = ACTIVITIES.filter((x) => !x.closed && s.picks[x.id]).map((x) => x.id);
+      const off = ACTIVITIES.filter((x) => !x.closed && !s.picks[x.id] && (x.vnd || x.usd)).map((x) => x.id);
+      const hearts = {};
+      const add = (id, pid) => { hearts[id] = { ...(hearts[id] || {}), [pid]: true }; };
+      on.slice(0, 4).forEach((id) => ppl.forEach((pid) => add(id, pid)));
+      off.slice(0, 2).forEach((id) => ppl.slice(1).forEach((pid) => add(id, pid)));
+      store.set({ ...base, hearts });
+    },
+    'Votes: clear': () => store.set({ hearts: {} }),
     'Clock: cycle': () => { const l = cyclePin(); $('[data-act="Clock: cycle"]', bar).textContent = `Clock: ${l}`; store.set({}); },
     'Fares: clear logs': () => store.set({ fares: {} }),
     'Dump budget': () => { $('pre', bar).hidden = !$('pre', bar).hidden; },

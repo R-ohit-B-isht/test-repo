@@ -18,7 +18,7 @@ let toastTimer = 0;
 
 const MSG = {
   offline: () => html`${icon('offline')}<span>Offline · plan saved. Brain, booking and reels need data.</span>`,
-  shared: () => html`${icon('link')}<span>Shared plan loaded · picks, route and travellers replaced</span><button type="button" data-net="dismiss-notice" aria-label="Dismiss">×</button>`,
+  shared: () => html`${icon('link')}<span>Shared plan loaded · picks, route and travellers replaced, hearts merged</span><button type="button" data-net="dismiss-notice" aria-label="Dismiss">×</button>`,
   badShare: () => html`${icon('shield')}<span>That link's plan could not be read · showing your saved plan</span><button type="button" data-net="dismiss-notice" aria-label="Dismiss">×</button>`,
   install: () => html`${icon('download')}<span>Keep it on your phone</span><button type="button" data-net="install">Install</button><button type="button" data-net="dismiss" aria-label="Not now">×</button>`,
   update: () => html`${icon('sparkle')}<span>New version ready</span><button type="button" data-net="reload">Reload</button>`,
