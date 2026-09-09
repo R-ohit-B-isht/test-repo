@@ -1,7 +1,7 @@
 /* Service worker: the whole planner (pages, code, day heroes) is precached so the
    saved plan opens with no data. Photos from Wikimedia/Flickr and the Google fonts
    are cached as they are seen. Gemini, YouTube and booking sites are never cached. */
-const VERSION = 'v10';
+const VERSION = 'v11';
 const SHELL = `shell-${VERSION}`;
 const MEDIA = `media-${VERSION}`;
 const MEDIA_MAX = 240;
@@ -20,14 +20,14 @@ const PRECACHE = [
   'js/data/trip.js', 'js/data/prices.js', 'js/data/sources.js', 'js/data/days.js', 'js/data/activities.js', 'js/data/checklist.js', 'js/data/ritual.js',
   'js/data/photos.js', 'js/data/pics.js', 'js/data/reels.js', 'js/data/map.js', 'js/data/geo.js', 'js/data/hops.js',
   'js/export/dates.js', 'js/export/ics.js', 'js/export/gcal.js', 'js/events.js', 'js/gcal/sync.js',
-  'js/vault/slots.js', 'js/vault/db.js', 'js/vault/files.js',
+  'js/vault/slots.js', 'js/vault/db.js', 'js/vault/files.js', 'js/vault/parse.js',
   'js/split/model.js', 'js/split/math.js', 'js/split/csv.js',
   'js/brain/gemini.js', 'js/brain/context.js', 'js/brain/apply.js', 'js/brain/vibe.js',
   'js/render/hero.js', 'js/render/route.js', 'js/render/map.js', 'js/render/itinerary.js', 'js/render/dayboard.js', 'js/render/timeline.js', 'js/render/order.js', 'js/render/orderDrag.js', 'js/render/hops.js', 'js/route.js',
   'js/render/picker.js', 'js/render/picks.js', 'js/render/tile.js', 'js/render/gallery.js', 'js/render/budget.js', 'js/render/checklist.js',
   'js/render/links.js', 'js/render/calendar.js', 'js/render/export.js', 'js/render/brain.js', 'js/render/brainOut.js', 'js/render/vibe.js', 'js/render/reel.js', 'js/render/sources.js', 'js/render/votes.js', 'js/render/ritual.js',
   'js/render/sheet.js', 'js/render/gcalPanel.js', 'js/render/cal/month.js', 'js/render/cal/week.js', 'js/render/cal/agenda.js', 'js/render/cal/chips.js',
-  'js/render/manager.js', 'js/render/mgr/card.js', 'js/render/mgr/head.js', 'js/render/mgr/peek.js',
+  'js/render/manager.js', 'js/render/mgr/card.js', 'js/render/mgr/head.js', 'js/render/mgr/peek.js', 'js/render/mgr/paste.js',
   'js/render/split.js', 'js/render/spl/bits.js', 'js/render/spl/head.js', 'js/render/spl/balances.js', 'js/render/spl/ledger.js',
   'js/render/spl/form.js', 'js/render/spl/sheet.js', 'js/render/spl/actions.js',
 ];

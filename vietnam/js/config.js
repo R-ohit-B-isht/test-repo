@@ -47,6 +47,7 @@ export const SHAREABLE = ['strategy', 'travellers', 'berth', 'bed', 'food', 'loc
 // dev dump, never sent anywhere but generativelanguage.googleapis.com.
 export const GEMINI_KEY_SLOT = 'vietnam-gemini-key';
 export const GEMINI_MODELS = ['gemini-2.5-flash', 'gemini-2.5-pro'];
+export const GEMINI_MODEL_SLOT = 'vietnam-gemini-model';
 
 // Google Calendar sync: the OAuth client id you paste and the ids of events
 // already pushed live in their own slots too — never in state, never shared.

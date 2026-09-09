@@ -5,6 +5,9 @@ import { storeFile, appendFiles, flagFile, urlFor, releaseUrls, isImage } from '
 import { slotCard } from './mgr/card.js';
 import { head, groupNav, addForm } from './mgr/head.js';
 import { openPeek, mountPeek } from './mgr/peek.js';
+import { pasteForm, pasteResult } from './mgr/paste.js';
+import { keyStore, generateJson, modelOf } from '../brain/gemini.js';
+import { slotLines, PARSE_SYSTEM, parseSchema, toFill, quickParse, patchOf } from '../vault/parse.js';
 
 // Manager page controller. Slots come from vault/slots.js, what you typed and
 // dropped in is `state.vault`; this file only maps DOM events to store calls
@@ -13,6 +16,7 @@ import { openPeek, mountPeek } from './mgr/peek.js';
 
 let store = null;
 let jumped = false;
+let paste = { busy: false, error: '', fill: null };
 
 const toast = (text, undo) => document.dispatchEvent(new CustomEvent('toast', { detail: { text, undo } }));
 const slotOf = (el) => el.closest('[data-slot]')?.dataset.slot;
@@ -95,6 +99,71 @@ const onClick = (e) => {
   return undefined;
 };
 
+// ---- Paste a confirmation ---------------------------------------------------
+
+const paintPaste = () => {
+  const host = $('#mgr-paste');
+  if (!host) return;
+  const text = $('textarea', host)?.value || '';
+  host.innerHTML = html`${pasteForm(paste, !!keyStore.get())}${paste.fill ? pasteResult(paste.fill, slotsFor(store.get())) : ''}`;
+  const ta = $('textarea', host);
+  if (ta) ta.value = text;
+};
+
+async function readPaste(text) {
+  const slots = slotsFor(store.get());
+  paste = { busy: true, error: '', fill: null };
+  paintPaste();
+  try {
+    const key = keyStore.get();
+    if (key) {
+      const reply = await generateJson({
+        key, model: modelOf(), system: PARSE_SYSTEM, schema: parseSchema(slots.map((s) => s.id)),
+        user: `SLOTS (id | title | group | date | till | dateField | hint):\n${slotLines(slots)}\n\nTEXT:\n${text.slice(0, 12000)}`,
+      });
+      paste = { busy: false, error: '', fill: toFill(reply, slots, 'gemini') };
+    } else {
+      paste = { busy: false, error: '', fill: quickParse(text, slots) };
+    }
+  } catch (e) {
+    paste = { busy: false, error: e.message || String(e), fill: null };
+  }
+  paintPaste();
+  $('.ms-pres, .ms-err:not([hidden])', $('#mgr-paste'))?.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+}
+
+const fillSlot = () => {
+  const f = paste.fill;
+  const slot = f && slotsFor(store.get()).find((s) => s.id === f.slot);
+  if (!slot) return;
+  const before = rec(slot.id);
+  store.setVault(slot.id, patchOf(f, slot, before));
+  paste = { busy: false, error: '', fill: null };
+  const ta = $('#mgr-paste textarea');
+  if (ta) ta.value = '';
+  paintPaste();
+  toast(`${slot.title} filled${f.ref ? ` · ${f.ref}` : ''}`, () => store.setVault(slot.id, { ref: before.ref, note: before.note, date: before.date, status: before.status }));
+  requestAnimationFrame(() => {
+    const card = $(`#slot-${CSS.escape(slot.id)}`);
+    card?.scrollIntoView({ block: 'center', behavior: 'smooth' });
+    card?.classList.add('is-hit');
+  });
+};
+
+const onPasteClick = (e) => {
+  if (e.target.closest('[data-fill-drop]')) { paste = { busy: false, error: '', fill: null }; return paintPaste(); }
+  if (e.target.closest('[data-fill-go]')) return fillSlot();
+  return undefined;
+};
+
+const onPasteChange = (e) => {
+  if (e.target.matches('[data-fill-slot]') && paste.fill) {
+    paste.fill = { ...paste.fill, slot: e.target.value };
+    $('[data-fill-go]', $('#mgr-paste')).disabled = !paste.fill.slot;
+    $('[data-fill-go]', $('#mgr-paste')).innerHTML = html`${icon('check')} Fill ${slotsFor(store.get()).find((s) => s.id === paste.fill.slot)?.title || 'slot'}`;
+  }
+};
+
 const onDrop = (e) => {
   const card = e.target.closest('.mslot');
   if (!card) return;
@@ -110,7 +179,18 @@ export function mountManager(s) {
   mountPeek();
   root.addEventListener('change', onChange);
   root.addEventListener('click', onClick);
-  root.addEventListener('submit', (e) => { if (e.target.id === 'mgr-add') { e.preventDefault(); addSlot(e.target); } });
+  root.addEventListener('submit', (e) => {
+    if (e.target.id === 'mgr-add') { e.preventDefault(); addSlot(e.target); }
+    if (e.target.id === 'mgr-paste-form') { e.preventDefault(); const text = new FormData(e.target).get('text').trim(); if (text && !paste.busy) readPaste(text); }
+  });
+  const ph = $('#mgr-paste');
+  if (ph) {
+    ph.addEventListener('click', onPasteClick);
+    ph.addEventListener('change', onPasteChange);
+    document.addEventListener('paste:read', (e) => { paintPaste(); const ta = $('textarea', ph); ta.value = e.detail; readPaste(e.detail); });
+    document.addEventListener('gemini:key', paintPaste);
+    paintPaste();
+  }
   root.addEventListener('dragover', (e) => { const c = e.target.closest('.mslot'); if (c) { e.preventDefault(); c.classList.add('is-over'); } });
   root.addEventListener('dragleave', (e) => e.target.closest('.mslot')?.classList.remove('is-over'));
   root.addEventListener('drop', onDrop);

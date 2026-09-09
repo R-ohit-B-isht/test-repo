@@ -95,6 +95,30 @@
 .ms-add h3 { display: flex; align-items: center; gap: var(--s-2); font: 600 var(--fs-3)/1.1 var(--font-display); margin: 0; }
 .ms-add h3 .ic { width: 18px; height: 18px; color: var(--lantern); }
 .ms-addrow { display: grid; grid-template-columns: minmax(0, 1fr) auto auto; gap: var(--s-2); }
+/* Paste a confirmation: textarea → read → review → fill */
+#mgr-paste { display: grid; gap: var(--s-3); margin-bottom: var(--s-4); }
+#mgr-paste:empty { display: none; }
+.ms-paste { display: grid; gap: var(--s-2); }
+.ms-paste h3 { display: flex; align-items: center; gap: var(--s-2); font: 600 var(--fs-3)/1.1 var(--font-display); margin: 0; }
+.ms-paste h3 .ic { width: 18px; height: 18px; color: var(--lantern); }
+.ms-paste .sub { margin: 0; font-size: var(--fs-1); color: var(--fg-3); }
+.ms-paste textarea { min-height: 84px; font-family: var(--font-mono); font-size: var(--fs-1); resize: vertical; }
+.ms-paste[data-busy='true'] textarea { opacity: 0.6; }
+.ms-pasterow { justify-content: space-between; flex-wrap: wrap; gap: var(--s-2); }
+.ms-pasterow .btn-link { margin: 0; display: inline-flex; align-items: center; gap: 6px; }
+.ms-pasterow .btn-link .ic { width: 13px; height: 13px; }
+.ms-pres { display: grid; gap: var(--s-3); padding: var(--s-3); border: 1px solid color-mix(in srgb, var(--lantern) 45%, var(--line)); border-radius: var(--r-card); background: color-mix(in srgb, var(--lantern) 6%, var(--card)); animation: ms-in var(--t-base) var(--ease-out) both; }
+@keyframes ms-in { from { opacity: 0; transform: translateY(6px); } }
+.ms-preshead { display: flex; align-items: center; gap: var(--s-3); min-width: 0; }
+.ms-pres .ms-txt .sub { display: flex; align-items: center; gap: 6px; }
+.ms-pres .ms-meta .chip b { font-family: var(--font-mono); font-weight: 600; letter-spacing: 0.04em; }
+.ms-pnote { margin: 0; font-size: var(--fs-1); color: var(--fg-2); overflow-wrap: anywhere; }
+.ms-pslot { display: grid; gap: 4px; min-width: 0; }
+.ms-pslot > span { font: 500 10px var(--font-mono); text-transform: uppercase; letter-spacing: 0.06em; color: var(--fg-3); }
+.ms-pslot select { width: 100%; }
+.ms-pres .btn .ic { width: 14px; height: 14px; }
+@media (prefers-reduced-motion: reduce) { .ms-pres { animation: none; } }
+
 .ms-bin { margin-top: var(--s-4); font-size: var(--fs-1); color: var(--fg-3); }
 .ms-bin:empty { display: none; }
 

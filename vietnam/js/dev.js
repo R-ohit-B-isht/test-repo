@@ -12,6 +12,24 @@ import { MICRO } from './data/ritual.js';
 // Developer bar (Command pattern: each button is a named action on the store).
 // Opens with ?dev=1, localStorage.IS_DEV='true', or the D key.
 
+// Paste fixtures for the Manager reader. Shaped like real confirmations so the
+// regex and Gemini paths get exercised; the refs are made up and never saved
+// unless you tap Fill.
+const PASTE_FLIGHT = `AirAsia X — Booking confirmed
+Booking number: D7K2QZ
+Passenger: ROHIT B
+D7 183 Delhi (DEL) T3 → Kuala Lumpur (KUL) T2  Fri 23 Oct 2026 23:20 → 07:35
+AK 1512 Kuala Lumpur (KUL) → Da Nang (DAD)  Sat 24 Oct 2026 09:10 → 10:50
+Cabin baggage 7 kg. No checked baggage.
+Total paid: INR 14,072.00 (Visa ending 4421)`;
+
+const PASTE_HOSTEL = `Hostelworld — your booking is confirmed!
+Booking reference: 3421-88710
+SacLo Villa & Hostel, Hoi An
+Check-in Sat, 24 Oct 2026 (from 14:00) · Check-out Mon, 26 Oct 2026 · 2 nights
+1 bed in 8-Bed Mixed Dorm, free cancellation until 21 Oct
+Deposit paid ₹ 340 · Pay on arrival ₫ 400,000`;
+
 const PRESETS = {
   'Solo shoestring': { travellers: 1, strategy: 'bus', bed: 500, food: 600, local: 150, buffer: 5, berth: '6' },
   'Couple, comfy': { travellers: 2, strategy: 'train', bed: 1400, food: 1200, local: 400, buffer: 10, berth: '4' },
@@ -85,6 +103,10 @@ export function mountDev(store) {
       ritual: { dates: Array.from({ length: 5 }, (_, i) => shiftISO(today(), -i)), done: MICRO.map((m) => m.id) },
     }),
     'Ritual: clear': () => store.set({ ritual: { dates: [], done: [] } }),
+    // Deterministic paste fixtures for the Manager reader (dev only, never stored).
+    'Paste: flight': () => document.dispatchEvent(new CustomEvent('paste:read', { detail: PASTE_FLIGHT })),
+    'Paste: hostel': () => document.dispatchEvent(new CustomEvent('paste:read', { detail: PASTE_HOSTEL })),
+    'Paste: junk': () => document.dispatchEvent(new CustomEvent('paste:read', { detail: 'hey are we still on for saturday? bring the cable' })),
     'Clock: cycle': () => { const l = cyclePin(); $('[data-act="Clock: cycle"]', bar).textContent = `Clock: ${l}`; store.set({}); },
     'Fares: clear logs': () => store.set({ fares: {} }),
     'Dump budget': () => { $('pre', bar).hidden = !$('pre', bar).hidden; },

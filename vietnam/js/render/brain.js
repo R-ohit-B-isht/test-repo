@@ -2,7 +2,7 @@ import { $, html } from '../dom.js';
 import { icon } from '../icons.js';
 import { GEMINI_MODELS } from '../config.js';
 import { computeBudget } from '../budget.js';
-import { keyStore, generateJson } from '../brain/gemini.js';
+import { keyStore, generateJson, modelOf, setModel } from '../brain/gemini.js';
 import { buildContext, SYSTEM, SCHEMA } from '../brain/context.js';
 import { toChanges, applyChanges } from '../brain/apply.js';
 import { output, proposal } from './brainOut.js';
@@ -22,12 +22,8 @@ const QUICK = [
   ['Spa afternoon', 'Add a spa or massage afternoon in Hoi An with a realistic price.'],
 ];
 
-const MODEL_SLOT = 'vietnam-gemini-model';
-
 let ui = { open: false, busy: false, result: null, error: '', applied: null, memento: null, lastFocus: null };
 let store;
-
-const modelOf = () => localStorage.getItem(MODEL_SLOT) || GEMINI_MODELS[0];
 
 const keyRow = () => {
   const k = keyStore.get();
@@ -152,7 +148,7 @@ const onSubmit = (e) => {
 };
 
 const onChange = (e) => {
-  if (e.target.name === 'gmodel') return localStorage.setItem(MODEL_SLOT, e.target.value);
+  if (e.target.name === 'gmodel') return setModel(e.target.value);
   const i = e.target.dataset.change;
   if (i != null && ui.result) { ui.result.changes[Number(i)].checked = e.target.checked; $('#brain-out').innerHTML = proposal(store.get(), ui.result); }
   return undefined;

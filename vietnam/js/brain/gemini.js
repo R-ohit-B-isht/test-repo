@@ -1,14 +1,22 @@
-import { GEMINI_KEY_SLOT } from '../config.js';
+import { GEMINI_KEY_SLOT, GEMINI_MODEL_SLOT, GEMINI_MODELS } from '../config.js';
 
 // Thin Gemini client (Adapter over the REST API). Browser-side, bring your own
 // key. Every call is a real request; errors surface as-is — no canned replies.
 
 const BASE = 'https://generativelanguage.googleapis.com/v1beta';
 
+// Setting the key announces itself so every panel with a "needs a key" state
+// (Brain sheet, Manager paste box) can repaint without polling.
 export const keyStore = {
   get: () => localStorage.getItem(GEMINI_KEY_SLOT) || '',
-  set: (k) => (k ? localStorage.setItem(GEMINI_KEY_SLOT, k.trim()) : localStorage.removeItem(GEMINI_KEY_SLOT)),
+  set: (k) => {
+    if (k) localStorage.setItem(GEMINI_KEY_SLOT, k.trim()); else localStorage.removeItem(GEMINI_KEY_SLOT);
+    document.dispatchEvent(new CustomEvent('gemini:key'));
+  },
 };
+
+export const modelOf = () => localStorage.getItem(GEMINI_MODEL_SLOT) || GEMINI_MODELS[0];
+export const setModel = (m) => localStorage.setItem(GEMINI_MODEL_SLOT, m);
 
 export class GeminiError extends Error {
   constructor(message, status) { super(message); this.status = status; }
