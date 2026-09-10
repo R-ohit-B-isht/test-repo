@@ -1,7 +1,7 @@
 import { useSyncExternalStore } from 'react';
 import { chatConfig } from './config';
 import { getPage } from './pageContext';
-import { readSse } from './sse';
+import { transportFor } from './transport';
 import type { AssistantMessage, ChatEvent, Message, PageContext } from './types';
 
 export interface ChatState { open: boolean; messages: Message[]; busy: boolean; lastPage: PageContext | null }
@@ -46,7 +46,8 @@ export function retryLast() {
   void send(lastUser.text);
 }
 
-/** Streams one question through chat-api. The history sent is the visible transcript (bounded), never the tool payloads. */
+/** Streams one question through the configured transport (chat-api or the in-page engine). The history sent is the
+ * visible transcript (bounded), never the tool payloads. */
 export async function send(text: string) {
   const message = text.trim();
   if (!message || state.busy) return;
@@ -67,18 +68,8 @@ export async function send(text: string) {
   const ctl = new AbortController();
   controller = ctl;
   try {
-    const { apiBase } = await chatConfig();
-    const res = await fetch(`${apiBase}/api/chat`, {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json', Accept: 'text/event-stream' },
-      body: JSON.stringify({ message, history, page }),
-      signal: ctl.signal,
-    });
-    if (!res.ok || !res.body) {
-      const detail = await res.text().catch(() => '');
-      throw new Error(`chat-api HTTP ${res.status}${detail ? ` — ${detail.slice(0, 200)}` : ''}`);
-    }
-    for await (const ev of readSse(res.body, ctl.signal)) apply(modelId, ev);
+    const transport = transportFor(await chatConfig());
+    for await (const ev of transport({ message, history, page, signal: ctl.signal })) apply(modelId, ev);
     patchAssistant(modelId, (m) => (m.phase === 'done' || m.phase === 'error' ? {} : {
       phase: 'error', endedAt: performance.now(),
       error: { message: 'The stream ended before Gemini finished its answer.', code: 'truncated', partial: !!m.text },

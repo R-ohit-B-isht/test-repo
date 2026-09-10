@@ -50,6 +50,17 @@ export interface Manifest {
   benchmarks: Benchmark[];
   routines: { count: number; categories: string[] };
   total: number;
+  /** Cross-category search columns emitted for the in-browser assistant (see scripts/lib/search-index.mjs). */
+  search?: { file: string; gzip: string; rows: number; bytes: number };
+}
+
+/** Columnar search file: one row per ranked placement; indices point into `cats` / `brands` / `stores` / `evKeys` / `esKeys`. */
+export interface SearchColumns {
+  generatedAt: string;
+  n: number;
+  cats: string[]; brands: string[]; stores: string[]; evKeys: InciStatus[]; esKeys: string[];
+  id: string[]; title: string[];
+  cat: number[]; brand: number[]; rank: number[]; score: number[]; price: number[]; store: number[]; ev: number[]; es: number[];
 }
 
 export interface BenchmarkLink { label: string; url: string }

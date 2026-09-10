@@ -118,6 +118,6 @@ class SearchIndex:
             if not strength:
                 return []
         assert strength is not None
-        scored = [(s, self._hits[p]) for p, s in strength.items() if not category or self._hits[p].category == category]
-        scored.sort(key=lambda pair: (-pair[0], pair[1].rank, -pair[1].score))
-        return scored[:limit]
+        scored = [(s, p) for p, s in strength.items() if not category or self._hits[p].category == category]
+        scored.sort(key=lambda pair: (-pair[0], self._hits[pair[1]].rank, -self._hits[pair[1]].score, pair[1]))
+        return [(s, self._hits[p]) for s, p in scored[:limit]]

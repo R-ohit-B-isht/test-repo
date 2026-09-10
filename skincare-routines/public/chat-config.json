@@ -1,3 +1,6 @@
 {
-  "apiBase": ""
+  "mode": "server",
+  "apiBase": "",
+  "siteUrl": "",
+  "gemini": { "apiKey": "", "model": "gemini-2.5-flash", "maxToolRounds": 8, "maxAnswerTokens": 1800 }
 }

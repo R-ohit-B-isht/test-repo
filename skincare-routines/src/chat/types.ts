@@ -1,7 +1,10 @@
 /** Wire types shared with `chat-api` (see chat_api/gemini/service.py Event names). Only public data crosses this boundary. */
 import type { InciSourceKind, InciStatus } from '../lib/types';
 
-export interface ChatConfig { apiBase: string }
+/** `server`: stream from chat-api at `apiBase`. `browser`: run the same tools + Gemini in the page (key is public, referrer-locked). */
+export type ChatMode = 'server' | 'browser';
+export interface GeminiBrowserConfig { apiKey: string; model: string; maxToolRounds: number; maxAnswerTokens: number }
+export interface ChatConfig { mode: ChatMode; apiBase: string; siteUrl: string; gemini: GeminiBrowserConfig }
 
 export interface CitedProduct {
   id: string; category: string; brand: string; title: string;

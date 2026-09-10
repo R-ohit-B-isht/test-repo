@@ -4,6 +4,7 @@
 //   public/data/<cat>.json             — list rows + facet counts + tag index
 //   public/data/<cat>.d<n>.json        — lazy detail shards (spec sheet, gallery, pros/cons)
 //   public/data/routines.json          — the 142 routines with phase-tagged steps
+//   public/data/search.json(.gz)       — cross-category search columns for the in-browser assistant
 // Nothing is invented here: every field is copied from the generated records.
 
 import fs from 'node:fs';
@@ -13,6 +14,7 @@ import { createRequire } from 'node:module';
 import { fileURLToPath } from 'node:url';
 import { CATEGORIES, WEIGHTS, CRITERIA, ROUTINE_WEIGHTS, ROUTINE_CRITERIA, PHASES, phaseOf, ROUTINE_CATEGORY_LABELS, ZONE_LABELS, SCOPE_KEYS, scopeGroupOf } from './lib/registry.mjs';
 import { assertBenchmarkSet, matchBenchmark, publicBenchmark } from './lib/benchmarks.mjs';
+import { SearchColumns } from './lib/search-index.mjs';
 
 const require = createRequire(import.meta.url);
 const { GROUPS, labelFor } = require('./lib/facets.cjs');
@@ -84,6 +86,7 @@ const BENCHMARKS = loadGlobal('benchmarks.js', 'BENCHMARKS');
 assertBenchmarkSet(BENCHMARKS, new Set(CATEGORIES.map((c) => c.id)));
 
 let grandTotal = 0;
+const search = new SearchColumns(manifest.generatedAt);
 for (const cat of CATEGORIES) {
   const raw = loadGlobal(cat.file, cat.global);
   const seen = new Set();
@@ -126,6 +129,7 @@ for (const cat of CATEGORIES) {
     if (rows.length) facets[g] = rows;
   }
   fs.writeFileSync(path.join(OUT, `${cat.id}.json`), JSON.stringify({ id: cat.id, count: items.length, tagIndex, facets, items }));
+  search.addCategory(cat.id, items);
   details.forEach((d, i) => fs.writeFileSync(path.join(OUT, `${cat.id}.d${i}.json`), JSON.stringify(d)));
   manifest.categories.push({
     id: cat.id, label: cat.label, kicker: cat.kicker, zone: cat.zone, blurb: cat.blurb, facets: cat.facets, scopeGroup,
@@ -163,5 +167,7 @@ for (const cat of CATEGORIES) {
 }
 
 manifest.total = grandTotal;
+manifest.search = search.write(OUT);
+console.log(`search index   ${String(manifest.search.rows).padStart(5)} rows, ${(manifest.search.bytes / 1e6).toFixed(1)} MB raw, ${(fs.statSync(path.join(OUT, 'search.json.gz')).size / 1e6).toFixed(1)} MB gz`);
 fs.writeFileSync(path.join(OUT, 'manifest.json'), JSON.stringify(manifest));
 console.log(`total products ${grandTotal} → ${path.relative(ROOT, OUT)}`);
