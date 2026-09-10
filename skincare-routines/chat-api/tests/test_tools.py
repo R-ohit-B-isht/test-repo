@@ -21,7 +21,7 @@ async def test_declarations_follow_manifest_version(store: LedgerStore, small_da
     decls = reg.declarations(manifest)
     by_name = {d["name"]: d for d in decls}
     assert set(by_name) >= {"get_site_overview", "list_categories", "search_products", "get_top_products", "get_product", "get_reference_ceiling", "compare_products", "get_scoring_method", "get_routines", "get_category_filters"}
-    assert set(by_name["get_top_products"]["parameters"]["properties"]["category"]["enum"]) == {"scalpscrub", "kp"}
+    assert set(by_name["get_top_products"]["parameters"]["properties"]["category"]["enum"]) == {"scalpscrub", "kp", "bodyscrub"}
     assert reg.declarations(manifest) is decls
 
     add_category(small_dataset)
@@ -117,3 +117,22 @@ async def test_routines_read_real_file(ctx: ToolContext):
     assert result["count"] == 0 and result["routines"] == []
     all_r, _ = await reg.execute("get_routines", {}, ctx)
     assert all_r["count"] > 0
+
+
+async def test_listing_ranked_in_two_categories_resolves_to_page_category(ctx: ToolContext):
+    """The same marketplace listing is ranked in scalp scrub AND body scrub; the rank reported must follow the category asked for."""
+    scalp_cat, body_cat = await ctx.store.category("scalpscrub"), await ctx.store.category("bodyscrub")
+    shared = sorted(set(scalp_cat.pos_of) & set(body_cat.pos_of))
+    assert shared, "fixture categories should share at least one real listing"
+    pid = shared[0]
+    assert len(ctx.store.index.placements(pid)) == 2
+    reg = ToolRegistry()
+    on_body = ToolContext(store=ctx.store, site_url=ctx.site_url, page={"category": {"id": "bodyscrub"}})
+    body, _ = await reg.execute("get_product", {"product_id": pid}, on_body)
+    scalp, _ = await reg.execute("get_product", {"product_id": pid, "category": "scalpscrub"}, on_body)
+    assert body["category"] == "bodyscrub" and scalp["category"] == "scalpscrub"
+    assert body["of"] == ctx.store.category_meta("bodyscrub")["count"] and scalp["of"] == ctx.store.category_meta("scalpscrub")["count"]
+    assert [r["category"] for r in body["alsoRankedIn"]] == ["scalpscrub"]
+    assert body["alsoRankedIn"][0]["rank"] == scalp["rank"] and body["url"].startswith("https://example.test/#/c/bodyscrub?open=")
+    compared, _ = await reg.execute("compare_products", {"product_ids": [pid, shared[-1]], "category": "scalpscrub"}, on_body)
+    assert {r["category"] for r in compared["products"]} == {"scalpscrub"}

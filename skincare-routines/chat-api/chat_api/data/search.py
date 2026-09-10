@@ -38,7 +38,7 @@ class Hit:
 class SearchIndex:
     def __init__(self) -> None:
         self._hits: list[Hit] = []
-        self._by_id: dict[str, Hit] = {}
+        self._by_id: dict[str, list[Hit]] = {}
         self._postings: dict[str, set[int]] = {}
         self._vocab: list[str] = []
 
@@ -53,13 +53,24 @@ class SearchIndex:
                 price=int(item["p"]), store=item["st"], inci=item["ev"], inci_source=item.get("es"),
             )
             self._hits.append(hit)
-            self._by_id[hit.id] = hit
+            self._by_id.setdefault(hit.id, []).append(hit)
             for tok in set(tokens(f"{item['b']} {item['m']}")):
                 self._postings.setdefault(sys.intern(tok), set()).add(pos)
         self._vocab = sorted(self._postings)
 
-    def get(self, product_id: str) -> Hit | None:
-        return self._by_id.get(product_id)
+    def get(self, product_id: str, prefer_category: str | None = None) -> Hit | None:
+        """One marketplace listing can be ranked in several categories (a scrub in body scrub + de-tan): the same id, different rank/of.
+        Prefer the placement the caller is looking at, else the placement where it ranks best."""
+        hits = self._by_id.get(product_id)
+        if not hits:
+            return None
+        for hit in hits:
+            if hit.category == prefer_category:
+                return hit
+        return min(hits, key=lambda h: h.rank)
+
+    def placements(self, product_id: str) -> list[Hit]:
+        return list(self._by_id.get(product_id, []))
 
     def _candidates(self, tok: str) -> tuple[set[int], set[int]]:
         """(exact postings, prefix postings) for one query token."""

@@ -4,8 +4,8 @@ import type { AssistantMessage } from '../../chat/types';
 export function ToolTrace({ m }: { m: AssistantMessage }) {
   const total = m.endedAt ? Math.round(m.endedAt - m.startedAt) : null;
   return (
-    <details className="mt-2 rounded-[10px] border border-dashed border-line-strong bg-raised/60 px-3 py-2 text-[11.5px]">
-      <summary className="mono cursor-pointer select-none font-bold text-secondary">
+    <details className="mt-3 rounded-[10px] border border-dashed border-line px-3 py-1.5 text-[11px] open:bg-raised/60 open:py-2">
+      <summary className="mono cursor-pointer select-none font-semibold text-muted hover:text-secondary">
         dev · {m.tools.length} tool call{m.tools.length === 1 ? '' : 's'}{total != null && ` · ${total} ms`}{m.meta?.model && ` · ${m.meta.model}`}
       </summary>
       <dl className="mono mt-2 grid grid-cols-[auto_1fr] gap-x-3 gap-y-0.5 text-secondary">

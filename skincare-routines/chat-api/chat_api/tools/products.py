@@ -120,10 +120,17 @@ class GetProduct(Tool):
     )
 
     def parameters(self, manifest: dict) -> dict:
-        return {"type": "object", "properties": {"product_id": {"type": "string", "description": "Listing id from search_products / get_top_products"}}, "required": ["product_id"]}
+        return {
+            "type": "object",
+            "properties": {
+                "product_id": {"type": "string", "description": "Listing id from search_products / get_top_products"},
+                "category": {**category_param(manifest, "Which category's placement to read when the listing is ranked in several (defaults to the page's category)"), "nullable": True},
+            },
+            "required": ["product_id"],
+        }
 
     async def run(self, args: dict, ctx: ToolContext) -> dict:
-        return await product_record(str(args.get("product_id", "")), ctx)
+        return await product_record(str(args.get("product_id", "")), ctx, _category_arg(args))
 
 
 class CompareProducts(Tool):
@@ -131,28 +138,43 @@ class CompareProducts(Tool):
     description = "Side-by-side evidence for 2–5 listings (any categories): rank, score breakdown, INCI status + source, actives, flags, maker, price."
 
     def parameters(self, manifest: dict) -> dict:
-        return {"type": "object", "properties": {"product_ids": {"type": "array", "items": {"type": "string"}, "minItems": 2, "maxItems": 5}}, "required": ["product_ids"]}
+        return {
+            "type": "object",
+            "properties": {
+                "product_ids": {"type": "array", "items": {"type": "string"}, "minItems": 2, "maxItems": 5},
+                "category": {**category_param(manifest, "Category whose ranks to compare when listings sit in several (defaults to the page's category)"), "nullable": True},
+            },
+            "required": ["product_ids"],
+        }
 
     async def run(self, args: dict, ctx: ToolContext) -> dict:
         ids = [str(i) for i in (args.get("product_ids") or [])][:5]
         if len(ids) < 2:
             raise ToolError("Give at least two product ids.")
+        prefer = _category_arg(args)
         rows: list[dict] = []
         for pid in ids:
             try:
-                rows.append(await product_record(pid, ctx))
+                rows.append(await product_record(pid, ctx, prefer))
             except ToolError as exc:
                 rows.append({"id": pid, "error": str(exc)})
         return {"count": len(rows), "products": rows, "note": "Scores are only comparable within one category; a reference ceiling (100) is never a listing."}
 
 
-async def product_record(product_id: str, ctx: ToolContext) -> dict:
+async def product_record(product_id: str, ctx: ToolContext, prefer_category: str | None = None) -> dict:
     await ctx.store.ensure_fresh()
-    hit = ctx.store.index.get(product_id)
+    page_cat = ctx.page.get("category") or {}
+    hit = ctx.store.index.get(product_id, prefer_category or page_cat.get("id"))
     if not hit:
         raise ToolError(f"No listing with id '{product_id}' in the current dataset.")
     cat = await ctx.store.category(hit.category)
     row = row_summary(cat, cat.pos_of[product_id], ctx)
+    others = [h for h in ctx.store.index.placements(product_id) if h.category != hit.category]
+    if others:
+        row["alsoRankedIn"] = [
+            {"category": h.category, "rank": h.rank, "of": (ctx.store.category_meta(h.category) or {}).get("count"), "score": h.score, "url": ctx.product_url(h.category, product_id)}
+            for h in others
+        ]
     try:
         detail = await ctx.store.detail(hit.category, product_id)
     except DataError as exc:
@@ -160,6 +182,11 @@ async def product_record(product_id: str, ctx: ToolContext) -> dict:
     if detail is None:
         return {**row, "detail": None, "detailError": "Listing detail not found in its data shard."}
     return {**row, "detail": detail_summary(detail)}
+
+
+def _category_arg(args: dict) -> str | None:
+    cid = args.get("category")
+    return str(cid).strip() or None if isinstance(cid, str) else None
 
 
 async def _category(ctx: ToolContext, args: dict):

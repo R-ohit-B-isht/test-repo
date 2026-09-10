@@ -47,9 +47,9 @@ export function ChatDrawer() {
       footer={
         <div className="space-y-1.5">
           <Composer busy={busy} onSend={ask} onStop={stopChat} autoFocus={open} hint="Enter to send, Shift+Enter for a new line, Escape to close" />
-          <p className="label flex items-center justify-between gap-2 px-1 text-[11px] font-semibold text-muted">
+          <p className="label flex items-center justify-between gap-3 px-1 text-[11px] font-semibold text-muted">
             <span className="truncate">{contextLine}</span>
-            <span className="shrink-0">Gemini · answers only from site data</span>
+            <span className="shrink-0"><span className="hidden sm:inline">Gemini · </span>answers only from site data</span>
           </p>
         </div>
       }>

@@ -88,3 +88,26 @@ def test_citation_book_only_links_ids_a_tool_returned():
     payload = book.payload(answer)
     assert {c["id"] for c in payload["products"]} == {"p1", "p2"}
     assert "https://maker.example" in {e["url"] for e in payload["external"]}
+
+
+def test_citation_book_labels_categories_from_manifest_meta():
+    meta = {"kp": {"id": "kp", "label": "Keratosis pilaris", "zone": "body", "count": 913}}
+    book = CitationBook(meta.get)
+    book.absorb("search_products", {"products": [{"id": "p1", "category": "kp", "brand": "B", "title": "T"}]})
+    book.absorb("get_top_products", {"category": "ghost", "url": "u", "products": []})
+    payload = book.payload("See [[p1]] in [[cat:kp]] and [[cat:ghost]].")
+    labels = {c["id"]: c for c in payload["categories"]}
+    assert labels["kp"]["label"] == "Keratosis pilaris" and labels["kp"]["listings"] == 913
+    assert labels["ghost"]["label"] is None and labels["ghost"]["url"] == "u"
+
+
+def test_citation_book_prefers_page_category_placement_for_multi_ranked_listing():
+    row = {"id": "p1", "brand": "B", "title": "T"}
+    book = CitationBook(page_category="detan")
+    book.absorb("search_products", {"products": [{**row, "category": "bodyscrub", "rank": 5, "of": 100}]})
+    book.absorb("search_products", {"products": [{**row, "category": "kp", "rank": 1, "of": 50}]})
+    assert book.payload("[[p1]]")["products"][0]["category"] == "bodyscrub"  # first grounding wins over an unrelated category
+    book.absorb("get_product", {"products": [{**row, "category": "detan", "rank": 9, "of": 800}]})
+    payload = book.payload("[[p1]] in [[cat:kp]]")
+    assert payload["products"][0]["category"] == "detan" and payload["products"][0]["rank"] == 9
+    assert [c["id"] for c in payload["categories"]] == ["kp"]  # every category a row came from stays citable

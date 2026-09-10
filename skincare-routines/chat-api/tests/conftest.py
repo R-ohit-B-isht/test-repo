@@ -15,7 +15,7 @@ from chat_api.data.source import FileSource
 from chat_api.data.store import LedgerStore
 
 DATA = Path(__file__).resolve().parents[2] / "public" / "data"
-BASE = ["scalpscrub", "kp"]
+BASE = ["scalpscrub", "kp", "bodyscrub"]  # scalpscrub and bodyscrub share real listings (same id ranked in both)
 EXTRA = "calmserum"
 
 

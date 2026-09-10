@@ -108,10 +108,14 @@ function apply(id: number, ev: ChatEvent) {
         return { tools };
       });
     case 'text':
-      return patchAssistant(id, (m) => ({ phase: 'writing', text: m.text + ev.data.delta }));
+      return patchAssistant(id, (m) => ({ phase: 'writing', text: m.text + (ev.data.delta ?? '') }));
     case 'done':
+      // Wire payloads are normalised here so a backend/frontend version skew degrades to a plain answer, never a render crash.
       return patchAssistant(id, {
-        phase: 'done', endedAt: performance.now(), followups: ev.data.followups, citations: ev.data.citations, unverified: ev.data.unverifiedCitations,
+        phase: 'done', endedAt: performance.now(),
+        followups: Array.isArray(ev.data.followups) ? ev.data.followups.filter((f): f is string => typeof f === 'string') : [],
+        citations: ev.data.citations ?? null,
+        unverified: Array.isArray(ev.data.unverifiedCitations) ? ev.data.unverifiedCitations : [],
       });
     case 'error':
       return patchAssistant(id, (m) => ({

@@ -2,10 +2,12 @@
 from __future__ import annotations
 
 import re
+from collections.abc import Callable
 
 from .prompt import FOLLOWUP_MARKER
 
 _CITE = re.compile(r"\[\[([^\]]+)\]\]")
+_RUN = re.compile(r"(.)\1{119}")  # 120× the same character: a table separator or whitespace loop, never prose
 
 
 class TailSplitter:
@@ -39,7 +41,7 @@ class TailSplitter:
     def runaway(self) -> bool:
         """Degenerate generation: a long run of whitespace/padding, or an answer far beyond anything a user asked for."""
         tail = self.emitted[-400:]
-        return len(self.emitted) > 16_000 or (len(tail) == 400 and len(tail.strip()) == 0) or "    " * 40 in tail
+        return len(self.emitted) > 16_000 or (len(tail) == 400 and len(tail.strip()) == 0) or bool(_RUN.search(tail))
 
     def flush(self) -> str:
         out, self._pending = self._pending, ""
@@ -67,16 +69,32 @@ def cited_ids(text: str) -> list[str]:
 class CitationBook:
     """Collects every listing/category a tool returned so the frontend can resolve [[id]] markers to real links."""
 
-    def __init__(self) -> None:
+    def __init__(self, category_meta: Callable[[str], dict | None] = lambda _cid: None, page_category: str | None = None) -> None:
         self.products: dict[str, dict] = {}
         self.categories: dict[str, dict] = {}
         self.external: dict[str, dict] = {}
+        self._category_meta = category_meta
+        self._page_category = page_category
+
+    def _touch_category(self, cid: str | None, url: str | None = None) -> None:
+        if not cid or cid in self.categories:
+            return
+        meta = self._category_meta(cid) or {}
+        self.categories[cid] = {"id": cid, "label": meta.get("label"), "zone": meta.get("zone"), "listings": meta.get("count"), "url": url}
+
+    def _keep_placement(self, pid: str, category: str) -> bool:
+        """One listing can be ranked in several categories. The card must show ONE placement: the page's category if a tool
+        returned it, otherwise the placement the answer was first grounded on."""
+        seen = self.products.get(pid)
+        return seen is None or seen["category"] == category or category == self._page_category
 
     def absorb(self, tool: str, result: dict) -> None:
         for row in _rows(result):
             pid = row.get("id")
             if pid and row.get("category") and row.get("title"):
-                self.products[pid] = {k: row.get(k) for k in ("id", "category", "brand", "title", "rank", "of", "score", "priceInr", "store", "url")}
+                self._touch_category(row["category"])
+                if self._keep_placement(pid, row["category"]):
+                    self.products[pid] = {k: row.get(k) for k in ("id", "category", "brand", "title", "rank", "of", "score", "priceInr", "store", "url")}
             detail = row.get("detail") or {}
             ev = detail.get("evidence") or {}
             if ev.get("inciSourceUrl"):
@@ -94,8 +112,8 @@ class CitationBook:
                     "rank": listing.get("rank"), "of": listing.get("of"), "score": listing.get("listingScore"), "priceInr": listing.get("priceInr"),
                     "store": listing.get("store"), "url": listing.get("url"),
                 }
-        if tool in {"get_top_products", "get_category_filters"} and result.get("category"):
-            self.categories.setdefault(result["category"], {"id": result["category"], "url": result.get("url")})
+        if isinstance(result.get("category"), str):
+            self._touch_category(result["category"], result.get("url"))
 
     def unverified(self, answer: str) -> list[str]:
         """Ids the model cited that no tool returned in this turn — the frontend must not link them."""

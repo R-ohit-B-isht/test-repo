@@ -46,6 +46,12 @@ export function Citations({ citations, cited, onNavigate }: Props) {
   );
 }
 
+/** Marketplace titles usually open with the brand; drop it so the card reads "Brand · rest" once, not twice. */
+const withoutBrand = (brand: string, title: string) => {
+  const t = title.trim();
+  return t.toLowerCase().startsWith(brand.toLowerCase()) ? t.slice(brand.length).replace(/^[\s\-–·:,]+/, '') || t : t;
+};
+
 function ProductCiteCard({ p, onNavigate }: { p: CitedProduct; onNavigate: () => void }) {
   return (
     <li>
@@ -53,7 +59,7 @@ function ProductCiteCard({ p, onNavigate }: { p: CitedProduct; onNavigate: () =>
         className="card card-hover press flex items-center gap-3 px-3 py-2.5 no-underline">
         <span className="mono w-14 shrink-0 text-[12px] font-bold text-secondary">{p.rank != null ? `#${p.rank}` : '—'}{p.of != null && <span className="font-medium text-muted"> /{p.of.toLocaleString('en-IN')}</span>}</span>
         <span className="min-w-0 flex-1">
-          <span className="block truncate text-[13px] font-bold text-display">{p.brand} <span className="font-medium text-primary">{p.title}</span></span>
+          <span className="block truncate text-[13px] font-bold text-display">{p.brand} <span className="font-medium text-primary">{withoutBrand(p.brand, p.title)}</span></span>
           <span className="mt-0.5 flex flex-wrap items-center gap-x-2 gap-y-0.5 text-[12px] text-muted">
             {p.priceInr != null && <span className="mono font-semibold text-secondary">{rupees(p.priceInr)}</span>}
             {p.store && <span>{storeLabel(p.store)}</span>}

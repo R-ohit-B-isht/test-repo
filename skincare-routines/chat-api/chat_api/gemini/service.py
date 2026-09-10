@@ -71,7 +71,7 @@ class GeminiService:
         yield Event("meta", {"model": self.settings.model, "dataVersion": manifest.get("generatedAt"), "listings": manifest.get("total")})
 
         splitter = TailSplitter()
-        book = CitationBook()
+        book = CitationBook(self.store.category_meta, (page.get("category") or {}).get("id") if isinstance(page.get("category"), dict) else None)
         tool_calls = 0
         try:
             for round_no in range(self.settings.max_tool_rounds + 1):

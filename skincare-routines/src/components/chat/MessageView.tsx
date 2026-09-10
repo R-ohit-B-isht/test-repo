@@ -27,6 +27,7 @@ function AssistantView({ m, isDev, onFollowup, onRetry, onNavigate, isLast }: Om
   }), [m.citations]);
   const cited = useMemo(() => citedIds(m.text), [m.text]);
   const working = m.phase === 'connecting' || m.phase === 'tools' || m.phase === 'writing';
+  const shownText = m.phase === 'writing' ? holdOpenCitation(m.text) : m.text;
   return (
     <div className="flex gap-2.5">
       <span className={clsx('mt-1 flex h-6 w-6 shrink-0 items-center justify-center rounded-full bg-accent-soft text-accent', working && 'chat-pulse')} aria-hidden>
@@ -34,7 +35,7 @@ function AssistantView({ m, isDev, onFollowup, onRetry, onNavigate, isLast }: Om
       </span>
       <div className="min-w-0 flex-1 text-[14px] leading-relaxed text-primary">
         {(m.phase === 'connecting' || m.phase === 'tools') && <Thinking tools={m.tools} />}
-        {m.text && <Markdown text={m.text} cites={cites} onNavigate={onNavigate} />}
+        {shownText && <Markdown text={shownText} cites={cites} onNavigate={onNavigate} />}
         {m.phase === 'writing' && <span className="chat-caret" aria-hidden />}
         {m.error && (
           <div role="alert" className="mt-2 flex items-start gap-2 rounded-[12px] border border-line bg-surface px-3 py-2.5 text-[13px]">
@@ -47,7 +48,7 @@ function AssistantView({ m, isDev, onFollowup, onRetry, onNavigate, isLast }: Om
         )}
         {m.phase === 'done' && m.citations && <Citations citations={m.citations} cited={cited} onNavigate={onNavigate} />}
         {m.phase === 'done' && m.followups.length > 0 && isLast && (
-          <ul className="mt-3 divide-y divide-line border-t border-line" aria-label="Follow-up questions">
+          <ul className="mt-4 divide-y divide-line border-t border-line" aria-label="Follow-up questions">
             {m.followups.map((q) => (
               <li key={q}>
                 <button type="button" onClick={() => onFollowup(q)} className="flex w-full items-start gap-2 py-2 text-left text-[13px] font-semibold text-primary hover:text-accent">
@@ -62,6 +63,9 @@ function AssistantView({ m, isDev, onFollowup, onRetry, onNavigate, isLast }: Om
     </div>
   );
 }
+
+/** A citation marker that has not closed yet (`[[cetaphil-itm…`) is held back so raw ids never flash mid-stream. */
+const holdOpenCitation = (text: string) => text.replace(/\[\[?[^\]]*$/, '');
 
 /** Task-specific status line (Yelp Assistant "Looking for coffee spots"): names the tool actually running against the site data. */
 function Thinking({ tools }: { tools: ToolCallTrace[] }) {

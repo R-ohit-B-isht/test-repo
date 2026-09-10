@@ -12,7 +12,7 @@ from chat_api.data.store import LRU, LedgerStore, rank_order, shard_of
 async def test_manifest_and_index_cover_only_listed_categories(store: LedgerStore):
     manifest = await store.ensure_fresh()
     assert store.version == "2026-01-01T00:00:00.000Z"
-    assert {c["id"] for c in manifest["categories"]} == {"scalpscrub", "kp"}
+    assert {c["id"] for c in manifest["categories"]} == {"scalpscrub", "kp", "bodyscrub"}
     assert len(store.index) == manifest["total"] > 0
     assert store.stats()["categoriesLoaded"] == 0, "index build must not populate the category LRU"
 
