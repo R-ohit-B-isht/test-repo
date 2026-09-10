@@ -1,6 +1,6 @@
 ---
 name: testing-skincare-chat
-description: How to run and end-to-end test the skincare-routines React app together with its Gemini chat-api (FastAPI) backend, including the "Ask the Ledger" drawer, dev-mode traces, and pitfalls seen during QA.
+description: How to run and end-to-end test the skincare-routines React app's "Ask the Ledger" Gemini chat in both transports — server mode (FastAPI chat-api) and browser mode (@google/genai in the page, no backend) — including dev-mode traces, no-key error path, network proof, and pitfalls seen during QA.
 ---
 
 # Testing the skincare-routines app + Gemini chat-api
@@ -19,11 +19,22 @@ description: How to run and end-to-end test the skincare-routines React app toge
 - Frontend: `cd skincare-routines && npm run dev -- --host 127.0.0.1 --port 5173` (Vite proxies `/api` → 8787).
 - App uses HashRouter: `http://127.0.0.1:5173/#/c/facewash`. Dev mode is a query param BEFORE the hash: `http://127.0.0.1:5173/?dev=1#/c/facewash`.
 
+## Browser mode (no backend) — `src/chat/transport.ts` picks `server` or `browser` from `/chat-config.json`
+- Committed `public/chat-config.json` is server mode with an empty key. For local dev, a git-ignored `.env.local` with `VITE_GEMINI_API_KEY=…` makes `src/chat/config.ts` (`devOverride`, DEV builds only) force browser mode. Create it without echoing the key:
+  `printf 'VITE_GEMINI_API_KEY=%s\n' "$(grep -oP '(?<=GEMINI_API_KEY=).*' /home/ubuntu/.secrets/gemini.env)" > skincare-routines/.env.local`
+- To PROVE browser mode, stop uvicorn first: `pkill -f "[u]vicorn chat_api"` (the bracket trick stops pkill matching your own shell → exit -1) and confirm `curl 127.0.0.1:8787/api/health` fails. Any `/api/chat` request afterwards is a failure signal (Vite proxy 500s).
+- Restart Vite after changing `.env.local` or `public/chat-config.json` (env is read at startup). `npm run dev` runs `npm run data` first (~1 min); if `public/data` already exists, `npx vite --host 127.0.0.1 --port 5173` skips it. Run Vite in its own `shell_id`; a `pkill` in the same one-shot shell can kill your freshly started server.
+- Network proof: `performance.getEntriesByType('resource')` — expect `generativelanguage.googleapis.com` POSTs + `/data/manifest.json`, `/data/<cat>.json`, `/data/<cat>.dN.json`, `/data/search.json.gz`, and zero `/api/*`. `fonts.googleapis.com` is the Google Fonts stylesheet, not Gemini. The key IS in the Google request in this mode by design — report presence only, never the value.
+- Browser tool names seen in `?dev=1` traces: `search_products`, `get_product`, `get_top_products`, `get_category_filters`, `get_reference_ceiling`, `compare_products`, `get_site_overview`, `list_categories`, `get_scoring_method`, `get_routines`.
+- No-key path: `printf '{"mode":"browser"}\n' > public/chat-config.json` + `mv .env.local .env.local.bak`, restart Vite, send → expect the error "The assistant is not configured for this deployment: chat-config.json selects browser mode but carries no Gemini key." with Try again. Restore with `git checkout -- skincare-routines/public/chat-config.json && mv .env.local.bak .env.local` and restart Vite; verify with `git status --short`.
+- Browser streams are fast (a whole answer in ~10–15 s); to click Stop mid-stream reliably, poll from the console for `button[aria-label="Stop generating"]` and `.click()` it once partial text exceeds a few hundred chars. Expected (≥ 1594024): partial text kept, phase `done`, alert row "Stopped — this answer is incomplete." with NO "Try again" button; "Stopped." only when no text arrived.
+- Nested citation pills (≥ 1594024): `**Name [[id]]**` and link text are parsed recursively into pills. Gemini rarely nests markers in bold on its own — to exercise the path ask e.g. "Format each line exactly as: **<product name> [[listing-id]]** — rank …, keep the [[listing-id]] inside the bold", then check `dialog.querySelectorAll('strong a').length` and that the only `[[` text is in your own user bubble.
+
 ## Pitfall: stale pre-running backend
 If a uvicorn process was started from an older checkout, its SSE error payload may lack fields the current frontend expects (e.g. `tools`, `unverified`) and the drawer can crash to a blank page. Before testing chat flows, `pkill -f "uvicorn chat_api"` and restart from the current tree. Check `ps -o lstart -p $(pgrep -f 'uvicorn chat_api')` vs the last commit time.
 
 ## Useful selectors / hooks
-- Trigger: `button[title="Ask the Ledger (?)"]`; `?` key toggles when focus is not in an input.
+- Trigger: `button[title="Ask the Ledger (?)"]`; `?` key toggles when focus is not in an input. With xdotool, send `shift+slash` — the `question` keysym may not fire the handler.
 - Drawer: `[role=dialog][aria-label="Ask the Ledger"]`; composer `textarea[aria-label="Ask the assistant"]`; Stop `button[aria-label="Stop generating"]`; New chat `button[aria-label="New chat"]`; Retry button text "Try again".
 - Lists: `[aria-label="Suggested questions"]`, `[aria-label="Follow-up questions"]`.
 - Citation deep-link format: `#/c/<category>?open=<listing-id>` opens the product sheet and closes the drawer.
@@ -36,7 +47,7 @@ Allow 10–30 s per answer. Known-good prompts: "Where does Cetaphil Gentle Skin
 Wrap `window.fetch` in the console to log `/api/chat` request headers/body, then send a message via the UI; confirm no `AIza`/`x-goog-api-key`. `/chat-config.json` should be exactly `{"apiBase": ""}`.
 
 ## Visual QA tips
-- Chrome device-mode (Ctrl+Shift+M) works for 375/768/1440/1920; when it is on, screenshot coordinates map to the emulated frame only — physical clicks aimed using downscaled screenshots land on the DevTools pane. Prefer the `?` shortcut or JS `.click()` for opening while emulated, and verify with `aria-expanded`.
+- Chrome device-mode (open DevTools with F12 first, then Ctrl+Shift+M — without DevTools open the shortcut opens Chrome's profile menu) works for 375/768/1440/1920; when it is on, screenshot coordinates map to the emulated frame only — physical clicks aimed using downscaled screenshots land on the DevTools pane. Prefer the `?` shortcut or JS `.click()` for opening while emulated, and verify with `aria-expanded`.
 - Reduced motion: Ctrl+Shift+P → "Emulate CSS prefers-reduced-motion: reduce"; verify `matchMedia('(prefers-reduced-motion: reduce)').matches`.
 - Overflow assertion: `document.documentElement.scrollWidth === clientWidth` with drawer open; composer pinned: dialog `lastElementChild` bottom === dialog bottom.
 
