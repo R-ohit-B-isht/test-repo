@@ -1,11 +1,15 @@
 """Slim cross-category search index: one small record per listing plus a token → postings map, so 100k+ rows
-fit in well under 100 MB and a query is a few set intersections rather than a scan."""
+fit in well under 100 MB and a query is a few set intersections rather than a scan.
+
+Postings are sorted `array('I')` (4 bytes per entry) rather than Python sets: the service runs on small hosts, and
+1.2M set entries alone cost ~75 MB."""
 from __future__ import annotations
 
 import bisect
 import re
 import sys
 import unicodedata
+from array import array
 from dataclasses import dataclass
 
 _TOKEN = re.compile(r"[a-z0-9]+")
@@ -39,8 +43,9 @@ class SearchIndex:
     def __init__(self) -> None:
         self._hits: list[Hit] = []
         self._by_id: dict[str, list[Hit]] = {}
-        self._postings: dict[str, set[int]] = {}
+        self._postings: dict[str, array] = {}
         self._vocab: list[str] = []
+        self._vocab_dirty = False
 
     def __len__(self) -> int:
         return len(self._hits)
@@ -48,15 +53,23 @@ class SearchIndex:
     def add_category(self, category: str, items: list[dict], ranks: list[int]) -> None:
         for item, rank in zip(items, ranks):
             pos = len(self._hits)
+            source = item.get("es")
             hit = Hit(
-                category=category, id=item["id"], brand=item["b"], title=item["m"], score=float(item["s"]), rank=rank,
-                price=int(item["p"]), store=item["st"], inci=item["ev"], inci_source=item.get("es"),
+                category=sys.intern(category), id=item["id"], brand=sys.intern(item["b"]), title=item["m"],
+                score=float(item["s"]), rank=rank, price=int(item["p"]), store=sys.intern(item["st"]),
+                inci=sys.intern(item["ev"]), inci_source=sys.intern(source) if isinstance(source, str) else None,
             )
             self._hits.append(hit)
             self._by_id.setdefault(hit.id, []).append(hit)
             for tok in set(tokens(f"{item['b']} {item['m']}")):
-                self._postings.setdefault(sys.intern(tok), set()).add(pos)
-        self._vocab = sorted(self._postings)
+                self._postings.setdefault(sys.intern(tok), array("I")).append(pos)
+        self._vocab_dirty = True
+
+    def _sorted_vocab(self) -> list[str]:
+        if self._vocab_dirty:
+            self._vocab = sorted(self._postings)
+            self._vocab_dirty = False
+        return self._vocab
 
     def get(self, product_id: str, prefer_category: str | None = None) -> Hit | None:
         """One marketplace listing can be ranked in several categories (a scrub in body scrub + de-tan): the same id, different rank/of.
@@ -74,16 +87,17 @@ class SearchIndex:
 
     def _candidates(self, tok: str) -> tuple[set[int], set[int]]:
         """(exact postings, prefix postings) for one query token."""
-        exact = self._postings.get(tok, set())
+        exact = set(self._postings.get(tok, ()))
         prefix: set[int] = set()
         if len(tok) >= 3:
-            start = bisect.bisect_left(self._vocab, tok)
-            for i in range(start, min(start + 400, len(self._vocab))):
-                word = self._vocab[i]
+            vocab = self._sorted_vocab()
+            start = bisect.bisect_left(vocab, tok)
+            for i in range(start, min(start + 400, len(vocab))):
+                word = vocab[i]
                 if not word.startswith(tok):
                     break
                 if word != tok:
-                    prefix |= self._postings[word]
+                    prefix.update(self._postings[word])
         return exact, prefix
 
     def search(self, query: str, *, category: str | None = None, limit: int = 10) -> list[tuple[float, Hit]]:

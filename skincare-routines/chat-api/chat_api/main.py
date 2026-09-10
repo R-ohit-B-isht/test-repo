@@ -32,10 +32,6 @@ def create_app(settings: Settings | None = None) -> FastAPI:
     @asynccontextmanager
     async def lifespan(app: FastAPI):
         store.on_version(lambda version: log.info("dataset version %s — caches cleared, index rebuilt", version))
-        try:
-            await store.ensure_fresh()
-        except DataError as exc:
-            log.error("dataset not readable at startup (%s); will retry on request", exc)
         if not settings.has_key:
             log.error("GEMINI_API_KEY is not set — /api/chat will answer with a configuration error")
         task = asyncio.create_task(_refresh_loop(store, settings.refresh_seconds))
@@ -60,13 +56,14 @@ def create_app(settings: Settings | None = None) -> FastAPI:
 
 
 async def _refresh_loop(store: LedgerStore, seconds: int) -> None:
-    """Re-check the manifest periodically so a regenerated dataset is picked up even with no traffic."""
+    """Load the dataset right after the port opens (so the host's health probe is answered while ~100k rows are still being
+    indexed), then re-check the manifest periodically so a regenerated dataset is picked up even with no traffic."""
     while True:
-        await asyncio.sleep(max(30, seconds))
         try:
             await store.ensure_fresh()
         except DataError as exc:
-            log.warning("dataset refresh failed: %s", exc)
+            log.warning("dataset not readable (%s); will retry", exc)
+        await asyncio.sleep(30 if store.manifest is None else max(30, seconds))
 
 
 app = create_app()

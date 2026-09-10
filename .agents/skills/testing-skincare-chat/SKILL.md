@@ -10,8 +10,11 @@ description: How to run and end-to-end test the skincare-routines React app toge
   ```bash
   cd skincare-routines/chat-api
   set -a && . /home/ubuntu/.secrets/gemini.env && set +a
-  IS_DEV=1 PYTHONPATH=. .venv/bin/uvicorn chat_api.main:app --host 127.0.0.1 --port 8787
+  poetry install --with dev   # first time; the venv must live OUTSIDE chat-api (see below)
+  IS_DEV=1 poetry run uvicorn chat_api.main:app --host 127.0.0.1 --port 8787
   ```
+  Keep the virtualenv outside the project dir (`poetry config virtualenvs.in-project false`, or `~/.venvs/chat-api`): the backend deployer uploads the whole `chat-api/` folder and a 90 MB `.venv` inside it makes the deploy fail with a generic error. Tests: `PYTHONPATH=. poetry run pytest -q`.
+  Deploy layout: the platform needs Poetry `pyproject.toml` + `poetry.lock` and a FastAPI `app` in `app/main.py` (a thin wrapper over `chat_api.main.create_app`). Runtime config comes from a git-ignored `chat-api/.env` (GEMINI_API_KEY, LEDGER_DATA=<site>/data, LEDGER_SITE_URL, ALLOWED_ORIGINS) that `Settings.from_env` reads when real env vars are absent.
   Health: `curl -s 127.0.0.1:8787/api/health` (reports listing count + model).
 - Frontend: `cd skincare-routines && npm run dev -- --host 127.0.0.1 --port 5173` (Vite proxies `/api` → 8787).
 - App uses HashRouter: `http://127.0.0.1:5173/#/c/facewash`. Dev mode is a query param BEFORE the hash: `http://127.0.0.1:5173/?dev=1#/c/facewash`.

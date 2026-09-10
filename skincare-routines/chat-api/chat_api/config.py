@@ -6,10 +6,23 @@ from dataclasses import dataclass, field
 from pathlib import Path
 
 DEFAULT_DATA_DIR = Path(__file__).resolve().parents[2] / "public" / "data"
+DOTENV = Path(__file__).resolve().parents[1] / ".env"
 
 
 def _csv(value: str) -> list[str]:
     return [v.strip() for v in value.split(",") if v.strip()]
+
+
+def _load_dotenv(path: Path, env: dict[str, str]) -> None:
+    """KEY=value lines from a git-ignored .env next to pyproject; real environment variables always win."""
+    if not path.is_file():
+        return
+    for raw in path.read_text().splitlines():
+        line = raw.strip()
+        if not line or line.startswith("#") or "=" not in line:
+            continue
+        key, value = line.split("=", 1)
+        env.setdefault(key.strip(), value.strip().strip('"').strip("'"))
 
 
 @dataclass(frozen=True)
@@ -33,7 +46,8 @@ class Settings:
 
     @staticmethod
     def from_env() -> "Settings":
-        env = os.environ
+        env = dict(os.environ)
+        _load_dotenv(DOTENV, env)
         return Settings(
             gemini_api_key=env.get("GEMINI_API_KEY", ""),
             model=env.get("GEMINI_MODEL", "gemini-2.5-flash"),
