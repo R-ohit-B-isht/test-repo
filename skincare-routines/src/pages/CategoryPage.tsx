@@ -1,5 +1,5 @@
 import { useCallback, useMemo, useState } from 'react';
-import { useNavigate, useParams } from 'react-router-dom';
+import { useNavigate, useParams, useSearchParams } from 'react-router-dom';
 import { ChevronLeft } from 'lucide-react';
 import { toast } from '../state/toastStore';
 import type { ViewState } from '../state/useFilterState';
@@ -8,6 +8,7 @@ import { applyFilter, liveCountsByGroup } from '../domain/filter';
 import { sortPositions } from '../domain/sort';
 import { useFilterState } from '../state/useFilterState';
 import { useDevPublish } from '../components/dev/devStore';
+import { usePagePublish } from '../chat/pageContext';
 import { AppLink } from '../components/ui/AppLink';
 import { Kicker, NumberTicker, SectionHead, SkeletonRows, StatusBlock, ZoneBadge } from '../components/ui/primitives';
 import { EmptyResults } from '../components/category/EmptyResults';
@@ -35,7 +36,14 @@ function CategoryView({ id }: { id: string }) {
   const manifest = useManifest();
   const cat = useCategory(id);
   const { state, update, toggleTag, toggleAll, clearGroup, clearAll, activeCount, isDev } = useFilterState();
-  const [openId, setOpenId] = useState<string | null>(null);
+  /** The open product sheet lives in the URL (`?open=<listing id>`) so assistant citations and shared links land on the exact listing. */
+  const [params, setParams] = useSearchParams();
+  const openId = params.get('open');
+  const setOpenId = useCallback((pid: string | null) => setParams((prev) => {
+    const next = new URLSearchParams(prev);
+    if (pid) next.set('open', pid); else next.delete('open');
+    return next;
+  }, { replace: true }), [setParams]);
   const [compare, setCompare] = useState<string[]>([]);
   const [filtersOpen, setFiltersOpen] = useState(false);
   const [compareOpen, setCompareOpen] = useState(false);
@@ -52,7 +60,7 @@ function CategoryView({ id }: { id: string }) {
   const scopeGroup = meta?.scopeGroup ?? 'scope';
   const scopeSelected = state.tags.filter((t) => t.startsWith(`${scopeGroup}:`));
   const stepSelected = state.tags.filter((t) => t.startsWith('step:'));
-  const onOpen = useCallback((pid: string) => setOpenId(pid), []);
+  const onOpen = useCallback((pid: string) => setOpenId(pid), [setOpenId]);
   const onCompare = useCallback((pid: string) => {
     if (compare.includes(pid)) { setCompare(compare.filter((x) => x !== pid)); return; }
     if (compare.length >= COMPARE_MAX) { toast(`Compare holds ${COMPARE_MAX} products — remove one first`); return; }
@@ -68,6 +76,15 @@ function CategoryView({ id }: { id: string }) {
   }, [state, clearAll, update]);
   const onQuery = useCallback((q: string) => update({ query: q }), [update]);
   const onPrice = useCallback((v: number | null) => update({ priceMax: v }), [update]);
+
+  const openRowForContext = openId && idx ? idx.items.find((r) => r.id === openId) ?? null : null;
+  usePagePublish({
+    category: meta ? { id: meta.id, label: meta.label, zone: meta.zone, count: idx?.items.length ?? 0 } : null,
+    filters: state.tags, query: state.query, sort: state.sort, resultCount: idx ? matched.length : null,
+    product: openRowForContext ? { id: openRowForContext.id, brand: openRowForContext.b, title: openRowForContext.m, rank: idx ? idx.rank[idx.items.indexOf(openRowForContext)] : 0 } : null,
+    compare,
+    benchmark: bench ? `${bench.brand} ${bench.name} (fixed 100 reference ceiling)` : null,
+  });
 
   useDevPublish(isDev, {
     page: 'category', category: id, records: idx?.items.length ?? null, matched: matched.length, sort: state.sort,

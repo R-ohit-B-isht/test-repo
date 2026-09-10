@@ -5,6 +5,7 @@ import { ConcernPicker } from '../components/hub/ConcernPicker';
 import { CONCERN_PARAM, concernTag, pickedConcerns } from '../domain/concern';
 import { LiveDataBadge, NumberTicker, StatusBlock } from '../components/ui/primitives';
 import { useDevPublish } from '../components/dev/devStore';
+import { usePagePublish } from '../chat/pageContext';
 import { useSearchParams } from 'react-router-dom';
 import { SCORE_META } from '../domain/scoreMeta';
 
@@ -18,6 +19,7 @@ export default function ProductsHubPage() {
     ids.forEach((id) => next.append(CONCERN_PARAM, concernTag(id)));
     return next;
   }, { replace: true });
+  usePagePublish({ filters: picked.map((c) => `concern:${c}`), resultCount: manifest.status === 'ready' ? manifest.data.total : null });
   useDevPublish(params.get('dev') === '1', {
     page: 'products-hub',
     categories: manifest.status === 'ready' ? manifest.data.categories.length : null,

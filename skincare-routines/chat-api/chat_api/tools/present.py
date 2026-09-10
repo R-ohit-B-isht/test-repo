@@ -43,6 +43,8 @@ def row_summary(cat: CategoryView, pos: int, ctx: ToolContext) -> dict:
         "rating": item.get("r"),
         "ratingCount": item.get("rc"),
         "inci": inci_sentence(item["ev"], item.get("es")),
+        "inciStatus": item["ev"],
+        "inciSourceKind": item.get("es"),
         "tags": cat.tags_of(item),
         "url": ctx.product_url(cat.id, item["id"]),
     }
@@ -60,6 +62,8 @@ def hit_summary(hit: Hit, strength: float, ctx: ToolContext, total: int | None) 
         "priceInr": hit.price,
         "store": hit.store,
         "inci": inci_sentence(hit.inci, hit.inci_source),
+        "inciStatus": hit.inci,
+        "inciSourceKind": hit.inci_source,
         "match": "exact tokens" if strength == int(strength) else "partial (prefix) match — confirm with the user",
         "url": ctx.product_url(hit.category, hit.id),
     }

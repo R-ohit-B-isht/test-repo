@@ -257,4 +257,27 @@
   .btn-ceiling:hover { background: var(--fg); border-color: var(--fg); filter: brightness(0.94); }
   .btn-ceiling-ghost { background: transparent; border-color: var(--fg-line); color: var(--fg); }
   .btn-ceiling-ghost:hover { background: transparent; border-color: var(--fg); }
+
+  /* Assistant drawer: Perplexity-style inline source pills, typing caret, tool-state dots. */
+  .chat-cite {
+    display: inline-flex; align-items: center; vertical-align: baseline;
+    margin: 0 2px; padding: 0 6px; height: 18px; border-radius: 6px;
+    background: var(--accent-soft); color: var(--accent);
+    font-size: 11px; font-weight: 700; font-variant-numeric: tabular-nums; text-decoration: none; white-space: nowrap;
+    transition: filter 160ms var(--ease-out-expo), transform 160ms var(--ease-out-expo);
+  }
+  .chat-cite:hover { filter: brightness(0.92); }
+  .chat-cite:active { transform: scale(0.97); }
+  .chat-cite-unverified { background: var(--raised); color: var(--muted); border: 1px dashed var(--line-strong); }
+  .chat-md > :first-child { margin-top: 0; }
+  .chat-md > :last-child { margin-bottom: 0; }
+  .chat-caret { display: inline-block; width: 2px; height: 1em; margin-left: 2px; vertical-align: -0.15em; background: var(--accent); animation: chat-blink 1s steps(2) infinite; }
+  @keyframes chat-blink { 50% { opacity: 0; } }
+  .chat-pulse { animation: chat-pulse 1.4s var(--ease-out-expo) infinite; }
+  @keyframes chat-pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.45; } }
+  .chat-dots { display: inline-flex; gap: 3px; }
+  .chat-dots i { width: 5px; height: 5px; border-radius: 50%; background: var(--accent); animation: chat-dot 1.2s ease-in-out infinite; }
+  .chat-dots i:nth-child(2) { animation-delay: 0.15s; }
+  .chat-dots i:nth-child(3) { animation-delay: 0.3s; }
+  @keyframes chat-dot { 0%, 80%, 100% { transform: translateY(0); opacity: 0.4; } 40% { transform: translateY(-3px); opacity: 1; } }
 }

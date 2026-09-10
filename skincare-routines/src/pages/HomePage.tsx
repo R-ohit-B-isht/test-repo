@@ -4,6 +4,7 @@ import { useManifest, useRoutines } from '../data/hooks';
 import { useRoutineState } from '../state/useRoutineState';
 import { filterRoutines, ROUTINE_CATEGORIES, ROUTINE_CATEGORY_ORDER, ROUTINE_WEIGHTS } from '../domain/routines';
 import { useDevPublish } from '../components/dev/devStore';
+import { usePagePublish } from '../chat/pageContext';
 import { Hero } from '../components/layout/Hero';
 import { Reveal } from '../components/fx/Reveal';
 import { AppLink } from '../components/ui/AppLink';
@@ -25,6 +26,7 @@ export default function HomePage() {
   const top3 = useMemo(() => [...items].sort((a, b) => b.score - a.score).slice(0, 3), [items]);
   const grouped = state.sort === 'score' && state.categories.length === 0;
 
+  usePagePublish({ filters: [...state.categories.map((c) => `routine:${c}`), ...state.phases.map((p) => `phase:${p}`)], query: state.query, sort: state.sort, resultCount: routines.status === 'ready' ? shown.length : null });
   useDevPublish(isDev, { page: 'routines', records: items.length, matched: shown.length, sort: state.sort, categories: state.categories.join(', ') || '—', phases: state.phases.join(', ') || '—', maxSteps: state.maxSteps, query: state.query || '—', weights: JSON.stringify(ROUTINE_WEIGHTS) });
 
   if (routines.status === 'error') return <StatusBlock title="Could not load routines" body={routines.error} />;

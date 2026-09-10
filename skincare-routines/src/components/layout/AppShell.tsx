@@ -10,6 +10,9 @@ import { RadioMenu } from '../ui/RadioMenu';
 import { ToastStack } from '../ui/ToastStack';
 import { CommandSearch } from '../search/CommandSearch';
 import { LiveDataBadge } from '../ui/primitives';
+import { ChatTrigger } from '../chat/ChatTrigger';
+import { ChatDrawer } from '../chat/ChatDrawer';
+import { publishPage } from '../../chat/pageContext';
 
 const NAV = [
   { to: '/', label: 'Routines', end: true, short: 'Routines' },
@@ -38,7 +41,9 @@ function ThemeMenu() {
 export function AppShell() {
   const manifest = useManifest();
   const { pathname } = useLocation();
-  useEffect(() => { window.scrollTo({ top: 0, behavior: 'instant' }); }, [pathname]);
+  const theme = useTheme();
+  useEffect(() => { window.scrollTo({ top: 0, behavior: 'instant' }); publishPage({ route: pathname }); }, [pathname]);
+  useEffect(() => { publishPage({ theme, dataVersion: manifest.status === 'ready' ? manifest.data.generatedAt : null }); }, [theme, manifest]);
   return (
     <div className="min-h-dvh">
       <button type="button" onClick={() => document.getElementById('main')?.focus()}
@@ -60,6 +65,7 @@ export function AppShell() {
             ))}
           </nav>
           <CommandSearch />
+          <ChatTrigger />
           <ThemeMenu />
         </div>
       </header>
@@ -85,6 +91,7 @@ export function AppShell() {
         </div>
       </footer>
       <ToastStack />
+      <ChatDrawer />
       <DevPanel />
     </div>
   );
