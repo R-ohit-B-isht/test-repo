@@ -70,21 +70,26 @@ export async function send(text: string) {
   try {
     const transport = transportFor(await chatConfig());
     for await (const ev of transport({ message, history, page, signal: ctl.signal })) apply(modelId, ev);
-    patchAssistant(modelId, (m) => (m.phase === 'done' || m.phase === 'error' ? {} : {
+    patchAssistant(modelId, (m) => (m.phase === 'done' || m.phase === 'error' ? {} : ctl.signal.aborted ? stopped(m) : {
       phase: 'error', endedAt: performance.now(),
       error: { message: 'The stream ended before Gemini finished its answer.', code: 'truncated', partial: !!m.text },
     }));
   } catch (err) {
-    const aborted = ctl.signal.aborted;
-    patchAssistant(modelId, (m) => ({
-      phase: aborted && m.text ? 'done' : 'error', endedAt: performance.now(),
-      error: aborted ? (m.text ? null : { message: 'Stopped.', code: 'aborted' }) : { message: (err as Error).message || 'Could not reach the assistant.', code: 'network' },
+    patchAssistant(modelId, (m) => (ctl.signal.aborted ? stopped(m) : {
+      phase: 'error', endedAt: performance.now(),
+      error: { message: (err as Error).message || 'Could not reach the assistant.', code: 'network' },
     }));
   } finally {
     if (controller === ctl) controller = null;
     set({ busy: false });
   }
 }
+
+/** User pressed Stop: keep whatever streamed and say so — a cut-off answer must not look like a finished one. */
+const stopped = (m: AssistantMessage): Partial<AssistantMessage> => ({
+  phase: m.text ? 'done' : 'error', endedAt: performance.now(),
+  error: { message: m.text ? 'Stopped — this answer is incomplete.' : 'Stopped.', code: 'aborted', partial: !!m.text },
+});
 
 function apply(id: number, ev: ChatEvent) {
   switch (ev.event) {

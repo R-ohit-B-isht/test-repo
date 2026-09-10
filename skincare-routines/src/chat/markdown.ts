@@ -1,9 +1,9 @@
 /** Minimal, dependency-free markdown → block model for Gemini answers: paragraphs, headings, lists, tables, inline bold/code/links/citations. */
 export type Inline =
   | { kind: 'text'; text: string }
-  | { kind: 'bold'; text: string }
+  | { kind: 'bold'; children: Inline[] }
   | { kind: 'code'; text: string }
-  | { kind: 'link'; text: string; href: string }
+  | { kind: 'link'; children: Inline[]; href: string }
   | { kind: 'cite'; id: string };
 
 export type Block =
@@ -22,14 +22,28 @@ export function parseInline(text: string): Inline[] {
     const i = m.index ?? 0;
     if (i > last) out.push({ kind: 'text', text: text.slice(last, i) });
     const tok = m[0];
-    if (tok.startsWith('**')) out.push({ kind: 'bold', text: tok.slice(2, -2) });
+    if (tok.startsWith('**')) out.push({ kind: 'bold', children: parseCites(tok.slice(2, -2)) });
     else if (tok.startsWith('`')) out.push({ kind: 'code', text: tok.slice(1, -1) });
     else if (tok.startsWith('[[')) out.push({ kind: 'cite', id: tok.slice(2, -2) });
     else {
       const close = tok.indexOf('](');
-      out.push({ kind: 'link', text: tok.slice(1, close), href: tok.slice(close + 2, -1) });
+      out.push({ kind: 'link', children: parseCites(tok.slice(1, close)), href: tok.slice(close + 2, -1) });
     }
     last = i + tok.length;
+  }
+  if (last < text.length) out.push({ kind: 'text', text: text.slice(last) });
+  return out;
+}
+
+/** Bold / link text may itself carry `[[id]]` markers (Gemini likes `**Name [[id]]**`); those still have to become pills. */
+function parseCites(text: string): Inline[] {
+  const out: Inline[] = [];
+  let last = 0;
+  for (const m of text.matchAll(CITE)) {
+    const i = m.index ?? 0;
+    if (i > last) out.push({ kind: 'text', text: text.slice(last, i) });
+    out.push({ kind: 'cite', id: m[1] });
+    last = i + m[0].length;
   }
   if (last < text.length) out.push({ kind: 'text', text: text.slice(last) });
   return out;

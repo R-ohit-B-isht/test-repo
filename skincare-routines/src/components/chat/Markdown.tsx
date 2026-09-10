@@ -45,9 +45,9 @@ function Inlines({ inlines, cites, onNavigate }: { inlines: Inline[]; cites: Cit
 
 function InlineView({ x, cites, onNavigate }: { x: Inline; cites: CiteIndex; onNavigate: () => void }) {
   switch (x.kind) {
-    case 'bold': return <strong className="font-bold text-display">{x.text}</strong>;
+    case 'bold': return <strong className="font-bold text-display"><Inlines inlines={x.children} cites={cites} onNavigate={onNavigate} /></strong>;
     case 'code': return <code className="mono rounded bg-raised px-1 text-[12px]">{x.text}</code>;
-    case 'link': return <a href={x.href} target="_blank" rel="noopener noreferrer" className="font-semibold text-accent underline underline-offset-2">{x.text}</a>;
+    case 'link': return <a href={x.href} target="_blank" rel="noopener noreferrer" className="font-semibold text-accent underline underline-offset-2"><Inlines inlines={x.children} cites={cites} onNavigate={onNavigate} /></a>;
     case 'cite': return <CitePill id={x.id} cites={cites} onNavigate={onNavigate} />;
     default: return <>{x.text}</>;
   }
