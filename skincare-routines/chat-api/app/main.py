@@ -10,8 +10,11 @@ ROOT = Path(__file__).resolve().parents[1]
 if str(ROOT) not in sys.path:
     sys.path.insert(0, str(ROOT))
 
-from chat_api.main import create_app  # noqa: E402
+from chat_api.config import Settings  # noqa: E402
+from chat_api.main import fastapi_options, wire_app  # noqa: E402
 
-app: FastAPI = create_app()
+settings = Settings.from_env()
+app = FastAPI(**fastapi_options(settings))
+wire_app(app, settings)
 
 __all__ = ["app"]

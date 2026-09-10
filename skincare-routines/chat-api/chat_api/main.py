@@ -18,8 +18,24 @@ from .tools.registry import ToolRegistry
 log = logging.getLogger("chat_api")
 
 
+def fastapi_options(settings: Settings) -> dict:
+    """Constructor kwargs for the FastAPI instance (docs only in dev)."""
+    return {
+        "title": "Skin Ledger assistant",
+        "version": "0.1.0",
+        "docs_url": "/api/docs" if settings.is_dev else None,
+        "redoc_url": None,
+        "openapi_url": "/api/openapi.json" if settings.is_dev else None,
+    }
+
+
 def create_app(settings: Settings | None = None) -> FastAPI:
     settings = settings or Settings.from_env()
+    return wire_app(FastAPI(**fastapi_options(settings)), settings)
+
+
+def wire_app(app: FastAPI, settings: Settings) -> FastAPI:
+    """Attach settings, data store, tool registry, Gemini service, lifespan, CORS and routes to an existing FastAPI app."""
     store = LedgerStore(
         make_source(settings.data_source),
         refresh_seconds=settings.refresh_seconds,
@@ -40,7 +56,7 @@ def create_app(settings: Settings | None = None) -> FastAPI:
         finally:
             task.cancel()
 
-    app = FastAPI(title="Skin Ledger assistant", version="0.1.0", lifespan=lifespan, docs_url="/api/docs" if settings.is_dev else None, redoc_url=None, openapi_url="/api/openapi.json" if settings.is_dev else None)
+    app.router.lifespan_context = lifespan
     app.add_middleware(
         CORSMiddleware,
         allow_origins=settings.allowed_origins,
@@ -52,6 +68,13 @@ def create_app(settings: Settings | None = None) -> FastAPI:
     app.state.registry = registry
     app.state.gemini = gemini
     app.include_router(router)
+
+    @app.get("/healthz", include_in_schema=False)
+    async def healthz() -> dict:
+        """Liveness probe for the host: answers as soon as the port is open, independent of dataset/Gemini state
+        (readiness with real numbers lives at /api/health)."""
+        return {"status": "ok"}
+
     return app
 
 
