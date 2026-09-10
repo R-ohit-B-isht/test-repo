@@ -134,7 +134,23 @@ export class CitationBook {
         });
       }
     }
+    if (tool === 'get_ingredient_knowledge') this.absorbKnowledge(result);
     if (typeof result.category === 'string') this.touchCategory(result.category, s(result.url));
+  }
+
+  /** Categories where an asked ingredient is a core active become citable; the studies behind the pairing verdicts
+   * become external sources so general guidance carries its provenance like a listing does. */
+  private absorbKnowledge(result: Json) {
+    const list = (v: unknown) => (Array.isArray(v) ? v.filter(isObj) : []);
+    for (const ing of list(result.ingredients)) {
+      for (const ranked of list(ing.rankedIn)) this.touchCategory(s(ranked.category), s(ranked.url));
+    }
+    for (const pairing of list(result.pairingsBetweenAsked)) {
+      for (const src of list(pairing.sources)) {
+        const url = s(src.url);
+        if (url && !this.external.has(url)) this.external.set(url, { label: s(src.label) ?? 'study', url, kind: 'study' });
+      }
+    }
   }
 
   /** Ids the model cited that no tool returned in this turn — the frontend must not link them. */

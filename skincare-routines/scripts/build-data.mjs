@@ -15,6 +15,7 @@ import { fileURLToPath } from 'node:url';
 import { CATEGORIES, WEIGHTS, CRITERIA, ROUTINE_WEIGHTS, ROUTINE_CRITERIA, PHASES, phaseOf, ROUTINE_CATEGORY_LABELS, ZONE_LABELS, SCOPE_KEYS, scopeGroupOf } from './lib/registry.mjs';
 import { assertBenchmarkSet, matchBenchmark, publicBenchmark } from './lib/benchmarks.mjs';
 import { SearchColumns } from './lib/search-index.mjs';
+import { writeKnowledge } from './lib/knowledge-file.mjs';
 
 const require = createRequire(import.meta.url);
 const { GROUPS, labelFor } = require('./lib/facets.cjs');
@@ -168,6 +169,8 @@ for (const cat of CATEGORIES) {
 
 manifest.total = grandTotal;
 manifest.search = search.write(OUT);
+manifest.knowledge = writeKnowledge(OUT, manifest.generatedAt, CATEGORIES.map((c) => c.id));
+console.log(`knowledge      ${String(manifest.knowledge.actives).padStart(5)} actives, ${manifest.knowledge.pairings} pairings`);
 console.log(`search index   ${String(manifest.search.rows).padStart(5)} rows, ${(manifest.search.bytes / 1e6).toFixed(1)} MB raw, ${(fs.statSync(path.join(OUT, 'search.json.gz')).size / 1e6).toFixed(1)} MB gz`);
 fs.writeFileSync(path.join(OUT, 'manifest.json'), JSON.stringify(manifest));
 console.log(`total products ${grandTotal} → ${path.relative(ROOT, OUT)}`);

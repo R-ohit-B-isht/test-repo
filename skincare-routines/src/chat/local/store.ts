@@ -2,7 +2,7 @@
  * files the pages render from (through the shared fetch-once cache), so the assistant can never disagree with the UI. */
 import { loadJson } from '../../data/fetchJson';
 import { buildIndex, type CategoryIndex } from '../../domain/index';
-import type { Benchmark, CategoryData, CategoryMeta, Manifest, ProductDetail, ProductRow, RoutinesData } from '../../lib/types';
+import type { Benchmark, CategoryData, CategoryMeta, KnowledgeData, Manifest, ProductDetail, ProductRow, RoutinesData } from '../../lib/types';
 import { SearchIndex } from './search';
 import { loadSearchColumns } from './searchFile';
 
@@ -74,6 +74,13 @@ export class LedgerStore {
   }
 
   routines(): Promise<RoutinesData> { return loadJson<RoutinesData>(`${this.base}routines.json`); }
+
+  /** The scorer's sourced ingredient tables + pairing guidance; absent on datasets generated before knowledge.json existed. */
+  async knowledge(): Promise<KnowledgeData> {
+    const m = await this.manifest();
+    if (!m.knowledge) throw new DataError('This dataset was generated without the ingredient knowledge file (knowledge.json).');
+    return loadJson<KnowledgeData>(`${this.base}${m.knowledge.file}`);
+  }
 
   /** The cross-category index is a few MB, so it is fetched once, on the first tool that needs it. */
   search(): Promise<SearchIndex> {

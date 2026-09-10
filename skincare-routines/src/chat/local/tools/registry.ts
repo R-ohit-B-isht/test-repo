@@ -2,11 +2,12 @@
 import type { Manifest } from '../../../lib/types';
 import { declarationOf, ToolError, type Json, type Tool, type ToolContext, type ToolDeclaration } from './base';
 import { getReferenceCeiling, getRoutines, getScoringMethod, getSiteOverview, listCategories } from './catalog';
+import { getIngredientKnowledge } from './knowledge';
 import { compareProducts, getCategoryFilters, getProduct, getTopProducts, searchProducts } from './products';
 
 export const ALL_TOOLS: Tool[] = [
   getSiteOverview, listCategories, getScoringMethod, getReferenceCeiling, getRoutines,
-  searchProducts, getTopProducts, getCategoryFilters, getProduct, compareProducts,
+  searchProducts, getTopProducts, getCategoryFilters, getProduct, compareProducts, getIngredientKnowledge,
 ];
 
 export class ToolRegistry {

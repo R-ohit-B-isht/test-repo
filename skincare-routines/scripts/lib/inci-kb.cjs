@@ -56,13 +56,18 @@ const SOURCES = {
   hairCleansing: { label: 'Draelos 2010, Int J Trichology — essentials of hair care often neglected: hair cleansing (dry shampoo powders absorb sebum; no cleaning action)', url: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3002407/' },
   fdaFormaldehyde: { label: 'US FDA — hair-smoothing products that release formaldehyde when heated (proposed ban on formaldehyde / methylene glycol in hair smoothing products)', url: 'https://www.fda.gov/cosmetics/cosmetic-products/hair-smoothing-products-release-formaldehyde-when-heated' },
   // Spot treatment, body & personal care
-  hydrocolloid: { label: 'Chao et al. 2006, J Cosmet Sci — hydrocolloid acne dressing, randomised double-blind pilot trial', url: 'https://pubmed.ncbi.nlm.nih.gov/16688373/' },
+  hydrocolloid: { label: 'Chao et al. 2006, J Cosmet Sci — hydrocolloid acne dressing, randomised double-blind pilot trial', url: 'https://pubmed.ncbi.nlm.nih.gov/16688374/' },
   fdaAntiperspirant: { label: 'US FDA 21 CFR Part 350 — antiperspirant drug products for OTC human use (aluminium chlorohydrate / zirconium salts monograph)', url: 'https://www.ecfr.gov/current/title-21/chapter-I/subchapter-D/part-350' },
   deodorants: { label: 'Teerasumran et al. 2023, Int J Cosmet Sci — deodorants and antiperspirants: active agents and testing methods (review)', url: 'https://doi.org/10.1111/ics.12852' },
   intimate: { label: 'Chen et al. 2017, Womens Health (Lond) — role of female intimate hygiene in vulvovaginal health (pH-matched, mild cleansers; lactic acid)', url: 'https://doi.org/10.1177/1745505717731011' },
   striae: { label: 'Ud-Din, McGeorge & Bayat 2016, J Eur Acad Dermatol Venereol — topical management of striae distensae (tretinoin, centella; cocoa butter / oils not shown to prevent)', url: 'https://doi.org/10.1111/jdv.13223' },
   depilatory: { label: 'EU Cosmetics Regulation 1223/2009 Annex III — thioglycolic acid and its salts permitted in depilatories at ≤5%', url: 'https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02009R1223-20240424' },
   colophony: { label: 'Downs & Sansom 1999, Contact Dermatitis — colophony (rosin) allergy: a review', url: 'https://doi.org/10.1111/j.1600-0536.1999.tb06178.x' },
+  // Ingredient pairing / routine use (assistant guidance)
+  bpoRetinoid: { label: 'Martin et al. 1998, Br J Dermatol — chemical stability of adapalene and tretinoin combined with benzoyl peroxide (tretinoin degrades, adapalene is stable)', url: 'https://pubmed.ncbi.nlm.nih.gov/9990414/' },
+  fdaAha: { label: 'US FDA — alpha hydroxy acids in cosmetics: increased sun sensitivity; use daily sun protection', url: 'https://www.fda.gov/cosmetics/cosmetic-ingredients/alpha-hydroxy-acids' },
+  ferulicCE: { label: 'Lin et al. 2005, J Invest Dermatol — ferulic acid stabilises vitamins C + E and doubles photoprotection', url: 'https://pubmed.ncbi.nlm.nih.gov/16185284/' },
+  retinization: { label: 'Draelos et al. 2006, Cutis — facilitating facial retinization through barrier improvement (moisturiser + niacinamide reduce retinoid irritation)', url: 'https://pubmed.ncbi.nlm.nih.gov/17121065/' },
 };
 
 // Evidence grade: A = multiple RCTs / regulatory monograph, B = clinical studies, C = in-vitro / traditional use.

@@ -52,6 +52,32 @@ export interface Manifest {
   total: number;
   /** Cross-category search columns emitted for the in-browser assistant (see scripts/lib/search-index.mjs). */
   search?: { file: string; gzip: string; rows: number; bytes: number };
+  /** Sourced ingredient knowledge (graded actives, flags, pairing/usage guidance) for the assistant (scripts/lib/knowledge-file.mjs). */
+  knowledge?: { file: string; actives: number; pairings: number; families: number };
+}
+
+/** public/data/knowledge.json — the scorer's own ingredient tables plus sourced pairing guidance. `src` keys into `Manifest.sources`. */
+export interface IngredientFamily { id: string; label: string; aliases: string[]; inci: string[] }
+export interface KnowledgeActive { name: string; grade: 'A' | 'B' | 'C'; src: string; zone: 'skin' | 'hair'; roles: string[] }
+export interface KnowledgeFlag { id: string; label: string; names: string[]; src: string }
+export type PairingVerdict = 'avoid' | 'caution' | 'fine' | 'synergy' | 'essential';
+export interface Pairing {
+  pair: [string, string];
+  verdict: PairingVerdict;
+  evidence: 'direct' | 'inference' | 'regulatory';
+  src: string[];
+  headline: string;
+  detail: string;
+  how: string;
+}
+export interface UsageNote { family: string; src: string[]; notes: string[] }
+export interface KnowledgeData {
+  generatedAt: string;
+  families: IngredientFamily[];
+  actives: KnowledgeActive[];
+  flags: KnowledgeFlag[];
+  pairings: Pairing[];
+  usage: UsageNote[];
 }
 
 /** Columnar search file: one row per ranked placement; indices point into `cats` / `brands` / `stores` / `evKeys` / `esKeys`. */

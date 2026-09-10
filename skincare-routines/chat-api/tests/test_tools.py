@@ -136,3 +136,31 @@ async def test_listing_ranked_in_two_categories_resolves_to_page_category(ctx: T
     assert body["alsoRankedIn"][0]["rank"] == scalp["rank"] and body["url"].startswith("https://example.test/#/c/bodyscrub?open=")
     compared, _ = await reg.execute("compare_products", {"product_ids": [pid, shared[-1]], "category": "scalpscrub"}, on_body)
     assert {r["category"] for r in compared["products"]} == {"scalpscrub"}
+
+
+async def test_ingredient_knowledge_resolves_pairing_with_sources(ctx: ToolContext):
+    reg = ToolRegistry()
+    result, _ = await reg.execute("get_ingredient_knowledge", {"ingredients": ["retinol", "BHA"]}, ctx)
+    assert [i["family"] for i in result["ingredients"]] == ["retinoid", "bha"]
+    assert result["notInKnowledgeBase"] == []
+    pair = result["pairingsBetweenAsked"]
+    assert len(pair) == 1 and pair[0]["verdict"] == "caution"
+    assert pair[0]["sources"] and all(s["url"].startswith("http") for s in pair[0]["sources"])
+    assert result["otherPairings"] == []
+    retinoid = result["ingredients"][0]
+    assert retinoid["actives"] and all(a["source"]["url"] for a in retinoid["actives"])
+    assert retinoid["usage"]
+    assert all(r["category"] in {"scalpscrub", "kp", "bodyscrub"} or r["listings"] is None for r in retinoid["rankedIn"])
+
+
+async def test_ingredient_knowledge_single_ingredient_lists_all_pairings_and_flags(ctx: ToolContext):
+    reg = ToolRegistry()
+    result, _ = await reg.execute("get_ingredient_knowledge", {"ingredients": ["Vitamin C", "fragrance", "unobtainium"]}, ctx)
+    assert [i["family"] for i in result["ingredients"]] == ["vitc"]
+    assert result["notInKnowledgeBase"] == ["fragrance", "unobtainium"]
+    assert result["pairingsBetweenAsked"] == []
+    verdicts = [p["verdict"] for p in result["otherPairings"]]
+    assert verdicts == sorted(verdicts, key=["avoid", "caution", "essential", "synergy", "fine"].index)
+    assert any(f["id"] == "fragrance" for f in result["safetyFlags"])
+    err, _ = await reg.execute("get_ingredient_knowledge", {"ingredients": []}, ctx)
+    assert "error" in err

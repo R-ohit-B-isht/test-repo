@@ -6,11 +6,12 @@ import time
 
 from .base import Tool, ToolContext, ToolError
 from .catalog import GetReferenceCeiling, GetRoutines, GetScoringMethod, GetSiteOverview, ListCategories
+from .knowledge import GetIngredientKnowledge
 from .products import CompareProducts, GetCategoryFilters, GetProduct, GetTopProducts, SearchProducts
 
 ALL_TOOLS: list[Tool] = [
     GetSiteOverview(), ListCategories(), GetScoringMethod(), GetReferenceCeiling(), GetRoutines(),
-    SearchProducts(), GetTopProducts(), GetCategoryFilters(), GetProduct(), CompareProducts(),
+    SearchProducts(), GetTopProducts(), GetCategoryFilters(), GetProduct(), CompareProducts(), GetIngredientKnowledge(),
 ]
 
 

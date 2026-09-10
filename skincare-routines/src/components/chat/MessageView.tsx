@@ -90,6 +90,10 @@ function describe(t: ToolCallTrace): string {
     case 'get_category_filters': return `Reading ${str('category')} filters…`;
     case 'get_scoring_method': return 'Reading the scoring method…';
     case 'get_routines': return 'Reading the routines…';
+    case 'get_ingredient_knowledge': {
+      const list = Array.isArray(a.ingredients) ? (a.ingredients as unknown[]).filter((x) => typeof x === 'string').join(', ') : '';
+      return list ? `Checking the sourced notes on ${list}…` : 'Checking the ingredient notes…';
+    }
     case 'list_categories': return 'Listing categories…';
     case 'get_site_overview': return 'Reading the site overview…';
     default: return `Running ${t.name}…`;

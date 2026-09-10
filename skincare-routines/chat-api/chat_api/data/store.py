@@ -85,6 +85,7 @@ class LedgerStore:
         self.manifest: dict | None = None
         self.version: str | None = None
         self.routines: dict | None = None
+        self.knowledge: dict | None = None
         self.index = SearchIndex()
         self._categories = LRU(category_cache)
         self._shards = LRU(shard_cache)
@@ -129,6 +130,7 @@ class LedgerStore:
         self.version = manifest.get("generatedAt")
         self.index = index
         self.routines = None
+        self.knowledge = None
         self._categories.clear()
         self._shards.clear()
         self.indexed_at = time.time()
@@ -173,6 +175,16 @@ class LedgerStore:
         if self.routines is None:
             self.routines = await self.source.read("routines.json")
         return self.routines
+
+    async def get_knowledge(self) -> dict:
+        """The scorer's sourced ingredient tables + pairing guidance; absent on datasets generated before knowledge.json."""
+        manifest = await self.ensure_fresh()
+        if self.knowledge is None:
+            meta = manifest.get("knowledge")
+            if not meta:
+                raise DataError("This dataset was generated without the ingredient knowledge file (knowledge.json).")
+            self.knowledge = await self.source.read(meta["file"])
+        return self.knowledge
 
     def stats(self) -> dict:
         return {

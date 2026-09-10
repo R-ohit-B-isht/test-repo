@@ -48,6 +48,7 @@ def small_dataset(tmp_path: Path, real_manifest: dict) -> Path:
     for cid in BASE:
         _copy_category(tmp_path, cid, shards)
     shutil.copy(DATA / "routines.json", tmp_path / "routines.json")
+    shutil.copy(DATA / real_manifest["knowledge"]["file"], tmp_path / real_manifest["knowledge"]["file"])
     _write_manifest(tmp_path, real_manifest, BASE, "2026-01-01T00:00:00.000Z")
     return tmp_path
 

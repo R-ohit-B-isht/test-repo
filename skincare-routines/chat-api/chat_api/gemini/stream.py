@@ -112,8 +112,21 @@ class CitationBook:
                     "rank": listing.get("rank"), "of": listing.get("of"), "score": listing.get("listingScore"), "priceInr": listing.get("priceInr"),
                     "store": listing.get("store"), "url": listing.get("url"),
                 }
+        if tool == "get_ingredient_knowledge":
+            self._absorb_knowledge(result)
         if isinstance(result.get("category"), str):
             self._touch_category(result["category"], result.get("url"))
+
+    def _absorb_knowledge(self, result: dict) -> None:
+        """Categories where an asked ingredient is a core active become citable; the studies behind the pairing verdicts
+        become external sources so general guidance carries its provenance like a listing does."""
+        for ing in result.get("ingredients", []):
+            for ranked in ing.get("rankedIn", []):
+                self._touch_category(ranked.get("category"), ranked.get("url"))
+        for pairing in result.get("pairingsBetweenAsked", []):
+            for src in pairing.get("sources", []):
+                if src.get("url"):
+                    self.external.setdefault(src["url"], {"label": src.get("label") or "study", "url": src["url"], "kind": "study"})
 
     def unverified(self, answer: str) -> list[str]:
         """Ids the model cited that no tool returned in this turn — the frontend must not link them."""

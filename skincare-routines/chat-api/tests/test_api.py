@@ -111,3 +111,18 @@ def test_citation_book_prefers_page_category_placement_for_multi_ranked_listing(
     payload = book.payload("[[p1]] in [[cat:kp]]")
     assert payload["products"][0]["category"] == "detan" and payload["products"][0]["rank"] == 9
     assert [c["id"] for c in payload["categories"]] == ["kp"]  # every category a row came from stays citable
+
+
+def test_citation_book_makes_knowledge_categories_citable_and_keeps_study_sources():
+    meta = {"retinol": {"id": "retinol", "label": "Retinol", "zone": "face", "count": 1454}}
+    book = CitationBook(meta.get)
+    book.absorb("get_ingredient_knowledge", {
+        "ingredients": [{"family": "retinoid", "rankedIn": [{"category": "retinol", "url": "/#/c/retinol"}]}],
+        "pairingsBetweenAsked": [{"sources": [{"label": "Study A", "url": "https://pubmed.ncbi.nlm.nih.gov/1/"}, {"label": "no url"}]}],
+    })
+    answer = "Alternate nights. Ranked retinoids live in [[cat:retinol]]; nothing in [[cat:bha]]."
+    assert book.unverified(answer) == ["cat:bha"]
+    payload = book.payload(answer)
+    assert payload["categories"] == [{"id": "retinol", "label": "Retinol", "zone": "face", "listings": 1454, "url": "/#/c/retinol"}]
+    assert payload["external"] == [{"label": "Study A", "url": "https://pubmed.ncbi.nlm.nih.gov/1/", "kind": "study"}]
+    assert payload["products"] == []

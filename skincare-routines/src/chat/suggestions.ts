@@ -17,6 +17,12 @@ export function suggestionsFor(manifest: Manifest | null, page: PageContext): Su
     if (page.filters?.length) out.push({ kicker: cat.label, text: `Explain what my current filters (${page.filters.join(', ')}) do to this ranking.` });
     out.push({ kicker: cat.label, text: `What is the reference ceiling for ${cat.label.toLowerCase()} and is it sold on Flipkart or Amazon.in?` });
   }
+  if (manifest?.knowledge) {
+    const hair = cat?.zone === 'hair';
+    out.push(hair
+      ? { kicker: 'Ingredients', text: 'Does oiling my hair before blow-drying protect it from heat?' }
+      : { kicker: 'Ingredients', text: 'Can I use retinol and BHA together?' });
+  }
   if (manifest) {
     const total = manifest.total.toLocaleString('en-IN');
     if (!cat) {
