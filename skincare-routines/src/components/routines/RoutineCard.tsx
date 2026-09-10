@@ -27,8 +27,8 @@ export const RoutineCard = memo(function RoutineCard({ r, rank, onOpen }: Props)
       <ul className="mt-4 flex flex-wrap gap-1.5" aria-label="Phases covered">
         {phases.map((p) => <li key={p}><PhaseBadge phase={p} /></li>)}
       </ul>
-      <div className="mt-4 flex items-center justify-between gap-3 border-t border-line pt-4">
-        <dl className="flex gap-4 text-[13px] text-secondary">
+      <div className="mt-4 flex flex-wrap items-center justify-between gap-3 border-t border-line pt-4">
+        <dl className="flex flex-wrap gap-x-4 gap-y-1 text-[13px] text-secondary">
           <div className="flex items-center gap-1.5"><Layers size={14} aria-hidden /><dt className="sr-only">Steps per day</dt><dd><span className="font-bold text-display">{r.stepsPerDay}</span> steps/day</dd></div>
           <div className="flex items-center gap-1.5"><Clock size={14} aria-hidden /><dt className="sr-only">Time per day</dt><dd className="font-bold text-display">{r.timePerDay}</dd></div>
         </dl>

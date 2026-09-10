@@ -37,12 +37,12 @@ export const ProductCard = memo(function ProductCard({ row, rank, scope, compare
         </p>
       </button>
       <div className="col-span-3 flex items-center gap-3 border-t border-line pt-3 sm:contents">
-        <div className="flex flex-1 items-center justify-between gap-3 sm:block sm:text-right">
+        <div className="flex min-w-0 flex-1 flex-wrap items-center justify-between gap-x-3 gap-y-1 sm:block sm:text-right">
           <ScoreBadge score={row.s} className="sm:flex-row-reverse" />
           <p className="mono text-[16px] font-extrabold text-display sm:mt-1.5">{rupees(row.p)}</p>
         </div>
         <button type="button" onClick={() => onCompare(row.id)} disabled={!compared && compareFull} aria-pressed={compared}
-          className={clsx('btn h-9 px-4 disabled:cursor-not-allowed disabled:opacity-40 sm:w-9 sm:px-0', compared && 'btn-accent')}
+          className={clsx('btn h-9 shrink-0 px-3 disabled:cursor-not-allowed disabled:opacity-40 sm:w-9 sm:px-0', compared && 'btn-accent')}
           aria-label={compared ? 'Remove from compare' : 'Add to compare'}>
           {compared ? <Check size={14} /> : <Plus size={14} />}<span className="sm:hidden">{compared ? 'Comparing' : 'Compare'}</span>
         </button>

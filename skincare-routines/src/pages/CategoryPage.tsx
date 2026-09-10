@@ -144,7 +144,7 @@ function CategoryView({ id }: { id: string }) {
         </section>
       )}
 
-      <div className="glass sticky top-16 z-30 -mx-4 mt-8 border-b border-line px-4 py-3 sm:-mx-6 sm:px-6">
+      <div className="glass sticky top-[100px] z-30 sm:top-16 -mx-4 mt-8 border-b border-line px-4 py-3 sm:-mx-6 sm:px-6">
         <ScopeControl group={scopeGroup} rows={idx.facets[scopeGroup] ?? []} selected={scopeSelected} onToggle={toggleTag} onClear={() => clearGroup(scopeGroup)} />
       </div>
 
