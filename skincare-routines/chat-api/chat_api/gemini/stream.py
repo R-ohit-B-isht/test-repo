@@ -50,7 +50,11 @@ class TailSplitter:
 
     def followups(self) -> list[str]:
         raw = self._tail.strip().lstrip(":").strip()
-        parts = [p.strip().strip("-•").strip() for p in raw.split("|")]
+        # Chips are plain buttons, not markdown — a stray [[id]] would show up literally.
+        parts = [
+            re.sub(r"\s+([?.!])$", r"\1", re.sub(r"\s{2,}", " ", _CITE.sub("", p)).strip().strip("-•").strip())
+            for p in raw.split("|")
+        ]
         return [p for p in parts if p][:3]
 
 

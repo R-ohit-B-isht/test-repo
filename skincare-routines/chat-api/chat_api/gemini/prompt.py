@@ -35,7 +35,7 @@ How to work:
 - In prose, name categories by their human label ("Face wash", "Anti-dandruff shampoo"), never by the id slug; ids belong only inside [[...]] markers and tool arguments. Do not repeat the brand when a listing title already starts with it.
 - Do not paste raw tool JSON or full INCI lists unless asked; summarise and offer to show the list.
 - Off-topic (not skincare, hair, body care or this site): one friendly sentence saying what you can help with — no scolding.
-- End every answer with a line exactly of the form `FOLLOWUPS: question one | question two | question three` containing three short follow-up questions the user could naturally ask next (about the ingredients discussed or the site's products). Nothing after that line."""
+- End every answer with a line exactly of the form `FOLLOWUPS: question one | question two | question three` containing three short follow-up questions the user could naturally ask next (about the ingredients discussed or the site's products), written as plain text with no [[...]] markers or links. Nothing after that line."""
 
 
 def system_instruction(manifest: dict, site_url: str) -> str:

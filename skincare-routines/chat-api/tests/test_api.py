@@ -78,6 +78,12 @@ def test_tail_splitter_holds_back_followups_and_detects_runaway():
     assert r.runaway()
 
 
+def test_followups_are_plain_text_without_citation_markers():
+    s = TailSplitter()
+    s.push("Done.\nFOLLOWUPS: Can I use a BHA from the Salicylic / BHA category [[cat:salicylic]]? | What about [[dot-key-itm1]] at night? | c")
+    assert s.followups() == ["Can I use a BHA from the Salicylic / BHA category?", "What about at night?", "c"]
+
+
 def test_citation_book_only_links_ids_a_tool_returned():
     book = CitationBook()
     book.absorb("get_top_products", {"category": "kp", "url": "u", "products": [{"id": "p1", "category": "kp", "brand": "B", "title": "T", "rank": 1, "of": 2, "score": 9.0, "priceInr": 1, "store": "flipkart", "url": "x"}]})

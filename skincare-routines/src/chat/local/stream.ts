@@ -56,7 +56,8 @@ export class TailSplitter {
 
   followups(): string[] {
     const raw = this.tail.trim().replace(/^:+/, '').trim();
-    return raw.split('|').map((p) => p.trim().replace(/^[-•]+|[-•]+$/g, '').trim()).filter(Boolean).slice(0, 3);
+    // Chips are plain buttons, not markdown — a stray [[id]] would show up literally.
+    return raw.split('|').map((p) => p.replace(CITE, '').replace(/\s{2,}/g, ' ').trim().replace(/^[-•]+|[-•]+$/g, '').replace(/\s+([?.!])$/, '$1').trim()).filter(Boolean).slice(0, 3);
   }
 }
 
