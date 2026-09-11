@@ -19,7 +19,7 @@ export function ProductSnippet({ product, categoryLabel }: { product: StepProduc
       className="card-hover group flex items-center gap-3 rounded-[12px] border border-line bg-raised/60 px-3 py-2.5 no-underline">
       {product.score != null ? <ScoreBadge score={product.score} showVerdict={false} /> : <span className="score" aria-label="Unscored">—</span>}
       <span className="min-w-0 flex-1">
-        <span className="block truncate text-[13px] font-bold text-display">{product.brand ? `${product.brand} · ` : ''}{product.title}</span>
+        <span className="line-clamp-2 text-[13px] font-bold leading-snug text-display">{product.brand ? `${product.brand} · ` : ''}{product.title}</span>
         <span className="mt-0.5 flex flex-wrap items-center gap-x-2 gap-y-0.5 text-[12px] text-secondary">
           {isInciStatus(product.inciStatus) && <EvidenceBadge status={product.inciStatus} source={isSourceKind(product.inciSourceKind) ? product.inciSourceKind : undefined} />}
           {facts.map((f) => <span key={f}>{f}</span>)}

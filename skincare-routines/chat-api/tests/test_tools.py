@@ -187,3 +187,23 @@ async def test_propose_routine_steps_validates_every_product_reference(ctx: Tool
     assert ok[1]["product"] is None
     reasons = " ".join(" ".join(p["reasons"]) for p in result["problems"])
     assert "not-a-real-id" in reasons and "ranked in kp, not bodyscrub" in reasons and "slot must be am or pm" in reasons and "days is empty" in reasons
+
+
+async def test_review_routine_plan_keeps_only_known_pick_ids(ctx: ToolContext):
+    reg = ToolRegistry()
+    assert reg.surfaces("review_routine_plan")
+    top, _ = await reg.execute("get_top_products", {"category": "kp", "limit": 1}, ctx)
+    real = top["results"][0]["id"]
+    result, _ = await reg.execute("review_routine_plan", {"notes": [
+        {"step": "urea20:pm", "why": "20% urea is body strength", "pick_id": real},
+        {"step": "retinol:pm", "why": "alternate nights", "pick_id": "not-a-real-id"},
+        {"step": "Retinol at night", "why": "bad id"},
+        {"step": "sunscreen:am", "why": ""},
+    ], "warnings": ["Retinol and glycolic share no night — good.", ""]}, ctx)
+    assert result["noted"] == 2
+    assert result["notes"][0]["pickId"] == real and result["notes"][1]["pickId"] is None
+    assert result["warnings"] == ["Retinol and glycolic share no night — good."]
+    joined = " ".join(result["problems"])
+    assert "not-a-real-id" in joined and "not a step id" in joined and "empty note" in joined
+    err, _ = await reg.execute("review_routine_plan", {"notes": [], "warnings": []}, ctx)
+    assert "error" in err

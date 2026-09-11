@@ -4,11 +4,12 @@ import { declarationOf, ToolError, type Json, type Tool, type ToolContext, type 
 import { getReferenceCeiling, getRoutines, getScoringMethod, getSiteOverview, listCategories } from './catalog';
 import { getIngredientKnowledge } from './knowledge';
 import { compareProducts, getCategoryFilters, getProduct, getTopProducts, searchProducts } from './products';
+import { reviewRoutinePlan } from './planReview';
 import { proposeRoutineSteps } from './routine';
 
 export const ALL_TOOLS: Tool[] = [
   getSiteOverview, listCategories, getScoringMethod, getReferenceCeiling, getRoutines,
-  searchProducts, getTopProducts, getCategoryFilters, getProduct, compareProducts, getIngredientKnowledge, proposeRoutineSteps,
+  searchProducts, getTopProducts, getCategoryFilters, getProduct, compareProducts, getIngredientKnowledge, proposeRoutineSteps, reviewRoutinePlan,
 ];
 
 export class ToolRegistry {

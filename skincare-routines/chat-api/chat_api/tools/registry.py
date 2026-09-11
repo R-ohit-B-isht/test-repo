@@ -8,12 +8,13 @@ from .base import Tool, ToolContext, ToolError
 from .catalog import GetReferenceCeiling, GetRoutines, GetScoringMethod, GetSiteOverview, ListCategories
 from .knowledge import GetIngredientKnowledge
 from .products import CompareProducts, GetCategoryFilters, GetProduct, GetTopProducts, SearchProducts
+from .plan_review import ReviewRoutinePlan
 from .routine import ProposeRoutineSteps
 
 ALL_TOOLS: list[Tool] = [
     GetSiteOverview(), ListCategories(), GetScoringMethod(), GetReferenceCeiling(), GetRoutines(),
     SearchProducts(), GetTopProducts(), GetCategoryFilters(), GetProduct(), CompareProducts(), GetIngredientKnowledge(),
-    ProposeRoutineSteps(),
+    ProposeRoutineSteps(), ReviewRoutinePlan(),
 ]
 
 

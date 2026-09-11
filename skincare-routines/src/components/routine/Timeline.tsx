@@ -1,14 +1,13 @@
-import { Moon, Plus, Sparkles, Sun } from 'lucide-react';
+import { CalendarRange, Moon, Plus, Sun } from 'lucide-react';
 import { StepCard } from './StepCard';
 import { DAY_LABEL, SLOT_LABEL, SLOTS, stepsFor, type Day, type Slot, type Step } from '../../schedule/model';
 
 interface Props {
   steps: Step[];
   day: Day | null;
-  filling: boolean;
   categoryLabel: (id: string) => string;
   onAdd: (slot: Slot) => void;
-  onFill: (slot: Slot) => void;
+  onPlan: () => void;
   onEdit: (step: Step) => void;
   onRemove: (id: string) => void;
   onMove: (id: string, dir: -1 | 1) => void;
@@ -17,7 +16,7 @@ interface Props {
 const SLOT_ICON = { am: Sun, pm: Moon } as const;
 
 /** Morning / Night columns (Headspace timeline, Todoist grouped list): accepted steps only, in order, for the chosen day or the whole week. */
-export function Timeline({ steps, day, filling, categoryLabel, onAdd, onFill, onEdit, onRemove, onMove }: Props) {
+export function Timeline({ steps, day, categoryLabel, onAdd, onPlan, onEdit, onRemove, onMove }: Props) {
   return (
     <div className="grid gap-6 lg:grid-cols-2">
       {SLOTS.map((slot) => {
@@ -34,11 +33,11 @@ export function Timeline({ steps, day, filling, categoryLabel, onAdd, onFill, on
               <div className="mt-3 rounded-[16px] border border-dashed border-line-strong px-5 py-8 text-center">
                 <p className="text-[14px] font-bold text-display">{day && all.length ? `Nothing on ${DAY_LABEL[day]} ${SLOT_LABEL[slot].toLowerCase()}s` : `No ${SLOT_LABEL[slot].toLowerCase()} steps yet`}</p>
                 <p className="mx-auto mt-1 max-w-xs text-[13px] text-secondary">
-                  {day && all.length ? 'Edit a step to add this day, or add one just for it.' : 'Add a step yourself, or let the assistant propose steps from the site\'s rankings — nothing lands until you accept it.'}
+                  {day && all.length ? 'Edit a step to add this day, or add one just for it.' : 'Add a step yourself, or build the week from what you have — nothing lands until you accept it.'}
                 </p>
                 <div className="mt-4 flex flex-wrap justify-center gap-2">
                   <button type="button" className="btn" onClick={() => onAdd(slot)}><Plus size={14} aria-hidden />Add step</button>
-                  <button type="button" className="btn btn-accent" onClick={() => onFill(slot)} disabled={filling}><Sparkles size={14} aria-hidden />{filling ? 'Asking…' : 'Ask the assistant'}</button>
+                  <button type="button" className="btn btn-accent" onClick={onPlan}><CalendarRange size={14} aria-hidden />Plan my week</button>
                 </div>
               </div>
             ) : (
@@ -53,8 +52,8 @@ export function Timeline({ steps, day, filling, categoryLabel, onAdd, onFill, on
                   <button type="button" onClick={() => onAdd(slot)} className="press flex h-10 items-center gap-1.5 rounded-full px-3 text-[13px] font-bold text-secondary hover:bg-raised hover:text-display">
                     <Plus size={14} aria-hidden />Add step
                   </button>
-                  <button type="button" onClick={() => onFill(slot)} disabled={filling} className="press flex h-10 items-center gap-1.5 rounded-full px-3 text-[13px] font-bold text-accent hover:bg-raised disabled:opacity-50">
-                    <Sparkles size={14} aria-hidden />{filling ? 'Asking…' : 'Suggest more'}
+                  <button type="button" onClick={onPlan} className="press flex h-10 items-center gap-1.5 rounded-full px-3 text-[13px] font-bold text-accent hover:bg-raised">
+                    <CalendarRange size={14} aria-hidden />Plan more
                   </button>
                 </div>
               </>

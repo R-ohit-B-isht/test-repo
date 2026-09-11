@@ -1,27 +1,25 @@
 import type { ReactNode } from 'react';
-import { Sparkles, Square } from 'lucide-react';
+import { ArrowRight } from 'lucide-react';
 import { PLAN_ZONES, SKIN_TYPES, ZONE_LABEL, type PlanZone, type Setup, type SkinType } from '../../schedule/model';
 
 interface Props {
   setup: Setup;
   concerns: { id: string; label: string }[];
-  filling: boolean;
   onChange: (patch: Partial<Setup>) => void;
-  onFill: () => void;
-  onStop: () => void;
+  onNext: () => void;
 }
 
 const SKIN_LABEL: Record<SkinType, string> = { oily: 'Oily', combination: 'Combination', normal: 'Normal', dry: 'Dry', sensitive: 'Sensitive' };
 const BUDGETS = [500, 1000, 2000];
 
 /** Calm-style goal setup: what the plan is for. Everything here is sent to the assistant as plain context; nothing is scored. */
-export function SetupPanel({ setup, concerns, filling, onChange, onFill, onStop }: Props) {
+export function SetupPanel({ setup, concerns, onChange, onNext }: Props) {
   const toggle = <T,>(list: T[], v: T) => (list.includes(v) ? list.filter((x) => x !== v) : [...list, v]);
-  const canFill = setup.zones.length > 0;
+  const canNext = setup.zones.length > 0;
   return (
     <section className="card p-5" aria-labelledby="setup-head">
       <h2 id="setup-head" className="text-[20px] text-display">Your setup</h2>
-      <p className="mt-1 text-[13px] leading-relaxed text-secondary">The assistant reads this, then picks steps and real listings from the site's rankings. You decide what stays.</p>
+      <p className="mt-1 text-[13px] leading-relaxed text-secondary">Who the plan is for. Skin type caps how often actives run; zones decide which items count; budget caps the price of every pick.</p>
 
       <Group label="Zones" hint={setup.zones.length === 0 ? 'Pick at least one.' : undefined}>
         {PLAN_ZONES.map((z) => (
@@ -64,12 +62,8 @@ export function SetupPanel({ setup, concerns, filling, onChange, onFill, onStop 
       </div>
 
       <div className="mt-5 flex flex-wrap items-center gap-2 border-t border-line pt-4">
-        {filling ? (
-          <button type="button" className="btn" onClick={onStop}><Square size={13} aria-hidden />Stop</button>
-        ) : (
-          <button type="button" className="btn btn-accent" onClick={onFill} disabled={!canFill}><Sparkles size={14} aria-hidden />Fill my routine</button>
-        )}
-        <p className="text-[12px] text-muted">Proposals appear below as pending cards — accept, edit or reject each one.</p>
+        <button type="button" className="btn btn-accent" onClick={onNext} disabled={!canNext}>Next: what you have<ArrowRight size={14} aria-hidden /></button>
+        <p className="text-[12px] text-muted">Saved in this browser as you go.</p>
       </div>
     </section>
   );

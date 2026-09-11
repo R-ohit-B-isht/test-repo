@@ -115,6 +115,11 @@ export function stopFill() {
 
 export const dismissFill = () => { if (state.fill.phase !== 'running') set({ fill: IDLE }); };
 
+/** Pending proposals built elsewhere (the progressive planner) — same rule: they wait for the user's accept. */
+export function addProposals(proposals: Proposal[]) {
+  if (proposals.length) commit((p) => ({ ...p, proposals: [...p.proposals, ...proposals] }));
+}
+
 /** Used by the chat drawer too: a `propose_routine_steps` payload from any conversation lands here as pending proposals. */
 export function receiveProposals(result: Record<string, unknown>, batch: string): number {
   const proposals = proposalsFrom(result, batch);
