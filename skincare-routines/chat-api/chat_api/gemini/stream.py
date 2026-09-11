@@ -38,6 +38,11 @@ class TailSplitter:
         self.emitted += out
         return out
 
+    @property
+    def in_followups(self) -> bool:
+        """True once the FOLLOWUPS marker has been seen — the answer body is complete even if the stream ends here."""
+        return self._in_tail
+
     def runaway(self) -> bool:
         """Degenerate generation: a long run of whitespace/padding, or an answer far beyond anything a user asked for."""
         tail = self.emitted[-400:]

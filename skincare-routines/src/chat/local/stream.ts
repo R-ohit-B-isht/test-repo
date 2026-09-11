@@ -22,6 +22,9 @@ export class TailSplitter {
   private inTail = false;
   emitted = '';
 
+  /** True once the FOLLOWUPS marker has been seen — the answer body is complete even if the stream ends here. */
+  get inFollowups(): boolean { return this.inTail; }
+
   push(delta: string): string {
     if (this.inTail) { this.tail += delta; return ''; }
     this.pending += delta;

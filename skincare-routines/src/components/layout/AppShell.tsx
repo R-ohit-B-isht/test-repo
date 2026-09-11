@@ -18,6 +18,7 @@ const NAV = [
   { to: '/', label: 'Routines', end: true },
   { to: '/products', label: 'Products' },
   { to: '/c/pigmentation', label: 'Pigmentation protocol', short: 'Pigmentation' },
+  { to: '/routine', label: 'My routine', short: 'Mine' },
 ];
 
 const THEME_ICON = { auto: Monitor, light: Sun, dark: Moon } as const;

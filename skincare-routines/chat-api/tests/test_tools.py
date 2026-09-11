@@ -164,3 +164,26 @@ async def test_ingredient_knowledge_single_ingredient_lists_all_pairings_and_fla
     assert any(f["id"] == "fragrance" for f in result["safetyFlags"])
     err, _ = await reg.execute("get_ingredient_knowledge", {"ingredients": []}, ctx)
     assert "error" in err
+
+
+async def test_propose_routine_steps_validates_every_product_reference(ctx: ToolContext):
+    reg = ToolRegistry()
+    assert reg.surfaces("propose_routine_steps") and not reg.surfaces("get_product")
+    top, _ = await reg.execute("get_top_products", {"category": "kp", "limit": 1}, ctx)
+    real = top["results"][0]
+    result, _ = await reg.execute("propose_routine_steps", {"steps": [
+        {"title": "KP lotion", "slot": "pm", "days": ["mon", "wed", "fri", "wed"], "zone": "body", "category": "kp", "product_id": real["id"], "why": "urea + lactic acid"},
+        {"title": "Cleanse", "slot": "am", "days": "daily", "zone": "body", "category": "bodyscrub", "product_id": None, "why": "pick later"},
+        {"title": "Made up", "slot": "pm", "days": ["sun"], "zone": "body", "category": "kp", "product_id": "not-a-real-id", "why": "invented"},
+        {"title": "Wrong category", "slot": "pm", "days": ["sun"], "zone": "body", "category": "bodyscrub", "product_id": real["id"], "why": "misfiled"},
+        {"title": "Bad slot", "slot": "noon", "days": [], "zone": "face", "category": "kp", "why": "x"},
+    ]}, ctx)
+    assert result["proposed"] == 2 and result["rejected"] == 3
+    ok = result["steps"]
+    assert ok[0]["days"] == ["mon", "wed", "fri"]
+    assert ok[1]["days"] == ["mon", "tue", "wed", "thu", "fri", "sat", "sun"]
+    assert ok[0]["product"]["id"] == real["id"] and ok[0]["product"]["rank"] == real["rank"] and ok[0]["product"]["of"] == real["of"]
+    assert ok[0]["product"]["inciStatus"] == real["inciStatus"]
+    assert ok[1]["product"] is None
+    reasons = " ".join(" ".join(p["reasons"]) for p in result["problems"])
+    assert "not-a-real-id" in reasons and "ranked in kp, not bodyscrub" in reasons and "slot must be am or pm" in reasons and "days is empty" in reasons

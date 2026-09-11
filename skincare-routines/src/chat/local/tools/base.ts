@@ -33,6 +33,8 @@ export interface JsonSchema {
 export interface Tool {
   name: string;
   description: string;
+  /** When true the tool's result is also streamed to the UI as a `tool_payload` event (e.g. routine proposals). */
+  surface?: boolean;
   parameters(manifest: Manifest): JsonSchema;
   run(args: Json, ctx: ToolContext): Promise<Json>;
 }

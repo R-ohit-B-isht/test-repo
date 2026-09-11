@@ -24,6 +24,8 @@ export type ChatEvent =
   | { event: 'meta'; data: ChatMeta }
   | { event: 'tool_call'; data: { name: string; args: Record<string, unknown> } }
   | { event: 'tool_result'; data: { name: string; ms: number; bytes: number; error: string | null; count: number | null } }
+  /** Full result of a tool that feeds a UI surface (routine proposals); ordinary tool results never cross this boundary. */
+  | { event: 'tool_payload'; data: { name: string; result: Record<string, unknown> } }
   | { event: 'text'; data: { delta: string } }
   | { event: 'done'; data: { followups: string[]; citations: Citations; unverifiedCitations: string[]; toolCalls: number } }
   | { event: 'error'; data: ChatError };
@@ -35,6 +37,8 @@ export interface AssistantMessage {
   id: number; role: 'model'; text: string; phase: Phase;
   tools: ToolCallTrace[]; citations: Citations | null; unverified: string[]; followups: string[]; error: ChatError | null;
   meta: ChatMeta | null; startedAt: number; endedAt: number | null;
+  /** Routine steps this answer proposed (pending on the My routine page); absent on answers that proposed none. */
+  proposed?: number;
 }
 export type Message = UserMessage | AssistantMessage;
 
@@ -51,4 +55,6 @@ export interface PageContext {
   product?: { id: string; brand: string; title: string; rank: number } | null;
   compare?: string[];
   benchmark?: string | null;
+  /** My routine page: the user's setup and what is already planned, so a fill request can be answered from the drawer too. */
+  routine?: { zones: string[]; concerns: string[]; skinType: string | null; maxPriceInr: number | null; steps: number; pending: number } | null;
 }

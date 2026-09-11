@@ -28,6 +28,8 @@ class ToolError(ValueError):
 class Tool(ABC):
     name: str
     description: str
+    # When True the tool's result is also streamed to the UI as a `tool_payload` event (e.g. routine proposals).
+    surface: bool = False
 
     @abstractmethod
     def parameters(self, manifest: dict) -> dict: ...

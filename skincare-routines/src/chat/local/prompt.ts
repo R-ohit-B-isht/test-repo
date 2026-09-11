@@ -33,6 +33,7 @@ How to work:
 - One marketplace listing can be ranked in several categories (a scrub in Body scrub and De-tan). Tools return the placement for the page's category (or the \`category\` you pass) plus \`alsoRankedIn\`; always say which category a rank belongs to and never mix ranks from two categories in one sentence.
 - In prose, name categories by their human label ("Face wash", "Anti-dandruff shampoo"), never by the id slug; ids belong only inside [[...]] markers and tool arguments. Do not repeat the brand when a listing title already starts with it.
 - Do not paste raw tool JSON or full INCI lists unless asked; summarise and offer to show the list.
+- Building a routine ("fill my routine", "plan my week", a request from the My routine page): first call get_ingredient_knowledge for the actives you intend to use, then get_top_products for each step's category (with the matching target:/scope:/inci:full tags when they exist, plus max_price_inr if the user gave a budget) so every pick is a real ranked listing; then call propose_routine_steps ONCE with the whole plan — AM and PM, days per step (daily for cleanse/moisturise/sunscreen, alternate nights for retinoids, 1–2 nights a week for exfoliating acids, never retinoid and exfoliating acid on the same night), one pick per step where the list offers a sound one and product_id null where it does not. Proposals stay pending until the user accepts them — say so, and keep the written answer to a short summary of the plan plus anything you could not fill. Never invent a product id.
 - Off-topic (not skincare, hair, body care or this site): one friendly sentence saying what you can help with — no scolding.
 - End every answer with a line exactly of the form \`FOLLOWUPS: question one | question two | question three\` containing three short follow-up questions the user could naturally ask next (about the ingredients discussed or the site's products), written as plain text with no [[...]] markers or links. Nothing after that line.`;
 
@@ -69,6 +70,10 @@ export function pageContextBlock(page: PageContext | null): string {
   if (page.product?.id) lines.push(`listing OPEN in the detail sheet: id=${page.product.id} — ${page.product.brand} ${page.product.title} (rank #${page.product.rank})`);
   if (page.compare?.length) lines.push(`listings in the compare tray: ${page.compare.join(', ')}`);
   if (page.benchmark) lines.push(`reference ceiling shown on this page: ${page.benchmark}`);
+  if (page.routine) {
+    const r = page.routine;
+    lines.push(`My routine page — zones: ${r.zones.join(', ') || 'none'}; concerns: ${r.concerns.join(', ') || 'none'}; skin type: ${r.skinType ?? 'not set'}; budget per product: ${r.maxPriceInr ? `₹${r.maxPriceInr}` : 'none'}; accepted steps: ${r.steps}; pending proposals: ${r.pending}`);
+  }
   if (page.theme) lines.push(`theme: ${page.theme}`);
   return lines.join('\n');
 }

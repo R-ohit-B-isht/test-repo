@@ -4,10 +4,11 @@ import { declarationOf, ToolError, type Json, type Tool, type ToolContext, type 
 import { getReferenceCeiling, getRoutines, getScoringMethod, getSiteOverview, listCategories } from './catalog';
 import { getIngredientKnowledge } from './knowledge';
 import { compareProducts, getCategoryFilters, getProduct, getTopProducts, searchProducts } from './products';
+import { proposeRoutineSteps } from './routine';
 
 export const ALL_TOOLS: Tool[] = [
   getSiteOverview, listCategories, getScoringMethod, getReferenceCeiling, getRoutines,
-  searchProducts, getTopProducts, getCategoryFilters, getProduct, compareProducts, getIngredientKnowledge,
+  searchProducts, getTopProducts, getCategoryFilters, getProduct, compareProducts, getIngredientKnowledge, proposeRoutineSteps,
 ];
 
 export class ToolRegistry {
@@ -18,6 +19,8 @@ export class ToolRegistry {
   constructor(tools: Tool[] = ALL_TOOLS) { this.tools = new Map(tools.map((t) => [t.name, t])); }
 
   names() { return [...this.tools.keys()]; }
+
+  surfaces(name: string) { return this.tools.get(name)?.surface === true; }
 
   declarations(manifest: Manifest): ToolDeclaration[] {
     if (manifest.generatedAt !== this.declaredFor) {

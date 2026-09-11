@@ -8,10 +8,12 @@ from .base import Tool, ToolContext, ToolError
 from .catalog import GetReferenceCeiling, GetRoutines, GetScoringMethod, GetSiteOverview, ListCategories
 from .knowledge import GetIngredientKnowledge
 from .products import CompareProducts, GetCategoryFilters, GetProduct, GetTopProducts, SearchProducts
+from .routine import ProposeRoutineSteps
 
 ALL_TOOLS: list[Tool] = [
     GetSiteOverview(), ListCategories(), GetScoringMethod(), GetReferenceCeiling(), GetRoutines(),
     SearchProducts(), GetTopProducts(), GetCategoryFilters(), GetProduct(), CompareProducts(), GetIngredientKnowledge(),
+    ProposeRoutineSteps(),
 ]
 
 
@@ -23,6 +25,10 @@ class ToolRegistry:
 
     def names(self) -> list[str]:
         return list(self._tools)
+
+    def surfaces(self, name: str) -> bool:
+        tool = self._tools.get(name)
+        return tool is not None and tool.surface
 
     def declarations(self, manifest: dict) -> list[dict]:
         version = str(manifest.get("generatedAt"))
