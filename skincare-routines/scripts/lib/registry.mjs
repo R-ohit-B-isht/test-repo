@@ -236,13 +236,68 @@ export const CATEGORIES = [
     id: 'calmserum', label: 'Calming / barrier serum', kicker: 'SERUM', zone: FACE,
     blurb: 'Soothing and barrier-repair serums and ampoules for reactive, red or compromised skin — centella / cica, heartleaf, mugwort, panthenol, ceramides, probiotics, oat. Exfoliating, vitamin C, retinoid and brightening serums stay on their own pages.',
     file: 'nx-data-calmserum.js', global: 'NXPRODUCTS', facets: CORE_FACETS,
-    featured: ['target:irritation', 'ing:centella-cica', 'ing:heartleaf', 'ing:ceramides', 'ing:panthenol', 'ing:probiotics', 'ing:colloidal-oatmeal', 'ing:hyaluronic-acid', 'format:serum', 'format:ampoule', 'claim:korean', 'skin:sensitive', 'inci:full'],
+    featured: ['target:irritation', 'ing:centella-cica', 'ing:heartleaf', 'ing:ceramides', 'ing:vitamin-b5-panthenol', 'ing:probiotics', 'ing:colloidal-oatmeal', 'ing:hyaluronic-acid', 'format:serum', 'format:ampoule', 'claim:korean', 'skin:sensitive', 'inci:full'],
   },
   {
     id: 'sheetmask', label: 'Sheet masks', kicker: 'MASK', zone: FACE,
     blurb: 'Single-use fabric, bio-cellulose and hydrogel sheet masks soaked in essence — split out from the wash-off, clay and sleeping masks on the Face mask page.',
     file: 'nx-data-sheetmask.js', global: 'NXPRODUCTS', facets: CORE_FACETS,
     featured: ['ing:hyaluronic-acid', 'ing:snail-mucin', 'ing:centella-cica', 'ing:rice-water', 'ing:green-tea', 'ing:vitamin-c', 'ing:collagen', 'ing:aloe-vera', 'claim:korean', 'claim:brightening', 'claim:hydrating', 'claim:soothing', 'format:kit', 'skin:dry', 'skin:oily'],
+  },
+  // ── Face: routine-step actives (HA, NAD+/NMN, PDRN, TXA, lactic / PHA, BPO), cleansing balm, lip balm, shaving ────
+  {
+    id: 'hyaluronic', label: 'Hyaluronic acid serum', kicker: 'SERUM', zone: FACE,
+    blurb: 'Hydrating serums whose lead active is hyaluronic acid (multi-weight, sodium hyaluronate, hydrolysed HA) — often with polyglutamic acid, glycerin or panthenol. Scored on the declared formula, not on the "72-hour hydration" claim.',
+    file: 'nx-data-hyaluronic.js', global: 'NXPRODUCTS', facets: CORE_FACETS,
+    featured: ['ing:hyaluronic-acid', 'ing:polyglutamic-acid', 'ing:glycerin', 'ing:vitamin-b5-panthenol', 'ing:ceramides', 'ing:niacinamide', 'ing:snail-mucin', 'format:serum', 'format:ampoule', 'free:fragrance', 'free:alcohol', 'skin:dry', 'skin:sensitive', 'skin:oily'],
+  },
+  {
+    id: 'nadnmn', label: 'NAD+ / NMN serum', kicker: 'SERUM', zone: FACE,
+    blurb: 'Serums and creams built around NAD+ precursors — NMN, nicotinamide riboside, NADH. The clinical evidence sits with niacinamide; topical NMN / NR claims rest on in-vitro work and are graded C, so a good formula here is judged on everything else it carries too.',
+    file: 'nx-data-nadnmn.js', global: 'NXPRODUCTS', facets: CORE_FACETS,
+    featured: ['target:aging', 'ing:nad-nmn', 'ing:niacinamide', 'ing:peptides', 'ing:hyaluronic-acid', 'ing:ceramides', 'ing:retinal', 'ing:collagen', 'format:serum', 'format:cream', 'claim:anti-aging', 'claim:korean', 'free:fragrance'],
+  },
+  {
+    id: 'pdrn', label: 'PDRN / polynucleotide serum', kicker: 'SERUM', zone: FACE,
+    blurb: 'Salmon-DNA (PDRN, sodium DNA) repair serums and ampoules from the K-beauty wave. The evidence base is wound repair (mostly injected); a cosmetic serum earns its score from the whole declared formula — HA, niacinamide, centella, peptides — not the PDRN ppm on the label.',
+    file: 'nx-data-pdrn.js', global: 'NXPRODUCTS', facets: CORE_FACETS,
+    featured: ['target:aging', 'target:irritation', 'ing:pdrn-polynucleotide', 'ing:exosomes', 'ing:hyaluronic-acid', 'ing:niacinamide', 'ing:centella-cica', 'ing:peptides', 'ing:collagen', 'format:serum', 'format:ampoule', 'claim:korean', 'claim:barrier', 'free:fragrance'],
+  },
+  {
+    id: 'txa', label: 'Tranexamic acid', kicker: 'TREAT', zone: FACE,
+    blurb: 'Serums and creams whose lead active is tranexamic acid (TXA) for melasma and post-acne marks, usually with niacinamide, arbutin, kojic or azelaic acid. Scored on the declared actives; "3% TXA" on the front means nothing until the INCI confirms it.',
+    file: 'nx-data-txa.js', global: 'NXPRODUCTS', facets: CORE_FACETS,
+    featured: ['target:dark-spots', 'ing:tranexamic-acid', 'ing:niacinamide', 'ing:alpha-arbutin', 'ing:kojic-acid', 'ing:azelaic-acid', 'ing:vitamin-c', 'ing:licorice', 'format:serum', 'format:cream', 'claim:dark-spots', 'free:fragrance', 'skin:sensitive'],
+  },
+  {
+    id: 'lactic', label: 'Lactic / mandelic / PHA', kicker: 'EXFOLIATE', zone: FACE,
+    blurb: 'The gentler chemical exfoliants — lactic acid, mandelic acid and the polyhydroxy acids (gluconolactone, lactobionic) — as serums, toners and peels for sensitive or darker skin. Glycolic-led products live on the Exfoliator page; salicylic on Salicylic / BHA.',
+    file: 'nx-data-lactic.js', global: 'NXPRODUCTS', facets: CORE_FACETS,
+    featured: ['ing:lactic-acid', 'ing:mandelic-acid', 'ing:pha', 'ing:hyaluronic-acid', 'ing:niacinamide', 'format:serum', 'format:toner', 'format:peel', 'format:pads', 'claim:exfoliating', 'claim:dark-spots', 'free:fragrance', 'skin:sensitive', 'skin:acne-prone'],
+  },
+  {
+    id: 'benzoyl', label: 'Benzoyl peroxide', kicker: 'TREAT', zone: FACE,
+    blurb: 'Benzoyl peroxide washes, gels and creams (2.5–5%) — the one OTC acne active with grade-A evidence, and the one that bleaches towels and degrades tretinoin. Whole-face treatments; single-pimple dabs and patches are on the Acne spot page.',
+    file: 'nx-data-benzoyl.js', global: 'NXPRODUCTS', facets: CORE_FACETS,
+    featured: ['target:acne', 'ing:benzoyl-peroxide', 'ing:salicylic-acid-bha', 'ing:adapalene', 'ing:niacinamide', 'ing:sulfur', 'ing:tea-tree', 'format:gel', 'format:cream', 'format:wash', 'claim:acne', 'claim:oil-control', 'skin:acne-prone', 'skin:oily'],
+  },
+  {
+    id: 'cleansingbalm', label: 'Cleansing balm & makeup remover', kicker: 'REMOVE', zone: FACE,
+    blurb: 'First-cleanse products — cleansing balms and oils, micellar waters, makeup-removing wipes and bi-phase removers. Rinse-off / wipe-off, so fragrance weighs less; sunscreen and waterproof-makeup removal is the seller\u2019s claim until the oil phase backs it.',
+    file: 'nx-data-cleansingbalm.js', global: 'NXPRODUCTS', facets: CORE_FACETS,
+    featured: ['format:cleansing-oil', 'format:micellar', 'format:pads', 'format:balm', 'ing:squalane', 'ing:jojoba', 'ing:argan-oil', 'ing:centella-cica', 'ing:green-tea', 'claim:waterproof-makeup', 'claim:makeup', 'free:fragrance', 'free:alcohol', 'skin:sensitive', 'skin:oily'],
+  },
+  {
+    id: 'lipbalm', label: 'Lip balm & lip care', kicker: 'CARE', zone: FACE,
+    blurb: 'Lip balms, butters, sleeping masks and SPF lip care. Occlusives (petrolatum, lanolin, beeswax, shea) are what actually hold water in a lip; "lightening" and "pink lips" claims score nothing, and an SPF number counts only when a UV filter is declared.',
+    file: 'nx-data-lipbalm.js', global: 'NXPRODUCTS', facets: CORE_FACETS,
+    featured: ['format:balm', 'format:lip-mask', 'format:stick', 'ing:shea-butter', 'ing:beeswax', 'ing:petrolatum', 'ing:lanolin', 'ing:hyaluronic-acid', 'ing:ceramides', 'ing:vitamin-e', 'claim:spf-claim', 'claim:tinted', 'claim:chapped-lips', 'claim:overnight', 'free:fragrance', 'free:paraben'],
+  },
+  {
+    id: 'shaving', label: 'Shaving cream, gel & after-shave', kicker: 'SHAVE', zone: FACE,
+    blurb: 'Pre-shave oils, shaving creams / foams / gels and after-shave balms, lotions and splashes. Aloe, allantoin and panthenol soothe; glycolic and salicylic acid keep razor bumps down (the ingrown-hair evidence); a high-alcohol splash is a safety debit on freshly shaved skin.',
+    file: 'nx-data-shaving.js', global: 'NXPRODUCTS', facets: CORE_FACETS,
+    featured: ['format:shave-cream', 'format:aftershave', 'format:foam', 'format:gel', 'format:balm', 'ing:aloe-vera', 'ing:allantoin', 'ing:menthol', 'ing:tea-tree', 'ing:salicylic-acid-bha', 'ing:glycolic-acid', 'claim:razor-burn', 'claim:ingrown', 'claim:cooling', 'free:alcohol', 'free:fragrance', 'aud:men'],
   },
   // ── Body: scrub, oil & butter, hand / foot, deodorant, intimate, body SPF, stretch marks, hair removal ───────────
   {
@@ -292,6 +347,12 @@ export const CATEGORIES = [
     blurb: 'Depilatory creams and sprays (thioglycolate), cold-wax strips and body waxes — body care, kept off every hair page. Rosin in wax strips is a declared contact allergen.',
     file: 'nx-data-hairremoval.js', global: 'NXPRODUCTS', facets: CORE_FACETS,
     featured: ['format:depilatory', 'format:wax-strip', 'format:body-wax', 'format:mist', 'format:powder', 'ing:aloe-vera', 'ing:shea-butter', 'claim:painless', 'claim:ingrown', 'claim:soothing', 'skin:sensitive', 'scope:body', 'scope:both', 'aud:men', 'aud:women'],
+  },
+  {
+    id: 'soap', label: 'Bathing soap bars', kicker: 'BATHE', zone: BODY,
+    blurb: 'Bar soaps and syndet bars — glycerin, oatmeal, neem, turmeric, charcoal, kojic and glutathione "whitening" soaps. Rinse-off, so fragrance weighs less; mild surfactants and humectants score, "fairness" and "detox" claims score nothing.',
+    file: 'nx-data-soap.js', global: 'NXPRODUCTS', facets: CORE_FACETS,
+    featured: ['ing:glycerin', 'ing:colloidal-oatmeal', 'ing:neem', 'ing:turmeric', 'ing:charcoal', 'ing:kojic-acid', 'ing:glutathione', 'ing:shea-butter', 'ing:tea-tree', 'ing:sandalwood', 'claim:whitening-claim', 'claim:acne', 'free:fragrance', 'free:sulfate', 'free:paraben', 'skin:dry', 'skin:sensitive'],
   },
   // ── Hair: dry shampoo, scalp scrub, scalp tonic, leave-in, hair spray, keratin kits, hair perfume, beard ────────
   {

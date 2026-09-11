@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-07.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-11.
 // Unknown fields are honestly marked, never invented.
 const NXPRODUCTS = [
  {
@@ -1270,7 +1270,7 @@ const NXPRODUCTS = [
   "price": 2182,
   "capacityLine": "473 ml",
   "materialLine": "Green tea + Neem + Rosemary",
-  "featureLine": "Wash / cleanser · ₹461/100ml",
+  "featureLine": "Other · ₹461/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -1287,7 +1287,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "473 ml",
    "pricePer100": "₹461/100ml",
-   "format": "Wash / cleanser",
+   "format": "Other",
    "appliesTo": "Scalp (per listing)",
    "keyIngredients": "Green tea, Neem, Rosemary, Biotin (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -67647,7 +67647,7 @@ const NXPRODUCTS = [
   "price": 140,
   "capacityLine": "100 g",
   "materialLine": "Rosemary + Onion + Amla",
-  "featureLine": "Dry shampoo · Paraben-free · ₹140/100g",
+  "featureLine": "Other · Paraben-free · ₹140/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -67664,7 +67664,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 g",
    "pricePer100": "₹140/100g",
-   "format": "Dry shampoo",
+   "format": "Other",
    "appliesTo": "Scalp + lengths (per listing)",
    "keyIngredients": "Rosemary, Onion, Amla, Hibiscus, Fenugreek (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -111006,7 +111006,7 @@ const NXPRODUCTS = [
   "price": 128,
   "capacityLine": "50 g",
   "materialLine": "Onion + Amla + Hibiscus",
-  "featureLine": "Dry shampoo · Paraben-free · ₹256/100g",
+  "featureLine": "Other · Paraben-free · ₹256/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -111023,7 +111023,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹256/100g",
-   "format": "Dry shampoo",
+   "format": "Other",
    "appliesTo": "Scalp + lengths (per listing)",
    "keyIngredients": "Onion, Amla, Hibiscus, Fenugreek (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -127547,7 +127547,7 @@ const NXPRODUCTS = [
   "price": 128,
   "capacityLine": "50 g",
   "materialLine": "Rosemary + Amla + Hibiscus",
-  "featureLine": "Dry shampoo · Paraben-free · ₹256/100g",
+  "featureLine": "Other · Paraben-free · ₹256/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -127564,7 +127564,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹256/100g",
-   "format": "Dry shampoo",
+   "format": "Other",
    "appliesTo": "Scalp + lengths (per listing)",
    "keyIngredients": "Rosemary, Amla, Hibiscus, Fenugreek (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -127903,7 +127903,7 @@ const NXPRODUCTS = [
   "price": 128,
   "capacityLine": "50 g",
   "materialLine": "Rosemary + Onion + Amla",
-  "featureLine": "Dry shampoo · Paraben-free · ₹256/100g",
+  "featureLine": "Other · Paraben-free · ₹256/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -127920,7 +127920,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹256/100g",
-   "format": "Dry shampoo",
+   "format": "Other",
    "appliesTo": "Scalp + lengths (per listing)",
    "keyIngredients": "Rosemary, Onion, Amla, Hibiscus, Fenugreek, Batana oil (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -128397,7 +128397,7 @@ const NXPRODUCTS = [
   "price": 128,
   "capacityLine": "50 g",
   "materialLine": "Neem + Rosemary + Amla",
-  "featureLine": "Dry shampoo · Paraben-free · ₹256/100g",
+  "featureLine": "Other · Paraben-free · ₹256/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -128414,7 +128414,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹256/100g",
-   "format": "Dry shampoo",
+   "format": "Other",
    "appliesTo": "Scalp + lengths (per listing)",
    "keyIngredients": "Neem, Rosemary, Amla, Hibiscus, Fenugreek (named on listing)",
    "freeFrom": "Paraben-free, Sulfate/SLS-free (seller claim — not scored)",
@@ -128516,7 +128516,7 @@ const NXPRODUCTS = [
   "price": 128,
   "capacityLine": "50 g",
   "materialLine": "Rosemary + Onion + Amla",
-  "featureLine": "Dry shampoo · Paraben-free · ₹256/100g",
+  "featureLine": "Other · Paraben-free · ₹256/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -128533,7 +128533,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹256/100g",
-   "format": "Dry shampoo",
+   "format": "Other",
    "appliesTo": "Scalp + lengths (per listing)",
    "keyIngredients": "Rosemary, Onion, Amla, Hibiscus, Fenugreek (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -140507,7 +140507,7 @@ const NXPRODUCTS = [
    "pricePer100": "₹1499/100ml",
    "format": "Dry shampoo",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Green tea, Centella / cica, Tea tree, Allantoin, Mugwort, Peppermint / menthol (named on listing)",
+   "keyIngredients": "Green tea, Centella / cica, Tea tree, Allantoin, Mugwort, Menthol, Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Itchy scalp, Oily scalp / greasiness, Scalp health, Odour / fragrance / freshness, Absorbs oil / between washes (seller claim — not clinical proof)",
@@ -140547,6 +140547,7 @@ const NXPRODUCTS = [
    "ing:tea-tree",
    "ing:allantoin",
    "ing:mugwort",
+   "ing:menthol",
    "ing:peppermint-menthol",
    "concern:scalp-itch",
    "concern:oily-scalp",
@@ -145735,7 +145736,7 @@ const NXPRODUCTS = [
   "price": 1614,
   "capacityLine": "200 ml",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Dry shampoo · ₹807/100ml",
+  "featureLine": "Other · ₹807/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -145751,7 +145752,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "200 ml",
    "pricePer100": "₹807/100ml",
-   "format": "Dry shampoo",
+   "format": "Other",
    "appliesTo": "Scalp (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",

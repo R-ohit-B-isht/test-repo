@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-07.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-11.
 // Unknown fields are honestly marked, never invented.
 const NXPRODUCTS = [
  {
@@ -1825,7 +1825,7 @@ const NXPRODUCTS = [
    "pricePer100": "₹217/100g",
    "format": "Scalp scrub",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Salicylic acid (BHA), Glycolic acid, Lactic acid, Tea tree, Charcoal, Titanium dioxide, Glycerin, Chamomile, Rosemary, Peppermint / menthol (named on listing)",
+   "keyIngredients": "Salicylic acid (BHA), Glycolic acid, Lactic acid, Tea tree, Charcoal, Titanium dioxide, Glycerin, Chamomile, Menthol, Rosemary, Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Itchy scalp, Scalp build-up / clarifying, Oily scalp / greasiness, Hair growth (claim), Damage repair, Scalp health (seller claim — not clinical proof)",
@@ -1871,6 +1871,7 @@ const NXPRODUCTS = [
    "ing:titanium-dioxide",
    "ing:glycerin",
    "ing:chamomile",
+   "ing:menthol",
    "ing:rosemary",
    "ing:peppermint-menthol",
    "concern:dandruff",
@@ -2402,7 +2403,7 @@ const NXPRODUCTS = [
   "price": 80,
   "capacityLine": "10 g",
   "materialLine": "Amla",
-  "featureLine": "Wash / cleanser · ₹800/100g",
+  "featureLine": "Other · ₹800/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -2419,7 +2420,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "10 g",
    "pricePer100": "₹800/100g",
-   "format": "Wash / cleanser",
+   "format": "Other",
    "appliesTo": "Scalp + lengths (per listing)",
    "keyIngredients": "Amla (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -2875,7 +2876,7 @@ const NXPRODUCTS = [
   "price": 80,
   "capacityLine": "150 g",
   "materialLine": "Neem + Hibiscus",
-  "featureLine": "Scalp scrub · ₹53/100g",
+  "featureLine": "Other · ₹53/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -2892,7 +2893,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "150 g",
    "pricePer100": "₹53/100g",
-   "format": "Scalp scrub",
+   "format": "Other",
    "appliesTo": "Scalp + lengths (per listing)",
    "keyIngredients": "Neem, Hibiscus (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -7298,7 +7299,7 @@ const NXPRODUCTS = [
   "price": 359,
   "capacityLine": "Quantity not stated",
   "materialLine": "Salicylic acid (BHA) + AHA",
-  "featureLine": "Scrub",
+  "featureLine": "Wash / cleanser",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -7315,7 +7316,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Scrub",
+   "format": "Wash / cleanser",
    "appliesTo": "Scalp (per listing)",
    "keyIngredients": "Salicylic acid (BHA), AHA (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -9723,7 +9724,7 @@ const NXPRODUCTS = [
    "pricePer100": "Not stated in listing",
    "format": "Scalp scrub",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Salicylic acid (BHA), Centella / cica, Aloe vera, Vitamin B5 / panthenol, Panthenol, Peppermint / menthol (named on listing)",
+   "keyIngredients": "Salicylic acid (BHA), Centella / cica, Aloe vera, Vitamin B5 / panthenol, Menthol, Panthenol, Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Itchy scalp, Scalp build-up / clarifying, Oily scalp / greasiness, Restylable / no flakes, Odour / fragrance / freshness (seller claim — not clinical proof)",
@@ -9765,6 +9766,7 @@ const NXPRODUCTS = [
    "ing:centella-cica",
    "ing:aloe-vera",
    "ing:vitamin-b5-panthenol",
+   "ing:menthol",
    "ing:panthenol",
    "ing:peppermint-menthol",
    "concern:dandruff",

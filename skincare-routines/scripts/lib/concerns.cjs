@@ -42,6 +42,7 @@ const CATEGORY_CONCERNS = {
   pigmentation: ['dark-spots'], detan: ['dark-spots'], vitaminc: ['dark-spots'],
   retinol: ['aging'], peptideserum: ['aging'],
   barriercream: ['irritation'], calmserum: ['irritation'],
+  txa: ['dark-spots'], benzoyl: ['acne'], nadnmn: ['aging'], pdrn: ['aging'],
 };
 
 /**

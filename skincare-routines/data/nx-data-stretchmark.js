@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-07.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-11.
 // Unknown fields are honestly marked, never invented.
 const NXPRODUCTS = [
  {
@@ -8,7 +8,7 @@ const NXPRODUCTS = [
   "price": 274,
   "capacityLine": "50 g",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · ₹548/100g",
+  "featureLine": "Cream · ₹548/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -25,7 +25,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹548/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -112,7 +112,7 @@ const NXPRODUCTS = [
   "price": 251,
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray",
+  "featureLine": "Cream",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -128,7 +128,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -213,7 +213,7 @@ const NXPRODUCTS = [
   "price": 280,
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray",
+  "featureLine": "Oil",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -229,7 +229,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Hair-removal cream / spray",
+   "format": "Oil",
    "appliesTo": "Not stated in listing",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -315,7 +315,7 @@ const NXPRODUCTS = [
   "price": 71,
   "capacityLine": "30 g",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · ₹237/100g",
+  "featureLine": "Gel · ₹237/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -331,7 +331,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "30 g",
    "pricePer100": "₹237/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Gel",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -1197,7 +1197,7 @@ const NXPRODUCTS = [
   "price": 175,
   "capacityLine": "240 g (pack of 4)",
   "materialLine": "Aloe vera + Vitamin E",
-  "featureLine": "Hair-removal cream / spray · ₹73/100g",
+  "featureLine": "Cream · ₹73/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -1213,7 +1213,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "60 g × 4 pack",
    "pricePer100": "₹73/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Aloe vera, Vitamin E (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -1304,7 +1304,7 @@ const NXPRODUCTS = [
   "price": 260,
   "capacityLine": "100 g",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · ₹260/100g",
+  "featureLine": "Cream · ₹260/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -1320,7 +1320,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 g",
    "pricePer100": "₹260/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -1407,7 +1407,7 @@ const NXPRODUCTS = [
   "price": 154,
   "capacityLine": "100 g",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹154/100g",
+  "featureLine": "Cream · Paraben-free · ₹154/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -1423,7 +1423,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 g",
    "pricePer100": "₹154/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Not stated in listing",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -1512,7 +1512,7 @@ const NXPRODUCTS = [
   "price": 132,
   "capacityLine": "100 g",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹132/100g",
+  "featureLine": "Cream · Paraben-free · ₹132/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -1528,7 +1528,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 g",
    "pricePer100": "₹132/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Not stated in listing",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -2046,7 +2046,7 @@ const NXPRODUCTS = [
   "price": 178,
   "capacityLine": "100 g",
   "materialLine": "Vitamin C + Retinol + Aloe vera",
-  "featureLine": "Body butter · ₹178/100g",
+  "featureLine": "Lip balm · ₹178/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -2063,7 +2063,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 g",
    "pricePer100": "₹178/100g",
-   "format": "Body butter",
+   "format": "Lip balm",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Vitamin C, Retinol, Aloe vera, Rosehip, Shea butter (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -3479,7 +3479,7 @@ const NXPRODUCTS = [
   "price": 168,
   "capacityLine": "100 ml",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹168/100ml",
+  "featureLine": "Cream · Paraben-free · ₹168/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -3495,7 +3495,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹168/100ml",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -3813,7 +3813,7 @@ const NXPRODUCTS = [
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 2.1,
+   "ingredients": 2.3,
    "skin": 7,
    "trust": 5.5,
    "experience": 6.3
@@ -3901,7 +3901,16 @@ const NXPRODUCTS = [
    "inciNote": null,
    "declarationConfidence": 0.7,
    "recognised": 1,
-   "actives": [],
+   "actives": [
+    {
+     "name": "beeswax",
+     "grade": "B",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    }
+   ],
    "support": [],
    "formulaNotes": [],
    "flags": [],
@@ -3922,7 +3931,7 @@ const NXPRODUCTS = [
   "price": 182,
   "capacityLine": "50 g",
   "materialLine": "Collagen + Coffee + Rosehip",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹364/100g",
+  "featureLine": "Cream · Paraben-free · ₹364/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -3938,7 +3947,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹364/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Collagen, Coffee, Rosehip, Almond, Shea butter, Cocoa butter, Vitamin E, Sea buckthorn (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -4313,7 +4322,7 @@ const NXPRODUCTS = [
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 2.1,
+   "ingredients": 2.3,
    "skin": 7,
    "trust": 5.5,
    "experience": 6.5
@@ -4398,7 +4407,16 @@ const NXPRODUCTS = [
    "inciNote": null,
    "declarationConfidence": 0.7,
    "recognised": 1,
-   "actives": [],
+   "actives": [
+    {
+     "name": "beeswax",
+     "grade": "B",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    }
+   ],
    "support": [],
    "formulaNotes": [],
    "flags": [],
@@ -4735,7 +4753,7 @@ const NXPRODUCTS = [
   "price": 183,
   "capacityLine": "100 g",
   "materialLine": "Lemon + Milk",
-  "featureLine": "Gel · Paraben-free · ₹183/100g",
+  "featureLine": "Cream · Paraben-free · ₹183/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -4752,7 +4770,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 g",
    "pricePer100": "₹183/100g",
-   "format": "Gel",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Lemon, Milk (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -4848,7 +4866,7 @@ const NXPRODUCTS = [
   "price": 364,
   "capacityLine": "50 g",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · ₹728/100g",
+  "featureLine": "Cream · ₹728/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -4865,7 +4883,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹728/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -6268,7 +6286,7 @@ const NXPRODUCTS = [
   "price": 364,
   "capacityLine": "50 g",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · ₹728/100g",
+  "featureLine": "Cream · ₹728/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -6285,7 +6303,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹728/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -6594,7 +6612,7 @@ const NXPRODUCTS = [
   "price": 226,
   "capacityLine": "50 g",
   "materialLine": "Rice water",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹452/100g",
+  "featureLine": "Cream · Paraben-free · ₹452/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -6611,7 +6629,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹452/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Rice water (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -6822,7 +6840,7 @@ const NXPRODUCTS = [
   "price": 190,
   "capacityLine": "50 g",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹380/100g",
+  "featureLine": "Cream · Paraben-free · ₹380/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -6839,7 +6857,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹380/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -7472,7 +7490,7 @@ const NXPRODUCTS = [
   "price": 500,
   "capacityLine": "100 g",
   "materialLine": "Watermelon",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹500/100g",
+  "featureLine": "Cream · Paraben-free · ₹500/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -7489,7 +7507,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 g",
    "pricePer100": "₹500/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Watermelon (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -7699,7 +7717,7 @@ const NXPRODUCTS = [
   "price": 300,
   "capacityLine": "100 ml",
   "materialLine": "Aloe vera + Almond + Argan oil",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹300/100ml",
+  "featureLine": "Toner · Paraben-free · ₹300/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -7715,7 +7733,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹300/100ml",
-   "format": "Hair-removal cream / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Aloe vera, Almond, Argan oil, Jojoba, Olive (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -7927,7 +7945,7 @@ const NXPRODUCTS = [
   "price": 226,
   "capacityLine": "100 g",
   "materialLine": "Niacinamide + PHA + Rose",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹226/100g",
+  "featureLine": "Body butter · Paraben-free · ₹226/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -7944,7 +7962,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 g",
    "pricePer100": "₹226/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Body butter",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Niacinamide, PHA, Rose (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -8043,7 +8061,7 @@ const NXPRODUCTS = [
   "price": 267,
   "capacityLine": "120 g",
   "materialLine": "Almond + Jojoba",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹223/100g",
+  "featureLine": "Cream · Paraben-free · ₹223/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -8060,7 +8078,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "120 g",
    "pricePer100": "₹223/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Almond, Jojoba (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -8495,7 +8513,7 @@ const NXPRODUCTS = [
   "price": 286,
   "capacityLine": "180 g",
   "materialLine": "Almond + Jojoba",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹159/100g",
+  "featureLine": "Cream · Paraben-free · ₹159/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -8512,7 +8530,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "180 g",
    "pricePer100": "₹159/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Almond, Jojoba (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -8717,7 +8735,7 @@ const NXPRODUCTS = [
   "price": 135,
   "capacityLine": "100 g",
   "materialLine": "Niacinamide",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹135/100g",
+  "featureLine": "Cream · Paraben-free · ₹135/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -8734,7 +8752,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 g",
    "pricePer100": "₹135/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Niacinamide (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -8828,7 +8846,7 @@ const NXPRODUCTS = [
   "price": 270,
   "capacityLine": "150 g (pack of 3)",
   "materialLine": "Shea butter + Vitamin E",
-  "featureLine": "Hair-removal cream / spray · ₹180/100g",
+  "featureLine": "Body butter · ₹180/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -8845,7 +8863,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g × 3 pack",
    "pricePer100": "₹180/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Body butter",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Shea butter, Vitamin E (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -9364,7 +9382,7 @@ const NXPRODUCTS = [
   "price": 361,
   "capacityLine": "50 g",
   "materialLine": "Turmeric + Saffron + Ubtan",
-  "featureLine": "Hair-removal cream / spray · ₹722/100g",
+  "featureLine": "Cream · ₹722/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -9381,7 +9399,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹722/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Turmeric, Saffron, Ubtan (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -9693,7 +9711,7 @@ const NXPRODUCTS = [
   "price": 157,
   "capacityLine": "50 g",
   "materialLine": "Vitamin E",
-  "featureLine": "Hair-removal cream / spray · ₹314/100g",
+  "featureLine": "Cream · ₹314/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -9710,7 +9728,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹314/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Vitamin E (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -9801,7 +9819,7 @@ const NXPRODUCTS = [
   "price": 541,
   "capacityLine": "100 g",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹541/100g",
+  "featureLine": "Cream · Paraben-free · ₹541/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -9818,7 +9836,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 g",
    "pricePer100": "₹541/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -11184,7 +11202,7 @@ const NXPRODUCTS = [
   "price": 120,
   "capacityLine": "100 ml",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · ₹120/100ml",
+  "featureLine": "Oil · ₹120/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -11200,7 +11218,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹120/100ml",
-   "format": "Hair-removal cream / spray",
+   "format": "Oil",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -11393,7 +11411,7 @@ const NXPRODUCTS = [
   "price": 198,
   "capacityLine": "50 g",
   "materialLine": "Collagen + Coffee + Rosehip",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹396/100g",
+  "featureLine": "Cream · Paraben-free · ₹396/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -11409,7 +11427,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹396/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Collagen, Coffee, Rosehip, Almond, Shea butter, Cocoa butter, Vitamin E, Sea buckthorn (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -11725,7 +11743,7 @@ const NXPRODUCTS = [
   "price": 139,
   "capacityLine": "50 g",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹278/100g",
+  "featureLine": "Cream · Paraben-free · ₹278/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -11741,7 +11759,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹278/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -11930,7 +11948,7 @@ const NXPRODUCTS = [
   "price": 157,
   "capacityLine": "100 ml",
   "materialLine": "Almond + Shea butter + Olive",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹157/100ml",
+  "featureLine": "Cream · Paraben-free · ₹157/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -11946,7 +11964,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹157/100ml",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Almond, Shea butter, Olive (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -12248,7 +12266,7 @@ const NXPRODUCTS = [
   "price": 330,
   "capacityLine": "50 g",
   "materialLine": "Collagen + Coffee + Rosehip",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹660/100g",
+  "featureLine": "Cream · Paraben-free · ₹660/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -12264,7 +12282,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹660/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Collagen, Coffee, Rosehip, Almond, Shea butter, Cocoa butter, Vitamin E, Sea buckthorn (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -12584,7 +12602,7 @@ const NXPRODUCTS = [
   "price": 187,
   "capacityLine": "180 ml",
   "materialLine": "Collagen + Aloe vera + Almond",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹104/100ml",
+  "featureLine": "Cream · Paraben-free · ₹104/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -12600,7 +12618,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "180 ml",
    "pricePer100": "₹104/100ml",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Collagen, Aloe vera, Almond, Shea butter (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -12697,7 +12715,7 @@ const NXPRODUCTS = [
   "price": 140,
   "capacityLine": "100 ml",
   "materialLine": "Rose",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹140/100ml",
+  "featureLine": "Cream · Paraben-free · ₹140/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "Well-reviewed: 4.4★ from 28 ratings"
@@ -12715,7 +12733,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹140/100ml",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -12806,7 +12824,7 @@ const NXPRODUCTS = [
   "price": 183,
   "capacityLine": "180 ml",
   "materialLine": "Niacinamide + Aloe vera + Almond",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · SPF 50 · ₹102/100ml",
+  "featureLine": "Cream · Paraben-free · SPF 50 · ₹102/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "Well-reviewed: 4.4★ from 44 ratings"
@@ -12824,7 +12842,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "180 ml",
    "pricePer100": "₹102/100ml",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Niacinamide, Aloe vera, Almond (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -13253,7 +13271,7 @@ const NXPRODUCTS = [
   "price": 198,
   "capacityLine": "180 ml",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · ₹110/100ml",
+  "featureLine": "Cream · ₹110/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "Well-reviewed: 4.8★ from 23 ratings"
@@ -13271,7 +13289,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "180 ml",
    "pricePer100": "₹110/100ml",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -13357,7 +13375,7 @@ const NXPRODUCTS = [
   "price": 182,
   "capacityLine": "50 g",
   "materialLine": "Collagen + Coffee + Rosehip",
-  "featureLine": "Hair-removal cream / spray · ₹364/100g",
+  "featureLine": "Cream · ₹364/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -13373,7 +13391,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹364/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Collagen, Coffee, Rosehip, Almond, Shea butter, Cocoa butter, Vitamin E, Sea buckthorn (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -14456,7 +14474,7 @@ const NXPRODUCTS = [
   "price": 380,
   "capacityLine": "50 g",
   "materialLine": "Collagen + Coffee + Rosehip",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹760/100g",
+  "featureLine": "Cream · Paraben-free · ₹760/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "Well-reviewed: 5★ from 5 ratings"
@@ -14474,7 +14492,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹760/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Collagen, Coffee, Rosehip, Almond, Shea butter, Cocoa butter, Vitamin E, Sea buckthorn (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -14781,7 +14799,7 @@ const NXPRODUCTS = [
   "price": 162,
   "capacityLine": "50 g",
   "materialLine": "Hyaluronic acid + Shea butter + Licorice",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹324/100g",
+  "featureLine": "Cream · Paraben-free · ₹324/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -14798,7 +14816,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹324/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Hyaluronic acid, Shea butter, Licorice, Vitamin E, Glycerin, Lavender (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -15153,7 +15171,7 @@ const NXPRODUCTS = [
    "pricePer100": "₹197/100g",
    "format": "Cream",
    "appliesTo": "Face + body (per listing)",
-   "keyIngredients": "Glycolic acid, Rosehip, Shea butter, Cocoa butter, Vitamin E, Glycerin, Chamomile (named on listing)",
+   "keyIngredients": "Glycolic acid, Rosehip, Shea butter, Cocoa butter, Vitamin E, Glycerin, Chamomile, Beeswax (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
@@ -15193,6 +15211,7 @@ const NXPRODUCTS = [
    "ing:vitamin-e",
    "ing:glycerin",
    "ing:chamomile",
+   "ing:beeswax",
    "claim:anti-aging",
    "claim:exfoliating",
    "claim:stretch-marks",
@@ -15695,7 +15714,7 @@ const NXPRODUCTS = [
   "price": 130,
   "capacityLine": "100 g",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹130/100g",
+  "featureLine": "Cream · Paraben-free · ₹130/100g",
   "highlight": "Live Flipkart listing. Scored from its published INCI list (Flipkart listing — Composition field): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "glycerin high on the INCI list (strong evidence); butyrospermum parkii butter high on the INCI list (moderate evidence)",
@@ -15714,7 +15733,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 g",
    "pricePer100": "₹130/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -15877,7 +15896,7 @@ const NXPRODUCTS = [
   "price": 255,
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray",
+  "featureLine": "Cream",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -15893,7 +15912,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Not stated in listing",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -16089,7 +16108,7 @@ const NXPRODUCTS = [
   "price": 225,
   "capacityLine": "30 g",
   "materialLine": "Aloe vera + Vitamin E + Allantoin",
-  "featureLine": "Hair-removal cream / spray · ₹750/100g",
+  "featureLine": "Gel · ₹750/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -16106,7 +16125,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "30 g",
    "pricePer100": "₹750/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Gel",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Aloe vera, Vitamin E, Allantoin, Glycerin, Cherry / acerola, Mineral oil (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -16525,7 +16544,7 @@ const NXPRODUCTS = [
   "price": 110,
   "capacityLine": "60 g",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · ₹183/100g",
+  "featureLine": "Cream · ₹183/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "Well-reviewed: 4.5★ from 22 ratings"
@@ -16543,7 +16562,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "60 g",
    "pricePer100": "₹183/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -16637,7 +16656,7 @@ const NXPRODUCTS = [
   "price": 182,
   "capacityLine": "50 g",
   "materialLine": "Collagen + Coffee + Rosehip",
-  "featureLine": "Hair-removal cream / spray · ₹364/100g",
+  "featureLine": "Cream · ₹364/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -16654,7 +16673,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹364/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Collagen, Coffee, Rosehip, Almond, Shea butter, Cocoa butter, Vitamin E, Sea buckthorn (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -17548,7 +17567,7 @@ const NXPRODUCTS = [
   "price": 182,
   "capacityLine": "50 g",
   "materialLine": "Collagen + Coffee + Rosehip",
-  "featureLine": "Hair-removal cream / spray · ₹364/100g",
+  "featureLine": "Cream · ₹364/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -17564,7 +17583,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹364/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Collagen, Coffee, Rosehip, Almond, Shea butter, Cocoa butter, Vitamin E, Sea buckthorn (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -17771,7 +17790,7 @@ const NXPRODUCTS = [
   "price": 174,
   "capacityLine": "98 g",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹178/100g",
+  "featureLine": "Cream · Paraben-free · ₹178/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -17788,7 +17807,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "98 g",
    "pricePer100": "₹178/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -18215,7 +18234,7 @@ const NXPRODUCTS = [
   "price": 283,
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray",
+  "featureLine": "Cream",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -18231,7 +18250,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Not stated in listing",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -18426,7 +18445,7 @@ const NXPRODUCTS = [
   "price": 170,
   "capacityLine": "200 g",
   "materialLine": "Aloe vera + Shea butter + Cocoa butter",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹85/100g",
+  "featureLine": "Cream · Paraben-free · ₹85/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "Well-reviewed: 5★ from 28 ratings"
@@ -18444,7 +18463,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "200 g",
    "pricePer100": "₹85/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Aloe vera, Shea butter, Cocoa butter, Vitamin E (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -18544,7 +18563,7 @@ const NXPRODUCTS = [
   "price": 98,
   "capacityLine": "60 ml",
   "materialLine": "Shea butter",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹163/100ml",
+  "featureLine": "Cream · Paraben-free · ₹163/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -18561,7 +18580,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "60 ml",
    "pricePer100": "₹163/100ml",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Shea butter (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -18656,7 +18675,7 @@ const NXPRODUCTS = [
   "price": 842,
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Cream",
+  "featureLine": "Other",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -18672,7 +18691,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Cream",
+   "format": "Other",
    "appliesTo": "Not stated in listing",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -18758,7 +18777,7 @@ const NXPRODUCTS = [
   "price": 111,
   "capacityLine": "100 ml",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · ₹111/100ml",
+  "featureLine": "Cream · ₹111/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "Well-reviewed: 4.5★ from 98 ratings"
@@ -18776,7 +18795,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹111/100ml",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -18862,7 +18881,7 @@ const NXPRODUCTS = [
   "price": 154,
   "capacityLine": "50 g",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹308/100g",
+  "featureLine": "Cream · Paraben-free · ₹308/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -18879,7 +18898,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹308/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -18972,7 +18991,7 @@ const NXPRODUCTS = [
   "price": 364,
   "capacityLine": "50 g",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · ₹728/100g",
+  "featureLine": "Cream · ₹728/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -18989,7 +19008,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹728/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -19081,7 +19100,7 @@ const NXPRODUCTS = [
   "price": 182,
   "capacityLine": "50 g",
   "materialLine": "Collagen + Coffee + Rosehip",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹364/100g",
+  "featureLine": "Cream · Paraben-free · ₹364/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "Well-reviewed: 4.8★ from 8 ratings"
@@ -19099,7 +19118,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹364/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Collagen, Coffee, Rosehip, Almond, Shea butter, Cocoa butter, Vitamin E, Sea buckthorn (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -19397,7 +19416,7 @@ const NXPRODUCTS = [
   "price": 247,
   "capacityLine": "120 ml",
   "materialLine": "Vitamin C",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹206/100ml",
+  "featureLine": "Cream · Paraben-free · ₹206/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "Well-reviewed: 4.3★ from 32 ratings"
@@ -19415,7 +19434,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "120 ml",
    "pricePer100": "₹206/100ml",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Vitamin C (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -19509,7 +19528,7 @@ const NXPRODUCTS = [
   "price": 182,
   "capacityLine": "50 g",
   "materialLine": "Collagen + Coffee + Rosehip",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹364/100g",
+  "featureLine": "Cream · Paraben-free · ₹364/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -19525,7 +19544,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹364/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Collagen, Coffee, Rosehip, Almond, Shea butter, Cocoa butter, Vitamin E, Sea buckthorn (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -19724,7 +19743,7 @@ const NXPRODUCTS = [
   "price": 217,
   "capacityLine": "60 ml",
   "materialLine": "Vitamin C",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹362/100ml",
+  "featureLine": "Cream · Paraben-free · ₹362/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -19740,7 +19759,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "60 ml",
    "pricePer100": "₹362/100ml",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Vitamin C (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -19934,7 +19953,7 @@ const NXPRODUCTS = [
   "price": 148,
   "capacityLine": "101 ml",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · ₹147/100ml",
+  "featureLine": "Cream · ₹147/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -19950,7 +19969,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "101 ml",
    "pricePer100": "₹147/100ml",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -20151,7 +20170,7 @@ const NXPRODUCTS = [
   "price": 232,
   "capacityLine": "60 ml",
   "materialLine": "Vitamin C",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹387/100ml",
+  "featureLine": "Cream · Paraben-free · ₹387/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -20167,7 +20186,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "60 ml",
    "pricePer100": "₹387/100ml",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Vitamin C (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -20373,7 +20392,7 @@ const NXPRODUCTS = [
   "price": 127,
   "capacityLine": "50 g",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹254/100g",
+  "featureLine": "Cream · Paraben-free · ₹254/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "Well-reviewed: 4.3★ from 36 ratings"
@@ -20391,7 +20410,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹254/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -20688,7 +20707,7 @@ const NXPRODUCTS = [
   "price": 230,
   "capacityLine": "60 ml",
   "materialLine": "Vitamin C",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹383/100ml",
+  "featureLine": "Cream · Paraben-free · ₹383/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -20704,7 +20723,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "60 ml",
    "pricePer100": "₹383/100ml",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Vitamin C (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -21240,7 +21259,7 @@ const NXPRODUCTS = [
   "price": 266,
   "capacityLine": "25 ml",
   "materialLine": "Shea butter + Cocoa butter + Coconut",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹1064/100ml",
+  "featureLine": "Cream · Paraben-free · ₹1064/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -21257,7 +21276,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "25 ml",
    "pricePer100": "₹1064/100ml",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Shea butter, Cocoa butter, Coconut (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -21354,7 +21373,7 @@ const NXPRODUCTS = [
   "price": 198,
   "capacityLine": "200 g",
   "materialLine": "Rose + Almond + Shea butter",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹99/100g",
+  "featureLine": "Oil · Paraben-free · ₹99/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -21370,7 +21389,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "200 g",
    "pricePer100": "₹99/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Oil",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Rose, Almond, Shea butter, Cocoa butter, Licorice, Olive (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -21467,7 +21486,7 @@ const NXPRODUCTS = [
   "price": 135,
   "capacityLine": "5 g",
   "materialLine": "Aloe vera + Honey + Almond",
-  "featureLine": "Hair-removal cream / spray · ₹2700/100g",
+  "featureLine": "Cream · ₹2700/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -21484,7 +21503,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "5 g",
    "pricePer100": "₹2700/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Aloe vera, Honey, Almond (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -21587,7 +21606,7 @@ const NXPRODUCTS = [
   "price": 254,
   "capacityLine": "100 g",
   "materialLine": "Almond + Vitamin E + Olive",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹254/100g",
+  "featureLine": "Cream · Paraben-free · ₹254/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -21604,7 +21623,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 g",
    "pricePer100": "₹254/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Almond, Vitamin E, Olive (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -21813,7 +21832,7 @@ const NXPRODUCTS = [
   "price": 120,
   "capacityLine": "50 g",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹240/100g",
+  "featureLine": "Cream · Paraben-free · ₹240/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -21829,7 +21848,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹240/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -21916,7 +21935,7 @@ const NXPRODUCTS = [
   "price": 376,
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray",
+  "featureLine": "Cream",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -21932,7 +21951,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -22237,7 +22256,7 @@ const NXPRODUCTS = [
   "price": 209,
   "capacityLine": "100 g",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹209/100g",
+  "featureLine": "Cream · Paraben-free · ₹209/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -22253,7 +22272,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 g",
    "pricePer100": "₹209/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -22342,7 +22361,7 @@ const NXPRODUCTS = [
   "price": 163,
   "capacityLine": "100 g",
   "materialLine": "Aloe vera + Vitamin E",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹163/100g",
+  "featureLine": "Cream · Paraben-free · ₹163/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -22359,7 +22378,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 g",
    "pricePer100": "₹163/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Aloe vera, Vitamin E (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -22452,7 +22471,7 @@ const NXPRODUCTS = [
   "price": 148,
   "capacityLine": "50 g",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹296/100g",
+  "featureLine": "Cream · Paraben-free · ₹296/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -22468,7 +22487,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹296/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -22556,7 +22575,7 @@ const NXPRODUCTS = [
   "price": 265,
   "capacityLine": "60 ml",
   "materialLine": "Vitamin C",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹442/100ml",
+  "featureLine": "Cream · Paraben-free · ₹442/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -22573,7 +22592,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "60 ml",
    "pricePer100": "₹442/100ml",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Vitamin C (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -23648,7 +23667,7 @@ const NXPRODUCTS = [
   "price": 373,
   "capacityLine": "200 g",
   "materialLine": "Centella / cica + Rose + Almond",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹187/100g",
+  "featureLine": "Oil · Paraben-free · ₹187/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -23664,7 +23683,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "200 g",
    "pricePer100": "₹187/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Oil",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Centella / cica, Rose, Almond, Shea butter, Cocoa butter, Licorice, Olive (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -24084,7 +24103,7 @@ const NXPRODUCTS = [
   "price": 228,
   "capacityLine": "50 g",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹456/100g",
+  "featureLine": "Cream · Paraben-free · ₹456/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -24101,7 +24120,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹456/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -24861,7 +24880,7 @@ const NXPRODUCTS = [
   "price": 191,
   "capacityLine": "50 g",
   "materialLine": "Petrolatum + Almond + Shea butter",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹382/100g",
+  "featureLine": "Cream · Paraben-free · ₹382/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -24878,7 +24897,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹382/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Petrolatum, Almond, Shea butter, Vitamin E (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -25092,7 +25111,7 @@ const NXPRODUCTS = [
   "price": 300,
   "capacityLine": "100 g",
   "materialLine": "Collagen + Almond + Shea butter",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹300/100g",
+  "featureLine": "Toner · Paraben-free · ₹300/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -25108,7 +25127,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 g",
    "pricePer100": "₹300/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Toner",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Collagen, Almond, Shea butter, Avocado (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -25997,7 +26016,7 @@ const NXPRODUCTS = [
   "price": 107,
   "capacityLine": "60 g",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · ₹178/100g",
+  "featureLine": "Gel · ₹178/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "Well-reviewed: 4.5★ from 31 ratings"
@@ -26015,7 +26034,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "60 g",
    "pricePer100": "₹178/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Gel",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -27402,7 +27421,7 @@ const NXPRODUCTS = [
   "price": 523,
   "capacityLine": "30 ml",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · ₹1743/100ml",
+  "featureLine": "Oil · ₹1743/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -27418,7 +27437,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "30 ml",
    "pricePer100": "₹1743/100ml",
-   "format": "Hair-removal cream / spray",
+   "format": "Oil",
    "appliesTo": "Not stated in listing",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -31730,7 +31749,7 @@ const NXPRODUCTS = [
   "price": 58,
   "capacityLine": "400 ml",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Oil · ₹15/100ml",
+  "featureLine": "Other · ₹15/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -31747,7 +31766,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "400 ml",
    "pricePer100": "₹15/100ml",
-   "format": "Oil",
+   "format": "Other",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -35033,7 +35052,7 @@ const NXPRODUCTS = [
   "price": 226,
   "capacityLine": "100 g",
   "materialLine": "Niacinamide + Salicylic acid (BHA) + AHA",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹226/100g",
+  "featureLine": "Balm · Paraben-free · ₹226/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -35050,7 +35069,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 g",
    "pricePer100": "₹226/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Balm",
    "appliesTo": "Not stated in listing",
    "keyIngredients": "Niacinamide, Salicylic acid (BHA), AHA (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -35684,7 +35703,7 @@ const NXPRODUCTS = [
   "price": 417,
   "capacityLine": "400 g",
   "materialLine": "Saffron",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹104/100g",
+  "featureLine": "Cream · Paraben-free · ₹104/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -35700,7 +35719,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "400 g",
    "pricePer100": "₹104/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Saffron (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -36013,7 +36032,7 @@ const NXPRODUCTS = [
   "price": 498,
   "capacityLine": "100 g (pack of 2)",
   "materialLine": "Green tea + Rose + Charcoal",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹498/100g",
+  "featureLine": "Oil · Paraben-free · ₹498/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -36030,7 +36049,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g × 2 pack",
    "pricePer100": "₹498/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Oil",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Green tea, Rose, Charcoal, Rosehip, Shea butter, Cocoa butter (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -36244,7 +36263,7 @@ const NXPRODUCTS = [
   "price": 270,
   "capacityLine": "100 ml",
   "materialLine": "Collagen + Shea butter + Lemon",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹270/100ml",
+  "featureLine": "Oil · Paraben-free · ₹270/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -36260,7 +36279,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹270/100ml",
-   "format": "Hair-removal cream / spray",
+   "format": "Oil",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Collagen, Shea butter, Lemon (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -37660,7 +37679,7 @@ const NXPRODUCTS = [
   "price": 165,
   "capacityLine": "50 g",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · ₹330/100g",
+  "featureLine": "Cream · ₹330/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -37677,7 +37696,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹330/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -37871,7 +37890,7 @@ const NXPRODUCTS = [
   "price": 220,
   "capacityLine": "60 ml",
   "materialLine": "Vitamin C + Rosehip + Shea butter",
-  "featureLine": "Hair-removal cream / spray · ₹367/100ml",
+  "featureLine": "Body butter · ₹367/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -37888,7 +37907,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "60 ml",
    "pricePer100": "₹367/100ml",
-   "format": "Hair-removal cream / spray",
+   "format": "Body butter",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Vitamin C, Rosehip, Shea butter (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -37983,7 +38002,7 @@ const NXPRODUCTS = [
   "price": 228,
   "capacityLine": "50 ml",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Cream · ₹456/100ml",
+  "featureLine": "Other · ₹456/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -38000,7 +38019,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 ml",
    "pricePer100": "₹456/100ml",
-   "format": "Cream",
+   "format": "Other",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -38195,7 +38214,7 @@ const NXPRODUCTS = [
   "price": 292,
   "capacityLine": "50 g",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · ₹584/100g",
+  "featureLine": "Cream · ₹584/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -38212,7 +38231,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹584/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -38304,7 +38323,7 @@ const NXPRODUCTS = [
   "price": 144,
   "capacityLine": "50 ml",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · ₹288/100ml",
+  "featureLine": "Cream · ₹288/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -38321,7 +38340,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 ml",
    "pricePer100": "₹288/100ml",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -38414,7 +38433,7 @@ const NXPRODUCTS = [
   "price": 154,
   "capacityLine": "50 g",
   "materialLine": "Hyaluronic acid + Centella / cica + Almond",
-  "featureLine": "Hair-removal cream / spray · ₹308/100g",
+  "featureLine": "Cream · ₹308/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -38431,7 +38450,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹308/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Hyaluronic acid, Centella / cica, Almond, Shea butter, Licorice, Olive (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -38523,7 +38542,7 @@ const NXPRODUCTS = [
   "price": 198,
   "capacityLine": "50 g",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · ₹396/100g",
+  "featureLine": "Cream · ₹396/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -38540,7 +38559,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹396/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -38737,7 +38756,7 @@ const NXPRODUCTS = [
   "price": 292,
   "capacityLine": "50 g",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · ₹584/100g",
+  "featureLine": "Cream · ₹584/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -38754,7 +38773,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹584/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -39507,7 +39526,7 @@ const NXPRODUCTS = [
   "price": 179,
   "capacityLine": "99 g",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹181/100g",
+  "featureLine": "Cream · Paraben-free · ₹181/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -39524,7 +39543,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "99 g",
    "pricePer100": "₹181/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -40581,7 +40600,7 @@ const NXPRODUCTS = [
   "price": 198,
   "capacityLine": "50 g",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · ₹396/100g",
+  "featureLine": "Cream · ₹396/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -40597,7 +40616,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹396/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -40790,7 +40809,7 @@ const NXPRODUCTS = [
   "price": 234,
   "capacityLine": "100 ml",
   "materialLine": "Almond",
-  "featureLine": "Hair-removal cream / spray · ₹234/100ml",
+  "featureLine": "Cream · ₹234/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "Well-reviewed: 4.7★ from 10 ratings"
@@ -40808,7 +40827,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹234/100ml",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Almond (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -40901,7 +40920,7 @@ const NXPRODUCTS = [
   "price": 136,
   "capacityLine": "50 ml",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · ₹272/100ml",
+  "featureLine": "Cream · ₹272/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "Well-reviewed: 4.7★ from 130 ratings"
@@ -40919,7 +40938,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 ml",
    "pricePer100": "₹272/100ml",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -41109,7 +41128,7 @@ const NXPRODUCTS = [
   "price": 261,
   "capacityLine": "50 g",
   "materialLine": "Vitamin E",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹522/100g",
+  "featureLine": "Cream · Paraben-free · ₹522/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -41126,7 +41145,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹522/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Vitamin E (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -41550,7 +41569,7 @@ const NXPRODUCTS = [
   "price": 301,
   "capacityLine": "100 g (pack of 2)",
   "materialLine": "Vitamin C + Pearl",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹301/100g",
+  "featureLine": "Cream · Paraben-free · ₹301/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -41567,7 +41586,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g × 2 pack",
    "pricePer100": "₹301/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Vitamin C, Pearl (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -41995,7 +42014,7 @@ const NXPRODUCTS = [
   "price": 118,
   "capacityLine": "50 g",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · ₹236/100g",
+  "featureLine": "Cream · ₹236/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -42011,7 +42030,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹236/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -42100,7 +42119,7 @@ const NXPRODUCTS = [
   "price": 77,
   "capacityLine": "100 g (pack of 2)",
   "materialLine": "Aloe vera + Shea butter + Cocoa butter",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹77/100g",
+  "featureLine": "Cream · Paraben-free · ₹77/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -42117,7 +42136,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g × 2 pack",
    "pricePer100": "₹77/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Aloe vera, Shea butter, Cocoa butter, Vitamin E, Argan oil, Jojoba, Avocado (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -42655,7 +42674,7 @@ const NXPRODUCTS = [
   "price": 88,
   "capacityLine": "50 g",
   "materialLine": "Aloe vera + Almond + Cocoa butter",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹176/100g",
+  "featureLine": "Cream · Paraben-free · ₹176/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -42672,7 +42691,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹176/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Aloe vera, Almond, Cocoa butter, Jojoba, Coconut, Cherry / acerola, Olive (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -42776,7 +42795,7 @@ const NXPRODUCTS = [
   "price": 385,
   "capacityLine": "50 g",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹770/100g",
+  "featureLine": "Cream · Paraben-free · ₹770/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "Well-reviewed: 4.3★ from 36 ratings"
@@ -42794,7 +42813,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹770/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -42881,7 +42900,7 @@ const NXPRODUCTS = [
   "price": 330,
   "capacityLine": "50 g",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹660/100g",
+  "featureLine": "Cream · Paraben-free · ₹660/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "Well-reviewed: 4.3★ from 36 ratings"
@@ -42899,7 +42918,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹660/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -43094,7 +43113,7 @@ const NXPRODUCTS = [
   "price": 500,
   "capacityLine": "100 g",
   "materialLine": "Watermelon",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹500/100g",
+  "featureLine": "Cream · Paraben-free · ₹500/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -43111,7 +43130,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 g",
    "pricePer100": "₹500/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Watermelon (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -43205,7 +43224,7 @@ const NXPRODUCTS = [
   "price": 271,
   "capacityLine": "50 g",
   "materialLine": "Vitamin C + Hyaluronic acid",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹542/100g",
+  "featureLine": "Cream · Paraben-free · ₹542/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -43222,7 +43241,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹542/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Vitamin C, Hyaluronic acid (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -43532,7 +43551,7 @@ const NXPRODUCTS = [
   "price": 333,
   "capacityLine": "50 g",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · ₹666/100g",
+  "featureLine": "Cream · ₹666/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -43549,7 +43568,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹666/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -43742,7 +43761,7 @@ const NXPRODUCTS = [
   "price": 314,
   "capacityLine": "50 g",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · ₹628/100g",
+  "featureLine": "Cream · ₹628/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -43759,7 +43778,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹628/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -43851,7 +43870,7 @@ const NXPRODUCTS = [
   "price": 182,
   "capacityLine": "50 g",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · ₹364/100g",
+  "featureLine": "Cream · ₹364/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "Well-reviewed: 4.4★ from 22 ratings"
@@ -43869,7 +43888,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹364/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -44172,7 +44191,7 @@ const NXPRODUCTS = [
   "price": 541,
   "capacityLine": "100 g",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Lotion · Paraben-free · ₹541/100g",
+  "featureLine": "Cream · Paraben-free · ₹541/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -44189,7 +44208,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 g",
    "pricePer100": "₹541/100g",
-   "format": "Lotion",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -44485,7 +44504,7 @@ const NXPRODUCTS = [
   "price": 115,
   "capacityLine": "100 ml",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹115/100ml",
+  "featureLine": "Oil · Paraben-free · ₹115/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -44501,7 +44520,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹115/100ml",
-   "format": "Hair-removal cream / spray",
+   "format": "Oil",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Paraben-free, Sulfate/SLS-free (seller claim — not scored)",
@@ -44590,7 +44609,7 @@ const NXPRODUCTS = [
   "price": 182,
   "capacityLine": "50 g",
   "materialLine": "Collagen + Vitamin E + Sea buckthorn",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹364/100g",
+  "featureLine": "Cream · Paraben-free · ₹364/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -44606,7 +44625,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹364/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Not stated in listing",
    "keyIngredients": "Collagen, Vitamin E, Sea buckthorn (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -44696,7 +44715,7 @@ const NXPRODUCTS = [
   "price": 216,
   "capacityLine": "70 g",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · ₹309/100g",
+  "featureLine": "Cream · ₹309/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -44712,7 +44731,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "70 g",
    "pricePer100": "₹309/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -44907,7 +44926,7 @@ const NXPRODUCTS = [
   "price": 62,
   "capacityLine": "60 ml",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹103/100ml",
+  "featureLine": "Cream · Paraben-free · ₹103/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -44923,7 +44942,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "60 ml",
    "pricePer100": "₹103/100ml",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Paraben-free, Sulfate/SLS-free (seller claim — not scored)",
@@ -45440,7 +45459,7 @@ const NXPRODUCTS = [
   "price": 295,
   "capacityLine": "100 g",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹295/100g",
+  "featureLine": "Oil · Paraben-free · ₹295/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -45456,7 +45475,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 g",
    "pricePer100": "₹295/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Oil",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -45547,7 +45566,7 @@ const NXPRODUCTS = [
   "price": 157,
   "capacityLine": "30 ml",
   "materialLine": "Turmeric + Almond + Coconut",
-  "featureLine": "Hair-removal cream / spray · ₹523/100ml",
+  "featureLine": "Oil · ₹523/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -45563,7 +45582,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "30 ml",
    "pricePer100": "₹523/100ml",
-   "format": "Hair-removal cream / spray",
+   "format": "Oil",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Turmeric, Almond, Coconut (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -45868,7 +45887,7 @@ const NXPRODUCTS = [
   "price": 261,
   "capacityLine": "150 g",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Oil · ₹174/100g",
+  "featureLine": "Other · ₹174/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -45884,7 +45903,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "150 g",
    "pricePer100": "₹174/100g",
-   "format": "Oil",
+   "format": "Other",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -46300,7 +46319,7 @@ const NXPRODUCTS = [
   "price": 139,
   "capacityLine": "120 g",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹116/100g",
+  "featureLine": "Cream · Paraben-free · ₹116/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -46316,7 +46335,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "120 g",
    "pricePer100": "₹116/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Paraben-free, Sulfate/SLS-free (seller claim — not scored)",
@@ -46513,7 +46532,7 @@ const NXPRODUCTS = [
   "price": 180,
   "capacityLine": "50 g",
   "materialLine": "Collagen + Coffee + Rosehip",
-  "featureLine": "Hair-removal cream / spray · ₹360/100g",
+  "featureLine": "Cream · ₹360/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "Well-reviewed: 4.9★ from 9 ratings"
@@ -46531,7 +46550,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹360/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Collagen, Coffee, Rosehip, Almond, Shea butter, Cocoa butter, Vitamin E, Sea buckthorn (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -46836,7 +46855,7 @@ const NXPRODUCTS = [
   "price": 287,
   "capacityLine": "60 ml",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹478/100ml",
+  "featureLine": "Cream · Paraben-free · ₹478/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "Well-reviewed: 5★ from 3 ratings"
@@ -46854,7 +46873,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "60 ml",
    "pricePer100": "₹478/100ml",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Paraben-free, Sulfate/SLS-free (seller claim — not scored)",
@@ -46942,7 +46961,7 @@ const NXPRODUCTS = [
   "price": 138,
   "capacityLine": "50 g",
   "materialLine": "Vitamin C",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹276/100g",
+  "featureLine": "Cream · Paraben-free · ₹276/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -46959,7 +46978,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹276/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Vitamin C (named on listing)",
    "freeFrom": "Paraben-free, Sulfate/SLS-free (seller claim — not scored)",
@@ -47161,7 +47180,7 @@ const NXPRODUCTS = [
   "price": 160,
   "capacityLine": "100 g",
   "materialLine": "Vitamin C",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹160/100g",
+  "featureLine": "Cream · Paraben-free · ₹160/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -47178,7 +47197,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 g",
    "pricePer100": "₹160/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Vitamin C (named on listing)",
    "freeFrom": "Paraben-free, Sulfate/SLS-free (seller claim — not scored)",
@@ -47273,7 +47292,7 @@ const NXPRODUCTS = [
   "price": 255,
   "capacityLine": "100 g",
   "materialLine": "Niacinamide + Hyaluronic acid + Centella / cica",
-  "featureLine": "Body butter · ₹255/100g",
+  "featureLine": "Other · ₹255/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -47290,7 +47309,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 g",
    "pricePer100": "₹255/100g",
-   "format": "Body butter",
+   "format": "Other",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Niacinamide, Hyaluronic acid, Centella / cica, Aloe vera, Almond, Shea butter, Licorice, Coconut, Olive (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -48670,7 +48689,7 @@ const NXPRODUCTS = [
   "price": 182,
   "capacityLine": "50 g",
   "materialLine": "Collagen + Coffee + Rosehip",
-  "featureLine": "Hair-removal cream / spray · ₹364/100g",
+  "featureLine": "Cream · ₹364/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "Well-reviewed: 5★ from 8 ratings"
@@ -48688,7 +48707,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹364/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Collagen, Coffee, Rosehip, Almond, Shea butter, Cocoa butter, Vitamin E, Sea buckthorn (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -48787,7 +48806,7 @@ const NXPRODUCTS = [
   "price": 311,
   "capacityLine": "200 g (pack of 2)",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · ₹156/100g",
+  "featureLine": "Cream · ₹156/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "Well-reviewed: 5★ from 8 ratings"
@@ -48805,7 +48824,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 g × 2 pack",
    "pricePer100": "₹156/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -48995,7 +49014,7 @@ const NXPRODUCTS = [
   "price": 336,
   "capacityLine": "200 g (pack of 2)",
   "materialLine": "Collagen + Coffee + Rosehip",
-  "featureLine": "Hair-removal cream / spray · ₹168/100g",
+  "featureLine": "Cream · ₹168/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -49012,7 +49031,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 g × 2 pack",
    "pricePer100": "₹168/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Collagen, Coffee, Rosehip, Almond, Shea butter, Cocoa butter, Vitamin E, Sea buckthorn (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -49553,7 +49572,7 @@ const NXPRODUCTS = [
   "price": 295,
   "capacityLine": "200 ml",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹148/100ml",
+  "featureLine": "Oil · Paraben-free · ₹148/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -49569,7 +49588,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "200 ml",
    "pricePer100": "₹148/100ml",
-   "format": "Hair-removal cream / spray",
+   "format": "Oil",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -49885,7 +49904,7 @@ const NXPRODUCTS = [
   "price": 250,
   "capacityLine": "50 g",
   "materialLine": "Collagen + Rosehip + Almond",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹500/100g",
+  "featureLine": "Cream · Paraben-free · ₹500/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -49902,7 +49921,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹500/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Collagen, Rosehip, Almond, Shea butter, Cocoa butter, Vitamin E, Glycerin (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -50468,7 +50487,7 @@ const NXPRODUCTS = [
   "price": 80,
   "capacityLine": "50 g",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹160/100g",
+  "featureLine": "Cream · Paraben-free · ₹160/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -50484,7 +50503,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹160/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -50573,7 +50592,7 @@ const NXPRODUCTS = [
   "price": 382,
   "capacityLine": "50 g",
   "materialLine": "Collagen + Coffee + Rosehip",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹764/100g",
+  "featureLine": "Cream · Paraben-free · ₹764/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -50590,7 +50609,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹764/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Collagen, Coffee, Rosehip, Almond, Shea butter, Cocoa butter, Vitamin E, Sea buckthorn, Olive (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -50698,7 +50717,7 @@ const NXPRODUCTS = [
   "price": 232,
   "capacityLine": "60 ml",
   "materialLine": "Vitamin C + Shea butter",
-  "featureLine": "Body butter · Paraben-free · ₹387/100ml",
+  "featureLine": "Cream · Paraben-free · ₹387/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -50714,7 +50733,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "60 ml",
    "pricePer100": "₹387/100ml",
-   "format": "Body butter",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Vitamin C, Shea butter (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -51257,7 +51276,7 @@ const NXPRODUCTS = [
   "price": 652,
   "capacityLine": "300 g",
   "materialLine": "Saffron",
-  "featureLine": "Oil · Paraben-free · ₹217/100g",
+  "featureLine": "Toner · Paraben-free · ₹217/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -51274,7 +51293,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "300 g",
    "pricePer100": "₹217/100g",
-   "format": "Oil",
+   "format": "Toner",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Saffron (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -52777,7 +52796,7 @@ const NXPRODUCTS = [
   "price": 295,
   "capacityLine": "100 g",
   "materialLine": "Aloe vera + Almond + Vitamin E",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹295/100g",
+  "featureLine": "Oil · Paraben-free · ₹295/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -52793,7 +52812,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 g",
    "pricePer100": "₹295/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Oil",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Aloe vera, Almond, Vitamin E, Argan oil, Jojoba, Lemon, Chamomile, Lavender (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -55630,7 +55649,7 @@ const NXPRODUCTS = [
   "price": 288,
   "capacityLine": "100 g",
   "materialLine": "Collagen + Shea butter + Argan oil",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹288/100g",
+  "featureLine": "Toner · Paraben-free · ₹288/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -55646,7 +55665,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 g",
    "pricePer100": "₹288/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Toner",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Collagen, Shea butter, Argan oil (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -55742,7 +55761,7 @@ const NXPRODUCTS = [
   "price": 298,
   "capacityLine": "100 ml",
   "materialLine": "Collagen + Almond + Shea butter",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹298/100ml",
+  "featureLine": "Toner · Paraben-free · ₹298/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -55758,7 +55777,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹298/100ml",
-   "format": "Hair-removal cream / spray",
+   "format": "Toner",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Collagen, Almond, Shea butter, Avocado (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -56188,7 +56207,7 @@ const NXPRODUCTS = [
   "price": 135,
   "capacityLine": "100 g",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Roll-on · ₹135/100g",
+  "featureLine": "Cream · ₹135/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -56205,7 +56224,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 g",
    "pricePer100": "₹135/100g",
-   "format": "Roll-on",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -56299,7 +56318,7 @@ const NXPRODUCTS = [
   "price": 319,
   "capacityLine": "100 ml",
   "materialLine": "Collagen + Aloe vera + Almond",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹319/100ml",
+  "featureLine": "Toner · Paraben-free · ₹319/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -56315,7 +56334,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹319/100ml",
-   "format": "Hair-removal cream / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Collagen, Aloe vera, Almond, Argan oil, Lemon, Chamomile, Lavender (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -56414,7 +56433,7 @@ const NXPRODUCTS = [
   "price": 323,
   "capacityLine": "200 ml",
   "materialLine": "Collagen + Almond + Shea butter",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹162/100ml",
+  "featureLine": "Oil · Paraben-free · ₹162/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -56430,7 +56449,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "200 ml",
    "pricePer100": "₹162/100ml",
-   "format": "Hair-removal cream / spray",
+   "format": "Oil",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Collagen, Almond, Shea butter, Vitamin E, Argan oil, Jojoba, Coconut, Lemon, Olive (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -56961,7 +56980,7 @@ const NXPRODUCTS = [
   "price": 226,
   "capacityLine": "100 g",
   "materialLine": "PHA + Rose + Cocoa butter",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹226/100g",
+  "featureLine": "Body butter · Paraben-free · ₹226/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -56978,7 +56997,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 g",
    "pricePer100": "₹226/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Body butter",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "PHA, Rose, Cocoa butter, Vitamin E (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -57190,7 +57209,7 @@ const NXPRODUCTS = [
   "price": 226,
   "capacityLine": "500 g (pack of 5)",
   "materialLine": "Niacinamide + Salicylic acid (BHA) + AHA",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹45/100g",
+  "featureLine": "Body butter · Paraben-free · ₹45/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -57207,7 +57226,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 g × 5 pack",
    "pricePer100": "₹45/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Body butter",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Niacinamide, Salicylic acid (BHA), AHA, Collagen, Rose, Shea butter (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -57306,7 +57325,7 @@ const NXPRODUCTS = [
   "price": 232,
   "capacityLine": "60 ml",
   "materialLine": "Shea butter",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹387/100ml",
+  "featureLine": "Cream · Paraben-free · ₹387/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -57322,7 +57341,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "60 ml",
    "pricePer100": "₹387/100ml",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Shea butter (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -58170,7 +58189,7 @@ const NXPRODUCTS = [
   "price": 130,
   "capacityLine": "50 g",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · ₹260/100g",
+  "featureLine": "Cream · ₹260/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -58186,7 +58205,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹260/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -59551,7 +59570,7 @@ const NXPRODUCTS = [
   "price": 180,
   "capacityLine": "50 g",
   "materialLine": "Hyaluronic acid + Shea butter + Licorice",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹360/100g",
+  "featureLine": "Cream · Paraben-free · ₹360/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -59568,7 +59587,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹360/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Hyaluronic acid, Shea butter, Licorice, Glycerin (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -59897,7 +59916,7 @@ const NXPRODUCTS = [
   "price": 242,
   "capacityLine": "50 g",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹484/100g",
+  "featureLine": "Cream · Paraben-free · ₹484/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -59914,7 +59933,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹484/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -60540,7 +60559,7 @@ const NXPRODUCTS = [
   "price": 163,
   "capacityLine": "100 g",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹163/100g",
+  "featureLine": "Cream · Paraben-free · ₹163/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -60556,7 +60575,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 g",
    "pricePer100": "₹163/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Paraben-free, Sulfate/SLS-free (seller claim — not scored)",
@@ -60646,7 +60665,7 @@ const NXPRODUCTS = [
   "price": 115,
   "capacityLine": "100 ml",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Oil · Paraben-free · ₹115/100ml",
+  "featureLine": "Other · Paraben-free · ₹115/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -60662,7 +60681,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹115/100ml",
-   "format": "Oil",
+   "format": "Other",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -60863,7 +60882,7 @@ const NXPRODUCTS = [
   "price": 115,
   "capacityLine": "100 ml",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Oil · Paraben-free · ₹115/100ml",
+  "featureLine": "Other · Paraben-free · ₹115/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -60879,7 +60898,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹115/100ml",
-   "format": "Oil",
+   "format": "Other",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Paraben-free, Sulfate/SLS-free (seller claim — not scored)",
@@ -61070,7 +61089,7 @@ const NXPRODUCTS = [
   "price": 160,
   "capacityLine": "100 g",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Oil · ₹160/100g",
+  "featureLine": "Other · ₹160/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "Well-reviewed: 4.6★ from 5 ratings"
@@ -61088,7 +61107,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 g",
    "pricePer100": "₹160/100g",
-   "format": "Oil",
+   "format": "Other",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -61607,7 +61626,7 @@ const NXPRODUCTS = [
   "price": 160,
   "capacityLine": "60 ml",
   "materialLine": "Vitamin C",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹267/100ml",
+  "featureLine": "Cream · Paraben-free · ₹267/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -61624,7 +61643,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "60 ml",
    "pricePer100": "₹267/100ml",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Vitamin C (named on listing)",
    "freeFrom": "Paraben-free, Sulfate/SLS-free (seller claim — not scored)",
@@ -61826,7 +61845,7 @@ const NXPRODUCTS = [
   "price": 170,
   "capacityLine": "120 ml",
   "materialLine": "Vitamin C",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹142/100ml",
+  "featureLine": "Toner · Paraben-free · ₹142/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -61843,7 +61862,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "120 ml",
    "pricePer100": "₹142/100ml",
-   "format": "Hair-removal cream / spray",
+   "format": "Toner",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Vitamin C (named on listing)",
    "freeFrom": "Paraben-free, Sulfate/SLS-free (seller claim — not scored)",
@@ -62382,7 +62401,7 @@ const NXPRODUCTS = [
   "price": 200,
   "capacityLine": "50 g",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · ₹400/100g",
+  "featureLine": "Cream · ₹400/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -62399,7 +62418,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹400/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -62488,7 +62507,7 @@ const NXPRODUCTS = [
   "price": 170,
   "capacityLine": "100 ml",
   "materialLine": "Centella / cica + Almond + Shea butter",
-  "featureLine": "Hair-removal cream / spray · ₹170/100ml",
+  "featureLine": "Cream · ₹170/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -62505,7 +62524,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹170/100ml",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Centella / cica, Almond, Shea butter, Licorice, Olive (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -63031,7 +63050,7 @@ const NXPRODUCTS = [
   "price": 238,
   "capacityLine": "180 ml",
   "materialLine": "Vitamin C",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹132/100ml",
+  "featureLine": "Oil · Paraben-free · ₹132/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -63048,7 +63067,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "180 ml",
    "pricePer100": "₹132/100ml",
-   "format": "Hair-removal cream / spray",
+   "format": "Oil",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Vitamin C (named on listing)",
    "freeFrom": "Paraben-free, Sulfate/SLS-free (seller claim — not scored)",
@@ -63253,7 +63272,7 @@ const NXPRODUCTS = [
   "price": 282,
   "capacityLine": "100 g",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · ₹282/100g",
+  "featureLine": "Cream · ₹282/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -63270,7 +63289,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 g",
    "pricePer100": "₹282/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -64325,7 +64344,7 @@ const NXPRODUCTS = [
   "price": 101,
   "capacityLine": "100 g",
   "materialLine": "Shea butter",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹101/100g",
+  "featureLine": "Cream · Paraben-free · ₹101/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -64342,7 +64361,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 g",
    "pricePer100": "₹101/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Shea butter (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -64727,7 +64746,7 @@ const NXPRODUCTS = [
   "price": 168,
   "capacityLine": "50 g",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · ₹336/100g",
+  "featureLine": "Cream · ₹336/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -64743,7 +64762,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹336/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -64951,7 +64970,7 @@ const NXPRODUCTS = [
   "price": 200,
   "capacityLine": "120 ml",
   "materialLine": "Vitamin C",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹167/100ml",
+  "featureLine": "Cream · Paraben-free · ₹167/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -64968,7 +64987,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "120 ml",
    "pricePer100": "₹167/100ml",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Vitamin C (named on listing)",
    "freeFrom": "Paraben-free, Sulfate/SLS-free (seller claim — not scored)",
@@ -65705,7 +65724,7 @@ const NXPRODUCTS = [
   "price": 238,
   "capacityLine": "180 ml",
   "materialLine": "Vitamin C",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹132/100ml",
+  "featureLine": "Cream · Paraben-free · ₹132/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -65722,7 +65741,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "180 ml",
    "pricePer100": "₹132/100ml",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Vitamin C (named on listing)",
    "freeFrom": "Paraben-free, Sulfate/SLS-free (seller claim — not scored)",
@@ -66029,7 +66048,7 @@ const NXPRODUCTS = [
   "price": 160,
   "capacityLine": "50 g",
   "materialLine": "Vitamin C",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹320/100g",
+  "featureLine": "Cream · Paraben-free · ₹320/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -66046,7 +66065,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹320/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Vitamin C (named on listing)",
    "freeFrom": "Paraben-free, Sulfate/SLS-free (seller claim — not scored)",
@@ -66250,7 +66269,7 @@ const NXPRODUCTS = [
   "price": 305,
   "capacityLine": "200 g (pack of 2)",
   "materialLine": "Collagen + Coffee + Rosehip",
-  "featureLine": "Hair-removal cream / spray · ₹153/100g",
+  "featureLine": "Cream · ₹153/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "Well-reviewed: 4.3★ from 6 ratings"
@@ -66268,7 +66287,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 g × 2 pack",
    "pricePer100": "₹153/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Collagen, Coffee, Rosehip, Almond, Shea butter, Cocoa butter, Vitamin E, Sea buckthorn (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -66478,7 +66497,7 @@ const NXPRODUCTS = [
   "price": 220,
   "capacityLine": "50 g",
   "materialLine": "Vitamin C",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹440/100g",
+  "featureLine": "Cream · Paraben-free · ₹440/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -66495,7 +66514,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹440/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Vitamin C (named on listing)",
    "freeFrom": "Paraben-free, Sulfate/SLS-free (seller claim — not scored)",
@@ -66591,7 +66610,7 @@ const NXPRODUCTS = [
   "price": 160,
   "capacityLine": "60 ml",
   "materialLine": "Vitamin C",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹267/100ml",
+  "featureLine": "Cream · Paraben-free · ₹267/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -66608,7 +66627,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "60 ml",
    "pricePer100": "₹267/100ml",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Vitamin C (named on listing)",
    "freeFrom": "Paraben-free, Sulfate/SLS-free (seller claim — not scored)",
@@ -66811,7 +66830,7 @@ const NXPRODUCTS = [
   "price": 159,
   "capacityLine": "60 ml",
   "materialLine": "Vitamin C",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹265/100ml",
+  "featureLine": "Oil · Paraben-free · ₹265/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -66828,7 +66847,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "60 ml",
    "pricePer100": "₹265/100ml",
-   "format": "Hair-removal cream / spray",
+   "format": "Oil",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Vitamin C (named on listing)",
    "freeFrom": "Paraben-free, Sulfate/SLS-free (seller claim — not scored)",
@@ -67472,7 +67491,7 @@ const NXPRODUCTS = [
   "price": 228,
   "capacityLine": "180 ml",
   "materialLine": "Vitamin C",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹127/100ml",
+  "featureLine": "Cream · Paraben-free · ₹127/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -67489,7 +67508,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "180 ml",
    "pricePer100": "₹127/100ml",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Vitamin C (named on listing)",
    "freeFrom": "Paraben-free, Sulfate/SLS-free (seller claim — not scored)",
@@ -68002,7 +68021,7 @@ const NXPRODUCTS = [
   "price": 267,
   "capacityLine": "150 ml (pack of 3)",
   "materialLine": "Cocoa butter",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹178/100ml",
+  "featureLine": "Cream · Paraben-free · ₹178/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -68019,7 +68038,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 ml × 3 pack",
    "pricePer100": "₹178/100ml",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Cocoa butter (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -68112,7 +68131,7 @@ const NXPRODUCTS = [
   "price": 270,
   "capacityLine": "100 g",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹270/100g",
+  "featureLine": "Cream · Paraben-free · ₹270/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -68128,7 +68147,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 g",
    "pricePer100": "₹270/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -68861,7 +68880,7 @@ const NXPRODUCTS = [
   "price": 308,
   "capacityLine": "100 g (pack of 2)",
   "materialLine": "Colloidal oatmeal + Aloe vera + Shea butter",
-  "featureLine": "Hair-removal cream / spray · ₹308/100g",
+  "featureLine": "Cream · ₹308/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -68878,7 +68897,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g × 2 pack",
    "pricePer100": "₹308/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Colloidal oatmeal, Aloe vera, Shea butter, Cocoa butter (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -70286,7 +70305,7 @@ const NXPRODUCTS = [
   "price": 198,
   "capacityLine": "100 g",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · ₹198/100g",
+  "featureLine": "Cream · ₹198/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -70302,7 +70321,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 g",
    "pricePer100": "₹198/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -70390,7 +70409,7 @@ const NXPRODUCTS = [
   "price": 157,
   "capacityLine": "220 g",
   "materialLine": "Aloe vera + Honey + Almond",
-  "featureLine": "Gel · ₹71/100g",
+  "featureLine": "Cream · ₹71/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -70407,7 +70426,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "220 g",
    "pricePer100": "₹71/100g",
-   "format": "Gel",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Aloe vera, Honey, Almond, Vitamin E (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -70501,7 +70520,7 @@ const NXPRODUCTS = [
   "price": 135,
   "capacityLine": "100 g",
   "materialLine": "Gold",
-  "featureLine": "Oil · ₹135/100g",
+  "featureLine": "Cream · ₹135/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -70518,7 +70537,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 g",
    "pricePer100": "₹135/100g",
-   "format": "Oil",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Gold (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -70614,7 +70633,7 @@ const NXPRODUCTS = [
   "price": 77,
   "capacityLine": "200 g (pack of 4)",
   "materialLine": "Aloe vera + Honey + Almond",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹39/100g",
+  "featureLine": "Cream · Paraben-free · ₹39/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -70631,7 +70650,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g × 4 pack",
    "pricePer100": "₹39/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Aloe vera, Honey, Almond, Shea butter, Cocoa butter, Jojoba, Coconut, Olive (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -70737,7 +70756,7 @@ const NXPRODUCTS = [
   "price": 94,
   "capacityLine": "50 g",
   "materialLine": "Honey",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹188/100g",
+  "featureLine": "Cream · Paraben-free · ₹188/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -70754,7 +70773,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹188/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Honey (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -71057,7 +71076,7 @@ const NXPRODUCTS = [
   "price": 78,
   "capacityLine": "200 g (pack of 4)",
   "materialLine": "Honey + Almond + Shea butter",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹39/100g",
+  "featureLine": "Cream · Paraben-free · ₹39/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -71074,7 +71093,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g × 4 pack",
    "pricePer100": "₹39/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Honey, Almond, Shea butter, Cocoa butter, Vitamin E, Glycerin, Argan oil, Jojoba, Avocado (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -71629,7 +71648,7 @@ const NXPRODUCTS = [
   "price": 145,
   "capacityLine": "150 g",
   "materialLine": "Almond",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹97/100g",
+  "featureLine": "Cream · Paraben-free · ₹97/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -71646,7 +71665,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "150 g",
    "pricePer100": "₹97/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Almond (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -71841,7 +71860,7 @@ const NXPRODUCTS = [
   "price": 544,
   "capacityLine": "200 g",
   "materialLine": "Shea butter",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹272/100g",
+  "featureLine": "Toner · Paraben-free · ₹272/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "Well-reviewed: 4.3★ from 12 ratings"
@@ -71859,7 +71878,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "200 g",
    "pricePer100": "₹272/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Shea butter (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -72276,7 +72295,7 @@ const NXPRODUCTS = [
   "price": 174,
   "capacityLine": "8 g",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹2175/100g",
+  "featureLine": "Cream · Paraben-free · ₹2175/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -72292,7 +72311,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "8 g",
    "pricePer100": "₹2175/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -72482,7 +72501,7 @@ const NXPRODUCTS = [
   "price": 256,
   "capacityLine": "50 g",
   "materialLine": "Shea butter + Cocoa butter + Coconut",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹512/100g",
+  "featureLine": "Cream · Paraben-free · ₹512/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -72499,7 +72518,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹512/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Shea butter, Cocoa butter, Coconut (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -72705,7 +72724,7 @@ const NXPRODUCTS = [
   "price": 77,
   "capacityLine": "50 g",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹154/100g",
+  "featureLine": "Cream · Paraben-free · ₹154/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -72722,7 +72741,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹154/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -73365,7 +73384,7 @@ const NXPRODUCTS = [
   "price": 395,
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray",
+  "featureLine": "Body butter",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "Well-reviewed: 4.8★ from 166 ratings"
@@ -73383,7 +73402,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Hair-removal cream / spray",
+   "format": "Body butter",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -73797,7 +73816,7 @@ const NXPRODUCTS = [
   "price": 286,
   "capacityLine": "180 g",
   "materialLine": "Almond + Jojoba",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹159/100g",
+  "featureLine": "Cream · Paraben-free · ₹159/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -73814,7 +73833,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "180 g",
    "pricePer100": "₹159/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Almond, Jojoba (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -73913,7 +73932,7 @@ const NXPRODUCTS = [
   "price": 229,
   "capacityLine": "100 g",
   "materialLine": "Honey + Papaya + Almond",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹229/100g",
+  "featureLine": "Cream · Paraben-free · ₹229/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -73930,7 +73949,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 g",
    "pricePer100": "₹229/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Honey, Papaya, Almond, Vitamin E (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -74134,7 +74153,7 @@ const NXPRODUCTS = [
   "price": 285,
   "capacityLine": "100 g",
   "materialLine": "Salicylic acid (BHA) + AHA",
-  "featureLine": "Hair-removal cream / spray · SPF 75 · ₹285/100g",
+  "featureLine": "Cream · SPF 75 · ₹285/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -74151,7 +74170,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 g",
    "pricePer100": "₹285/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Salicylic acid (BHA), AHA (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -74250,7 +74269,7 @@ const NXPRODUCTS = [
   "price": 283,
   "capacityLine": "50 g",
   "materialLine": "Cocoa butter",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹566/100g",
+  "featureLine": "Cream · Paraben-free · ₹566/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -74267,7 +74286,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹566/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Cocoa butter (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -74696,7 +74715,7 @@ const NXPRODUCTS = [
   "price": 157,
   "capacityLine": "30 ml",
   "materialLine": "Turmeric + Almond + Coconut",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹523/100ml",
+  "featureLine": "Oil · Paraben-free · ₹523/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -74712,7 +74731,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "30 ml",
    "pricePer100": "₹523/100ml",
-   "format": "Hair-removal cream / spray",
+   "format": "Oil",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Turmeric, Almond, Coconut (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -77110,7 +77129,7 @@ const NXPRODUCTS = [
   "price": 151,
   "capacityLine": "50 g",
   "materialLine": "Aloe vera + Saffron + Shea butter",
-  "featureLine": "Body butter · ₹302/100g",
+  "featureLine": "Toner · ₹302/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -77127,7 +77146,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹302/100g",
-   "format": "Body butter",
+   "format": "Toner",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Aloe vera, Saffron, Shea butter, Coconut (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -77442,7 +77461,7 @@ const NXPRODUCTS = [
   "price": 146,
   "capacityLine": "50 g",
   "materialLine": "Aloe vera + Saffron + Shea butter",
-  "featureLine": "Body butter · ₹292/100g",
+  "featureLine": "Toner · ₹292/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -77459,7 +77478,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹292/100g",
-   "format": "Body butter",
+   "format": "Toner",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Aloe vera, Saffron, Shea butter, Coconut (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -77554,7 +77573,7 @@ const NXPRODUCTS = [
   "price": 448,
   "capacityLine": "50 ml",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Serum · Paraben-free · ₹896/100ml",
+  "featureLine": "Other · Paraben-free · ₹896/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -77571,7 +77590,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 ml",
    "pricePer100": "₹896/100ml",
-   "format": "Serum",
+   "format": "Other",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -77660,7 +77679,7 @@ const NXPRODUCTS = [
   "price": 448,
   "capacityLine": "50 ml",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Serum · Paraben-free · ₹896/100ml",
+  "featureLine": "Other · Paraben-free · ₹896/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -77677,7 +77696,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 ml",
    "pricePer100": "₹896/100ml",
-   "format": "Serum",
+   "format": "Other",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -78099,7 +78118,7 @@ const NXPRODUCTS = [
   "price": 76,
   "capacityLine": "50 g",
   "materialLine": "Collagen + Rosehip + Almond",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹152/100g",
+  "featureLine": "Cream · Paraben-free · ₹152/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -78116,7 +78135,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹152/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Collagen, Rosehip, Almond, Shea butter, Cocoa butter, Vitamin E, Sea buckthorn (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -78214,7 +78233,7 @@ const NXPRODUCTS = [
   "price": 439,
   "capacityLine": "400 g (pack of 4)",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · ₹110/100g",
+  "featureLine": "Cream · ₹110/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -78230,7 +78249,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 g × 4 pack",
    "pricePer100": "₹110/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -78319,7 +78338,7 @@ const NXPRODUCTS = [
   "price": 135,
   "capacityLine": "50 g",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹270/100g",
+  "featureLine": "Cream · Paraben-free · ₹270/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -78336,7 +78355,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹270/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -78872,7 +78891,7 @@ const NXPRODUCTS = [
   "price": 448,
   "capacityLine": "50 ml",
   "materialLine": "Ceramides + Rice water",
-  "featureLine": "Serum · Paraben-free · ₹896/100ml",
+  "featureLine": "Other · Paraben-free · ₹896/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -78889,7 +78908,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 ml",
    "pricePer100": "₹896/100ml",
-   "format": "Serum",
+   "format": "Other",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Ceramides, Rice water (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -79096,7 +79115,7 @@ const NXPRODUCTS = [
   "price": 101,
   "capacityLine": "50 g",
   "materialLine": "Collagen + Coffee + Rosehip",
-  "featureLine": "Hair-removal cream / spray · ₹202/100g",
+  "featureLine": "Cream · ₹202/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -79113,7 +79132,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹202/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Collagen, Coffee, Rosehip, Almond, Shea butter, Cocoa butter, Vitamin E, Sea buckthorn (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -82085,7 +82104,7 @@ const NXPRODUCTS = [
   "price": 489,
   "capacityLine": "100 ml",
   "materialLine": "Niacinamide + Cucumber",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹489/100ml",
+  "featureLine": "Cream · Paraben-free · ₹489/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -82102,7 +82121,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹489/100ml",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Niacinamide, Cucumber (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -82301,7 +82320,7 @@ const NXPRODUCTS = [
   "price": 80,
   "capacityLine": "100 g (pack of 2)",
   "materialLine": "Shea butter + Cocoa butter + Vitamin E",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹80/100g",
+  "featureLine": "Cream · Paraben-free · ₹80/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -82318,7 +82337,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g × 2 pack",
    "pricePer100": "₹80/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Shea butter, Cocoa butter, Vitamin E, Argan oil, Jojoba, Avocado (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -83206,7 +83225,7 @@ const NXPRODUCTS = [
   "price": 120,
   "capacityLine": "100 g",
   "materialLine": "Saffron + Shea butter",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹120/100g",
+  "featureLine": "Body butter · Paraben-free · ₹120/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "Well-reviewed: 4.4★ from 8 ratings"
@@ -83224,7 +83243,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 g",
    "pricePer100": "₹120/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Body butter",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Saffron, Shea butter (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -83315,7 +83334,7 @@ const NXPRODUCTS = [
   "price": 172,
   "capacityLine": "62 ml",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · ₹277/100ml",
+  "featureLine": "Cream · ₹277/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -83331,7 +83350,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "62 ml",
    "pricePer100": "₹277/100ml",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -84501,7 +84520,7 @@ const NXPRODUCTS = [
   "price": 290,
   "capacityLine": "1200 ml (pack of 3)",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · ₹24/100ml",
+  "featureLine": "Cream · ₹24/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -84518,7 +84537,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "400 ml × 3 pack",
    "pricePer100": "₹24/100ml",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -84832,7 +84851,7 @@ const NXPRODUCTS = [
   "price": 285,
   "capacityLine": "50 g",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹570/100g",
+  "featureLine": "Cream · Paraben-free · ₹570/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -84849,7 +84868,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹570/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -84941,7 +84960,7 @@ const NXPRODUCTS = [
   "price": 273,
   "capacityLine": "50 g",
   "materialLine": "Caffeine",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹546/100g",
+  "featureLine": "Cream · Paraben-free · ₹546/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -84958,7 +84977,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹546/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Caffeine (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -85055,7 +85074,7 @@ const NXPRODUCTS = [
   "price": 370,
   "capacityLine": "50 g",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹740/100g",
+  "featureLine": "Cream · Paraben-free · ₹740/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -85072,7 +85091,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹740/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -86032,7 +86051,7 @@ const NXPRODUCTS = [
   "price": 225,
   "capacityLine": "100 g",
   "materialLine": "Niacinamide + Collagen + Shea butter",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹225/100g",
+  "featureLine": "Cream · Paraben-free · ₹225/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -86049,7 +86068,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 g",
    "pricePer100": "₹225/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Not stated in listing",
    "keyIngredients": "Niacinamide, Collagen, Shea butter (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -86914,7 +86933,7 @@ const NXPRODUCTS = [
   "price": 157,
   "capacityLine": "220 g",
   "materialLine": "Aloe vera + Vitamin E",
-  "featureLine": "Gel · ₹71/100g",
+  "featureLine": "Cream · ₹71/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -86931,7 +86950,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "220 g",
    "pricePer100": "₹71/100g",
-   "format": "Gel",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Aloe vera, Vitamin E (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -87234,7 +87253,7 @@ const NXPRODUCTS = [
   "price": 157,
   "capacityLine": "100 g",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · ₹157/100g",
+  "featureLine": "Cream · ₹157/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -87251,7 +87270,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 g",
    "pricePer100": "₹157/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -87555,7 +87574,7 @@ const NXPRODUCTS = [
   "price": 134,
   "capacityLine": "100 g",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹134/100g",
+  "featureLine": "Cream · Paraben-free · ₹134/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -87571,7 +87590,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 g",
    "pricePer100": "₹134/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -90120,7 +90139,7 @@ const NXPRODUCTS = [
   "price": 1226,
   "capacityLine": "40 g",
   "materialLine": "Retinol + Collagen",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · SPF 30 · ₹3065/100g",
+  "featureLine": "Cream · Paraben-free · SPF 30 · ₹3065/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -90137,7 +90156,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "40 g",
    "pricePer100": "₹3065/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Retinol, Collagen (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -90354,7 +90373,7 @@ const NXPRODUCTS = [
   "price": 198,
   "capacityLine": "50 g",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹396/100g",
+  "featureLine": "Cream · Paraben-free · ₹396/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -90370,7 +90389,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹396/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -90779,7 +90798,7 @@ const NXPRODUCTS = [
   "price": 255,
   "capacityLine": "50 g",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹510/100g",
+  "featureLine": "Cream · Paraben-free · ₹510/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -90796,7 +90815,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹510/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -91747,7 +91766,7 @@ const NXPRODUCTS = [
   "price": 78,
   "capacityLine": "200 g (pack of 4)",
   "materialLine": "Honey + Almond + Cocoa butter",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹39/100g",
+  "featureLine": "Cream · Paraben-free · ₹39/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -91764,7 +91783,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g × 4 pack",
    "pricePer100": "₹39/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Honey, Almond, Cocoa butter, Glycerin (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -92077,7 +92096,7 @@ const NXPRODUCTS = [
   "price": 183,
   "capacityLine": "60 ml",
   "materialLine": "Niacinamide + Aloe vera + Almond",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · SPF 50 · ₹305/100ml",
+  "featureLine": "Cream · Paraben-free · SPF 50 · ₹305/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "Well-reviewed: 4.3★ from 102 ratings"
@@ -92095,7 +92114,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "60 ml",
    "pricePer100": "₹305/100ml",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Niacinamide, Aloe vera, Almond (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -92621,7 +92640,7 @@ const NXPRODUCTS = [
   "price": 128,
   "capacityLine": "50 g",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹256/100g",
+  "featureLine": "Cream · Paraben-free · ₹256/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -92638,7 +92657,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹256/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -92726,7 +92745,7 @@ const NXPRODUCTS = [
   "price": 135,
   "capacityLine": "50 g",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · ₹270/100g",
+  "featureLine": "Cream · ₹270/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -92743,7 +92762,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹270/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -92834,7 +92853,7 @@ const NXPRODUCTS = [
   "price": 597,
   "capacityLine": "50 g",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · SPF 30 · ₹1194/100g",
+  "featureLine": "Cream · Paraben-free · SPF 30 · ₹1194/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -92851,7 +92870,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹1194/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -92950,7 +92969,7 @@ const NXPRODUCTS = [
   "price": 272,
   "capacityLine": "50 g",
   "materialLine": "Aloe vera",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · SPF 30 · ₹544/100g",
+  "featureLine": "Cream · Paraben-free · SPF 30 · ₹544/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -92967,7 +92986,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹544/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Aloe vera (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -93306,7 +93325,7 @@ const NXPRODUCTS = [
   "price": 370,
   "capacityLine": "50 g",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · ₹740/100g",
+  "featureLine": "Cream · ₹740/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -93323,7 +93342,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹740/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -93969,7 +93988,7 @@ const NXPRODUCTS = [
   "price": 253,
   "capacityLine": "50 g",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹506/100g",
+  "featureLine": "Cream · Paraben-free · ₹506/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -93985,7 +94004,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹506/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -94074,7 +94093,7 @@ const NXPRODUCTS = [
   "price": 271,
   "capacityLine": "250 g (pack of 5)",
   "materialLine": "Salicylic acid (BHA) + Hyaluronic acid",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹108/100g",
+  "featureLine": "Cream · Paraben-free · ₹108/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -94091,7 +94110,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g × 5 pack",
    "pricePer100": "₹108/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Salicylic acid (BHA), Hyaluronic acid (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -94626,7 +94645,7 @@ const NXPRODUCTS = [
   "price": 147,
   "capacityLine": "50 g",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · ₹294/100g",
+  "featureLine": "Cream · ₹294/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -94643,7 +94662,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹294/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -94734,7 +94753,7 @@ const NXPRODUCTS = [
   "price": 157,
   "capacityLine": "100 g (pack of 2)",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · ₹157/100g",
+  "featureLine": "Cream · ₹157/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -94751,7 +94770,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g × 2 pack",
    "pricePer100": "₹157/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -95061,7 +95080,7 @@ const NXPRODUCTS = [
   "price": 256,
   "capacityLine": "30 g",
   "materialLine": "Niacinamide",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹853/100g",
+  "featureLine": "Gel · Paraben-free · ₹853/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -95078,7 +95097,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "30 g",
    "pricePer100": "₹853/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Gel",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Niacinamide (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -95734,7 +95753,7 @@ const NXPRODUCTS = [
   "price": 891,
   "capacityLine": "320 g (pack of 8)",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹278/100g",
+  "featureLine": "Cream · Paraben-free · ₹278/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -95751,7 +95770,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "40 g × 8 pack",
    "pricePer100": "₹278/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -95953,7 +95972,7 @@ const NXPRODUCTS = [
   "price": 230,
   "capacityLine": "50 g",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Wash / cleanser · ₹460/100g",
+  "featureLine": "Cream · ₹460/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "Well-reviewed: 4.4★ from 8 ratings"
@@ -95971,7 +95990,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹460/100g",
-   "format": "Wash / cleanser",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -96298,7 +96317,7 @@ const NXPRODUCTS = [
   "price": 1230,
   "capacityLine": "10 g",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · ₹12300/100g",
+  "featureLine": "Cream · ₹12300/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -96314,7 +96333,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "10 g",
    "pricePer100": "₹12300/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Not stated in listing",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -96400,8 +96419,8 @@ const NXPRODUCTS = [
   "model": "Acne Scar Removal Pimples Face Tummy Tightening Stretch Mark Removal Cream",
   "price": 1017,
   "capacityLine": "30 g",
-  "materialLine": "Niacinamide + Peptides",
-  "featureLine": "Hair-removal cream / spray · ₹3390/100g",
+  "materialLine": "Niacinamide + Peptides + PDRN / polynucleotide",
+  "featureLine": "Cream · ₹3390/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -96418,9 +96437,9 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "30 g",
    "pricePer100": "₹3390/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
-   "keyIngredients": "Niacinamide, Peptides (named on listing)",
+   "keyIngredients": "Niacinamide, Peptides, PDRN / polynucleotide (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
@@ -96454,6 +96473,7 @@ const NXPRODUCTS = [
    "format:lotion",
    "ing:niacinamide",
    "ing:peptides",
+   "ing:pdrn-polynucleotide",
    "claim:brightening",
    "claim:anti-aging",
    "claim:acne",
@@ -96610,7 +96630,7 @@ const NXPRODUCTS = [
   "price": 217,
   "capacityLine": "50 g",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Wash / cleanser · Paraben-free · ₹434/100g",
+  "featureLine": "Cream · Paraben-free · ₹434/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -96627,7 +96647,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹434/100g",
-   "format": "Wash / cleanser",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -97488,7 +97508,7 @@ const NXPRODUCTS = [
   "price": 135,
   "capacityLine": "100 ml",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · ₹135/100ml",
+  "featureLine": "Cream · ₹135/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -97505,7 +97525,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹135/100ml",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -98281,7 +98301,7 @@ const NXPRODUCTS = [
   "price": 349,
   "capacityLine": "100 ml",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Oil · ₹349/100ml",
+  "featureLine": "Other · ₹349/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -98297,7 +98317,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹349/100ml",
-   "format": "Oil",
+   "format": "Other",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -99607,7 +99627,7 @@ const NXPRODUCTS = [
   "price": 154,
   "capacityLine": "29 g",
   "materialLine": "Clay + Shea butter",
-  "featureLine": "Body butter · ₹531/100g",
+  "featureLine": "Cream · ₹531/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -99624,7 +99644,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "29 g",
    "pricePer100": "₹531/100g",
-   "format": "Body butter",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Clay, Shea butter (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -100351,7 +100371,7 @@ const NXPRODUCTS = [
   "price": 532,
   "capacityLine": "50 g",
   "materialLine": "Aloe vera + Rosehip + Shea butter",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹1064/100g",
+  "featureLine": "Cream · Paraben-free · ₹1064/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -100368,7 +100388,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹1064/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Aloe vera, Rosehip, Shea butter, Cocoa butter (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -100684,7 +100704,7 @@ const NXPRODUCTS = [
   "price": 151,
   "capacityLine": "50 g",
   "materialLine": "Ceramides + Gold",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹302/100g",
+  "featureLine": "Cream · Paraben-free · ₹302/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -100701,7 +100721,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹302/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Ceramides, Gold (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -101106,7 +101126,7 @@ const NXPRODUCTS = [
   "price": 135,
   "capacityLine": "100 g",
   "materialLine": "Aloe vera",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹135/100g",
+  "featureLine": "Cream · Paraben-free · ₹135/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -101123,7 +101143,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 g",
    "pricePer100": "₹135/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Aloe vera (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -101337,7 +101357,7 @@ const NXPRODUCTS = [
   "price": 242,
   "capacityLine": "50 g",
   "materialLine": "Kojic acid + Alpha arbutin + Almond",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹484/100g",
+  "featureLine": "Cream · Paraben-free · ₹484/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -101354,7 +101374,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹484/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Kojic acid, Alpha arbutin, Almond (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -101426,6 +101446,692 @@ const NXPRODUCTS = [
    "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
    "declarationConfidence": null,
    "recognised": 0,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "d-cover-itma044352d3665a",
+  "brand": "D cover",
+  "model": "NATURAL STRETCH MARK CREAM DC TUBE | CREAM TO REMOVE STRETCH MARKS",
+  "price": 157,
+  "capacityLine": "220 g",
+  "materialLine": "Aloe vera + Coconut",
+  "featureLine": "Cream · Paraben-free · ₹71/100g",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 3 ingredients named — formula unscored",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "220 g",
+   "pricePer100": "₹71/100g",
+   "format": "Cream",
+   "appliesTo": "Face + body (per listing)",
+   "keyIngredients": "Aloe vera, Coconut (named on listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Dark spots / pigmentation, Acne / pimples, Stretch marks, Scars / marks (seller claim — not clinical proof)",
+   "skinType": "Dry skin, Combination skin, Sensitive skin, Normal skin, All skin types",
+   "regulated": "Contains / references a drug-grade active (adapalene, tretinoin, clindamycin, IP/USP) — follow label directions; not a cosmetic claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 3 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: ALOE VERA, AMLA, ASHWAGANDHA",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/t/y/g/25-ayurvedic-itchcoat-anti-fungal-malam-for-itching-fungal-original-imah7kqfdkvf5ep7.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/c/x/t/50-eczemoron-natural-skin-cream-for-men-and-women-50-g-goiez-original-imaherzhggb9nmms.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/0/s/25-itchcoat-ayurvedic-malam-dad-khujali-antifungal-ringworm-original-imahdxw3zgmecgpj.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/g/b/25-itchcoat-advansed-anti-fungal-malam-body-lotion-for-women-men-original-imahhkrbnhwrqfvb.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/6/i/b/100-stretch-mark-cream-natural-butter-formula-activewow-cream-original-imahpp6hewgznqnp.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/d-cover-natural-stretch-mark-cream-dc-tube-remove-marks/p/itma044352d3665a",
+  "buyStore": "Flipkart",
+  "title": "D cover NATURAL STRETCH MARK CREAM DC TUBE | CREAM TO REMOVE STRETCH MARKS",
+  "tags": [
+   "scope:both",
+   "format:gel",
+   "format:cream",
+   "format:essence",
+   "ing:aloe-vera",
+   "ing:coconut",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:acne",
+   "claim:stretch-marks",
+   "claim:scars",
+   "skin:dry",
+   "skin:combination",
+   "skin:sensitive",
+   "skin:normal",
+   "skin:all",
+   "free:paraben",
+   "free:sensitive-safe",
+   "aud:women",
+   "size:large",
+   "rating:none",
+   "store:flipkart",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "ALOE VERA, AMLA, ASHWAGANDHA",
+   "inciNote": "Only 3 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 0.33,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "orimii-itm64ae2b33661ba",
+  "brand": "Orimii",
+  "model": "Bump Hydrating Stretch Marks Cream For Women | Whipped Body Butter Cream",
+  "price": 660,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Body butter",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "Well-reviewed: 4.3★ from 736 ratings"
+  ],
+  "cons": [
+   "Only 4 ingredients named — formula unscored",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 6.9
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Body butter",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, Stretch marks (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.3/5 (736 ratings, Flipkart)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Specifications › Composition",
+   "inciList": "Unverified seller line: Cica Extract, Vitamin E, Cocoa Butter, 25% Shea Butter",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "declaredManufacturer": "RSH Global Private Limited (as printed on the Flipkart listing — not scored)",
+   "buyerEvidence": "4.3★ from 736 ratings"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/o/g/d/100-bump-hydrating-stretch-marks-cream-for-women-whipped-body-original-imahjgzsruhhpyqf.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/m/6/1/-original-imagyhf535h9rjzv.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/1/4/n/-original-imagyhf5zsszuah9.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/b/3/6/-original-imagyhf5zjswv9sk.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/5/9/p/-original-imagyhf5fchqun4s.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/orimii-bump-hydrating-stretch-marks-cream-women-whipped-body-butter/p/itm64ae2b33661ba",
+  "buyStore": "Flipkart",
+  "title": "Orimii Bump Hydrating Stretch Marks Cream For Women | Whipped Body Butter Cream",
+  "tags": [
+   "scope:body",
+   "format:cream",
+   "format:balm",
+   "claim:hydrating",
+   "claim:stretch-marks",
+   "aud:women",
+   "rating:4.0",
+   "store:flipkart",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Specifications › Composition",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Cica Extract, Vitamin E, Cocoa Butter, 25% Shea Butter",
+   "inciNote": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.3★ from 736 ratings"
+  }
+ },
+ {
+  "id": "active-wow-itm85690812a5ac5",
+  "brand": "Active Wow",
+  "model": "PDRN Advance Cream Stretch Mark Repair Cream PDRN1",
+  "price": 183,
+  "capacityLine": "50 g",
+  "materialLine": "Niacinamide + Retinol + Hyaluronic acid",
+  "featureLine": "Cream · Paraben-free · ₹366/100g",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 1 ingredient named — formula unscored",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹366/100g",
+   "format": "Cream",
+   "appliesTo": "Face + body (per listing)",
+   "keyIngredients": "Niacinamide, Retinol, Hyaluronic acid, Peptides, Turmeric, Cucumber, PDRN / polynucleotide (named on listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Dermatologically tested (seller claim — not scored)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Dark spots / pigmentation, Whitening / fairness (claim), Anti-aging / wrinkles, Hydrating / moisturizing, Barrier repair, Lightweight / fast-absorbing, Korean / K-beauty, Stretch marks (seller claim — not clinical proof)",
+   "skinType": "All skin types",
+   "regulated": "Contains / references a drug-grade active (adapalene, tretinoin, clindamycin, IP/USP) — follow label directions; not a cosmetic claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: PDRN (PolydeoxyribonucleotidePDRN (Polydeoxyribonucleotide)",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/n/r/d/50-pdrn-advance-cream-stretch-mark-repair-cream-pdrn1-activewow-original-imahnywqkrhsemv4.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/q/7/h/50-pdrn-advance-cream-ultra-repair-night-cream-pdrn1-activewow-original-imahnyw4hrdgeabr.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/r/b/c/50-pdrn-advance-cream-ultra-repair-night-cream-pdrn1-activewow-original-imahnyw4pmt5zphn.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/q/m/5/20-ng-glow-cream-anti-melasma-dark-spot-pigmentation-removal-original-imahdbhhyn8uqjc6.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/g/b/b/100-0-night-cream-with-rice-extract-for-brightens-skin-reduces-original-imahj3czxjchdajk.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/active-wow-pdrn-advance-cream-stretch-mark-repair-pdrn1/p/itm85690812a5ac5",
+  "buyStore": "Flipkart",
+  "title": "Active Wow PDRN Advance Cream Stretch Mark Repair Cream PDRN1",
+  "tags": [
+   "scope:both",
+   "format:gel",
+   "format:cream",
+   "format:lotion",
+   "ing:niacinamide",
+   "ing:retinol",
+   "ing:hyaluronic-acid",
+   "ing:peptides",
+   "ing:turmeric",
+   "ing:cucumber",
+   "ing:pdrn-polynucleotide",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:whitening-claim",
+   "claim:anti-aging",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:lightweight",
+   "claim:korean",
+   "claim:stretch-marks",
+   "skin:all",
+   "free:paraben",
+   "free:oil-free",
+   "free:derm",
+   "free:vegan",
+   "aud:women",
+   "size:travel",
+   "rating:none",
+   "store:flipkart",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": true,
+   "derm": true,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "PDRN (PolydeoxyribonucleotidePDRN (Polydeoxyribonucleotide)",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 0,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "flixy-itmc81f49026fa00",
+  "brand": "FLIXY",
+  "model": "Mulethi Hyaluronic Acid Stretch Mark Minimizer Cream",
+  "price": 173,
+  "capacityLine": "50 g",
+  "materialLine": "Hyaluronic acid + Shea butter + Licorice",
+  "featureLine": "Cream · Paraben-free · ₹346/100g",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 5 ingredients named — formula unscored",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹346/100g",
+   "format": "Cream",
+   "appliesTo": "Face + body (per listing)",
+   "keyIngredients": "Hyaluronic acid, Shea butter, Licorice, Glycerin (named on listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Dermatologically tested (seller claim — not scored)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Dark spots / pigmentation, Hydrating / moisturizing, Soothing / calming, Ayurvedic / herbal, Stretch marks (seller claim — not clinical proof)",
+   "skinType": "Dry skin, Sensitive skin, All skin types",
+   "regulated": "Contains / references a drug-grade active (adapalene, tretinoin, clindamycin, IP/USP) — follow label directions; not a cosmetic claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 5 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: Aqua, Glycerin, Hyaluronic, Mulethi (Licorice) Extrac, Shea Butter",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/u/c/50-mulethi-hyaluronic-acid-stretch-mark-minimizer-cream-flixy-original-imahjgyhrzunrz8x.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/r/s/e/50-fungal-gel-for-men-women-ayurvedic-itchcoat-anti-fungal-malam-original-imah8h2hgat5fr8h.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/u/t/soft-hydrated-moisturizing-lotion-for-dry-skin-face-body-soothes-original-imah4n6pcrq5tgep.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/o/r/7/100-women-s-moisturising-daily-skin-care-cream-flixy-cream-original-imahpqkewchvz4jz.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/j/j/v/50-natural-stretch-mark-cream-60g-with-mulethi-hyaluronic-acid-original-imahzuchmdgzcagm.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/flixy-mulethi-hyaluronic-acid-stretch-mark-minimizer-cream/p/itmc81f49026fa00",
+  "buyStore": "Flipkart",
+  "title": "FLIXY Mulethi Hyaluronic Acid Stretch Mark Minimizer Cream",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:lotion",
+   "format:balm",
+   "ing:hyaluronic-acid",
+   "ing:shea-butter",
+   "ing:licorice",
+   "ing:glycerin",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:hydrating",
+   "claim:soothing",
+   "claim:ayurvedic",
+   "claim:stretch-marks",
+   "skin:dry",
+   "skin:sensitive",
+   "skin:all",
+   "free:paraben",
+   "free:derm",
+   "free:sensitive-safe",
+   "aud:women",
+   "size:travel",
+   "rating:none",
+   "store:flipkart",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": true,
+   "derm": true,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Aqua, Glycerin, Hyaluronic, Mulethi (Licorice) Extrac, Shea Butter",
+   "inciNote": "Only 5 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 0.8,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "blush-fizz-itmbc8df77b262b5",
+  "brand": "BLuSH FIZZ",
+  "model": "99% Natural origin Stretch Marks cream Balm",
+  "price": 173,
+  "capacityLine": "100 g",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Balm · ₹173/100g",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "100 g",
+   "pricePer100": "₹173/100g",
+   "format": "Balm",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Stretch marks, Scars / marks (seller claim — not clinical proof)",
+   "skinType": "All skin types",
+   "regulated": "Contains / references a drug-grade active (adapalene, tretinoin, clindamycin, IP/USP) — follow label directions; not a cosmetic claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/9/d/x/100-99-natural-origin-stretch-marks-cream-balm-blush-fizz-original-imahk7gkahgfrm6x.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/w/j/0/100-99-natural-origin-stretch-marks-cream-balm-blush-fizz-original-imahk7gk4kzw7ykr.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/u/e/3/100-99-natural-origin-stretch-marks-cream-balm-blush-fizz-original-imahk7gkazpp3bud.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/8/b/t/100-99-natural-origin-stretch-marks-cream-balm-blush-fizz-original-imahk7gkyrxma7kz.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/v/y/e/100-99-natural-origin-stretch-marks-cream-balm-blush-fizz-original-imahk7gkakjftgxx.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/blush-fizz-99-natural-origin-stretch-marks-cream-balm/p/itmbc8df77b262b5",
+  "buyStore": "Flipkart",
+  "title": "BLuSH FIZZ 99% Natural origin Stretch Marks cream Balm",
+  "tags": [
+   "scope:body",
+   "format:cream",
+   "format:balm",
+   "claim:stretch-marks",
+   "claim:scars",
+   "skin:all",
+   "aud:women",
+   "size:standard",
+   "rating:none",
+   "store:flipkart",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "double-lips-itm3cf7dd42ecd3e",
+  "brand": "DOUBLE LIPS",
+  "model": "FACE CARE GREEN TEA FACE WASH 100 ML + Markmin Scar & Stretch Mark Remover Cream",
+  "price": 192,
+  "capacityLine": "100 ml",
+  "materialLine": "Green tea + Aloe vera + Turmeric",
+  "featureLine": "Lip balm · ₹192/100ml",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "100 ml",
+   "pricePer100": "₹192/100ml",
+   "format": "Lip balm",
+   "appliesTo": "Face + body (per listing)",
+   "keyIngredients": "Green tea, Aloe vera, Turmeric, Sandalwood (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Whitening / fairness (claim), Barrier repair, Soothing / calming, Ayurvedic / herbal, Stretch marks, Scars / marks (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "regulated": "Contains / references a drug-grade active (adapalene, tretinoin, clindamycin, IP/USP) — follow label directions; not a cosmetic claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/l0cr4i80/combo-kit/s/1/g/face-care-green-tea-face-wash-100-ml-markmin-scar-stretch-mark-original-imagc5hdybngayzk.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/kppt47k0/combo-kit/z/a/c/instant-glow-face-care-face-wash-100-ml-skin-shin-soap-2-pce-original-imag3w4jjxbt8zc4.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/p/c/x/aloevera-gel-125gm-vitamin-e-capsule-30pcs-2-agvec-me-first-original-imahd3tjqm9uj26j.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/p/r/p/aloevera-gel-125gm-rose-water-120ml-vitamin-e-capsule-10pcs-3-original-imahd3tuqejgkvjd.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/c/b/e/pure-aloe-vera-gel-for-glowing-face-skin-hair-600-ml-pure-aloe-original-imagzyfhk52nzmmp.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/double-lips-face-care-green-tea-wash-100-ml-markmin-scar-stretch-mark-remover-cream/p/itm3cf7dd42ecd3e",
+  "buyStore": "Flipkart",
+  "title": "DOUBLE LIPS FACE CARE GREEN TEA FACE WASH 100 ML + Markmin Scar & Stretch Mark Remover Cream",
+  "tags": [
+   "scope:both",
+   "format:gel",
+   "format:cream",
+   "format:pack",
+   "format:bar",
+   "format:wash",
+   "format:kit",
+   "ing:green-tea",
+   "ing:aloe-vera",
+   "ing:turmeric",
+   "ing:sandalwood",
+   "claim:brightening",
+   "claim:whitening-claim",
+   "claim:barrier",
+   "claim:soothing",
+   "claim:ayurvedic",
+   "claim:stretch-marks",
+   "claim:scars",
+   "aud:women",
+   "size:standard",
+   "rating:none",
+   "store:flipkart",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
    "actives": [],
    "support": [],
    "formulaNotes": [],
@@ -101563,7 +102269,7 @@ const NXPRODUCTS = [
   "price": 278,
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray",
+  "featureLine": "Gel",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -101579,7 +102285,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Hair-removal cream / spray",
+   "format": "Gel",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -101778,7 +102484,7 @@ const NXPRODUCTS = [
   "price": 299,
   "capacityLine": "30 g",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · ₹997/100g",
+  "featureLine": "Cream · ₹997/100g",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -101795,7 +102501,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "30 g",
    "pricePer100": "₹997/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Not stated in listing",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -102425,7 +103131,7 @@ const NXPRODUCTS = [
   "price": 350,
   "capacityLine": "200 g (pack of 2)",
   "materialLine": "Shea butter",
-  "featureLine": "Body butter · ₹175/100g",
+  "featureLine": "Lip balm · ₹175/100g",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -102442,7 +103148,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 g × 2 pack",
    "pricePer100": "₹175/100g",
-   "format": "Body butter",
+   "format": "Lip balm",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Shea butter (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -102666,7 +103372,7 @@ const NXPRODUCTS = [
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating / moisturizing, Soothing / calming, Dry / very dry skin relief, Stretch marks, Cracked heels / rough feet (seller claim — not clinical proof)",
+   "benefit": "Hydrating / moisturizing, Soothing / calming, Dry / very dry skin relief, Stretch marks, Cracked heels / rough feet, Chapped / dark lips (seller claim — not clinical proof)",
    "skinType": "Dry skin",
    "audience": "Marketed for women",
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
@@ -102705,6 +103411,7 @@ const NXPRODUCTS = [
    "claim:dry-skin-relief",
    "claim:stretch-marks",
    "claim:cracked-heels",
+   "claim:chapped-lips",
    "skin:dry",
    "aud:women",
    "size:large",
@@ -102756,7 +103463,7 @@ const NXPRODUCTS = [
   "price": 189,
   "capacityLine": "50 g",
   "materialLine": "Collagen + Coffee + Rosehip",
-  "featureLine": "Hair-removal cream / spray · ₹378/100g",
+  "featureLine": "Cream · ₹378/100g",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -102772,7 +103479,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹378/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Not stated in listing",
    "keyIngredients": "Collagen, Coffee, Rosehip, Almond, Shea butter, Cocoa butter, Vitamin E, Sea buckthorn (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -103202,7 +103909,7 @@ const NXPRODUCTS = [
   "price": 395,
   "capacityLine": "Quantity not stated",
   "materialLine": "Hyaluronic acid + Collagen + Shea butter",
-  "featureLine": "Hair-removal cream / spray",
+  "featureLine": "Body butter",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -103218,7 +103925,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Hair-removal cream / spray",
+   "format": "Body butter",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Hyaluronic acid, Collagen, Shea butter, Sea buckthorn (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -103313,7 +104020,7 @@ const NXPRODUCTS = [
   "price": 690,
   "capacityLine": "200 ml",
   "materialLine": "Centella / cica + Shea butter",
-  "featureLine": "Hair-removal cream / spray · ₹345/100ml",
+  "featureLine": "Body butter · ₹345/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -103329,7 +104036,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "200 ml",
    "pricePer100": "₹345/100ml",
-   "format": "Hair-removal cream / spray",
+   "format": "Body butter",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Centella / cica, Shea butter (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -103825,7 +104532,7 @@ const NXPRODUCTS = [
   "price": 425,
   "capacityLine": "50 g",
   "materialLine": "Shea butter + Cocoa butter",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹850/100g",
+  "featureLine": "Body butter · Paraben-free · ₹850/100g",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -103841,7 +104548,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹850/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Body butter",
    "appliesTo": "Not stated in listing",
    "keyIngredients": "Shea butter, Cocoa butter (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -103934,7 +104641,7 @@ const NXPRODUCTS = [
   "price": 795,
   "capacityLine": "200 ml",
   "materialLine": "Saffron + Almond + Shea butter",
-  "featureLine": "Hair-removal cream / spray · ₹398/100ml",
+  "featureLine": "Body butter · ₹398/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -103950,7 +104657,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "200 ml",
    "pricePer100": "₹398/100ml",
-   "format": "Hair-removal cream / spray",
+   "format": "Body butter",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Saffron, Almond, Shea butter, Cocoa butter (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -104145,7 +104852,7 @@ const NXPRODUCTS = [
   "price": 229,
   "capacityLine": "50 g",
   "materialLine": "Collagen + Shea butter + Cocoa butter",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹458/100g",
+  "featureLine": "Body butter · Paraben-free · ₹458/100g",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -104161,7 +104868,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹458/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Body butter",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Collagen, Shea butter, Cocoa butter, Vitamin E, Sea buckthorn (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -104465,7 +105172,7 @@ const NXPRODUCTS = [
   "price": 199,
   "capacityLine": "20 g",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · ₹995/100g",
+  "featureLine": "Gel · ₹995/100g",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -104481,7 +105188,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "20 g",
    "pricePer100": "₹995/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Gel",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -104789,7 +105496,7 @@ const NXPRODUCTS = [
   "price": 293,
   "capacityLine": "40 g (pack of 2)",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · ₹733/100g",
+  "featureLine": "Gel · ₹733/100g",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -104805,7 +105512,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "20 g × 2 pack",
    "pricePer100": "₹733/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Gel",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -104896,7 +105603,7 @@ const NXPRODUCTS = [
   "price": 259,
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray",
+  "featureLine": "Gel",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -104912,7 +105619,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Hair-removal cream / spray",
+   "format": "Gel",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -105002,7 +105709,7 @@ const NXPRODUCTS = [
   "price": 249,
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray",
+  "featureLine": "Gel",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -105019,7 +105726,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Hair-removal cream / spray",
+   "format": "Gel",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -105110,7 +105817,7 @@ const NXPRODUCTS = [
   "price": 249,
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray",
+  "featureLine": "Gel",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -105126,7 +105833,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Hair-removal cream / spray",
+   "format": "Gel",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -105211,7 +105918,7 @@ const NXPRODUCTS = [
   "price": 299,
   "capacityLine": "100 g",
   "materialLine": "Aloe vera + Rosehip + Shea butter",
-  "featureLine": "Hair-removal cream / spray · ₹299/100g",
+  "featureLine": "Oil · ₹299/100g",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -105227,7 +105934,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 g",
    "pricePer100": "₹299/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Oil",
    "appliesTo": "Not stated in listing",
    "keyIngredients": "Aloe vera, Rosehip, Shea butter, Cocoa butter, Vitamin E, Chamomile (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -105328,7 +106035,7 @@ const NXPRODUCTS = [
   "price": 1399,
   "capacityLine": "Quantity not stated",
   "materialLine": "Peptides + Shea butter + Coconut",
-  "featureLine": "Hair-removal cream / spray · Paraben-free",
+  "featureLine": "Body butter · Paraben-free",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -105344,7 +106051,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Hair-removal cream / spray",
+   "format": "Body butter",
    "appliesTo": "Not stated in listing",
    "keyIngredients": "Peptides, Shea butter, Coconut (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -105439,7 +106146,7 @@ const NXPRODUCTS = [
   "price": 268,
   "capacityLine": "Quantity not stated",
   "materialLine": "Aloe vera + Neem + Almond",
-  "featureLine": "Hair-removal cream / spray",
+  "featureLine": "Cream",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -105455,7 +106162,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Aloe vera, Neem, Almond (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -109190,7 +109897,7 @@ const NXPRODUCTS = [
   "price": 599,
   "capacityLine": "200 g",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · ₹300/100g",
+  "featureLine": "Cream · ₹300/100g",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -109207,7 +109914,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "200 g",
    "pricePer100": "₹300/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Not stated in listing",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -110725,7 +111432,7 @@ const NXPRODUCTS = [
   "price": 229,
   "capacityLine": "100 g",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · ₹229/100g",
+  "featureLine": "Gel · ₹229/100g",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -110742,7 +111449,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 g",
    "pricePer100": "₹229/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Gel",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -111136,7 +111843,7 @@ const NXPRODUCTS = [
   "price": 299,
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray",
+  "featureLine": "Gel",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -111152,7 +111859,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Hair-removal cream / spray",
+   "format": "Gel",
    "appliesTo": "Not stated in listing",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -112644,7 +113351,7 @@ const NXPRODUCTS = [
   "price": 229,
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray",
+  "featureLine": "Gel",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -112661,7 +113368,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Hair-removal cream / spray",
+   "format": "Gel",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -112754,7 +113461,7 @@ const NXPRODUCTS = [
   "price": 153,
   "capacityLine": "100 g",
   "materialLine": "Shea butter",
-  "featureLine": "Body butter · ₹153/100g",
+  "featureLine": "Other · ₹153/100g",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -112770,7 +113477,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 g",
    "pricePer100": "₹153/100g",
-   "format": "Body butter",
+   "format": "Other",
    "appliesTo": "Not stated in listing",
    "keyIngredients": "Shea butter (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -113921,7 +114628,7 @@ const NXPRODUCTS = [
   "price": 249,
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray",
+  "featureLine": "Cream",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -113938,7 +114645,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -114028,7 +114735,7 @@ const NXPRODUCTS = [
   "price": 500,
   "capacityLine": "50 g (pack of 2)",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · ₹1000/100g",
+  "featureLine": "Cream · ₹1000/100g",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -114044,7 +114751,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "25 g × 2 pack",
    "pricePer100": "₹1000/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Not stated in listing",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -114127,6 +114834,220 @@ const NXPRODUCTS = [
     "url": null
    },
    "buyers": "2.6★ from 0 ratings"
+  }
+ },
+ {
+  "id": "suyu-b0cw6dky64",
+  "brand": "SUYU",
+  "model": "Dark spot and Uneven Tone Repairing Elixir | Kumkumadi Saffron and Astaxanthin Night Oil f…",
+  "price": 1349,
+  "capacityLine": "30 ml",
+  "materialLine": "Saffron + Kumkumadi",
+  "featureLine": "Oil · ₹4497/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 3.2
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹4497/100ml",
+   "format": "Oil",
+   "appliesTo": "Face + body (per listing)",
+   "keyIngredients": "Saffron, Kumkumadi (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Non-comedogenic (seller claim — not scored)",
+   "benefit": "Brightening / glow, Dark spots / pigmentation, Anti-aging / wrinkles, Oil control / matte / non-greasy, Hydrating / moisturizing, Barrier repair, Stretch marks, Overnight / while you sleep (seller claim — not clinical proof)",
+   "skinType": "Dry skin, Mature skin",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.4/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.4★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61loyqbgHjL._SL1254_.jpg",
+   "https://m.media-amazon.com/images/I/71vATevqjyL._SL1254_.jpg",
+   "https://m.media-amazon.com/images/I/61wYvJgcwVL._SL1254_.jpg",
+   "https://m.media-amazon.com/images/I/71-Vc2-PN7L._SL1254_.jpg",
+   "https://m.media-amazon.com/images/I/61Q2iFzVe7L._SL1254_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0CW6DKY64",
+  "buyStore": "Amazon",
+  "title": "Dark spot and Uneven Tone Repairing Elixir | Kumkumadi Saffron and Astaxanthin Night Oil for Glow, Dark Spots | Antioxidant Facial Oil with Superfood Botanicals | For Stretch Marks | For Dry, Normal & Mature Skin | 30ml",
+  "tags": [
+   "scope:both",
+   "format:oil",
+   "ing:saffron",
+   "ing:kumkumadi",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:anti-aging",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:stretch-marks",
+   "claim:overnight",
+   "skin:dry",
+   "skin:mature",
+   "free:non-comedogenic",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "lakshmi-krishna-b0bklqhq8b",
+  "brand": "Lakshmi Krishna",
+  "model": "Black Spot Cream-30g || A revolutionary product that can remove Black Spots, stretch marks…",
+  "price": 405,
+  "capacityLine": "30 g",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Cream · ₹1350/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 1.3
+  },
+  "fullSpec": {
+   "quantity": "30 g",
+   "pricePer100": "₹1350/100g",
+   "format": "Cream",
+   "appliesTo": "Face (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Dark spots / pigmentation, Hydrating / moisturizing, Stretch marks, Scars / marks (seller claim — not clinical proof)",
+   "skinType": "All skin types",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "3.8/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.8★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51gH0QGFv1L._SL1024_.jpg",
+   "https://m.media-amazon.com/images/I/613ro2gXJgL._SL1024_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0BKLQHQ8B",
+  "buyStore": "Amazon",
+  "title": "Lakshmi Krishna Black Spot Cream-30g || A revolutionary product that can remove Black Spots, stretch marks, and scars on your face and leaving your skin smooth and pure ||",
+  "tags": [
+   "scope:face",
+   "format:cream",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:hydrating",
+   "claim:stretch-marks",
+   "claim:scars",
+   "skin:all",
+   "aud:unisex",
+   "size:travel",
+   "rating:3.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.8★ from 0 ratings"
   }
  },
  {
@@ -114249,7 +115170,7 @@ const NXPRODUCTS = [
   "price": 399,
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray",
+  "featureLine": "Cream",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -114266,7 +115187,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -114462,7 +115383,7 @@ const NXPRODUCTS = [
   "price": 260,
   "capacityLine": "100 g",
   "materialLine": "Cocoa butter",
-  "featureLine": "Body butter · ₹260/100g",
+  "featureLine": "Lip balm · ₹260/100g",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -114478,13 +115399,13 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 g",
    "pricePer100": "₹260/100g",
-   "format": "Body butter",
+   "format": "Lip balm",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Cocoa butter (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening / glow, Hydrating / moisturizing, Soothing / calming, Dry / very dry skin relief, Stretch marks, Scars / marks (seller claim — not clinical proof)",
+   "benefit": "Brightening / glow, Hydrating / moisturizing, Soothing / calming, Dry / very dry skin relief, Stretch marks, Scars / marks, Chapped / dark lips (seller claim — not clinical proof)",
    "skinType": "Not stated in listing",
    "audience": "Marketed for men",
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
@@ -114522,6 +115443,7 @@ const NXPRODUCTS = [
    "claim:dry-skin-relief",
    "claim:stretch-marks",
    "claim:scars",
+   "claim:chapped-lips",
    "aud:men",
    "size:standard",
    "rating:4.0",
@@ -114896,7 +115818,7 @@ const NXPRODUCTS = [
   "price": 526,
   "capacityLine": "300 g",
   "materialLine": "Cocoa butter",
-  "featureLine": "Body butter · ₹175/100g",
+  "featureLine": "Lip balm · ₹175/100g",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -114912,7 +115834,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "300 g",
    "pricePer100": "₹175/100g",
-   "format": "Body butter",
+   "format": "Lip balm",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Cocoa butter (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -115528,7 +116450,7 @@ const NXPRODUCTS = [
   "price": 199,
   "capacityLine": "50 g",
   "materialLine": "Collagen + Coffee + Rosehip",
-  "featureLine": "Hair-removal cream / spray · ₹398/100g",
+  "featureLine": "Cream · ₹398/100g",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -115544,7 +116466,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹398/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Not stated in listing",
    "keyIngredients": "Collagen, Coffee, Rosehip, Almond, Shea butter, Cocoa butter, Vitamin E, Sea buckthorn (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -116206,7 +117128,7 @@ const NXPRODUCTS = [
   "price": 329,
   "capacityLine": "100 ml",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · ₹329/100ml",
+  "featureLine": "Oil · ₹329/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -116222,7 +117144,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹329/100ml",
-   "format": "Hair-removal cream / spray",
+   "format": "Oil",
    "appliesTo": "Not stated in listing",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -116890,7 +117812,7 @@ const NXPRODUCTS = [
   "price": 299,
   "capacityLine": "100 g",
   "materialLine": "Shea butter + Vitamin E + Jojoba",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹299/100g",
+  "featureLine": "Cream · Paraben-free · ₹299/100g",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -116906,7 +117828,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 g",
    "pricePer100": "₹299/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Shea butter, Vitamin E, Jojoba (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -117004,7 +117926,7 @@ const NXPRODUCTS = [
   "price": 249,
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray",
+  "featureLine": "Gel",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -117020,7 +117942,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Hair-removal cream / spray",
+   "format": "Gel",
    "appliesTo": "Not stated in listing",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -117111,7 +118033,7 @@ const NXPRODUCTS = [
   "price": 603,
   "capacityLine": "50 ml",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · ₹1206/100ml",
+  "featureLine": "Cream · ₹1206/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -117127,7 +118049,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 ml",
    "pricePer100": "₹1206/100ml",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -117217,7 +118139,7 @@ const NXPRODUCTS = [
   "price": 499,
   "capacityLine": "50 g",
   "materialLine": "Retinol + Almond + Shea butter",
-  "featureLine": "Hair-removal cream / spray · ₹998/100g",
+  "featureLine": "Oil · ₹998/100g",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -117233,7 +118155,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹998/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Oil",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Retinol, Almond, Shea butter, Cocoa butter, Vitamin E, Vitamin B5 / panthenol, Argan oil, Mineral oil (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -117653,7 +118575,7 @@ const NXPRODUCTS = [
   "price": 289,
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray",
+  "featureLine": "Gel",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -117670,7 +118592,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Hair-removal cream / spray",
+   "format": "Gel",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -117759,7 +118681,7 @@ const NXPRODUCTS = [
   "price": 289,
   "capacityLine": "30 g",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · ₹963/100g",
+  "featureLine": "Gel · ₹963/100g",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -117776,7 +118698,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "30 g",
    "pricePer100": "₹963/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Gel",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -117868,7 +118790,7 @@ const NXPRODUCTS = [
   "price": 199,
   "capacityLine": "20 g",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · ₹995/100g",
+  "featureLine": "Gel · ₹995/100g",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -117884,7 +118806,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "20 g",
    "pricePer100": "₹995/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Gel",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -117975,7 +118897,7 @@ const NXPRODUCTS = [
   "price": 199,
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray",
+  "featureLine": "Gel",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -117992,7 +118914,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Hair-removal cream / spray",
+   "format": "Gel",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -118182,7 +119104,7 @@ const NXPRODUCTS = [
   "price": 199,
   "capacityLine": "50 ml",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · ₹398/100ml",
+  "featureLine": "Cream · ₹398/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -118198,7 +119120,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 ml",
    "pricePer100": "₹398/100ml",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -118289,7 +119211,7 @@ const NXPRODUCTS = [
   "price": 498,
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray",
+  "featureLine": "Cream",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -118305,7 +119227,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -118499,7 +119421,7 @@ const NXPRODUCTS = [
   "price": 249,
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray",
+  "featureLine": "Cream",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -118516,7 +119438,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -118602,7 +119524,7 @@ const NXPRODUCTS = [
   "price": 199,
   "capacityLine": "25 g",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · ₹796/100g",
+  "featureLine": "Cream · ₹796/100g",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -118619,7 +119541,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "25 g",
    "pricePer100": "₹796/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Not stated in listing",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -118700,7 +119622,7 @@ const NXPRODUCTS = [
   "price": 399,
   "capacityLine": "100 g",
   "materialLine": "Glycolic acid + Shea butter + Cocoa butter",
-  "featureLine": "Hair-removal cream / spray · ₹399/100g",
+  "featureLine": "Gel · ₹399/100g",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -118717,7 +119639,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 g",
    "pricePer100": "₹399/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Gel",
    "appliesTo": "Not stated in listing",
    "keyIngredients": "Glycolic acid, Shea butter, Cocoa butter (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -118915,7 +119837,7 @@ const NXPRODUCTS = [
   "price": 249,
   "capacityLine": "30 g",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · ₹830/100g",
+  "featureLine": "Cream · ₹830/100g",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -118932,7 +119854,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "30 g",
    "pricePer100": "₹830/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -119131,7 +120053,7 @@ const NXPRODUCTS = [
   "price": 219,
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray",
+  "featureLine": "Gel",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -119148,7 +120070,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Hair-removal cream / spray",
+   "format": "Gel",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -122237,7 +123159,7 @@ const NXPRODUCTS = [
   "price": 749,
   "capacityLine": "30 g",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · ₹2497/100g",
+  "featureLine": "Cream · ₹2497/100g",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -122254,7 +123176,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "30 g",
    "pricePer100": "₹2497/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -122342,7 +123264,7 @@ const NXPRODUCTS = [
   "price": 349,
   "capacityLine": "100 g",
   "materialLine": "Shea butter + Cocoa butter",
-  "featureLine": "Hair-removal cream / spray · ₹349/100g",
+  "featureLine": "Cream · ₹349/100g",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -122359,7 +123281,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 g",
    "pricePer100": "₹349/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Not stated in listing",
    "keyIngredients": "Shea butter, Cocoa butter (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -122746,7 +123668,7 @@ const NXPRODUCTS = [
   "price": 249,
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray",
+  "featureLine": "Cream",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -122763,7 +123685,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Not stated in listing",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -123384,7 +124306,7 @@ const NXPRODUCTS = [
   "price": 248,
   "capacityLine": "30 ml",
   "materialLine": "Turmeric + Almond + Coconut",
-  "featureLine": "Hair-removal cream / spray · ₹827/100ml",
+  "featureLine": "Oil · ₹827/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -123400,7 +124322,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "30 ml",
    "pricePer100": "₹827/100ml",
-   "format": "Hair-removal cream / spray",
+   "format": "Oil",
    "appliesTo": "Not stated in listing",
    "keyIngredients": "Turmeric, Almond, Coconut (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -123708,7 +124630,7 @@ const NXPRODUCTS = [
   "price": 399,
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray",
+  "featureLine": "Gel",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -123725,7 +124647,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Hair-removal cream / spray",
+   "format": "Gel",
    "appliesTo": "Not stated in listing",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -123816,7 +124738,7 @@ const NXPRODUCTS = [
   "price": 249,
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray",
+  "featureLine": "Gel",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -123833,7 +124755,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Hair-removal cream / spray",
+   "format": "Gel",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -124644,7 +125566,7 @@ const NXPRODUCTS = [
   "price": 549,
   "capacityLine": "50 g",
   "materialLine": "Collagen",
-  "featureLine": "Hair-removal cream / spray · ₹1098/100g",
+  "featureLine": "Cream · ₹1098/100g",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -124660,7 +125582,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹1098/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Collagen (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -124975,7 +125897,7 @@ const NXPRODUCTS = [
   "price": 549,
   "capacityLine": "200 g",
   "materialLine": "Saffron + Shea butter + Cocoa butter",
-  "featureLine": "Hair-removal cream / spray · ₹275/100g",
+  "featureLine": "Body butter · ₹275/100g",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -124992,7 +125914,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "200 g",
    "pricePer100": "₹275/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Body butter",
    "appliesTo": "Not stated in listing",
    "keyIngredients": "Saffron, Shea butter, Cocoa butter (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -126147,7 +127069,7 @@ const NXPRODUCTS = [
   "price": 179,
   "capacityLine": "100 g",
   "materialLine": "Glycolic acid + Shea butter + Cocoa butter",
-  "featureLine": "Hair-removal cream / spray · ₹179/100g",
+  "featureLine": "Cream · ₹179/100g",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -126164,7 +127086,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 g",
    "pricePer100": "₹179/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Not stated in listing",
    "keyIngredients": "Glycolic acid, Shea butter, Cocoa butter (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -126488,7 +127410,7 @@ const NXPRODUCTS = [
    "pricePer100": "₹332/100g",
    "format": "Cream",
    "appliesTo": "Body (per listing)",
-   "keyIngredients": "Aloe vera, Vitamin E, Glycerin (named on listing)",
+   "keyIngredients": "Aloe vera, Vitamin E, Glycerin, Beeswax (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
@@ -126519,6 +127441,7 @@ const NXPRODUCTS = [
    "ing:aloe-vera",
    "ing:vitamin-e",
    "ing:glycerin",
+   "ing:beeswax",
    "claim:hydrating",
    "claim:stretch-marks",
    "claim:scars",
@@ -128071,7 +128994,7 @@ const NXPRODUCTS = [
   "price": 225,
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Serum",
+  "featureLine": "Toner",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -128088,7 +129011,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Serum",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -128286,7 +129209,7 @@ const NXPRODUCTS = [
   "price": 399,
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray",
+  "featureLine": "Cream",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -128303,7 +129226,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -130435,7 +131358,7 @@ const NXPRODUCTS = [
   "price": 298,
   "capacityLine": "60 ml",
   "materialLine": "Almond + Shea butter + Coconut",
-  "featureLine": "Hair-removal cream / spray · ₹497/100ml",
+  "featureLine": "Body butter · ₹497/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -130451,7 +131374,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "60 ml",
    "pricePer100": "₹497/100ml",
-   "format": "Hair-removal cream / spray",
+   "format": "Body butter",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Almond, Shea butter, Coconut (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -130785,7 +131708,7 @@ const NXPRODUCTS = [
    "pricePer100": "₹248/100g",
    "format": "Cream",
    "appliesTo": "Body (per listing)",
-   "keyIngredients": "Aloe vera, Vitamin E, Glycerin (named on listing)",
+   "keyIngredients": "Aloe vera, Vitamin E, Glycerin, Beeswax (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
@@ -130816,6 +131739,7 @@ const NXPRODUCTS = [
    "ing:aloe-vera",
    "ing:vitamin-e",
    "ing:glycerin",
+   "ing:beeswax",
    "claim:hydrating",
    "claim:stretch-marks",
    "claim:scars",
@@ -130869,7 +131793,7 @@ const NXPRODUCTS = [
   "price": 399,
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray",
+  "featureLine": "Gel",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -130886,7 +131810,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Hair-removal cream / spray",
+   "format": "Gel",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -130974,7 +131898,7 @@ const NXPRODUCTS = [
   "price": 299,
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray",
+  "featureLine": "Gel",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -130990,7 +131914,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Hair-removal cream / spray",
+   "format": "Gel",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -131081,7 +132005,7 @@ const NXPRODUCTS = [
   "price": 299,
   "capacityLine": "40 g (pack of 2)",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · ₹748/100g",
+  "featureLine": "Gel · ₹748/100g",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -131097,7 +132021,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "20 g × 2 pack",
    "pricePer100": "₹748/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Gel",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -131191,7 +132115,7 @@ const NXPRODUCTS = [
   "price": 199,
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray",
+  "featureLine": "Gel",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -131207,7 +132131,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Hair-removal cream / spray",
+   "format": "Gel",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -131407,7 +132331,7 @@ const NXPRODUCTS = [
   "price": 199,
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray",
+  "featureLine": "Gel",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -131423,7 +132347,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Hair-removal cream / spray",
+   "format": "Gel",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -131507,7 +132431,7 @@ const NXPRODUCTS = [
   "price": 244,
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray",
+  "featureLine": "Gel",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -131523,7 +132447,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Hair-removal cream / spray",
+   "format": "Gel",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -131828,7 +132752,7 @@ const NXPRODUCTS = [
   "price": 473,
   "capacityLine": "100 g",
   "materialLine": "Hyaluronic acid + Tea tree",
-  "featureLine": "Hair-removal cream / spray · ₹473/100g",
+  "featureLine": "Oil · ₹473/100g",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -131844,7 +132768,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 g",
    "pricePer100": "₹473/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Oil",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Hyaluronic acid, Tea tree (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -131934,7 +132858,7 @@ const NXPRODUCTS = [
   "price": 249,
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray",
+  "featureLine": "Cream",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -131951,7 +132875,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Not stated in listing",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -132043,7 +132967,7 @@ const NXPRODUCTS = [
   "price": 699,
   "capacityLine": "50 g",
   "materialLine": "Shea butter + Cocoa butter + Jojoba",
-  "featureLine": "Hair-removal cream / spray · ₹1398/100g",
+  "featureLine": "Body butter · ₹1398/100g",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -132059,7 +132983,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹1398/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Body butter",
    "appliesTo": "Not stated in listing",
    "keyIngredients": "Shea butter, Cocoa butter, Jojoba, Coconut (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -132152,7 +133076,7 @@ const NXPRODUCTS = [
   "price": 279,
   "capacityLine": "Quantity not stated",
   "materialLine": "Shea butter + Cocoa butter + Vitamin E",
-  "featureLine": "Hair-removal cream / spray",
+  "featureLine": "Body butter",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -132169,7 +133093,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Hair-removal cream / spray",
+   "format": "Body butter",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Shea butter, Cocoa butter, Vitamin E (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -132257,7 +133181,7 @@ const NXPRODUCTS = [
   "price": 199,
   "capacityLine": "30 ml",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Wash / cleanser · ₹663/100ml",
+  "featureLine": "Cleansing oil · ₹663/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -132273,7 +133197,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "30 ml",
    "pricePer100": "₹663/100ml",
-   "format": "Wash / cleanser",
+   "format": "Cleansing oil",
    "appliesTo": "Not stated in listing",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -132308,6 +133232,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:oil",
    "format:wash",
+   "format:cleansing-oil",
    "claim:hydrating",
    "claim:barrier",
    "claim:soothing",
@@ -132367,7 +133292,7 @@ const NXPRODUCTS = [
   "price": 299,
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray",
+  "featureLine": "Gel",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -132383,7 +133308,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Hair-removal cream / spray",
+   "format": "Gel",
    "appliesTo": "Not stated in listing",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -132474,7 +133399,7 @@ const NXPRODUCTS = [
   "price": 285,
   "capacityLine": "Quantity not stated",
   "materialLine": "Collagen",
-  "featureLine": "Hair-removal cream / spray",
+  "featureLine": "Gel",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -132490,7 +133415,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Hair-removal cream / spray",
+   "format": "Gel",
    "appliesTo": "Not stated in listing",
    "keyIngredients": "Collagen (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -132584,7 +133509,7 @@ const NXPRODUCTS = [
   "price": 229,
   "capacityLine": "20 g",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · ₹1145/100g",
+  "featureLine": "Gel · ₹1145/100g",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -132600,7 +133525,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "20 g",
    "pricePer100": "₹1145/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Gel",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -134219,7 +135144,7 @@ const NXPRODUCTS = [
   "price": 299,
   "capacityLine": "100 ml",
   "materialLine": "Vitamin C + Collagen + Rosehip",
-  "featureLine": "Hair-removal cream / spray · ₹299/100ml",
+  "featureLine": "Oil · ₹299/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -134235,7 +135160,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹299/100ml",
-   "format": "Hair-removal cream / spray",
+   "format": "Oil",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Vitamin C, Collagen, Rosehip, Almond, Vitamin E, Jojoba, Coconut, Sea buckthorn, Olive, Mineral oil (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -134541,7 +135466,7 @@ const NXPRODUCTS = [
   "price": 616,
   "capacityLine": "100 g",
   "materialLine": "Hyaluronic acid + Coffee + Aloe vera",
-  "featureLine": "Hair-removal cream / spray · ₹616/100g",
+  "featureLine": "Cream · ₹616/100g",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -134557,7 +135482,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 g",
    "pricePer100": "₹616/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Not stated in listing",
    "keyIngredients": "Hyaluronic acid, Coffee, Aloe vera (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -135715,7 +136640,7 @@ const NXPRODUCTS = [
   "price": 349,
   "capacityLine": "100 g",
   "materialLine": "Shea butter + Cocoa butter + Vitamin E",
-  "featureLine": "Hair-removal cream / spray · ₹349/100g",
+  "featureLine": "Cream · ₹349/100g",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -135732,7 +136657,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 g",
    "pricePer100": "₹349/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Not stated in listing",
    "keyIngredients": "Shea butter, Cocoa butter, Vitamin E (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -136877,7 +137802,7 @@ const NXPRODUCTS = [
   "price": 999,
   "capacityLine": "50 g",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Cream · ₹1998/100g",
+  "featureLine": "Other · ₹1998/100g",
   "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Mederma official website (mederma.co.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "glycerin high on the INCI list (strong evidence); dimethicone high on the INCI list (moderate evidence)"
@@ -136895,7 +137820,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹1998/100g",
-   "format": "Cream",
+   "format": "Other",
    "appliesTo": "Not stated in listing",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -137892,7 +138817,7 @@ const NXPRODUCTS = [
   "price": 399,
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · Paraben-free",
+  "featureLine": "Cream · Paraben-free",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -137909,7 +138834,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -138639,7 +139564,7 @@ const NXPRODUCTS = [
   "price": 428,
   "capacityLine": "300 g (pack of 3)",
   "materialLine": "Shea butter",
-  "featureLine": "Body butter · ₹143/100g",
+  "featureLine": "Other · ₹143/100g",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -138655,7 +139580,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 g × 3 pack",
    "pricePer100": "₹143/100g",
-   "format": "Body butter",
+   "format": "Other",
    "appliesTo": "Not stated in listing",
    "keyIngredients": "Shea butter (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -138749,7 +139674,7 @@ const NXPRODUCTS = [
   "price": 349,
   "capacityLine": "100 g",
   "materialLine": "Shea butter + Cocoa butter + Vitamin E",
-  "featureLine": "Hair-removal cream / spray · ₹349/100g",
+  "featureLine": "Body butter · ₹349/100g",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -138766,7 +139691,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 g",
    "pricePer100": "₹349/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Body butter",
    "appliesTo": "Not stated in listing",
    "keyIngredients": "Shea butter, Cocoa butter, Vitamin E, Coconut, Lavender (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -139388,7 +140313,7 @@ const NXPRODUCTS = [
   "price": 599,
   "capacityLine": "200 g",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · Sulfate/SLS-free · ₹300/100g",
+  "featureLine": "Cream · Sulfate/SLS-free · ₹300/100g",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -139405,7 +140330,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "200 g",
    "pricePer100": "₹300/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Not stated in listing",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Sulfate/SLS-free (seller claim — not scored)",
@@ -139487,7 +140412,7 @@ const NXPRODUCTS = [
   "price": 1099,
   "capacityLine": "40 g",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · ₹2748/100g",
+  "featureLine": "Cream · ₹2748/100g",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -139504,7 +140429,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "40 g",
    "pricePer100": "₹2748/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -139757,7 +140682,6 @@ const NXPRODUCTS = [
   "tags": [
    "scope:body",
    "format:balm",
-   "format:body-wax",
    "ing:shea-butter",
    "ing:vitamin-e",
    "ing:glycerin",
@@ -139960,7 +140884,7 @@ const NXPRODUCTS = [
   "price": 399,
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray",
+  "featureLine": "Cream",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -139977,7 +140901,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -140522,7 +141446,7 @@ const NXPRODUCTS = [
   "price": 399,
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · Paraben-free",
+  "featureLine": "Cream · Paraben-free",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -140539,7 +141463,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -140732,7 +141656,7 @@ const NXPRODUCTS = [
   "price": 349,
   "capacityLine": "100 g",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · ₹349/100g",
+  "featureLine": "Cream · ₹349/100g",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -140749,7 +141673,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 g",
    "pricePer100": "₹349/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Not stated in listing",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -140835,7 +141759,7 @@ const NXPRODUCTS = [
   "price": 399,
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray",
+  "featureLine": "Cream",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -140851,7 +141775,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -140940,7 +141864,7 @@ const NXPRODUCTS = [
   "price": 199,
   "capacityLine": "20 g",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · ₹995/100g",
+  "featureLine": "Gel · ₹995/100g",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -140957,7 +141881,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "20 g",
    "pricePer100": "₹995/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Gel",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -142046,7 +142970,7 @@ const NXPRODUCTS = [
   "price": 149,
   "capacityLine": "60 ml",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · ₹248/100ml",
+  "featureLine": "Cream · ₹248/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -142062,7 +142986,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "60 ml",
    "pricePer100": "₹248/100ml",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Not stated in listing",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -142146,7 +143070,7 @@ const NXPRODUCTS = [
   "price": 219,
   "capacityLine": "100 ml",
   "materialLine": "Collagen",
-  "featureLine": "Hair-removal cream / spray · ₹219/100ml",
+  "featureLine": "Cream · ₹219/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -142162,7 +143086,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹219/100ml",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Not stated in listing",
    "keyIngredients": "Collagen (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -142565,7 +143489,7 @@ const NXPRODUCTS = [
   "price": 199,
   "capacityLine": "100 g",
   "materialLine": "Vitamin C + Niacinamide + Collagen",
-  "featureLine": "Hair-removal cream / spray · ₹199/100g",
+  "featureLine": "Cream · ₹199/100g",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -142581,7 +143505,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 g",
    "pricePer100": "₹199/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Vitamin C, Niacinamide, Collagen, Rosehip, Almond, Zinc, Titanium dioxide, Glycerin, Argan oil, Olive, Chamomile, Lavender, Calendula (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -142615,7 +143539,6 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:oil",
-   "format:body-wax",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:collagen",
@@ -142792,7 +143715,7 @@ const NXPRODUCTS = [
   "price": 159,
   "capacityLine": "60 ml",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · ₹265/100ml",
+  "featureLine": "Cream · ₹265/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -142809,7 +143732,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "60 ml",
    "pricePer100": "₹265/100ml",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Not stated in listing",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -143645,7 +144568,7 @@ const NXPRODUCTS = [
   "price": 397,
   "capacityLine": "50 g",
   "materialLine": "Collagen + Shea butter + Cocoa butter",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹794/100g",
+  "featureLine": "Body butter · Paraben-free · ₹794/100g",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -143661,7 +144584,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹794/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Body butter",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Collagen, Shea butter, Cocoa butter, Vitamin E, Sea buckthorn (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -143763,7 +144686,7 @@ const NXPRODUCTS = [
   "price": 299,
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray",
+  "featureLine": "Gel",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -143780,7 +144703,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Hair-removal cream / spray",
+   "format": "Gel",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -143872,7 +144795,7 @@ const NXPRODUCTS = [
   "price": 289,
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray",
+  "featureLine": "Gel",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -143889,7 +144812,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Hair-removal cream / spray",
+   "format": "Gel",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -143984,7 +144907,7 @@ const NXPRODUCTS = [
   "price": 229,
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray",
+  "featureLine": "Gel",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -144000,7 +144923,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Hair-removal cream / spray",
+   "format": "Gel",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -144092,7 +145015,7 @@ const NXPRODUCTS = [
   "price": 229,
   "capacityLine": "30 g",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · ₹763/100g",
+  "featureLine": "Gel · ₹763/100g",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -144108,7 +145031,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "30 g",
    "pricePer100": "₹763/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Gel",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -144201,7 +145124,7 @@ const NXPRODUCTS = [
   "price": 249,
   "capacityLine": "Quantity not stated",
   "materialLine": "Centella / cica + Squalane + Shea butter",
-  "featureLine": "Hair-removal cream / spray",
+  "featureLine": "Gel",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -144217,7 +145140,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Hair-removal cream / spray",
+   "format": "Gel",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Centella / cica, Squalane, Shea butter (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -144314,7 +145237,7 @@ const NXPRODUCTS = [
   "price": 149,
   "capacityLine": "30 g",
   "materialLine": "Sandalwood + Rose",
-  "featureLine": "Hair-removal cream / spray · ₹497/100g",
+  "featureLine": "Cream · ₹497/100g",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -144330,7 +145253,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "30 g",
    "pricePer100": "₹497/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Not stated in listing",
    "keyIngredients": "Sandalwood, Rose (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -144424,7 +145347,7 @@ const NXPRODUCTS = [
   "price": 300,
   "capacityLine": "50 g",
   "materialLine": "Collagen + Rosehip + Cocoa butter",
-  "featureLine": "Hair-removal cream / spray · ₹600/100g",
+  "featureLine": "Cream · ₹600/100g",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -144440,7 +145363,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹600/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Not stated in listing",
    "keyIngredients": "Collagen, Rosehip, Cocoa butter, Jojoba, Olive (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -144642,7 +145565,7 @@ const NXPRODUCTS = [
   "price": 349,
   "capacityLine": "Quantity not stated",
   "materialLine": "Hyaluronic acid + Rosehip",
-  "featureLine": "Hair-removal cream / spray",
+  "featureLine": "Cream",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -144658,7 +145581,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Hyaluronic acid, Rosehip (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -144747,7 +145670,7 @@ const NXPRODUCTS = [
   "price": 299,
   "capacityLine": "100 g",
   "materialLine": "Argan oil",
-  "featureLine": "Hair-removal cream / spray · ₹299/100g",
+  "featureLine": "Cream · ₹299/100g",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -144764,7 +145687,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 g",
    "pricePer100": "₹299/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Not stated in listing",
    "keyIngredients": "Argan oil (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -144855,7 +145778,7 @@ const NXPRODUCTS = [
   "price": 309,
   "capacityLine": "Quantity not stated",
   "materialLine": "Aloe vera + Almond + Argan oil",
-  "featureLine": "Hair-removal cream / spray · Paraben-free",
+  "featureLine": "Oil · Paraben-free",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -144871,7 +145794,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Hair-removal cream / spray",
+   "format": "Oil",
    "appliesTo": "Not stated in listing",
    "keyIngredients": "Aloe vera, Almond, Argan oil, Jojoba, Lemon, Chamomile, Lavender (named on listing)",
    "freeFrom": "Paraben-free, Sulfate/SLS-free (seller claim — not scored)",
@@ -145187,7 +146110,7 @@ const NXPRODUCTS = [
   "price": 199,
   "capacityLine": "20 g",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · ₹995/100g",
+  "featureLine": "Gel · ₹995/100g",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -145203,7 +146126,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "20 g",
    "pricePer100": "₹995/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Gel",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -147411,7 +148334,7 @@ const NXPRODUCTS = [
   "price": 249,
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray",
+  "featureLine": "Cream",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -147428,7 +148351,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -148394,7 +149317,7 @@ const NXPRODUCTS = [
   "price": 349,
   "capacityLine": "100 g",
   "materialLine": "Shea butter + Cocoa butter + Vitamin E",
-  "featureLine": "Hair-removal cream / spray · ₹349/100g",
+  "featureLine": "Cream · ₹349/100g",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -148411,7 +149334,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 g",
    "pricePer100": "₹349/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Shea butter, Cocoa butter, Vitamin E (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -149759,7 +150682,7 @@ const NXPRODUCTS = [
   "price": 399,
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray",
+  "featureLine": "Gel",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -149776,7 +150699,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Hair-removal cream / spray",
+   "format": "Gel",
    "appliesTo": "Not stated in listing",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -149865,7 +150788,7 @@ const NXPRODUCTS = [
   "price": 279,
   "capacityLine": "50 g",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · ₹558/100g",
+  "featureLine": "Gel · ₹558/100g",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -149882,7 +150805,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹558/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Gel",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -150183,7 +151106,7 @@ const NXPRODUCTS = [
   "price": 399,
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · Paraben-free",
+  "featureLine": "Cream · Paraben-free",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -150200,7 +151123,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -150829,7 +151752,7 @@ const NXPRODUCTS = [
   "price": 549,
   "capacityLine": "200 g",
   "materialLine": "Saffron + Shea butter + Cocoa butter",
-  "featureLine": "Hair-removal cream / spray · ₹275/100g",
+  "featureLine": "Body butter · ₹275/100g",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -150846,7 +151769,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "200 g",
    "pricePer100": "₹275/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Body butter",
    "appliesTo": "Not stated in listing",
    "keyIngredients": "Saffron, Shea butter, Cocoa butter, Vitamin E (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -150940,7 +151863,7 @@ const NXPRODUCTS = [
   "price": 549,
   "capacityLine": "200 g",
   "materialLine": "Shea butter + Cocoa butter",
-  "featureLine": "Hair-removal cream / spray · ₹275/100g",
+  "featureLine": "Cream · ₹275/100g",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -150957,7 +151880,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "200 g",
    "pricePer100": "₹275/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Not stated in listing",
    "keyIngredients": "Shea butter, Cocoa butter (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -151684,7 +152607,7 @@ const NXPRODUCTS = [
   "price": 249,
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray",
+  "featureLine": "Cream",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -151701,7 +152624,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Not stated in listing",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -152235,7 +153158,7 @@ const NXPRODUCTS = [
   "price": 249,
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray",
+  "featureLine": "Cream",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -152252,7 +153175,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Not stated in listing",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -152338,7 +153261,7 @@ const NXPRODUCTS = [
   "price": 649,
   "capacityLine": "400 g (pack of 4)",
   "materialLine": "Glycolic acid + Shea butter + Cocoa butter",
-  "featureLine": "Hair-removal cream / spray · ₹162/100g",
+  "featureLine": "Cream · ₹162/100g",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -152355,7 +153278,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 g × 4 pack",
    "pricePer100": "₹162/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Not stated in listing",
    "keyIngredients": "Glycolic acid, Shea butter, Cocoa butter (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -152442,7 +153365,7 @@ const NXPRODUCTS = [
   "price": 1089,
   "capacityLine": "40 g",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · ₹2723/100g",
+  "featureLine": "Cream · ₹2723/100g",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -152458,7 +153381,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "40 g",
    "pricePer100": "₹2723/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -153097,7 +154020,7 @@ const NXPRODUCTS = [
   "price": 589,
   "capacityLine": "250 g",
   "materialLine": "Cocoa butter",
-  "featureLine": "Body butter · ₹236/100g",
+  "featureLine": "Lip balm · ₹236/100g",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -153114,7 +154037,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "250 g",
    "pricePer100": "₹236/100g",
-   "format": "Body butter",
+   "format": "Lip balm",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Cocoa butter (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -153856,7 +154779,7 @@ const NXPRODUCTS = [
   "price": 391,
   "capacityLine": "50 g",
   "materialLine": "Hyaluronic acid + Coffee + Aloe vera",
-  "featureLine": "Hair-removal cream / spray · ₹782/100g",
+  "featureLine": "Cream · ₹782/100g",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -153872,7 +154795,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹782/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Not stated in listing",
    "keyIngredients": "Hyaluronic acid, Coffee, Aloe vera (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -154460,7 +155383,7 @@ const NXPRODUCTS = [
   "price": 497,
   "capacityLine": "50 ml",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · ₹994/100ml",
+  "featureLine": "Cream · ₹994/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -154476,7 +155399,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 ml",
    "pricePer100": "₹994/100ml",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -155538,7 +156461,7 @@ const NXPRODUCTS = [
   "price": 249,
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray",
+  "featureLine": "Cream",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -155554,7 +156477,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -155639,7 +156562,7 @@ const NXPRODUCTS = [
   "price": 199,
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray",
+  "featureLine": "Gel",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -155656,7 +156579,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Hair-removal cream / spray",
+   "format": "Gel",
    "appliesTo": "Not stated in listing",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -155747,7 +156670,7 @@ const NXPRODUCTS = [
   "price": 399,
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray",
+  "featureLine": "Gel",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -155764,7 +156687,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Hair-removal cream / spray",
+   "format": "Gel",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -155962,7 +156885,7 @@ const NXPRODUCTS = [
   "price": 219,
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray",
+  "featureLine": "Gel",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -155978,7 +156901,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Hair-removal cream / spray",
+   "format": "Gel",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -156067,7 +156990,7 @@ const NXPRODUCTS = [
   "price": 349,
   "capacityLine": "60 g (pack of 3)",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · ₹582/100g",
+  "featureLine": "Gel · ₹582/100g",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -156083,7 +157006,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "20 g × 3 pack",
    "pricePer100": "₹582/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Gel",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -156177,7 +157100,7 @@ const NXPRODUCTS = [
   "price": 199,
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray",
+  "featureLine": "Gel",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -156193,7 +157116,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Hair-removal cream / spray",
+   "format": "Gel",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -156285,7 +157208,7 @@ const NXPRODUCTS = [
   "price": 149,
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray",
+  "featureLine": "Gel",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -156302,7 +157225,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Hair-removal cream / spray",
+   "format": "Gel",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -156389,7 +157312,7 @@ const NXPRODUCTS = [
   "price": 314,
   "capacityLine": "100 g",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · ₹314/100g",
+  "featureLine": "Cream · ₹314/100g",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -156405,7 +157328,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 g",
    "pricePer100": "₹314/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Not stated in listing",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -156496,7 +157419,7 @@ const NXPRODUCTS = [
   "price": 301,
   "capacityLine": "50 g",
   "materialLine": "Saffron + Almond + Shea butter",
-  "featureLine": "Hair-removal cream / spray · ₹602/100g",
+  "featureLine": "Body butter · ₹602/100g",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -156512,7 +157435,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹602/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Body butter",
    "appliesTo": "Not stated in listing",
    "keyIngredients": "Saffron, Almond, Shea butter, Jojoba (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -156609,7 +157532,7 @@ const NXPRODUCTS = [
   "price": 799,
   "capacityLine": "60 g",
   "materialLine": "Peptides + Collagen + Shea butter",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹1332/100g",
+  "featureLine": "Body butter · Paraben-free · ₹1332/100g",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -156625,7 +157548,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "60 g",
    "pricePer100": "₹1332/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Body butter",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Peptides, Collagen, Shea butter, Coconut (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -156723,7 +157646,7 @@ const NXPRODUCTS = [
   "price": 255,
   "capacityLine": "50 g",
   "materialLine": "Aloe vera + Kumkumadi + Shea butter",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹510/100g",
+  "featureLine": "Cream · Paraben-free · ₹510/100g",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -156739,7 +157662,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹510/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Not stated in listing",
    "keyIngredients": "Aloe vera, Kumkumadi, Shea butter, Coconut (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -157146,7 +158069,7 @@ const NXPRODUCTS = [
   "price": 299,
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray",
+  "featureLine": "Gel",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -157162,7 +158085,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Hair-removal cream / spray",
+   "format": "Gel",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -159481,7 +160404,7 @@ const NXPRODUCTS = [
   "price": 549,
   "capacityLine": "50 g",
   "materialLine": "Collagen",
-  "featureLine": "Hair-removal cream / spray · ₹1098/100g",
+  "featureLine": "Cream · ₹1098/100g",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -159498,7 +160421,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹1098/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Collagen (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -159694,7 +160617,7 @@ const NXPRODUCTS = [
   "price": 249,
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray",
+  "featureLine": "Cream",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -159711,7 +160634,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -160280,7 +161203,7 @@ const NXPRODUCTS = [
   "price": 349,
   "capacityLine": "100 g",
   "materialLine": "Shea butter + Cocoa butter + Vitamin E",
-  "featureLine": "Hair-removal cream / spray · ₹349/100g",
+  "featureLine": "Cream · ₹349/100g",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -160297,7 +161220,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 g",
    "pricePer100": "₹349/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Not stated in listing",
    "keyIngredients": "Shea butter, Cocoa butter, Vitamin E (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -160390,7 +161313,7 @@ const NXPRODUCTS = [
   "price": 299,
   "capacityLine": "50 g",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · ₹598/100g",
+  "featureLine": "Cream · ₹598/100g",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -160407,7 +161330,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹598/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Not stated in listing",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -161680,7 +162603,7 @@ const NXPRODUCTS = [
   "price": 349,
   "capacityLine": "100 g",
   "materialLine": "Shea butter",
-  "featureLine": "Hair-removal cream / spray · ₹349/100g",
+  "featureLine": "Cream · ₹349/100g",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -161697,7 +162620,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 g",
    "pricePer100": "₹349/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Not stated in listing",
    "keyIngredients": "Shea butter (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -161784,7 +162707,7 @@ const NXPRODUCTS = [
   "price": 299,
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray",
+  "featureLine": "Gel",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -161801,7 +162724,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Hair-removal cream / spray",
+   "format": "Gel",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -162728,7 +163651,7 @@ const NXPRODUCTS = [
   "price": 649,
   "capacityLine": "50 g",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · ₹1298/100g",
+  "featureLine": "Cream · ₹1298/100g",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -162745,7 +163668,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹1298/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Not stated in listing",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -163375,7 +164298,7 @@ const NXPRODUCTS = [
   "price": 349,
   "capacityLine": "100 g",
   "materialLine": "Saffron + Shea butter + Cocoa butter",
-  "featureLine": "Hair-removal cream / spray · ₹349/100g",
+  "featureLine": "Body butter · ₹349/100g",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -163392,7 +164315,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 g",
    "pricePer100": "₹349/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Body butter",
    "appliesTo": "Not stated in listing",
    "keyIngredients": "Saffron, Shea butter, Cocoa butter, Vitamin E (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -164563,7 +165486,7 @@ const NXPRODUCTS = [
   "price": 399,
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray",
+  "featureLine": "Gel",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -164579,7 +165502,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Hair-removal cream / spray",
+   "format": "Gel",
    "appliesTo": "Not stated in listing",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -165634,7 +166557,7 @@ const NXPRODUCTS = [
   "price": 715,
   "capacityLine": "300 g",
   "materialLine": "Cocoa butter",
-  "featureLine": "Body butter · ₹238/100g",
+  "featureLine": "Lip balm · ₹238/100g",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -165650,13 +166573,13 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "300 g",
    "pricePer100": "₹238/100g",
-   "format": "Body butter",
+   "format": "Lip balm",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Cocoa butter (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating / moisturizing, Soothing / calming, Stretch marks, Scars / marks (seller claim — not clinical proof)",
+   "benefit": "Hydrating / moisturizing, Soothing / calming, Stretch marks, Scars / marks, Chapped / dark lips (seller claim — not clinical proof)",
    "skinType": "Sensitive skin",
    "audience": "Marketed for men",
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
@@ -165686,6 +166609,7 @@ const NXPRODUCTS = [
    "claim:soothing",
    "claim:stretch-marks",
    "claim:scars",
+   "claim:chapped-lips",
    "skin:sensitive",
    "free:sensitive-safe",
    "aud:men",
@@ -166058,7 +166982,7 @@ const NXPRODUCTS = [
   "price": 538,
   "capacityLine": "200 ml",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹269/100ml",
+  "featureLine": "Wash / cleanser · Paraben-free · ₹269/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -166074,7 +166998,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "200 ml",
    "pricePer100": "₹269/100ml",
-   "format": "Hair-removal cream / spray",
+   "format": "Wash / cleanser",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -166599,7 +167523,7 @@ const NXPRODUCTS = [
   "price": 349,
   "capacityLine": "100 g",
   "materialLine": "Aloe vera + Shea butter + Cocoa butter",
-  "featureLine": "Hair-removal cream / spray · ₹349/100g",
+  "featureLine": "Body butter · ₹349/100g",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -166615,7 +167539,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 g",
    "pricePer100": "₹349/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Body butter",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Aloe vera, Shea butter, Cocoa butter, Jojoba, Coconut (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -167141,7 +168065,7 @@ const NXPRODUCTS = [
   "price": 1875,
   "capacityLine": "200 ml",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Cream · ₹938/100ml",
+  "featureLine": "Other · ₹938/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "Made by Sebapharma GmbH (dermatology / pharma maker)"
@@ -167158,7 +168082,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "200 ml",
    "pricePer100": "₹938/100ml",
-   "format": "Cream",
+   "format": "Other",
    "appliesTo": "Not stated in listing",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -167786,7 +168710,7 @@ const NXPRODUCTS = [
   "price": 297,
   "capacityLine": "30 g",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · ₹990/100g",
+  "featureLine": "Cream · ₹990/100g",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -167802,7 +168726,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "30 g",
    "pricePer100": "₹990/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Not stated in listing",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -167893,7 +168817,7 @@ const NXPRODUCTS = [
   "price": 249,
   "capacityLine": "30 g",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · ₹830/100g",
+  "featureLine": "Cream · ₹830/100g",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -167910,7 +168834,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "30 g",
    "pricePer100": "₹830/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -168006,7 +168930,7 @@ const NXPRODUCTS = [
   "price": 199,
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray",
+  "featureLine": "Gel",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -168022,7 +168946,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Hair-removal cream / spray",
+   "format": "Gel",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -168109,7 +169033,7 @@ const NXPRODUCTS = [
   "price": 225,
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray",
+  "featureLine": "Gel",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -168126,7 +169050,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Hair-removal cream / spray",
+   "format": "Gel",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -168213,7 +169137,7 @@ const NXPRODUCTS = [
   "price": 389,
   "capacityLine": "60 g (pack of 3)",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · ₹648/100g",
+  "featureLine": "Gel · ₹648/100g",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -168229,7 +169153,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "20 g × 3 pack",
    "pricePer100": "₹648/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Gel",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -168320,7 +169244,7 @@ const NXPRODUCTS = [
   "price": 299,
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray",
+  "featureLine": "Gel",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -168336,7 +169260,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Hair-removal cream / spray",
+   "format": "Gel",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -168431,7 +169355,7 @@ const NXPRODUCTS = [
   "price": 159,
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray",
+  "featureLine": "Gel",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -168448,7 +169372,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Hair-removal cream / spray",
+   "format": "Gel",
    "appliesTo": "Not stated in listing",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -168537,7 +169461,7 @@ const NXPRODUCTS = [
   "price": 199,
   "capacityLine": "50 g",
   "materialLine": "Peptides + Collagen",
-  "featureLine": "Hair-removal cream / spray · ₹398/100g",
+  "featureLine": "Cream · ₹398/100g",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -168553,7 +169477,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹398/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Not stated in listing",
    "keyIngredients": "Peptides, Collagen (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -168641,7 +169565,7 @@ const NXPRODUCTS = [
   "price": 299,
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray",
+  "featureLine": "Cream",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -168658,7 +169582,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Not stated in listing",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -168742,7 +169666,7 @@ const NXPRODUCTS = [
   "price": 275,
   "capacityLine": "50 g",
   "materialLine": "Hyaluronic acid + Licorice",
-  "featureLine": "Hair-removal cream / spray · ₹550/100g",
+  "featureLine": "Toner · ₹550/100g",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -168758,7 +169682,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹550/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Toner",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Hyaluronic acid, Licorice (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -168853,7 +169777,7 @@ const NXPRODUCTS = [
   "price": 1099,
   "capacityLine": "Quantity not stated",
   "materialLine": "Collagen",
-  "featureLine": "Hair-removal cream / spray",
+  "featureLine": "Cream",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -168869,7 +169793,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Collagen (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -168956,7 +169880,7 @@ const NXPRODUCTS = [
   "price": 1199,
   "capacityLine": "40 g",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · ₹2998/100g",
+  "featureLine": "Cream · ₹2998/100g",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -168973,7 +169897,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "40 g",
    "pricePer100": "₹2998/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -169395,7 +170319,7 @@ const NXPRODUCTS = [
   "price": 299,
   "capacityLine": "100 g",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · ₹299/100g",
+  "featureLine": "Gel · ₹299/100g",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -169412,7 +170336,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 g",
    "pricePer100": "₹299/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Gel",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -171549,7 +172473,7 @@ const NXPRODUCTS = [
   "price": 325,
   "capacityLine": "50 g",
   "materialLine": "Aloe vera + Milk",
-  "featureLine": "Hair-removal cream / spray · ₹650/100g",
+  "featureLine": "Lotion · ₹650/100g",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -171565,7 +172489,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹650/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Lotion",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Aloe vera, Milk (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -172770,7 +173694,7 @@ const NXPRODUCTS = [
   "price": 609,
   "capacityLine": "50 g",
   "materialLine": "Retinol + Hyaluronic acid + Peptides",
-  "featureLine": "Hair-removal cream / spray · ₹1218/100g",
+  "featureLine": "Body butter · ₹1218/100g",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -172787,7 +173711,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹1218/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Body butter",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Retinol, Hyaluronic acid, Peptides, Collagen, Aloe vera, Shea butter, Cocoa butter, Chamomile (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -172884,7 +173808,7 @@ const NXPRODUCTS = [
   "price": 349,
   "capacityLine": "100 g",
   "materialLine": "Shea butter + Cocoa butter + Vitamin E",
-  "featureLine": "Hair-removal cream / spray · ₹349/100g",
+  "featureLine": "Cream · ₹349/100g",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -172901,7 +173825,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 g",
    "pricePer100": "₹349/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Shea butter, Cocoa butter, Vitamin E (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -173852,7 +174776,7 @@ const NXPRODUCTS = [
   "price": 1880,
   "capacityLine": "Quantity not stated",
   "materialLine": "Peptides + Shea butter + Coconut",
-  "featureLine": "Hair-removal cream / spray · Paraben-free",
+  "featureLine": "Body butter · Paraben-free",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -173868,7 +174792,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Hair-removal cream / spray",
+   "format": "Body butter",
    "appliesTo": "Not stated in listing",
    "keyIngredients": "Peptides, Shea butter, Coconut (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -173963,7 +174887,7 @@ const NXPRODUCTS = [
   "price": 399,
   "capacityLine": "50 g",
   "materialLine": "Aloe vera",
-  "featureLine": "Hair-removal cream / spray · ₹798/100g",
+  "featureLine": "Cream · ₹798/100g",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -173980,7 +174904,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹798/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Aloe vera (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -174184,7 +175108,7 @@ const NXPRODUCTS = [
   "price": 537,
   "capacityLine": "30 g",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · ₹1790/100g",
+  "featureLine": "Cream · ₹1790/100g",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -174201,7 +175125,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "30 g",
    "pricePer100": "₹1790/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -174500,7 +175424,7 @@ const NXPRODUCTS = [
   "price": 399,
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · Paraben-free",
+  "featureLine": "Cream · Paraben-free",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -174517,7 +175441,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Hair-removal cream / spray",
+   "format": "Cream",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -174606,7 +175530,7 @@ const NXPRODUCTS = [
   "price": 299,
   "capacityLine": "100 g",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · ₹299/100g",
+  "featureLine": "Gel · ₹299/100g",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -174623,7 +175547,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 g",
    "pricePer100": "₹299/100g",
-   "format": "Hair-removal cream / spray",
+   "format": "Gel",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -174715,7 +175639,7 @@ const NXPRODUCTS = [
   "price": 285,
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray",
+  "featureLine": "Gel",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -174732,7 +175656,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Hair-removal cream / spray",
+   "format": "Gel",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -176839,6 +177763,107 @@ const NXPRODUCTS = [
     "url": null
    },
    "buyers": "5★ from 0 ratings"
+  }
+ },
+ {
+  "id": "regenscar-b0hfdh2hwh",
+  "brand": "Regenscar",
+  "model": "Scar Removal Gel, Triple Action Skin Repair Gel for Acne Marks, Stretch Marks and Scar Car…",
+  "price": 249,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Gel",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Gel",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Acne / pimples, Barrier repair, Lightweight / fast-absorbing, Stretch marks, Scars / marks (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61owbk3L1+L.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0HFDH2HWH",
+  "buyStore": "Amazon",
+  "title": "Regenscar Scar Removal Gel, Triple Action Skin Repair Gel for Acne Marks, Stretch Marks and Scar Care, Lightweight Topical Skin Care Formula (PACK OF 1)",
+  "tags": [
+   "scope:unstated",
+   "format:gel",
+   "format:kit",
+   "claim:acne",
+   "claim:barrier",
+   "claim:lightweight",
+   "claim:stretch-marks",
+   "claim:scars",
+   "aud:unisex",
+   "rating:none",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  }
 ];

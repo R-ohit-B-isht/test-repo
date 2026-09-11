@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-07.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-11.
 // Unknown fields are honestly marked, never invented.
 const NXPRODUCTS = [
  {
@@ -124965,7 +124965,7 @@ const NXPRODUCTS = [
   "price": 400,
   "capacityLine": "500 g",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Mist / spray · ₹80/100g",
+  "featureLine": "Other · ₹80/100g",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -124981,7 +124981,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "500 g",
    "pricePer100": "₹80/100g",
-   "format": "Mist / spray",
+   "format": "Other",
    "appliesTo": "Not stated in listing",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -136764,7 +136764,7 @@ const NXPRODUCTS = [
   "price": 381,
   "capacityLine": "600 g (pack of 2)",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Gel · ₹64/100g",
+  "featureLine": "Other · ₹64/100g",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -136780,7 +136780,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "300 g × 2 pack",
    "pricePer100": "₹64/100g",
-   "format": "Gel",
+   "format": "Other",
    "appliesTo": "Not stated in listing",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -141104,7 +141104,7 @@ const NXPRODUCTS = [
   "price": 240,
   "capacityLine": "300 g",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Kit · ₹80/100g",
+  "featureLine": "Other · ₹80/100g",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -141120,7 +141120,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "300 g",
    "pricePer100": "₹80/100g",
-   "format": "Kit",
+   "format": "Other",
    "appliesTo": "Lengths & ends (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -141305,7 +141305,7 @@ const NXPRODUCTS = [
   "price": 650,
   "capacityLine": "500 g",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Mist / spray · ₹130/100g",
+  "featureLine": "Other · ₹130/100g",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -141321,7 +141321,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "500 g",
    "pricePer100": "₹130/100g",
-   "format": "Mist / spray",
+   "format": "Other",
    "appliesTo": "Not stated in listing",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -144698,7 +144698,7 @@ const NXPRODUCTS = [
   "price": 474,
   "capacityLine": "300 g",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Mist / spray · ₹158/100g",
+  "featureLine": "Other · ₹158/100g",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -144714,7 +144714,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "300 g",
    "pricePer100": "₹158/100g",
-   "format": "Mist / spray",
+   "format": "Other",
    "appliesTo": "Not stated in listing",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -144797,7 +144797,7 @@ const NXPRODUCTS = [
   "price": 350,
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Kit",
+  "featureLine": "Other",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -144813,7 +144813,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Kit",
+   "format": "Other",
    "appliesTo": "Lengths & ends (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -149070,7 +149070,7 @@ const NXPRODUCTS = [
   "price": 700,
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Mist / spray",
+  "featureLine": "Other",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -149086,7 +149086,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Mist / spray",
+   "format": "Other",
    "appliesTo": "Not stated in listing",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -149667,7 +149667,7 @@ const NXPRODUCTS = [
   "price": 4069,
   "capacityLine": "Quantity not stated",
   "materialLine": "Sea salt",
-  "featureLine": "Mist / spray · Fragrance-free",
+  "featureLine": "Toner · Fragrance-free",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -149683,7 +149683,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Not stated in listing",
    "keyIngredients": "Sea salt (named on listing)",
    "freeFrom": "Fragrance-free (seller claim — not scored)",
@@ -156574,7 +156574,7 @@ const NXPRODUCTS = [
   "price": 430,
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Mist / spray",
+  "featureLine": "Other",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -156590,7 +156590,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Mist / spray",
+   "format": "Other",
    "appliesTo": "Not stated in listing",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",

@@ -63,6 +63,11 @@ const SOURCES = {
   striae: { label: 'Ud-Din, McGeorge & Bayat 2016, J Eur Acad Dermatol Venereol — topical management of striae distensae (tretinoin, centella; cocoa butter / oils not shown to prevent)', url: 'https://doi.org/10.1111/jdv.13223' },
   depilatory: { label: 'EU Cosmetics Regulation 1223/2009 Annex III — thioglycolic acid and its salts permitted in depilatories at ≤5%', url: 'https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02009R1223-20240424' },
   colophony: { label: 'Downs & Sansom 1999, Contact Dermatitis — colophony (rosin) allergy: a review', url: 'https://doi.org/10.1111/j.1600-0536.1999.tb06178.x' },
+  // Batch-3 pages: HA, NAD+/NMN, PDRN, TXA, lactic / PHA, benzoyl peroxide, cleansing balm, lip balm, shaving, soap
+  pdrn: { label: 'Squadrito et al. 2017, Front Pharmacol — pharmacological activity and clinical use of PDRN (polydeoxyribonucleotide: wound healing, tissue repair; clinical data are injectable / topical wound studies)', url: 'https://doi.org/10.3389/fphar.2017.00224' },
+  nad: { label: 'Oblong 2014, DNA Repair — the evolving role of the NAD+/nicotinamide metabolome in skin homeostasis, bioenergetics and ageing (niacinamide is the studied precursor; topical NMN / NR data are in-vitro)', url: 'https://doi.org/10.1016/j.dnarep.2014.04.005' },
+  bpo: { label: 'Sagransky et al. 2009, Expert Opin Pharmacother — benzoyl peroxide: a review of its current use in acne vulgaris (2.5% as effective as 5–10% with less irritation)', url: 'https://doi.org/10.1517/14656560903277228' },
+  shaving: { label: 'Perry et al. 2002, J Am Acad Dermatol — pseudofolliculitis barbae: review of the literature and current trends (shave preparation, glycolic / salicylic acid, retinoids)', url: 'https://doi.org/10.1067/mjd.2002.120789' },
   // Ingredient pairing / routine use (assistant guidance)
   bpoRetinoid: { label: 'Martin et al. 1998, Br J Dermatol — chemical stability of adapalene and tretinoin combined with benzoyl peroxide (tretinoin degrades, adapalene is stable)', url: 'https://pubmed.ncbi.nlm.nih.gov/9990414/' },
   fdaAha: { label: 'US FDA — alpha hydroxy acids in cosmetics: increased sun sensitivity; use daily sun protection', url: 'https://www.fda.gov/cosmetics/cosmetic-ingredients/alpha-hydroxy-acids' },
@@ -181,7 +186,7 @@ const ACTIVES = [
   ['epigallocatechin gallate', 'B', 'greenTea', ['toner', 'essence', 'sunscreen']],
   ['melaleuca alternifolia leaf oil', 'B', 'teaTree', ['facewash', 'salicylic', 'toner']],
   ['sulfur', 'B', 'bha', ['salicylic', 'facemask']],
-  ['benzoyl peroxide', 'A', 'bha', ['salicylic', 'facewash']],
+  ['benzoyl peroxide', 'A', 'bpo', ['salicylic', 'facewash']],
   ['zinc pca', 'B', 'niacinamide', ['toner', 'salicylic', 'niacinamide', 'facewash']],
   ['aloe barbadensis leaf juice', 'B', 'centella', ['toner', 'essence', 'facemask', 'moisturizer', 'bodylotion', 'sunscreen']],
   ['aloe barbadensis leaf extract', 'B', 'centella', ['toner', 'essence', 'facemask', 'moisturizer', 'bodylotion', 'sunscreen']],
@@ -237,6 +242,18 @@ const ACTIVES = [
   ['sea salt', 'C', 'aadScrub', ['bodyscrub', 'scalpscrub']],
   ['coffea arabica seed powder', 'C', 'aadScrub', ['bodyscrub']],
   ['juglans regia shell powder', 'C', 'aadScrub', ['bodyscrub']],
+  // PDRN / polynucleotides — INCI 'Sodium DNA' (salmon-derived); clinical evidence is on wound repair, cosmetic serum data thinner
+  ['sodium dna', 'B', 'pdrn', ['pdrn']],
+  ['dna', 'B', 'pdrn', ['pdrn']],
+  ['hydrolyzed dna', 'C', 'pdrn', ['pdrn']],
+  // NAD+ precursors — niacinamide carries the clinical evidence; NMN / NR topical claims rest on in-vitro work
+  ['nicotinamide mononucleotide', 'C', 'nad', ['nadnmn']],
+  ['nicotinamide riboside', 'C', 'nad', ['nadnmn']],
+  ['nicotinamide riboside chloride', 'C', 'nad', ['nadnmn']],
+  ['nadh', 'C', 'nad', ['nadnmn']],
+  // Lip occlusive waxes (skin table; the hair table grades them separately for styling)
+  ['beeswax', 'B', 'petrolatum', ['lipbalm']],
+  ['cera alba', 'B', 'petrolatum', ['lipbalm']],
   ['walnut shell powder', 'C', 'aadScrub', ['bodyscrub']],
   ['prunus armeniaca seed powder', 'C', 'aadScrub', ['bodyscrub']],
   ['pumice', 'C', 'aadScrub', ['bodyscrub', 'handfoot']],
@@ -259,6 +276,17 @@ const ROLE_EXTRA = {
   intimatewash: ['lactic acid', 'glycerin', 'melaleuca alternifolia leaf oil', 'aloe barbadensis leaf juice', 'aloe barbadensis leaf extract', 'panthenol', 'centella asiatica extract', 'bisabolol'],
   stretchmark: ['tretinoin', 'centella asiatica extract', 'madecassoside', 'asiaticoside', 'sodium hyaluronate', 'hyaluronic acid', 'glycerin', 'retinol', 'retinyl palmitate', 'tocopherol', 'tocopheryl acetate', 'shea butter', 'butyrospermum parkii butter', 'squalane', 'rosa canina fruit oil', 'petrolatum', 'dimethicone', 'panthenol', 'allantoin', 'urea', 'niacinamide', 'palmitoyl tripeptide-1', 'palmitoyl tetrapeptide-7'],
   hairremoval: ['glycerin', 'aloe barbadensis leaf juice', 'aloe barbadensis leaf extract', 'allantoin', 'panthenol', 'bisabolol', 'urea', 'petrolatum'],
+  // Batch 3 — routine-step actives + cleansing / lip / shave / soap
+  hyaluronic: ['hyaluronic acid', 'sodium hyaluronate', 'hydrolyzed hyaluronic acid', 'sodium acetylated hyaluronate', 'glycerin', 'panthenol', 'beta-glucan', 'allantoin', 'ceramide np', 'squalane', 'niacinamide'],
+  nadnmn: ['nicotinamide mononucleotide', 'nicotinamide riboside', 'nicotinamide riboside chloride', 'nadh', 'niacinamide', 'adenosine', 'palmitoyl tripeptide-1', 'palmitoyl tetrapeptide-7', 'acetyl hexapeptide-8', 'ubiquinone', 'resveratrol', 'tocopherol', 'sodium hyaluronate', 'hyaluronic acid'],
+  pdrn: ['sodium dna', 'dna', 'hydrolyzed dna', 'niacinamide', 'sodium hyaluronate', 'hyaluronic acid', 'hydrolyzed hyaluronic acid', 'centella asiatica extract', 'madecassoside', 'panthenol', 'adenosine', 'palmitoyl tripeptide-1', 'ceramide np'],
+  txa: ['tranexamic acid', 'niacinamide', 'alpha-arbutin', 'arbutin', 'kojic acid', 'azelaic acid', 'glycolic acid', 'ascorbic acid', '3-o-ethyl ascorbic acid', 'ascorbyl glucoside', 'glycyrrhiza glabra root extract', 'sodium hyaluronate', 'glycerin'],
+  lactic: ['lactic acid', 'mandelic acid', 'gluconolactone', 'lactobionic acid', 'glycolic acid', 'salicylic acid', 'urea', 'glycerin', 'sodium hyaluronate', 'panthenol', 'niacinamide', 'allantoin'],
+  benzoyl: ['benzoyl peroxide', 'salicylic acid', 'adapalene', 'azelaic acid', 'niacinamide', 'sulfur', 'zinc pca', 'glycerin', 'allantoin', 'panthenol', 'centella asiatica extract'],
+  cleansingbalm: ['glycerin', 'panthenol', 'squalane', 'simmondsia chinensis seed oil', 'helianthus annuus seed oil', 'prunus amygdalus dulcis oil', 'cocos nucifera oil', 'ceramide np', 'centella asiatica extract', 'niacinamide', 'tocopherol', 'camellia sinensis leaf extract'],
+  lipbalm: ['petrolatum', 'lanolin', 'beeswax', 'cera alba', 'shea butter', 'butyrospermum parkii butter', 'dimethicone', 'squalane', 'ceramide np', 'cholesterol', 'glycerin', 'tocopherol', 'hyaluronic acid', 'sodium hyaluronate', 'panthenol', 'allantoin', 'bisabolol', 'zinc oxide', 'titanium dioxide', 'cocos nucifera oil', 'prunus amygdalus dulcis oil'],
+  shaving: ['glycerin', 'aloe barbadensis leaf juice', 'aloe barbadensis leaf extract', 'allantoin', 'panthenol', 'bisabolol', 'salicylic acid', 'glycolic acid', 'niacinamide', 'centella asiatica extract', 'tocopherol', 'melaleuca alternifolia leaf oil', 'camellia sinensis leaf extract', 'squalane', 'shea butter', 'butyrospermum parkii butter'],
+  soap: ['glycerin', 'colloidal oatmeal', 'avena sativa kernel flour', 'avena sativa kernel extract', 'shea butter', 'butyrospermum parkii butter', 'cocos nucifera oil', 'glycolic acid', 'lactic acid', 'salicylic acid', 'melaleuca alternifolia leaf oil', 'curcuma longa root extract', 'aloe barbadensis leaf juice', 'aloe barbadensis leaf extract', 'niacinamide', 'kojic acid'],
 };
 for (const [role, names] of Object.entries(ROLE_EXTRA)) {
   for (const a of ACTIVES) if (names.includes(a[0]) && !a[3].includes(role)) a[3].push(role);

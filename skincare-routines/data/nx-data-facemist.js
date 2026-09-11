@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-07.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-11.
 // Unknown fields are honestly marked, never invented.
 const NXPRODUCTS = [
  {
@@ -8,7 +8,7 @@ const NXPRODUCTS = [
   "price": 173,
   "capacityLine": "100 ml",
   "materialLine": "Green tea + Zinc",
-  "featureLine": "Mist / spray · Paraben-free · ₹173/100ml",
+  "featureLine": "Toner · Paraben-free · ₹173/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -25,7 +25,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹173/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Green tea, Zinc (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -122,7 +122,7 @@ const NXPRODUCTS = [
   "price": 1829,
   "capacityLine": "125 ml",
   "materialLine": "Niacinamide + PHA + Green tea",
-  "featureLine": "Mist / spray · Paraben-free · ₹1463/100ml",
+  "featureLine": "Toner · Paraben-free · ₹1463/100ml",
   "highlight": "Live Flipkart listing. Scored from its published INCI list (Flipkart listing — Composition field): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "aloe barbadensis leaf juice high on the INCI list (moderate evidence); glycerin high on the INCI list (strong evidence)"
@@ -141,7 +141,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "125 ml",
    "pricePer100": "₹1463/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Niacinamide, PHA, Green tea (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -412,7 +412,7 @@ const NXPRODUCTS = [
   "price": 1899,
   "capacityLine": "125 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹1519/100ml",
+  "featureLine": "Toner · Paraben-free · ₹1519/100ml",
   "highlight": "Live Flipkart listing. Scored from its published INCI list (Flipkart listing — Composition field): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "aloe barbadensis leaf juice high on the INCI list (moderate evidence); glycerin high on the INCI list (strong evidence)",
@@ -431,7 +431,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "125 ml",
    "pricePer100": "₹1519/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -566,7 +566,7 @@ const NXPRODUCTS = [
   "price": 1299,
   "capacityLine": "160 g (pack of 4)",
   "materialLine": "PHA + Centella / cica",
-  "featureLine": "Mist / spray · Paraben-free · ₹812/100g",
+  "featureLine": "Toner · Paraben-free · ₹812/100g",
   "highlight": "Live Flipkart listing. Scored from its published INCI list (Flipkart listing — Composition field): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "glycerin high on the INCI list (strong evidence); sodium hyaluronate high on the INCI list (moderate evidence)",
@@ -585,7 +585,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "40 g × 4 pack",
    "pricePer100": "₹812/100g",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "PHA, Centella / cica (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -824,7 +824,7 @@ const NXPRODUCTS = [
   "price": 1829,
   "capacityLine": "125 ml",
   "materialLine": "Niacinamide + PHA + Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹1463/100ml",
+  "featureLine": "Toner · Paraben-free · ₹1463/100ml",
   "highlight": "Live Flipkart listing. Scored from its published INCI list (Flipkart listing — Composition field): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "glycerin high on the INCI list (strong evidence)"
@@ -843,7 +843,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "125 ml",
    "pricePer100": "₹1463/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Niacinamide, PHA, Rose (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -1211,7 +1211,7 @@ const NXPRODUCTS = [
   "price": 951,
   "capacityLine": "100 ml",
   "materialLine": "PHA + Tea tree + Ginseng",
-  "featureLine": "Mist / spray · Paraben-free · ₹951/100ml",
+  "featureLine": "Toner · Paraben-free · ₹951/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -1228,7 +1228,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹951/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "PHA, Tea tree, Ginseng, Lavender (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -1326,7 +1326,7 @@ const NXPRODUCTS = [
   "price": 575,
   "capacityLine": "300 ml (pack of 2)",
   "materialLine": "Vitamin C + Rice water + Aloe vera",
-  "featureLine": "Mist / spray · Paraben-free · ₹192/100ml",
+  "featureLine": "Toner · Paraben-free · ₹192/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -1343,7 +1343,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "150 ml × 2 pack",
    "pricePer100": "₹192/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Vitamin C, Rice water, Aloe vera, Rose, Pearl (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -1444,7 +1444,7 @@ const NXPRODUCTS = [
   "price": 571,
   "capacityLine": "450 ml (pack of 3)",
   "materialLine": "Niacinamide + Green tea + Cucumber",
-  "featureLine": "Mist / spray · Fragrance-free · ₹127/100ml",
+  "featureLine": "Toner · Fragrance-free · ₹127/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -1461,7 +1461,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "150 ml × 3 pack",
    "pricePer100": "₹127/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Niacinamide, Green tea, Cucumber, Calamine, Lavender (named on listing)",
    "freeFrom": "Fragrance-free, Paraben-free (seller claim — not scored)",
@@ -1676,7 +1676,7 @@ const NXPRODUCTS = [
   "price": 498,
   "capacityLine": "100 ml",
   "materialLine": "Niacinamide + PHA + Hyaluronic acid",
-  "featureLine": "Mist / spray · Paraben-free · ₹498/100ml",
+  "featureLine": "Toner · Paraben-free · ₹498/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -1693,7 +1693,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹498/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Niacinamide, PHA, Hyaluronic acid, Saffron, Sandalwood, Rose, Ubtan, Beetroot (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -1796,7 +1796,7 @@ const NXPRODUCTS = [
   "price": 785,
   "capacityLine": "200 ml (pack of 2)",
   "materialLine": "Vitamin C + Rose + Pearl",
-  "featureLine": "Mist / spray · Paraben-free · ₹393/100ml",
+  "featureLine": "Toner · Paraben-free · ₹393/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -1813,7 +1813,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml × 2 pack",
    "pricePer100": "₹393/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Vitamin C, Rose, Pearl, Thermal water (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -2415,7 +2415,7 @@ const NXPRODUCTS = [
   "price": 498,
   "capacityLine": "100 ml",
   "materialLine": "Centella / cica + Rose + Glycerin",
-  "featureLine": "Mist / spray · Paraben-free · ₹498/100ml",
+  "featureLine": "Toner · Paraben-free · ₹498/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -2432,7 +2432,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹498/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Centella / cica, Rose, Glycerin (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -2867,7 +2867,7 @@ const NXPRODUCTS = [
   "price": 419,
   "capacityLine": "200 ml (pack of 2)",
   "materialLine": "Vitamin C + Glycolic acid + Ceramides",
-  "featureLine": "Mist / spray · Paraben-free · ₹210/100ml",
+  "featureLine": "Toner · Paraben-free · ₹210/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -2884,7 +2884,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml × 2 pack",
    "pricePer100": "₹210/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Vitamin C, Glycolic acid, Ceramides, Peptides, Rice water, Rose, Pearl, Copper peptide, Thermal water (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -3096,7 +3096,7 @@ const NXPRODUCTS = [
   "price": 336,
   "capacityLine": "100 ml",
   "materialLine": "Vitamin C + Niacinamide + Glycolic acid",
-  "featureLine": "Mist / spray · Paraben-free · ₹336/100ml",
+  "featureLine": "Toner · Paraben-free · ₹336/100ml",
   "highlight": "Live Flipkart listing. Scored from its published INCI list (Flipkart listing — Composition field): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "glycerin high on the INCI list (strong evidence); sodium hyaluronate high on the INCI list (moderate evidence)"
@@ -3115,7 +3115,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹336/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Vitamin C, Niacinamide, Glycolic acid, PHA, Hyaluronic acid, Rose (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -3279,7 +3279,7 @@ const NXPRODUCTS = [
   "price": 358,
   "capacityLine": "100 g",
   "materialLine": "Rice water + Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹358/100g",
+  "featureLine": "Toner · Paraben-free · ₹358/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -3296,7 +3296,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 g",
    "pricePer100": "₹358/100g",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Rice water, Rose (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -4041,7 +4041,7 @@ const NXPRODUCTS = [
   "price": 820,
   "capacityLine": "100 ml (pack of 2)",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹820/100ml",
+  "featureLine": "Toner · Paraben-free · ₹820/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -4058,7 +4058,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 ml × 2 pack",
    "pricePer100": "₹820/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -4265,7 +4265,7 @@ const NXPRODUCTS = [
   "price": 904,
   "capacityLine": "1000 ml",
   "materialLine": "Centella / cica + Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹90/100ml",
+  "featureLine": "Toner · Paraben-free · ₹90/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -4282,7 +4282,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "1000 ml",
    "pricePer100": "₹90/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Centella / cica, Rose (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -4378,7 +4378,7 @@ const NXPRODUCTS = [
   "price": 249,
   "capacityLine": "100 ml",
   "materialLine": "Niacinamide + PHA + Sandalwood",
-  "featureLine": "Mist / spray · Paraben-free · ₹249/100ml",
+  "featureLine": "Toner · Paraben-free · ₹249/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -4395,7 +4395,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹249/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Niacinamide, PHA, Sandalwood, Rose (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -4610,7 +4610,7 @@ const NXPRODUCTS = [
   "price": 328,
   "capacityLine": "100 ml",
   "materialLine": "PHA",
-  "featureLine": "Mist / spray · Paraben-free · ₹328/100ml",
+  "featureLine": "Toner · Paraben-free · ₹328/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -4627,7 +4627,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹328/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "PHA (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -4723,7 +4723,7 @@ const NXPRODUCTS = [
   "price": 328,
   "capacityLine": "100 ml",
   "materialLine": "Niacinamide + Rice water + Papaya",
-  "featureLine": "Mist / spray · Paraben-free · ₹328/100ml",
+  "featureLine": "Toner · Paraben-free · ₹328/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -4740,7 +4740,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹328/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Niacinamide, Rice water, Papaya (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -4835,7 +4835,7 @@ const NXPRODUCTS = [
   "price": 238,
   "capacityLine": "100 ml",
   "materialLine": "Vitamin C + Niacinamide + Glycolic acid",
-  "featureLine": "Mist / spray · Paraben-free · ₹238/100ml",
+  "featureLine": "Toner · Paraben-free · ₹238/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -4852,7 +4852,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹238/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Vitamin C, Niacinamide, Glycolic acid (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -5278,7 +5278,7 @@ const NXPRODUCTS = [
   "price": 255,
   "capacityLine": "100 ml",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Mist / spray · Alcohol-free · ₹255/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹255/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "Well-reviewed: 4.4★ from 6,551 ratings"
@@ -5295,7 +5295,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹255/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -5384,7 +5384,7 @@ const NXPRODUCTS = [
   "price": 759,
   "capacityLine": "400 ml (pack of 2)",
   "materialLine": "Vitamin C + Niacinamide + Rice water",
-  "featureLine": "Mist / spray · Paraben-free · ₹190/100ml",
+  "featureLine": "Toner · Paraben-free · ₹190/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -5401,7 +5401,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "200 ml × 2 pack",
    "pricePer100": "₹190/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Vitamin C, Niacinamide, Rice water, Green tea (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -5730,7 +5730,7 @@ const NXPRODUCTS = [
   "price": 189,
   "capacityLine": "250 g (pack of 2)",
   "materialLine": "Niacinamide + Green tea + Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹76/100g",
+  "featureLine": "Toner · Paraben-free · ₹76/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -5747,7 +5747,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "125 g × 2 pack",
    "pricePer100": "₹76/100g",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Niacinamide, Green tea, Rose, Glycerin (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -5847,7 +5847,7 @@ const NXPRODUCTS = [
   "price": 1180,
   "capacityLine": "60 g",
   "materialLine": "Aloe vera + Honey",
-  "featureLine": "Mist / spray · Paraben-free · ₹1967/100g",
+  "featureLine": "Toner · Paraben-free · ₹1967/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "Well-reviewed: 4.4★ from 45 ratings"
@@ -5865,7 +5865,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "60 g",
    "pricePer100": "₹1967/100g",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Aloe vera, Honey (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -6071,7 +6071,7 @@ const NXPRODUCTS = [
   "price": 197,
   "capacityLine": "900 ml (pack of 3)",
   "materialLine": "Salicylic acid (BHA) + AHA + Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹22/100ml",
+  "featureLine": "Toner · Paraben-free · ₹22/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -6088,7 +6088,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "300 ml × 3 pack",
    "pricePer100": "₹22/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Salicylic acid (BHA), AHA, Rose (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -6187,7 +6187,7 @@ const NXPRODUCTS = [
   "price": 571,
   "capacityLine": "400 ml",
   "materialLine": "Niacinamide + PHA + Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹143/100ml",
+  "featureLine": "Toner · Paraben-free · ₹143/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -6204,7 +6204,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "400 ml",
    "pricePer100": "₹143/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Niacinamide, PHA, Rose, Papaya (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -6418,7 +6418,7 @@ const NXPRODUCTS = [
   "price": 325,
   "capacityLine": "110 ml",
   "materialLine": "Niacinamide + Glycolic acid + Tea tree",
-  "featureLine": "Mist / spray · Paraben-free · ₹295/100ml",
+  "featureLine": "Toner · Paraben-free · ₹295/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -6435,7 +6435,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "110 ml",
    "pricePer100": "₹295/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Niacinamide, Glycolic acid, Tea tree, Rose (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -7022,7 +7022,7 @@ const NXPRODUCTS = [
   "price": 186,
   "capacityLine": "50 ml",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Mist / spray · ₹372/100ml",
+  "featureLine": "Toner · ₹372/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "Well-reviewed: 4.6★ from 7 ratings"
@@ -7040,7 +7040,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 ml",
    "pricePer100": "₹372/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -7249,7 +7249,7 @@ const NXPRODUCTS = [
   "price": 425,
   "capacityLine": "Quantity not stated",
   "materialLine": "Vitamin C + Aloe vera + Lemon",
-  "featureLine": "Mist / spray",
+  "featureLine": "Toner",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "Well-reviewed: 4.5★ from 6 ratings"
@@ -7267,7 +7267,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Not stated in listing",
    "keyIngredients": "Vitamin C, Aloe vera, Lemon (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -7354,7 +7354,7 @@ const NXPRODUCTS = [
   "price": 625,
   "capacityLine": "100 ml",
   "materialLine": "Sandalwood + Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹625/100ml",
+  "featureLine": "Toner · Paraben-free · ₹625/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -7371,7 +7371,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹625/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Sandalwood, Rose (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -7462,7 +7462,7 @@ const NXPRODUCTS = [
   "price": 383,
   "capacityLine": "200 ml (pack of 2)",
   "materialLine": "Vitamin C + Niacinamide",
-  "featureLine": "Mist / spray · Paraben-free · ₹192/100ml",
+  "featureLine": "Toner · Paraben-free · ₹192/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -7479,7 +7479,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml × 2 pack",
    "pricePer100": "₹192/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Vitamin C, Niacinamide (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -7573,7 +7573,7 @@ const NXPRODUCTS = [
   "price": 182,
   "capacityLine": "50 g",
   "materialLine": "Vitamin C + Niacinamide + Rice water",
-  "featureLine": "Mist / spray · Paraben-free · ₹364/100g",
+  "featureLine": "Toner · Paraben-free · ₹364/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -7590,7 +7590,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹364/100g",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Vitamin C, Niacinamide, Rice water, Rose, Lemon (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -7694,7 +7694,7 @@ const NXPRODUCTS = [
   "price": 182,
   "capacityLine": "95 g",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Mist / spray · Paraben-free · ₹192/100g",
+  "featureLine": "Toner · Paraben-free · ₹192/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -7711,7 +7711,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "95 g",
    "pricePer100": "₹192/100g",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -7804,7 +7804,7 @@ const NXPRODUCTS = [
   "price": 165,
   "capacityLine": "200 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹83/100ml",
+  "featureLine": "Toner · Paraben-free · ₹83/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -7821,7 +7821,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "200 ml",
    "pricePer100": "₹83/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -7915,7 +7915,7 @@ const NXPRODUCTS = [
   "price": 180,
   "capacityLine": "98 g",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Mist / spray · Paraben-free · ₹184/100g",
+  "featureLine": "Toner · Paraben-free · ₹184/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -7932,7 +7932,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "98 g",
    "pricePer100": "₹184/100g",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -8027,7 +8027,7 @@ const NXPRODUCTS = [
   "price": 165,
   "capacityLine": "100 ml",
   "materialLine": "Niacinamide + Aloe vera + Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹165/100ml",
+  "featureLine": "Toner · Paraben-free · ₹165/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -8044,7 +8044,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹165/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Niacinamide, Aloe vera, Rose (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -8140,7 +8140,7 @@ const NXPRODUCTS = [
   "price": 242,
   "capacityLine": "400 ml (pack of 2)",
   "materialLine": "Aloe vera + Rose + Cucumber",
-  "featureLine": "Mist / spray · Paraben-free · ₹61/100ml",
+  "featureLine": "Toner · Paraben-free · ₹61/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -8157,7 +8157,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "200 ml × 2 pack",
    "pricePer100": "₹61/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Aloe vera, Rose, Cucumber (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -8362,7 +8362,7 @@ const NXPRODUCTS = [
   "price": 248,
   "capacityLine": "150 ml",
   "materialLine": "Tea tree",
-  "featureLine": "Mist / spray · Paraben-free · ₹165/100ml",
+  "featureLine": "Toner · Paraben-free · ₹165/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "Well-reviewed: 4.6★ from 48 ratings"
@@ -8380,7 +8380,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "150 ml",
    "pricePer100": "₹165/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Tea tree (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -8474,7 +8474,7 @@ const NXPRODUCTS = [
   "price": 400,
   "capacityLine": "800 ml (pack of 2)",
   "materialLine": "Vitamin C + PHA + Rice water",
-  "featureLine": "Mist / spray · Paraben-free · ₹50/100ml",
+  "featureLine": "Toner · Paraben-free · ₹50/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -8491,7 +8491,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "400 ml × 2 pack",
    "pricePer100": "₹50/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Vitamin C, PHA, Rice water, Rose, Pearl (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -8593,7 +8593,7 @@ const NXPRODUCTS = [
   "price": 191,
   "capacityLine": "100 ml",
   "materialLine": "Niacinamide + Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹191/100ml",
+  "featureLine": "Toner · Paraben-free · ₹191/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -8610,7 +8610,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹191/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Niacinamide, Rose (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -8709,7 +8709,7 @@ const NXPRODUCTS = [
   "price": 125,
   "capacityLine": "100 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹125/100ml",
+  "featureLine": "Toner · Paraben-free · ₹125/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -8726,7 +8726,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹125/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -9135,7 +9135,7 @@ const NXPRODUCTS = [
   "price": 240,
   "capacityLine": "200 ml",
   "materialLine": "Niacinamide + Colloidal oatmeal + Rice water",
-  "featureLine": "Mist / spray · Paraben-free · ₹120/100ml",
+  "featureLine": "Toner · Paraben-free · ₹120/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -9152,7 +9152,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "200 ml",
    "pricePer100": "₹120/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Niacinamide, Colloidal oatmeal, Rice water, Rose (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -9250,7 +9250,7 @@ const NXPRODUCTS = [
   "price": 546,
   "capacityLine": "50 ml",
   "materialLine": "Rose + Cucumber",
-  "featureLine": "Mist / spray · Paraben-free · ₹1092/100ml",
+  "featureLine": "Toner · Paraben-free · ₹1092/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -9267,7 +9267,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 ml",
    "pricePer100": "₹1092/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose, Cucumber (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -9460,7 +9460,7 @@ const NXPRODUCTS = [
   "price": 192,
   "capacityLine": "200 ml",
   "materialLine": "Vitamin C + Tea tree + Rose",
-  "featureLine": "Mist / spray · ₹96/100ml",
+  "featureLine": "Toner · ₹96/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -9477,7 +9477,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "200 ml",
    "pricePer100": "₹96/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Vitamin C, Tea tree, Rose, Cucumber, Witch hazel (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -9789,7 +9789,7 @@ const NXPRODUCTS = [
   "price": 2225,
   "capacityLine": "237 ml",
   "materialLine": "Coffee + Aloe vera + Rose",
-  "featureLine": "Mist / spray · Fragrance-free · ₹939/100ml",
+  "featureLine": "Toner · Fragrance-free · ₹939/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -9806,7 +9806,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "237 ml",
    "pricePer100": "₹939/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Coffee, Aloe vera, Rose, Honey, Vitamin E, Witch hazel (named on listing)",
    "freeFrom": "Fragrance-free, Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -10025,7 +10025,7 @@ const NXPRODUCTS = [
   "price": 172,
   "capacityLine": "880 g",
   "materialLine": "Aloe vera + Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹20/100g",
+  "featureLine": "Toner · Paraben-free · ₹20/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -10042,7 +10042,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "880 g",
    "pricePer100": "₹20/100g",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Aloe vera, Rose (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -10141,7 +10141,7 @@ const NXPRODUCTS = [
   "price": 121,
   "capacityLine": "45 g",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · ₹269/100g",
+  "featureLine": "Toner · ₹269/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -10157,7 +10157,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "45 g",
    "pricePer100": "₹269/100g",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -10248,7 +10248,7 @@ const NXPRODUCTS = [
   "price": 261,
   "capacityLine": "250 ml",
   "materialLine": "Lavender",
-  "featureLine": "Mist / spray · ₹104/100ml",
+  "featureLine": "Toner · ₹104/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -10264,7 +10264,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "250 ml",
    "pricePer100": "₹104/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Lavender (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -10350,7 +10350,7 @@ const NXPRODUCTS = [
   "price": 121,
   "capacityLine": "45 g",
   "materialLine": "Coffee + Milk",
-  "featureLine": "Mist / spray · ₹269/100g",
+  "featureLine": "Toner · ₹269/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -10367,7 +10367,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "45 g",
    "pricePer100": "₹269/100g",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Coffee, Milk (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -10458,7 +10458,7 @@ const NXPRODUCTS = [
   "price": 2453,
   "capacityLine": "237 ml",
   "materialLine": "Ceramides + Rice water + Aloe vera",
-  "featureLine": "Mist / spray · Fragrance-free · ₹1035/100ml",
+  "featureLine": "Toner · Fragrance-free · ₹1035/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -10475,7 +10475,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "237 ml",
    "pricePer100": "₹1035/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Ceramides, Rice water, Aloe vera, Rose, Witch hazel, Coconut (named on listing)",
    "freeFrom": "Fragrance-free, Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -10572,7 +10572,7 @@ const NXPRODUCTS = [
   "price": 144,
   "capacityLine": "20 g",
   "materialLine": "Niacinamide + Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹720/100g",
+  "featureLine": "Toner · Paraben-free · ₹720/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -10589,7 +10589,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "20 g",
    "pricePer100": "₹720/100g",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Niacinamide, Rose (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -10688,7 +10688,7 @@ const NXPRODUCTS = [
   "price": 224,
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Mist / spray",
+  "featureLine": "Toner",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -10704,7 +10704,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -10902,7 +10902,7 @@ const NXPRODUCTS = [
   "price": 123,
   "capacityLine": "115 ml",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Mist / spray · Paraben-free · ₹107/100ml",
+  "featureLine": "Toner · Paraben-free · ₹107/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -10918,7 +10918,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "115 ml",
    "pricePer100": "₹107/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -11118,7 +11118,7 @@ const NXPRODUCTS = [
   "price": 139,
   "capacityLine": "200 g (pack of 2)",
   "materialLine": "Coffee + Aloe vera + Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹70/100g",
+  "featureLine": "Toner · Paraben-free · ₹70/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -11135,7 +11135,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 g × 2 pack",
    "pricePer100": "₹70/100g",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Coffee, Aloe vera, Rose (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -11231,7 +11231,7 @@ const NXPRODUCTS = [
   "price": 326,
   "capacityLine": "200 ml (pack of 2)",
   "materialLine": "Vitamin C + Niacinamide + PHA",
-  "featureLine": "Mist / spray · Paraben-free · ₹163/100ml",
+  "featureLine": "Toner · Paraben-free · ₹163/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -11248,7 +11248,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml × 2 pack",
    "pricePer100": "₹163/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Vitamin C, Niacinamide, PHA, Rose (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -11348,7 +11348,7 @@ const NXPRODUCTS = [
   "price": 333,
   "capacityLine": "200 ml (pack of 2)",
   "materialLine": "Vitamin C + Niacinamide + PHA",
-  "featureLine": "Mist / spray · Paraben-free · ₹167/100ml",
+  "featureLine": "Toner · Paraben-free · ₹167/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -11365,7 +11365,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml × 2 pack",
    "pricePer100": "₹167/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Vitamin C, Niacinamide, PHA, Neem (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -11465,7 +11465,7 @@ const NXPRODUCTS = [
   "price": 238,
   "capacityLine": "100 ml",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Mist / spray · Paraben-free · ₹238/100ml",
+  "featureLine": "Toner · Paraben-free · ₹238/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -11481,7 +11481,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹238/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -11574,7 +11574,7 @@ const NXPRODUCTS = [
   "price": 313,
   "capacityLine": "99 g",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Mist / spray · Paraben-free · ₹316/100g",
+  "featureLine": "Toner · Paraben-free · ₹316/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -11591,7 +11591,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "99 g",
    "pricePer100": "₹316/100g",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -11803,7 +11803,7 @@ const NXPRODUCTS = [
   "price": 299,
   "capacityLine": "250 ml",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Mist / spray · ₹120/100ml",
+  "featureLine": "Toner · ₹120/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "Well-reviewed: 4.4★ from 38 ratings"
@@ -11821,7 +11821,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "250 ml",
    "pricePer100": "₹120/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -11906,7 +11906,7 @@ const NXPRODUCTS = [
   "price": 223,
   "capacityLine": "200 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹112/100ml",
+  "featureLine": "Toner · Paraben-free · ₹112/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "Well-reviewed: 5★ from 6 ratings"
@@ -11924,7 +11924,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "200 ml",
    "pricePer100": "₹112/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -12241,7 +12241,7 @@ const NXPRODUCTS = [
   "price": 326,
   "capacityLine": "200 ml (pack of 2)",
   "materialLine": "Vitamin C + Cucumber",
-  "featureLine": "Mist / spray · Paraben-free · ₹163/100ml",
+  "featureLine": "Toner · Paraben-free · ₹163/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -12258,7 +12258,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml × 2 pack",
    "pricePer100": "₹163/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Vitamin C, Cucumber (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -12348,7 +12348,7 @@ const NXPRODUCTS = [
   "price": 133,
   "capacityLine": "200 ml (pack of 2)",
   "materialLine": "Glycolic acid + Green tea + Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹67/100ml",
+  "featureLine": "Toner · Paraben-free · ₹67/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -12365,7 +12365,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml × 2 pack",
    "pricePer100": "₹67/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Glycolic acid, Green tea, Rose, Glycerin (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -12468,7 +12468,7 @@ const NXPRODUCTS = [
   "price": 1154,
   "capacityLine": "100 ml",
   "materialLine": "Rose + Chamomile",
-  "featureLine": "Mist / spray · Paraben-free · ₹1154/100ml",
+  "featureLine": "Toner · Paraben-free · ₹1154/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "Well-reviewed: 4.6★ from 21 ratings"
@@ -12486,7 +12486,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹1154/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Rose, Chamomile (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -12583,7 +12583,7 @@ const NXPRODUCTS = [
   "price": 233,
   "capacityLine": "120 ml",
   "materialLine": "Vitamin C + Niacinamide + Cucumber",
-  "featureLine": "Mist / spray · Paraben-free · ₹194/100ml",
+  "featureLine": "Toner · Paraben-free · ₹194/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -12600,7 +12600,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "120 ml",
    "pricePer100": "₹194/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Vitamin C, Niacinamide, Cucumber, Glycerin (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -12699,7 +12699,7 @@ const NXPRODUCTS = [
   "price": 192,
   "capacityLine": "200 ml (pack of 2)",
   "materialLine": "Vitamin C + Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹96/100ml",
+  "featureLine": "Toner · Paraben-free · ₹96/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -12716,7 +12716,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml × 2 pack",
    "pricePer100": "₹96/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Vitamin C, Rose (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -12812,7 +12812,7 @@ const NXPRODUCTS = [
   "price": 233,
   "capacityLine": "120 ml",
   "materialLine": "Vitamin C + Niacinamide + Glycerin",
-  "featureLine": "Mist / spray · Paraben-free · ₹194/100ml",
+  "featureLine": "Toner · Paraben-free · ₹194/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -12829,7 +12829,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "120 ml",
    "pricePer100": "₹194/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Vitamin C, Niacinamide, Glycerin (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -13033,7 +13033,7 @@ const NXPRODUCTS = [
   "price": 341,
   "capacityLine": "200 ml (pack of 2)",
   "materialLine": "Vitamin C + Niacinamide + PHA",
-  "featureLine": "Mist / spray · Paraben-free · ₹171/100ml",
+  "featureLine": "Toner · Paraben-free · ₹171/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -13050,7 +13050,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml × 2 pack",
    "pricePer100": "₹171/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Vitamin C, Niacinamide, PHA, Rose (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -13148,7 +13148,7 @@ const NXPRODUCTS = [
   "price": 435,
   "capacityLine": "300 ml (pack of 3)",
   "materialLine": "Vitamin C + Niacinamide + Rice water",
-  "featureLine": "Mist / spray · Paraben-free · ₹145/100ml",
+  "featureLine": "Toner · Paraben-free · ₹145/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -13165,7 +13165,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml × 3 pack",
    "pricePer100": "₹145/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Vitamin C, Niacinamide, Rice water, Rose, Cucumber, Neem (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -13267,7 +13267,7 @@ const NXPRODUCTS = [
   "price": 192,
   "capacityLine": "100 ml",
   "materialLine": "Vitamin C + Niacinamide + Glycolic acid",
-  "featureLine": "Mist / spray · Paraben-free · ₹192/100ml",
+  "featureLine": "Toner · Paraben-free · ₹192/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -13284,7 +13284,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹192/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Vitamin C, Niacinamide, Glycolic acid, Hyaluronic acid, Rice water, Neem, Pearl (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -13386,7 +13386,7 @@ const NXPRODUCTS = [
   "price": 435,
   "capacityLine": "300 ml (pack of 3)",
   "materialLine": "Vitamin C + Green tea + Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹145/100ml",
+  "featureLine": "Toner · Paraben-free · ₹145/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -13403,7 +13403,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml × 3 pack",
    "pricePer100": "₹145/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Vitamin C, Green tea, Rose, Zinc, Gold (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -13501,7 +13501,7 @@ const NXPRODUCTS = [
   "price": 435,
   "capacityLine": "300 ml (pack of 3)",
   "materialLine": "Vitamin C + Green tea + Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹145/100ml",
+  "featureLine": "Toner · Paraben-free · ₹145/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -13518,7 +13518,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml × 3 pack",
    "pricePer100": "₹145/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Vitamin C, Green tea, Rose, Honey, Cucumber (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -13739,7 +13739,7 @@ const NXPRODUCTS = [
    "pricePer100": "₹2196/100ml",
    "format": "Mist / spray",
    "appliesTo": "Face (per listing)",
-   "keyIngredients": "Hyaluronic acid, Collagen, Vitamin B5 / panthenol, Allantoin, Glycerin (named on listing)",
+   "keyIngredients": "Hyaluronic acid, Collagen, Vitamin B5 / panthenol, Allantoin, Glycerin, PDRN / polynucleotide (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Dermatologically tested (seller claim — not scored)",
    "nonComedogenic": "Non-comedogenic (seller claim — not scored)",
@@ -13778,6 +13778,7 @@ const NXPRODUCTS = [
    "ing:vitamin-b5-panthenol",
    "ing:allantoin",
    "ing:glycerin",
+   "ing:pdrn-polynucleotide",
    "claim:hydrating",
    "claim:soothing",
    "claim:lightweight",
@@ -14014,7 +14015,7 @@ const NXPRODUCTS = [
    "pricePer100": "₹5320/100ml",
    "format": "Mist / spray",
    "appliesTo": "Face (per listing)",
-   "keyIngredients": "Niacinamide, Hyaluronic acid, Collagen, Centella / cica, Vitamin B5 / panthenol, Allantoin, Glycerin (named on listing)",
+   "keyIngredients": "Niacinamide, Hyaluronic acid, Collagen, Centella / cica, Vitamin B5 / panthenol, Allantoin, Glycerin, PDRN / polynucleotide (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
@@ -14055,6 +14056,7 @@ const NXPRODUCTS = [
    "ing:vitamin-b5-panthenol",
    "ing:allantoin",
    "ing:glycerin",
+   "ing:pdrn-polynucleotide",
    "claim:brightening",
    "claim:hydrating",
    "claim:lightweight",
@@ -14314,7 +14316,7 @@ const NXPRODUCTS = [
    "pricePer100": "₹2196/100ml",
    "format": "Mist / spray",
    "appliesTo": "Face (per listing)",
-   "keyIngredients": "Hyaluronic acid, Collagen, Vitamin B5 / panthenol, Allantoin, Glycerin (named on listing)",
+   "keyIngredients": "Hyaluronic acid, Collagen, Vitamin B5 / panthenol, Allantoin, Glycerin, PDRN / polynucleotide (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Dermatologically tested (seller claim — not scored)",
    "nonComedogenic": "Non-comedogenic (seller claim — not scored)",
@@ -14354,6 +14356,7 @@ const NXPRODUCTS = [
    "ing:vitamin-b5-panthenol",
    "ing:allantoin",
    "ing:glycerin",
+   "ing:pdrn-polynucleotide",
    "claim:brightening",
    "claim:hydrating",
    "claim:soothing",
@@ -14885,7 +14888,7 @@ const NXPRODUCTS = [
   "price": 133,
   "capacityLine": "240 ml (pack of 2)",
   "materialLine": "Aloe vera + Rose + Glycerin",
-  "featureLine": "Mist / spray · Paraben-free · ₹55/100ml",
+  "featureLine": "Toner · Paraben-free · ₹55/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -14902,7 +14905,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "120 ml × 2 pack",
    "pricePer100": "₹55/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Aloe vera, Rose, Glycerin (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -15207,7 +15210,7 @@ const NXPRODUCTS = [
   "price": 159,
   "capacityLine": "100 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹159/100ml",
+  "featureLine": "Toner · Paraben-free · ₹159/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "Well-reviewed: 4.3★ from 19 ratings"
@@ -15225,7 +15228,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹159/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -15317,7 +15320,7 @@ const NXPRODUCTS = [
   "price": 341,
   "capacityLine": "200 g",
   "materialLine": "Vitamin C + Niacinamide + Salicylic acid (BHA)",
-  "featureLine": "Mist / spray · Alcohol-free · ₹171/100g",
+  "featureLine": "Toner · Alcohol-free · ₹171/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -15334,7 +15337,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "200 g",
    "pricePer100": "₹171/100g",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Vitamin C, Niacinamide, Salicylic acid (BHA), Alpha arbutin, Rose, Honey, Neem, Chamomile (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -15783,7 +15786,7 @@ const NXPRODUCTS = [
   "price": 169,
   "capacityLine": "100 ml",
   "materialLine": "Vitamin C + Niacinamide + Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹169/100ml",
+  "featureLine": "Toner · Paraben-free · ₹169/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -15800,7 +15803,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹169/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Vitamin C, Niacinamide, Rose (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -16013,7 +16016,7 @@ const NXPRODUCTS = [
   "price": 186,
   "capacityLine": "100 ml",
   "materialLine": "Tea tree",
-  "featureLine": "Mist / spray · Paraben-free · ₹186/100ml",
+  "featureLine": "Toner · Paraben-free · ₹186/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "Well-reviewed: 5★ from 6 ratings"
@@ -16031,7 +16034,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹186/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Tea tree (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -16128,7 +16131,7 @@ const NXPRODUCTS = [
   "price": 236,
   "capacityLine": "200 ml (pack of 2)",
   "materialLine": "PHA + Aloe vera + Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹118/100ml",
+  "featureLine": "Toner · Paraben-free · ₹118/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -16145,7 +16148,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml × 2 pack",
    "pricePer100": "₹118/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "PHA, Aloe vera, Rose (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -16465,7 +16468,7 @@ const NXPRODUCTS = [
   "price": 295,
   "capacityLine": "150 g (pack of 3)",
   "materialLine": "Vitamin C + Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹197/100g",
+  "featureLine": "Toner · Paraben-free · ₹197/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -16482,7 +16485,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g × 3 pack",
    "pricePer100": "₹197/100g",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Vitamin C, Rose (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -16579,7 +16582,7 @@ const NXPRODUCTS = [
   "price": 206,
   "capacityLine": "Quantity not stated",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray",
+  "featureLine": "Toner",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -16595,7 +16598,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Not stated in listing",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -16681,7 +16684,7 @@ const NXPRODUCTS = [
   "price": 280,
   "capacityLine": "20 ml (pack of 2)",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹1400/100ml",
+  "featureLine": "Toner · Paraben-free · ₹1400/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -16698,7 +16701,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "10 ml × 2 pack",
    "pricePer100": "₹1400/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -16789,7 +16792,7 @@ const NXPRODUCTS = [
   "price": 2185,
   "capacityLine": "237 ml",
   "materialLine": "Collagen + Centella / cica + Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹922/100ml",
+  "featureLine": "Toner · Paraben-free · ₹922/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -16806,7 +16809,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "237 ml",
    "pricePer100": "₹922/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Collagen, Centella / cica, Rose, Witch hazel (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -16904,7 +16907,7 @@ const NXPRODUCTS = [
   "price": 326,
   "capacityLine": "300 ml (pack of 3)",
   "materialLine": "Salicylic acid (BHA) + AHA + Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹109/100ml",
+  "featureLine": "Toner · Paraben-free · ₹109/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -16921,7 +16924,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml × 3 pack",
    "pricePer100": "₹109/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Salicylic acid (BHA), AHA, Rose (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -17128,7 +17131,7 @@ const NXPRODUCTS = [
   "price": 416,
   "capacityLine": "100 ml",
   "materialLine": "Niacinamide + PHA + Rice water",
-  "featureLine": "Mist / spray · Paraben-free · ₹416/100ml",
+  "featureLine": "Toner · Paraben-free · ₹416/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -17145,7 +17148,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹416/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Niacinamide, PHA, Rice water, Green tea, Cucumber (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free, Silicone-free (seller claim — not scored)",
@@ -17358,7 +17361,7 @@ const NXPRODUCTS = [
   "price": 201,
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Mist / spray",
+  "featureLine": "Toner",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "Well-reviewed: 4.3★ from 18,048 ratings"
@@ -17375,7 +17378,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -17462,7 +17465,7 @@ const NXPRODUCTS = [
   "price": 172,
   "capacityLine": "50 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · ₹344/100ml",
+  "featureLine": "Toner · ₹344/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "Well-reviewed: 4.5★ from 8 ratings"
@@ -17480,7 +17483,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 ml",
    "pricePer100": "₹344/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -17904,7 +17907,7 @@ const NXPRODUCTS = [
   "price": 315,
   "capacityLine": "50 ml",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Mist / spray · Paraben-free · ₹630/100ml",
+  "featureLine": "Toner · Paraben-free · ₹630/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "Well-reviewed: 4.3★ from 567 ratings"
@@ -17921,7 +17924,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 ml",
    "pricePer100": "₹630/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -18011,7 +18014,7 @@ const NXPRODUCTS = [
   "price": 435,
   "capacityLine": "400 ml (pack of 2)",
   "materialLine": "Vitamin C + Ceramides + Peptides",
-  "featureLine": "Mist / spray · Paraben-free · ₹109/100ml",
+  "featureLine": "Toner · Paraben-free · ₹109/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -18028,7 +18031,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "200 ml × 2 pack",
    "pricePer100": "₹109/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Vitamin C, Ceramides, Peptides, Rose, Pearl, Copper peptide (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -18122,7 +18125,7 @@ const NXPRODUCTS = [
   "price": 172,
   "capacityLine": "100 ml",
   "materialLine": "Niacinamide + Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹172/100ml",
+  "featureLine": "Toner · Paraben-free · ₹172/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -18139,7 +18142,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹172/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Niacinamide, Rose (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -18455,7 +18458,7 @@ const NXPRODUCTS = [
   "price": 336,
   "capacityLine": "200 ml",
   "materialLine": "Vitamin C + Niacinamide + Glycolic acid",
-  "featureLine": "Mist / spray · Paraben-free · ₹168/100ml",
+  "featureLine": "Toner · Paraben-free · ₹168/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -18472,7 +18475,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "200 ml",
    "pricePer100": "₹168/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Vitamin C, Niacinamide, Glycolic acid, Hyaluronic acid, Rice water, Pearl (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -18684,7 +18687,7 @@ const NXPRODUCTS = [
   "price": 144,
   "capacityLine": "30 ml",
   "materialLine": "Lemon",
-  "featureLine": "Mist / spray · Paraben-free · ₹480/100ml",
+  "featureLine": "Toner · Paraben-free · ₹480/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -18700,7 +18703,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "30 ml",
    "pricePer100": "₹480/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Lemon (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -18792,7 +18795,7 @@ const NXPRODUCTS = [
   "price": 170,
   "capacityLine": "50 ml",
   "materialLine": "Lemon",
-  "featureLine": "Mist / spray · ₹340/100ml",
+  "featureLine": "Toner · ₹340/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "Well-reviewed: 4.4★ from 5 ratings"
@@ -18810,7 +18813,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 ml",
    "pricePer100": "₹340/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Lemon (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -18902,7 +18905,7 @@ const NXPRODUCTS = [
   "price": 160,
   "capacityLine": "100 ml",
   "materialLine": "Niacinamide + Rice water + Aloe vera",
-  "featureLine": "Mist / spray · Paraben-free · ₹160/100ml",
+  "featureLine": "Toner · Paraben-free · ₹160/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -18919,7 +18922,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹160/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Niacinamide, Rice water, Aloe vera, Rose, Licorice (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -19151,7 +19154,7 @@ const NXPRODUCTS = [
    "freeFrom": "Alcohol-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
-   "benefit": "Oil control / matte / non-greasy, Hydrating / moisturizing, Exfoliating, Water / sweat resistant, No white cast, Tinted, Lightweight / fast-absorbing, Makeup-related (setting / priming / removing) (seller claim — not clinical proof)",
+   "benefit": "Oil control / matte / non-greasy, Hydrating / moisturizing, Exfoliating, Water / sweat resistant, No white cast, Tinted, Lightweight / fast-absorbing, Makeup-related (setting / priming / removing), Removes waterproof / long-wear makeup (seller claim — not clinical proof)",
    "skinType": "Not stated in listing",
    "audience": "Unisex / not stated",
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
@@ -19187,6 +19190,7 @@ const NXPRODUCTS = [
    "claim:tinted",
    "claim:lightweight",
    "claim:makeup",
+   "claim:waterproof-makeup",
    "free:alcohol",
    "free:oil-free",
    "aud:unisex",
@@ -19350,7 +19354,7 @@ const NXPRODUCTS = [
   "price": 656,
   "capacityLine": "100 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹656/100ml",
+  "featureLine": "Toner · Paraben-free · ₹656/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "Well-reviewed: 5★ from 5 ratings"
@@ -19368,7 +19372,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹656/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -19797,7 +19801,7 @@ const NXPRODUCTS = [
   "price": 201,
   "capacityLine": "100 ml",
   "materialLine": "Witch hazel",
-  "featureLine": "Mist / spray · Paraben-free · ₹201/100ml",
+  "featureLine": "Toner · Paraben-free · ₹201/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "Well-reviewed: 4.4★ from 68 ratings"
@@ -19814,7 +19818,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹201/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Witch hazel (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -19905,7 +19909,7 @@ const NXPRODUCTS = [
   "price": 140,
   "capacityLine": "20 g",
   "materialLine": "Niacinamide + Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹700/100g",
+  "featureLine": "Toner · Paraben-free · ₹700/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -19922,7 +19926,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "20 g",
    "pricePer100": "₹700/100g",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Niacinamide, Rose (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -20019,7 +20023,7 @@ const NXPRODUCTS = [
   "price": 262,
   "capacityLine": "Quantity not stated",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray",
+  "featureLine": "Toner",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "Well-reviewed: 4.7★ from 114 ratings"
@@ -20037,7 +20041,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -20122,7 +20126,7 @@ const NXPRODUCTS = [
   "price": 225,
   "capacityLine": "200 ml",
   "materialLine": "PHA + Rose + Glycerin",
-  "featureLine": "Mist / spray · Paraben-free · ₹113/100ml",
+  "featureLine": "Toner · Paraben-free · ₹113/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -20139,7 +20143,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "200 ml",
    "pricePer100": "₹113/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "PHA, Rose, Glycerin (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -20238,7 +20242,7 @@ const NXPRODUCTS = [
   "price": 198,
   "capacityLine": "200 ml",
   "materialLine": "Niacinamide + Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹99/100ml",
+  "featureLine": "Toner · Paraben-free · ₹99/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -20255,7 +20259,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "200 ml",
    "pricePer100": "₹99/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Niacinamide, Rose (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -20460,7 +20464,7 @@ const NXPRODUCTS = [
   "price": 95,
   "capacityLine": "300 ml",
   "materialLine": "Rose + Glycerin",
-  "featureLine": "Mist / spray · Paraben-free · ₹32/100ml",
+  "featureLine": "Toner · Paraben-free · ₹32/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -20477,7 +20481,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "300 ml",
    "pricePer100": "₹32/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Rose, Glycerin (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -20572,7 +20576,7 @@ const NXPRODUCTS = [
   "price": 680,
   "capacityLine": "100 ml",
   "materialLine": "Rose + Glycerin",
-  "featureLine": "Mist / spray · Paraben-free · ₹680/100ml",
+  "featureLine": "Toner · Paraben-free · ₹680/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -20589,7 +20593,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹680/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose, Glycerin (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -20682,7 +20686,7 @@ const NXPRODUCTS = [
   "price": 1299,
   "capacityLine": "200 ml",
   "materialLine": "Lactic acid + PHA + Aloe vera",
-  "featureLine": "Mist / spray · Paraben-free · ₹650/100ml",
+  "featureLine": "Toner · Paraben-free · ₹650/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -20699,7 +20703,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "200 ml",
    "pricePer100": "₹650/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Lactic acid, PHA, Aloe vera, Rose (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -20795,7 +20799,7 @@ const NXPRODUCTS = [
   "price": 322,
   "capacityLine": "300 ml (pack of 3)",
   "materialLine": "Niacinamide + PHA + Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹107/100ml",
+  "featureLine": "Toner · Paraben-free · ₹107/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -20812,7 +20816,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml × 3 pack",
    "pricePer100": "₹107/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Niacinamide, PHA, Rose (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -20920,7 +20924,7 @@ const NXPRODUCTS = [
   "price": 338,
   "capacityLine": "110 ml",
   "materialLine": "Niacinamide + Salicylic acid (BHA) + AHA",
-  "featureLine": "Mist / spray · Paraben-free · ₹307/100ml",
+  "featureLine": "Toner · Paraben-free · ₹307/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -20937,7 +20941,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "110 ml",
    "pricePer100": "₹307/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Niacinamide, Salicylic acid (BHA), AHA, PHA, Rose (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -21035,7 +21039,7 @@ const NXPRODUCTS = [
   "price": 123,
   "capacityLine": "100 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹123/100ml",
+  "featureLine": "Toner · Paraben-free · ₹123/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -21051,7 +21055,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹123/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -21149,7 +21153,7 @@ const NXPRODUCTS = [
   "price": 401,
   "capacityLine": "100 ml",
   "materialLine": "Glycolic acid + Hyaluronic acid + Aloe vera",
-  "featureLine": "Mist / spray · Paraben-free · ₹401/100ml",
+  "featureLine": "Toner · Paraben-free · ₹401/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -21166,7 +21170,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹401/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Glycolic acid, Hyaluronic acid, Aloe vera, Rose, Vitamin E, Lemon (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -21499,7 +21503,7 @@ const NXPRODUCTS = [
   "price": 163,
   "capacityLine": "200 ml",
   "materialLine": "Niacinamide + Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹82/100ml",
+  "featureLine": "Toner · Paraben-free · ₹82/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -21516,7 +21520,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "200 ml",
    "pricePer100": "₹82/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Niacinamide, Rose (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -21615,7 +21619,7 @@ const NXPRODUCTS = [
   "price": 934,
   "capacityLine": "100 ml",
   "materialLine": "Ceramides + Rice water + Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹934/100ml",
+  "featureLine": "Toner · Paraben-free · ₹934/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -21632,7 +21636,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹934/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Ceramides, Rice water, Rose, Cucumber (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -21846,7 +21850,7 @@ const NXPRODUCTS = [
   "price": 373,
   "capacityLine": "600 ml (pack of 2)",
   "materialLine": "Vitamin C + Centella / cica + Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹62/100ml",
+  "featureLine": "Toner · Paraben-free · ₹62/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -21863,7 +21867,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "300 ml × 2 pack",
    "pricePer100": "₹62/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Vitamin C, Centella / cica, Rose, Pearl (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -21963,7 +21967,7 @@ const NXPRODUCTS = [
   "price": 109,
   "capacityLine": "100 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹109/100ml",
+  "featureLine": "Toner · Paraben-free · ₹109/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -21980,7 +21984,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹109/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -22071,7 +22075,7 @@ const NXPRODUCTS = [
   "price": 435,
   "capacityLine": "600 ml (pack of 3)",
   "materialLine": "Niacinamide + Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹73/100ml",
+  "featureLine": "Toner · Paraben-free · ₹73/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -22088,7 +22092,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "200 ml × 3 pack",
    "pricePer100": "₹73/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Niacinamide, Rose (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -22300,7 +22304,7 @@ const NXPRODUCTS = [
   "price": 378,
   "capacityLine": "Quantity not stated",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray",
+  "featureLine": "Toner",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "Well-reviewed: 4.5★ from 104 ratings"
@@ -22318,7 +22322,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -22403,7 +22407,7 @@ const NXPRODUCTS = [
   "price": 88,
   "capacityLine": "100 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹88/100ml",
+  "featureLine": "Toner · Paraben-free · ₹88/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -22420,7 +22424,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹88/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -22516,7 +22520,7 @@ const NXPRODUCTS = [
   "price": 188,
   "capacityLine": "100 ml",
   "materialLine": "Vitamin C + Niacinamide + Salicylic acid (BHA)",
-  "featureLine": "Mist / spray · Paraben-free · ₹188/100ml",
+  "featureLine": "Toner · Paraben-free · ₹188/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -22533,7 +22537,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹188/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Vitamin C, Niacinamide, Salicylic acid (BHA), Rice water, Rose (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -22630,7 +22634,7 @@ const NXPRODUCTS = [
   "price": 173,
   "capacityLine": "100 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · Alcohol-free · ₹173/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹173/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -22647,7 +22651,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹173/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -22846,7 +22850,7 @@ const NXPRODUCTS = [
   "price": 159,
   "capacityLine": "100 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹159/100ml",
+  "featureLine": "Toner · Paraben-free · ₹159/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -22863,7 +22867,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹159/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -22958,7 +22962,7 @@ const NXPRODUCTS = [
   "price": 160,
   "capacityLine": "100 ml",
   "materialLine": "Niacinamide + Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹160/100ml",
+  "featureLine": "Toner · Paraben-free · ₹160/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -22975,7 +22979,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹160/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Niacinamide, Rose (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -23181,7 +23185,7 @@ const NXPRODUCTS = [
   "price": 100,
   "capacityLine": "100 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹100/100ml",
+  "featureLine": "Toner · Paraben-free · ₹100/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -23198,7 +23202,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹100/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -23291,7 +23295,7 @@ const NXPRODUCTS = [
   "price": 545,
   "capacityLine": "360 ml",
   "materialLine": "Rice water + Aloe vera + Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹151/100ml",
+  "featureLine": "Toner · Paraben-free · ₹151/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -23308,7 +23312,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "360 ml",
    "pricePer100": "₹151/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Rice water, Aloe vera, Rose, Almond, Mugwort (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -23406,7 +23410,7 @@ const NXPRODUCTS = [
   "price": 84,
   "capacityLine": "200 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹42/100ml",
+  "featureLine": "Toner · Paraben-free · ₹42/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "Well-reviewed: 4.8★ from 14 ratings"
@@ -23424,7 +23428,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "200 ml",
    "pricePer100": "₹42/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -23626,7 +23630,7 @@ const NXPRODUCTS = [
   "price": 189,
   "capacityLine": "200 ml (pack of 2)",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹95/100ml",
+  "featureLine": "Toner · Paraben-free · ₹95/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -23643,7 +23647,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml × 2 pack",
    "pricePer100": "₹95/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -23735,7 +23739,7 @@ const NXPRODUCTS = [
   "price": 130,
   "capacityLine": "100 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹130/100ml",
+  "featureLine": "Toner · Paraben-free · ₹130/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -23752,7 +23756,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹130/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -23845,7 +23849,7 @@ const NXPRODUCTS = [
   "price": 173,
   "capacityLine": "400 ml (pack of 4)",
   "materialLine": "Tea tree + Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹43/100ml",
+  "featureLine": "Toner · Paraben-free · ₹43/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -23862,7 +23866,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml × 4 pack",
    "pricePer100": "₹43/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Tea tree, Rose (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -23958,7 +23962,7 @@ const NXPRODUCTS = [
   "price": 111,
   "capacityLine": "500 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹22/100ml",
+  "featureLine": "Toner · Paraben-free · ₹22/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -23975,7 +23979,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "500 ml",
    "pricePer100": "₹22/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -24073,7 +24077,7 @@ const NXPRODUCTS = [
   "price": 130,
   "capacityLine": "200 ml (pack of 2)",
   "materialLine": "Vitamin C + Tea tree + Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹65/100ml",
+  "featureLine": "Toner · Paraben-free · ₹65/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -24090,7 +24094,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml × 2 pack",
    "pricePer100": "₹65/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Vitamin C, Tea tree, Rose, Tomato (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -24186,7 +24190,7 @@ const NXPRODUCTS = [
   "price": 128,
   "capacityLine": "100 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹128/100ml",
+  "featureLine": "Toner · Paraben-free · ₹128/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -24203,7 +24207,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹128/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -24298,7 +24302,7 @@ const NXPRODUCTS = [
   "price": 198,
   "capacityLine": "100 ml",
   "materialLine": "Niacinamide + Hyaluronic acid + Green tea",
-  "featureLine": "Mist / spray · Paraben-free · ₹198/100ml",
+  "featureLine": "Toner · Paraben-free · ₹198/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -24315,7 +24319,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹198/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Niacinamide, Hyaluronic acid, Green tea, Rose, Vitamin B5 / panthenol (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -24527,7 +24531,7 @@ const NXPRODUCTS = [
   "price": 92,
   "capacityLine": "400 ml (pack of 4)",
   "materialLine": "Niacinamide + PHA + Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹23/100ml",
+  "featureLine": "Toner · Paraben-free · ₹23/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -24544,7 +24548,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml × 4 pack",
    "pricePer100": "₹23/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Niacinamide, PHA, Rose (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -24756,7 +24760,7 @@ const NXPRODUCTS = [
   "price": 88,
   "capacityLine": "400 ml (pack of 4)",
   "materialLine": "Vitamin C + PHA + Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹22/100ml",
+  "featureLine": "Toner · Paraben-free · ₹22/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -24773,7 +24777,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml × 4 pack",
    "pricePer100": "₹22/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Vitamin C, PHA, Rose, Cucumber (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -24872,7 +24876,7 @@ const NXPRODUCTS = [
   "price": 88,
   "capacityLine": "100 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹88/100ml",
+  "featureLine": "Toner · Paraben-free · ₹88/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -24888,7 +24892,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹88/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -24982,7 +24986,7 @@ const NXPRODUCTS = [
   "price": 236,
   "capacityLine": "100 g (pack of 2)",
   "materialLine": "Niacinamide + Kojic acid + Rice water",
-  "featureLine": "Mist / spray · Paraben-free · ₹236/100g",
+  "featureLine": "Toner · Paraben-free · ₹236/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -24999,7 +25003,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g × 2 pack",
    "pricePer100": "₹236/100g",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Niacinamide, Kojic acid, Rice water, Aloe vera, Rose, Vitamin E (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -25105,7 +25109,7 @@ const NXPRODUCTS = [
   "price": 230,
   "capacityLine": "120 ml",
   "materialLine": "Aloe vera + Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹192/100ml",
+  "featureLine": "Toner · Paraben-free · ₹192/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -25122,7 +25126,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "120 ml",
    "pricePer100": "₹192/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Aloe vera, Rose (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -25324,7 +25328,7 @@ const NXPRODUCTS = [
   "price": 254,
   "capacityLine": "100 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹254/100ml",
+  "featureLine": "Toner · Paraben-free · ₹254/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "Well-reviewed: 4.4★ from 211 ratings"
@@ -25342,7 +25346,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹254/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Paraben-free, Sulfate/SLS-free (seller claim — not scored)",
@@ -25541,7 +25545,7 @@ const NXPRODUCTS = [
   "price": 145,
   "capacityLine": "100 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹145/100ml",
+  "featureLine": "Toner · Paraben-free · ₹145/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -25557,7 +25561,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹145/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -25655,7 +25659,7 @@ const NXPRODUCTS = [
   "price": 175,
   "capacityLine": "100 ml",
   "materialLine": "Niacinamide + Aloe vera + Rose",
-  "featureLine": "Mist / spray · Fragrance-free · ₹175/100ml",
+  "featureLine": "Toner · Fragrance-free · ₹175/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -25672,7 +25676,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹175/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Niacinamide, Aloe vera, Rose, Witch hazel (named on listing)",
    "freeFrom": "Fragrance-free, Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -25768,7 +25772,7 @@ const NXPRODUCTS = [
   "price": 172,
   "capacityLine": "100 ml",
   "materialLine": "Niacinamide + Aloe vera + Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹172/100ml",
+  "featureLine": "Toner · Paraben-free · ₹172/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -25785,7 +25789,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹172/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Niacinamide, Aloe vera, Rose, Witch hazel (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -25880,7 +25884,7 @@ const NXPRODUCTS = [
   "price": 148,
   "capacityLine": "200 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹74/100ml",
+  "featureLine": "Toner · Paraben-free · ₹74/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -25896,7 +25900,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "200 ml",
    "pricePer100": "₹74/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -26104,7 +26108,7 @@ const NXPRODUCTS = [
   "price": 163,
   "capacityLine": "300 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹54/100ml",
+  "featureLine": "Toner · Paraben-free · ₹54/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -26120,7 +26124,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "300 ml",
    "pricePer100": "₹54/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -26218,7 +26222,7 @@ const NXPRODUCTS = [
   "price": 186,
   "capacityLine": "200 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹93/100ml",
+  "featureLine": "Toner · Paraben-free · ₹93/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "Well-reviewed: 4.7★ from 14 ratings"
@@ -26236,7 +26240,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "200 ml",
    "pricePer100": "₹93/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -26434,7 +26438,7 @@ const NXPRODUCTS = [
   "price": 191,
   "capacityLine": "400 ml (pack of 4)",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹48/100ml",
+  "featureLine": "Toner · Paraben-free · ₹48/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -26451,7 +26455,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml × 4 pack",
    "pricePer100": "₹48/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -26543,7 +26547,7 @@ const NXPRODUCTS = [
   "price": 186,
   "capacityLine": "100 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹186/100ml",
+  "featureLine": "Toner · Paraben-free · ₹186/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -26559,7 +26563,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹186/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -26651,7 +26655,7 @@ const NXPRODUCTS = [
   "price": 206,
   "capacityLine": "Quantity not stated",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray",
+  "featureLine": "Toner",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -26667,7 +26671,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Not stated in listing",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -26978,7 +26982,7 @@ const NXPRODUCTS = [
   "price": 319,
   "capacityLine": "Quantity not stated",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · Paraben-free",
+  "featureLine": "Toner · Paraben-free",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -26994,7 +26998,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -27082,7 +27086,7 @@ const NXPRODUCTS = [
   "price": 228,
   "capacityLine": "100 ml",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Mist / spray · Paraben-free · ₹228/100ml",
+  "featureLine": "Toner · Paraben-free · ₹228/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -27098,7 +27102,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹228/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -27636,7 +27640,7 @@ const NXPRODUCTS = [
   "price": 609,
   "capacityLine": "100 ml",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Mist / spray · Paraben-free · ₹609/100ml",
+  "featureLine": "Toner · Paraben-free · ₹609/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -27651,7 +27655,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹609/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -27739,7 +27743,7 @@ const NXPRODUCTS = [
   "price": 114,
   "capacityLine": "Quantity not stated",
   "materialLine": "Rose + Glycerin",
-  "featureLine": "Mist / spray",
+  "featureLine": "Toner",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -27755,7 +27759,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose, Glycerin (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -27843,7 +27847,7 @@ const NXPRODUCTS = [
   "price": 254,
   "capacityLine": "100 ml",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Mist / spray · Paraben-free · ₹254/100ml",
+  "featureLine": "Toner · Paraben-free · ₹254/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -27859,7 +27863,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹254/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -27950,7 +27954,7 @@ const NXPRODUCTS = [
   "price": 2660,
   "capacityLine": "300 ml",
   "materialLine": "Thermal water",
-  "featureLine": "Mist / spray · Paraben-free · ₹887/100ml",
+  "featureLine": "Other · Paraben-free · ₹887/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "Made by Pierre Fabre (dermatology / pharma maker)",
@@ -27968,7 +27972,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "300 ml",
    "pricePer100": "₹887/100ml",
-   "format": "Mist / spray",
+   "format": "Other",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Thermal water (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -28395,7 +28399,7 @@ const NXPRODUCTS = [
   "price": 165,
   "capacityLine": "300 ml",
   "materialLine": "Niacinamide",
-  "featureLine": "Mist / spray · Paraben-free · ₹55/100ml",
+  "featureLine": "Toner · Paraben-free · ₹55/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -28412,7 +28416,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "300 ml",
    "pricePer100": "₹55/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Niacinamide (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -30076,7 +30080,7 @@ const NXPRODUCTS = [
   "price": 220,
   "capacityLine": "100 ml",
   "materialLine": "Niacinamide + Hyaluronic acid + Green tea",
-  "featureLine": "Mist / spray · Paraben-free · ₹220/100ml",
+  "featureLine": "Toner · Paraben-free · ₹220/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -30093,7 +30097,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹220/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Niacinamide, Hyaluronic acid, Green tea, Aloe vera, Rose, Vitamin B5 / panthenol, Milk (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -30311,7 +30315,7 @@ const NXPRODUCTS = [
   "price": 396,
   "capacityLine": "798 ml (pack of 2)",
   "materialLine": "Vitamin C + Niacinamide + Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹50/100ml",
+  "featureLine": "Toner · Paraben-free · ₹50/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -30328,7 +30332,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "399 ml × 2 pack",
    "pricePer100": "₹50/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Vitamin C, Niacinamide, Rose, Papaya, Cucumber, Pearl (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -30545,7 +30549,7 @@ const NXPRODUCTS = [
   "price": 955,
   "capacityLine": "400 ml (pack of 4)",
   "materialLine": "Vitamin C + Hyaluronic acid + Green tea",
-  "featureLine": "Mist / spray · Paraben-free · ₹239/100ml",
+  "featureLine": "Toner · Paraben-free · ₹239/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -30562,7 +30566,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml × 4 pack",
    "pricePer100": "₹239/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Vitamin C, Hyaluronic acid, Green tea, Rose, Cucumber, Vitamin B5 / panthenol (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -30775,7 +30779,7 @@ const NXPRODUCTS = [
   "price": 200,
   "capacityLine": "200 ml",
   "materialLine": "Niacinamide + Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹100/100ml",
+  "featureLine": "Toner · Paraben-free · ₹100/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -30792,7 +30796,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "200 ml",
    "pricePer100": "₹100/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Niacinamide, Rose (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -30889,7 +30893,7 @@ const NXPRODUCTS = [
   "price": 326,
   "capacityLine": "200 ml (pack of 2)",
   "materialLine": "Vitamin C + Honey",
-  "featureLine": "Mist / spray · Paraben-free · ₹163/100ml",
+  "featureLine": "Toner · Paraben-free · ₹163/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -30906,7 +30910,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml × 2 pack",
    "pricePer100": "₹163/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Vitamin C, Honey (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -30997,7 +31001,7 @@ const NXPRODUCTS = [
   "price": 291,
   "capacityLine": "100 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹291/100ml",
+  "featureLine": "Toner · Paraben-free · ₹291/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "Well-reviewed: 5★ from 23 ratings"
@@ -31015,7 +31019,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹291/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -31106,7 +31110,7 @@ const NXPRODUCTS = [
   "price": 799,
   "capacityLine": "100 ml",
   "materialLine": "Niacinamide + Licorice",
-  "featureLine": "Mist / spray · Paraben-free · ₹799/100ml",
+  "featureLine": "Toner · Paraben-free · ₹799/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -31123,7 +31127,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹799/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Niacinamide, Licorice (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -31214,7 +31218,7 @@ const NXPRODUCTS = [
   "price": 176,
   "capacityLine": "200 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹88/100ml",
+  "featureLine": "Toner · Paraben-free · ₹88/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -31231,7 +31235,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "200 ml",
    "pricePer100": "₹88/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -31323,7 +31327,7 @@ const NXPRODUCTS = [
   "price": 289,
   "capacityLine": "200 ml",
   "materialLine": "Rice water + Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹145/100ml",
+  "featureLine": "Toner · Paraben-free · ₹145/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -31340,7 +31344,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "200 ml",
    "pricePer100": "₹145/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rice water, Rose (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -31545,7 +31549,7 @@ const NXPRODUCTS = [
   "price": 299,
   "capacityLine": "250 ml",
   "materialLine": "Saffron",
-  "featureLine": "Mist / spray · Paraben-free · ₹120/100ml",
+  "featureLine": "Toner · Paraben-free · ₹120/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -31561,7 +31565,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "250 ml",
    "pricePer100": "₹120/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Saffron (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -31650,7 +31654,7 @@ const NXPRODUCTS = [
   "price": 183,
   "capacityLine": "100 ml",
   "materialLine": "Vitamin C + Niacinamide + Rice water",
-  "featureLine": "Mist / spray · Paraben-free · ₹183/100ml",
+  "featureLine": "Toner · Paraben-free · ₹183/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -31667,7 +31671,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹183/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Vitamin C, Niacinamide, Rice water (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -31770,7 +31774,7 @@ const NXPRODUCTS = [
   "price": 485,
   "capacityLine": "240 ml (pack of 2)",
   "materialLine": "Vitamin C + Glycolic acid + Hyaluronic acid",
-  "featureLine": "Mist / spray · Paraben-free · ₹202/100ml",
+  "featureLine": "Toner · Paraben-free · ₹202/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -31787,7 +31791,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "120 ml × 2 pack",
    "pricePer100": "₹202/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Vitamin C, Glycolic acid, Hyaluronic acid, Rice water, Aloe vera, Rose, Pearl (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -31886,7 +31890,7 @@ const NXPRODUCTS = [
   "price": 278,
   "capacityLine": "100 ml",
   "materialLine": "Niacinamide",
-  "featureLine": "Mist / spray · Paraben-free · ₹278/100ml",
+  "featureLine": "Toner · Paraben-free · ₹278/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -31903,7 +31907,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹278/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Niacinamide (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -31997,7 +32001,7 @@ const NXPRODUCTS = [
   "price": 156,
   "capacityLine": "30 ml",
   "materialLine": "Witch hazel",
-  "featureLine": "Mist / spray · Paraben-free · ₹520/100ml",
+  "featureLine": "Toner · Paraben-free · ₹520/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "Well-reviewed: 4.3★ from 39 ratings"
@@ -32014,7 +32018,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "30 ml",
    "pricePer100": "₹520/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Witch hazel (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -32108,7 +32112,7 @@ const NXPRODUCTS = [
   "price": 300,
   "capacityLine": "200 ml (pack of 2)",
   "materialLine": "Vitamin C + Niacinamide + PHA",
-  "featureLine": "Mist / spray · Paraben-free · ₹150/100ml",
+  "featureLine": "Toner · Paraben-free · ₹150/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -32125,7 +32129,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml × 2 pack",
    "pricePer100": "₹150/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Vitamin C, Niacinamide, PHA, Rice water, Rose, Pearl (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -32335,7 +32339,7 @@ const NXPRODUCTS = [
   "price": 209,
   "capacityLine": "100 ml",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Mist / spray · Paraben-free · ₹209/100ml",
+  "featureLine": "Toner · Paraben-free · ₹209/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "Well-reviewed: 4.5★ from 8 ratings"
@@ -32353,7 +32357,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹209/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -32444,7 +32448,7 @@ const NXPRODUCTS = [
   "price": 232,
   "capacityLine": "50 g",
   "materialLine": "Niacinamide + Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹464/100g",
+  "featureLine": "Toner · Paraben-free · ₹464/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -32461,7 +32465,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹464/100g",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Niacinamide, Rose (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -32563,7 +32567,7 @@ const NXPRODUCTS = [
   "price": 192,
   "capacityLine": "120 ml",
   "materialLine": "Vitamin C + Glycerin",
-  "featureLine": "Mist / spray · Paraben-free · ₹160/100ml",
+  "featureLine": "Toner · Paraben-free · ₹160/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -32579,7 +32583,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "120 ml",
    "pricePer100": "₹160/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Vitamin C, Glycerin (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -32674,7 +32678,7 @@ const NXPRODUCTS = [
   "price": 167,
   "capacityLine": "50 ml",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Mist / spray · Paraben-free · ₹334/100ml",
+  "featureLine": "Toner · Paraben-free · ₹334/100ml",
   "highlight": "Live Flipkart listing. Scored from its published INCI list (Flipkart listing — Composition field): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "glycerin high on the INCI list (strong evidence); niacinamide high on the INCI list (strong evidence)"
@@ -32693,7 +32697,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 ml",
    "pricePer100": "₹334/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -32872,7 +32876,7 @@ const NXPRODUCTS = [
   "price": 258,
   "capacityLine": "100 g (pack of 2)",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹258/100g",
+  "featureLine": "Toner · Paraben-free · ₹258/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -32889,7 +32893,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g × 2 pack",
    "pricePer100": "₹258/100g",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -33215,7 +33219,7 @@ const NXPRODUCTS = [
   "price": 435,
   "capacityLine": "300 ml (pack of 3)",
   "materialLine": "Niacinamide + Rice water + Centella / cica",
-  "featureLine": "Mist / spray · Paraben-free · ₹145/100ml",
+  "featureLine": "Toner · Paraben-free · ₹145/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -33232,7 +33236,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml × 3 pack",
    "pricePer100": "₹145/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Niacinamide, Rice water, Centella / cica, Honey, Cucumber (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -33435,7 +33439,7 @@ const NXPRODUCTS = [
   "price": 234,
   "capacityLine": "600 ml (pack of 3)",
   "materialLine": "Glycolic acid + Lactic acid + Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹39/100ml",
+  "featureLine": "Toner · Paraben-free · ₹39/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -33452,7 +33456,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "200 ml × 3 pack",
    "pricePer100": "₹39/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Glycolic acid, Lactic acid, Rose (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -33552,7 +33556,7 @@ const NXPRODUCTS = [
   "price": 199,
   "capacityLine": "100 ml",
   "materialLine": "Rose + Cucumber",
-  "featureLine": "Mist / spray · Paraben-free · ₹199/100ml",
+  "featureLine": "Toner · Paraben-free · ₹199/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -33569,7 +33573,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹199/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose, Cucumber (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -33781,7 +33785,7 @@ const NXPRODUCTS = [
   "price": 133,
   "capacityLine": "100 ml",
   "materialLine": "Glycolic acid + Rice water + Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹133/100ml",
+  "featureLine": "Toner · Paraben-free · ₹133/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -33798,7 +33802,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹133/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Glycolic acid, Rice water, Rose (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -34004,7 +34008,7 @@ const NXPRODUCTS = [
   "price": 186,
   "capacityLine": "100 ml",
   "materialLine": "Rose + Cucumber",
-  "featureLine": "Mist / spray · Paraben-free · ₹186/100ml",
+  "featureLine": "Toner · Paraben-free · ₹186/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -34020,7 +34024,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹186/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Rose, Cucumber (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -34114,7 +34118,7 @@ const NXPRODUCTS = [
   "price": 159,
   "capacityLine": "100 ml",
   "materialLine": "Lavender",
-  "featureLine": "Mist / spray · Paraben-free · ₹159/100ml",
+  "featureLine": "Toner · Paraben-free · ₹159/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -34130,7 +34134,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹159/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Lavender (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -34222,7 +34226,7 @@ const NXPRODUCTS = [
   "price": 552,
   "capacityLine": "400 ml (pack of 4)",
   "materialLine": "Cucumber + Neem",
-  "featureLine": "Mist / spray · Paraben-free · ₹138/100ml",
+  "featureLine": "Toner · Paraben-free · ₹138/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -34239,7 +34243,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml × 4 pack",
    "pricePer100": "₹138/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Cucumber, Neem (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -34334,7 +34338,7 @@ const NXPRODUCTS = [
   "price": 333,
   "capacityLine": "200 ml (pack of 2)",
   "materialLine": "Vitamin C + Niacinamide + PHA",
-  "featureLine": "Mist / spray · Paraben-free · ₹167/100ml",
+  "featureLine": "Toner · Paraben-free · ₹167/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -34351,7 +34355,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml × 2 pack",
    "pricePer100": "₹167/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Vitamin C, Niacinamide, PHA, Aloe vera, Rose, Honey, Milk (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -34453,7 +34457,7 @@ const NXPRODUCTS = [
   "price": 326,
   "capacityLine": "200 ml (pack of 2)",
   "materialLine": "Glycolic acid + Hyaluronic acid + Neem",
-  "featureLine": "Mist / spray · Paraben-free · ₹163/100ml",
+  "featureLine": "Toner · Paraben-free · ₹163/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -34470,7 +34474,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml × 2 pack",
    "pricePer100": "₹163/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Glycolic acid, Hyaluronic acid, Neem (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -34677,7 +34681,7 @@ const NXPRODUCTS = [
   "price": 435,
   "capacityLine": "300 ml (pack of 3)",
   "materialLine": "Vitamin C + Niacinamide + Glycolic acid",
-  "featureLine": "Mist / spray · Paraben-free · ₹145/100ml",
+  "featureLine": "Toner · Paraben-free · ₹145/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -34694,7 +34698,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml × 3 pack",
    "pricePer100": "₹145/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Vitamin C, Niacinamide, Glycolic acid, Hyaluronic acid, Cucumber, Pearl (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -34794,7 +34798,7 @@ const NXPRODUCTS = [
   "price": 333,
   "capacityLine": "200 ml (pack of 2)",
   "materialLine": "Vitamin C + Rose + Neem",
-  "featureLine": "Mist / spray · Paraben-free · ₹167/100ml",
+  "featureLine": "Toner · Paraben-free · ₹167/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -34811,7 +34815,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml × 2 pack",
    "pricePer100": "₹167/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Vitamin C, Rose, Neem, Gold (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -34908,7 +34912,7 @@ const NXPRODUCTS = [
   "price": 142,
   "capacityLine": "100 ml",
   "materialLine": "Niacinamide + Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹142/100ml",
+  "featureLine": "Toner · Paraben-free · ₹142/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -34925,7 +34929,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹142/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Niacinamide, Rose (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -35022,7 +35026,7 @@ const NXPRODUCTS = [
   "price": 170,
   "capacityLine": "100 ml",
   "materialLine": "Niacinamide + Glycolic acid + Aloe vera",
-  "featureLine": "Mist / spray · Paraben-free · ₹170/100ml",
+  "featureLine": "Toner · Paraben-free · ₹170/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -35039,7 +35043,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹170/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Niacinamide, Glycolic acid, Aloe vera, Cucumber, Vitamin E (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -35143,7 +35147,7 @@ const NXPRODUCTS = [
   "price": 326,
   "capacityLine": "200 ml (pack of 2)",
   "materialLine": "Niacinamide + PHA + Honey",
-  "featureLine": "Mist / spray · Paraben-free · ₹163/100ml",
+  "featureLine": "Toner · Paraben-free · ₹163/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -35160,7 +35164,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml × 2 pack",
    "pricePer100": "₹163/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Niacinamide, PHA, Honey, Neem (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -35480,7 +35484,7 @@ const NXPRODUCTS = [
   "price": 186,
   "capacityLine": "100 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹186/100ml",
+  "featureLine": "Toner · Paraben-free · ₹186/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "Well-reviewed: 4.7★ from 9 ratings"
@@ -35498,7 +35502,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹186/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -35811,7 +35815,7 @@ const NXPRODUCTS = [
   "price": 300,
   "capacityLine": "400 ml (pack of 2)",
   "materialLine": "Vitamin C + Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹75/100ml",
+  "featureLine": "Toner · Paraben-free · ₹75/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -35828,7 +35832,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "200 ml × 2 pack",
    "pricePer100": "₹75/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Vitamin C, Rose (named on listing)",
    "freeFrom": "Paraben-free, Sulfate/SLS-free, Alcohol-free (seller claim — not scored)",
@@ -36153,7 +36157,7 @@ const NXPRODUCTS = [
   "price": 167,
   "capacityLine": "660 g",
   "materialLine": "Vitamin C + Niacinamide + Aloe vera",
-  "featureLine": "Mist / spray · Paraben-free · ₹25/100g",
+  "featureLine": "Toner · Paraben-free · ₹25/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -36170,7 +36174,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "660 g",
    "pricePer100": "₹25/100g",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Vitamin C, Niacinamide, Aloe vera, Rose (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -36266,7 +36270,7 @@ const NXPRODUCTS = [
   "price": 540,
   "capacityLine": "600 ml",
   "materialLine": "Niacinamide + PHA + Rice water",
-  "featureLine": "Mist / spray · Paraben-free · ₹90/100ml",
+  "featureLine": "Toner · Paraben-free · ₹90/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -36283,7 +36287,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "600 ml",
    "pricePer100": "₹90/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Niacinamide, PHA, Rice water, Rose (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -36383,7 +36387,7 @@ const NXPRODUCTS = [
   "price": 146,
   "capacityLine": "400 ml (pack of 2)",
   "materialLine": "Vitamin C + PHA + Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹37/100ml",
+  "featureLine": "Toner · Paraben-free · ₹37/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -36400,7 +36404,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "200 ml × 2 pack",
    "pricePer100": "₹37/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Vitamin C, PHA, Rose, Glycerin, Pearl (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -36751,7 +36755,7 @@ const NXPRODUCTS = [
   "price": 139,
   "capacityLine": "115 ml",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Mist / spray · Paraben-free · ₹121/100ml",
+  "featureLine": "Toner · Paraben-free · ₹121/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -36767,7 +36771,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "115 ml",
    "pricePer100": "₹121/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -37079,7 +37083,7 @@ const NXPRODUCTS = [
   "price": 192,
   "capacityLine": "100 ml",
   "materialLine": "Vitamin C",
-  "featureLine": "Mist / spray · Paraben-free · ₹192/100ml",
+  "featureLine": "Toner · Paraben-free · ₹192/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -37096,7 +37100,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹192/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Vitamin C (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -37183,7 +37187,7 @@ const NXPRODUCTS = [
   "price": 435,
   "capacityLine": "300 ml (pack of 3)",
   "materialLine": "Green tea + Rose + Cucumber",
-  "featureLine": "Mist / spray · Paraben-free · ₹145/100ml",
+  "featureLine": "Toner · Paraben-free · ₹145/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -37200,7 +37204,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml × 3 pack",
    "pricePer100": "₹145/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Green tea, Rose, Cucumber, Neem, Gold (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -37299,7 +37303,7 @@ const NXPRODUCTS = [
   "price": 435,
   "capacityLine": "300 ml (pack of 3)",
   "materialLine": "Green tea + Rose + Honey",
-  "featureLine": "Mist / spray · Paraben-free · ₹145/100ml",
+  "featureLine": "Toner · Paraben-free · ₹145/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -37316,7 +37320,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml × 3 pack",
    "pricePer100": "₹145/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Green tea, Rose, Honey, Cucumber (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -37410,7 +37414,7 @@ const NXPRODUCTS = [
   "price": 200,
   "capacityLine": "100 ml",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Mist / spray · Alcohol-free · ₹200/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹200/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -37426,7 +37430,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹200/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -37624,7 +37628,7 @@ const NXPRODUCTS = [
   "price": 116,
   "capacityLine": "220 ml",
   "materialLine": "Niacinamide + Aloe vera + Cucumber",
-  "featureLine": "Mist / spray · Paraben-free · ₹53/100ml",
+  "featureLine": "Toner · Paraben-free · ₹53/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -37640,7 +37644,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "220 ml",
    "pricePer100": "₹53/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Niacinamide, Aloe vera, Cucumber (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -37730,7 +37734,7 @@ const NXPRODUCTS = [
   "price": 552,
   "capacityLine": "400 ml (pack of 4)",
   "materialLine": "Rice water + Rose + Cucumber",
-  "featureLine": "Mist / spray · Paraben-free · ₹138/100ml",
+  "featureLine": "Toner · Paraben-free · ₹138/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -37747,7 +37751,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml × 4 pack",
    "pricePer100": "₹138/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Rice water, Rose, Cucumber, Neem (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -37843,7 +37847,7 @@ const NXPRODUCTS = [
   "price": 146,
   "capacityLine": "400 ml (pack of 2)",
   "materialLine": "Vitamin C + Salicylic acid (BHA) + AHA",
-  "featureLine": "Mist / spray · Paraben-free · ₹37/100ml",
+  "featureLine": "Toner · Paraben-free · ₹37/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -37860,7 +37864,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "200 ml × 2 pack",
    "pricePer100": "₹37/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Vitamin C, Salicylic acid (BHA), AHA, Hyaluronic acid, Rice water, Pearl (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -37963,7 +37967,7 @@ const NXPRODUCTS = [
   "price": 128,
   "capacityLine": "100 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹128/100ml",
+  "featureLine": "Toner · Paraben-free · ₹128/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -37979,7 +37983,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹128/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -38232,7 +38236,7 @@ const NXPRODUCTS = [
   "price": 699,
   "capacityLine": "200 ml (pack of 2)",
   "materialLine": "Glycolic acid",
-  "featureLine": "Pimple patch · Paraben-free · ₹350/100ml",
+  "featureLine": "Mist / spray · Paraben-free · ₹350/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "Well-reviewed: 4.3★ from 145 ratings"
@@ -38250,7 +38254,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml × 2 pack",
    "pricePer100": "₹350/100ml",
-   "format": "Pimple patch",
+   "format": "Mist / spray",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Glycolic acid (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -38455,7 +38459,7 @@ const NXPRODUCTS = [
   "price": 228,
   "capacityLine": "1000 ml (pack of 2)",
   "materialLine": "Rose + Witch hazel",
-  "featureLine": "Mist / spray · Paraben-free · ₹23/100ml",
+  "featureLine": "Toner · Paraben-free · ₹23/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -38472,7 +38476,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "500 ml × 2 pack",
    "pricePer100": "₹23/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Rose, Witch hazel (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -38570,7 +38574,7 @@ const NXPRODUCTS = [
   "price": 424,
   "capacityLine": "100 ml",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Pimple patch · Paraben-free · ₹424/100ml",
+  "featureLine": "Mist / spray · Paraben-free · ₹424/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "Well-reviewed: 4.4★ from 23 ratings"
@@ -38588,7 +38592,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹424/100ml",
-   "format": "Pimple patch",
+   "format": "Mist / spray",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -38680,7 +38684,7 @@ const NXPRODUCTS = [
   "price": 328,
   "capacityLine": "100 ml",
   "materialLine": "Salicylic acid (BHA) + Glycolic acid + Hyaluronic acid",
-  "featureLine": "Mist / spray · Paraben-free · ₹328/100ml",
+  "featureLine": "Toner · Paraben-free · ₹328/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -38697,7 +38701,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹328/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Salicylic acid (BHA), Glycolic acid, Hyaluronic acid, Glutathione, Rice water, Rose (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -38798,7 +38802,7 @@ const NXPRODUCTS = [
   "price": 805,
   "capacityLine": "500 ml (pack of 5)",
   "materialLine": "Vitamin C + Hyaluronic acid + Green tea",
-  "featureLine": "Mist / spray · Paraben-free · ₹161/100ml",
+  "featureLine": "Toner · Paraben-free · ₹161/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -38815,7 +38819,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml × 5 pack",
    "pricePer100": "₹161/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Vitamin C, Hyaluronic acid, Green tea, Rose, Cucumber, Vitamin B5 / panthenol, Pearl (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -38917,7 +38921,7 @@ const NXPRODUCTS = [
   "price": 779,
   "capacityLine": "1200 ml",
   "materialLine": "Niacinamide + Lactic acid + PHA",
-  "featureLine": "Mist / spray · Paraben-free · ₹65/100ml",
+  "featureLine": "Toner · Paraben-free · ₹65/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -38934,7 +38938,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "1200 ml",
    "pricePer100": "₹65/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Niacinamide, Lactic acid, PHA, Rose (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -39036,7 +39040,7 @@ const NXPRODUCTS = [
   "price": 441,
   "capacityLine": "100 ml",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Mist / spray · Paraben-free · ₹441/100ml",
+  "featureLine": "Toner · Paraben-free · ₹441/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -39052,7 +39056,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹441/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -39143,7 +39147,7 @@ const NXPRODUCTS = [
   "price": 500,
   "capacityLine": "200 ml (pack of 4)",
   "materialLine": "Rose + Cucumber",
-  "featureLine": "Mist / spray · Paraben-free · ₹250/100ml",
+  "featureLine": "Toner · Paraben-free · ₹250/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -39160,7 +39164,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 ml × 4 pack",
    "pricePer100": "₹250/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Rose, Cucumber (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -39252,7 +39256,7 @@ const NXPRODUCTS = [
   "price": 291,
   "capacityLine": "480 ml",
   "materialLine": "Niacinamide + Glycolic acid + Lavender",
-  "featureLine": "Mist / spray · Paraben-free · ₹61/100ml",
+  "featureLine": "Toner · Paraben-free · ₹61/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -39269,7 +39273,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "480 ml",
    "pricePer100": "₹61/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Niacinamide, Glycolic acid, Lavender (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -39366,7 +39370,7 @@ const NXPRODUCTS = [
   "price": 1186,
   "capacityLine": "400 g (pack of 2)",
   "materialLine": "Glycolic acid + Rose + Glycerin",
-  "featureLine": "Mist / spray · Paraben-free · ₹297/100g",
+  "featureLine": "Toner · Paraben-free · ₹297/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -39383,7 +39387,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "200 g × 2 pack",
    "pricePer100": "₹297/100g",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Glycolic acid, Rose, Glycerin (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -39481,7 +39485,7 @@ const NXPRODUCTS = [
   "price": 170,
   "capacityLine": "200 ml (pack of 2)",
   "materialLine": "Rose + Neem",
-  "featureLine": "Mist / spray · Paraben-free · ₹85/100ml",
+  "featureLine": "Toner · Paraben-free · ₹85/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -39498,7 +39502,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml × 2 pack",
    "pricePer100": "₹85/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Rose, Neem (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -39595,7 +39599,7 @@ const NXPRODUCTS = [
   "price": 495,
   "capacityLine": "Quantity not stated",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray",
+  "featureLine": "Toner",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "Well-reviewed: 4.5★ from 927 ratings"
@@ -39612,7 +39616,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -39699,7 +39703,7 @@ const NXPRODUCTS = [
   "price": 223,
   "capacityLine": "220 ml",
   "materialLine": "Niacinamide + Colloidal oatmeal + Rice water",
-  "featureLine": "Mist / spray · Paraben-free · ₹101/100ml",
+  "featureLine": "Toner · Paraben-free · ₹101/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -39715,7 +39719,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "220 ml",
    "pricePer100": "₹101/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Niacinamide, Colloidal oatmeal, Rice water (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -39805,7 +39809,7 @@ const NXPRODUCTS = [
   "price": 128,
   "capacityLine": "240 ml",
   "materialLine": "Papaya",
-  "featureLine": "Mist / spray · Paraben-free · ₹53/100ml",
+  "featureLine": "Toner · Paraben-free · ₹53/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -39821,7 +39825,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "240 ml",
    "pricePer100": "₹53/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Papaya (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -39913,7 +39917,7 @@ const NXPRODUCTS = [
   "price": 148,
   "capacityLine": "200 ml (pack of 2)",
   "materialLine": "Rose + Glycerin",
-  "featureLine": "Mist / spray · Paraben-free · ₹74/100ml",
+  "featureLine": "Toner · Paraben-free · ₹74/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -39929,7 +39933,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml × 2 pack",
    "pricePer100": "₹74/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Rose, Glycerin (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -40020,7 +40024,7 @@ const NXPRODUCTS = [
   "price": 282,
   "capacityLine": "1000 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹28/100ml",
+  "featureLine": "Toner · Paraben-free · ₹28/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "Well-reviewed: 4.3★ from 29 ratings"
@@ -40038,7 +40042,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "1000 ml",
    "pricePer100": "₹28/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -40129,7 +40133,7 @@ const NXPRODUCTS = [
   "price": 120,
   "capacityLine": "115 ml",
   "materialLine": "Tea tree",
-  "featureLine": "Mist / spray · Paraben-free · ₹104/100ml",
+  "featureLine": "Toner · Paraben-free · ₹104/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -40145,7 +40149,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "115 ml",
    "pricePer100": "₹104/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Tea tree (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -40347,7 +40351,7 @@ const NXPRODUCTS = [
   "price": 315,
   "capacityLine": "50 g",
   "materialLine": "Vitamin C + Salicylic acid (BHA) + AHA",
-  "featureLine": "Mist / spray · Paraben-free · ₹630/100g",
+  "featureLine": "Toner · Paraben-free · ₹630/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -40364,7 +40368,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹630/100g",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Vitamin C, Salicylic acid (BHA), AHA, Aloe vera, Rose (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -41569,7 +41573,7 @@ const NXPRODUCTS = [
   "price": 323,
   "capacityLine": "120 ml",
   "materialLine": "Rice water",
-  "featureLine": "Mist / spray · Paraben-free · ₹269/100ml",
+  "featureLine": "Toner · Paraben-free · ₹269/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -41586,7 +41590,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "120 ml",
    "pricePer100": "₹269/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Rice water (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -42008,7 +42012,7 @@ const NXPRODUCTS = [
   "price": 206,
   "capacityLine": "Quantity not stated",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray",
+  "featureLine": "Toner",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -42024,7 +42028,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Not stated in listing",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -42329,7 +42333,7 @@ const NXPRODUCTS = [
   "price": 151,
   "capacityLine": "100 ml",
   "materialLine": "Vitamin C",
-  "featureLine": "Mist / spray · Paraben-free · ₹151/100ml",
+  "featureLine": "Toner · Paraben-free · ₹151/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -42345,7 +42349,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹151/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Vitamin C (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -42650,7 +42654,7 @@ const NXPRODUCTS = [
   "price": 445,
   "capacityLine": "100 ml",
   "materialLine": "Niacinamide + Rice water + Vitamin E",
-  "featureLine": "Mist / spray · Paraben-free · ₹445/100ml",
+  "featureLine": "Toner · Paraben-free · ₹445/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "Well-reviewed: 5★ from 8 ratings"
@@ -42668,7 +42672,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹445/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Niacinamide, Rice water, Vitamin E (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -42762,7 +42766,7 @@ const NXPRODUCTS = [
   "price": 255,
   "capacityLine": "100 ml",
   "materialLine": "Niacinamide + Rice water + Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹255/100ml",
+  "featureLine": "Toner · Paraben-free · ₹255/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -42779,7 +42783,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹255/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Niacinamide, Rice water, Rose (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -42877,7 +42881,7 @@ const NXPRODUCTS = [
   "price": 181,
   "capacityLine": "100 ml",
   "materialLine": "Aloe vera + Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹181/100ml",
+  "featureLine": "Toner · Paraben-free · ₹181/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "Well-reviewed: 5★ from 3 ratings"
@@ -42895,7 +42899,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹181/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Aloe vera, Rose (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -42990,7 +42994,7 @@ const NXPRODUCTS = [
   "price": 136,
   "capacityLine": "240 ml",
   "materialLine": "Rice water + Rose + Cucumber",
-  "featureLine": "Mist / spray · Paraben-free · ₹57/100ml",
+  "featureLine": "Toner · Paraben-free · ₹57/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -43007,7 +43011,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "240 ml",
    "pricePer100": "₹57/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rice water, Rose, Cucumber, Neem (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -43218,7 +43222,7 @@ const NXPRODUCTS = [
   "price": 150,
   "capacityLine": "400 ml (pack of 2)",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹38/100ml",
+  "featureLine": "Toner · Paraben-free · ₹38/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -43235,7 +43239,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "200 ml × 2 pack",
    "pricePer100": "₹38/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -43669,7 +43673,7 @@ const NXPRODUCTS = [
   "price": 180,
   "capacityLine": "100 ml",
   "materialLine": "Niacinamide + Salicylic acid (BHA) + Hyaluronic acid",
-  "featureLine": "Mist / spray · Paraben-free · ₹180/100ml",
+  "featureLine": "Toner · Paraben-free · ₹180/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -43686,7 +43690,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹180/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Niacinamide, Salicylic acid (BHA), Hyaluronic acid, Rice water, Green tea, Aloe vera, Rose, Cucumber, Witch hazel, Glycerin (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -43907,7 +43911,7 @@ const NXPRODUCTS = [
   "price": 200,
   "capacityLine": "100 ml",
   "materialLine": "Niacinamide + Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹200/100ml",
+  "featureLine": "Toner · Paraben-free · ₹200/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -43924,7 +43928,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹200/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Niacinamide, Rose (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -44018,7 +44022,7 @@ const NXPRODUCTS = [
   "price": 197,
   "capacityLine": "200 ml",
   "materialLine": "Aloe vera + Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹99/100ml",
+  "featureLine": "Toner · Paraben-free · ₹99/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -44035,7 +44039,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "200 ml",
    "pricePer100": "₹99/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Aloe vera, Rose (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -44130,7 +44134,7 @@ const NXPRODUCTS = [
   "price": 133,
   "capacityLine": "100 ml",
   "materialLine": "Vitamin C + Niacinamide + Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹133/100ml",
+  "featureLine": "Toner · Paraben-free · ₹133/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -44147,7 +44151,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹133/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Vitamin C, Niacinamide, Rose (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -44361,7 +44365,7 @@ const NXPRODUCTS = [
   "price": 175,
   "capacityLine": "100 ml",
   "materialLine": "Niacinamide + Ceramides + Rice water",
-  "featureLine": "Mist / spray · Paraben-free · ₹175/100ml",
+  "featureLine": "Toner · Paraben-free · ₹175/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -44378,7 +44382,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹175/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Niacinamide, Ceramides, Rice water, Rose (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -44702,7 +44706,7 @@ const NXPRODUCTS = [
   "price": 170,
   "capacityLine": "200 ml",
   "materialLine": "Vitamin C + Niacinamide + Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹85/100ml",
+  "featureLine": "Toner · Paraben-free · ₹85/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -44719,7 +44723,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "200 ml",
    "pricePer100": "₹85/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Vitamin C, Niacinamide, Rose (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -44814,7 +44818,7 @@ const NXPRODUCTS = [
   "price": 163,
   "capacityLine": "210 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹78/100ml",
+  "featureLine": "Toner · Paraben-free · ₹78/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -44830,7 +44834,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "210 ml",
    "pricePer100": "₹78/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -44923,7 +44927,7 @@ const NXPRODUCTS = [
   "price": 182,
   "capacityLine": "200 ml",
   "materialLine": "Niacinamide + Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹91/100ml",
+  "featureLine": "Toner · Paraben-free · ₹91/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -44940,7 +44944,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "200 ml",
    "pricePer100": "₹91/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Niacinamide, Rose (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -45033,7 +45037,7 @@ const NXPRODUCTS = [
   "price": 140,
   "capacityLine": "100 ml",
   "materialLine": "Niacinamide + Aloe vera + Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹140/100ml",
+  "featureLine": "Toner · Paraben-free · ₹140/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -45050,7 +45054,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹140/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Niacinamide, Aloe vera, Rose (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -45144,7 +45148,7 @@ const NXPRODUCTS = [
   "price": 142,
   "capacityLine": "100 ml",
   "materialLine": "Vitamin C + Aloe vera + Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹142/100ml",
+  "featureLine": "Toner · Paraben-free · ₹142/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -45161,7 +45165,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹142/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Vitamin C, Aloe vera, Rose, Cucumber (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -45258,7 +45262,7 @@ const NXPRODUCTS = [
   "price": 97,
   "capacityLine": "120 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹81/100ml",
+  "featureLine": "Toner · Paraben-free · ₹81/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -45275,7 +45279,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "120 ml",
    "pricePer100": "₹81/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -45373,7 +45377,7 @@ const NXPRODUCTS = [
   "price": 154,
   "capacityLine": "30 ml",
   "materialLine": "Niacinamide + Witch hazel",
-  "featureLine": "Mist / spray · Paraben-free · ₹513/100ml",
+  "featureLine": "Toner · Paraben-free · ₹513/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -45390,7 +45394,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "30 ml",
    "pricePer100": "₹513/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Niacinamide, Witch hazel (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -45488,7 +45492,7 @@ const NXPRODUCTS = [
   "price": 414,
   "capacityLine": "100 ml",
   "materialLine": "Cucumber",
-  "featureLine": "Mist / spray · Paraben-free · ₹414/100ml",
+  "featureLine": "Toner · Paraben-free · ₹414/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "Well-reviewed: 5★ from 6 ratings"
@@ -45506,7 +45510,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹414/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Cucumber (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -45594,7 +45598,7 @@ const NXPRODUCTS = [
   "price": 195,
   "capacityLine": "120 ml",
   "materialLine": "Vitamin C + Niacinamide + Rice water",
-  "featureLine": "Mist / spray · Paraben-free · ₹163/100ml",
+  "featureLine": "Toner · Paraben-free · ₹163/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -45611,7 +45615,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "120 ml",
    "pricePer100": "₹163/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Vitamin C, Niacinamide, Rice water, Rose, Papaya, Calamine, Lavender (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -45712,7 +45716,7 @@ const NXPRODUCTS = [
   "price": 913,
   "capacityLine": "300 g",
   "materialLine": "Kumkumadi + Witch hazel",
-  "featureLine": "Mist / spray · Paraben-free · ₹304/100g",
+  "featureLine": "Toner · Paraben-free · ₹304/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -45729,7 +45733,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "300 g",
    "pricePer100": "₹304/100g",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Kumkumadi, Witch hazel (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -45835,7 +45839,7 @@ const NXPRODUCTS = [
   "price": 228,
   "capacityLine": "100 ml",
   "materialLine": "Niacinamide + Rice water + Green tea",
-  "featureLine": "Mist / spray · Paraben-free · ₹228/100ml",
+  "featureLine": "Toner · Paraben-free · ₹228/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -45852,7 +45856,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹228/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Niacinamide, Rice water, Green tea, Glycerin (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -45953,7 +45957,7 @@ const NXPRODUCTS = [
   "price": 144,
   "capacityLine": "200 g (pack of 2)",
   "materialLine": "Retinol + Cocoa butter + Lemon",
-  "featureLine": "Mist / spray · Paraben-free · ₹72/100g",
+  "featureLine": "Toner · Paraben-free · ₹72/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -45970,7 +45974,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 g × 2 pack",
    "pricePer100": "₹72/100g",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Retinol, Cocoa butter, Lemon (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -46076,7 +46080,7 @@ const NXPRODUCTS = [
   "price": 133,
   "capacityLine": "200 ml (pack of 2)",
   "materialLine": "Vitamin C + Glycolic acid + Green tea",
-  "featureLine": "Mist / spray · Paraben-free · ₹67/100ml",
+  "featureLine": "Toner · Paraben-free · ₹67/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -46093,7 +46097,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml × 2 pack",
    "pricePer100": "₹67/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Vitamin C, Glycolic acid, Green tea, Cucumber, Glycerin, Pearl (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -46197,7 +46201,7 @@ const NXPRODUCTS = [
   "price": 50,
   "capacityLine": "100 ml",
   "materialLine": "Niacinamide + Aloe vera + Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹50/100ml",
+  "featureLine": "Toner · Paraben-free · ₹50/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -46214,7 +46218,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹50/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Niacinamide, Aloe vera, Rose (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -46313,7 +46317,7 @@ const NXPRODUCTS = [
   "price": 100,
   "capacityLine": "200 ml (pack of 2)",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹50/100ml",
+  "featureLine": "Toner · Paraben-free · ₹50/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -46330,7 +46334,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml × 2 pack",
    "pricePer100": "₹50/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -46431,7 +46435,7 @@ const NXPRODUCTS = [
   "price": 145,
   "capacityLine": "100 ml",
   "materialLine": "Vitamin C + Niacinamide + Rice water",
-  "featureLine": "Mist / spray · Paraben-free · ₹145/100ml",
+  "featureLine": "Toner · Paraben-free · ₹145/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -46448,7 +46452,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹145/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Vitamin C, Niacinamide, Rice water, Rose (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -46549,7 +46553,7 @@ const NXPRODUCTS = [
   "price": 150,
   "capacityLine": "40 g",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹375/100g",
+  "featureLine": "Toner · Paraben-free · ₹375/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -46566,7 +46570,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "40 g",
    "pricePer100": "₹375/100g",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -46603,6 +46607,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:wash",
    "format:kit",
+   "format:cleansing-oil",
    "ing:rose",
    "claim:hydrating",
    "claim:barrier",
@@ -46662,7 +46667,7 @@ const NXPRODUCTS = [
   "price": 90,
   "capacityLine": "120 ml",
   "materialLine": "Vitamin C + Rose + Cucumber",
-  "featureLine": "Mist / spray · Paraben-free · ₹75/100ml",
+  "featureLine": "Toner · Paraben-free · ₹75/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -46679,7 +46684,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "120 ml",
    "pricePer100": "₹75/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Vitamin C, Rose, Cucumber (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -46779,7 +46784,7 @@ const NXPRODUCTS = [
   "price": 175,
   "capacityLine": "100 ml",
   "materialLine": "Niacinamide + Salicylic acid (BHA) + Hyaluronic acid",
-  "featureLine": "Mist / spray · Paraben-free · ₹175/100ml",
+  "featureLine": "Toner · Paraben-free · ₹175/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -46796,7 +46801,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹175/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Niacinamide, Salicylic acid (BHA), Hyaluronic acid, Rice water, Green tea, Aloe vera, Rose, Cucumber, Witch hazel, Glycerin, Milk (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -46907,7 +46912,7 @@ const NXPRODUCTS = [
   "price": 779,
   "capacityLine": "150 ml (pack of 3)",
   "materialLine": "Hyaluronic acid + Green tea + Tea tree",
-  "featureLine": "Mist / spray · Paraben-free · ₹519/100ml",
+  "featureLine": "Toner · Paraben-free · ₹519/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -46924,7 +46929,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 ml × 3 pack",
    "pricePer100": "₹519/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Hyaluronic acid, Green tea, Tea tree, Rose, Cucumber, Vitamin B5 / panthenol (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -47024,7 +47029,7 @@ const NXPRODUCTS = [
   "price": 248,
   "capacityLine": "100 ml",
   "materialLine": "Vitamin C + Rice water + Tea tree",
-  "featureLine": "Mist / spray · Paraben-free · ₹248/100ml",
+  "featureLine": "Toner · Paraben-free · ₹248/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -47041,7 +47046,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹248/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Vitamin C, Rice water, Tea tree, Neem, Glycerin, Gold, Lavender (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -47142,7 +47147,7 @@ const NXPRODUCTS = [
   "price": 678,
   "capacityLine": "250 ml (pack of 5)",
   "materialLine": "Rose + Cucumber",
-  "featureLine": "Mist / spray · Paraben-free · ₹271/100ml",
+  "featureLine": "Toner · Paraben-free · ₹271/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -47159,7 +47164,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 ml × 5 pack",
    "pricePer100": "₹271/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Rose, Cucumber (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -47383,7 +47388,7 @@ const NXPRODUCTS = [
   "price": 137,
   "capacityLine": "200 ml",
   "materialLine": "Vitamin C + Rice water + Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹69/100ml",
+  "featureLine": "Toner · Paraben-free · ₹69/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -47400,7 +47405,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "200 ml",
    "pricePer100": "₹69/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Vitamin C, Rice water, Rose, Cucumber (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -47498,7 +47503,7 @@ const NXPRODUCTS = [
   "price": 577,
   "capacityLine": "200 ml (pack of 2)",
   "materialLine": "Vitamin C + Hyaluronic acid + Green tea",
-  "featureLine": "Mist / spray · Paraben-free · ₹289/100ml",
+  "featureLine": "Toner · Paraben-free · ₹289/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -47515,7 +47520,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml × 2 pack",
    "pricePer100": "₹289/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Vitamin C, Hyaluronic acid, Green tea, Rose, Cucumber, Vitamin B5 / panthenol (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -47615,7 +47620,7 @@ const NXPRODUCTS = [
   "price": 137,
   "capacityLine": "100 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹137/100ml",
+  "featureLine": "Toner · Paraben-free · ₹137/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -47632,7 +47637,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹137/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -47840,7 +47845,7 @@ const NXPRODUCTS = [
   "price": 212,
   "capacityLine": "100 ml",
   "materialLine": "Niacinamide",
-  "featureLine": "Mist / spray · Paraben-free · ₹212/100ml",
+  "featureLine": "Toner · Paraben-free · ₹212/100ml",
   "highlight": "Live Flipkart listing. Scored from its published INCI list (Flipkart listing — Composition field): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "glycerin high on the INCI list (strong evidence); niacinamide high on the INCI list (strong evidence)"
@@ -47859,7 +47864,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹212/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Niacinamide (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -48020,7 +48025,7 @@ const NXPRODUCTS = [
   "price": 168,
   "capacityLine": "100 ml",
   "materialLine": "Hyaluronic acid + Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹168/100ml",
+  "featureLine": "Toner · Paraben-free · ₹168/100ml",
   "highlight": "Live Flipkart listing. Scored from its published INCI list (Flipkart listing — Composition field): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "glycerin high on the INCI list (strong evidence); aloe barbadensis leaf juice high on the INCI list (moderate evidence)",
@@ -48039,7 +48044,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹168/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Hyaluronic acid, Rose (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -48164,7 +48169,7 @@ const NXPRODUCTS = [
   "price": 77,
   "capacityLine": "400 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹19/100ml",
+  "featureLine": "Toner · Paraben-free · ₹19/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "Well-reviewed: 4.3★ from 21 ratings"
@@ -48182,7 +48187,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "400 ml",
    "pricePer100": "₹19/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -48274,7 +48279,7 @@ const NXPRODUCTS = [
   "price": 186,
   "capacityLine": "100 ml",
   "materialLine": "Vitamin C + Lemon",
-  "featureLine": "Mist / spray · Paraben-free · ₹186/100ml",
+  "featureLine": "Toner · Paraben-free · ₹186/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -48290,7 +48295,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹186/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Vitamin C, Lemon (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -48735,7 +48740,7 @@ const NXPRODUCTS = [
   "price": 225,
   "capacityLine": "100 ml",
   "materialLine": "Vitamin C + Niacinamide + PHA",
-  "featureLine": "Mist / spray · Paraben-free · ₹225/100ml",
+  "featureLine": "Toner · Paraben-free · ₹225/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -48752,7 +48757,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹225/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Vitamin C, Niacinamide, PHA, Rice water (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -48852,7 +48857,7 @@ const NXPRODUCTS = [
   "price": 142,
   "capacityLine": "100 ml",
   "materialLine": "Vitamin C + Niacinamide + Glycolic acid",
-  "featureLine": "Mist / spray · Paraben-free · ₹142/100ml",
+  "featureLine": "Toner · Paraben-free · ₹142/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -48869,7 +48874,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹142/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Vitamin C, Niacinamide, Glycolic acid, AHA, Rose, Witch hazel, Tomato (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -49082,7 +49087,7 @@ const NXPRODUCTS = [
   "price": 389,
   "capacityLine": "Quantity not stated",
   "materialLine": "Niacinamide + Hyaluronic acid + Centella / cica",
-  "featureLine": "Mist / spray · Paraben-free",
+  "featureLine": "Toner · Paraben-free",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -49099,7 +49104,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Not stated in listing",
    "keyIngredients": "Niacinamide, Hyaluronic acid, Centella / cica (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -49299,7 +49304,7 @@ const NXPRODUCTS = [
   "price": 130,
   "capacityLine": "200 ml",
   "materialLine": "Niacinamide + Green tea + Rose",
-  "featureLine": "Mist / spray · Alcohol-free · ₹65/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹65/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -49316,7 +49321,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "200 ml",
    "pricePer100": "₹65/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Niacinamide, Green tea, Rose (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -49411,7 +49416,7 @@ const NXPRODUCTS = [
   "price": 200,
   "capacityLine": "120 ml",
   "materialLine": "Vitamin C + Niacinamide + Green tea",
-  "featureLine": "Mist / spray · Paraben-free · ₹167/100ml",
+  "featureLine": "Toner · Paraben-free · ₹167/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -49428,7 +49433,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "120 ml",
    "pricePer100": "₹167/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Vitamin C, Niacinamide, Green tea, Rose (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -49529,7 +49534,7 @@ const NXPRODUCTS = [
   "price": 160,
   "capacityLine": "120 ml",
   "materialLine": "Vitamin C + Niacinamide + Green tea",
-  "featureLine": "Mist / spray · Paraben-free · ₹133/100ml",
+  "featureLine": "Toner · Paraben-free · ₹133/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -49546,7 +49551,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "120 ml",
    "pricePer100": "₹133/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Vitamin C, Niacinamide, Green tea, Rose (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -49647,7 +49652,7 @@ const NXPRODUCTS = [
   "price": 125,
   "capacityLine": "100 ml",
   "materialLine": "Vitamin C",
-  "featureLine": "Mist / spray · Paraben-free · ₹125/100ml",
+  "featureLine": "Toner · Paraben-free · ₹125/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -49663,7 +49668,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹125/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Vitamin C (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -49752,7 +49757,7 @@ const NXPRODUCTS = [
   "price": 160,
   "capacityLine": "400 ml (pack of 4)",
   "materialLine": "Vitamin C + Niacinamide + PHA",
-  "featureLine": "Mist / spray · Paraben-free · ₹40/100ml",
+  "featureLine": "Toner · Paraben-free · ₹40/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -49769,7 +49774,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml × 4 pack",
    "pricePer100": "₹40/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Vitamin C, Niacinamide, PHA, Rose, Cucumber (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -49866,7 +49871,7 @@ const NXPRODUCTS = [
   "price": 345,
   "capacityLine": "60 ml",
   "materialLine": "Niacinamide + Glycolic acid + Ceramides",
-  "featureLine": "Mist / spray · Paraben-free · ₹575/100ml",
+  "featureLine": "Toner · Paraben-free · ₹575/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -49883,7 +49888,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "60 ml",
    "pricePer100": "₹575/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Niacinamide, Glycolic acid, Ceramides, Rice water, Centella / cica, Rose (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -50102,7 +50107,7 @@ const NXPRODUCTS = [
   "price": 365,
   "capacityLine": "100 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹365/100ml",
+  "featureLine": "Toner · Paraben-free · ₹365/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "Well-reviewed: 4.3★ from 29 ratings"
@@ -50120,7 +50125,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹365/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -50209,7 +50214,7 @@ const NXPRODUCTS = [
   "price": 132,
   "capacityLine": "200 ml (pack of 2)",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹66/100ml",
+  "featureLine": "Toner · Paraben-free · ₹66/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -50226,7 +50231,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml × 2 pack",
    "pricePer100": "₹66/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -50323,7 +50328,7 @@ const NXPRODUCTS = [
   "price": 173,
   "capacityLine": "400 ml (pack of 4)",
   "materialLine": "Green tea",
-  "featureLine": "Mist / spray · Paraben-free · ₹43/100ml",
+  "featureLine": "Toner · Paraben-free · ₹43/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -50340,7 +50345,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml × 4 pack",
    "pricePer100": "₹43/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Green tea (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -50427,7 +50432,7 @@ const NXPRODUCTS = [
   "price": 128,
   "capacityLine": "100 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹128/100ml",
+  "featureLine": "Toner · Paraben-free · ₹128/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -50444,7 +50449,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹128/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -50539,7 +50544,7 @@ const NXPRODUCTS = [
   "price": 157,
   "capacityLine": "100 ml",
   "materialLine": "Vitamin C",
-  "featureLine": "Mist / spray · Paraben-free · ₹157/100ml",
+  "featureLine": "Toner · Paraben-free · ₹157/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -50555,7 +50560,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹157/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Vitamin C (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -50645,7 +50650,7 @@ const NXPRODUCTS = [
   "price": 333,
   "capacityLine": "200 ml (pack of 2)",
   "materialLine": "Niacinamide + PHA + Green tea",
-  "featureLine": "Mist / spray · Paraben-free · ₹167/100ml",
+  "featureLine": "Toner · Paraben-free · ₹167/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -50662,7 +50667,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml × 2 pack",
    "pricePer100": "₹167/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Niacinamide, PHA, Green tea, Rose, Cucumber, Neem (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -50762,7 +50767,7 @@ const NXPRODUCTS = [
   "price": 341,
   "capacityLine": "200 ml (pack of 2)",
   "materialLine": "Green tea + Rose + Cucumber",
-  "featureLine": "Mist / spray · Paraben-free · ₹171/100ml",
+  "featureLine": "Toner · Paraben-free · ₹171/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -50779,7 +50784,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml × 2 pack",
    "pricePer100": "₹171/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Green tea, Rose, Cucumber (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -50878,7 +50883,7 @@ const NXPRODUCTS = [
   "price": 333,
   "capacityLine": "200 ml (pack of 2)",
   "materialLine": "Green tea + Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹167/100ml",
+  "featureLine": "Toner · Paraben-free · ₹167/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -50895,7 +50900,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml × 2 pack",
    "pricePer100": "₹167/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Green tea, Rose (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -50991,7 +50996,7 @@ const NXPRODUCTS = [
   "price": 552,
   "capacityLine": "400 ml (pack of 4)",
   "materialLine": "Vitamin C + Rice water + Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹138/100ml",
+  "featureLine": "Toner · Paraben-free · ₹138/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -51008,7 +51013,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml × 4 pack",
    "pricePer100": "₹138/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Vitamin C, Rice water, Rose, Honey, Milk (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -51106,7 +51111,7 @@ const NXPRODUCTS = [
   "price": 173,
   "capacityLine": "100 ml",
   "materialLine": "Green tea + Rose + Neem",
-  "featureLine": "Mist / spray · Paraben-free · ₹173/100ml",
+  "featureLine": "Toner · Paraben-free · ₹173/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -51123,7 +51128,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹173/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Green tea, Rose, Neem (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -51222,7 +51227,7 @@ const NXPRODUCTS = [
   "price": 333,
   "capacityLine": "200 ml (pack of 2)",
   "materialLine": "Glycolic acid + Hyaluronic acid + Green tea",
-  "featureLine": "Mist / spray · Paraben-free · ₹167/100ml",
+  "featureLine": "Toner · Paraben-free · ₹167/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -51239,7 +51244,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml × 2 pack",
    "pricePer100": "₹167/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Glycolic acid, Hyaluronic acid, Green tea, Rose, Honey, Cucumber (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -51341,7 +51346,7 @@ const NXPRODUCTS = [
   "price": 173,
   "capacityLine": "100 ml",
   "materialLine": "Salicylic acid (BHA) + AHA + Green tea",
-  "featureLine": "Mist / spray · Paraben-free · ₹173/100ml",
+  "featureLine": "Toner · Paraben-free · ₹173/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -51358,7 +51363,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹173/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Salicylic acid (BHA), AHA, Green tea, Neem (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -51456,7 +51461,7 @@ const NXPRODUCTS = [
   "price": 326,
   "capacityLine": "200 ml (pack of 2)",
   "materialLine": "Green tea + Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹163/100ml",
+  "featureLine": "Toner · Paraben-free · ₹163/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -51473,7 +51478,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml × 2 pack",
    "pricePer100": "₹163/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Green tea, Rose (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -51567,7 +51572,7 @@ const NXPRODUCTS = [
   "price": 326,
   "capacityLine": "200 ml (pack of 2)",
   "materialLine": "Green tea + Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹163/100ml",
+  "featureLine": "Toner · Paraben-free · ₹163/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -51584,7 +51589,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml × 2 pack",
    "pricePer100": "₹163/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Green tea, Rose (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -51677,7 +51682,7 @@ const NXPRODUCTS = [
   "price": 435,
   "capacityLine": "300 ml (pack of 3)",
   "materialLine": "Niacinamide + Rice water + Green tea",
-  "featureLine": "Mist / spray · Paraben-free · ₹145/100ml",
+  "featureLine": "Toner · Paraben-free · ₹145/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -51694,7 +51699,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml × 3 pack",
    "pricePer100": "₹145/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Niacinamide, Rice water, Green tea, Rose, Honey, Cucumber, Neem (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -51798,7 +51803,7 @@ const NXPRODUCTS = [
   "price": 170,
   "capacityLine": "300 ml (pack of 3)",
   "materialLine": "Niacinamide + Rice water + Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹57/100ml",
+  "featureLine": "Toner · Paraben-free · ₹57/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -51815,7 +51820,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml × 3 pack",
    "pricePer100": "₹57/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Niacinamide, Rice water, Rose, Neem (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -51915,7 +51920,7 @@ const NXPRODUCTS = [
   "price": 154,
   "capacityLine": "120 ml",
   "materialLine": "Niacinamide + Hyaluronic acid + Green tea",
-  "featureLine": "Mist / spray · Paraben-free · ₹128/100ml",
+  "featureLine": "Toner · Paraben-free · ₹128/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -51932,7 +51937,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "120 ml",
    "pricePer100": "₹128/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Niacinamide, Hyaluronic acid, Green tea, Rose, Vitamin B5 / panthenol (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -52035,7 +52040,7 @@ const NXPRODUCTS = [
   "price": 552,
   "capacityLine": "400 ml (pack of 4)",
   "materialLine": "Green tea",
-  "featureLine": "Mist / spray · Paraben-free · ₹138/100ml",
+  "featureLine": "Toner · Paraben-free · ₹138/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -52052,7 +52057,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml × 4 pack",
    "pricePer100": "₹138/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Green tea (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -52144,7 +52149,7 @@ const NXPRODUCTS = [
   "price": 152,
   "capacityLine": "100 ml",
   "materialLine": "Green tea + Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹152/100ml",
+  "featureLine": "Toner · Paraben-free · ₹152/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -52161,7 +52166,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹152/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Green tea, Rose (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -52256,7 +52261,7 @@ const NXPRODUCTS = [
   "price": 326,
   "capacityLine": "200 ml (pack of 2)",
   "materialLine": "Vitamin C + Niacinamide + Rice water",
-  "featureLine": "Mist / spray · Paraben-free · ₹163/100ml",
+  "featureLine": "Toner · Paraben-free · ₹163/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -52273,7 +52278,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml × 2 pack",
    "pricePer100": "₹163/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Vitamin C, Niacinamide, Rice water, Green tea, Glycerin (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -52372,7 +52377,7 @@ const NXPRODUCTS = [
   "price": 351,
   "capacityLine": "200 ml (pack of 2)",
   "materialLine": "Green tea + Rose + Neem",
-  "featureLine": "Mist / spray · Paraben-free · ₹176/100ml",
+  "featureLine": "Toner · Paraben-free · ₹176/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -52389,7 +52394,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml × 2 pack",
    "pricePer100": "₹176/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Green tea, Rose, Neem (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -52482,7 +52487,7 @@ const NXPRODUCTS = [
   "price": 333,
   "capacityLine": "200 ml (pack of 2)",
   "materialLine": "Niacinamide + Rice water + Green tea",
-  "featureLine": "Mist / spray · Paraben-free · ₹167/100ml",
+  "featureLine": "Toner · Paraben-free · ₹167/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -52499,7 +52504,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml × 2 pack",
    "pricePer100": "₹167/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Niacinamide, Rice water, Green tea, Rose, Neem (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -52757,7 +52762,7 @@ const NXPRODUCTS = [
   "price": 435,
   "capacityLine": "300 ml (pack of 3)",
   "materialLine": "Green tea + Rose + Honey",
-  "featureLine": "Mist / spray · Paraben-free · ₹145/100ml",
+  "featureLine": "Toner · Paraben-free · ₹145/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -52774,7 +52779,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml × 3 pack",
    "pricePer100": "₹145/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Green tea, Rose, Honey, Neem (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -53034,7 +53039,7 @@ const NXPRODUCTS = [
   "price": 159,
   "capacityLine": "120 ml",
   "materialLine": "Niacinamide + Cucumber",
-  "featureLine": "Mist / spray · Paraben-free · ₹133/100ml",
+  "featureLine": "Toner · Paraben-free · ₹133/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -53051,7 +53056,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "120 ml",
    "pricePer100": "₹133/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Niacinamide, Cucumber (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -53148,7 +53153,7 @@ const NXPRODUCTS = [
   "price": 435,
   "capacityLine": "300 ml (pack of 3)",
   "materialLine": "Vitamin C + Glycolic acid + Hyaluronic acid",
-  "featureLine": "Mist / spray · Paraben-free · ₹145/100ml",
+  "featureLine": "Toner · Paraben-free · ₹145/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -53165,7 +53170,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml × 3 pack",
    "pricePer100": "₹145/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Vitamin C, Glycolic acid, Hyaluronic acid, Neem, Pearl (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -53262,7 +53267,7 @@ const NXPRODUCTS = [
   "price": 435,
   "capacityLine": "300 ml (pack of 3)",
   "materialLine": "Vitamin C + Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹145/100ml",
+  "featureLine": "Toner · Paraben-free · ₹145/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -53279,7 +53284,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml × 3 pack",
    "pricePer100": "₹145/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Vitamin C, Rose (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -53372,7 +53377,7 @@ const NXPRODUCTS = [
   "price": 333,
   "capacityLine": "200 ml (pack of 2)",
   "materialLine": "Niacinamide + PHA + Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹167/100ml",
+  "featureLine": "Toner · Paraben-free · ₹167/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -53389,7 +53394,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml × 2 pack",
    "pricePer100": "₹167/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Niacinamide, PHA, Rose, Neem (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -53489,7 +53494,7 @@ const NXPRODUCTS = [
   "price": 172,
   "capacityLine": "100 ml",
   "materialLine": "AHA + Rose + Honey",
-  "featureLine": "Mist / spray · Paraben-free · ₹172/100ml",
+  "featureLine": "Toner · Paraben-free · ₹172/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -53506,7 +53511,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹172/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "AHA, Rose, Honey (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -53604,7 +53609,7 @@ const NXPRODUCTS = [
   "price": 200,
   "capacityLine": "280 g",
   "materialLine": "Aloe vera + Rose + Charcoal",
-  "featureLine": "Mist / spray · Paraben-free · ₹71/100g",
+  "featureLine": "Toner · Paraben-free · ₹71/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -53621,7 +53626,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "280 g",
    "pricePer100": "₹71/100g",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Aloe vera, Rose, Charcoal, Clay (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -53729,7 +53734,7 @@ const NXPRODUCTS = [
   "price": 448,
   "capacityLine": "200 ml (pack of 2)",
   "materialLine": "Vitamin C + Rice water + Tea tree",
-  "featureLine": "Mist / spray · Paraben-free · ₹224/100ml",
+  "featureLine": "Toner · Paraben-free · ₹224/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -53746,7 +53751,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml × 2 pack",
    "pricePer100": "₹224/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Vitamin C, Rice water, Tea tree, Aloe vera, Almond, Pearl (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -53843,7 +53848,7 @@ const NXPRODUCTS = [
   "price": 323,
   "capacityLine": "150 ml",
   "materialLine": "Green tea + Aloe vera + Vitamin E",
-  "featureLine": "Mist / spray · Alcohol-free · ₹215/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹215/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -53860,7 +53865,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "150 ml",
    "pricePer100": "₹215/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Green tea, Aloe vera, Vitamin E (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -53958,7 +53963,7 @@ const NXPRODUCTS = [
   "price": 248,
   "capacityLine": "20 g",
   "materialLine": "Aloe vera + Rose + Neem",
-  "featureLine": "Mist / spray · Paraben-free · ₹1240/100g",
+  "featureLine": "Toner · Paraben-free · ₹1240/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -53975,7 +53980,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "20 g",
    "pricePer100": "₹1240/100g",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Aloe vera, Rose, Neem (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -54074,7 +54079,7 @@ const NXPRODUCTS = [
   "price": 299,
   "capacityLine": "100 ml",
   "materialLine": "Vitamin C + Niacinamide + Rose",
-  "featureLine": "Mist / spray · ₹299/100ml",
+  "featureLine": "Toner · ₹299/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -54091,7 +54096,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹299/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Vitamin C, Niacinamide, Rose, Lemon (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -54537,7 +54542,7 @@ const NXPRODUCTS = [
   "price": 165,
   "capacityLine": "100 ml",
   "materialLine": "Aloe vera + Neem",
-  "featureLine": "Mist / spray · Paraben-free · ₹165/100ml",
+  "featureLine": "Toner · Paraben-free · ₹165/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -54554,7 +54559,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹165/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Aloe vera, Neem (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -54646,7 +54651,7 @@ const NXPRODUCTS = [
   "price": 139,
   "capacityLine": "200 ml (pack of 2)",
   "materialLine": "Vitamin C + Tomato",
-  "featureLine": "Mist / spray · Paraben-free · ₹70/100ml",
+  "featureLine": "Toner · Paraben-free · ₹70/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -54663,7 +54668,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml × 2 pack",
    "pricePer100": "₹70/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Vitamin C, Tomato (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -54754,7 +54759,7 @@ const NXPRODUCTS = [
   "price": 200,
   "capacityLine": "280 g",
   "materialLine": "Collagen + Aloe vera + Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹71/100g",
+  "featureLine": "Toner · Paraben-free · ₹71/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -54771,7 +54776,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "280 g",
    "pricePer100": "₹71/100g",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Collagen, Aloe vera, Rose, Clay (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -54880,7 +54885,7 @@ const NXPRODUCTS = [
   "price": 139,
   "capacityLine": "100 ml",
   "materialLine": "Vitamin C + Niacinamide + Aloe vera",
-  "featureLine": "Mist / spray · Paraben-free · ₹139/100ml",
+  "featureLine": "Toner · Paraben-free · ₹139/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -54897,7 +54902,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹139/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Vitamin C, Niacinamide, Aloe vera, Witch hazel (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -54994,7 +54999,7 @@ const NXPRODUCTS = [
   "price": 174,
   "capacityLine": "400 ml (pack of 4)",
   "materialLine": "Aloe vera + Rose + Clay",
-  "featureLine": "Mist / spray · ₹44/100ml",
+  "featureLine": "Toner · ₹44/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -55011,7 +55016,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml × 4 pack",
    "pricePer100": "₹44/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Aloe vera, Rose, Clay, Cucumber, Neem (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -55105,7 +55110,7 @@ const NXPRODUCTS = [
   "price": 88,
   "capacityLine": "100 ml",
   "materialLine": "Niacinamide + Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹88/100ml",
+  "featureLine": "Toner · Paraben-free · ₹88/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -55122,7 +55127,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹88/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Niacinamide, Rose (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -55217,7 +55222,7 @@ const NXPRODUCTS = [
   "price": 154,
   "capacityLine": "100 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹154/100ml",
+  "featureLine": "Toner · Paraben-free · ₹154/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -55234,7 +55239,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹154/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -55323,7 +55328,7 @@ const NXPRODUCTS = [
   "price": 156,
   "capacityLine": "480 ml (pack of 2)",
   "materialLine": "Rose + Zinc + Gold",
-  "featureLine": "Mist / spray · Paraben-free · ₹33/100ml",
+  "featureLine": "Toner · Paraben-free · ₹33/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -55340,7 +55345,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "240 ml × 2 pack",
    "pricePer100": "₹33/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose, Zinc, Gold (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -55440,7 +55445,7 @@ const NXPRODUCTS = [
   "price": 189,
   "capacityLine": "480 ml (pack of 2)",
   "materialLine": "Rose + Lavender",
-  "featureLine": "Mist / spray · Paraben-free · ₹39/100ml",
+  "featureLine": "Toner · Paraben-free · ₹39/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -55457,7 +55462,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "240 ml × 2 pack",
    "pricePer100": "₹39/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Rose, Lavender (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -55554,7 +55559,7 @@ const NXPRODUCTS = [
   "price": 545,
   "capacityLine": "200 g (pack of 2)",
   "materialLine": "Vitamin C + Rose + Almond",
-  "featureLine": "Mist / spray · Paraben-free · ₹273/100g",
+  "featureLine": "Toner · Paraben-free · ₹273/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -55571,7 +55576,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 g × 2 pack",
    "pricePer100": "₹273/100g",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Vitamin C, Rose, Almond, Pearl (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -55889,7 +55894,7 @@ const NXPRODUCTS = [
   "price": 145,
   "capacityLine": "300 ml (pack of 3)",
   "materialLine": "Cucumber",
-  "featureLine": "Mist / spray · Paraben-free · ₹48/100ml",
+  "featureLine": "Toner · Paraben-free · ₹48/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -55906,7 +55911,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml × 3 pack",
    "pricePer100": "₹48/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Cucumber (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -56110,7 +56115,7 @@ const NXPRODUCTS = [
   "price": 192,
   "capacityLine": "400 ml (pack of 2)",
   "materialLine": "Niacinamide + Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹48/100ml",
+  "featureLine": "Toner · Paraben-free · ₹48/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -56127,7 +56132,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "200 ml × 2 pack",
    "pricePer100": "₹48/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Niacinamide, Rose (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -56337,7 +56342,7 @@ const NXPRODUCTS = [
   "price": 83,
   "capacityLine": "Quantity not stated",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray",
+  "featureLine": "Toner",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -56353,7 +56358,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Not stated in listing",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -56676,7 +56681,7 @@ const NXPRODUCTS = [
   "price": 140,
   "capacityLine": "100 ml",
   "materialLine": "Salicylic acid (BHA) + Rice water + Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹140/100ml",
+  "featureLine": "Toner · Paraben-free · ₹140/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -56693,7 +56698,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹140/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Salicylic acid (BHA), Rice water, Rose (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -56898,7 +56903,7 @@ const NXPRODUCTS = [
   "price": 180,
   "capacityLine": "100 ml",
   "materialLine": "Vitamin C + Niacinamide + Aloe vera",
-  "featureLine": "Mist / spray · Paraben-free · ₹180/100ml",
+  "featureLine": "Toner · Paraben-free · ₹180/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -56915,7 +56920,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹180/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Vitamin C, Niacinamide, Aloe vera, Cucumber, Lemon (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -57364,7 +57369,7 @@ const NXPRODUCTS = [
   "price": 173,
   "capacityLine": "300 ml (pack of 3)",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹58/100ml",
+  "featureLine": "Toner · Paraben-free · ₹58/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -57381,7 +57386,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml × 3 pack",
    "pricePer100": "₹58/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -57590,7 +57595,7 @@ const NXPRODUCTS = [
   "price": 174,
   "capacityLine": "Quantity not stated",
   "materialLine": "Hyaluronic acid + Rice water + Vitamin E",
-  "featureLine": "Mist / spray",
+  "featureLine": "Toner",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "Well-reviewed: 4.3★ from 280 ratings"
@@ -57608,7 +57613,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Hyaluronic acid, Rice water, Vitamin E (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -57813,7 +57818,7 @@ const NXPRODUCTS = [
   "price": 115,
   "capacityLine": "100 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹115/100ml",
+  "featureLine": "Toner · Paraben-free · ₹115/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "Well-reviewed: 4.3★ from 6 ratings"
@@ -57831,7 +57836,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹115/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -58032,7 +58037,7 @@ const NXPRODUCTS = [
   "price": 352,
   "capacityLine": "110 ml",
   "materialLine": "Salicylic acid (BHA) + AHA",
-  "featureLine": "Scrub · Paraben-free · ₹320/100ml",
+  "featureLine": "Mist / spray · Paraben-free · ₹320/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "Well-reviewed: 5★ from 70 ratings"
@@ -58050,7 +58055,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "110 ml",
    "pricePer100": "₹320/100ml",
-   "format": "Scrub",
+   "format": "Mist / spray",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Salicylic acid (BHA), AHA (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -58142,7 +58147,7 @@ const NXPRODUCTS = [
   "price": 126,
   "capacityLine": "200 ml",
   "materialLine": "Vitamin C + Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹63/100ml",
+  "featureLine": "Toner · Paraben-free · ₹63/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -58159,7 +58164,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "200 ml",
    "pricePer100": "₹63/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Vitamin C, Rose (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -58254,7 +58259,7 @@ const NXPRODUCTS = [
   "price": 552,
   "capacityLine": "400 ml (pack of 4)",
   "materialLine": "Salicylic acid (BHA) + AHA + Rice water",
-  "featureLine": "Mist / spray · Paraben-free · ₹138/100ml",
+  "featureLine": "Toner · Paraben-free · ₹138/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -58271,7 +58276,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml × 4 pack",
    "pricePer100": "₹138/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Salicylic acid (BHA), AHA, Rice water, Neem (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -58487,7 +58492,7 @@ const NXPRODUCTS = [
   "price": 435,
   "capacityLine": "300 ml (pack of 3)",
   "materialLine": "Vitamin C + Rice water + Cucumber",
-  "featureLine": "Mist / spray · Paraben-free · ₹145/100ml",
+  "featureLine": "Toner · Paraben-free · ₹145/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -58504,7 +58509,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml × 3 pack",
    "pricePer100": "₹145/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Vitamin C, Rice water, Cucumber, Pearl (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -63877,7 +63882,7 @@ const NXPRODUCTS = [
   "price": 159,
   "capacityLine": "100 g",
   "materialLine": "Niacinamide + Centella / cica + Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹159/100g",
+  "featureLine": "Toner · Paraben-free · ₹159/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -63894,7 +63899,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 g",
    "pricePer100": "₹159/100g",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Niacinamide, Centella / cica, Rose, Zinc (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -64099,13 +64104,1557 @@ const NXPRODUCTS = [
   }
  },
  {
+  "id": "unbranded-itm4eb3f57b85271",
+  "brand": "Unbranded",
+  "model": "Skin Origins Hyaluronic Hydrating Face Mist | All Skin Types Dewy Glow",
+  "price": 328,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Colloidal oatmeal + Hyaluronic acid + Ceramides",
+  "featureLine": "Mist / spray",
+  "highlight": "Live Flipkart listing. Scored from its published INCI list (Flipkart listing — Specifications › Composition): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "hyaluronic acid high on the INCI list (moderate evidence); glycerin high on the INCI list (strong evidence)"
+  ],
+  "cons": [
+   "Added fragrance (parfum): parfum",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 6.1,
+   "skin": 5.9,
+   "trust": 5.5,
+   "experience": 1.8
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Mist / spray",
+   "appliesTo": "Face (per listing)",
+   "keyIngredients": "Colloidal oatmeal, Hyaluronic acid, Ceramides (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Oil control / matte / non-greasy, Hydrating / moisturizing, Barrier repair, Soothing / calming, Lightweight / fast-absorbing (seller claim — not clinical proof)",
+   "skinType": "All skin types",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "3.7/5 (3 ratings, Flipkart)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
+   "inciSource": "Flipkart listing — Specifications › Composition",
+   "inciList": "Aqua, Hyaluronic Acid, Glycerin, Avena Sativa (Oat) Kernel Extract, Aloe Barbadensis (Aloevera) Leaf Extract, Cucumis Sativus (Cucumber) Fruit Extract, Curcuma Longa (Turmeric) Root Extract, Phenoxyethanol, Parfum, Disodium EDTA, Allantoin, Betaine, Ceramide Complex, Alpha-Arbutin",
+   "evidenceActives": "hyaluronic acid (#2 on list, moderate evidence); glycerin (#3 on list, strong evidence); aloe barbadensis leaf extract (#5 on list, moderate evidence); allantoin (#11 on list, limited evidence)",
+   "safetyFlags": "Added fragrance (parfum): parfum (−1.5)",
+   "maker": "Maker not verified (no parent company found)",
+   "declaredManufacturer": "QSD FORMULATIONS PVT LTD PLOT NO.1256, INDUSTRIAL ESTATE, HSIDC, RAI, DISTT SONIPAT-131029 HARYANA (as printed on the Flipkart listing — not scored)",
+   "buyerEvidence": "3.7★ from 3 ratings",
+   "concernBasis": "Irritation — avena sativa kernel extract #4 on INCI, aloe barbadensis leaf extract #5 on INCI (matching only — not proof it works)"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/2/e/100-moisturizing-spray-skin-origins-serum-original-imahn6yfeyqacapw.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/x/c/r/100-moisturizing-spray-skin-origins-serum-original-imahn6yfzpgfuvra.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/m/1/o/100-moisturizing-spray-skin-origins-serum-original-imahhgrqchdhrznz.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/r/a/q/100-moisturizing-spray-skin-origins-serum-original-imahn6yfzrd9yg55.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/d/m/m/100-moisturizing-spray-skin-origins-serum-original-imahhgrqr2zek4zv.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/skin-origins-hyaluronic-hydrating-face-mist-all-types-dewy-glow/p/itm4eb3f57b85271",
+  "buyStore": "Flipkart",
+  "title": "Skin Origins Hyaluronic Hydrating Face Mist | All Skin Types Dewy Glow",
+  "tags": [
+   "scope:face",
+   "format:mist",
+   "ing:colloidal-oatmeal",
+   "ing:hyaluronic-acid",
+   "ing:ceramides",
+   "claim:brightening",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:soothing",
+   "claim:lightweight",
+   "skin:all",
+   "aud:unisex",
+   "rating:3.5",
+   "store:flipkart",
+   "target:irritation",
+   "inci:full"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "listing",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Flipkart listing — Specifications › Composition",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": "Aqua, Hyaluronic Acid, Glycerin, Avena Sativa (Oat) Kernel Extract, Aloe Barbadensis (Aloevera) Leaf Extract, Cucumis Sativus (Cucumber) Fruit Extract, Curcuma Longa (Turmeric) Root Extract, Phenoxyethanol, Parfum, Disodium EDTA, Allantoin, Betaine, Ceramide Complex, Alpha-Arbutin",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "hyaluronic acid",
+     "grade": "B",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "avena sativa kernel extract",
+     "grade": "B",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "oat"
+    },
+    {
+     "name": "aloe barbadensis leaf extract",
+     "grade": "B",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "curcuma longa root extract",
+     "grade": "C",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "greenTea"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 11,
+     "core": true,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "alpha-arbutin",
+     "grade": "B",
+     "position": 14,
+     "core": false,
+     "trace": true,
+     "src": "pigment"
+    }
+   ],
+   "support": [
+    "hyaluronic acid",
+    "glycerin"
+   ],
+   "formulaNotes": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "parfum"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.7★ from 3 ratings"
+  }
+ },
+ {
+  "id": "anua-itm902c50315b210",
+  "brand": "ANUA",
+  "model": "PDRN Collagen Dewy Mist – Hyaluronic Acid Facial Spray for Instant Hydration, Plumping & G…",
+  "price": 2148,
+  "capacityLine": "100 ml",
+  "materialLine": "Hyaluronic acid + Collagen + PDRN / polynucleotide",
+  "featureLine": "Mist / spray · ₹2148/100ml",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "100 ml",
+   "pricePer100": "₹2148/100ml",
+   "format": "Mist / spray",
+   "appliesTo": "Face (per listing)",
+   "keyIngredients": "Hyaluronic acid, Collagen, PDRN / polynucleotide (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Hydrating / moisturizing (seller claim — not clinical proof)",
+   "skinType": "All skin types",
+   "regulated": "Contains / references a drug-grade active (adapalene, tretinoin, clindamycin, IP/USP) — follow label directions; not a cosmetic claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/q/p/t/100-pdrn-collagen-dewy-mist-hyaluronic-acid-facial-spray-for-original-imahme5wj7ksgeqr.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/a/v/5/100-pdrn-collagen-glow-facial-serum-spray-100ml-hydrating-face-original-imahmaryr2rz7eyd.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/d/c/5/100-pdrn-collagen-glow-facial-serum-spray-100ml-hydrating-face-original-imahmarya8xfgtsm.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/8/z/h/100-pdrn-glow-mist-serum-hyaluronic-acid-facial-spray-for-deep-original-imahme5fqwjzggq8.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/anua-pdrn-collagen-dewy-mist-hyaluronic-acid-facial-spray-instant-hydration-plumping-glass-glow-3-38-fl-oz/p/itm902c50315b210",
+  "buyStore": "Flipkart",
+  "title": "ANUA PDRN Collagen Dewy Mist – Hyaluronic Acid Facial Spray for Instant Hydration, Plumping & Glass Glow (3.38 fl oz)",
+  "tags": [
+   "scope:face",
+   "format:cream",
+   "format:serum",
+   "format:mist",
+   "format:pack",
+   "ing:hyaluronic-acid",
+   "ing:collagen",
+   "ing:pdrn-polynucleotide",
+   "claim:brightening",
+   "claim:hydrating",
+   "skin:all",
+   "free:vegan",
+   "aud:women",
+   "size:standard",
+   "rating:none",
+   "store:flipkart",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "dermacy-itm4de4b2d06170a",
+  "brand": "DERMACY",
+  "model": "CONCENTRA-100 Thermal Spring Water Ampoule|Provide Deep Hydration & Repair Skin",
+  "price": 552,
+  "capacityLine": "15 g",
+  "materialLine": "Retinol + Hyaluronic acid + Turmeric",
+  "featureLine": "Ampoule · Paraben-free · ₹3680/100g",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 4 ingredients named — formula unscored",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "15 g",
+   "pricePer100": "₹3680/100g",
+   "format": "Ampoule",
+   "appliesTo": "Face (per listing)",
+   "keyIngredients": "Retinol, Hyaluronic acid, Turmeric, Thermal water, PDRN / polynucleotide (named on listing)",
+   "freeFrom": "Paraben-free, Sulfate/SLS-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Dark spots / pigmentation, Anti-aging / wrinkles, Hydrating / moisturizing, Barrier repair, Soothing / calming (seller claim — not clinical proof)",
+   "skinType": "All skin types",
+   "regulated": "Contains / references a drug-grade active (adapalene, tretinoin, clindamycin, IP/USP) — follow label directions; not a cosmetic claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: Thermal Spring Water, Propanediol, Disodium EDTA, Sodium Hyaluronate.",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/g/v/p/12-concentra-100-thermal-spring-water-ampoule-repair-skin-original-imahh9sqegvz4dxh.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/x/7/y/12-concentra-100-thermal-spring-water-ampoule-repair-skin-original-imahh9squhsqqtjx.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/d/3/0/12-concentra-100-thermal-spring-water-ampoule-repair-skin-original-imahh9sqxexqsvy5.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/7/y/8/-original-imahrfyvgzh4re8h.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/u/t/o/-original-imahrfyvynphaae5.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/dermacy-concentra-100-thermal-spring-water-ampoule-provide-deep-hydration-repair-skin/p/itm4de4b2d06170a",
+  "buyStore": "Flipkart",
+  "title": "DERMACY CONCENTRA-100 Thermal Spring Water Ampoule|Provide Deep Hydration & Repair Skin",
+  "tags": [
+   "scope:face",
+   "format:serum",
+   "format:ampoule",
+   "format:pack",
+   "ing:retinol",
+   "ing:hyaluronic-acid",
+   "ing:turmeric",
+   "ing:thermal-water",
+   "ing:pdrn-polynucleotide",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:anti-aging",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:soothing",
+   "skin:all",
+   "free:paraben",
+   "free:sulfate",
+   "free:vegan",
+   "aud:women",
+   "size:travel",
+   "rating:none",
+   "store:flipkart",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Thermal Spring Water, Propanediol, Disodium EDTA, Sodium Hyaluronate.",
+   "inciNote": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "anua-itm7ce7937fd12e4",
+  "brand": "ANUA",
+  "model": "Hydrating Glow Face Mist – PDRN Collagen Serum Spray for Dewy Skin, Firming Care & All Ski…",
+  "price": 2148,
+  "capacityLine": "100 ml",
+  "materialLine": "Collagen + PDRN / polynucleotide",
+  "featureLine": "Mist / spray · Paraben-free · ₹2148/100ml",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "100 ml",
+   "pricePer100": "₹2148/100ml",
+   "format": "Mist / spray",
+   "appliesTo": "Face (per listing)",
+   "keyIngredients": "Collagen, PDRN / polynucleotide (named on listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Dermatologically tested (seller claim — not scored)",
+   "nonComedogenic": "Non-comedogenic (seller claim — not scored)",
+   "benefit": "Brightening / glow, Anti-aging / wrinkles, Hydrating / moisturizing, Soothing / calming, Lightweight / fast-absorbing, Cooling / refreshing (seller claim — not clinical proof)",
+   "skinType": "All skin types",
+   "regulated": "Contains / references a drug-grade active (adapalene, tretinoin, clindamycin, IP/USP) — follow label directions; not a cosmetic claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/v/p/z/100-hydrating-glow-face-mist-pdrn-collagen-serum-spray-for-dewy-original-imahme5vdf5jabkb.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/n/c/3/100-pdrn-collagen-glow-facial-serum-spray-100ml-hydrating-face-original-imahmaryjuzjvcf7.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/d/c/5/100-pdrn-collagen-glow-facial-serum-spray-100ml-hydrating-face-original-imahmarya8xfgtsm.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/a/x/t/100-pdrn-collagen-glow-facial-serum-spray-100ml-hydrating-face-original-imahmarybfygs9dq.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/a/v/5/100-pdrn-collagen-glow-facial-serum-spray-100ml-hydrating-face-original-imahmaryr2rz7eyd.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/anua-hydrating-glow-face-mist-pdrn-collagen-serum-spray-dewy-skin-firming-care-all-skin-types-100ml/p/itm7ce7937fd12e4",
+  "buyStore": "Flipkart",
+  "title": "ANUA Hydrating Glow Face Mist – PDRN Collagen Serum Spray for Dewy Skin, Firming Care & All Skin Types (100ml)",
+  "tags": [
+   "scope:face",
+   "format:serum",
+   "format:mist",
+   "format:pack",
+   "ing:collagen",
+   "ing:pdrn-polynucleotide",
+   "claim:brightening",
+   "claim:anti-aging",
+   "claim:hydrating",
+   "claim:soothing",
+   "claim:lightweight",
+   "claim:cooling",
+   "skin:all",
+   "free:paraben",
+   "free:derm",
+   "free:non-comedogenic",
+   "free:hypoallergenic",
+   "free:vegan",
+   "aud:women",
+   "size:standard",
+   "rating:none",
+   "store:flipkart",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": true,
+   "derm": true,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "anua-itm21d1b306560ce",
+  "brand": "ANUA",
+  "model": "PDRN Hydrating Serum Spray – Collagen Boosting Face Mist for Instant Glow, Plumping & Glas…",
+  "price": 2148,
+  "capacityLine": "100 ml",
+  "materialLine": "Hyaluronic acid + Collagen + Vitamin B5 / panthenol",
+  "featureLine": "Mist / spray · Paraben-free · ₹2148/100ml",
+  "highlight": "Live Flipkart listing. Scored from its published INCI list (Flipkart listing — Composition field): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "hyaluronic acid high on the INCI list (moderate evidence); glycerin high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 6.3,
+   "skin": 7,
+   "trust": 5.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "100 ml",
+   "pricePer100": "₹2148/100ml",
+   "format": "Mist / spray",
+   "appliesTo": "Face (per listing)",
+   "keyIngredients": "Hyaluronic acid, Collagen, Vitamin B5 / panthenol, Allantoin, Glycerin, PDRN / polynucleotide (named on listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Dermatologically tested (seller claim — not scored)",
+   "nonComedogenic": "Non-comedogenic (seller claim — not scored)",
+   "benefit": "Brightening / glow, Hydrating / moisturizing, Soothing / calming, Lightweight / fast-absorbing, Cooling / refreshing (seller claim — not clinical proof)",
+   "skinType": "All skin types",
+   "regulated": "Contains / references a drug-grade active (adapalene, tretinoin, clindamycin, IP/USP) — follow label directions; not a cosmetic claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "PDRN, Collagen, Hyaluronic Acid, Aqua (Water), Glycerin, Butylene Glycol, Betaine, Panthenol, Allantoin, Sodium Hyaluronate, Botanical Extracts, Phenoxyethanol, Ethylhexylglycerin",
+   "evidenceActives": "hyaluronic acid (#3 on list, moderate evidence); glycerin (#5 on list, strong evidence); panthenol (#8 on list, moderate evidence); allantoin (#9 on list, limited evidence); sodium hyaluronate (#10 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Irritation — panthenol #8 on INCI (matching only — not proof it works)"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/5/b/4/100-pdrn-hydrating-serum-spray-collagen-boosting-face-mist-for-original-imahme5sxjz9gkpv.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/n/c/3/100-pdrn-collagen-glow-facial-serum-spray-100ml-hydrating-face-original-imahmaryjuzjvcf7.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/d/c/5/100-pdrn-collagen-glow-facial-serum-spray-100ml-hydrating-face-original-imahmarya8xfgtsm.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/a/j/z/100-pdrn-collagen-glow-facial-serum-mist-hydrating-hyaluronic-original-imahme5q9duykdbc.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/anua-pdrn-hydrating-serum-spray-collagen-boosting-face-mist-instant-glow-plumping-glass-skin-effect-100ml/p/itm21d1b306560ce",
+  "buyStore": "Flipkart",
+  "title": "ANUA PDRN Hydrating Serum Spray – Collagen Boosting Face Mist for Instant Glow, Plumping & Glass Skin Effect (100ml)",
+  "tags": [
+   "scope:face",
+   "format:serum",
+   "format:mist",
+   "format:pack",
+   "ing:hyaluronic-acid",
+   "ing:collagen",
+   "ing:vitamin-b5-panthenol",
+   "ing:allantoin",
+   "ing:glycerin",
+   "ing:pdrn-polynucleotide",
+   "claim:brightening",
+   "claim:hydrating",
+   "claim:soothing",
+   "claim:lightweight",
+   "claim:cooling",
+   "skin:all",
+   "free:paraben",
+   "free:derm",
+   "free:non-comedogenic",
+   "free:hypoallergenic",
+   "free:vegan",
+   "aud:women",
+   "size:standard",
+   "rating:none",
+   "store:flipkart",
+   "target:irritation",
+   "inci:full",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": true,
+   "derm": true,
+   "men": false,
+   "women": true,
+   "inci": "full",
+   "inciSrc": "listing",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": "PDRN, Collagen, Hyaluronic Acid, Aqua (Water), Glycerin, Butylene Glycol, Betaine, Panthenol, Allantoin, Sodium Hyaluronate, Botanical Extracts, Phenoxyethanol, Ethylhexylglycerin",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 0.92,
+   "actives": [
+    {
+     "name": "hyaluronic acid",
+     "grade": "B",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 8,
+     "core": true,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 9,
+     "core": true,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 10,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "hyaluronic acid",
+    "glycerin",
+    "butylene glycol",
+    "panthenol",
+    "sodium hyaluronate"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "anua-itm29f698b6915c1",
+  "brand": "ANUA",
+  "model": "Glass Skin Glow Mist – PDRN Collagen & Hyaluronic Acid Facial Spray for Hydration & Firmin…",
+  "price": 2148,
+  "capacityLine": "100 ml",
+  "materialLine": "Hyaluronic acid + Collagen + Vitamin B5 / panthenol",
+  "featureLine": "Mist / spray · Paraben-free · ₹2148/100ml",
+  "highlight": "Live Flipkart listing. Scored from its published INCI list (Flipkart listing — Composition field): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "hyaluronic acid high on the INCI list (moderate evidence); glycerin high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 6.3,
+   "skin": 7,
+   "trust": 5.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "100 ml",
+   "pricePer100": "₹2148/100ml",
+   "format": "Mist / spray",
+   "appliesTo": "Face (per listing)",
+   "keyIngredients": "Hyaluronic acid, Collagen, Vitamin B5 / panthenol, Allantoin, Glycerin, PDRN / polynucleotide (named on listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Dermatologically tested (seller claim — not scored)",
+   "nonComedogenic": "Non-comedogenic (seller claim — not scored)",
+   "benefit": "Brightening / glow, Anti-aging / wrinkles, Hydrating / moisturizing, Soothing / calming, Lightweight / fast-absorbing, Cooling / refreshing (seller claim — not clinical proof)",
+   "skinType": "All skin types",
+   "regulated": "Contains / references a drug-grade active (adapalene, tretinoin, clindamycin, IP/USP) — follow label directions; not a cosmetic claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "PDRN, Collagen, Hyaluronic Acid, Aqua (Water), Glycerin, Butylene Glycol, Betaine, Panthenol, Allantoin, Sodium Hyaluronate, Botanical Extracts, Phenoxyethanol, Ethylhexylglycerin",
+   "evidenceActives": "hyaluronic acid (#3 on list, moderate evidence); glycerin (#5 on list, strong evidence); panthenol (#8 on list, moderate evidence); allantoin (#9 on list, limited evidence); sodium hyaluronate (#10 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Irritation — panthenol #8 on INCI (matching only — not proof it works)"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/h/1/z/100-glass-skin-glow-mist-pdrn-collagen-hyaluronic-acid-facial-original-imahme5upksyx4q7.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/a/v/5/100-pdrn-collagen-glow-facial-serum-spray-100ml-hydrating-face-original-imahmaryr2rz7eyd.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/a/x/t/100-pdrn-collagen-glow-facial-serum-spray-100ml-hydrating-face-original-imahmarybfygs9dq.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/8/z/h/100-pdrn-glow-mist-serum-hyaluronic-acid-facial-spray-for-deep-original-imahme5fqwjzggq8.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/anua-glass-skin-glow-mist-pdrn-collagen-hyaluronic-acid-facial-spray-hydration-firming-3-38-fl-oz/p/itm29f698b6915c1",
+  "buyStore": "Flipkart",
+  "title": "ANUA Glass Skin Glow Mist – PDRN Collagen & Hyaluronic Acid Facial Spray for Hydration & Firming (3.38 fl oz)",
+  "tags": [
+   "scope:face",
+   "format:serum",
+   "format:mist",
+   "format:oil",
+   "format:pack",
+   "ing:hyaluronic-acid",
+   "ing:collagen",
+   "ing:vitamin-b5-panthenol",
+   "ing:allantoin",
+   "ing:glycerin",
+   "ing:pdrn-polynucleotide",
+   "claim:brightening",
+   "claim:anti-aging",
+   "claim:hydrating",
+   "claim:soothing",
+   "claim:lightweight",
+   "claim:cooling",
+   "skin:all",
+   "free:paraben",
+   "free:derm",
+   "free:non-comedogenic",
+   "free:hypoallergenic",
+   "free:vegan",
+   "aud:women",
+   "size:standard",
+   "rating:none",
+   "store:flipkart",
+   "target:irritation",
+   "inci:full",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": true,
+   "derm": true,
+   "men": false,
+   "women": true,
+   "inci": "full",
+   "inciSrc": "listing",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": "PDRN, Collagen, Hyaluronic Acid, Aqua (Water), Glycerin, Butylene Glycol, Betaine, Panthenol, Allantoin, Sodium Hyaluronate, Botanical Extracts, Phenoxyethanol, Ethylhexylglycerin",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 0.92,
+   "actives": [
+    {
+     "name": "hyaluronic acid",
+     "grade": "B",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 8,
+     "core": true,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 9,
+     "core": true,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 10,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "hyaluronic acid",
+    "glycerin",
+    "butylene glycol",
+    "panthenol",
+    "sodium hyaluronate"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "serenite-itmecabf293fcb0d",
+  "brand": "Serenite",
+  "model": "Pigment Perfect Toner with Tranexamic Acid & Vitamin C For Brightening Face Mist Men & Wom…",
+  "price": 300,
+  "capacityLine": "50 g",
+  "materialLine": "Vitamin C + Hyaluronic acid + Tranexamic acid",
+  "featureLine": "Toner · Paraben-free · ₹600/100g",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 4 ingredients named — formula unscored",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹600/100g",
+   "format": "Toner",
+   "appliesTo": "Face + body (per listing)",
+   "keyIngredients": "Vitamin C, Hyaluronic acid, Tranexamic acid, Aloe vera, Rose (named on listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Dark spots / pigmentation, Whitening / fairness (claim), Ayurvedic / herbal (seller claim — not clinical proof)",
+   "skinType": "All skin types",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: Tranexamic Acid, Vitamin C, Zinc PCA, and mineral salts",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/6/l/9/100-pigment-perfect-toner-with-tranexamic-acid-vitamin-c-for-original-imahh3msygupjwyw.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/x/t/p/100-pigment-perfect-toner-with-tranexamic-acid-vitamin-c-for-original-imahkr4fznx6dqeh.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/y/t/p/100-pigment-perfect-toner-with-tranexamic-acid-vitamin-c-for-original-imahkr4y9q7zn9yq.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/d/w/5/100-pigment-perfect-toner-with-tranexamic-acid-vitamin-c-for-original-imahkr4fqxfdjczd.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/t/p/i/100-pigment-perfect-toner-with-tranexamic-acid-vitamin-c-for-original-imahkr4ydcrztxmz.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/serenite-pigment-perfect-toner-tranexamic-acid-vitamin-c-brightening-face-mist-men-women/p/itmecabf293fcb0d",
+  "buyStore": "Flipkart",
+  "title": "serenite Pigment Perfect Toner with Tranexamic Acid & Vitamin C For Brightening Face Mist Men & Women",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:toner",
+   "format:mist",
+   "format:pack",
+   "ing:vitamin-c",
+   "ing:hyaluronic-acid",
+   "ing:tranexamic-acid",
+   "ing:aloe-vera",
+   "ing:rose",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:whitening-claim",
+   "claim:ayurvedic",
+   "skin:all",
+   "free:paraben",
+   "free:vegan",
+   "free:ph-balanced",
+   "aud:women",
+   "size:travel",
+   "rating:none",
+   "store:flipkart",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Tranexamic Acid, Vitamin C, Zinc PCA, and mineral salts",
+   "inciNote": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 0.75,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "natural-ambience-hub-itm6120618392f00",
+  "brand": "Natural ambience hub",
+  "model": "GlowMist Kojic Even Skin Formula Blend Women",
+  "price": 119,
+  "capacityLine": "50 g",
+  "materialLine": "Kojic acid",
+  "featureLine": "Cream · Paraben-free · ₹238/100g",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹238/100g",
+   "format": "Cream",
+   "appliesTo": "Face + body (per listing)",
+   "keyIngredients": "Kojic acid (named on listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Dark spots / pigmentation, Ayurvedic / herbal, Overnight / while you sleep (seller claim — not clinical proof)",
+   "skinType": "Normal skin",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/d/u/z/49-22-purevelle-kojic-5-skin-tone-perfecting-night-cream-natural-original-imahzfa4wbwkynh8.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/d/v/e/48-35-kojic-acid-intensive-brightening-night-care-natural-original-imahzf2zsfgrhguq.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/b/i/r/48-4-pure-aura-kojic-glow-enhancing-solution-natural-ambience-original-imahza7cpx8jcfy7.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/o/t/i/49-27-velora-bright-kojic-5-skin-revival-night-cream-natural-original-imahzfaujvetfnbc.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/l/z/i/48-12-reliable-wart-management-cream-suitable-for-all-skin-types-original-imahzzfk6thvj9pz.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/natural-ambience-hub-glowmist-kojic-even-skin-formula-blend-women/p/itm6120618392f00",
+  "buyStore": "Flipkart",
+  "title": "Natural ambience hub GlowMist Kojic Even Skin Formula Blend Women",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:toner",
+   "ing:kojic-acid",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:ayurvedic",
+   "claim:overnight",
+   "skin:normal",
+   "free:paraben",
+   "aud:women",
+   "size:travel",
+   "rating:none",
+   "store:flipkart",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "dr-g-itmde722c46abc4f",
+  "brand": "DR G",
+  "model": "Avo Glow Mist, Alcohol-Free, Toner, Dermatologically Tested for Men & Women",
+  "price": 1166,
+  "capacityLine": "100 ml",
+  "materialLine": "Rose",
+  "featureLine": "Toner · Paraben-free · ₹1166/100ml",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "100 ml",
+   "pricePer100": "₹1166/100ml",
+   "format": "Toner",
+   "appliesTo": "Face (per listing)",
+   "keyIngredients": "Rose (named on listing)",
+   "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
+   "dermTested": "Dermatologically tested (seller claim — not scored)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Ayurvedic / herbal (seller claim — not clinical proof)",
+   "skinType": "All skin types",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/w/x/t/100-avo-glow-mist-alcohol-free-face-mist-toner-dermatologically-original-imahjyhyhrdkwmmy.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/q/t/o/100-avo-glow-mist-alcohol-free-face-mist-toner-dermatologically-original-imahjyhyxgsfwb6s.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/h/6/t/100-avo-glow-mist-alcohol-free-face-mist-toner-dermatologically-original-imahjyhyfr5dzegv.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/l/p/a/100-avo-glow-mist-alcohol-free-face-mist-toner-dermatologically-original-imahjyhycggzpwr8.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/4/a/g/100-avo-glow-mist-alcohol-free-face-mist-toner-dermatologically-original-imahjyhyargyxbqd.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/g-avo-glow-mist-alcohol-free-toner-dermatologically-tested-men-women/p/itmde722c46abc4f",
+  "buyStore": "Flipkart",
+  "title": "DR G Avo Glow Mist, Alcohol-Free, Toner, Dermatologically Tested for Men & Women",
+  "tags": [
+   "scope:face",
+   "format:toner",
+   "format:mist",
+   "format:oil",
+   "format:pack",
+   "format:kit",
+   "ing:rose",
+   "claim:brightening",
+   "claim:ayurvedic",
+   "skin:all",
+   "free:paraben",
+   "free:alcohol",
+   "free:derm",
+   "free:vegan",
+   "aud:women",
+   "size:standard",
+   "rating:none",
+   "store:flipkart",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": true,
+   "derm": true,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "sneira-itmeed11f2b7a0d1",
+  "brand": "SNEIRA",
+  "model": "8% Glycolic Acid and Hydrating Face For Exfoliating Glowing Skin Mist Toner Men & Women",
+  "price": 198,
+  "capacityLine": "200 ml (pack of 2)",
+  "materialLine": "Glycolic acid + Rose",
+  "featureLine": "Toner · Paraben-free · ₹99/100ml",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "100 ml × 2 pack",
+   "pricePer100": "₹99/100ml",
+   "format": "Toner",
+   "appliesTo": "Face + body (per listing)",
+   "keyIngredients": "Glycolic acid, Rose (named on listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Pores / blackheads, Hydrating / moisturizing, Exfoliating, Korean / K-beauty, Cooling / refreshing (seller claim — not clinical proof)",
+   "skinType": "All skin types",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-toner/p/p/w/100-8-glycolic-acid-toner-sneira-original-imahzw5d8jmegrn2.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/h/v/f/500-8-glycolic-acid-and-hydrating-face-for-exfoliating-glowing-original-imahzxgumsxrhy8g.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/q/u/x/100-8-glycolic-acid-and-hydrating-face-for-exfoliating-glowing-original-imahpe2cgdadkztg.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-toner/8/j/l/100-8-glycolic-acid-toner-sneira-original-imahzw5dhyfu4dpn.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/q/t/a/200-glycolic-acid-10-exfoliating-toner-with-niacinamide-witch-original-imahby7rfgh6vzrz.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/sneira-8-glycolic-acid-hydrating-face-exfoliating-glowing-skin-mist-toner-men-women/p/itmeed11f2b7a0d1",
+  "buyStore": "Flipkart",
+  "title": "SNEIRA 8% Glycolic Acid and Hydrating Face For Exfoliating Glowing Skin Mist Toner Men & Women",
+  "tags": [
+   "scope:both",
+   "format:toner",
+   "format:mist",
+   "format:pack",
+   "format:pads",
+   "format:kit",
+   "ing:glycolic-acid",
+   "ing:rose",
+   "claim:brightening",
+   "claim:pores",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "claim:korean",
+   "claim:cooling",
+   "skin:all",
+   "free:paraben",
+   "free:vegan",
+   "aud:women",
+   "size:large",
+   "rating:none",
+   "store:flipkart",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "shopcircuit-itmacfc3bdcb737c",
+  "brand": "ShopCircuit",
+  "model": "100% Pure & Natural Rose Water Spray For Face, Skin & Hair - Steam Distilled - Kannauj Gul…",
+  "price": 142,
+  "capacityLine": "120 g",
+  "materialLine": "Green tea + Rose",
+  "featureLine": "Mist / spray · ₹118/100g",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "120 g",
+   "pricePer100": "₹118/100g",
+   "format": "Mist / spray",
+   "appliesTo": "Face (per listing)",
+   "keyIngredients": "Green tea, Rose (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Hydrating / moisturizing (seller claim — not clinical proof)",
+   "skinType": "Normal skin",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-face-wash/f/x/s/liquid-100-rose-water-tones-rejuvenates-skin-pack-of-2-elecsera-original-imah3ksfsu2jzk4b.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-face-wash/r/s/d/liquid-100-100-pure-natural-rose-water-spray-for-face-skin-hair-original-imah3kshkthdt4ht.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/face-wash/a/7/t/120-0-green-tea-cleanser-for-men-women-face-wash-for-oil-dirt-original-imahjyfhc6ttzgve.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/face-wash/j/n/p/500-exfoliating-neem-face-wash-aloe-vera-herbal-acne-oil-control-original-imahnhm45t9c2zgz.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/face-wash/a/q/x/120-face-wash-for-men-wildkyor-original-imahqht4hgkt8pjc.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/shopcircuit-100-pure-natural-rose-water-spray-face-skin-hair-steam-distilled-kannauj-gulab-jal-face-wash/p/itmacfc3bdcb737c",
+  "buyStore": "Flipkart",
+  "title": "ShopCircuit 100% Pure & Natural Rose Water Spray For Face, Skin & Hair - Steam Distilled - Kannauj Gulab Jal Face Wash",
+  "tags": [
+   "scope:face",
+   "format:foam",
+   "format:mist",
+   "format:wash",
+   "ing:green-tea",
+   "ing:rose",
+   "claim:brightening",
+   "claim:hydrating",
+   "skin:normal",
+   "aud:women",
+   "size:standard",
+   "rating:none",
+   "store:flipkart",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "shopcircuit-itmf3c79326976a6",
+  "brand": "ShopCircuit",
+  "model": "Natural Wash Rose Water Spray| Gulab Jal|Face Toner |Makeup Remover|For All Skin Types Fac…",
+  "price": 138,
+  "capacityLine": "100 ml",
+  "materialLine": "Rose + Charcoal + Clay",
+  "featureLine": "Toner · ₹138/100ml",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "100 ml",
+   "pricePer100": "₹138/100ml",
+   "format": "Toner",
+   "appliesTo": "Face (per listing)",
+   "keyIngredients": "Rose, Charcoal, Clay (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Oil control / matte / non-greasy, Hydrating / moisturizing, Ayurvedic / herbal, Makeup-related (setting / priming / removing) (seller claim — not clinical proof)",
+   "skinType": "Normal skin, All skin types",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/face-wash/e/p/5/100-natural-wash-rose-water-spray-gulab-jal-face-toner-makeup-original-imah3hhyymzrawvf.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/face-wash/s/u/w/100-rose-water-toner-with-vitamin-c-hydrates-skin-for-men-women-original-imah3hhyzb5zdwc5.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/face-wash/j/7/n/100-natural-wash-rose-water-spray-gulab-jal-face-toner-makeup-original-imah3hhyrrmdzb2c.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/face-wash/q/u/f/100-gulab-jal-premium-rose-water-for-skin-toning-glowing-skin-original-imah3hhyuggggn6h.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/face-wash/m/1/a/100-100-pure-natural-rose-water-spray-for-face-skin-hair-steam-original-imah3hhyghnqcfqg.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/shopcircuit-natural-wash-rose-water-spray-gulab-jal-face-toner-makeup-remover-for-all-skin-types-face/p/itmf3c79326976a6",
+  "buyStore": "Flipkart",
+  "title": "ShopCircuit Natural Wash Rose Water Spray| Gulab Jal|Face Toner |Makeup Remover|For All Skin Types Face Wash",
+  "tags": [
+   "scope:face",
+   "format:toner",
+   "format:mist",
+   "format:clay-mask",
+   "format:powder",
+   "format:wash",
+   "ing:rose",
+   "ing:charcoal",
+   "ing:clay",
+   "claim:brightening",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:ayurvedic",
+   "claim:makeup",
+   "skin:normal",
+   "skin:all",
+   "aud:women",
+   "size:standard",
+   "rating:none",
+   "store:flipkart",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
   "id": "beaute-b0cc5b61z6",
   "brand": "Beaute",
   "model": "Pure Rose Water Mist For All Skin Types | Face Toner/Skin Toner for Men & Women (100ml, 3)",
   "price": 190,
   "capacityLine": "100 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · ₹190/100ml",
+  "featureLine": "Toner · ₹190/100ml",
   "highlight": "Live Amazon listing. Scored from its published INCI list (Amazon.in listing — Important information › Ingredients): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "glycerin high on the INCI list (strong evidence)"
@@ -64124,7 +65673,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹190/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -64249,7 +65798,7 @@ const NXPRODUCTS = [
   "price": 173,
   "capacityLine": "110 ml",
   "materialLine": "Hyaluronic acid + Rice water + Vitamin B5 / panthenol",
-  "featureLine": "Mist / spray · Alcohol-free · ₹157/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹157/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -64265,7 +65814,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "110 ml",
    "pricePer100": "₹157/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Hyaluronic acid, Rice water, Vitamin B5 / panthenol (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -64370,7 +65919,7 @@ const NXPRODUCTS = [
   "price": 295,
   "capacityLine": "200 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · ₹148/100ml",
+  "featureLine": "Toner · ₹148/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -64386,7 +65935,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "200 ml",
    "pricePer100": "₹148/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -64481,7 +66030,7 @@ const NXPRODUCTS = [
   "price": 199,
   "capacityLine": "1000 ml (pack of 2)",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹20/100ml",
+  "featureLine": "Toner · Paraben-free · ₹20/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -64497,7 +66046,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "500 ml × 2 pack",
    "pricePer100": "₹20/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -64590,7 +66139,7 @@ const NXPRODUCTS = [
   "price": 199,
   "capacityLine": "100 ml",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Mist / spray · ₹199/100ml",
+  "featureLine": "Toner · ₹199/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -64606,7 +66155,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹199/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -64795,7 +66344,7 @@ const NXPRODUCTS = [
   "price": 257,
   "capacityLine": "200 ml",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Mist / spray · Paraben-free · ₹129/100ml",
+  "featureLine": "Toner · Paraben-free · ₹129/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -64811,7 +66360,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "200 ml",
    "pricePer100": "₹129/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -64907,7 +66456,7 @@ const NXPRODUCTS = [
   "model": "PDRN Glow Ampoule, PDRN Facial Mist, Deep Hydration Spray Serum, Vegan Skin Care, Light-we…",
   "price": 2299,
   "capacityLine": "100 ml",
-  "materialLine": "Key ingredients not stated",
+  "materialLine": "PDRN / polynucleotide",
   "featureLine": "Mist / spray · Fragrance-free · ₹2299/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -64926,7 +66475,7 @@ const NXPRODUCTS = [
    "pricePer100": "₹2299/100ml",
    "format": "Mist / spray",
    "appliesTo": "Face (per listing)",
-   "keyIngredients": "Not stated in listing",
+   "keyIngredients": "PDRN / polynucleotide (named on listing)",
    "freeFrom": "Fragrance-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
@@ -64959,6 +66508,7 @@ const NXPRODUCTS = [
    "format:serum",
    "format:ampoule",
    "format:mist",
+   "ing:pdrn-polynucleotide",
    "claim:brightening",
    "claim:hydrating",
    "claim:lightweight",
@@ -65016,7 +66566,7 @@ const NXPRODUCTS = [
   "price": 150,
   "capacityLine": "100 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · Fragrance-free · ₹150/100ml",
+  "featureLine": "Toner · Fragrance-free · ₹150/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -65032,7 +66582,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹150/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Fragrance-free (seller claim — not scored)",
@@ -65332,7 +66882,7 @@ const NXPRODUCTS = [
   "price": 119,
   "capacityLine": "100 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · Alcohol-free · ₹119/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹119/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -65349,7 +66899,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹119/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -65447,7 +66997,7 @@ const NXPRODUCTS = [
   "price": 319,
   "capacityLine": "400 ml (pack of 2)",
   "materialLine": "Niacinamide + Rose",
-  "featureLine": "Mist / spray · Alcohol-free · ₹80/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹80/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -65463,7 +67013,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "200 ml × 2 pack",
    "pricePer100": "₹80/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Niacinamide, Rose (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -65569,7 +67119,7 @@ const NXPRODUCTS = [
   "price": 345,
   "capacityLine": "100 ml",
   "materialLine": "Sandalwood + Rose",
-  "featureLine": "Mist / spray · Sulfate/SLS-free · ₹345/100ml",
+  "featureLine": "Toner · Sulfate/SLS-free · ₹345/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -65586,7 +67136,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹345/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Sandalwood, Rose (named on listing)",
    "freeFrom": "Sulfate/SLS-free (seller claim — not scored)",
@@ -65684,7 +67234,7 @@ const NXPRODUCTS = [
   "price": 90,
   "capacityLine": "30 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · ₹300/100ml",
+  "featureLine": "Toner · ₹300/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -65700,7 +67250,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "30 ml",
    "pricePer100": "₹300/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -65794,7 +67344,7 @@ const NXPRODUCTS = [
   "price": 349,
   "capacityLine": "100 ml",
   "materialLine": "Rose + Vitamin E + Vitamin B5 / panthenol",
-  "featureLine": "Mist / spray · Sulfate/SLS-free · ₹349/100ml",
+  "featureLine": "Toner · Sulfate/SLS-free · ₹349/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -65811,7 +67361,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹349/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose, Vitamin E, Vitamin B5 / panthenol (named on listing)",
    "freeFrom": "Sulfate/SLS-free (seller claim — not scored)",
@@ -65910,7 +67460,7 @@ const NXPRODUCTS = [
   "price": 264,
   "capacityLine": "100 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · Alcohol-free · ₹264/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹264/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -65926,7 +67476,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹264/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -66019,7 +67569,7 @@ const NXPRODUCTS = [
   "price": 299,
   "capacityLine": "100 ml",
   "materialLine": "Niacinamide + Colloidal oatmeal + Rice water",
-  "featureLine": "Mist / spray · Alcohol-free · ₹299/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹299/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -66035,7 +67585,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹299/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Niacinamide, Colloidal oatmeal, Rice water (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -66132,7 +67682,7 @@ const NXPRODUCTS = [
   "price": 1180,
   "capacityLine": "60 g",
   "materialLine": "Aloe vera + Honey",
-  "featureLine": "Mist / spray · ₹1967/100g",
+  "featureLine": "Toner · ₹1967/100g",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -66148,7 +67698,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "60 g",
    "pricePer100": "₹1967/100g",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Aloe vera, Honey (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -66358,7 +67908,7 @@ const NXPRODUCTS = [
   "price": 99,
   "capacityLine": "200 ml (pack of 2)",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · ₹50/100ml",
+  "featureLine": "Toner · ₹50/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -66374,7 +67924,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml × 2 pack",
    "pricePer100": "₹50/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -66468,7 +68018,7 @@ const NXPRODUCTS = [
   "price": 279,
   "capacityLine": "220 ml",
   "materialLine": "Niacinamide + Colloidal oatmeal + Rice water",
-  "featureLine": "Mist / spray · Paraben-free · ₹127/100ml",
+  "featureLine": "Toner · Paraben-free · ₹127/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -66484,7 +68034,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "220 ml",
    "pricePer100": "₹127/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Niacinamide, Colloidal oatmeal, Rice water (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -66581,7 +68131,7 @@ const NXPRODUCTS = [
   "price": 279,
   "capacityLine": "100 ml",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Mist / spray · ₹279/100ml",
+  "featureLine": "Toner · ₹279/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -66597,7 +68147,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹279/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -66796,7 +68346,7 @@ const NXPRODUCTS = [
   "price": 149,
   "capacityLine": "100 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · ₹149/100ml",
+  "featureLine": "Toner · ₹149/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -66812,7 +68362,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹149/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -67017,7 +68567,7 @@ const NXPRODUCTS = [
   "price": 349,
   "capacityLine": "120 ml",
   "materialLine": "Rose + Sea buckthorn",
-  "featureLine": "Mist / spray · Alcohol-free · ₹291/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹291/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -67034,7 +68584,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "120 ml",
    "pricePer100": "₹291/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose, Sea buckthorn (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -67126,7 +68676,7 @@ const NXPRODUCTS = [
   "price": 349,
   "capacityLine": "120 ml",
   "materialLine": "Rose + Sea buckthorn",
-  "featureLine": "Mist / spray · Alcohol-free · ₹291/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹291/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -67143,7 +68693,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "120 ml",
    "pricePer100": "₹291/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose, Sea buckthorn (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -67235,7 +68785,7 @@ const NXPRODUCTS = [
   "price": 349,
   "capacityLine": "120 ml",
   "materialLine": "Rose + Sea buckthorn",
-  "featureLine": "Mist / spray · Alcohol-free · ₹291/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹291/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -67252,7 +68802,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "120 ml",
    "pricePer100": "₹291/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose, Sea buckthorn (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -67342,7 +68892,7 @@ const NXPRODUCTS = [
   "price": 349,
   "capacityLine": "120 ml",
   "materialLine": "Rose + Sea buckthorn",
-  "featureLine": "Mist / spray · Alcohol-free · ₹291/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹291/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -67359,7 +68909,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "120 ml",
    "pricePer100": "₹291/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose, Sea buckthorn (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -67454,7 +69004,7 @@ const NXPRODUCTS = [
   "price": 299,
   "capacityLine": "50 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · ₹598/100ml",
+  "featureLine": "Soap bar · ₹598/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -67470,7 +69020,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 ml",
    "pricePer100": "₹598/100ml",
-   "format": "Mist / spray",
+   "format": "Soap bar",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -67791,7 +69341,7 @@ const NXPRODUCTS = [
   "price": 411,
   "capacityLine": "200 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · Fragrance-free · ₹206/100ml",
+  "featureLine": "Toner · Fragrance-free · ₹206/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -67807,7 +69357,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "200 ml",
    "pricePer100": "₹206/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Fragrance-free, Alcohol-free (seller claim — not scored)",
@@ -68014,7 +69564,7 @@ const NXPRODUCTS = [
   "price": 799,
   "capacityLine": "200 ml",
   "materialLine": "Rose + Glycerin",
-  "featureLine": "Mist / spray · Alcohol-free · ₹400/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹400/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -68030,7 +69580,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "200 ml",
    "pricePer100": "₹400/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose, Glycerin (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -68232,7 +69782,7 @@ const NXPRODUCTS = [
   "price": 185,
   "capacityLine": "120 ml",
   "materialLine": "Cucumber",
-  "featureLine": "Mist / spray · Alcohol-free · ₹154/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹154/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -68247,7 +69797,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "120 ml",
    "pricePer100": "₹154/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Cucumber (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -68453,7 +70003,7 @@ const NXPRODUCTS = [
   "price": 318,
   "capacityLine": "120 ml",
   "materialLine": "Vitamin C + Hyaluronic acid",
-  "featureLine": "Mist / spray · ₹265/100ml",
+  "featureLine": "Toner · ₹265/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -68469,7 +70019,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "120 ml",
    "pricePer100": "₹265/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Vitamin C, Hyaluronic acid (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -68567,7 +70117,7 @@ const NXPRODUCTS = [
   "price": 225,
   "capacityLine": "120 ml",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Mist / spray · Alcohol-free · ₹188/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹188/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -68582,7 +70132,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "120 ml",
    "pricePer100": "₹188/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -68676,7 +70226,7 @@ const NXPRODUCTS = [
   "price": 262,
   "capacityLine": "200 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · ₹131/100ml",
+  "featureLine": "Toner · ₹131/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -68692,7 +70242,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "200 ml",
    "pricePer100": "₹131/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -68779,7 +70329,7 @@ const NXPRODUCTS = [
   "price": 145,
   "capacityLine": "100 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · Alcohol-free · ₹145/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹145/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -68795,7 +70345,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹145/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -68893,7 +70443,7 @@ const NXPRODUCTS = [
   "price": 299,
   "capacityLine": "100 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · ₹299/100ml",
+  "featureLine": "Toner · ₹299/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -68910,7 +70460,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹299/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -69117,7 +70667,7 @@ const NXPRODUCTS = [
   "price": 139,
   "capacityLine": "100 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · Alcohol-free · ₹139/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹139/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -69133,7 +70683,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹139/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -69224,7 +70774,7 @@ const NXPRODUCTS = [
   "price": 224,
   "capacityLine": "200 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · Alcohol-free · ₹112/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹112/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -69241,7 +70791,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "200 ml",
    "pricePer100": "₹112/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -69333,7 +70883,7 @@ const NXPRODUCTS = [
   "price": 190,
   "capacityLine": "100 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · ₹190/100ml",
+  "featureLine": "Toner · ₹190/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -69350,7 +70900,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹190/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -69440,7 +70990,7 @@ const NXPRODUCTS = [
   "price": 299,
   "capacityLine": "100 ml",
   "materialLine": "Rose + Glycerin",
-  "featureLine": "Mist / spray · Alcohol-free · ₹299/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹299/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -69457,7 +71007,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹299/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose, Glycerin (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -69558,7 +71108,7 @@ const NXPRODUCTS = [
   "price": 1200,
   "capacityLine": "100 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · ₹1200/100ml",
+  "featureLine": "Toner · ₹1200/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -69574,7 +71124,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹1200/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -69666,7 +71216,7 @@ const NXPRODUCTS = [
   "price": 316,
   "capacityLine": "100 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · Alcohol-free · ₹316/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹316/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -69682,7 +71232,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹316/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -70191,7 +71741,7 @@ const NXPRODUCTS = [
   "price": 299,
   "capacityLine": "110 ml",
   "materialLine": "Ceramides + Rice water",
-  "featureLine": "Mist / spray · Paraben-free · ₹272/100ml",
+  "featureLine": "Toner · Paraben-free · ₹272/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -70207,7 +71757,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "110 ml",
    "pricePer100": "₹272/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Ceramides, Rice water (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free, Silicone-free (seller claim — not scored)",
@@ -70303,7 +71853,7 @@ const NXPRODUCTS = [
   "price": 650,
   "capacityLine": "100 ml",
   "materialLine": "Lavender",
-  "featureLine": "Mist / spray · Alcohol-free · ₹650/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹650/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -70319,13 +71869,13 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹650/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Lavender (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening / glow, Acne / pimples, Hydrating / moisturizing, Barrier repair, Soothing / calming, Lightweight / fast-absorbing, Cooling / refreshing, Makeup-related (setting / priming / removing) (seller claim — not clinical proof)",
+   "benefit": "Brightening / glow, Acne / pimples, Hydrating / moisturizing, Barrier repair, Soothing / calming, Lightweight / fast-absorbing, Cooling / refreshing, Makeup-related (setting / priming / removing), Razor burn / post-shave soothing (seller claim — not clinical proof)",
    "skinType": "Oily skin, Dry skin, Combination skin, Sensitive skin, Acne-prone, All skin types",
    "audience": "Unisex / not stated",
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
@@ -70354,6 +71904,7 @@ const NXPRODUCTS = [
    "format:toner",
    "format:mist",
    "format:wash",
+   "format:aftershave",
    "ing:lavender",
    "claim:brightening",
    "claim:acne",
@@ -70363,6 +71914,7 @@ const NXPRODUCTS = [
    "claim:lightweight",
    "claim:cooling",
    "claim:makeup",
+   "claim:razor-burn",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -70420,7 +71972,7 @@ const NXPRODUCTS = [
   "price": 560,
   "capacityLine": "100 ml",
   "materialLine": "Hyaluronic acid",
-  "featureLine": "Mist / spray · ₹560/100ml",
+  "featureLine": "Toner · ₹560/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -70436,7 +71988,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹560/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Hyaluronic acid (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -70532,7 +72084,7 @@ const NXPRODUCTS = [
   "price": 289,
   "capacityLine": "200 ml",
   "materialLine": "Rice water",
-  "featureLine": "Mist / spray · ₹145/100ml",
+  "featureLine": "Toner · ₹145/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -70548,7 +72100,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "200 ml",
    "pricePer100": "₹145/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rice water (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -70641,7 +72193,7 @@ const NXPRODUCTS = [
   "price": 375,
   "capacityLine": "100 ml",
   "materialLine": "Niacinamide + Aloe vera",
-  "featureLine": "Mist / spray · Alcohol-free · ₹375/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹375/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -70656,7 +72208,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹375/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Niacinamide, Aloe vera (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -70955,7 +72507,7 @@ const NXPRODUCTS = [
   "price": 149,
   "capacityLine": "100 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · ₹149/100ml",
+  "featureLine": "Toner · ₹149/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -70972,7 +72524,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹149/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -71282,7 +72834,7 @@ const NXPRODUCTS = [
   "price": 389,
   "capacityLine": "100 ml",
   "materialLine": "Niacinamide + Hyaluronic acid + Ceramides",
-  "featureLine": "Mist / spray · ₹389/100ml",
+  "featureLine": "Toner · ₹389/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "Well-reviewed: 4.4★ from 0 ratings"
@@ -71299,7 +72851,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹389/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Niacinamide, Hyaluronic acid, Ceramides, Collagen, Aloe vera, Cucumber, Shea butter (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -71824,7 +73376,7 @@ const NXPRODUCTS = [
   "price": 299,
   "capacityLine": "200 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · Alcohol-free · ₹150/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹150/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -71841,7 +73393,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "200 ml",
    "pricePer100": "₹150/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -72147,7 +73699,7 @@ const NXPRODUCTS = [
   "price": 154,
   "capacityLine": "100 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · ₹154/100ml",
+  "featureLine": "Toner · ₹154/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -72163,7 +73715,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹154/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -72367,7 +73919,7 @@ const NXPRODUCTS = [
   "price": 399,
   "capacityLine": "100 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹399/100ml",
+  "featureLine": "Toner · Paraben-free · ₹399/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -72383,7 +73935,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹399/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -72483,7 +74035,7 @@ const NXPRODUCTS = [
   "price": 299,
   "capacityLine": "345 ml (pack of 3)",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · ₹87/100ml",
+  "featureLine": "Toner · ₹87/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -72499,7 +74051,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "115 ml × 3 pack",
    "pricePer100": "₹87/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -72588,7 +74140,7 @@ const NXPRODUCTS = [
   "price": 308,
   "capacityLine": "100 ml",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Mist / spray · Alcohol-free · ₹308/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹308/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -72604,7 +74156,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹308/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -72641,6 +74193,7 @@ const NXPRODUCTS = [
    "format:mist",
    "format:oil",
    "format:wash",
+   "format:cleansing-oil",
    "claim:anti-aging",
    "claim:acne",
    "claim:pores",
@@ -72809,7 +74362,7 @@ const NXPRODUCTS = [
   "price": 349,
   "capacityLine": "120 ml",
   "materialLine": "Rose + Sea buckthorn",
-  "featureLine": "Mist / spray · Alcohol-free · ₹291/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹291/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -72826,7 +74379,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "120 ml",
    "pricePer100": "₹291/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose, Sea buckthorn (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -72916,7 +74469,7 @@ const NXPRODUCTS = [
   "price": 350,
   "capacityLine": "50 ml",
   "materialLine": "Coffee",
-  "featureLine": "Mist / spray · ₹700/100ml",
+  "featureLine": "Toner · ₹700/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -72932,7 +74485,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 ml",
    "pricePer100": "₹700/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Coffee (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -73019,7 +74572,7 @@ const NXPRODUCTS = [
   "price": 80,
   "capacityLine": "250 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · ₹32/100ml",
+  "featureLine": "Toner · ₹32/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -73036,7 +74589,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "250 ml",
    "pricePer100": "₹32/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -73130,7 +74683,7 @@ const NXPRODUCTS = [
   "price": 549,
   "capacityLine": "100 ml",
   "materialLine": "Niacinamide + Alpha arbutin + Vitamin B5 / panthenol",
-  "featureLine": "Mist / spray · Fragrance-free · ₹549/100ml",
+  "featureLine": "Toner · Fragrance-free · ₹549/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -73146,7 +74699,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹549/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Niacinamide, Alpha arbutin, Vitamin B5 / panthenol (named on listing)",
    "freeFrom": "Fragrance-free, Alcohol-free (seller claim — not scored)",
@@ -73247,7 +74800,7 @@ const NXPRODUCTS = [
   "price": 219,
   "capacityLine": "300 ml (pack of 3)",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · ₹73/100ml",
+  "featureLine": "Toner · ₹73/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -73264,7 +74817,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml × 3 pack",
    "pricePer100": "₹73/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -73356,7 +74909,7 @@ const NXPRODUCTS = [
   "price": 199,
   "capacityLine": "100 ml",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Mist / spray · ₹199/100ml",
+  "featureLine": "Toner · ₹199/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -73373,7 +74926,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹199/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -73882,7 +75435,7 @@ const NXPRODUCTS = [
   "price": 214,
   "capacityLine": "100 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · ₹214/100ml",
+  "featureLine": "Toner · ₹214/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -73897,7 +75450,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹214/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -74189,6 +75742,239 @@ const NXPRODUCTS = [
   }
  },
  {
+  "id": "geo-organix-b0f4k91sd4",
+  "brand": "Geo OrganiX",
+  "model": "Vitamin C & Lactic Acid Face Mist Toner | 3% Niacinamide | Hydrating & Refreshing | Bright…",
+  "price": 249,
+  "capacityLine": "120 ml",
+  "materialLine": "Vitamin C + Niacinamide + Lactic acid",
+  "featureLine": "Toner · ₹208/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 5
+  },
+  "fullSpec": {
+   "quantity": "120 ml",
+   "pricePer100": "₹208/100ml",
+   "format": "Toner",
+   "appliesTo": "Face (per listing)",
+   "keyIngredients": "Vitamin C, Niacinamide, Lactic acid (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Dark spots / pigmentation, Anti-aging / wrinkles, Acne / pimples, Hydrating / moisturizing, Barrier repair, Soothing / calming, Exfoliating, Cooling / refreshing (seller claim — not clinical proof)",
+   "skinType": "Oily skin, Sensitive skin, Acne-prone, All skin types",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "5★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/715iGI7bIML._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81Wv2SansML._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71nsDN6zHnL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71JkAlYaPeL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71k9qxcyJXL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0F4K91SD4",
+  "buyStore": "Amazon",
+  "title": "Vitamin C & Lactic Acid Face Mist Toner | 3% Niacinamide | Hydrating & Refreshing | Brightening | Anti-Inflammatory | pH Balanced | Reduces Wrinkles | Protects Skin Barrier - 120ml (220ML)",
+  "tags": [
+   "scope:face",
+   "format:toner",
+   "format:mist",
+   "format:oil",
+   "ing:vitamin-c",
+   "ing:niacinamide",
+   "ing:lactic-acid",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:anti-aging",
+   "claim:acne",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:soothing",
+   "claim:exfoliating",
+   "claim:cooling",
+   "skin:oily",
+   "skin:sensitive",
+   "skin:acne-prone",
+   "skin:all",
+   "free:ph-balanced",
+   "free:sensitive-safe",
+   "aud:unisex",
+   "size:standard",
+   "rating:4.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "5★ from 0 ratings"
+  }
+ },
+ {
+  "id": "orgatre-b0f5x117hd",
+  "brand": "Orgatre",
+  "model": "Hydra Glow Face Toner for Women | Rose Water Spray with Niacinamide, Cucumber & Hyaluronic…",
+  "price": 160,
+  "capacityLine": "100 ml",
+  "materialLine": "Niacinamide + Hyaluronic acid + Rose",
+  "featureLine": "Toner · Alcohol-free · ₹160/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 3.8
+  },
+  "fullSpec": {
+   "quantity": "100 ml",
+   "pricePer100": "₹160/100ml",
+   "format": "Toner",
+   "appliesTo": "Face (per listing)",
+   "keyIngredients": "Niacinamide, Hyaluronic acid, Rose, Cucumber (named on listing)",
+   "freeFrom": "Alcohol-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Non-comedogenic (seller claim — not scored)",
+   "benefit": "Brightening / glow, Acne / pimples, Pores / blackheads, Hydrating / moisturizing, Lightweight / fast-absorbing, Makeup-related (setting / priming / removing) (seller claim — not clinical proof)",
+   "skinType": "Acne-prone",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.6/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.6★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/614OjNKgRiL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71gJllaBasL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71XFhpOA6ZL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71vjxCfDhbL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71XhA-ddIEL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0F5X117HD",
+  "buyStore": "Amazon",
+  "title": "Orgatre Hydra Glow Face Toner for Women | Rose Water Spray with Niacinamide, Cucumber & Hyaluronic Acid | Face Toner for Pores Tightening, Acne-Prone Skin & Glowing Complexion | 100ml",
+  "tags": [
+   "scope:face",
+   "format:toner",
+   "format:mist",
+   "format:oil",
+   "ing:niacinamide",
+   "ing:hyaluronic-acid",
+   "ing:rose",
+   "ing:cucumber",
+   "claim:brightening",
+   "claim:acne",
+   "claim:pores",
+   "claim:hydrating",
+   "claim:lightweight",
+   "claim:makeup",
+   "skin:acne-prone",
+   "free:alcohol",
+   "free:non-comedogenic",
+   "aud:women",
+   "size:standard",
+   "rating:4.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.6★ from 0 ratings"
+  }
+ },
+ {
   "id": "d-alba-b0bfq9rd5b",
   "brand": "d'Alba",
   "model": "White Truffle First Spray Serum, Hydrating Glow Mist, 100ml",
@@ -74411,7 +76197,7 @@ const NXPRODUCTS = [
   "price": 184,
   "capacityLine": "100 ml",
   "materialLine": "Salicylic acid (BHA) + Tea tree + Rose",
-  "featureLine": "Mist / spray · Alcohol-free · ₹184/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹184/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -74426,7 +76212,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹184/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Salicylic acid (BHA), Tea tree, Rose (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -74517,7 +76303,7 @@ const NXPRODUCTS = [
   "price": 258,
   "capacityLine": "200 ml",
   "materialLine": "Vitamin C + Rose",
-  "featureLine": "Mist / spray · ₹129/100ml",
+  "featureLine": "Toner · ₹129/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -74532,7 +76318,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "200 ml",
    "pricePer100": "₹129/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Vitamin C, Rose (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -74632,7 +76418,7 @@ const NXPRODUCTS = [
   "price": 254,
   "capacityLine": "100 ml",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Mist / spray · Sulfate/SLS-free · ₹254/100ml",
+  "featureLine": "Toner · Sulfate/SLS-free · ₹254/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -74648,7 +76434,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹254/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Sulfate/SLS-free (seller claim — not scored)",
@@ -74739,7 +76525,7 @@ const NXPRODUCTS = [
   "model": "NAD+ Hyaluronic Acid Face Mist (100ml), Ultra Hydrating Oligo HA Mist, Deep Hydration, Dew…",
   "price": 1232,
   "capacityLine": "100 ml",
-  "materialLine": "Hyaluronic acid",
+  "materialLine": "Hyaluronic acid + NAD+ / NMN",
   "featureLine": "Mist / spray · ₹1232/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -74758,7 +76544,7 @@ const NXPRODUCTS = [
    "pricePer100": "₹1232/100ml",
    "format": "Mist / spray",
    "appliesTo": "Face (per listing)",
-   "keyIngredients": "Hyaluronic acid (named on listing)",
+   "keyIngredients": "Hyaluronic acid, NAD+ / NMN (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
@@ -74790,6 +76576,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:mist",
    "ing:hyaluronic-acid",
+   "ing:nad-nmn",
    "claim:brightening",
    "claim:dark-spots",
    "claim:anti-aging",
@@ -75075,7 +76862,7 @@ const NXPRODUCTS = [
   "price": 300,
   "capacityLine": "100 ml",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Mist / spray · ₹300/100ml",
+  "featureLine": "Toner · ₹300/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -75091,7 +76878,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹300/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -75178,7 +76965,7 @@ const NXPRODUCTS = [
   "price": 884,
   "capacityLine": "200 ml",
   "materialLine": "Hyaluronic acid",
-  "featureLine": "Mist / spray · Alcohol-free · ₹442/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹442/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -75195,7 +76982,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "200 ml",
    "pricePer100": "₹442/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Hyaluronic acid (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -75286,7 +77073,7 @@ const NXPRODUCTS = [
   "price": 1545,
   "capacityLine": "Quantity not stated",
   "materialLine": "Aloe vera + Rose + Witch hazel",
-  "featureLine": "Mist / spray · Alcohol-free",
+  "featureLine": "Toner · Alcohol-free",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -75302,7 +77089,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Aloe vera, Rose, Witch hazel (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -75393,7 +77180,7 @@ const NXPRODUCTS = [
   "price": 299,
   "capacityLine": "100 ml",
   "materialLine": "Vitamin C + Collagen",
-  "featureLine": "Mist / spray · ₹299/100ml",
+  "featureLine": "Toner · ₹299/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -75409,7 +77196,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹299/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Vitamin C, Collagen (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -75607,7 +77394,7 @@ const NXPRODUCTS = [
   "price": 376,
   "capacityLine": "100 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · ₹376/100ml",
+  "featureLine": "Toner · ₹376/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -75622,7 +77409,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹376/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -75814,7 +77601,7 @@ const NXPRODUCTS = [
   "price": 218,
   "capacityLine": "100 g",
   "materialLine": "Turmeric + Rose + Clay",
-  "featureLine": "Mist / spray · ₹218/100g",
+  "featureLine": "Toner · ₹218/100g",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -75830,7 +77617,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 g",
    "pricePer100": "₹218/100g",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Turmeric, Rose, Clay (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -75926,7 +77713,7 @@ const NXPRODUCTS = [
   "price": 1750,
   "capacityLine": "Quantity not stated",
   "materialLine": "Tea tree + Neem",
-  "featureLine": "Mist / spray",
+  "featureLine": "Toner",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -75941,7 +77728,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Tea tree, Neem (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -76140,7 +77927,7 @@ const NXPRODUCTS = [
   "price": 399,
   "capacityLine": "215 ml",
   "materialLine": "Sandalwood",
-  "featureLine": "Mist / spray · Alcohol-free · ₹186/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹186/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -76156,7 +77943,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "215 ml",
    "pricePer100": "₹186/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Sandalwood (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -76254,7 +78041,7 @@ const NXPRODUCTS = [
   "price": 799,
   "capacityLine": "100 ml",
   "materialLine": "Collagen",
-  "featureLine": "Mist / spray · ₹799/100ml",
+  "featureLine": "Toner · ₹799/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -76270,7 +78057,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹799/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Collagen (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -76365,7 +78152,7 @@ const NXPRODUCTS = [
   "price": 349,
   "capacityLine": "110 ml",
   "materialLine": "Cucumber",
-  "featureLine": "Mist / spray · ₹317/100ml",
+  "featureLine": "Toner · ₹317/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -76381,7 +78168,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "110 ml",
    "pricePer100": "₹317/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Cucumber (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -76585,7 +78372,7 @@ const NXPRODUCTS = [
   "price": 349,
   "capacityLine": "200 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹175/100ml",
+  "featureLine": "Toner · Paraben-free · ₹175/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -76601,7 +78388,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "200 ml",
    "pricePer100": "₹175/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -76697,7 +78484,7 @@ const NXPRODUCTS = [
   "price": 200,
   "capacityLine": "100 ml",
   "materialLine": "Aloe vera + Rose",
-  "featureLine": "Mist / spray · Fragrance-free · ₹200/100ml",
+  "featureLine": "Toner · Fragrance-free · ₹200/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -76713,7 +78500,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹200/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Aloe vera, Rose (named on listing)",
    "freeFrom": "Fragrance-free, Alcohol-free (seller claim — not scored)",
@@ -76809,7 +78596,7 @@ const NXPRODUCTS = [
   "price": 119,
   "capacityLine": "100 g",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · ₹119/100g",
+  "featureLine": "Toner · ₹119/100g",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -76825,7 +78612,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 g",
    "pricePer100": "₹119/100g",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -76916,7 +78703,7 @@ const NXPRODUCTS = [
   "price": 399,
   "capacityLine": "120 ml",
   "materialLine": "Rose + Sea buckthorn",
-  "featureLine": "Mist / spray · Alcohol-free · ₹333/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹333/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -76933,7 +78720,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "120 ml",
    "pricePer100": "₹333/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose, Sea buckthorn (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -77027,7 +78814,7 @@ const NXPRODUCTS = [
   "price": 349,
   "capacityLine": "120 ml",
   "materialLine": "Rose + Sea buckthorn",
-  "featureLine": "Mist / spray · Alcohol-free · ₹291/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹291/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -77044,7 +78831,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "120 ml",
    "pricePer100": "₹291/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose, Sea buckthorn (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -77136,7 +78923,7 @@ const NXPRODUCTS = [
   "price": 349,
   "capacityLine": "120 ml",
   "materialLine": "Rose + Sea buckthorn",
-  "featureLine": "Mist / spray · Alcohol-free · ₹291/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹291/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -77153,7 +78940,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "120 ml",
    "pricePer100": "₹291/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose, Sea buckthorn (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -77249,7 +79036,7 @@ const NXPRODUCTS = [
   "price": 299,
   "capacityLine": "120 ml",
   "materialLine": "Rose + Sea buckthorn",
-  "featureLine": "Mist / spray · Alcohol-free · ₹249/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹249/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -77266,7 +79053,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "120 ml",
    "pricePer100": "₹249/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose, Sea buckthorn (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -77356,7 +79143,7 @@ const NXPRODUCTS = [
   "price": 349,
   "capacityLine": "100 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · Alcohol-free · ₹349/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹349/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -77372,7 +79159,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹349/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -77465,7 +79252,7 @@ const NXPRODUCTS = [
   "price": 599,
   "capacityLine": "100 ml",
   "materialLine": "Niacinamide + Aloe vera + Rose",
-  "featureLine": "Mist / spray · ₹599/100ml",
+  "featureLine": "Toner · ₹599/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -77481,7 +79268,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹599/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Niacinamide, Aloe vera, Rose, Witch hazel, Glycerin (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -77723,7 +79510,7 @@ const NXPRODUCTS = [
   "price": 319,
   "capacityLine": "100 ml",
   "materialLine": "Rice water + Rose",
-  "featureLine": "Mist / spray · ₹319/100ml",
+  "featureLine": "Toner · ₹319/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -77739,7 +79526,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹319/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rice water, Rose (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -77831,7 +79618,7 @@ const NXPRODUCTS = [
   "price": 299,
   "capacityLine": "200 ml",
   "materialLine": "Rice water",
-  "featureLine": "Mist / spray · Fragrance-free · ₹150/100ml",
+  "featureLine": "Toner · Fragrance-free · ₹150/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -77847,7 +79634,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "200 ml",
    "pricePer100": "₹150/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rice water (named on listing)",
    "freeFrom": "Fragrance-free, Alcohol-free (seller claim — not scored)",
@@ -77945,7 +79732,7 @@ const NXPRODUCTS = [
   "price": 399,
   "capacityLine": "100 ml",
   "materialLine": "AHA + Hyaluronic acid + Peptides",
-  "featureLine": "Mist / spray · Alcohol-free · ₹399/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹399/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -77961,7 +79748,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹399/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "AHA, Hyaluronic acid, Peptides, Rose (named on listing)",
    "freeFrom": "Alcohol-free, Silicone-free (seller claim — not scored)",
@@ -78069,7 +79856,7 @@ const NXPRODUCTS = [
   "price": 490,
   "capacityLine": "100 ml",
   "materialLine": "Rice water + Rose + Rosehip",
-  "featureLine": "Mist / spray · ₹490/100ml",
+  "featureLine": "Toner · ₹490/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -78085,7 +79872,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹490/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rice water, Rose, Rosehip (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -78179,7 +79966,7 @@ const NXPRODUCTS = [
   "price": 188,
   "capacityLine": "120 ml",
   "materialLine": "Rice water",
-  "featureLine": "Mist / spray · Alcohol-free · ₹157/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹157/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -78194,7 +79981,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "120 ml",
    "pricePer100": "₹157/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Rice water (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -78289,7 +80076,7 @@ const NXPRODUCTS = [
   "price": 692,
   "capacityLine": "100 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹692/100ml",
+  "featureLine": "Toner · Paraben-free · ₹692/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -78305,7 +80092,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹692/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -78402,7 +80189,7 @@ const NXPRODUCTS = [
   "price": 383,
   "capacityLine": "200 ml (pack of 2)",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹192/100ml",
+  "featureLine": "Toner · Paraben-free · ₹192/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -78418,7 +80205,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml × 2 pack",
    "pricePer100": "₹192/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -78515,7 +80302,7 @@ const NXPRODUCTS = [
   "price": 255,
   "capacityLine": "200 ml",
   "materialLine": "Vitamin C + Rose",
-  "featureLine": "Scrub · Alcohol-free · ₹128/100ml",
+  "featureLine": "Mist / spray · Alcohol-free · ₹128/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -78531,7 +80318,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "200 ml",
    "pricePer100": "₹128/100ml",
-   "format": "Scrub",
+   "format": "Mist / spray",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Vitamin C, Rose (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -78628,7 +80415,7 @@ const NXPRODUCTS = [
   "price": 349,
   "capacityLine": "200 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · ₹175/100ml",
+  "featureLine": "Toner · ₹175/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -78644,7 +80431,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "200 ml",
    "pricePer100": "₹175/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -78730,7 +80517,7 @@ const NXPRODUCTS = [
   "price": 150,
   "capacityLine": "100 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹150/100ml",
+  "featureLine": "Toner · Paraben-free · ₹150/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -78746,7 +80533,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹150/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -78840,7 +80627,7 @@ const NXPRODUCTS = [
   "price": 249,
   "capacityLine": "50 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · Alcohol-free · ₹498/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹498/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -78856,7 +80643,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 ml",
    "pricePer100": "₹498/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -78945,7 +80732,7 @@ const NXPRODUCTS = [
   "price": 176,
   "capacityLine": "800 ml (pack of 2)",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · ₹22/100ml",
+  "featureLine": "Toner · ₹22/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -78961,7 +80748,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "400 ml × 2 pack",
    "pricePer100": "₹22/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -79060,7 +80847,7 @@ const NXPRODUCTS = [
   "price": 120,
   "capacityLine": "100 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹120/100ml",
+  "featureLine": "Toner · Paraben-free · ₹120/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -79076,7 +80863,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹120/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -79174,7 +80961,7 @@ const NXPRODUCTS = [
   "price": 199,
   "capacityLine": "200 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · Alcohol-free · ₹100/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹100/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -79190,7 +80977,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "200 ml",
    "pricePer100": "₹100/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -79283,7 +81070,7 @@ const NXPRODUCTS = [
   "price": 499,
   "capacityLine": "200 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹250/100ml",
+  "featureLine": "Toner · Paraben-free · ₹250/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -79299,7 +81086,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "200 ml",
    "pricePer100": "₹250/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -79391,7 +81178,7 @@ const NXPRODUCTS = [
   "price": 479,
   "capacityLine": "240 ml (pack of 2)",
   "materialLine": "Rose + Sea buckthorn",
-  "featureLine": "Mist / spray · Alcohol-free · ₹200/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹200/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -79408,7 +81195,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "120 ml × 2 pack",
    "pricePer100": "₹200/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose, Sea buckthorn (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -79801,7 +81588,7 @@ const NXPRODUCTS = [
   "price": 570,
   "capacityLine": "100 ml",
   "materialLine": "Niacinamide + Kojic acid + Alpha arbutin",
-  "featureLine": "Mist / spray · Alcohol-free · ₹570/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹570/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -79817,7 +81604,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹570/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Niacinamide, Kojic acid, Alpha arbutin, Chamomile (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -79922,7 +81709,7 @@ const NXPRODUCTS = [
   "price": 215,
   "capacityLine": "100 ml",
   "materialLine": "Vitamin C + Rose",
-  "featureLine": "Mist / spray · ₹215/100ml",
+  "featureLine": "Toner · ₹215/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -79937,7 +81724,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹215/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Vitamin C, Rose (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -80037,7 +81824,7 @@ const NXPRODUCTS = [
   "price": 269,
   "capacityLine": "200 ml",
   "materialLine": "Vitamin C + Rose",
-  "featureLine": "Mist / spray · ₹135/100ml",
+  "featureLine": "Toner · ₹135/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -80052,7 +81839,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "200 ml",
    "pricePer100": "₹135/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Vitamin C, Rose (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -80152,7 +81939,7 @@ const NXPRODUCTS = [
   "price": 209,
   "capacityLine": "100 ml",
   "materialLine": "Cucumber",
-  "featureLine": "Mist / spray · Alcohol-free · ₹209/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹209/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -80169,7 +81956,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹209/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Cucumber (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -80264,7 +82051,7 @@ const NXPRODUCTS = [
   "price": 199,
   "capacityLine": "100 ml",
   "materialLine": "Milk",
-  "featureLine": "Mist / spray · Alcohol-free · ₹199/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹199/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -80280,7 +82067,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹199/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Milk (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -80806,7 +82593,7 @@ const NXPRODUCTS = [
   "price": 176,
   "capacityLine": "Quantity not stated",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray",
+  "featureLine": "Toner",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -80823,7 +82610,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -80914,7 +82701,7 @@ const NXPRODUCTS = [
   "price": 349,
   "capacityLine": "2000 ml (pack of 2)",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹17/100ml",
+  "featureLine": "Toner · Paraben-free · ₹17/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -80930,7 +82717,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "1000 ml × 2 pack",
    "pricePer100": "₹17/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -81023,7 +82810,7 @@ const NXPRODUCTS = [
   "price": 749,
   "capacityLine": "180 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · Alcohol-free · ₹416/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹416/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -81039,7 +82826,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "180 ml",
    "pricePer100": "₹416/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -81135,8 +82922,8 @@ const NXPRODUCTS = [
   "model": "Braj Raj Facemist with Braj Raj Extracts, 100 ml | Rose & Tulsi Extract, Niacinamide Infus…",
   "price": 359,
   "capacityLine": "100 ml",
-  "materialLine": "Niacinamide + Rose",
-  "featureLine": "Mist / spray · ₹359/100ml",
+  "materialLine": "Niacinamide + Rose + Menthol",
+  "featureLine": "Other · ₹359/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -81153,9 +82940,9 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹359/100ml",
-   "format": "Mist / spray",
+   "format": "Other",
    "appliesTo": "Face (per listing)",
-   "keyIngredients": "Niacinamide, Rose (named on listing)",
+   "keyIngredients": "Niacinamide, Rose, Menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
@@ -81188,6 +82975,7 @@ const NXPRODUCTS = [
    "format:mist",
    "ing:niacinamide",
    "ing:rose",
+   "ing:menthol",
    "claim:brightening",
    "claim:acne",
    "claim:pores",
@@ -81248,7 +83036,7 @@ const NXPRODUCTS = [
   "price": 160,
   "capacityLine": "100 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · ₹160/100ml",
+  "featureLine": "Toner · ₹160/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -81265,7 +83053,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹160/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -81360,7 +83148,7 @@ const NXPRODUCTS = [
   "price": 168,
   "capacityLine": "50 ml",
   "materialLine": "Hyaluronic acid + Aloe vera + Honey",
-  "featureLine": "Mist / spray · Alcohol-free · ₹336/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹336/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -81376,7 +83164,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 ml",
    "pricePer100": "₹336/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Hyaluronic acid, Aloe vera, Honey, Papaya, Cucumber, Glycerin, Lemon (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -81791,7 +83579,7 @@ const NXPRODUCTS = [
   "price": 750,
   "capacityLine": "100 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · ₹750/100ml",
+  "featureLine": "Toner · ₹750/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -81808,7 +83596,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹750/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -82005,7 +83793,7 @@ const NXPRODUCTS = [
   "price": 145,
   "capacityLine": "200 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · Alcohol-free · ₹73/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹73/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -82022,7 +83810,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "200 ml",
    "pricePer100": "₹73/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -82235,7 +84023,7 @@ const NXPRODUCTS = [
   "price": 395,
   "capacityLine": "60 ml",
   "materialLine": "Aloe vera + Rose",
-  "featureLine": "Mist / spray · ₹658/100ml",
+  "featureLine": "Toner · ₹658/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -82251,7 +84039,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "60 ml",
    "pricePer100": "₹658/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Aloe vera, Rose (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -82451,7 +84239,7 @@ const NXPRODUCTS = [
   "price": 199,
   "capacityLine": "100 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · ₹199/100ml",
+  "featureLine": "Toner · ₹199/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -82468,7 +84256,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹199/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -82896,7 +84684,7 @@ const NXPRODUCTS = [
   "price": 99,
   "capacityLine": "100 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · ₹99/100ml",
+  "featureLine": "Toner · ₹99/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -82913,7 +84701,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹99/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -83007,7 +84795,7 @@ const NXPRODUCTS = [
   "price": 182,
   "capacityLine": "110 ml",
   "materialLine": "Ceramides + Rice water",
-  "featureLine": "Mist / spray · Paraben-free · ₹165/100ml",
+  "featureLine": "Toner · Paraben-free · ₹165/100ml",
   "highlight": "Live Amazon listing. Scored from its published INCI list (Amazon.in listing — Important information › Ingredients): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "glycerin high on the INCI list (strong evidence); hyaluronic acid high on the INCI list (moderate evidence)"
@@ -83025,7 +84813,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "110 ml",
    "pricePer100": "₹165/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Ceramides, Rice water (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free, Silicone-free (seller claim — not scored)",
@@ -83173,7 +84961,7 @@ const NXPRODUCTS = [
   "price": 214,
   "capacityLine": "100 ml",
   "materialLine": "Rose + Lavender",
-  "featureLine": "Mist / spray · ₹214/100ml",
+  "featureLine": "Toner · ₹214/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -83188,7 +84976,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹214/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose, Lavender (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -83290,7 +85078,7 @@ const NXPRODUCTS = [
   "price": 455,
   "capacityLine": "50 ml",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Mist / spray · ₹910/100ml",
+  "featureLine": "Toner · ₹910/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -83307,7 +85095,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 ml",
    "pricePer100": "₹910/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -83613,7 +85401,7 @@ const NXPRODUCTS = [
   "price": 459,
   "capacityLine": "240 ml (pack of 2)",
   "materialLine": "Rose + Sea buckthorn",
-  "featureLine": "Mist / spray · Alcohol-free · ₹191/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹191/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -83630,7 +85418,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "120 ml × 2 pack",
    "pricePer100": "₹191/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose, Sea buckthorn (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -83722,7 +85510,7 @@ const NXPRODUCTS = [
   "model": "PDRN Anti-Pollution Gel Mist for Face | Hydrating Face Mist with Ceramides, Honey & Amino …",
   "price": 699,
   "capacityLine": "100 ml",
-  "materialLine": "Ceramides + Honey",
+  "materialLine": "Ceramides + Honey + PDRN / polynucleotide",
   "featureLine": "Mist / spray · ₹699/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -83741,7 +85529,7 @@ const NXPRODUCTS = [
    "pricePer100": "₹699/100ml",
    "format": "Mist / spray",
    "appliesTo": "Face (per listing)",
-   "keyIngredients": "Ceramides, Honey (named on listing)",
+   "keyIngredients": "Ceramides, Honey, PDRN / polynucleotide (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
@@ -83776,6 +85564,7 @@ const NXPRODUCTS = [
    "format:wash",
    "ing:ceramides",
    "ing:honey",
+   "ing:pdrn-polynucleotide",
    "claim:oil-control",
    "claim:hydrating",
    "claim:barrier",
@@ -83833,7 +85622,7 @@ const NXPRODUCTS = [
   "price": 149,
   "capacityLine": "100 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · ₹149/100ml",
+  "featureLine": "Toner · ₹149/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -83850,7 +85639,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹149/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -84612,7 +86401,7 @@ const NXPRODUCTS = [
   "price": 110,
   "capacityLine": "200 ml (pack of 2)",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · Sulfate/SLS-free · ₹55/100ml",
+  "featureLine": "Toner · Sulfate/SLS-free · ₹55/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -84628,7 +86417,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml × 2 pack",
    "pricePer100": "₹55/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Sulfate/SLS-free (seller claim — not scored)",
@@ -84718,7 +86507,7 @@ const NXPRODUCTS = [
   "price": 257,
   "capacityLine": "200 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹129/100ml",
+  "featureLine": "Toner · Paraben-free · ₹129/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -84734,7 +86523,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "200 ml",
    "pricePer100": "₹129/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -84822,7 +86611,7 @@ const NXPRODUCTS = [
   "price": 250,
   "capacityLine": "100 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · ₹250/100ml",
+  "featureLine": "Toner · ₹250/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -84839,7 +86628,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹250/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -85090,6 +86879,449 @@ const NXPRODUCTS = [
   }
  },
  {
+  "id": "radiancerays-b0hfwqg67f",
+  "brand": "RadianceRays",
+  "model": "Mist Toner with Alpha Arbutin and Lactic Acid | Tightens Pores, Brightens Skin, Balances S…",
+  "price": 600,
+  "capacityLine": "100 ml",
+  "materialLine": "Lactic acid + Alpha arbutin + Allantoin",
+  "featureLine": "Toner · Sulfate/SLS-free · ₹600/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.6
+  },
+  "fullSpec": {
+   "quantity": "100 ml",
+   "pricePer100": "₹600/100ml",
+   "format": "Toner",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Lactic acid, Alpha arbutin, Allantoin (named on listing)",
+   "freeFrom": "Sulfate/SLS-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Pores / blackheads, Hydrating / moisturizing, Barrier repair, Soothing / calming, Cooling / refreshing (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.2/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.2★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51N5Ls0HpRL._SL1280_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0HFWQG67F",
+  "buyStore": "Amazon",
+  "title": "Mist Toner with Alpha Arbutin and Lactic Acid | Tightens Pores, Brightens Skin, Balances Skin pH, Allantoin Formula, 100% Vegan",
+  "tags": [
+   "scope:unstated",
+   "format:toner",
+   "format:mist",
+   "ing:lactic-acid",
+   "ing:alpha-arbutin",
+   "ing:allantoin",
+   "claim:brightening",
+   "claim:pores",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:soothing",
+   "claim:cooling",
+   "free:sulfate",
+   "free:vegan",
+   "free:ph-balanced",
+   "aud:unisex",
+   "size:standard",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.2★ from 0 ratings"
+  }
+ },
+ {
+  "id": "almay-age-essentials-b0h8dp26p7",
+  "brand": "ALMAY AGE ESSENTIALS",
+  "model": "Age Essentials Hydrating & Balancing Face Toner | Fine Mist Toner with 5% Niacinamide, 2% …",
+  "price": 689,
+  "capacityLine": "100 ml",
+  "materialLine": "Niacinamide + Hyaluronic acid + Peptides",
+  "featureLine": "Toner · ₹689/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 3.8
+  },
+  "fullSpec": {
+   "quantity": "100 ml",
+   "pricePer100": "₹689/100ml",
+   "format": "Toner",
+   "appliesTo": "Face (per listing)",
+   "keyIngredients": "Niacinamide, Hyaluronic acid, Peptides, Kojic acid, Aloe vera, Licorice, Vitamin B5 / panthenol, Allantoin, Copper peptide (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Acne / pimples, Hydrating / moisturizing, Barrier repair, Soothing / calming, Dry / very dry skin relief, Cooling / refreshing (seller claim — not clinical proof)",
+   "skinType": "Oily skin, Combination skin, Acne-prone, All skin types",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.6/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.6★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51u-yI+-fDL._SL1448_.jpg",
+   "https://m.media-amazon.com/images/I/61iZFH6MqKL._SL1448_.jpg",
+   "https://m.media-amazon.com/images/I/61WmovqgjkL._SL1402_.jpg",
+   "https://m.media-amazon.com/images/I/61InxDBrBDL._SL1254_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H8DP26P7",
+  "buyStore": "Amazon",
+  "title": "Age Essentials Hydrating & Balancing Face Toner | Fine Mist Toner with 5% Niacinamide, 2% Kojic Acid, 2% Copper Tripeptide-1 & 1% Hyaluronic Acid | All Skin Types | 100 mL",
+  "tags": [
+   "scope:face",
+   "format:toner",
+   "format:mist",
+   "format:wash",
+   "ing:niacinamide",
+   "ing:hyaluronic-acid",
+   "ing:peptides",
+   "ing:kojic-acid",
+   "ing:aloe-vera",
+   "ing:licorice",
+   "ing:vitamin-b5-panthenol",
+   "ing:allantoin",
+   "ing:copper-peptide",
+   "claim:brightening",
+   "claim:acne",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:soothing",
+   "claim:dry-skin-relief",
+   "claim:cooling",
+   "skin:oily",
+   "skin:combination",
+   "skin:acne-prone",
+   "skin:all",
+   "aud:unisex",
+   "size:standard",
+   "rating:4.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.6★ from 0 ratings"
+  }
+ },
+ {
+  "id": "noak-b0gyzjy659",
+  "brand": "NOAK",
+  "model": "SilkGlow Prep Mist Toner | Hydrating Face Mist with Niacinamide & Aquaxyl | Smoothens, Ref…",
+  "price": 999,
+  "capacityLine": "100 ml",
+  "materialLine": "Niacinamide + PHA",
+  "featureLine": "Toner · ₹999/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.9
+  },
+  "fullSpec": {
+   "quantity": "100 ml",
+   "pricePer100": "₹999/100ml",
+   "format": "Toner",
+   "appliesTo": "Face (per listing)",
+   "keyIngredients": "Niacinamide, PHA (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Pores / blackheads, Hydrating / moisturizing, Exfoliating, Cooling / refreshing, Makeup-related (setting / priming / removing) (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.3/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.3★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/41r+87AaIfL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/51hYC8I92uL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61JvncgpEtL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61sDgI0AnnL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/617Ube3bD4L._SL1098_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GYZJY659",
+  "buyStore": "Amazon",
+  "title": "NOAK SilkGlow Prep Mist Toner | Hydrating Face Mist with Niacinamide & Aquaxyl | Smoothens, Refines & Preps Skin | Gentle Daily Exfoliation (PHA) | 100ml",
+  "tags": [
+   "scope:face",
+   "format:toner",
+   "format:mist",
+   "ing:niacinamide",
+   "ing:pha",
+   "claim:brightening",
+   "claim:pores",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "claim:cooling",
+   "claim:makeup",
+   "aud:unisex",
+   "size:standard",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.3★ from 0 ratings"
+  }
+ },
+ {
+  "id": "perenne-b07tlbkcbv",
+  "brand": "PERENNE",
+  "model": "Clarifying Oil Control Face Toner for Oily and Acne Prone Skin(100 ml) - Face Mist for Por…",
+  "price": 720,
+  "capacityLine": "100 ml",
+  "materialLine": "Tea tree + Neem",
+  "featureLine": "Toner · Alcohol-free · ₹720/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 3.8
+  },
+  "fullSpec": {
+   "quantity": "100 ml",
+   "pricePer100": "₹720/100ml",
+   "format": "Toner",
+   "appliesTo": "Face (per listing)",
+   "keyIngredients": "Tea tree, Neem (named on listing)",
+   "freeFrom": "Alcohol-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Acne / pimples, Pores / blackheads, Oil control / matte / non-greasy, Hydrating / moisturizing, Soothing / calming (seller claim — not clinical proof)",
+   "skinType": "Oily skin, Acne-prone",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.6/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.6★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71qh6zmz5JL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B07TLBKCBV",
+  "buyStore": "Amazon",
+  "title": "Perenne Clarifying Oil Control Face Toner for Oily and Acne Prone Skin(100 ml) - Face Mist for Pore Minimizing, Soothing, Hydrating with Tea Tree Oil, Neem Extract for Men and Women",
+  "tags": [
+   "scope:face",
+   "format:toner",
+   "format:mist",
+   "format:oil",
+   "ing:tea-tree",
+   "ing:neem",
+   "claim:acne",
+   "claim:pores",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:soothing",
+   "skin:oily",
+   "skin:acne-prone",
+   "free:alcohol",
+   "aud:women",
+   "size:standard",
+   "rating:4.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.6★ from 0 ratings"
+  }
+ },
+ {
   "id": "tee-b0gt4wwths",
   "brand": "TEE",
   "model": "ESS Cooler Face Mist for Men & Women | Hydrating & Refreshing Facial Mist with Vitamin E &…",
@@ -85312,7 +87544,7 @@ const NXPRODUCTS = [
   "price": 336,
   "capacityLine": "100 ml",
   "materialLine": "Vitamin C + Niacinamide + Hyaluronic acid",
-  "featureLine": "Mist / spray · Alcohol-free · ₹336/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹336/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -85328,7 +87560,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹336/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Vitamin C, Niacinamide, Hyaluronic acid, Rose, Cucumber, Chamomile (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -85423,7 +87655,7 @@ const NXPRODUCTS = [
   "price": 466,
   "capacityLine": "100 ml",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Mist / spray · ₹466/100ml",
+  "featureLine": "Toner · ₹466/100ml",
   "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Plum official website (plumgoodness.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "glycerin high on the INCI list (strong evidence); aloe barbadensis leaf juice high on the INCI list (moderate evidence)",
@@ -85439,7 +87671,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹466/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -85661,7 +87893,7 @@ const NXPRODUCTS = [
   "price": 85,
   "capacityLine": "100 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · ₹85/100ml",
+  "featureLine": "Toner · ₹85/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -85677,7 +87909,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹85/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -85991,7 +88223,7 @@ const NXPRODUCTS = [
   "price": 950,
   "capacityLine": "100 ml",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Mist / spray · ₹950/100ml",
+  "featureLine": "Toner · ₹950/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -86007,7 +88239,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹950/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -86203,7 +88435,7 @@ const NXPRODUCTS = [
   "price": 349,
   "capacityLine": "100 ml",
   "materialLine": "Sandalwood",
-  "featureLine": "Mist / spray · Alcohol-free · ₹349/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹349/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -86220,7 +88452,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹349/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Sandalwood (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -86314,7 +88546,7 @@ const NXPRODUCTS = [
   "price": 260,
   "capacityLine": "200 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · Fragrance-free · ₹130/100ml",
+  "featureLine": "Toner · Fragrance-free · ₹130/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -86330,7 +88562,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "200 ml",
    "pricePer100": "₹130/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Fragrance-free, Alcohol-free (seller claim — not scored)",
@@ -86428,7 +88660,7 @@ const NXPRODUCTS = [
   "price": 190,
   "capacityLine": "200 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · ₹95/100ml",
+  "featureLine": "Toner · ₹95/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -86444,7 +88676,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "200 ml",
    "pricePer100": "₹95/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -86534,7 +88766,7 @@ const NXPRODUCTS = [
   "price": 1875,
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Mist / spray",
+  "featureLine": "Toner",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -86550,7 +88782,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -86748,7 +88980,7 @@ const NXPRODUCTS = [
   "price": 749,
   "capacityLine": "200 ml",
   "materialLine": "Sandalwood + Rose",
-  "featureLine": "Mist / spray · Alcohol-free · ₹375/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹375/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -86764,7 +88996,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "200 ml",
    "pricePer100": "₹375/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Sandalwood, Rose (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -86967,7 +89199,7 @@ const NXPRODUCTS = [
   "price": 230,
   "capacityLine": "200 ml",
   "materialLine": "Rose + Gold",
-  "featureLine": "Mist / spray · Paraben-free · ₹115/100ml",
+  "featureLine": "Toner · Paraben-free · ₹115/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -86984,7 +89216,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "200 ml",
    "pricePer100": "₹115/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose, Gold (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -87081,7 +89313,7 @@ const NXPRODUCTS = [
   "price": 349,
   "capacityLine": "110 ml",
   "materialLine": "Lavender",
-  "featureLine": "Mist / spray · ₹317/100ml",
+  "featureLine": "Toner · ₹317/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -87097,7 +89329,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "110 ml",
    "pricePer100": "₹317/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Lavender (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -87295,7 +89527,7 @@ const NXPRODUCTS = [
   "price": 399,
   "capacityLine": "120 ml",
   "materialLine": "Rose + Sea buckthorn",
-  "featureLine": "Mist / spray · Alcohol-free · ₹333/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹333/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -87312,7 +89544,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "120 ml",
    "pricePer100": "₹333/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose, Sea buckthorn (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -87405,7 +89637,7 @@ const NXPRODUCTS = [
   "price": 225,
   "capacityLine": "300 ml (pack of 3)",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · ₹75/100ml",
+  "featureLine": "Toner · ₹75/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -87421,7 +89653,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml × 3 pack",
    "pricePer100": "₹75/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -87519,7 +89751,7 @@ const NXPRODUCTS = [
   "price": 380,
   "capacityLine": "240 ml (pack of 2)",
   "materialLine": "Rose + Sea buckthorn",
-  "featureLine": "Mist / spray · Alcohol-free · ₹158/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹158/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -87536,7 +89768,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "120 ml × 2 pack",
    "pricePer100": "₹158/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose, Sea buckthorn (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -87632,7 +89864,7 @@ const NXPRODUCTS = [
   "price": 299,
   "capacityLine": "120 ml",
   "materialLine": "Rose + Sea buckthorn",
-  "featureLine": "Mist / spray · Alcohol-free · ₹249/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹249/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -87649,7 +89881,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "120 ml",
    "pricePer100": "₹249/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose, Sea buckthorn (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -87744,7 +89976,7 @@ const NXPRODUCTS = [
   "price": 98,
   "capacityLine": "200 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · Alcohol-free · ₹49/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹49/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -87760,7 +89992,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "200 ml",
    "pricePer100": "₹49/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -88068,7 +90300,7 @@ const NXPRODUCTS = [
   "price": 199,
   "capacityLine": "200 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · Alcohol-free · ₹100/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹100/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -88084,7 +90316,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "200 ml",
    "pricePer100": "₹100/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -88183,7 +90415,7 @@ const NXPRODUCTS = [
   "price": 199,
   "capacityLine": "200 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · Alcohol-free · ₹100/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹100/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -88199,7 +90431,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "200 ml",
    "pricePer100": "₹100/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -88292,7 +90524,7 @@ const NXPRODUCTS = [
   "price": 53,
   "capacityLine": "110 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · ₹48/100ml",
+  "featureLine": "Toner · ₹48/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -88308,7 +90540,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "110 ml",
    "pricePer100": "₹48/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -88627,7 +90859,7 @@ const NXPRODUCTS = [
   "price": 349,
   "capacityLine": "100 ml",
   "materialLine": "Rose + Ubtan",
-  "featureLine": "Mist / spray · Alcohol-free · ₹349/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹349/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -88643,7 +90875,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹349/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose, Ubtan (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -88743,7 +90975,7 @@ const NXPRODUCTS = [
   "price": 254,
   "capacityLine": "100 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · Sulfate/SLS-free · ₹254/100ml",
+  "featureLine": "Toner · Sulfate/SLS-free · ₹254/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -88759,7 +90991,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹254/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Sulfate/SLS-free (seller claim — not scored)",
@@ -88853,7 +91085,7 @@ const NXPRODUCTS = [
   "price": 180,
   "capacityLine": "100 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · ₹180/100ml",
+  "featureLine": "Toner · ₹180/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -88870,7 +91102,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹180/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -88955,7 +91187,7 @@ const NXPRODUCTS = [
   "price": 299,
   "capacityLine": "200 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · ₹150/100ml",
+  "featureLine": "Toner · ₹150/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -88971,7 +91203,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "200 ml",
    "pricePer100": "₹150/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -89063,7 +91295,7 @@ const NXPRODUCTS = [
   "price": 279,
   "capacityLine": "1500 ml (pack of 3)",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹19/100ml",
+  "featureLine": "Toner · Paraben-free · ₹19/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -89079,7 +91311,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "500 ml × 3 pack",
    "pricePer100": "₹19/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -89284,7 +91516,7 @@ const NXPRODUCTS = [
   "price": 349,
   "capacityLine": "120 ml",
   "materialLine": "Rose + Sea buckthorn",
-  "featureLine": "Mist / spray · Alcohol-free · ₹291/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹291/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -89301,7 +91533,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "120 ml",
    "pricePer100": "₹291/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose, Sea buckthorn (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -89392,7 +91624,7 @@ const NXPRODUCTS = [
   "price": 2660,
   "capacityLine": "300 ml",
   "materialLine": "Thermal water",
-  "featureLine": "Mist / spray · ₹887/100ml",
+  "featureLine": "Other · ₹887/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "Made by Pierre Fabre (dermatology / pharma maker)"
@@ -89409,7 +91641,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "300 ml",
    "pricePer100": "₹887/100ml",
-   "format": "Mist / spray",
+   "format": "Other",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Thermal water (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -89694,7 +91926,7 @@ const NXPRODUCTS = [
   "price": 243,
   "capacityLine": "100 ml",
   "materialLine": "Niacinamide + Vitamin E + Witch hazel",
-  "featureLine": "Mist / spray · Alcohol-free · ₹243/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹243/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -89710,7 +91942,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹243/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Niacinamide, Vitamin E, Witch hazel, Allantoin, Glycerin (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -89814,7 +92046,7 @@ const NXPRODUCTS = [
   "price": 318,
   "capacityLine": "100 ml",
   "materialLine": "Tea tree + Rose + Cucumber",
-  "featureLine": "Mist / spray · Alcohol-free · ₹318/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹318/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -89830,7 +92062,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹318/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Tea tree, Rose, Cucumber, Witch hazel (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -89931,7 +92163,7 @@ const NXPRODUCTS = [
   "price": 199,
   "capacityLine": "100 ml",
   "materialLine": "Vitamin C",
-  "featureLine": "Mist / spray · Paraben-free · ₹199/100ml",
+  "featureLine": "Toner · Paraben-free · ₹199/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -89947,7 +92179,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹199/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Vitamin C (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -90043,7 +92275,7 @@ const NXPRODUCTS = [
   "price": 199,
   "capacityLine": "100 ml",
   "materialLine": "Glycolic acid + Hyaluronic acid + Cucumber",
-  "featureLine": "Scrub · Alcohol-free · ₹199/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹199/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -90059,7 +92291,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹199/100ml",
-   "format": "Scrub",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Glycolic acid, Hyaluronic acid, Cucumber (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -90162,7 +92394,7 @@ const NXPRODUCTS = [
   "price": 380,
   "capacityLine": "180 ml",
   "materialLine": "Rose + Glycerin",
-  "featureLine": "Mist / spray · Alcohol-free · ₹211/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹211/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -90177,7 +92409,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "180 ml",
    "pricePer100": "₹211/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose, Glycerin (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -90265,7 +92497,7 @@ const NXPRODUCTS = [
   "price": 204,
   "capacityLine": "300 ml (pack of 3)",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · ₹68/100ml",
+  "featureLine": "Toner · ₹68/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -90281,7 +92513,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml × 3 pack",
    "pricePer100": "₹68/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -90376,7 +92608,7 @@ const NXPRODUCTS = [
   "price": 599,
   "capacityLine": "50 ml",
   "materialLine": "Turmeric + Vitamin E + Glycerin",
-  "featureLine": "Mist / spray · ₹1198/100ml",
+  "featureLine": "Toner · ₹1198/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -90393,7 +92625,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 ml",
    "pricePer100": "₹1198/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Turmeric, Vitamin E, Glycerin (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -90484,7 +92716,7 @@ const NXPRODUCTS = [
   "price": 399,
   "capacityLine": "Quantity not stated",
   "materialLine": "Cucumber",
-  "featureLine": "Mist / spray · Alcohol-free",
+  "featureLine": "Toner · Alcohol-free",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -90500,7 +92732,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Cucumber (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -90600,7 +92832,7 @@ const NXPRODUCTS = [
   "price": 299,
   "capacityLine": "100 ml",
   "materialLine": "AHA + Aloe vera + Rose",
-  "featureLine": "Scrub · ₹299/100ml",
+  "featureLine": "Mist / spray · ₹299/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -90617,7 +92849,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹299/100ml",
-   "format": "Scrub",
+   "format": "Mist / spray",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "AHA, Aloe vera, Rose, Cucumber, Witch hazel, Glycerin (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -90716,7 +92948,7 @@ const NXPRODUCTS = [
   "price": 550,
   "capacityLine": "100 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · Sulfate/SLS-free · ₹550/100ml",
+  "featureLine": "Toner · Sulfate/SLS-free · ₹550/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -90732,7 +92964,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹550/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Sulfate/SLS-free, Alcohol-free (seller claim — not scored)",
@@ -90829,7 +93061,7 @@ const NXPRODUCTS = [
   "price": 149,
   "capacityLine": "100 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · Fragrance-free · ₹149/100ml",
+  "featureLine": "Toner · Fragrance-free · ₹149/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -90846,7 +93078,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹149/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Fragrance-free (seller claim — not scored)",
@@ -91370,7 +93602,7 @@ const NXPRODUCTS = [
   "price": 348,
   "capacityLine": "100 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · ₹348/100ml",
+  "featureLine": "Toner · ₹348/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -91387,7 +93619,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹348/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -91800,7 +94032,7 @@ const NXPRODUCTS = [
   "price": 213,
   "capacityLine": "100 ml",
   "materialLine": "Aloe vera + Rose + Calendula",
-  "featureLine": "Mist / spray · Alcohol-free · ₹213/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹213/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -91816,7 +94048,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹213/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Aloe vera, Rose, Calendula (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -92021,7 +94253,7 @@ const NXPRODUCTS = [
   "price": 399,
   "capacityLine": "100 ml",
   "materialLine": "Niacinamide + Rice water",
-  "featureLine": "Mist / spray · ₹399/100ml",
+  "featureLine": "Toner · ₹399/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -92037,7 +94269,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹399/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Niacinamide, Rice water (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -92129,7 +94361,7 @@ const NXPRODUCTS = [
   "price": 198,
   "capacityLine": "100 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · ₹198/100ml",
+  "featureLine": "Toner · ₹198/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -92146,7 +94378,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹198/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -92460,7 +94692,7 @@ const NXPRODUCTS = [
   "price": 299,
   "capacityLine": "200 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · ₹150/100ml",
+  "featureLine": "Toner · ₹150/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -92476,7 +94708,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "200 ml",
    "pricePer100": "₹150/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -92671,7 +94903,7 @@ const NXPRODUCTS = [
   "price": 299,
   "capacityLine": "100 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · ₹299/100ml",
+  "featureLine": "Toner · ₹299/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -92688,7 +94920,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹299/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -92781,7 +95013,7 @@ const NXPRODUCTS = [
   "price": 229,
   "capacityLine": "50 ml",
   "materialLine": "Colloidal oatmeal + Rose + Honey",
-  "featureLine": "Mist / spray · Alcohol-free · ₹458/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹458/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -92797,7 +95029,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 ml",
    "pricePer100": "₹458/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Colloidal oatmeal, Rose, Honey, Clay, Jojoba (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -92892,7 +95124,7 @@ const NXPRODUCTS = [
   "price": 299,
   "capacityLine": "120 ml",
   "materialLine": "Rose + Sea buckthorn",
-  "featureLine": "Mist / spray · Alcohol-free · ₹249/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹249/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -92909,7 +95141,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "120 ml",
    "pricePer100": "₹249/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose, Sea buckthorn (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -93000,7 +95232,7 @@ const NXPRODUCTS = [
   "price": 269,
   "capacityLine": "400 ml (pack of 2)",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹67/100ml",
+  "featureLine": "Toner · Paraben-free · ₹67/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -93016,7 +95248,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "200 ml × 2 pack",
    "pricePer100": "₹67/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -93109,7 +95341,7 @@ const NXPRODUCTS = [
   "price": 299,
   "capacityLine": "120 ml",
   "materialLine": "Vitamin C + Rice water + Rose",
-  "featureLine": "Mist / spray · ₹249/100ml",
+  "featureLine": "Toner · ₹249/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -93126,7 +95358,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "120 ml",
    "pricePer100": "₹249/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Vitamin C, Rice water, Rose, Ubtan (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -93221,7 +95453,7 @@ const NXPRODUCTS = [
   "price": 299,
   "capacityLine": "100 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹299/100ml",
+  "featureLine": "Toner · Paraben-free · ₹299/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -93237,7 +95469,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹299/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -93333,7 +95565,7 @@ const NXPRODUCTS = [
   "price": 317,
   "capacityLine": "100 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · Fragrance-free · ₹317/100ml",
+  "featureLine": "Toner · Fragrance-free · ₹317/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -93349,7 +95581,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹317/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Fragrance-free (seller claim — not scored)",
@@ -93445,7 +95677,7 @@ const NXPRODUCTS = [
   "price": 250,
   "capacityLine": "Quantity not stated",
   "materialLine": "Vitamin C + Collagen + Aloe vera",
-  "featureLine": "Mist / spray · Alcohol-free",
+  "featureLine": "Toner · Alcohol-free",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -93461,7 +95693,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Vitamin C, Collagen, Aloe vera (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -93561,7 +95793,7 @@ const NXPRODUCTS = [
   "price": 399,
   "capacityLine": "1500 ml (pack of 3)",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · ₹27/100ml",
+  "featureLine": "Toner · ₹27/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -93577,7 +95809,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "500 ml × 3 pack",
    "pricePer100": "₹27/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -93890,7 +96122,7 @@ const NXPRODUCTS = [
   "price": 115,
   "capacityLine": "50 ml",
   "materialLine": "Hyaluronic acid + Rose",
-  "featureLine": "Mist / spray · ₹230/100ml",
+  "featureLine": "Toner · ₹230/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -93906,7 +96138,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 ml",
    "pricePer100": "₹230/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Hyaluronic acid, Rose (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -94003,7 +96235,7 @@ const NXPRODUCTS = [
   "price": 119,
   "capacityLine": "100 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · Alcohol-free · ₹119/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹119/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -94020,7 +96252,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹119/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -94213,13 +96445,127 @@ const NXPRODUCTS = [
   }
  },
  {
+  "id": "eight2eight-b0dh2n8mg9",
+  "brand": "EIGHT2EIGHT",
+  "model": "HYDRATING MIST & TONER | FIGHTS PIMPLES | TONER | TIGHTNESS PORES | WITH VITAMIN C | AHA |…",
+  "price": 200,
+  "capacityLine": "100 ml",
+  "materialLine": "Vitamin C + Niacinamide + AHA",
+  "featureLine": "Toner · Fragrance-free · ₹200/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 5
+  },
+  "fullSpec": {
+   "quantity": "100 ml",
+   "pricePer100": "₹200/100ml",
+   "format": "Toner",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Vitamin C, Niacinamide, AHA, Hyaluronic acid (named on listing)",
+   "freeFrom": "Fragrance-free, Paraben-free, Sulfate/SLS-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Non-comedogenic (seller claim — not scored)",
+   "benefit": "Acne / pimples, Pores / blackheads, Hydrating / moisturizing, Lightweight / fast-absorbing (seller claim — not clinical proof)",
+   "skinType": "Sensitive skin, All skin types",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "5★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71O0uu2+XLL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61hlc9xU8RL._SL1280_.jpg",
+   "https://m.media-amazon.com/images/I/71tg3kNkwRL._SL1280_.jpg",
+   "https://m.media-amazon.com/images/I/61QVfTx8ScL._SL1280_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0DH2N8MG9",
+  "buyStore": "Amazon",
+  "title": "EIGHT2EIGHT | HYDRATING MIST & TONER | FIGHTS PIMPLES | TONER | TIGHTNESS PORES | WITH VITAMIN C | AHA | HYALURONIC ACID & NIACINAMIDE | PARABEN FREE & SLS FREE | ALL SKIN TYPE | 100 ML",
+  "tags": [
+   "scope:unstated",
+   "format:toner",
+   "format:mist",
+   "ing:vitamin-c",
+   "ing:niacinamide",
+   "ing:aha",
+   "ing:hyaluronic-acid",
+   "claim:acne",
+   "claim:pores",
+   "claim:hydrating",
+   "claim:lightweight",
+   "skin:sensitive",
+   "skin:all",
+   "free:paraben",
+   "free:sulfate",
+   "free:fragrance",
+   "free:non-comedogenic",
+   "free:toxin-free",
+   "aud:unisex",
+   "size:standard",
+   "rating:4.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "5★ from 0 ratings"
+  }
+ },
+ {
   "id": "suroskie-b0cvb61z3c",
   "brand": "Suroskie",
   "model": "Rose Water Elixir Face Mist 100Ml | Pure Rose Water | Face Toner For Glowing, Refresh & Hy…",
   "price": 402,
   "capacityLine": "100 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · ₹402/100ml",
+  "featureLine": "Toner · ₹402/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -94235,7 +96581,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹402/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -94659,7 +97005,7 @@ const NXPRODUCTS = [
   "price": 899,
   "capacityLine": "Quantity not stated",
   "materialLine": "Magnesium + Thermal water",
-  "featureLine": "Mist / spray",
+  "featureLine": "Toner",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "Made by Laboratoires Dermatologiques d'Uriage (dermatology / pharma maker)"
@@ -94676,7 +97022,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Magnesium, Thermal water (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -94767,7 +97113,7 @@ const NXPRODUCTS = [
   "price": 479,
   "capacityLine": "100 ml",
   "materialLine": "Hyaluronic acid + Collagen + Rice water",
-  "featureLine": "Mist / spray · ₹479/100ml",
+  "featureLine": "Toner · ₹479/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -94783,7 +97129,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹479/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Hyaluronic acid, Collagen, Rice water, Lavender (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -94881,7 +97227,7 @@ const NXPRODUCTS = [
   "price": 999,
   "capacityLine": "Quantity not stated",
   "materialLine": "Turmeric",
-  "featureLine": "Mist / spray",
+  "featureLine": "Toner",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -94898,7 +97244,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Turmeric (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -95213,7 +97559,7 @@ const NXPRODUCTS = [
   "price": 220,
   "capacityLine": "Quantity not stated",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · Alcohol-free",
+  "featureLine": "Toner · Alcohol-free",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -95230,7 +97576,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -95320,7 +97666,7 @@ const NXPRODUCTS = [
   "price": 539,
   "capacityLine": "200 ml",
   "materialLine": "Aloe vera",
-  "featureLine": "Mist / spray · Alcohol-free · ₹270/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹270/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -95336,7 +97682,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "200 ml",
    "pricePer100": "₹270/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Aloe vera (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -95533,7 +97879,7 @@ const NXPRODUCTS = [
   "price": 199,
   "capacityLine": "100 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · Alcohol-free · ₹199/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹199/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -95549,7 +97895,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹199/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -95647,7 +97993,7 @@ const NXPRODUCTS = [
   "price": 198,
   "capacityLine": "100 ml",
   "materialLine": "Rose + Glycerin",
-  "featureLine": "Mist / spray · Alcohol-free · ₹198/100ml",
+  "featureLine": "Soap bar · Alcohol-free · ₹198/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -95663,7 +98009,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹198/100ml",
-   "format": "Mist / spray",
+   "format": "Soap bar",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose, Glycerin (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -95753,7 +98099,7 @@ const NXPRODUCTS = [
   "price": 149,
   "capacityLine": "200 ml",
   "materialLine": "Sandalwood + Rose + Clay",
-  "featureLine": "Mist / spray · ₹75/100ml",
+  "featureLine": "Toner · ₹75/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -95770,7 +98116,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "200 ml",
    "pricePer100": "₹75/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Sandalwood, Rose, Clay, Ubtan (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -95978,7 +98324,7 @@ const NXPRODUCTS = [
   "price": 399,
   "capacityLine": "215 ml",
   "materialLine": "Saffron",
-  "featureLine": "Mist / spray · Alcohol-free · ₹186/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹186/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -95994,7 +98340,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "215 ml",
    "pricePer100": "₹186/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Saffron (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -96087,7 +98433,7 @@ const NXPRODUCTS = [
   "price": 618,
   "capacityLine": "150 ml",
   "materialLine": "Niacinamide + Hyaluronic acid + Allantoin",
-  "featureLine": "Mist / spray · ₹412/100ml",
+  "featureLine": "Toner · ₹412/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -96103,7 +98449,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "150 ml",
    "pricePer100": "₹412/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Niacinamide, Hyaluronic acid, Allantoin (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -96199,7 +98545,7 @@ const NXPRODUCTS = [
   "price": 740,
   "capacityLine": "100 ml",
   "materialLine": "Vitamin C + Hyaluronic acid + Alpha arbutin",
-  "featureLine": "Mist / spray · Alcohol-free · ₹740/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹740/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -96215,7 +98561,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹740/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Vitamin C, Hyaluronic acid, Alpha arbutin, Licorice (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -96650,7 +98996,7 @@ const NXPRODUCTS = [
   "price": 280,
   "capacityLine": "100 ml",
   "materialLine": "Saffron",
-  "featureLine": "Mist / spray · Alcohol-free · ₹280/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹280/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -96666,7 +99012,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹280/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Saffron (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -96762,7 +99108,7 @@ const NXPRODUCTS = [
   "price": 200,
   "capacityLine": "100 ml",
   "materialLine": "Aloe vera + Rose",
-  "featureLine": "Mist / spray · Fragrance-free · ₹200/100ml",
+  "featureLine": "Toner · Fragrance-free · ₹200/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -96778,7 +99124,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹200/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Aloe vera, Rose (named on listing)",
    "freeFrom": "Fragrance-free, Alcohol-free (seller claim — not scored)",
@@ -96876,7 +99222,7 @@ const NXPRODUCTS = [
   "price": 299,
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Mist / spray",
+  "featureLine": "Toner",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -96892,7 +99238,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -96984,7 +99330,7 @@ const NXPRODUCTS = [
   "price": 249,
   "capacityLine": "100 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · ₹249/100ml",
+  "featureLine": "Toner · ₹249/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -97001,7 +99347,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹249/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -97094,7 +99440,7 @@ const NXPRODUCTS = [
   "price": 399,
   "capacityLine": "120 ml",
   "materialLine": "Rose + Sea buckthorn",
-  "featureLine": "Mist / spray · Alcohol-free · ₹333/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹333/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -97111,7 +99457,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "120 ml",
    "pricePer100": "₹333/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose, Sea buckthorn (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -97203,7 +99549,7 @@ const NXPRODUCTS = [
   "price": 550,
   "capacityLine": "150 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · ₹367/100ml",
+  "featureLine": "Toner · ₹367/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -97219,7 +99565,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "150 ml",
    "pricePer100": "₹367/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -97313,7 +99659,7 @@ const NXPRODUCTS = [
   "price": 349,
   "capacityLine": "120 ml",
   "materialLine": "Rose + Sea buckthorn",
-  "featureLine": "Mist / spray · Alcohol-free · ₹291/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹291/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -97330,7 +99676,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "120 ml",
    "pricePer100": "₹291/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose, Sea buckthorn (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -97425,7 +99771,7 @@ const NXPRODUCTS = [
   "price": 479,
   "capacityLine": "240 ml (pack of 2)",
   "materialLine": "Rose + Sea buckthorn",
-  "featureLine": "Mist / spray · Alcohol-free · ₹200/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹200/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -97442,7 +99788,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "120 ml × 2 pack",
    "pricePer100": "₹200/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose, Sea buckthorn (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -97537,7 +99883,7 @@ const NXPRODUCTS = [
   "price": 299,
   "capacityLine": "100 ml",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Mist / spray · ₹299/100ml",
+  "featureLine": "Toner · ₹299/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -97553,7 +99899,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹299/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -97643,7 +99989,7 @@ const NXPRODUCTS = [
   "price": 780,
   "capacityLine": "100 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · ₹780/100ml",
+  "featureLine": "Toner · ₹780/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -97659,7 +100005,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹780/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -97753,7 +100099,7 @@ const NXPRODUCTS = [
   "price": 269,
   "capacityLine": "200 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · ₹135/100ml",
+  "featureLine": "Toner · ₹135/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -97769,7 +100115,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "200 ml",
    "pricePer100": "₹135/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -97866,7 +100212,7 @@ const NXPRODUCTS = [
   "price": 199,
   "capacityLine": "100 ml",
   "materialLine": "Vitamin C + Aloe vera + Witch hazel",
-  "featureLine": "Mist / spray · Paraben-free · ₹199/100ml",
+  "featureLine": "Toner · Paraben-free · ₹199/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -97882,7 +100228,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹199/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Vitamin C, Aloe vera, Witch hazel, Lemon (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -97974,7 +100320,7 @@ const NXPRODUCTS = [
   "price": 149,
   "capacityLine": "200 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · Alcohol-free · ₹75/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹75/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -97990,7 +100336,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "200 ml",
    "pricePer100": "₹75/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -98085,7 +100431,7 @@ const NXPRODUCTS = [
   "price": 1350,
   "capacityLine": "Quantity not stated",
   "materialLine": "Magnesium + Thermal water",
-  "featureLine": "Mist / spray",
+  "featureLine": "Toner",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "Made by Laboratoires Dermatologiques d'Uriage (dermatology / pharma maker)"
@@ -98102,7 +100448,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Magnesium, Thermal water (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -98193,7 +100539,7 @@ const NXPRODUCTS = [
   "price": 139,
   "capacityLine": "100 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · ₹139/100ml",
+  "featureLine": "Toner · ₹139/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -98209,7 +100555,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹139/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -98310,7 +100656,7 @@ const NXPRODUCTS = [
   "price": 616,
   "capacityLine": "100 ml",
   "materialLine": "Collagen",
-  "featureLine": "Mist / spray · ₹616/100ml",
+  "featureLine": "Toner · ₹616/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -98326,7 +100672,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹616/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Collagen (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -98416,7 +100762,7 @@ const NXPRODUCTS = [
   "price": 253,
   "capacityLine": "100 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · ₹253/100ml",
+  "featureLine": "Toner · ₹253/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -98432,7 +100778,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹253/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -98527,7 +100873,7 @@ const NXPRODUCTS = [
   "price": 78,
   "capacityLine": "100 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · ₹78/100ml",
+  "featureLine": "Toner · ₹78/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -98544,7 +100890,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹78/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -98642,7 +100988,7 @@ const NXPRODUCTS = [
   "price": 179,
   "capacityLine": "200 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · Fragrance-free · ₹90/100ml",
+  "featureLine": "Toner · Fragrance-free · ₹90/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -98658,7 +101004,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "200 ml",
    "pricePer100": "₹90/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Fragrance-free, Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -98764,7 +101110,7 @@ const NXPRODUCTS = [
   "price": 248,
   "capacityLine": "500 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · ₹50/100ml",
+  "featureLine": "Toner · ₹50/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -98780,7 +101126,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "500 ml",
    "pricePer100": "₹50/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -98865,7 +101211,7 @@ const NXPRODUCTS = [
   "price": 249,
   "capacityLine": "200 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · ₹125/100ml",
+  "featureLine": "Toner · ₹125/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -98881,7 +101227,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "200 ml",
    "pricePer100": "₹125/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -98970,7 +101316,7 @@ const NXPRODUCTS = [
   "price": 80,
   "capacityLine": "100 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · Alcohol-free · ₹80/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹80/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -98986,7 +101332,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹80/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -99071,7 +101417,7 @@ const NXPRODUCTS = [
   "price": 299,
   "capacityLine": "120 ml",
   "materialLine": "Rose + Sea buckthorn",
-  "featureLine": "Mist / spray · Alcohol-free · ₹249/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹249/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -99088,7 +101434,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "120 ml",
    "pricePer100": "₹249/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose, Sea buckthorn (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -99696,7 +102042,7 @@ const NXPRODUCTS = [
   "price": 180,
   "capacityLine": "125 ml",
   "materialLine": "Vitamin C + Hyaluronic acid + Alpha arbutin",
-  "featureLine": "Mist / spray · Paraben-free · ₹144/100ml",
+  "featureLine": "Toner · Paraben-free · ₹144/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -99712,7 +102058,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "125 ml",
    "pricePer100": "₹144/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Vitamin C, Hyaluronic acid, Alpha arbutin, Glutathione (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -99812,7 +102158,7 @@ const NXPRODUCTS = [
   "price": 254,
   "capacityLine": "100 ml",
   "materialLine": "Cucumber",
-  "featureLine": "Mist / spray · ₹254/100ml",
+  "featureLine": "Toner · ₹254/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -99828,7 +102174,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹254/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Cucumber (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -99921,7 +102267,7 @@ const NXPRODUCTS = [
   "price": 449,
   "capacityLine": "100 ml",
   "materialLine": "Niacinamide + Hyaluronic acid",
-  "featureLine": "Mist / spray · Silicone-free · ₹449/100ml",
+  "featureLine": "Toner · Silicone-free · ₹449/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -99937,7 +102283,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹449/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Niacinamide, Hyaluronic acid (named on listing)",
    "freeFrom": "Silicone-free (seller claim — not scored)",
@@ -100037,7 +102383,7 @@ const NXPRODUCTS = [
   "price": 219,
   "capacityLine": "100 ml",
   "materialLine": "Vitamin C + Niacinamide + Cucumber",
-  "featureLine": "Mist / spray · Alcohol-free · ₹219/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹219/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -100053,7 +102399,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹219/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Vitamin C, Niacinamide, Cucumber (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -100153,7 +102499,7 @@ const NXPRODUCTS = [
   "price": 499,
   "capacityLine": "Quantity not stated",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · Alcohol-free",
+  "featureLine": "Toner · Alcohol-free",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -100169,7 +102515,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -100372,7 +102718,7 @@ const NXPRODUCTS = [
   "price": 315,
   "capacityLine": "120 ml",
   "materialLine": "Rice water",
-  "featureLine": "Mist / spray · ₹263/100ml",
+  "featureLine": "Toner · ₹263/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -100389,7 +102735,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "120 ml",
    "pricePer100": "₹263/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rice water (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -100484,7 +102830,7 @@ const NXPRODUCTS = [
   "model": "PDRN Anti-Pollution Mist Gel | Hydrating Mist Spray | Gel Texture for Skin Barrier Support…",
   "price": 649,
   "capacityLine": "100 ml",
-  "materialLine": "Ceramides + Honey",
+  "materialLine": "Ceramides + Honey + PDRN / polynucleotide",
   "featureLine": "Mist / spray · ₹649/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -100503,7 +102849,7 @@ const NXPRODUCTS = [
    "pricePer100": "₹649/100ml",
    "format": "Mist / spray",
    "appliesTo": "Not stated in listing",
-   "keyIngredients": "Ceramides, Honey (named on listing)",
+   "keyIngredients": "Ceramides, Honey, PDRN / polynucleotide (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
@@ -100538,6 +102884,7 @@ const NXPRODUCTS = [
    "format:wash",
    "ing:ceramides",
    "ing:honey",
+   "ing:pdrn-polynucleotide",
    "claim:oil-control",
    "claim:hydrating",
    "claim:barrier",
@@ -100595,7 +102942,7 @@ const NXPRODUCTS = [
   "price": 729,
   "capacityLine": "30 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · Alcohol-free · ₹2430/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹2430/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -100611,7 +102958,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "30 ml",
    "pricePer100": "₹2430/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -100707,7 +103054,7 @@ const NXPRODUCTS = [
   "price": 159,
   "capacityLine": "100 ml",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Mist / spray · ₹159/100ml",
+  "featureLine": "Micellar water · ₹159/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -100724,7 +103071,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹159/100ml",
-   "format": "Mist / spray",
+   "format": "Micellar water",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -100811,7 +103158,7 @@ const NXPRODUCTS = [
   "price": 149,
   "capacityLine": "100 ml",
   "materialLine": "Vitamin C",
-  "featureLine": "Mist / spray · ₹149/100ml",
+  "featureLine": "Toner · ₹149/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -100827,7 +103174,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹149/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Vitamin C (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -100921,7 +103268,7 @@ const NXPRODUCTS = [
   "price": 253,
   "capacityLine": "100 ml",
   "materialLine": "Vitamin C + Cucumber + Watermelon",
-  "featureLine": "Mist / spray · Alcohol-free · ₹253/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹253/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -100937,7 +103284,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹253/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Vitamin C, Cucumber, Watermelon (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -101249,7 +103596,7 @@ const NXPRODUCTS = [
   "price": 275,
   "capacityLine": "100 ml",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Mist / spray · ₹275/100ml",
+  "featureLine": "Toner · ₹275/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -101266,7 +103613,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹275/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -101361,7 +103708,7 @@ const NXPRODUCTS = [
   "price": 652,
   "capacityLine": "200 ml",
   "materialLine": "Sandalwood + Honey + Neem",
-  "featureLine": "Mist / spray · ₹326/100ml",
+  "featureLine": "Toner · ₹326/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -101378,7 +103725,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "200 ml",
    "pricePer100": "₹326/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Sandalwood, Honey, Neem (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -101686,7 +104033,7 @@ const NXPRODUCTS = [
   "price": 499,
   "capacityLine": "100 ml",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Mist / spray · ₹499/100ml",
+  "featureLine": "Toner · ₹499/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -101702,7 +104049,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹499/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -101795,7 +104142,7 @@ const NXPRODUCTS = [
   "price": 281,
   "capacityLine": "300 ml (pack of 3)",
   "materialLine": "Rose + Cucumber",
-  "featureLine": "Mist / spray · ₹94/100ml",
+  "featureLine": "Toner · ₹94/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -101811,7 +104158,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml × 3 pack",
    "pricePer100": "₹94/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose, Cucumber (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -102124,7 +104471,7 @@ const NXPRODUCTS = [
   "price": 380,
   "capacityLine": "30 ml",
   "materialLine": "Rice water + Saffron + Rose",
-  "featureLine": "Mist / spray · ₹1267/100ml",
+  "featureLine": "Toner · ₹1267/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -102141,7 +104488,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "30 ml",
    "pricePer100": "₹1267/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rice water, Saffron, Rose, Kumkumadi, Licorice, Witch hazel (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -102246,7 +104593,7 @@ const NXPRODUCTS = [
   "price": 399,
   "capacityLine": "215 ml",
   "materialLine": "Turmeric",
-  "featureLine": "Mist / spray · ₹186/100ml",
+  "featureLine": "Toner · ₹186/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -102262,7 +104609,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "215 ml",
    "pricePer100": "₹186/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Turmeric (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -102354,7 +104701,7 @@ const NXPRODUCTS = [
   "price": 210,
   "capacityLine": "100 ml",
   "materialLine": "Niacinamide + Aloe vera",
-  "featureLine": "Mist / spray · Alcohol-free · ₹210/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹210/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -102369,7 +104716,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹210/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Niacinamide, Aloe vera (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -102459,7 +104806,7 @@ const NXPRODUCTS = [
   "price": 512,
   "capacityLine": "50 ml",
   "materialLine": "Rose + Lavender",
-  "featureLine": "Mist / spray · Alcohol-free · ₹1024/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹1024/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -102475,7 +104822,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 ml",
    "pricePer100": "₹1024/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Rose, Lavender (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -102779,7 +105126,7 @@ const NXPRODUCTS = [
   "price": 469,
   "capacityLine": "240 ml (pack of 2)",
   "materialLine": "Rose + Sea buckthorn",
-  "featureLine": "Mist / spray · Alcohol-free · ₹195/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹195/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -102796,7 +105143,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "120 ml × 2 pack",
    "pricePer100": "₹195/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Rose, Sea buckthorn (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -102889,7 +105236,7 @@ const NXPRODUCTS = [
   "price": 299,
   "capacityLine": "120 ml",
   "materialLine": "Rose + Sea buckthorn",
-  "featureLine": "Mist / spray · Alcohol-free · ₹249/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹249/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -102906,7 +105253,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "120 ml",
    "pricePer100": "₹249/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose, Sea buckthorn (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -103002,7 +105349,7 @@ const NXPRODUCTS = [
   "price": 185,
   "capacityLine": "100 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · ₹185/100ml",
+  "featureLine": "Toner · ₹185/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -103018,7 +105365,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹185/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -103108,7 +105455,7 @@ const NXPRODUCTS = [
   "price": 149,
   "capacityLine": "200 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · ₹75/100ml",
+  "featureLine": "Toner · ₹75/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -103124,7 +105471,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "200 ml",
    "pricePer100": "₹75/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -103214,7 +105561,7 @@ const NXPRODUCTS = [
   "price": 229,
   "capacityLine": "220 ml",
   "materialLine": "Niacinamide + Aloe vera + Cucumber",
-  "featureLine": "Scrub · ₹104/100ml",
+  "featureLine": "Toner · ₹104/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -103230,7 +105577,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "220 ml",
    "pricePer100": "₹104/100ml",
-   "format": "Scrub",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Niacinamide, Aloe vera, Cucumber (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -103325,7 +105672,7 @@ const NXPRODUCTS = [
   "price": 349,
   "capacityLine": "120 ml",
   "materialLine": "Rose + Sea buckthorn",
-  "featureLine": "Mist / spray · Alcohol-free · ₹291/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹291/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -103342,7 +105689,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "120 ml",
    "pricePer100": "₹291/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose, Sea buckthorn (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -103435,7 +105782,7 @@ const NXPRODUCTS = [
   "price": 286,
   "capacityLine": "200 ml",
   "materialLine": "Tea tree",
-  "featureLine": "Mist / spray · Sulfate/SLS-free · ₹143/100ml",
+  "featureLine": "Toner · Sulfate/SLS-free · ₹143/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -103451,7 +105798,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "200 ml",
    "pricePer100": "₹143/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Tea tree (named on listing)",
    "freeFrom": "Sulfate/SLS-free (seller claim — not scored)",
@@ -103966,7 +106313,7 @@ const NXPRODUCTS = [
   "price": 750,
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Mist / spray",
+  "featureLine": "Toner",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -103981,7 +106328,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -104173,7 +106520,7 @@ const NXPRODUCTS = [
   "price": 160,
   "capacityLine": "100 ml",
   "materialLine": "Ceramides + Rice water",
-  "featureLine": "Mist / spray · ₹160/100ml",
+  "featureLine": "Toner · ₹160/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -104189,7 +106536,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹160/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Ceramides, Rice water (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -104286,7 +106633,7 @@ const NXPRODUCTS = [
   "price": 149,
   "capacityLine": "100 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · ₹149/100ml",
+  "featureLine": "Toner · ₹149/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -104302,7 +106649,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹149/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -104608,7 +106955,7 @@ const NXPRODUCTS = [
   "price": 199,
   "capacityLine": "100 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · ₹199/100ml",
+  "featureLine": "Toner · ₹199/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -104624,7 +106971,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹199/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -104826,7 +107173,7 @@ const NXPRODUCTS = [
   "price": 450,
   "capacityLine": "100 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · ₹450/100ml",
+  "featureLine": "Toner · ₹450/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -104843,7 +107190,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹450/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -104938,7 +107285,7 @@ const NXPRODUCTS = [
   "price": 369,
   "capacityLine": "200 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · Fragrance-free · ₹185/100ml",
+  "featureLine": "Toner · Fragrance-free · ₹185/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -104954,7 +107301,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "200 ml",
    "pricePer100": "₹185/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Fragrance-free (seller claim — not scored)",
@@ -105047,7 +107394,7 @@ const NXPRODUCTS = [
   "price": 210,
   "capacityLine": "500 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · ₹42/100ml",
+  "featureLine": "Toner · ₹42/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -105064,7 +107411,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "500 ml",
    "pricePer100": "₹42/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -105161,7 +107508,7 @@ const NXPRODUCTS = [
   "price": 299,
   "capacityLine": "1000 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹30/100ml",
+  "featureLine": "Toner · Paraben-free · ₹30/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -105177,7 +107524,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "1000 ml",
    "pricePer100": "₹30/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -105482,7 +107829,7 @@ const NXPRODUCTS = [
   "model": "Marine Jelly Mist | Lightweight, Ultra-Fine Facial Spray | Hydrating with PDRN & Triple Hy…",
   "price": 1399,
   "capacityLine": "Quantity not stated",
-  "materialLine": "Hyaluronic acid",
+  "materialLine": "Hyaluronic acid + PDRN / polynucleotide",
   "featureLine": "Mist / spray",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -105501,7 +107848,7 @@ const NXPRODUCTS = [
    "pricePer100": "Not stated in listing",
    "format": "Mist / spray",
    "appliesTo": "Face (per listing)",
-   "keyIngredients": "Hyaluronic acid (named on listing)",
+   "keyIngredients": "Hyaluronic acid, PDRN / polynucleotide (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Dermatologically tested (seller claim — not scored)",
    "nonComedogenic": "Not stated in listing",
@@ -105531,6 +107878,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:mist",
    "ing:hyaluronic-acid",
+   "ing:pdrn-polynucleotide",
    "claim:brightening",
    "claim:acne",
    "claim:oil-control",
@@ -105594,7 +107942,7 @@ const NXPRODUCTS = [
   "price": 209,
   "capacityLine": "100 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · ₹209/100ml",
+  "featureLine": "Toner · ₹209/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -105610,7 +107958,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹209/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -105815,7 +108163,7 @@ const NXPRODUCTS = [
   "price": 699,
   "capacityLine": "100 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · ₹699/100ml",
+  "featureLine": "Toner · ₹699/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -105831,7 +108179,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹699/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -105921,7 +108269,7 @@ const NXPRODUCTS = [
   "price": 204,
   "capacityLine": "200 ml (pack of 2)",
   "materialLine": "Aloe vera + Neem",
-  "featureLine": "Mist / spray · ₹102/100ml",
+  "featureLine": "Toner · ₹102/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -105937,7 +108285,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml × 2 pack",
    "pricePer100": "₹102/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Aloe vera, Neem (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -106034,7 +108382,7 @@ const NXPRODUCTS = [
   "price": 299,
   "capacityLine": "100 ml",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Mist / spray · Alcohol-free · ₹299/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹299/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -106050,7 +108398,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹299/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -106362,7 +108710,7 @@ const NXPRODUCTS = [
   "price": 299,
   "capacityLine": "100 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · Alcohol-free · ₹299/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹299/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -106378,7 +108726,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹299/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -106475,7 +108823,7 @@ const NXPRODUCTS = [
   "price": 349,
   "capacityLine": "110 ml",
   "materialLine": "Aloe vera + Rose + Honey",
-  "featureLine": "Mist / spray · ₹317/100ml",
+  "featureLine": "Toner · ₹317/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -106491,7 +108839,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "110 ml",
    "pricePer100": "₹317/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Aloe vera, Rose, Honey (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -106585,7 +108933,7 @@ const NXPRODUCTS = [
   "price": 529,
   "capacityLine": "50 ml",
   "materialLine": "Aloe vera + Rose",
-  "featureLine": "Mist / spray · ₹1058/100ml",
+  "featureLine": "Toner · ₹1058/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -106601,7 +108949,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 ml",
    "pricePer100": "₹1058/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Aloe vera, Rose (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -106696,7 +109044,7 @@ const NXPRODUCTS = [
   "price": 319,
   "capacityLine": "120 ml",
   "materialLine": "Rose + Sea buckthorn",
-  "featureLine": "Mist / spray · Alcohol-free · ₹266/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹266/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -106713,7 +109061,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "120 ml",
    "pricePer100": "₹266/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose, Sea buckthorn (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -106804,7 +109152,7 @@ const NXPRODUCTS = [
   "price": 349,
   "capacityLine": "240 ml (pack of 2)",
   "materialLine": "Rose + Sea buckthorn",
-  "featureLine": "Mist / spray · Alcohol-free · ₹145/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹145/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -106821,7 +109169,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "120 ml × 2 pack",
    "pricePer100": "₹145/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose, Sea buckthorn (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -106914,7 +109262,7 @@ const NXPRODUCTS = [
   "price": 449,
   "capacityLine": "240 ml (pack of 2)",
   "materialLine": "Rose + Sea buckthorn",
-  "featureLine": "Mist / spray · Alcohol-free · ₹187/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹187/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -106931,7 +109279,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "120 ml × 2 pack",
    "pricePer100": "₹187/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose, Sea buckthorn (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -107026,7 +109374,7 @@ const NXPRODUCTS = [
   "price": 119,
   "capacityLine": "100 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · Alcohol-free · ₹119/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹119/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -107042,7 +109390,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹119/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -107140,7 +109488,7 @@ const NXPRODUCTS = [
   "price": 500,
   "capacityLine": "100 ml",
   "materialLine": "Aloe vera + Rose + Glycerin",
-  "featureLine": "Mist / spray · ₹500/100ml",
+  "featureLine": "Toner · ₹500/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -107156,7 +109504,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹500/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Aloe vera, Rose, Glycerin (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -107353,7 +109701,7 @@ const NXPRODUCTS = [
   "price": 144,
   "capacityLine": "Quantity not stated",
   "materialLine": "Rice water",
-  "featureLine": "Mist / spray",
+  "featureLine": "Toner",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -107370,7 +109718,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rice water (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -107569,7 +109917,7 @@ const NXPRODUCTS = [
   "price": 639,
   "capacityLine": "100 ml",
   "materialLine": "Rose + Cucumber + Witch hazel",
-  "featureLine": "Mist / spray · Alcohol-free · ₹639/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹639/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -107585,7 +109933,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹639/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose, Cucumber, Witch hazel (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -107678,7 +110026,7 @@ const NXPRODUCTS = [
   "price": 229,
   "capacityLine": "300 ml (pack of 3)",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · Alcohol-free · ₹76/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹76/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -107694,7 +110042,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml × 3 pack",
    "pricePer100": "₹76/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -107793,7 +110141,7 @@ const NXPRODUCTS = [
   "price": 189,
   "capacityLine": "100 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · ₹189/100ml",
+  "featureLine": "Toner · ₹189/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -107809,7 +110157,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹189/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -108009,7 +110357,7 @@ const NXPRODUCTS = [
   "price": 292,
   "capacityLine": "100 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · Alcohol-free · ₹292/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹292/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -108025,7 +110373,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹292/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -108122,7 +110470,7 @@ const NXPRODUCTS = [
   "price": 189,
   "capacityLine": "500 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · ₹38/100ml",
+  "featureLine": "Toner · ₹38/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -108139,7 +110487,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "500 ml",
    "pricePer100": "₹38/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -108233,7 +110581,7 @@ const NXPRODUCTS = [
   "price": 225,
   "capacityLine": "200 ml",
   "materialLine": "Sandalwood + Rose + Clay",
-  "featureLine": "Mist / spray · Paraben-free · ₹113/100ml",
+  "featureLine": "Toner · Paraben-free · ₹113/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -108249,7 +110597,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "200 ml",
    "pricePer100": "₹113/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Sandalwood, Rose, Clay (named on listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -108465,7 +110813,7 @@ const NXPRODUCTS = [
   "price": 675,
   "capacityLine": "200 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · Alcohol-free · ₹338/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹338/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -108481,7 +110829,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "200 ml",
    "pricePer100": "₹338/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -108575,7 +110923,7 @@ const NXPRODUCTS = [
   "price": 499,
   "capacityLine": "200 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · ₹250/100ml",
+  "featureLine": "Toner · ₹250/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -108591,7 +110939,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "200 ml",
    "pricePer100": "₹250/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -108687,7 +111035,7 @@ const NXPRODUCTS = [
   "price": 399,
   "capacityLine": "200 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · Alcohol-free · ₹200/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹200/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -108703,7 +111051,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "200 ml",
    "pricePer100": "₹200/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -108795,7 +111143,7 @@ const NXPRODUCTS = [
   "price": 175,
   "capacityLine": "100 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹175/100ml",
+  "featureLine": "Toner · Paraben-free · ₹175/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -108811,7 +111159,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹175/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -108908,7 +111256,7 @@ const NXPRODUCTS = [
   "price": 270,
   "capacityLine": "100 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · ₹270/100ml",
+  "featureLine": "Toner · ₹270/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -108924,7 +111272,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹270/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -109012,7 +111360,7 @@ const NXPRODUCTS = [
   "price": 120,
   "capacityLine": "100 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · ₹120/100ml",
+  "featureLine": "Toner · ₹120/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -109028,7 +111376,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹120/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -109121,7 +111469,7 @@ const NXPRODUCTS = [
   "price": 110,
   "capacityLine": "Quantity not stated",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray",
+  "featureLine": "Toner",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -109138,7 +111486,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -109225,7 +111573,7 @@ const NXPRODUCTS = [
   "price": 180,
   "capacityLine": "1500 ml (pack of 3)",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · ₹12/100ml",
+  "featureLine": "Toner · ₹12/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -109242,7 +111590,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "500 ml × 3 pack",
    "pricePer100": "₹12/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -109743,7 +112091,7 @@ const NXPRODUCTS = [
   "price": 460,
   "capacityLine": "200 ml",
   "materialLine": "Saffron",
-  "featureLine": "Mist / spray · Alcohol-free · ₹230/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹230/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -109759,7 +112107,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "200 ml",
    "pricePer100": "₹230/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Saffron (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -109855,7 +112203,7 @@ const NXPRODUCTS = [
   "price": 325,
   "capacityLine": "Quantity not stated",
   "materialLine": "Hyaluronic acid + Witch hazel + Chamomile",
-  "featureLine": "Mist / spray · Alcohol-free",
+  "featureLine": "Toner · Alcohol-free",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -109871,7 +112219,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Hyaluronic acid, Witch hazel, Chamomile (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -109968,7 +112316,7 @@ const NXPRODUCTS = [
   "price": 1125,
   "capacityLine": "100 ml",
   "materialLine": "Rose + Witch hazel",
-  "featureLine": "Mist / spray · Alcohol-free · ₹1125/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹1125/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -109984,7 +112332,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹1125/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose, Witch hazel (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -110079,7 +112427,7 @@ const NXPRODUCTS = [
   "price": 399,
   "capacityLine": "100 ml",
   "materialLine": "Rice water + Aloe vera + Rose",
-  "featureLine": "Mist / spray · Alcohol-free · ₹399/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹399/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -110096,7 +112444,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹399/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rice water, Aloe vera, Rose, Licorice, Vitamin E, Vitamin B5 / panthenol (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -110199,7 +112547,7 @@ const NXPRODUCTS = [
   "price": 459,
   "capacityLine": "240 ml (pack of 2)",
   "materialLine": "Rose + Sea buckthorn",
-  "featureLine": "Mist / spray · Alcohol-free · ₹191/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹191/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -110216,7 +112564,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "120 ml × 2 pack",
    "pricePer100": "₹191/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose, Sea buckthorn (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -110743,7 +113091,7 @@ const NXPRODUCTS = [
   "price": 699,
   "capacityLine": "300 ml (pack of 3)",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · ₹233/100ml",
+  "featureLine": "Toner · ₹233/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -110760,7 +113108,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml × 3 pack",
    "pricePer100": "₹233/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -110851,7 +113199,7 @@ const NXPRODUCTS = [
   "price": 199,
   "capacityLine": "200 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · Alcohol-free · ₹100/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹100/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -110867,7 +113215,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "200 ml",
    "pricePer100": "₹100/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -110958,7 +113306,7 @@ const NXPRODUCTS = [
   "price": 399,
   "capacityLine": "100 ml",
   "materialLine": "Niacinamide + Rice water + Centella / cica",
-  "featureLine": "Mist / spray · ₹399/100ml",
+  "featureLine": "Toner · ₹399/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -110975,7 +113323,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹399/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Niacinamide, Rice water, Centella / cica, Vitamin E (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -111397,7 +113745,7 @@ const NXPRODUCTS = [
   "price": 606,
   "capacityLine": "200 ml",
   "materialLine": "Sandalwood + Honey + Neem",
-  "featureLine": "Mist / spray · ₹303/100ml",
+  "featureLine": "Toner · ₹303/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -111413,7 +113761,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "200 ml",
    "pricePer100": "₹303/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Sandalwood, Honey, Neem (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -111719,7 +114067,7 @@ const NXPRODUCTS = [
   "price": 151,
   "capacityLine": "100 ml",
   "materialLine": "Aloe vera + Rose + Vitamin E",
-  "featureLine": "Mist / spray · ₹151/100ml",
+  "featureLine": "Toner · ₹151/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -111736,7 +114084,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹151/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Aloe vera, Rose, Vitamin E, Glycerin (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -111833,7 +114181,7 @@ const NXPRODUCTS = [
   "price": 1299,
   "capacityLine": "100 ml",
   "materialLine": "Collagen + Avocado",
-  "featureLine": "Mist / spray · Alcohol-free · ₹1299/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹1299/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -111850,7 +114198,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹1299/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Collagen, Avocado (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -112068,7 +114416,7 @@ const NXPRODUCTS = [
   "price": 199,
   "capacityLine": "100 ml",
   "materialLine": "Rice water + Aloe vera + Sandalwood",
-  "featureLine": "Mist / spray · ₹199/100ml",
+  "featureLine": "Toner · ₹199/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -112085,7 +114433,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹199/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rice water, Aloe vera, Sandalwood, Glycerin (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -112395,7 +114743,7 @@ const NXPRODUCTS = [
   "price": 119,
   "capacityLine": "100 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · ₹119/100ml",
+  "featureLine": "Toner · ₹119/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -112412,7 +114760,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹119/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -112509,7 +114857,7 @@ const NXPRODUCTS = [
   "price": 197,
   "capacityLine": "120 ml",
   "materialLine": "Niacinamide + Green tea",
-  "featureLine": "Mist / spray · ₹164/100ml",
+  "featureLine": "Toner · ₹164/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -112525,7 +114873,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "120 ml",
    "pricePer100": "₹164/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Niacinamide, Green tea (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -112621,7 +114969,7 @@ const NXPRODUCTS = [
   "price": 349,
   "capacityLine": "120 ml",
   "materialLine": "Rose + Sea buckthorn",
-  "featureLine": "Mist / spray · Alcohol-free · ₹291/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹291/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -112638,7 +114986,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "120 ml",
    "pricePer100": "₹291/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose, Sea buckthorn (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -112733,7 +115081,7 @@ const NXPRODUCTS = [
   "price": 574,
   "capacityLine": "300 ml (pack of 3)",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹191/100ml",
+  "featureLine": "Toner · Paraben-free · ₹191/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -112749,7 +115097,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml × 3 pack",
    "pricePer100": "₹191/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -113200,7 +115548,7 @@ const NXPRODUCTS = [
   "price": 165,
   "capacityLine": "100 ml",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Mist / spray · Alcohol-free · ₹165/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹165/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -113215,7 +115563,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹165/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -113303,7 +115651,7 @@ const NXPRODUCTS = [
   "model": "PDRN Collagen Glow Facial Serum Spray with Hyaluronic Acid | Hydrating Face Mist, Dewy Gla…",
   "price": 2199,
   "capacityLine": "100 ml",
-  "materialLine": "Hyaluronic acid + Collagen",
+  "materialLine": "Hyaluronic acid + Collagen + PDRN / polynucleotide",
   "featureLine": "Mist / spray · ₹2199/100ml",
   "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (ANUA official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
@@ -113324,7 +115672,7 @@ const NXPRODUCTS = [
    "pricePer100": "₹2199/100ml",
    "format": "Mist / spray",
    "appliesTo": "Face (per listing)",
-   "keyIngredients": "Hyaluronic acid, Collagen (named on listing)",
+   "keyIngredients": "Hyaluronic acid, Collagen, PDRN / polynucleotide (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
@@ -113363,6 +115711,7 @@ const NXPRODUCTS = [
    "format:capsule",
    "ing:hyaluronic-acid",
    "ing:collagen",
+   "ing:pdrn-polynucleotide",
    "claim:brightening",
    "claim:hydrating",
    "claim:odour",
@@ -113409,6 +115758,14 @@ const NXPRODUCTS = [
      "core": true,
      "trace": false,
      "src": "panthenol"
+    },
+    {
+     "name": "sodium dna",
+     "grade": "B",
+     "position": 12,
+     "core": false,
+     "trace": false,
+     "src": "pdrn"
     },
     {
      "name": "allantoin",
@@ -113560,7 +115917,7 @@ const NXPRODUCTS = [
   "price": 189,
   "capacityLine": "1000 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹19/100ml",
+  "featureLine": "Toner · Paraben-free · ₹19/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -113576,7 +115933,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "1000 ml",
    "pricePer100": "₹19/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -113668,7 +116025,7 @@ const NXPRODUCTS = [
   "price": 1080,
   "capacityLine": "Quantity not stated",
   "materialLine": "Magnesium + Thermal water",
-  "featureLine": "Mist / spray",
+  "featureLine": "Toner",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "Made by Laboratoires Dermatologiques d'Uriage (dermatology / pharma maker)"
@@ -113685,7 +116042,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Magnesium, Thermal water (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -113776,7 +116133,7 @@ const NXPRODUCTS = [
   "price": 1900,
   "capacityLine": "30 ml",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Mist / spray · ₹6333/100ml",
+  "featureLine": "Toner · ₹6333/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -113792,7 +116149,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "30 ml",
    "pricePer100": "₹6333/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -113981,7 +116338,7 @@ const NXPRODUCTS = [
   "price": 339,
   "capacityLine": "100 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · ₹339/100ml",
+  "featureLine": "Toner · ₹339/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -113997,7 +116354,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹339/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -114090,7 +116447,7 @@ const NXPRODUCTS = [
   "price": 349,
   "capacityLine": "100 ml",
   "materialLine": "Rice water",
-  "featureLine": "Mist / spray · ₹349/100ml",
+  "featureLine": "Toner · ₹349/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -114106,7 +116463,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹349/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rice water (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -114423,7 +116780,7 @@ const NXPRODUCTS = [
   "price": 405,
   "capacityLine": "200 ml (pack of 2)",
   "materialLine": "Niacinamide + Rice water + Aloe vera",
-  "featureLine": "Mist / spray · Alcohol-free · ₹203/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹203/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -114440,7 +116797,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml × 2 pack",
    "pricePer100": "₹203/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Niacinamide, Rice water, Aloe vera, Vitamin B5 / panthenol (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -114540,7 +116897,7 @@ const NXPRODUCTS = [
   "price": 299,
   "capacityLine": "100 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · ₹299/100ml",
+  "featureLine": "Toner · ₹299/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -114557,7 +116914,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹299/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -114649,7 +117006,7 @@ const NXPRODUCTS = [
   "price": 298,
   "capacityLine": "1000 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · ₹30/100ml",
+  "featureLine": "Toner · ₹30/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -114666,7 +117023,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "1000 ml",
    "pricePer100": "₹30/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -114767,7 +117124,7 @@ const NXPRODUCTS = [
   "price": 359,
   "capacityLine": "100 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · Alcohol-free · ₹359/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹359/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -114784,7 +117141,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹359/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -114882,7 +117239,7 @@ const NXPRODUCTS = [
   "price": 269,
   "capacityLine": "150 ml",
   "materialLine": "Niacinamide + Rice water",
-  "featureLine": "Mist / spray · Alcohol-free · ₹179/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹179/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -114898,7 +117255,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "150 ml",
    "pricePer100": "₹179/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Niacinamide, Rice water (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -115106,7 +117463,7 @@ const NXPRODUCTS = [
   "price": 199,
   "capacityLine": "100 ml",
   "materialLine": "Vitamin C + Aloe vera + Glycerin",
-  "featureLine": "Mist / spray · Alcohol-free · ₹199/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹199/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -115122,7 +117479,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹199/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Vitamin C, Aloe vera, Glycerin (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -115223,7 +117580,7 @@ const NXPRODUCTS = [
   "price": 289,
   "capacityLine": "100 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · Alcohol-free · ₹289/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹289/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -115240,7 +117597,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹289/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -115338,7 +117695,7 @@ const NXPRODUCTS = [
   "price": 485,
   "capacityLine": "50 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · Alcohol-free · ₹970/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹970/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -115354,7 +117711,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 ml",
    "pricePer100": "₹970/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -115448,7 +117805,7 @@ const NXPRODUCTS = [
   "price": 219,
   "capacityLine": "100 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · ₹219/100ml",
+  "featureLine": "Toner · ₹219/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -115465,7 +117822,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹219/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -115661,7 +118018,7 @@ const NXPRODUCTS = [
   "price": 249,
   "capacityLine": "100 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · ₹249/100ml",
+  "featureLine": "Toner · ₹249/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -115678,7 +118035,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹249/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -115771,7 +118128,7 @@ const NXPRODUCTS = [
   "price": 119,
   "capacityLine": "100 g",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · ₹119/100g",
+  "featureLine": "Toner · ₹119/100g",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -115788,7 +118145,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 g",
    "pricePer100": "₹119/100g",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -115878,7 +118235,7 @@ const NXPRODUCTS = [
   "price": 349,
   "capacityLine": "120 ml",
   "materialLine": "Rose + Sea buckthorn",
-  "featureLine": "Mist / spray · Alcohol-free · ₹291/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹291/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -115895,7 +118252,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "120 ml",
    "pricePer100": "₹291/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose, Sea buckthorn (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -115988,7 +118345,7 @@ const NXPRODUCTS = [
   "price": 349,
   "capacityLine": "120 ml",
   "materialLine": "Rose + Sea buckthorn",
-  "featureLine": "Mist / spray · Alcohol-free · ₹291/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹291/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -116005,7 +118362,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "120 ml",
    "pricePer100": "₹291/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose, Sea buckthorn (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -116096,7 +118453,7 @@ const NXPRODUCTS = [
   "price": 469,
   "capacityLine": "240 ml (pack of 2)",
   "materialLine": "Rose + Sea buckthorn",
-  "featureLine": "Mist / spray · Alcohol-free · ₹195/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹195/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -116113,7 +118470,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "120 ml × 2 pack",
    "pricePer100": "₹195/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose, Sea buckthorn (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -116209,7 +118566,7 @@ const NXPRODUCTS = [
   "price": 499,
   "capacityLine": "240 ml (pack of 2)",
   "materialLine": "Rose + Sea buckthorn",
-  "featureLine": "Mist / spray · Alcohol-free · ₹208/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹208/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -116226,7 +118583,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "120 ml × 2 pack",
    "pricePer100": "₹208/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose, Sea buckthorn (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -116439,7 +118796,7 @@ const NXPRODUCTS = [
   "price": 479,
   "capacityLine": "100 ml",
   "materialLine": "Vitamin C + Hyaluronic acid + Beetroot",
-  "featureLine": "Mist / spray · ₹479/100ml",
+  "featureLine": "Toner · ₹479/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -116455,7 +118812,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹479/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Vitamin C, Hyaluronic acid, Beetroot, Lavender (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -116556,7 +118913,7 @@ const NXPRODUCTS = [
   "price": 299,
   "capacityLine": "100 ml",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Mist / spray · Alcohol-free · ₹299/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹299/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -116572,7 +118929,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹299/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -116664,7 +119021,7 @@ const NXPRODUCTS = [
   "price": 199,
   "capacityLine": "100 ml",
   "materialLine": "Aloe vera + Rose",
-  "featureLine": "Mist / spray · ₹199/100ml",
+  "featureLine": "Toner · ₹199/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -116680,7 +119037,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹199/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Aloe vera, Rose (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -116772,7 +119129,7 @@ const NXPRODUCTS = [
   "price": 349,
   "capacityLine": "110 ml",
   "materialLine": "Niacinamide + Rose + Witch hazel",
-  "featureLine": "Mist / spray · Alcohol-free · ₹317/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹317/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -116788,7 +119145,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "110 ml",
    "pricePer100": "₹317/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Niacinamide, Rose, Witch hazel (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -116889,7 +119246,7 @@ const NXPRODUCTS = [
   "price": 299,
   "capacityLine": "100 ml",
   "materialLine": "Aloe vera + Turmeric + Rose",
-  "featureLine": "Mist / spray · Alcohol-free · ₹299/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹299/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -116905,7 +119262,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹299/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Aloe vera, Turmeric, Rose, Cucumber, Neem (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -117125,7 +119482,7 @@ const NXPRODUCTS = [
   "price": 299,
   "capacityLine": "210 ml",
   "materialLine": "Rose + Glycerin",
-  "featureLine": "Mist / spray · ₹142/100ml",
+  "featureLine": "Toner · ₹142/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -117142,7 +119499,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "210 ml",
    "pricePer100": "₹142/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Rose, Glycerin (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -117232,7 +119589,7 @@ const NXPRODUCTS = [
   "price": 199,
   "capacityLine": "200 ml (pack of 2)",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · Alcohol-free · ₹100/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹100/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -117248,7 +119605,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml × 2 pack",
    "pricePer100": "₹100/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -117460,7 +119817,7 @@ const NXPRODUCTS = [
   "price": 501,
   "capacityLine": "100 ml",
   "materialLine": "Hyaluronic acid + Ceramides + Green tea",
-  "featureLine": "Mist / spray · ₹501/100ml",
+  "featureLine": "Toner · ₹501/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -117476,7 +119833,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹501/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Hyaluronic acid, Ceramides, Green tea, Centella / cica, Aloe vera, Witch hazel, Chamomile, Lavender, Calendula (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -117698,7 +120055,7 @@ const NXPRODUCTS = [
   "price": 542,
   "capacityLine": "300 ml (pack of 3)",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · ₹181/100ml",
+  "featureLine": "Toner · ₹181/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -117713,7 +120070,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml × 3 pack",
    "pricePer100": "₹181/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -117814,7 +120171,7 @@ const NXPRODUCTS = [
   "price": 331,
   "capacityLine": "100 ml",
   "materialLine": "Rose + Mineral oil",
-  "featureLine": "Mist / spray · ₹331/100ml",
+  "featureLine": "Toner · ₹331/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -117830,7 +120187,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹331/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose, Mineral oil (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -117922,7 +120279,7 @@ const NXPRODUCTS = [
   "price": 249,
   "capacityLine": "50 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · ₹498/100ml",
+  "featureLine": "Toner · ₹498/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -117938,7 +120295,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 ml",
    "pricePer100": "₹498/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -118032,7 +120389,7 @@ const NXPRODUCTS = [
   "price": 175,
   "capacityLine": "100 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · ₹175/100ml",
+  "featureLine": "Toner · ₹175/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -118048,7 +120405,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹175/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -118138,7 +120495,7 @@ const NXPRODUCTS = [
   "price": 249,
   "capacityLine": "200 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · Alcohol-free · ₹125/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹125/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -118154,7 +120511,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "200 ml",
    "pricePer100": "₹125/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -118247,7 +120604,7 @@ const NXPRODUCTS = [
   "price": 230,
   "capacityLine": "210 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · Alcohol-free · ₹110/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹110/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -118262,13 +120619,13 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "210 ml",
    "pricePer100": "₹110/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening / glow, Acne / pimples, Pores / blackheads, Hydrating / moisturizing, Ayurvedic / herbal, Cooling / refreshing (seller claim — not clinical proof)",
+   "benefit": "Brightening / glow, Acne / pimples, Pores / blackheads, Hydrating / moisturizing, Ayurvedic / herbal, Cooling / refreshing, Razor burn / post-shave soothing (seller claim — not clinical proof)",
    "skinType": "All skin types",
    "audience": "Unisex / not stated",
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
@@ -118294,6 +120651,7 @@ const NXPRODUCTS = [
    "format:lotion",
    "format:toner",
    "format:mist",
+   "format:aftershave",
    "ing:rose",
    "claim:brightening",
    "claim:acne",
@@ -118301,6 +120659,7 @@ const NXPRODUCTS = [
    "claim:hydrating",
    "claim:ayurvedic",
    "claim:cooling",
+   "claim:razor-burn",
    "skin:all",
    "free:alcohol",
    "aud:unisex",
@@ -118353,7 +120712,7 @@ const NXPRODUCTS = [
   "price": 299,
   "capacityLine": "200 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · Alcohol-free · ₹150/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹150/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -118369,7 +120728,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "200 ml",
    "pricePer100": "₹150/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -118459,7 +120818,7 @@ const NXPRODUCTS = [
   "price": 110,
   "capacityLine": "Quantity not stated",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray",
+  "featureLine": "Toner",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -118476,7 +120835,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -118562,7 +120921,7 @@ const NXPRODUCTS = [
   "price": 359,
   "capacityLine": "1000 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · ₹36/100ml",
+  "featureLine": "Toner · ₹36/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -118579,7 +120938,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "1000 ml",
    "pricePer100": "₹36/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -118976,7 +121335,7 @@ const NXPRODUCTS = [
   "price": 169,
   "capacityLine": "120 ml",
   "materialLine": "Vitamin C + Niacinamide + Lactic acid",
-  "featureLine": "Mist / spray · ₹141/100ml",
+  "featureLine": "Toner · ₹141/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -118992,7 +121351,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "120 ml",
    "pricePer100": "₹141/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Vitamin C, Niacinamide, Lactic acid (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -119095,7 +121454,7 @@ const NXPRODUCTS = [
   "price": 199,
   "capacityLine": "100 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · Alcohol-free · ₹199/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹199/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -119111,7 +121470,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹199/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -119203,7 +121562,7 @@ const NXPRODUCTS = [
   "price": 999,
   "capacityLine": "150 ml",
   "materialLine": "Aloe vera + Rose + Honey",
-  "featureLine": "Mist / spray · Paraben-free · ₹666/100ml",
+  "featureLine": "Toner · Paraben-free · ₹666/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -119220,7 +121579,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "150 ml",
    "pricePer100": "₹666/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Aloe vera, Rose, Honey, Cucumber, Coconut (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -119318,7 +121677,7 @@ const NXPRODUCTS = [
   "price": 319,
   "capacityLine": "100 ml",
   "materialLine": "Hyaluronic acid + Aloe vera",
-  "featureLine": "Mist / spray · ₹319/100ml",
+  "featureLine": "Toner · ₹319/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -119335,7 +121694,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹319/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Hyaluronic acid, Aloe vera (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -119439,7 +121798,7 @@ const NXPRODUCTS = [
   "price": 345,
   "capacityLine": "50 ml",
   "materialLine": "Rice water + Argan oil + Cherry / acerola",
-  "featureLine": "Mist / spray · ₹690/100ml",
+  "featureLine": "Toner · ₹690/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -119455,7 +121814,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 ml",
    "pricePer100": "₹690/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rice water, Argan oil, Cherry / acerola (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -119774,7 +122133,7 @@ const NXPRODUCTS = [
   "price": 399,
   "capacityLine": "100 ml",
   "materialLine": "Vitamin C + Hyaluronic acid",
-  "featureLine": "Mist / spray · ₹399/100ml",
+  "featureLine": "Toner · ₹399/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -119790,7 +122149,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹399/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Vitamin C, Hyaluronic acid (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -119985,7 +122344,7 @@ const NXPRODUCTS = [
   "price": 238,
   "capacityLine": "Quantity not stated",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray",
+  "featureLine": "Toner",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -120002,7 +122361,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -120100,7 +122459,7 @@ const NXPRODUCTS = [
   "price": 299,
   "capacityLine": "200 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · ₹150/100ml",
+  "featureLine": "Toner · ₹150/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -120117,7 +122476,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "200 ml",
    "pricePer100": "₹150/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -120311,7 +122670,7 @@ const NXPRODUCTS = [
   "price": 349,
   "capacityLine": "200 ml",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Mist / spray · Paraben-free · ₹175/100ml",
+  "featureLine": "Toner · Paraben-free · ₹175/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -120327,7 +122686,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "200 ml",
    "pricePer100": "₹175/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -121072,7 +123431,7 @@ const NXPRODUCTS = [
   "price": 199,
   "capacityLine": "100 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · ₹199/100ml",
+  "featureLine": "Toner · ₹199/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -121089,7 +123448,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹199/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -121280,7 +123639,7 @@ const NXPRODUCTS = [
   "price": 270,
   "capacityLine": "400 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · ₹68/100ml",
+  "featureLine": "Toner · ₹68/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -121297,7 +123656,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "400 ml",
    "pricePer100": "₹68/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -121392,7 +123751,7 @@ const NXPRODUCTS = [
   "price": 300,
   "capacityLine": "100 ml",
   "materialLine": "Green tea + Zinc",
-  "featureLine": "Mist / spray · ₹300/100ml",
+  "featureLine": "Toner · ₹300/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -121408,7 +123767,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹300/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Not stated in listing",
    "keyIngredients": "Green tea, Zinc (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -122057,7 +124416,7 @@ const NXPRODUCTS = [
   "price": 120,
   "capacityLine": "500 ml",
   "materialLine": "Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹24/100ml",
+  "featureLine": "Toner · Paraben-free · ₹24/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -122073,7 +124432,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "500 ml",
    "pricePer100": "₹24/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face + body (per listing)",
    "keyIngredients": "Rose (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -122165,7 +124524,7 @@ const NXPRODUCTS = [
   "price": 229,
   "capacityLine": "200 ml (pack of 2)",
   "materialLine": "Niacinamide + Rose + Glycerin",
-  "featureLine": "Mist / spray · ₹115/100ml",
+  "featureLine": "Toner · ₹115/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -122182,7 +124541,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml × 2 pack",
    "pricePer100": "₹115/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Niacinamide, Rose, Glycerin (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -122274,7 +124633,7 @@ const NXPRODUCTS = [
   "price": 244,
   "capacityLine": "100 ml",
   "materialLine": "Niacinamide + Rose + Witch hazel",
-  "featureLine": "Mist / spray · Alcohol-free · ₹244/100ml",
+  "featureLine": "Toner · Alcohol-free · ₹244/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -122290,7 +124649,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹244/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Niacinamide, Rose, Witch hazel (named on listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -122614,7 +124973,7 @@ const NXPRODUCTS = [
   "price": 155,
   "capacityLine": "100 ml",
   "materialLine": "Aloe vera + Neem + Glycerin",
-  "featureLine": "Mist / spray · ₹155/100ml",
+  "featureLine": "Toner · ₹155/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -122630,7 +124989,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹155/100ml",
-   "format": "Mist / spray",
+   "format": "Toner",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Aloe vera, Neem, Glycerin (named on listing)",
    "freeFrom": "Not stated in listing",

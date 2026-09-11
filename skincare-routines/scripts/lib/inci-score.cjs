@@ -17,11 +17,12 @@ const HYDRATION = new Set(['hydratingcream', 'hydratingserum']);
 // Sheet masks, depilatory creams and scalp scrubs are on the skin for minutes and rinsed / peeled off; keratin kits are
 // sealed into the hair and beard products are mostly leave-on oils / balms — those keep the stricter leave-on default.
 const RINSE_OFF = new Set(['facewash', 'bodywash', 'exfoliator', 'facemask', 'shampoo', 'antidandruff', 'conditioner', 'hairmask',
-  'bodyscrub', 'intimatewash', 'hairremoval', 'scalpscrub']);
+  'bodyscrub', 'intimatewash', 'hairremoval', 'scalpscrub', 'cleansingbalm', 'soap']);
 const FACE = new Set(['facewash', 'toner', 'essence', 'vitaminc', 'niacinamide', 'retinol', 'exfoliator', 'salicylic',
   'moisturizer', 'sunscreen', 'facemask', 'eyecream', 'faceoil', 'detan', 'pigmentation',
-  'acnespot', 'facemist', 'barriercream', 'peptideserum', 'azelaic', 'sheetmask', 'calmserum']);
-const WASH = new Set(['facewash', 'bodywash', 'shampoo', 'antidandruff', 'intimatewash', 'beard']);
+  'acnespot', 'facemist', 'barriercream', 'peptideserum', 'azelaic', 'sheetmask', 'calmserum',
+  'hyaluronic', 'nadnmn', 'pdrn', 'txa', 'lactic', 'benzoyl', 'cleansingbalm', 'lipbalm', 'shaving']);
+const WASH = new Set(['facewash', 'bodywash', 'shampoo', 'antidandruff', 'intimatewash', 'beard', 'cleansingbalm', 'soap']);
 const UVA_FILTERS = new Set(['zinc oxide', 'butyl methoxydibenzoylmethane', 'avobenzone', 'bis-ethylhexyloxyphenol methoxyphenyl triazine',
   'methylene bis-benzotriazolyl tetramethylbutylphenol', 'diethylamino hydroxybenzoyl hexyl benzoate', 'terephthalylidene dicamphor sulfonic acid',
   'drometrizole trisiloxane', 'methoxypropylamino cyclohexenylidene ethoxyethylcyanoacetate', 'tris-biphenyl triazine']);

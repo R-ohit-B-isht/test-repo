@@ -68,7 +68,7 @@ const HAIR_FORMATS = [
 ];
 /** Skincare formats that never describe a hair product (a hair "clay" is a styler, not a mud mask). */
 const SKIN_ONLY_FORMATS = new Set(['sheet-mask', 'clay-mask', 'peel-off', 'sleeping-mask', 'pack', 'micellar', 'patch', 'pads', 'peel', 'bar', 'capsule',
-  'wax-strip', 'depilatory', 'body-wax', 'foot-peel', 'aerosol']);
+  'wax-strip', 'depilatory', 'body-wax', 'foot-peel', 'aerosol', 'aftershave', 'shave-cream', 'lip-mask', 'cleansing-oil']);
 const SKIN_ONLY_INGREDIENTS = new Set(['clay']);
 
 // Hair-relevant ingredients named on listings, on top of the shared skincare list.
@@ -168,9 +168,13 @@ const FORMATS = [
   ['kit', 'Kit / combo / multipack', /\bkit\b|\bcombo\b|pack\s*of\s*\d|\bset\b/],
   ['wax-strip', 'Wax strips', /wax\s*strips?|strips?\s*wax|cold\s*wax\s*strips?|ready[\s-]*to[\s-]*use\s*wax/],
   ['depilatory', 'Hair-removal cream / spray', /hair\s*remov(?:al|ing|er)\s*(?:cream|lotion|spray|gel|foam|mousse)|depilator|hair\s*removal\s*cream/],
-  ['body-wax', 'Body wax (hot / cold / sugar)', /\bwax\b(?![\s-]*strips?)|\bwaxing\b/],
+  ['body-wax', 'Body wax (hot / cold / sugar)', /(?<!bees\s)(?<!soy\s)(?<!candelilla\s)(?<!petroleum\s)(?<!paraffin\s)(?<!no\s)\bwax\b(?![\s-]*(?:strips?|free))|\bwaxing\b/],
   ['foot-peel', 'Foot peel mask / socks', /foot\s*(?:peel|mask)|peel(?:ing)?\s*socks?|exfoliating\s*socks?/],
   ['aerosol', 'Aerosol / body spray', /aerosol|body\s*spray|deo\s*spray|deodorant\s*spray|\bdeo\b/],
+  ['aftershave', 'After-shave', /after[\s-]*shave/],
+  ['shave-cream', 'Shaving cream / foam / gel', /shav(?:e|ing)\s*(?:cream|foam|gel|mousse|soap|butter)|pre[\s-]*shave/],
+  ['lip-mask', 'Lip mask', /lip\s*(?:sleeping\s*)?mask/],
+  ['cleansing-oil', 'Cleansing oil / balm', /cleansing\s*(?:oil|balm)|(?:oil|balm)\s*cleanser|makeup\s*(?:remov\w+|melt\w*)\s*(?:oil|balm)/],
 ];
 
 const INGREDIENTS = [
@@ -204,6 +208,8 @@ const INGREDIENTS = [
   ['Matrixyl', /matrixyl/], ['Argireline', /argireline|acetyl\s*hexapeptide/], ['Thermal water', /thermal\s*(?:spring\s*)?water/],
   ['Sugar', /\bsugar\b|sucrose/], ['Sea salt', /sea\s*salt|epsom|dead\s*sea|himalayan\s*salt/], ['Apricot', /apricot/], ['Pumice', /pumice/],
   ['Chamomile', /chamomile|bisabolol/], ['Lavender', /lavender/], ['Calendula', /calendula/], ['Bio-oil (PurCellin)', /purcellin/],
+  ['NAD+ / NMN', /\bnad\s*\+|\bnad\b|\bnmn\b|nicotinamide\s*(?:mononucleotide|riboside)/], ['PDRN / polynucleotide', /\bpdrn\b|polynucleotide|polydeoxyribonucleotide|salmon\s*dna|\bsodium\s*dna\b/],
+  ['Exosomes', /exosome/], ['Polyglutamic acid', /polyglutamic|\bpga\b/], ['Beeswax', /beeswax|cera\s*alba/], ['Menthol', /menthol/],
 ];
 
 const CLAIMS = [
@@ -244,6 +250,9 @@ const CLAIMS = [
   ['painless', 'Painless / gentle (claim)', /pain[\s-]*less|pain[\s-]*free|no\s*pain/],
   ['cooling', 'Cooling / refreshing', /cooling|refresh/],
   ['makeup', 'Makeup-related (setting / priming / removing)', /makeup|make[\s-]*up|primer/],
+  ['chapped-lips', 'Chapped / dark lips', /chapped|dark\s*lips|lip\s*(?:pigment|lighten|brighten)|lip\s*repair/],
+  ['razor-burn', 'Razor burn / post-shave soothing', /razor\s*burn|after[\s-]*shave|post[\s-]*shave|shaving\s*(?:cuts?|rash|irritation)/],
+  ['waterproof-makeup', 'Removes waterproof / long-wear makeup', /water[\s-]*proof\s*(?:makeup|mascara)|long[\s-]*wear|heavy\s*makeup/],
 ];
 
 const FREE = [

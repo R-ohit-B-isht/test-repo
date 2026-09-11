@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-07.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-11.
 // Unknown fields are honestly marked, never invented.
 const NXPRODUCTS = [
  {
@@ -3990,7 +3990,7 @@ const NXPRODUCTS = [
   "price": 254,
   "capacityLine": "100 ml",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Mist / spray · Paraben-free · ₹254/100ml",
+  "featureLine": "Other · Paraben-free · ₹254/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "Well-reviewed: 4.8★ from 28 ratings"
@@ -4008,7 +4008,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹254/100ml",
-   "format": "Mist / spray",
+   "format": "Other",
    "appliesTo": "Not stated in listing",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -6609,7 +6609,7 @@ const NXPRODUCTS = [
   "price": 323,
   "capacityLine": "Quantity not stated",
   "materialLine": "Neem",
-  "featureLine": "Oil",
+  "featureLine": "Other",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -6626,7 +6626,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Oil",
+   "format": "Other",
    "appliesTo": "Not stated in listing",
    "keyIngredients": "Neem (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -6822,7 +6822,7 @@ const NXPRODUCTS = [
   "price": 1067,
   "capacityLine": "Quantity not stated",
   "materialLine": "Gold + Dimethicone / silicones",
-  "featureLine": "Scalp scrub",
+  "featureLine": "Other",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -6839,7 +6839,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Scalp scrub",
+   "format": "Other",
    "appliesTo": "Scalp (per listing)",
    "keyIngredients": "Gold, Dimethicone / silicones (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -7027,7 +7027,7 @@ const NXPRODUCTS = [
   "price": 338,
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Kit",
+  "featureLine": "Other",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -7044,7 +7044,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Kit",
+   "format": "Other",
    "appliesTo": "Scalp + lengths (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -7342,7 +7342,7 @@ const NXPRODUCTS = [
   "price": 292,
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Kit",
+  "featureLine": "Other",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -7359,7 +7359,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Kit",
+   "format": "Other",
    "appliesTo": "Scalp + lengths (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -7450,7 +7450,7 @@ const NXPRODUCTS = [
   "price": 341,
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Kit",
+  "featureLine": "Other",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -7467,7 +7467,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Kit",
+   "format": "Other",
    "appliesTo": "Scalp + lengths (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -7657,7 +7657,7 @@ const NXPRODUCTS = [
   "price": 341,
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Kit",
+  "featureLine": "Other",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -7674,7 +7674,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Kit",
+   "format": "Other",
    "appliesTo": "Scalp + lengths (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -9589,7 +9589,7 @@ const NXPRODUCTS = [
  },
  {
   "id": "cantu-b084rcf2vr",
-  "brand": "Cantu",
+  "brand": "CANTU",
   "model": "Avocado Hydrating Repair Leave-In Conditioning Cream, 12 Ounce",
   "price": 936,
   "capacityLine": "Quantity not stated",
@@ -10106,7 +10106,7 @@ const NXPRODUCTS = [
  },
  {
   "id": "cantu-b01ltiau8s",
-  "brand": "Cantu",
+  "brand": "CANTU",
   "model": "Shea Butter Men's Collection Leave In Conditioner, 370 ml",
   "price": 2345,
   "capacityLine": "370 ml",
@@ -10210,7 +10210,7 @@ const NXPRODUCTS = [
  },
  {
   "id": "cantu-b01ltiau6u",
-  "brand": "Cantu",
+  "brand": "CANTU",
   "model": "Shea Butter for Natural Hair Leave In Conditioning Repair Cream, 340 g",
   "price": 1197,
   "capacityLine": "340 g",
@@ -10980,7 +10980,7 @@ const NXPRODUCTS = [
  },
  {
   "id": "cantu-b019efq5s2",
-  "brand": "Cantu",
+  "brand": "CANTU",
   "model": "Shea Butter Leave-In Conditioning Mist 8oz (2 Pack)",
   "price": 4244,
   "capacityLine": "Quantity not stated",
@@ -12137,7 +12137,7 @@ const NXPRODUCTS = [
  },
  {
   "id": "cantu-b0166ybddq",
-  "brand": "Cantu",
+  "brand": "CANTU",
   "model": "Detangler Shea Butter Coil Calm Spray, 230 ml",
   "price": 998,
   "capacityLine": "230 ml",
@@ -12560,7 +12560,7 @@ const NXPRODUCTS = [
  },
  {
   "id": "cantu-b079ywx1vl",
-  "brand": "Cantu",
+  "brand": "CANTU",
   "model": "Cantu Care for Kids Nourishing Shampoo & Conditioner & Leave-in Conditioner\"Set\"",
   "price": 5099,
   "capacityLine": "Quantity not stated",
@@ -12667,7 +12667,7 @@ const NXPRODUCTS = [
   "price": 2863,
   "capacityLine": "Quantity not stated",
   "materialLine": "Lemon + Rosemary + Dimethicone / silicones",
-  "featureLine": "Leave-in conditioner",
+  "featureLine": "Other",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -12683,7 +12683,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Leave-in conditioner",
+   "format": "Other",
    "appliesTo": "Not stated in listing",
    "keyIngredients": "Lemon, Rosemary, Dimethicone / silicones (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -12773,7 +12773,7 @@ const NXPRODUCTS = [
  },
  {
   "id": "cantu-b01iaenc84",
-  "brand": "Cantu",
+  "brand": "CANTU",
   "model": "Argan Oil Leave-In Conditioning Repair Cream, 16 oz (Pack of 4)",
   "price": 6779,
   "capacityLine": "Quantity not stated",
@@ -17193,7 +17193,7 @@ const NXPRODUCTS = [
  },
  {
   "id": "cantu-b018usxgsg",
-  "brand": "Cantu",
+  "brand": "CANTU",
   "model": "Shea Butter Leave-In Conditioning Lotion 10oz (3 Pack)",
   "price": 2899,
   "capacityLine": "Quantity not stated",
@@ -17407,7 +17407,7 @@ const NXPRODUCTS = [
  },
  {
   "id": "cantu-b01ltiauga",
-  "brand": "Cantu",
+  "brand": "CANTU",
   "model": "Coil Calm Detangler, 230 ml",
   "price": 990,
   "capacityLine": "230 ml",
@@ -21197,12 +21197,12 @@ const NXPRODUCTS = [
  },
  {
   "id": "cantu-b01ltiauem",
-  "brand": "Cantu",
+  "brand": "CANTU",
   "model": "Care for Kids Conditioning Detangler",
   "price": 1299,
   "capacityLine": "Quantity not stated",
   "materialLine": "Honey + Shea butter + Coconut",
-  "featureLine": "Body butter",
+  "featureLine": "Other",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -21218,7 +21218,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Body butter",
+   "format": "Other",
    "appliesTo": "Lengths & ends (per listing)",
    "keyIngredients": "Honey, Shea butter, Coconut (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -21725,7 +21725,7 @@ const NXPRODUCTS = [
  },
  {
   "id": "cantu-b00kt0u808",
-  "brand": "Cantu",
+  "brand": "CANTU",
   "model": "Shea Butter Leave In Conditioning Repair Cream 16 Ounce Pack of 3 AD",
   "price": 7168,
   "capacityLine": "Quantity not stated",
@@ -22925,6 +22925,202 @@ const NXPRODUCTS = [
    "support": [],
    "formulaNotes": [],
    "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.2★ from 0 ratings"
+  }
+ },
+ {
+  "id": "cantu-b01ltiaufq",
+  "brand": "CANTU",
+  "model": "Shea Butter Hydrating Leave in Conditioning Mist, 8 Fluid Ounce",
+  "price": 2257,
+  "capacityLine": "237 ml",
+  "materialLine": "Shea butter + Argan oil + Castor oil",
+  "featureLine": "Leave-in conditioner · ₹952/100ml",
+  "highlight": "Live Amazon listing. Scored from its published INCI list (Amazon.in listing — Important information › Ingredients): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence); butyrospermum parkii butter high on the INCI list (limited evidence)"
+  ],
+  "cons": [
+   "Added fragrance (parfum): parfum",
+   "EU-declared fragrance allergen: benzyl salicylate, coumarin",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 4.8,
+   "skin": 4.6,
+   "trust": 5.5,
+   "experience": 2.6
+  },
+  "fullSpec": {
+   "quantity": "237 ml",
+   "pricePer100": "₹952/100ml",
+   "format": "Leave-in conditioner",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Shea butter, Argan oil, Castor oil (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "hairConcern": "Frizz control, Damage repair, Dryness / hydration, Shine / gloss, Detangling (seller claim — not clinical proof)",
+   "hairType": "Damaged hair, Coloured / chemically treated",
+   "regulated": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.2/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "AQUA (WATER), GLYCERIN, OLETH-10, PEG-75 LANOLIN, PEG-40 HYDROGENATED CASTOR OIL, BUTYROSPERMUM PARKII (SHEA) BUTTER, POLYSORBATE 60, PHENOXYETHANOL, DICETYLDIMONIUM CHLORIDE, PARFUM (FRAGRANCE), ETHYLHEXYLGLYCERIN, PANTHENOL, ETHYLHEXYL METHOXYCINNAMATE, ARGANIA SPINOSA (ARGAN) KERNEL OIL, HYDROLYZED KERATIN, BUTYLENE GLYCOL, ALOE BARBADENSIS (ALOE) LEAF JUICE (DECOLORIZED), LONICERA CAPRIFOLIUM (HONEYSUCKLE) EXTRACT, HYDROLYZED SILK, MACROCYSTIS PYRIFERA (KELP) EXTRACT, SALVIA OFFICINALIS (SAGE) LEAF EXTRACT, VITIS VINIFERA (GRAPE) SEED EXTRACT, URTICA DIOICA (NETTLE) EXTRACT, SILK AMINO ACIDS, BENZYL SALICYLATE, COUMARIN, HEXYL CINNAMAL, LIMONENE, LINALOOL, CITRAL.",
+   "evidenceActives": "glycerin (#2 on list, strong evidence); butyrospermum parkii butter (#6 on list, limited evidence); panthenol (#12 on list, limited evidence); argania spinosa kernel oil (#14 on list, limited evidence); hydrolyzed keratin (#15 on list, limited evidence)",
+   "safetyFlags": "Added fragrance (parfum): parfum (−1.5); EU-declared fragrance allergen: benzyl salicylate, coumarin, hexyl cinnamal, limonene, linalool, citral (−2)",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.2★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61vZTUNd+aL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61zt3+fvovL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71TXMqQQueL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/711wys6pl9L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71nqmLBmPOL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B01LTIAUFQ",
+  "buyStore": "Amazon",
+  "title": "Cantu Shea Butter Hydrating Leave in Conditioning Mist, 8 Fluid Ounce",
+  "tags": [
+   "area:unstated",
+   "format:mist",
+   "format:oil",
+   "format:balm",
+   "format:emulsion",
+   "format:kit",
+   "format:leave-in",
+   "ing:shea-butter",
+   "ing:argan-oil",
+   "ing:castor-oil",
+   "concern:frizz",
+   "concern:damage-repair",
+   "concern:dryness",
+   "concern:shine",
+   "concern:detangling",
+   "hair:damaged",
+   "hair:coloured",
+   "free:vegan",
+   "aud:unisex",
+   "size:large",
+   "rating:4.0",
+   "store:amazon",
+   "inci:full"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "listing",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": "AQUA (WATER), GLYCERIN, OLETH-10, PEG-75 LANOLIN, PEG-40 HYDROGENATED CASTOR OIL, BUTYROSPERMUM PARKII (SHEA) BUTTER, POLYSORBATE 60, PHENOXYETHANOL, DICETYLDIMONIUM CHLORIDE, PARFUM (FRAGRANCE), ETHYLHEXYLGLYCERIN, PANTHENOL, ETHYLHEXYL METHOXYCINNAMATE, ARGANIA SPINOSA (ARGAN) KERNEL OIL, HYDROLYZED KERATIN, BUTYLENE GLYCOL, ALOE BARBADENSIS (ALOE) LEAF JUICE (DECOLORIZED), LONICERA CAPRIFOLIUM (HONEYSUCKLE) EXTRACT, HYDROLYZED SILK, MACROCYSTIS PYRIFERA (KELP) EXTRACT, SALVIA OFFICINALIS (SAGE) LEAF EXTRACT, VITIS VINIFERA (GRAPE) SEED EXTRACT, URTICA DIOICA (NETTLE) EXTRACT, SILK AMINO ACIDS, BENZYL SALICYLATE, COUMARIN, HEXYL CINNAMAL, LIMONENE, LINALOOL, CITRAL.",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 0.97,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "C",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "panthenol",
+     "grade": "C",
+     "position": 12,
+     "core": true,
+     "trace": true,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "argania spinosa kernel oil",
+     "grade": "C",
+     "position": 14,
+     "core": true,
+     "trace": true,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "hydrolyzed keratin",
+     "grade": "C",
+     "position": 15,
+     "core": true,
+     "trace": true,
+     "src": "thermalProtect"
+    },
+    {
+     "name": "hydrolyzed silk",
+     "grade": "C",
+     "position": 19,
+     "core": false,
+     "trace": true,
+     "src": "hairCosmetics"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "butyrospermum parkii butter",
+    "panthenol",
+    "butylene glycol"
+   ],
+   "formulaNotes": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "parfum"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "euAllergen",
+     "label": "EU-declared fragrance allergen",
+     "names": [
+      "benzyl salicylate",
+      "coumarin",
+      "hexyl cinnamal",
+      "limonene",
+      "linalool",
+      "citral"
+     ],
+     "penalty": 2,
+     "src": "eu1223"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -24430,7 +24626,7 @@ const NXPRODUCTS = [
  },
  {
   "id": "cantu-b091khwlkl",
-  "brand": "Cantu",
+  "brand": "CANTU",
   "model": "Shea Butter Leave in Conditioning Repair Cream For Dry Hair 453g,1 Count",
   "price": 1499,
   "capacityLine": "453 g",
@@ -25967,7 +26163,7 @@ const NXPRODUCTS = [
  },
  {
   "id": "cantu-b0b32qrd6b",
-  "brand": "Cantu",
+  "brand": "CANTU",
   "model": "Shea Butter for Natural Hair Leave in Conditioner Repair Cream 12 Oz (Pack of 2)",
   "price": 2197,
   "capacityLine": "Quantity not stated",
@@ -26544,7 +26740,7 @@ const NXPRODUCTS = [
  },
  {
   "id": "cantu-b01nh0r110",
-  "brand": "Cantu",
+  "brand": "CANTU",
   "model": "Mens Leave-In Conditioner 13 Ounce Jar (384ml) (3 Pack)",
   "price": 5324,
   "capacityLine": "384 ml",
@@ -26747,7 +26943,7 @@ const NXPRODUCTS = [
  },
  {
   "id": "cantu-b018usxeag",
-  "brand": "Cantu",
+  "brand": "CANTU",
   "model": "Care For Kids Leave-In Conditioner 10oz Jar (3 Pack)",
   "price": 4445,
   "capacityLine": "Quantity not stated",
@@ -26945,7 +27141,7 @@ const NXPRODUCTS = [
  },
  {
   "id": "cantu-b01015z0as",
-  "brand": "Cantu",
+  "brand": "CANTU",
   "model": "Shea Butter Leave-In Conditioning Repair Cream 16oz (6 Pack)",
   "price": 7449,
   "capacityLine": "Quantity not stated",
@@ -27265,7 +27461,7 @@ const NXPRODUCTS = [
  },
  {
   "id": "cantu-b01n0ulldu",
-  "brand": "Cantu",
+  "brand": "CANTU",
   "model": "Natural Hair Coil Calm Detangler Spray 8oz (2 Pack)",
   "price": 2095,
   "capacityLine": "237 ml",
@@ -28138,7 +28334,7 @@ const NXPRODUCTS = [
  },
  {
   "id": "cantu-b018usxc4y",
-  "brand": "Cantu",
+  "brand": "CANTU",
   "model": "Care for Kids Leave-In Conditioner, 284 ml",
   "price": 1822,
   "capacityLine": "284 ml",
@@ -31079,7 +31275,7 @@ const NXPRODUCTS = [
   "price": 2070,
   "capacityLine": "Quantity not stated",
   "materialLine": "Aloe vera + Vitamin E + Chamomile",
-  "featureLine": "Leave-in conditioner",
+  "featureLine": "Other",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -31095,7 +31291,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Leave-in conditioner",
+   "format": "Other",
    "appliesTo": "Not stated in listing",
    "keyIngredients": "Aloe vera, Vitamin E, Chamomile, Calendula, Dimethicone / silicones (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -31185,7 +31381,7 @@ const NXPRODUCTS = [
  },
  {
   "id": "cantu-b01djhdoxk",
-  "brand": "Cantu",
+  "brand": "CANTU",
   "model": "Salon Size Leave In Conditioning Repair Cream, 680 g",
   "price": 6485,
   "capacityLine": "680 g",
@@ -31830,7 +32026,7 @@ const NXPRODUCTS = [
  },
  {
   "id": "cantu-b00f6bcnq2",
-  "brand": "Cantu",
+  "brand": "CANTU",
   "model": "Shea Butter For Natural Hair Leave In Conditioning Repair Cream For All Hair, 340 G,1 Coun…",
   "price": 987,
   "capacityLine": "340 g",
@@ -32863,7 +33059,7 @@ const NXPRODUCTS = [
  },
  {
   "id": "cantu-b019efq51y",
-  "brand": "Cantu",
+  "brand": "CANTU",
   "model": "Shea Butter Hydrating Leave In Conditioning Mist, 227 g",
   "price": 2327,
   "capacityLine": "227 g",
@@ -35493,7 +35689,7 @@ const NXPRODUCTS = [
  },
  {
   "id": "cantu-b06x9cr8pr",
-  "brand": "Cantu",
+  "brand": "CANTU",
   "model": "Argan Oil Leave-In Conditioner Repair Cream 16 Ounce (473ml) (2 Pack)",
   "price": 3371,
   "capacityLine": "473 ml",
@@ -35816,105 +36012,6 @@ const NXPRODUCTS = [
     "url": null
    },
    "buyers": "4.4★ from 0 ratings"
-  }
- },
- {
-  "id": "cantu-b01ltiaufq",
-  "brand": "Cantu",
-  "model": "Shea Butter Hydrating Leave in Conditioning Mist, 8 Fluid Ounce",
-  "price": 2257,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Shea butter",
-  "featureLine": "Leave-in conditioner",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 3.5
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Leave-in conditioner",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Shea butter (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Dryness / hydration (seller claim — not clinical proof)",
-   "hairType": "Not stated in listing",
-   "regulated": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.5/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.5★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61vZTUNd+aL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B01LTIAUFQ",
-  "buyStore": "Amazon",
-  "title": "Cantu Shea Butter Hydrating Leave in Conditioning Mist, 8 Fluid Ounce",
-  "tags": [
-   "area:unstated",
-   "format:mist",
-   "format:balm",
-   "format:emulsion",
-   "format:leave-in",
-   "ing:shea-butter",
-   "concern:dryness",
-   "aud:unisex",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.5★ from 0 ratings"
   }
  }
 ];

@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-07.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-11.
 // Unknown fields are honestly marked, never invented.
 const NXPRODUCTS = [
  {
@@ -6091,7 +6091,7 @@ const NXPRODUCTS = [
   "price": 139,
   "capacityLine": "Quantity not stated",
   "materialLine": "Tea tree + Aloe vera",
-  "featureLine": "Wash / cleanser",
+  "featureLine": "Soap bar",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "Well-reviewed: 4.6★ from 34 ratings"
@@ -6109,7 +6109,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Wash / cleanser",
+   "format": "Soap bar",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Tea tree, Aloe vera (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -9477,7 +9477,7 @@ const NXPRODUCTS = [
   "price": 160,
   "capacityLine": "60 g",
   "materialLine": "Tea tree + Aloe vera",
-  "featureLine": "Wash / cleanser · Paraben-free · ₹267/100g",
+  "featureLine": "Soap bar · Paraben-free · ₹267/100g",
   "highlight": "Live Flipkart listing. Scored from its published INCI list (Flipkart listing — Ingredients field): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "aloe barbadensis leaf extract high on the INCI list (moderate evidence); lactic acid high on the INCI list (strong evidence)"
@@ -9496,7 +9496,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "60 g",
    "pricePer100": "₹267/100g",
-   "format": "Wash / cleanser",
+   "format": "Soap bar",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Tea tree, Aloe vera (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -21056,7 +21056,7 @@ const NXPRODUCTS = [
   "model": "Intimate Wash for Men with menthol: Buy Skin elements Intimate Wash for Men with menthol a…",
   "price": 318,
   "capacityLine": "Quantity not stated",
-  "materialLine": "Key ingredients not stated",
+  "materialLine": "Menthol",
   "featureLine": "Wash / cleanser",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
@@ -21077,7 +21077,7 @@ const NXPRODUCTS = [
    "pricePer100": "Not stated in listing",
    "format": "Wash / cleanser",
    "appliesTo": "Body (per listing)",
-   "keyIngredients": "Not stated in listing",
+   "keyIngredients": "Menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
@@ -21109,6 +21109,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:body",
    "format:wash",
+   "ing:menthol",
    "claim:intimate-hygiene",
    "aud:men",
    "rating:4.0",
@@ -22994,7 +22995,7 @@ const NXPRODUCTS = [
    "pricePer100": "₹76/100ml",
    "format": "Wash / cleanser",
    "appliesTo": "Body (per listing)",
-   "keyIngredients": "Tea tree, Aloe vera, Rose (named on listing)",
+   "keyIngredients": "Tea tree, Aloe vera, Rose, Menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
@@ -23031,6 +23032,7 @@ const NXPRODUCTS = [
    "ing:tea-tree",
    "ing:aloe-vera",
    "ing:rose",
+   "ing:menthol",
    "claim:intimate-hygiene",
    "skin:all",
    "free:ph-balanced",
@@ -33464,7 +33466,7 @@ const NXPRODUCTS = [
   "price": 139,
   "capacityLine": "Quantity not stated",
   "materialLine": "Tea tree + Aloe vera",
-  "featureLine": "Wash / cleanser",
+  "featureLine": "Soap bar",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "Well-reviewed: 4.3★ from 522 ratings"
@@ -33482,7 +33484,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Wash / cleanser",
+   "format": "Soap bar",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Tea tree, Aloe vera (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -36383,7 +36385,7 @@ const NXPRODUCTS = [
   "price": 161,
   "capacityLine": "100 ml",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Cream · ₹161/100ml",
+  "featureLine": "Other · ₹161/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "Well-reviewed: 4.3★ from 2,571 ratings"
@@ -36401,7 +36403,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹161/100ml",
-   "format": "Cream",
+   "format": "Other",
    "appliesTo": "Face (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -39293,7 +39295,7 @@ const NXPRODUCTS = [
   "price": 139,
   "capacityLine": "Quantity not stated",
   "materialLine": "Tea tree + Aloe vera",
-  "featureLine": "Wash / cleanser",
+  "featureLine": "Soap bar",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "Well-reviewed: 4.4★ from 169 ratings"
@@ -39311,7 +39313,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Wash / cleanser",
+   "format": "Soap bar",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Tea tree, Aloe vera (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -40196,6 +40198,7 @@ const NXPRODUCTS = [
    "scope:body",
    "format:foam",
    "format:wash",
+   "format:cleansing-oil",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:tea-tree",
@@ -48198,7 +48201,7 @@ const NXPRODUCTS = [
   "price": 91,
   "capacityLine": "100 ml",
   "materialLine": "Lactic acid + Aloe vera",
-  "featureLine": "Wash / cleanser · Paraben-free · ₹91/100ml",
+  "featureLine": "Soap bar · Paraben-free · ₹91/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -48215,7 +48218,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹91/100ml",
-   "format": "Wash / cleanser",
+   "format": "Soap bar",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Lactic acid, Aloe vera (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -53181,7 +53184,7 @@ const NXPRODUCTS = [
   "price": 100,
   "capacityLine": "100 ml",
   "materialLine": "Tea tree + Sea buckthorn",
-  "featureLine": "Wash / cleanser · Paraben-free · ₹100/100ml",
+  "featureLine": "Soap bar · Paraben-free · ₹100/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -53198,7 +53201,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹100/100ml",
-   "format": "Wash / cleanser",
+   "format": "Soap bar",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Tea tree, Sea buckthorn (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -58534,6 +58537,240 @@ const NXPRODUCTS = [
   }
  },
  {
+  "id": "broer-itma072d857ecc5a",
+  "brand": "BROER",
+  "model": "IntimaCare Daily Use Intimate Wash | Soap-Free & Paraben-Free Formula Intimate Wash",
+  "price": 169,
+  "capacityLine": "100 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Soap bar · Paraben-free · ₹169/100ml",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "100 ml",
+   "pricePer100": "₹169/100ml",
+   "format": "Soap bar",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Soothing / calming, Exfoliating, Odour control / freshness, Intimate hygiene (seller claim — not clinical proof)",
+   "skinType": "Sensitive skin, All skin types",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/women-intimate-care/8/c/z/100-intimacare-daily-use-intimate-wash-soap-free-paraben-free-original-imahhspek4kgsfym.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/women-intimate-care/z/7/6/100-intimacare-daily-use-intimate-wash-soap-free-paraben-free-original-imahhspes9c3dgqv.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/women-intimate-care/e/3/g/100-intimacare-daily-use-intimate-wash-soap-free-paraben-free-original-imahhspegkweunfq.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/women-intimate-care/9/x/o/100-intimacare-daily-use-intimate-wash-soap-free-paraben-free-original-imahhspevjagpcdk.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/women-intimate-care/m/t/s/100-intimacare-daily-use-intimate-wash-soap-free-paraben-free-original-imahhspezryyh3f3.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/broer-intimacare-daily-use-intimate-wash-soap-free-paraben-free-formula/p/itma072d857ecc5a",
+  "buyStore": "Flipkart",
+  "title": "BROER IntimaCare Daily Use Intimate Wash | Soap-Free & Paraben-Free Formula Intimate Wash",
+  "tags": [
+   "scope:body",
+   "format:gel",
+   "format:cream",
+   "format:bar",
+   "format:wash",
+   "format:kit",
+   "claim:brightening",
+   "claim:soothing",
+   "claim:exfoliating",
+   "claim:odour",
+   "claim:intimate-hygiene",
+   "skin:sensitive",
+   "skin:all",
+   "free:paraben",
+   "free:sulfate",
+   "free:vegan",
+   "free:ph-balanced",
+   "free:sensitive-safe",
+   "aud:women",
+   "size:standard",
+   "rating:none",
+   "store:flipkart",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "oriflame-itmd7b408d498d2f",
+  "brand": "Oriflame",
+  "model": "Feminelle Soothing Intimate Wash Aloe Vera & Mallow",
+  "price": 480,
+  "capacityLine": "300 ml",
+  "materialLine": "Lactic acid + Aloe vera + Honey",
+  "featureLine": "Wash / cleanser · Paraben-free · ₹160/100ml",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 2 ingredients named — formula unscored",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6.8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "300 ml",
+   "pricePer100": "₹160/100ml",
+   "format": "Wash / cleanser",
+   "appliesTo": "Face + body (per listing)",
+   "keyIngredients": "Lactic acid, Aloe vera, Honey, Milk, Gold, Calendula (named on listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Dermatologically tested (seller claim — not scored)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, Soothing / calming, Intimate hygiene (seller claim — not clinical proof)",
+   "skinType": "All skin types",
+   "regulated": "Contains / references a drug-grade active (adapalene, tretinoin, clindamycin, IP/USP) — follow label directions; not a cosmetic claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: NATURAL LACTIC ACID PREVENT SKIN IRRITATION AND INFECTION",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Oriflame Cosmetics — Global FMCG or beauty group",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/i/r/15-tender-care-protecting-balm-oriflame-gel-original-imahffxbykrhpkzx.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/i/i/250-milk-honey-gold-majestic-magnolia-hand-body-cream-all-skin-original-imahq9ajdheqfhte.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/i/j/y/75-feminelle-extra-comfort-nurturing-intimate-lotion-calendula-original-imahg2amhteb8pd6.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/t/g/x/15-bright-miracle-ultimate-brightening-serum-with-niasorcinol-original-imahjph6dhyh32c2.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/ksoz53k0/moisturizer-cream/e/m/1/75-feet-up-comfort-over-night-pack-of-1-original-by-satnam-original-imag67q5pkgggdf8.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/oriflame-feminelle-soothing-intimate-wash-aloe-vera-mallow/p/itmd7b408d498d2f",
+  "buyStore": "Flipkart",
+  "title": "Oriflame Feminelle Soothing Intimate Wash Aloe Vera & Mallow",
+  "tags": [
+   "scope:both",
+   "format:gel",
+   "format:cream",
+   "format:lotion",
+   "format:balm",
+   "format:wash",
+   "format:kit",
+   "ing:lactic-acid",
+   "ing:aloe-vera",
+   "ing:honey",
+   "ing:milk",
+   "ing:gold",
+   "ing:calendula",
+   "claim:hydrating",
+   "claim:soothing",
+   "claim:intimate-hygiene",
+   "skin:all",
+   "free:paraben",
+   "free:derm",
+   "free:vegan",
+   "aud:women",
+   "size:xl",
+   "rating:none",
+   "store:flipkart",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": true,
+   "derm": true,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "NATURAL LACTIC ACID PREVENT SKIN IRRITATION AND INFECTION",
+   "inciNote": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 0.5,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Oriflame Cosmetics",
+    "kind": "global",
+    "label": "Global FMCG or beauty group",
+    "pts": 6.5,
+    "url": "https://corporate.oriflame.com/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
   "id": "namyaa-b08gp3fmtv",
   "brand": "Namyaa",
   "model": "Intimate Wash with Haldi Chandan, Prevents Dryness, Itchiness and Irritation | pH Balanced…",
@@ -63102,7 +63339,7 @@ const NXPRODUCTS = [
   "price": 325,
   "capacityLine": "300 ml",
   "materialLine": "Aloe vera",
-  "featureLine": "Wash / cleanser · ₹108/100ml",
+  "featureLine": "Soap bar · ₹108/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -63119,7 +63356,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "300 ml",
    "pricePer100": "₹108/100ml",
-   "format": "Wash / cleanser",
+   "format": "Soap bar",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Aloe vera (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -67264,7 +67501,7 @@ const NXPRODUCTS = [
   "price": 180,
   "capacityLine": "100 ml",
   "materialLine": "Tea tree + Sea buckthorn",
-  "featureLine": "Wash / cleanser · Paraben-free · ₹180/100ml",
+  "featureLine": "Other · Paraben-free · ₹180/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -67280,7 +67517,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹180/100ml",
-   "format": "Wash / cleanser",
+   "format": "Other",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Tea tree, Sea buckthorn (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -67588,7 +67825,7 @@ const NXPRODUCTS = [
   "price": 489,
   "capacityLine": "350 ml",
   "materialLine": "Lactic acid",
-  "featureLine": "Oil · Sulfate/SLS-free · ₹140/100ml",
+  "featureLine": "Other · Sulfate/SLS-free · ₹140/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -67604,7 +67841,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "350 ml",
    "pricePer100": "₹140/100ml",
-   "format": "Oil",
+   "format": "Other",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Lactic acid (named on listing)",
    "freeFrom": "Sulfate/SLS-free (seller claim — not scored)",
@@ -68026,7 +68263,7 @@ const NXPRODUCTS = [
    "pricePer100": "₹233/100ml",
    "format": "Wash / cleanser",
    "appliesTo": "Body (per listing)",
-   "keyIngredients": "Lactic acid, Aloe vera, Chamomile (named on listing)",
+   "keyIngredients": "Lactic acid, Aloe vera, Chamomile, Menthol (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
@@ -68061,6 +68298,7 @@ const NXPRODUCTS = [
    "ing:lactic-acid",
    "ing:aloe-vera",
    "ing:chamomile",
+   "ing:menthol",
    "claim:brightening",
    "claim:hydrating",
    "claim:soothing",
@@ -71582,7 +71820,7 @@ const NXPRODUCTS = [
   "price": 325,
   "capacityLine": "300 ml",
   "materialLine": "Lactic acid + Rose",
-  "featureLine": "Wash / cleanser · ₹108/100ml",
+  "featureLine": "Soap bar · ₹108/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -71599,7 +71837,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "300 ml",
    "pricePer100": "₹108/100ml",
-   "format": "Wash / cleanser",
+   "format": "Soap bar",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Lactic acid, Rose (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -72014,7 +72252,7 @@ const NXPRODUCTS = [
   "price": 188,
   "capacityLine": "80 ml (pack of 4)",
   "materialLine": "Tea tree + Sea buckthorn",
-  "featureLine": "Oil · Paraben-free · ₹235/100ml",
+  "featureLine": "Other · Paraben-free · ₹235/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -72030,7 +72268,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "20 ml × 4 pack",
    "pricePer100": "₹235/100ml",
-   "format": "Oil",
+   "format": "Other",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Tea tree, Sea buckthorn (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -72121,7 +72359,7 @@ const NXPRODUCTS = [
   "price": 300,
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Wash / cleanser",
+  "featureLine": "Soap bar",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -72138,7 +72376,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Wash / cleanser",
+   "format": "Soap bar",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -75339,7 +75577,7 @@ const NXPRODUCTS = [
   "price": 495,
   "capacityLine": "200 ml (pack of 2)",
   "materialLine": "Niacinamide",
-  "featureLine": "Foam / mousse · ₹248/100ml",
+  "featureLine": "Soap bar · ₹248/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -75356,7 +75594,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml × 2 pack",
    "pricePer100": "₹248/100ml",
-   "format": "Foam / mousse",
+   "format": "Soap bar",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Niacinamide (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -75904,7 +76142,7 @@ const NXPRODUCTS = [
    "pricePer100": "₹233/100ml",
    "format": "Wash / cleanser",
    "appliesTo": "Body (per listing)",
-   "keyIngredients": "Lactic acid, Aloe vera, Chamomile (named on listing)",
+   "keyIngredients": "Lactic acid, Aloe vera, Chamomile, Menthol (named on listing)",
    "freeFrom": "Paraben-free, Sulfate/SLS-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
@@ -75939,6 +76177,7 @@ const NXPRODUCTS = [
    "ing:lactic-acid",
    "ing:aloe-vera",
    "ing:chamomile",
+   "ing:menthol",
    "claim:brightening",
    "claim:hydrating",
    "claim:soothing",
@@ -85828,7 +86067,7 @@ const NXPRODUCTS = [
   "price": 149,
   "capacityLine": "100 ml",
   "materialLine": "Tea tree + Allantoin",
-  "featureLine": "Wash / cleanser · ₹149/100ml",
+  "featureLine": "Soap bar · ₹149/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -85844,7 +86083,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹149/100ml",
-   "format": "Wash / cleanser",
+   "format": "Soap bar",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Tea tree, Allantoin (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -86605,7 +86844,7 @@ const NXPRODUCTS = [
   "price": 1400,
   "capacityLine": "250 ml",
   "materialLine": "Colloidal oatmeal + Vitamin E",
-  "featureLine": "Wash / cleanser · ₹560/100ml",
+  "featureLine": "Soap bar · ₹560/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -86621,7 +86860,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "250 ml",
    "pricePer100": "₹560/100ml",
-   "format": "Wash / cleanser",
+   "format": "Soap bar",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Colloidal oatmeal, Vitamin E (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -88411,7 +88650,7 @@ const NXPRODUCTS = [
   "price": 100,
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Wash / cleanser",
+  "featureLine": "Soap bar",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -88427,7 +88666,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Wash / cleanser",
+   "format": "Soap bar",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -92076,7 +92315,7 @@ const NXPRODUCTS = [
   "model": "Foaming Men’s Intimate Wash | Menthol | 120 ml",
   "price": 329,
   "capacityLine": "120 ml",
-  "materialLine": "Key ingredients not stated",
+  "materialLine": "Menthol",
   "featureLine": "Foam / mousse · ₹274/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -92095,7 +92334,7 @@ const NXPRODUCTS = [
    "pricePer100": "₹274/100ml",
    "format": "Foam / mousse",
    "appliesTo": "Body (per listing)",
-   "keyIngredients": "Not stated in listing",
+   "keyIngredients": "Menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
@@ -92127,6 +92366,7 @@ const NXPRODUCTS = [
    "scope:body",
    "format:foam",
    "format:wash",
+   "ing:menthol",
    "claim:intimate-hygiene",
    "aud:men",
    "size:standard",
@@ -93957,7 +94197,7 @@ const NXPRODUCTS = [
   "price": 245,
   "capacityLine": "100 ml",
   "materialLine": "Niacinamide",
-  "featureLine": "Foam / mousse · ₹245/100ml",
+  "featureLine": "Soap bar · ₹245/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -93973,7 +94213,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹245/100ml",
-   "format": "Foam / mousse",
+   "format": "Soap bar",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Niacinamide (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -95646,7 +95886,7 @@ const NXPRODUCTS = [
   "price": 369,
   "capacityLine": "100 ml",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Wash / cleanser · ₹369/100ml",
+  "featureLine": "Soap bar · ₹369/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -95663,7 +95903,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹369/100ml",
-   "format": "Wash / cleanser",
+   "format": "Soap bar",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -95862,7 +96102,7 @@ const NXPRODUCTS = [
   "price": 325,
   "capacityLine": "300 ml",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Wash / cleanser · ₹108/100ml",
+  "featureLine": "Soap bar · ₹108/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -95879,7 +96119,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "300 ml",
    "pricePer100": "₹108/100ml",
-   "format": "Wash / cleanser",
+   "format": "Soap bar",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -95967,7 +96207,7 @@ const NXPRODUCTS = [
   "price": 349,
   "capacityLine": "100 ml",
   "materialLine": "Lactic acid + Aloe vera + Shea butter",
-  "featureLine": "Wash / cleanser · ₹349/100ml",
+  "featureLine": "Soap bar · ₹349/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -95983,7 +96223,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹349/100ml",
-   "format": "Wash / cleanser",
+   "format": "Soap bar",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Lactic acid, Aloe vera, Shea butter, Calendula (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -99998,7 +100238,7 @@ const NXPRODUCTS = [
   "price": 179,
   "capacityLine": "100 ml",
   "materialLine": "Lactic acid",
-  "featureLine": "Wash / cleanser · ₹179/100ml",
+  "featureLine": "Soap bar · ₹179/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -100014,7 +100254,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹179/100ml",
-   "format": "Wash / cleanser",
+   "format": "Soap bar",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Lactic acid (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -103044,7 +103284,7 @@ const NXPRODUCTS = [
   "price": 504,
   "capacityLine": "Quantity not stated",
   "materialLine": "Lactic acid",
-  "featureLine": "Wash / cleanser",
+  "featureLine": "Other",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -103060,7 +103300,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Wash / cleanser",
+   "format": "Other",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Lactic acid (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -105074,7 +105314,7 @@ const NXPRODUCTS = [
   "price": 300,
   "capacityLine": "Quantity not stated",
   "materialLine": "Niacinamide + Hyaluronic acid + Kojic acid",
-  "featureLine": "Wash / cleanser",
+  "featureLine": "Soap bar",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -105090,7 +105330,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Wash / cleanser",
+   "format": "Soap bar",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Niacinamide, Hyaluronic acid, Kojic acid, Glutathione, Glycerin, Lemon (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -105506,7 +105746,7 @@ const NXPRODUCTS = [
   "price": 538,
   "capacityLine": "200 ml",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · Paraben-free · ₹269/100ml",
+  "featureLine": "Wash / cleanser · Paraben-free · ₹269/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -105522,7 +105762,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "200 ml",
    "pricePer100": "₹269/100ml",
-   "format": "Hair-removal cream / spray",
+   "format": "Wash / cleanser",
    "appliesTo": "Body (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Paraben-free (seller claim — not scored)",

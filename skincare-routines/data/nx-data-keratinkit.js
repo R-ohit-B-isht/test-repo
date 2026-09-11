@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-07.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-11.
 // Unknown fields are honestly marked, never invented.
 const NXPRODUCTS = [
  {
@@ -359,7 +359,7 @@ const NXPRODUCTS = [
   "price": 1295,
   "capacityLine": "500 g (pack of 2)",
   "materialLine": "Bhringraj + Amla + Hibiscus",
-  "featureLine": "Keratin / smoothing treatment · ₹259/100g",
+  "featureLine": "Other · ₹259/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -376,7 +376,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "250 g × 2 pack",
    "pricePer100": "₹259/100g",
-   "format": "Keratin / smoothing treatment",
+   "format": "Other",
    "appliesTo": "Scalp + lengths (per listing)",
    "keyIngredients": "Bhringraj, Amla, Hibiscus, Keratin (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -821,7 +821,7 @@ const NXPRODUCTS = [
   "price": 1584,
   "capacityLine": "400 g (pack of 2)",
   "materialLine": "Ceramides + Keratin",
-  "featureLine": "Kit · ₹396/100g",
+  "featureLine": "Other · ₹396/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -838,7 +838,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "200 g × 2 pack",
    "pricePer100": "₹396/100g",
-   "format": "Kit",
+   "format": "Other",
    "appliesTo": "Scalp (per listing)",
    "keyIngredients": "Ceramides, Keratin (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -931,7 +931,7 @@ const NXPRODUCTS = [
   "price": 2901,
   "capacityLine": "10 g",
   "materialLine": "Rosemary + Keratin",
-  "featureLine": "Kit · ₹29010/100g",
+  "featureLine": "Other · ₹29010/100g",
   "highlight": "Live Flipkart listing. Scored from its published INCI list (Flipkart listing — Ingredients field): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "argania spinosa kernel oil high on the INCI list (limited evidence); cocos nucifera oil high on the INCI list (moderate evidence)"
@@ -950,7 +950,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "10 g",
    "pricePer100": "₹29010/100g",
-   "format": "Kit",
+   "format": "Other",
    "appliesTo": "Scalp (per listing)",
    "keyIngredients": "Rosemary, Keratin (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -2593,7 +2593,7 @@ const NXPRODUCTS = [
   "model": "Keratin Chocolate Smoothing Treatment",
   "price": 3246,
   "capacityLine": "1000 ml",
-  "materialLine": "Glycerin + Coconut + Keratin",
+  "materialLine": "Glycerin + Coconut + Beeswax",
   "featureLine": "Keratin / smoothing treatment · ₹325/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -2612,7 +2612,7 @@ const NXPRODUCTS = [
    "pricePer100": "₹325/100ml",
    "format": "Keratin / smoothing treatment",
    "appliesTo": "Not stated in listing",
-   "keyIngredients": "Glycerin, Coconut, Keratin, Beeswax (named on listing)",
+   "keyIngredients": "Glycerin, Coconut, Beeswax, Keratin (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Smoothing / straightening (seller claim — not clinical proof)",
@@ -2647,8 +2647,8 @@ const NXPRODUCTS = [
    "format:keratin-treatment",
    "ing:glycerin",
    "ing:coconut",
-   "ing:keratin",
    "ing:beeswax",
+   "ing:keratin",
    "concern:smoothing",
    "hair:all",
    "aud:women",
@@ -3035,7 +3035,7 @@ const NXPRODUCTS = [
   "price": 170,
   "capacityLine": "400 g",
   "materialLine": "Rice water + Rosemary + Keratin",
-  "featureLine": "Mist / spray · ₹43/100g",
+  "featureLine": "Other · ₹43/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -3052,7 +3052,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "400 g",
    "pricePer100": "₹43/100g",
-   "format": "Mist / spray",
+   "format": "Other",
    "appliesTo": "Scalp + lengths (per listing)",
    "keyIngredients": "Rice water, Rosemary, Keratin (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -3385,7 +3385,7 @@ const NXPRODUCTS = [
   "price": 2574,
   "capacityLine": "2000 ml (pack of 2)",
   "materialLine": "Keratin",
-  "featureLine": "Serum · ₹129/100ml",
+  "featureLine": "Other · ₹129/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -3402,7 +3402,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "1000 ml × 2 pack",
    "pricePer100": "₹129/100ml",
-   "format": "Serum",
+   "format": "Other",
    "appliesTo": "Lengths & ends (per listing)",
    "keyIngredients": "Keratin (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -3498,7 +3498,7 @@ const NXPRODUCTS = [
   "price": 353,
   "capacityLine": "250 ml",
   "materialLine": "Bhringraj + Amla + Keratin",
-  "featureLine": "Keratin / smoothing treatment · Formaldehyde-free · ₹141/100ml",
+  "featureLine": "Other · Formaldehyde-free · ₹141/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -3515,7 +3515,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "250 ml",
    "pricePer100": "₹141/100ml",
-   "format": "Keratin / smoothing treatment",
+   "format": "Other",
    "appliesTo": "Scalp (per listing)",
    "keyIngredients": "Bhringraj, Amla, Keratin (named on listing)",
    "freeFrom": "Formaldehyde-free (seller claim — not scored)",
@@ -3853,7 +3853,7 @@ const NXPRODUCTS = [
   "price": 1934,
   "capacityLine": "2000 ml (pack of 2)",
   "materialLine": "Coffee + Rice water + Aloe vera",
-  "featureLine": "Mist / spray · ₹97/100ml",
+  "featureLine": "Other · ₹97/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -3870,7 +3870,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "1000 ml × 2 pack",
    "pricePer100": "₹97/100ml",
-   "format": "Mist / spray",
+   "format": "Other",
    "appliesTo": "Scalp + lengths (per listing)",
    "keyIngredients": "Coffee, Rice water, Aloe vera, Neem, Bhringraj, Amla, Keratin, Hydrolysed protein (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -4088,7 +4088,7 @@ const NXPRODUCTS = [
   "price": 189,
   "capacityLine": "1000 ml",
   "materialLine": "Rosemary + Keratin",
-  "featureLine": "Hair spray · ₹19/100ml",
+  "featureLine": "Other · ₹19/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -4105,7 +4105,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "1000 ml",
    "pricePer100": "₹19/100ml",
-   "format": "Hair spray",
+   "format": "Other",
    "appliesTo": "Scalp + lengths (per listing)",
    "keyIngredients": "Rosemary, Keratin (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -4206,7 +4206,7 @@ const NXPRODUCTS = [
   "price": 448,
   "capacityLine": "1000 ml",
   "materialLine": "Bhringraj + Amla + Keratin",
-  "featureLine": "Wash / cleanser · Formaldehyde-free · ₹45/100ml",
+  "featureLine": "Other · Formaldehyde-free · ₹45/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -4223,7 +4223,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "1000 ml",
    "pricePer100": "₹45/100ml",
-   "format": "Wash / cleanser",
+   "format": "Other",
    "appliesTo": "Scalp (per listing)",
    "keyIngredients": "Bhringraj, Amla, Keratin, Dimethicone / silicones (named on listing)",
    "freeFrom": "Formaldehyde-free (seller claim — not scored)",
@@ -7586,7 +7586,7 @@ const NXPRODUCTS = [
   "price": 1799,
   "capacityLine": "1000 ml",
   "materialLine": "Keratin",
-  "featureLine": "Wash / cleanser · ₹180/100ml",
+  "featureLine": "Other · ₹180/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -7602,7 +7602,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "1000 ml",
    "pricePer100": "₹180/100ml",
-   "format": "Wash / cleanser",
+   "format": "Other",
    "appliesTo": "Scalp (per listing)",
    "keyIngredients": "Keratin (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -8705,7 +8705,7 @@ const NXPRODUCTS = [
   "price": 892,
   "capacityLine": "200 ml",
   "materialLine": "Peptides + Cocoa butter",
-  "featureLine": "Body butter · ₹446/100ml",
+  "featureLine": "Other · ₹446/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "Well-reviewed: 4.4★ from 83 ratings"
@@ -8723,7 +8723,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "200 ml",
    "pricePer100": "₹446/100ml",
-   "format": "Body butter",
+   "format": "Other",
    "appliesTo": "Lengths & ends (per listing)",
    "keyIngredients": "Peptides, Cocoa butter (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -11223,7 +11223,7 @@ const NXPRODUCTS = [
   "price": 945,
   "capacityLine": "250 g",
   "materialLine": "Rice water + Rosemary + Keratin",
-  "featureLine": "Hair perfume / mist · Sulfate/SLS-free · ₹378/100g",
+  "featureLine": "Other · Sulfate/SLS-free · ₹378/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -11240,7 +11240,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "250 g",
    "pricePer100": "₹378/100g",
-   "format": "Hair perfume / mist",
+   "format": "Other",
    "appliesTo": "Scalp + lengths (per listing)",
    "keyIngredients": "Rice water, Rosemary, Keratin, Hydrolysed protein (named on listing)",
    "freeFrom": "Sulfate/SLS-free (seller claim — not scored)",
@@ -14343,7 +14343,7 @@ const NXPRODUCTS = [
   "price": 222,
   "capacityLine": "800 g (pack of 2)",
   "materialLine": "Neem + Shea butter + Rosemary",
-  "featureLine": "Body butter · ₹28/100g",
+  "featureLine": "Other · ₹28/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -14360,7 +14360,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "400 g × 2 pack",
    "pricePer100": "₹28/100g",
-   "format": "Body butter",
+   "format": "Other",
    "appliesTo": "Scalp + lengths (per listing)",
    "keyIngredients": "Neem, Shea butter, Rosemary, Bhringraj, Amla, Hibiscus, Keratin (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -14579,7 +14579,7 @@ const NXPRODUCTS = [
   "price": 450,
   "capacityLine": "1000 g",
   "materialLine": "Amla + Hibiscus + Keratin",
-  "featureLine": "Keratin / smoothing treatment · ₹45/100g",
+  "featureLine": "Other · ₹45/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -14596,7 +14596,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "1000 g",
    "pricePer100": "₹45/100g",
-   "format": "Keratin / smoothing treatment",
+   "format": "Other",
    "appliesTo": "Scalp + lengths (per listing)",
    "keyIngredients": "Amla, Hibiscus, Keratin, Biotin (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -15046,7 +15046,7 @@ const NXPRODUCTS = [
   "price": 236,
   "capacityLine": "400 g",
   "materialLine": "Rosemary + Keratin + Biotin",
-  "featureLine": "Mist / spray · ₹59/100g",
+  "featureLine": "Other · ₹59/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -15063,7 +15063,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "400 g",
    "pricePer100": "₹59/100g",
-   "format": "Mist / spray",
+   "format": "Other",
    "appliesTo": "Scalp + lengths (per listing)",
    "keyIngredients": "Rosemary, Keratin, Biotin (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -15521,7 +15521,7 @@ const NXPRODUCTS = [
   "price": 4720,
   "capacityLine": "200 g",
   "materialLine": "Hyaluronic acid + Ceramides + Collagen",
-  "featureLine": "Keratin / smoothing treatment · ₹2360/100g",
+  "featureLine": "Other · ₹2360/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -15538,7 +15538,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "200 g",
    "pricePer100": "₹2360/100g",
-   "format": "Keratin / smoothing treatment",
+   "format": "Other",
    "appliesTo": "Lengths & ends (per listing)",
    "keyIngredients": "Hyaluronic acid, Ceramides, Collagen, Green tea, Aloe vera, Vitamin E, Vitamin B5 / panthenol, Argan oil, Keratin, Hydrolysed protein, Amino acids, Panthenol (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -15767,7 +15767,7 @@ const NXPRODUCTS = [
   "price": 599,
   "capacityLine": "100 g",
   "materialLine": "Rose + Rosemary + Bhringraj",
-  "featureLine": "Mist / spray · Paraben-free · ₹599/100g",
+  "featureLine": "Other · Paraben-free · ₹599/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -15784,7 +15784,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 g",
    "pricePer100": "₹599/100g",
-   "format": "Mist / spray",
+   "format": "Other",
    "appliesTo": "Scalp + lengths (per listing)",
    "keyIngredients": "Rose, Rosemary, Bhringraj, Amla, Hibiscus, Keratin, Biotin (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -15901,7 +15901,7 @@ const NXPRODUCTS = [
   "price": 5837,
   "capacityLine": "2000 ml (pack of 2)",
   "materialLine": "Coffee + Rice water + Aloe vera",
-  "featureLine": "Mist / spray · ₹292/100ml",
+  "featureLine": "Other · ₹292/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -15918,7 +15918,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "1000 ml × 2 pack",
    "pricePer100": "₹292/100ml",
-   "format": "Mist / spray",
+   "format": "Other",
    "appliesTo": "Scalp + lengths (per listing)",
    "keyIngredients": "Coffee, Rice water, Aloe vera, Neem, Bhringraj, Amla, Keratin, Hydrolysed protein (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -16021,7 +16021,7 @@ const NXPRODUCTS = [
   "price": 3099,
   "capacityLine": "200 g (pack of 2)",
   "materialLine": "Coffee + Rice water + Aloe vera",
-  "featureLine": "Mist / spray · ₹1550/100g",
+  "featureLine": "Other · ₹1550/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -16038,7 +16038,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "100 g × 2 pack",
    "pricePer100": "₹1550/100g",
-   "format": "Mist / spray",
+   "format": "Other",
    "appliesTo": "Scalp (per listing)",
    "keyIngredients": "Coffee, Rice water, Aloe vera, Neem, Titanium dioxide, Bhringraj, Amla, Keratin, Hydrolysed protein (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -16256,7 +16256,7 @@ const NXPRODUCTS = [
   "price": 936,
   "capacityLine": "120 ml",
   "materialLine": "Collagen",
-  "featureLine": "Keratin / smoothing treatment · ₹780/100ml",
+  "featureLine": "Other · ₹780/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -16273,7 +16273,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "120 ml",
    "pricePer100": "₹780/100ml",
-   "format": "Keratin / smoothing treatment",
+   "format": "Other",
    "appliesTo": "Lengths & ends (per listing)",
    "keyIngredients": "Collagen (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -16470,7 +16470,7 @@ const NXPRODUCTS = [
   "price": 172,
   "capacityLine": "300 ml",
   "materialLine": "Neem + Onion + Keratin",
-  "featureLine": "Serum · ₹57/100ml",
+  "featureLine": "Kit · ₹57/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -16487,7 +16487,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "300 ml",
    "pricePer100": "₹57/100ml",
-   "format": "Serum",
+   "format": "Kit",
    "appliesTo": "Scalp (per listing)",
    "keyIngredients": "Neem, Onion, Keratin (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -22794,7 +22794,7 @@ const NXPRODUCTS = [
   "price": 3899,
   "capacityLine": "2000 ml (pack of 2)",
   "materialLine": "Hyaluronic acid + Collagen + Argan oil",
-  "featureLine": "Keratin / smoothing treatment · ₹195/100ml",
+  "featureLine": "Other · ₹195/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -22811,7 +22811,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "1000 ml × 2 pack",
    "pricePer100": "₹195/100ml",
-   "format": "Keratin / smoothing treatment",
+   "format": "Other",
    "appliesTo": "Lengths & ends (per listing)",
    "keyIngredients": "Hyaluronic acid, Collagen, Argan oil, Gold, Keratin, Hydrolysed protein (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -23154,7 +23154,7 @@ const NXPRODUCTS = [
   "price": 4072,
   "capacityLine": "500 ml (pack of 2)",
   "materialLine": "Keratin + Formaldehyde + Cysteine",
-  "featureLine": "Kit · Formaldehyde-free · ₹814/100ml",
+  "featureLine": "Other · Formaldehyde-free · ₹814/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -23171,7 +23171,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "250 ml × 2 pack",
    "pricePer100": "₹814/100ml",
-   "format": "Kit",
+   "format": "Other",
    "appliesTo": "Not stated in listing",
    "keyIngredients": "Keratin, Formaldehyde, Cysteine (named on listing)",
    "freeFrom": "Formaldehyde-free (seller claim — not scored)",
@@ -23603,7 +23603,7 @@ const NXPRODUCTS = [
   "price": 467,
   "capacityLine": "1000 ml",
   "materialLine": "Collagen + Coffee + Rice water",
-  "featureLine": "Keratin / smoothing treatment · Sulfate/SLS-free · ₹47/100ml",
+  "featureLine": "Other · Sulfate/SLS-free · ₹47/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -23620,7 +23620,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "1000 ml",
    "pricePer100": "₹47/100ml",
-   "format": "Keratin / smoothing treatment",
+   "format": "Other",
    "appliesTo": "Scalp + lengths (per listing)",
    "keyIngredients": "Collagen, Coffee, Rice water, Aloe vera, Neem, Argan oil, Bhringraj, Amla, Keratin, Hydrolysed protein (named on listing)",
    "freeFrom": "Sulfate/SLS-free (seller claim — not scored)",
@@ -23730,7 +23730,7 @@ const NXPRODUCTS = [
   "price": 2059,
   "capacityLine": "1800 ml (pack of 2)",
   "materialLine": "Collagen",
-  "featureLine": "Kit · ₹114/100ml",
+  "featureLine": "Other · ₹114/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -23747,7 +23747,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "900 ml × 2 pack",
    "pricePer100": "₹114/100ml",
-   "format": "Kit",
+   "format": "Other",
    "appliesTo": "Not stated in listing",
    "keyIngredients": "Collagen (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -23840,7 +23840,7 @@ const NXPRODUCTS = [
   "price": 476,
   "capacityLine": "1000 ml",
   "materialLine": "Keratin",
-  "featureLine": "Lotion · Sulfate/SLS-free · ₹48/100ml",
+  "featureLine": "Other · Sulfate/SLS-free · ₹48/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -23856,7 +23856,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "1000 ml",
    "pricePer100": "₹48/100ml",
-   "format": "Lotion",
+   "format": "Other",
    "appliesTo": "Lengths & ends (per listing)",
    "keyIngredients": "Keratin (named on listing)",
    "freeFrom": "Sulfate/SLS-free (seller claim — not scored)",
@@ -24059,7 +24059,7 @@ const NXPRODUCTS = [
   "price": 372,
   "capacityLine": "250 ml",
   "materialLine": "Keratin",
-  "featureLine": "Keratin / smoothing treatment · ₹149/100ml",
+  "featureLine": "Other · ₹149/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -24076,7 +24076,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "250 ml",
    "pricePer100": "₹149/100ml",
-   "format": "Keratin / smoothing treatment",
+   "format": "Other",
    "appliesTo": "Scalp (per listing)",
    "keyIngredients": "Keratin (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -24173,7 +24173,7 @@ const NXPRODUCTS = [
   "price": 389,
   "capacityLine": "500 ml",
   "materialLine": "Glycolic acid + Collagen + Keratin",
-  "featureLine": "Keratin / smoothing treatment · ₹78/100ml",
+  "featureLine": "Other · ₹78/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -24189,7 +24189,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "500 ml",
    "pricePer100": "₹78/100ml",
-   "format": "Keratin / smoothing treatment",
+   "format": "Other",
    "appliesTo": "Lengths & ends (per listing)",
    "keyIngredients": "Glycolic acid, Collagen, Keratin, Biotin, Hydrolysed protein (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -28137,7 +28137,7 @@ const NXPRODUCTS = [
   "price": 264,
   "capacityLine": "250 g",
   "materialLine": "Coffee + Rice water + Aloe vera",
-  "featureLine": "Keratin / smoothing treatment · ₹106/100g",
+  "featureLine": "Other · ₹106/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -28154,7 +28154,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "250 g",
    "pricePer100": "₹106/100g",
-   "format": "Keratin / smoothing treatment",
+   "format": "Other",
    "appliesTo": "Scalp + lengths (per listing)",
    "keyIngredients": "Coffee, Rice water, Aloe vera, Neem, Argan oil, Rosemary, Bhringraj, Amla, Keratin, Biotin, Hydrolysed protein (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -28372,7 +28372,7 @@ const NXPRODUCTS = [
   "price": 195,
   "capacityLine": "200 g",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Cream · ₹98/100g",
+  "featureLine": "Other · ₹98/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -28389,7 +28389,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "200 g",
    "pricePer100": "₹98/100g",
-   "format": "Cream",
+   "format": "Other",
    "appliesTo": "Lengths & ends (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -30026,7 +30026,7 @@ const NXPRODUCTS = [
   "price": 1744,
   "capacityLine": "1000 ml",
   "materialLine": "Keratin",
-  "featureLine": "Wash / cleanser · ₹174/100ml",
+  "featureLine": "Other · ₹174/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -30042,7 +30042,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "1000 ml",
    "pricePer100": "₹174/100ml",
-   "format": "Wash / cleanser",
+   "format": "Other",
    "appliesTo": "Scalp (per listing)",
    "keyIngredients": "Keratin (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -31285,7 +31285,7 @@ const NXPRODUCTS = [
   "price": 3464,
   "capacityLine": "2000 ml (pack of 2)",
   "materialLine": "Rosemary",
-  "featureLine": "Keratin / smoothing treatment · ₹173/100ml",
+  "featureLine": "Other · ₹173/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -31302,7 +31302,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "1000 ml × 2 pack",
    "pricePer100": "₹173/100ml",
-   "format": "Keratin / smoothing treatment",
+   "format": "Other",
    "appliesTo": "Scalp + lengths (per listing)",
    "keyIngredients": "Rosemary (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -31638,7 +31638,7 @@ const NXPRODUCTS = [
   "price": 180,
   "capacityLine": "200 g",
   "materialLine": "Ceramides + Rosemary + Keratin",
-  "featureLine": "Mist / spray · ₹90/100g",
+  "featureLine": "Other · ₹90/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -31655,7 +31655,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "200 g",
    "pricePer100": "₹90/100g",
-   "format": "Mist / spray",
+   "format": "Other",
    "appliesTo": "Scalp + lengths (per listing)",
    "keyIngredients": "Ceramides, Rosemary, Keratin (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -32228,7 +32228,7 @@ const NXPRODUCTS = [
   "price": 189,
   "capacityLine": "400 ml",
   "materialLine": "Rosemary",
-  "featureLine": "Mist / spray · ₹47/100ml",
+  "featureLine": "Other · ₹47/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -32245,7 +32245,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "400 ml",
    "pricePer100": "₹47/100ml",
-   "format": "Mist / spray",
+   "format": "Other",
    "appliesTo": "Scalp (per listing)",
    "keyIngredients": "Rosemary (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -32337,7 +32337,7 @@ const NXPRODUCTS = [
   "price": 469,
   "capacityLine": "1000 ml",
   "materialLine": "Neem + Amla",
-  "featureLine": "Powder · Formaldehyde-free · ₹47/100ml",
+  "featureLine": "Other · Formaldehyde-free · ₹47/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -32354,7 +32354,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "1000 ml",
    "pricePer100": "₹47/100ml",
-   "format": "Powder",
+   "format": "Other",
    "appliesTo": "Not stated in listing",
    "keyIngredients": "Neem, Amla (named on listing)",
    "freeFrom": "Formaldehyde-free (seller claim — not scored)",
@@ -32448,7 +32448,7 @@ const NXPRODUCTS = [
   "price": 140,
   "capacityLine": "200 g",
   "materialLine": "Rosemary + Bhringraj + Amla",
-  "featureLine": "Mist / spray · ₹70/100g",
+  "featureLine": "Other · ₹70/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -32465,7 +32465,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "200 g",
    "pricePer100": "₹70/100g",
-   "format": "Mist / spray",
+   "format": "Other",
    "appliesTo": "Scalp + lengths (per listing)",
    "keyIngredients": "Rosemary, Bhringraj, Amla (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -32559,7 +32559,7 @@ const NXPRODUCTS = [
   "price": 295,
   "capacityLine": "380 g",
   "materialLine": "Argan oil + Rosemary + Amla",
-  "featureLine": "Mist / spray · ₹78/100g",
+  "featureLine": "Other · ₹78/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -32576,7 +32576,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "380 g",
    "pricePer100": "₹78/100g",
-   "format": "Mist / spray",
+   "format": "Other",
    "appliesTo": "Scalp + lengths (per listing)",
    "keyIngredients": "Argan oil, Rosemary, Amla, Biotin (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -32776,7 +32776,7 @@ const NXPRODUCTS = [
   "price": 538,
   "capacityLine": "1000 ml",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Wash / cleanser · Formaldehyde-free · ₹54/100ml",
+  "featureLine": "Other · Formaldehyde-free · ₹54/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "Well-reviewed: 4.3★ from 40 ratings"
@@ -32794,7 +32794,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "1000 ml",
    "pricePer100": "₹54/100ml",
-   "format": "Wash / cleanser",
+   "format": "Other",
    "appliesTo": "Scalp (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Formaldehyde-free (seller claim — not scored)",
@@ -32888,7 +32888,7 @@ const NXPRODUCTS = [
   "price": 560,
   "capacityLine": "500 ml",
   "materialLine": "Coffee + Rice water + Aloe vera",
-  "featureLine": "Mist / spray · Sulfate/SLS-free · ₹112/100ml",
+  "featureLine": "Other · Sulfate/SLS-free · ₹112/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -32905,7 +32905,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "500 ml",
    "pricePer100": "₹112/100ml",
-   "format": "Mist / spray",
+   "format": "Other",
    "appliesTo": "Scalp (per listing)",
    "keyIngredients": "Coffee, Rice water, Aloe vera, Neem, Bhringraj, Amla, Hydrolysed protein (named on listing)",
    "freeFrom": "Sulfate/SLS-free (seller claim — not scored)",
@@ -33011,7 +33011,7 @@ const NXPRODUCTS = [
   "price": 953,
   "capacityLine": "240 g (pack of 2)",
   "materialLine": "Collagen + Keratin",
-  "featureLine": "Kit · ₹397/100g",
+  "featureLine": "Other · ₹397/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -33028,7 +33028,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "120 g × 2 pack",
    "pricePer100": "₹397/100g",
-   "format": "Kit",
+   "format": "Other",
    "appliesTo": "Lengths & ends (per listing)",
    "keyIngredients": "Collagen, Keratin (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -33776,7 +33776,7 @@ const NXPRODUCTS = [
   "price": 5065,
   "capacityLine": "400 g (pack of 2)",
   "materialLine": "Rosemary + Keratin + Biotin",
-  "featureLine": "Hair spray · ₹1266/100g",
+  "featureLine": "Other · ₹1266/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -33793,7 +33793,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "200 g × 2 pack",
    "pricePer100": "₹1266/100g",
-   "format": "Hair spray",
+   "format": "Other",
    "appliesTo": "Scalp + lengths (per listing)",
    "keyIngredients": "Rosemary, Keratin, Biotin (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -34235,7 +34235,7 @@ const NXPRODUCTS = [
   "price": 7725,
   "capacityLine": "240 g (pack of 2)",
   "materialLine": "Vitamin E + Vitamin B5 / panthenol + Argan oil",
-  "featureLine": "Oil · Formaldehyde-free · ₹3219/100g",
+  "featureLine": "Other · Formaldehyde-free · ₹3219/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -34252,7 +34252,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "120 g × 2 pack",
    "pricePer100": "₹3219/100g",
-   "format": "Oil",
+   "format": "Other",
    "appliesTo": "Scalp + lengths (per listing)",
    "keyIngredients": "Vitamin E, Vitamin B5 / panthenol, Argan oil, Keratin, Hydrolysed protein, Amino acids, Panthenol, Glyoxylic acid (named on listing)",
    "freeFrom": "Formaldehyde-free (seller claim — not scored)",
@@ -34358,7 +34358,7 @@ const NXPRODUCTS = [
   "price": 6001,
   "capacityLine": "2000 ml (pack of 2)",
   "materialLine": "Collagen + Argan oil + Keratin",
-  "featureLine": "Keratin / smoothing treatment · ₹300/100ml",
+  "featureLine": "Other · ₹300/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -34375,7 +34375,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "1000 ml × 2 pack",
    "pricePer100": "₹300/100ml",
-   "format": "Keratin / smoothing treatment",
+   "format": "Other",
    "appliesTo": "Lengths & ends (per listing)",
    "keyIngredients": "Collagen, Argan oil, Keratin, Cysteine (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -34479,7 +34479,7 @@ const NXPRODUCTS = [
   "price": 953,
   "capacityLine": "2000 ml (pack of 2)",
   "materialLine": "Coffee + Rice water + Aloe vera",
-  "featureLine": "Mist / spray · ₹48/100ml",
+  "featureLine": "Other · ₹48/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -34496,7 +34496,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "1000 ml × 2 pack",
    "pricePer100": "₹48/100ml",
-   "format": "Mist / spray",
+   "format": "Other",
    "appliesTo": "Scalp + lengths (per listing)",
    "keyIngredients": "Coffee, Rice water, Aloe vera, Neem, Bhringraj, Amla, Keratin, Hydrolysed protein (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -34602,7 +34602,7 @@ const NXPRODUCTS = [
   "price": 4445,
   "capacityLine": "40 g (pack of 2)",
   "materialLine": "Keratin",
-  "featureLine": "Keratin / smoothing treatment · Formaldehyde-free · ₹11113/100g",
+  "featureLine": "Other · Formaldehyde-free · ₹11113/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -34618,7 +34618,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "20 g × 2 pack",
    "pricePer100": "₹11113/100g",
-   "format": "Keratin / smoothing treatment",
+   "format": "Other",
    "appliesTo": "Scalp + lengths (per listing)",
    "keyIngredients": "Keratin (named on listing)",
    "freeFrom": "Formaldehyde-free (seller claim — not scored)",
@@ -34718,7 +34718,7 @@ const NXPRODUCTS = [
   "price": 558,
   "capacityLine": "1000 ml",
   "materialLine": "Collagen + Argan oil + Amla",
-  "featureLine": "Keratin / smoothing treatment · Formaldehyde-free · ₹56/100ml",
+  "featureLine": "Other · Formaldehyde-free · ₹56/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -34735,7 +34735,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "1000 ml",
    "pricePer100": "₹56/100ml",
-   "format": "Keratin / smoothing treatment",
+   "format": "Other",
    "appliesTo": "Not stated in listing",
    "keyIngredients": "Collagen, Argan oil, Amla, Keratin (named on listing)",
    "freeFrom": "Formaldehyde-free (seller claim — not scored)",
@@ -35630,7 +35630,7 @@ const NXPRODUCTS = [
   "price": 3461,
   "capacityLine": "500 ml (pack of 2)",
   "materialLine": "Argan oil + Rosemary + Keratin",
-  "featureLine": "Keratin / smoothing treatment · ₹692/100ml",
+  "featureLine": "Other · ₹692/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -35647,7 +35647,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "250 ml × 2 pack",
    "pricePer100": "₹692/100ml",
-   "format": "Keratin / smoothing treatment",
+   "format": "Other",
    "appliesTo": "Scalp + lengths (per listing)",
    "keyIngredients": "Argan oil, Rosemary, Keratin, Biotin (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -36408,7 +36408,7 @@ const NXPRODUCTS = [
   "price": 498,
   "capacityLine": "169 ml",
   "materialLine": "Keratin",
-  "featureLine": "Wash / cleanser · ₹295/100ml",
+  "featureLine": "Other · ₹295/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -36425,7 +36425,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "169 ml",
    "pricePer100": "₹295/100ml",
-   "format": "Wash / cleanser",
+   "format": "Other",
    "appliesTo": "Scalp + lengths (per listing)",
    "keyIngredients": "Keratin (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -36625,7 +36625,7 @@ const NXPRODUCTS = [
   "price": 667,
   "capacityLine": "1000 ml",
   "materialLine": "Keratin",
-  "featureLine": "Keratin / smoothing treatment · ₹67/100ml",
+  "featureLine": "Other · ₹67/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -36641,7 +36641,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "1000 ml",
    "pricePer100": "₹67/100ml",
-   "format": "Keratin / smoothing treatment",
+   "format": "Other",
    "appliesTo": "Scalp + lengths (per listing)",
    "keyIngredients": "Keratin (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -36844,7 +36844,7 @@ const NXPRODUCTS = [
   "price": 636,
   "capacityLine": "196 ml",
   "materialLine": "Glycerin + Keratin",
-  "featureLine": "Wash / cleanser · ₹324/100ml",
+  "featureLine": "Other · ₹324/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -36861,7 +36861,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "196 ml",
    "pricePer100": "₹324/100ml",
-   "format": "Wash / cleanser",
+   "format": "Other",
    "appliesTo": "Scalp + lengths (per listing)",
    "keyIngredients": "Glycerin, Keratin (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -37167,7 +37167,7 @@ const NXPRODUCTS = [
   "price": 886,
   "capacityLine": "600 ml (pack of 2)",
   "materialLine": "Bhringraj + Amla + Keratin",
-  "featureLine": "Keratin / smoothing treatment · ₹148/100ml",
+  "featureLine": "Other · ₹148/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -37184,7 +37184,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "300 ml × 2 pack",
    "pricePer100": "₹148/100ml",
-   "format": "Keratin / smoothing treatment",
+   "format": "Other",
    "appliesTo": "Scalp + lengths (per listing)",
    "keyIngredients": "Bhringraj, Amla, Keratin (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -37284,7 +37284,7 @@ const NXPRODUCTS = [
   "price": 364,
   "capacityLine": "50 g",
   "materialLine": "Titanium dioxide + Keratin",
-  "featureLine": "Gel · Sulfate/SLS-free · ₹728/100g",
+  "featureLine": "Other · Sulfate/SLS-free · ₹728/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -37301,7 +37301,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹728/100g",
-   "format": "Gel",
+   "format": "Other",
    "appliesTo": "Scalp (per listing)",
    "keyIngredients": "Titanium dioxide, Keratin (named on listing)",
    "freeFrom": "Sulfate/SLS-free (seller claim — not scored)",
@@ -37865,7 +37865,7 @@ const NXPRODUCTS = [
   "price": 192,
   "capacityLine": "500 ml",
   "materialLine": "Keratin",
-  "featureLine": "Wash / cleanser · ₹38/100ml",
+  "featureLine": "Other · ₹38/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -37882,7 +37882,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "500 ml",
    "pricePer100": "₹38/100ml",
-   "format": "Wash / cleanser",
+   "format": "Other",
    "appliesTo": "Scalp + lengths (per listing)",
    "keyIngredients": "Keratin (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -37966,6 +37966,105 @@ const NXPRODUCTS = [
     "url": null
    },
    "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "deconstruct-itm6373f40d58b19",
+  "brand": "Deconstruct",
+  "model": "KeratinTreatment_HairSerum",
+  "price": 474,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Keratin",
+  "featureLine": "Keratin / smoothing treatment",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 4 ingredients named — formula unscored"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 5.3,
+   "experience": 4.4
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Keratin / smoothing treatment",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Keratin (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "hairConcern": "Not stated in listing",
+   "hairType": "Not stated in listing",
+   "regulated": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.1/5 (32 ratings, Flipkart)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Specifications › Composition",
+   "inciList": "Unverified seller line: 1% Keratin Complex, 1% Argan Oil, 2% Macadamia Oil, 6.5% Octocrylene:",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Deconstruct Skincare — Indian D2C brand with its own product company",
+   "declaredManufacturer": "Baypure Lifestyle Private Limited (as printed on the Flipkart listing — not scored)",
+   "buyerEvidence": "4.1★ from 32 ratings"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-serum/b/y/f/-original-imahhy36ncuqkf3f.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-serum/u/p/7/-original-imahhy3692gqgpz5.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-serum/0/v/h/-original-imahhy369yr64htk.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-serum/x/5/q/-original-imahhy36zzfkqexh.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-serum/u/0/h/-original-imahhy36ahzvz9hh.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/deconstruct-keratintreatment-hairserum/p/itm6373f40d58b19",
+  "buyStore": "Flipkart",
+  "title": "Deconstruct KeratinTreatment_HairSerum",
+  "tags": [
+   "area:unstated",
+   "format:keratin-treatment",
+   "ing:keratin",
+   "aud:unisex",
+   "rating:4.0",
+   "store:flipkart",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Specifications › Composition",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "1% Keratin Complex, 1% Argan Oil, 2% Macadamia Oil, 6.5% Octocrylene:",
+   "inciNote": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Deconstruct Skincare",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://deconstruct.in/"
+   },
+   "buyers": "4.1★ from 32 ratings"
   }
  },
  {
@@ -42349,7 +42448,7 @@ const NXPRODUCTS = [
   "price": 499,
   "capacityLine": "1000 ml",
   "materialLine": "Keratin",
-  "featureLine": "Keratin / smoothing treatment · Formaldehyde-free · ₹50/100ml",
+  "featureLine": "Other · Formaldehyde-free · ₹50/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -42365,7 +42464,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "1000 ml",
    "pricePer100": "₹50/100ml",
-   "format": "Keratin / smoothing treatment",
+   "format": "Other",
    "appliesTo": "Not stated in listing",
    "keyIngredients": "Keratin (named on listing)",
    "freeFrom": "Formaldehyde-free (seller claim — not scored)",
@@ -42560,7 +42659,7 @@ const NXPRODUCTS = [
   "price": 1403,
   "capacityLine": "1000 ml",
   "materialLine": "Keratin",
-  "featureLine": "Keratin / smoothing treatment · ₹140/100ml",
+  "featureLine": "Other · ₹140/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -42576,7 +42675,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "1000 ml",
    "pricePer100": "₹140/100ml",
-   "format": "Keratin / smoothing treatment",
+   "format": "Other",
    "appliesTo": "Lengths & ends (per listing)",
    "keyIngredients": "Keratin (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -46259,13 +46358,224 @@ const NXPRODUCTS = [
   }
  },
  {
+  "id": "xbs-professional-b09fzkgr4q",
+  "brand": "XBS PROFESSIONAL",
+  "model": "Hair Straight Cream Pack 125ml Hair Smoothing Cream",
+  "price": 395,
+  "capacityLine": "125 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Cream · ₹316/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 1 ingredient named — formula unscored",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 2.2
+  },
+  "fullSpec": {
+   "quantity": "125 ml",
+   "pricePer100": "₹316/100ml",
+   "format": "Cream",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "hairConcern": "Smoothing / straightening (seller claim — not clinical proof)",
+   "hairType": "Not stated in listing",
+   "regulated": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.1/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: aloe",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.1★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71oM-IccWQL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61TGxcej-UL._SL1024_.jpg",
+   "https://m.media-amazon.com/images/I/61fpypA1SoL._SL1024_.jpg",
+   "https://m.media-amazon.com/images/I/61srwPVK3LL._SL1024_.jpg",
+   "https://m.media-amazon.com/images/I/61uJkcaG7lL._SL1024_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B09FZKGR4Q",
+  "buyStore": "Amazon",
+  "title": "Hair Straight Cream Pack 125ml Hair Smoothing Cream",
+  "tags": [
+   "area:unstated",
+   "format:cream",
+   "format:kit",
+   "format:keratin-treatment",
+   "concern:smoothing",
+   "aud:unisex",
+   "size:large",
+   "rating:4.0",
+   "store:amazon",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "aloe",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.1★ from 0 ratings"
+  }
+ },
+ {
+  "id": "aleza-b0gpps7h5k",
+  "brand": "ALEZA",
+  "model": "Brazilian Blowout Plastia Mask Daily Care for Long-Lasting Smoothness & Ultimate Shine, De…",
+  "price": 649,
+  "capacityLine": "350 ml",
+  "materialLine": "Argan oil + Onion + Hibiscus",
+  "featureLine": "Keratin / smoothing treatment · ₹185/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "350 ml",
+   "pricePer100": "₹185/100ml",
+   "format": "Keratin / smoothing treatment",
+   "appliesTo": "Scalp (per listing)",
+   "keyIngredients": "Argan oil, Onion, Hibiscus (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "hairConcern": "Dandruff / flakes, Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss (seller claim — not clinical proof)",
+   "hairType": "Not stated in listing",
+   "regulated": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61N+hI4QO4L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71O3-saX1QL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71vviiNmTbL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GPPS7H5K",
+  "buyStore": "Amazon",
+  "title": "ALEZA Brazilian Blowout Plastia Mask Daily Care for Long-Lasting Smoothness & Ultimate Shine, Deep Repair Formula (HAIR MARK) 350ml",
+  "tags": [
+   "area:scalp",
+   "format:oil",
+   "format:shampoo",
+   "format:conditioner",
+   "format:keratin-treatment",
+   "ing:argan-oil",
+   "ing:onion",
+   "ing:hibiscus",
+   "concern:dandruff",
+   "concern:damage-repair",
+   "concern:dryness",
+   "concern:smoothing",
+   "concern:shine",
+   "aud:unisex",
+   "size:xl",
+   "rating:none",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
   "id": "garena-b0hf85nr91",
   "brand": "Garena",
   "model": "Regenscar Triple Action Scar Removal Cream – Scar | Stretch Mark & Acne Mark Care Gel - Sk…",
   "price": 399,
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray",
+  "featureLine": "Gel",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -46282,7 +46592,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Hair-removal cream / spray",
+   "format": "Gel",
    "appliesTo": "Not stated in listing",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -47650,7 +47960,7 @@ const NXPRODUCTS = [
   "price": 6250,
   "capacityLine": "1000 ml",
   "materialLine": "Keratin",
-  "featureLine": "Keratin / smoothing treatment · Paraben-free · ₹625/100ml",
+  "featureLine": "Other · Paraben-free · ₹625/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -47667,7 +47977,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "1000 ml",
    "pricePer100": "₹625/100ml",
-   "format": "Keratin / smoothing treatment",
+   "format": "Other",
    "appliesTo": "Lengths & ends (per listing)",
    "keyIngredients": "Keratin (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -50449,7 +50759,7 @@ const NXPRODUCTS = [
   "price": 499,
   "capacityLine": "120 ml",
   "materialLine": "Keratin",
-  "featureLine": "Keratin / smoothing treatment · ₹416/100ml",
+  "featureLine": "Other · ₹416/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -50466,7 +50776,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "120 ml",
    "pricePer100": "₹416/100ml",
-   "format": "Keratin / smoothing treatment",
+   "format": "Other",
    "appliesTo": "Lengths & ends (per listing)",
    "keyIngredients": "Keratin (named on listing)",
    "freeFrom": "Not stated in listing",
@@ -51300,13 +51610,122 @@ const NXPRODUCTS = [
   }
  },
  {
+  "id": "paula-s-choice-b07dwyxjhx",
+  "brand": "Paula's Choice",
+  "model": "RESIST Daily Smoothing Treatment, AHA Face Lotion Exfoliant, Lactic, Glycolic & Malic Acid…",
+  "price": 3440,
+  "capacityLine": "50 ml",
+  "materialLine": "Glycolic acid + Lactic acid + AHA",
+  "featureLine": "Keratin / smoothing treatment · Fragrance-free · ₹6880/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6.5,
+   "experience": 3.2
+  },
+  "fullSpec": {
+   "quantity": "50 ml",
+   "pricePer100": "₹6880/100ml",
+   "format": "Keratin / smoothing treatment",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Glycolic acid, Lactic acid, AHA (named on listing)",
+   "freeFrom": "Fragrance-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "hairConcern": "Dryness / hydration, Smoothing / straightening (seller claim — not clinical proof)",
+   "hairType": "Not stated in listing",
+   "regulated": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.4/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
+   "buyerEvidence": "4.4★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61BRRHp97hL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/719Qc60y0fL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81H46PRqTeL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71c+O8li3gL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/7153KXKFh7L._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B07DWYXJHX",
+  "buyStore": "Amazon",
+  "title": "Paula's Choice RESIST Daily Smoothing Treatment, AHA Face Lotion Exfoliant, Lactic, Glycolic & Malic Acids, Exfoliant for Face, Anti-Aging Exfoliant for Normal to Dry Skin, Fragrance-Free - 50 ml",
+  "tags": [
+   "area:unstated",
+   "format:lotion",
+   "format:toner",
+   "format:wash",
+   "format:texture-spray",
+   "format:keratin-treatment",
+   "ing:glycolic-acid",
+   "ing:lactic-acid",
+   "ing:aha",
+   "concern:dryness",
+   "concern:smoothing",
+   "free:fragrance",
+   "free:sensitive-safe",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Unilever / Hindustan Unilever",
+    "kind": "global",
+    "label": "Global FMCG or beauty group",
+    "pts": 6.5,
+    "url": "https://www.hul.co.in/brands/"
+   },
+   "buyers": "4.4★ from 0 ratings"
+  }
+ },
+ {
   "id": "cerave-b07wl7wv52",
   "brand": "CeraVe",
   "model": "SA Smoothing Cream | Exfoliating and Skin Smoothing Cream for Rough, Dry & Bumpy Skin with…",
   "price": 1079,
   "capacityLine": "177 ml",
   "materialLine": "Niacinamide + Salicylic acid (BHA) + Lactic acid",
-  "featureLine": "Scrub · Fragrance-free · ₹610/100ml",
+  "featureLine": "Cream · Fragrance-free · ₹610/100ml",
   "highlight": "Live Amazon listing. Scored from its published INCI list (Amazon.in listing — Important information › Ingredients): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "behentrimonium methosulfate high on the INCI list (moderate evidence); dimethicone high on the INCI list (moderate evidence)",
@@ -51323,7 +51742,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "177 ml",
    "pricePer100": "₹610/100ml",
-   "format": "Scrub",
+   "format": "Cream",
    "appliesTo": "Not stated in listing",
    "keyIngredients": "Niacinamide, Salicylic acid (BHA), Lactic acid, AHA, Urea, Hyaluronic acid, Ceramides, Strawberry (named on listing)",
    "freeFrom": "Fragrance-free (seller claim — not scored)",
@@ -55362,7 +55781,7 @@ const NXPRODUCTS = [
   "price": 1999,
   "capacityLine": "1000 ml",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Scrub · Formaldehyde-free · ₹200/100ml",
+  "featureLine": "Other · Formaldehyde-free · ₹200/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -55379,7 +55798,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "1000 ml",
    "pricePer100": "₹200/100ml",
-   "format": "Scrub",
+   "format": "Other",
    "appliesTo": "Scalp + lengths (per listing)",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Formaldehyde-free (seller claim — not scored)",
@@ -56325,7 +56744,7 @@ const NXPRODUCTS = [
   "price": 599,
   "capacityLine": "Quantity not stated",
   "materialLine": "Shea butter + Keratin",
-  "featureLine": "Body butter · Paraben-free",
+  "featureLine": "Other · Paraben-free",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -56341,7 +56760,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
-   "format": "Body butter",
+   "format": "Other",
    "appliesTo": "Lengths & ends (per listing)",
    "keyIngredients": "Shea butter, Keratin (named on listing)",
    "freeFrom": "Paraben-free, Formaldehyde-free (seller claim — not scored)",
@@ -59856,7 +60275,7 @@ const NXPRODUCTS = [
   "price": 499,
   "capacityLine": "1000 ml",
   "materialLine": "Keratin",
-  "featureLine": "Keratin / smoothing treatment · Formaldehyde-free · ₹50/100ml",
+  "featureLine": "Other · Formaldehyde-free · ₹50/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -59872,7 +60291,7 @@ const NXPRODUCTS = [
   "fullSpec": {
    "quantity": "1000 ml",
    "pricePer100": "₹50/100ml",
-   "format": "Keratin / smoothing treatment",
+   "format": "Other",
    "appliesTo": "Not stated in listing",
    "keyIngredients": "Keratin (named on listing)",
    "freeFrom": "Formaldehyde-free (seller claim — not scored)",
@@ -63366,103 +63785,6 @@ const NXPRODUCTS = [
     "url": null
    },
    "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "unbranded-b09fzkgr4q",
-  "brand": "Unbranded",
-  "model": "Hair Straight Cream Pack 125ml Hair Smoothing Cream",
-  "price": 395,
-  "capacityLine": "125 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Cream · ₹316/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0.3
-  },
-  "fullSpec": {
-   "quantity": "125 ml",
-   "pricePer100": "₹316/100ml",
-   "format": "Cream",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Smoothing / straightening (seller claim — not clinical proof)",
-   "hairType": "Not stated in listing",
-   "regulated": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "3.5/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.5★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71oM-IccWQL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B09FZKGR4Q",
-  "buyStore": "Amazon",
-  "title": "Hair Straight Cream Pack 125ml Hair Smoothing Cream",
-  "tags": [
-   "area:unstated",
-   "format:cream",
-   "format:keratin-treatment",
-   "concern:smoothing",
-   "aud:unisex",
-   "size:large",
-   "rating:3.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "3.5★ from 0 ratings"
   }
  }
 ];
