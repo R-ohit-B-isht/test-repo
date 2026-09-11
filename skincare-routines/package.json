@@ -5,6 +5,7 @@
   "type": "module",
   "scripts": {
     "data": "node scripts/build-data.mjs",
+    "icons": "node scripts/pwa-icons.mjs",
     "og": "npm run data && node scripts/og-image.mjs",
     "dev": "npm run data && vite",
     "build": "npm run data && tsc -b && vite build",
@@ -36,6 +37,8 @@
     "oxlint": "1.80.0",
     "tailwindcss": "4.3.3",
     "typescript": "5.9.3",
-    "vite": "6.4.3"
+    "vite": "6.4.3",
+    "vite-plugin-pwa": "^1.3.0",
+    "workbox-window": "^7.4.1"
   }
 }

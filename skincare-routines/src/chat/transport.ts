@@ -25,6 +25,11 @@ async function* unconfigured(): AsyncGenerator<ChatEvent> {
   yield { event: 'error', data: { code: 'no-key', message: 'The assistant is not configured for this deployment: chat-config.json selects browser mode but carries no Gemini key.' } };
 }
 
+/** Gemini is a live service: with no connection the assistant says so instead of answering from cached data as if it had asked. */
+async function* offline(): AsyncGenerator<ChatEvent> {
+  yield { event: 'error', data: { code: 'offline', message: 'You are offline. The assistant needs a connection to Gemini; your saved chats and routine are still here, and product pages you opened before still load.' } };
+}
+
 let browserEngine: Promise<ChatTransport> | null = null;
 
 /** The local engine (and @google/genai) is loaded only when browser mode is actually used, so server-mode visitors
@@ -45,5 +50,6 @@ function browserTransport(config: ChatConfig): ChatTransport {
 }
 
 export function transportFor(config: ChatConfig): ChatTransport {
-  return config.mode === 'browser' ? browserTransport(config) : (req) => serverTransport(config.apiBase, req);
+  const live = config.mode === 'browser' ? browserTransport(config) : (req: ChatRequest) => serverTransport(config.apiBase, req);
+  return (req) => (typeof navigator !== 'undefined' && !navigator.onLine ? offline() : live(req));
 }

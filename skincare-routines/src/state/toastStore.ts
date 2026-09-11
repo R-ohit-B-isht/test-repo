@@ -23,11 +23,11 @@ export function dismissToast(id: number) {
   emit();
 }
 
-/** Observer store for bottom toasts (Booking "Saved · Change" pattern): one line, at most one action, auto-dismiss. */
-export function toast(text: string, action?: Toast['action']): number {
+/** Observer store for bottom toasts (Booking "Saved · Change" pattern): one line, at most one action, auto-dismiss unless sticky. */
+export function toast(text: string, action?: Toast['action'], opts?: { sticky?: boolean }): number {
   const id = ++seq;
   toasts = [...toasts.slice(-(MAX_VISIBLE - 1)), { id, text, action }];
-  timers.set(id, setTimeout(() => dismissToast(id), TTL));
+  if (!opts?.sticky) timers.set(id, setTimeout(() => dismissToast(id), TTL));
   emit();
   return id;
 }
