@@ -19,8 +19,8 @@ export function ActiveChips({ idx, groups, state, onRemove, onPrice, onQuery, on
   return (
     <div className="flex flex-wrap items-center gap-2" aria-label="Active filters">
       {chips.map((c) => (
-        <button key={c.key} type="button" onClick={c.onRemove} className="chip press !h-8 !border-accent-soft !bg-accent-soft !text-accent" aria-label={`Remove filter ${c.text}`}>
-          {c.text}<X size={12} aria-hidden />
+        <button key={c.key} type="button" onClick={c.onRemove} className="chip press !h-8 max-w-full !border-accent-soft !bg-accent-soft !text-accent" aria-label={`Remove filter ${c.text}`} title={c.text}>
+          <span className="min-w-0 truncate">{c.text}</span><X size={12} className="shrink-0" aria-hidden />
         </button>
       ))}
       <button type="button" onClick={onClearAll} className="label press h-8 px-2 hover:text-display hover:underline">Clear all</button>

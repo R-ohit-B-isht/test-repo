@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-11.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-12.
 // Unknown fields are honestly marked, never invented.
 const NXPRODUCTS = [
  {
@@ -34993,7 +34993,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/8/4/z/200-fem-feminine-wash-100ml-intimate-hygiene-for-vaginal-wash-original-imahfy68tmvngq4f.jpeg?q=90",
@@ -35012,6 +35013,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:tea-tree",
    "ing:aloe-vera",
@@ -58694,7 +58696,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Oriflame Cosmetics — Global FMCG or beauty group",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/i/r/15-tender-care-protecting-balm-oriflame-gel-original-imahffxbykrhpkzx.jpeg?q=90",
@@ -58714,6 +58717,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:lactic-acid",
    "ing:aloe-vera",
    "ing:honey",

@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-11.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-12.
 // Unknown fields are honestly marked, never invented.
 const NXPRODUCTS = [
  {
@@ -50,7 +50,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.3★ from 27 ratings",
-   "concernBasis": "Acne — product type, azelaic acid #2 on INCI, betaine salicylate #9 on INCI; Dark spots — product type, azelaic acid #2 on INCI; Irritation — product type, azelaic acid #2 on INCI, panthenol #7 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — product type, azelaic acid #2 on INCI, betaine salicylate #9 on INCI; Dark spots — product type, azelaic acid #2 on INCI; Irritation — product type, azelaic acid #2 on INCI, panthenol #7 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/h/p/v/30-10-azelaic-acid-hyaluron-serum-for-clear-calm-skin-anua-original-imahd5ubh3ky3ph3.jpeg?q=90",
@@ -66,6 +67,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:azelaic-acid",
    "ing:hyaluronic-acid",
    "claim:brightening",
@@ -311,7 +313,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4★ from 5 ratings",
-   "concernBasis": "Acne — product type, azelaic acid #2 on INCI, betaine salicylate #9 on INCI; Dark spots — product type, azelaic acid #2 on INCI; Irritation — product type, azelaic acid #2 on INCI, panthenol #7 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — product type, azelaic acid #2 on INCI, betaine salicylate #9 on INCI; Dark spots — product type, azelaic acid #2 on INCI; Irritation — product type, azelaic acid #2 on INCI, panthenol #7 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/5/g/b/30-redness-soothing-serum-with-azelaic-acid-10-hyaluron-for-original-imahcsjsfhdwsczu.jpeg?q=90",
@@ -327,6 +330,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:azelaic-acid",
    "ing:hyaluronic-acid",
    "claim:brightening",
@@ -574,7 +578,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.5★ from 12 ratings",
-   "concernBasis": "Acne — product type, azelaic acid #2 on INCI, betaine salicylate #9 on INCI; Dark spots — product type, azelaic acid #2 on INCI; Irritation — product type, azelaic acid #2 on INCI, panthenol #7 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — product type, azelaic acid #2 on INCI, betaine salicylate #9 on INCI; Dark spots — product type, azelaic acid #2 on INCI; Irritation — product type, azelaic acid #2 on INCI, panthenol #7 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/y/v/w/30-redness-relief-serum-10-azelaic-acid-hyaluronic-acid-original-imahcsjt8yygp3h4.jpeg?q=90",
@@ -590,6 +595,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:azelaic-acid",
    "ing:hyaluronic-acid",
    "claim:brightening",
@@ -838,7 +844,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.3★ from 16 ratings",
-   "concernBasis": "Acne — product type, azelaic acid #2 on INCI, betaine salicylate #9 on INCI; Dark spots — product type, azelaic acid #2 on INCI; Irritation — product type, azelaic acid #2 on INCI, panthenol #7 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — product type, azelaic acid #2 on INCI, betaine salicylate #9 on INCI; Dark spots — product type, azelaic acid #2 on INCI; Irritation — product type, azelaic acid #2 on INCI, panthenol #7 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/j/k/v/30-soothing-serum-with-azelaic-acid-10-hyaluron-skin-clarity-original-imahcsjsweyknf4y.jpeg?q=90",
@@ -854,6 +861,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:azelaic-acid",
    "ing:hyaluronic-acid",
    "claim:brightening",
@@ -1100,7 +1108,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4★ from 8 ratings",
-   "concernBasis": "Acne — product type, azelaic acid #2 on INCI, betaine salicylate #9 on INCI; Dark spots — product type, azelaic acid #2 on INCI; Irritation — product type, azelaic acid #2 on INCI, panthenol #7 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — product type, azelaic acid #2 on INCI, betaine salicylate #9 on INCI; Dark spots — product type, azelaic acid #2 on INCI; Irritation — product type, azelaic acid #2 on INCI, panthenol #7 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/i/8/p/30-acne-care-redness-relief-serum-azelaic-acid-10-anua-original-imahd5ubchfgc8p5.jpeg?q=90",
@@ -1116,6 +1125,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:azelaic-acid",
    "ing:hyaluronic-acid",
    "claim:brightening",
@@ -1362,7 +1372,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type, azelaic acid #2 on INCI, betaine salicylate #9 on INCI; Dark spots — product type, azelaic acid #2 on INCI; Irritation — product type, azelaic acid #2 on INCI, panthenol #7 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — product type, azelaic acid #2 on INCI, betaine salicylate #9 on INCI; Dark spots — product type, azelaic acid #2 on INCI; Irritation — product type, azelaic acid #2 on INCI, panthenol #7 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/s/3/e/30-azelaic-acid-10-hyaluron-redness-soothing-serum-anua-original-imahf5bp6td9nzna.jpeg?q=90",
@@ -1381,6 +1392,7 @@ const NXPRODUCTS = [
    "format:pack",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:niacinamide",
    "ing:azelaic-acid",
    "ing:hyaluronic-acid",
@@ -1635,7 +1647,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type, azelaic acid #2 on INCI, betaine salicylate #9 on INCI; Dark spots — product type, azelaic acid #2 on INCI; Irritation — product type, azelaic acid #2 on INCI, panthenol #7 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — product type, azelaic acid #2 on INCI, betaine salicylate #9 on INCI; Dark spots — product type, azelaic acid #2 on INCI; Irritation — product type, azelaic acid #2 on INCI, panthenol #7 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/i/7/x/30-azelaic-acid-10-hyaluron-serum-for-sensitive-acne-prone-skin-original-imahd5tajbrwjpyf.jpeg?q=90",
@@ -1651,6 +1664,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:azelaic-acid",
@@ -1902,7 +1916,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type, azelaic acid #2 on INCI, betaine salicylate #9 on INCI; Dark spots — product type, azelaic acid #2 on INCI; Irritation — product type, azelaic acid #2 on INCI, panthenol #7 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — product type, azelaic acid #2 on INCI, betaine salicylate #9 on INCI; Dark spots — product type, azelaic acid #2 on INCI; Irritation — product type, azelaic acid #2 on INCI, panthenol #7 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/l/h/b/30-multi-action-soothing-serum-azelaic-acid-10-hyaluronic-acid-original-imahbvdehvwkdk3a.jpeg?q=90",
@@ -1918,6 +1933,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:azelaic-acid",
    "ing:hyaluronic-acid",
    "claim:brightening",
@@ -2165,7 +2181,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.7★ from 3 ratings",
-   "concernBasis": "Acne — product type, azelaic acid #2 on INCI, betaine salicylate #9 on INCI; Dark spots — product type, azelaic acid #2 on INCI; Irritation — product type, azelaic acid #2 on INCI, panthenol #7 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — product type, azelaic acid #2 on INCI, betaine salicylate #9 on INCI; Dark spots — product type, azelaic acid #2 on INCI; Irritation — product type, azelaic acid #2 on INCI, panthenol #7 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/d/l/q/30-10-azelaic-acid-treatment-serum-for-acne-redness-and-oil-original-imahcx5zgztfhr6u.jpeg?q=90",
@@ -2181,6 +2198,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:azelaic-acid",
    "ing:hyaluronic-acid",
    "claim:brightening",
@@ -2427,7 +2445,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type, azelaic acid #2 on INCI, betaine salicylate #9 on INCI; Dark spots — product type, azelaic acid #2 on INCI; Irritation — product type, azelaic acid #2 on INCI, panthenol #7 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — product type, azelaic acid #2 on INCI, betaine salicylate #9 on INCI; Dark spots — product type, azelaic acid #2 on INCI; Irritation — product type, azelaic acid #2 on INCI, panthenol #7 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/s/9/0/30-azelaic-acid-10-serum-with-hyaluronic-acid-redness-relief-original-imahd5tbba5znjar.jpeg?q=90",
@@ -2443,6 +2462,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:azelaic-acid",
    "ing:hyaluronic-acid",
    "claim:brightening",
@@ -2688,7 +2708,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4★ from 3 ratings",
-   "concernBasis": "Acne — product type, azelaic acid #2 on INCI, betaine salicylate #9 on INCI; Dark spots — product type, azelaic acid #2 on INCI; Irritation — product type, azelaic acid #2 on INCI, panthenol #7 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — product type, azelaic acid #2 on INCI, betaine salicylate #9 on INCI; Dark spots — product type, azelaic acid #2 on INCI; Irritation — product type, azelaic acid #2 on INCI, panthenol #7 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/z/w/c/30-azelaic-acid-serum-for-rednes-anua-original-imahcsjp9yfh8yvz.jpeg?q=90",
@@ -2704,6 +2725,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:azelaic-acid",
    "ing:hyaluronic-acid",
    "claim:brightening",
@@ -2949,7 +2971,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type, azelaic acid #2 on INCI, betaine salicylate #9 on INCI; Dark spots — product type, azelaic acid #2 on INCI; Irritation — product type, azelaic acid #2 on INCI, panthenol #7 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — product type, azelaic acid #2 on INCI, betaine salicylate #9 on INCI; Dark spots — product type, azelaic acid #2 on INCI; Irritation — product type, azelaic acid #2 on INCI, panthenol #7 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/4/l/g/30-10-azelaic-acid-hyaluronic-serum-for-even-skin-tone-anua-original-imahcsk7rvefwywj.jpeg?q=90",
@@ -2965,6 +2988,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:azelaic-acid",
    "ing:hyaluronic-acid",
    "claim:brightening",
@@ -3212,7 +3236,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type, azelaic acid #2 on INCI, betaine salicylate #9 on INCI; Dark spots — product type, azelaic acid #2 on INCI; Irritation — product type, azelaic acid #2 on INCI, panthenol #7 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — product type, azelaic acid #2 on INCI, betaine salicylate #9 on INCI; Dark spots — product type, azelaic acid #2 on INCI; Irritation — product type, azelaic acid #2 on INCI, panthenol #7 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/9/b/j/30-azelaic-acid-serum-for-hydration-and-blemish-control-anua-original-imahd5ubkwbe8ndg.jpeg?q=90",
@@ -3228,6 +3253,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:azelaic-acid",
    "ing:hyaluronic-acid",
    "claim:brightening",
@@ -3475,7 +3501,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type, azelaic acid #2 on INCI, betaine salicylate #9 on INCI; Dark spots — product type, azelaic acid #2 on INCI; Irritation — product type, azelaic acid #2 on INCI, panthenol #7 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — product type, azelaic acid #2 on INCI, betaine salicylate #9 on INCI; Dark spots — product type, azelaic acid #2 on INCI; Irritation — product type, azelaic acid #2 on INCI, panthenol #7 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/g/d/q/30-10-azelaic-acid-serum-brightening-anti-blemish-formula-with-original-imahhggnsh9xeckk.jpeg?q=90",
@@ -3492,6 +3519,7 @@ const NXPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:niacinamide",
    "ing:azelaic-acid",
    "ing:hyaluronic-acid",
@@ -3735,7 +3763,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/l/d/1/30-calming-serum-with-azelaic-acid-niacinamide-and-cica-anua-original-imahd5ubfzrayw4h.jpeg?q=90",
@@ -3752,6 +3781,7 @@ const NXPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:niacinamide",
    "ing:azelaic-acid",
    "ing:hyaluronic-acid",
@@ -3857,7 +3887,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/h/f/s/30-azelaic-acid-10-cica-hyaluronic-acid-30ml-anua-original-imahpukuux8dzyzt.jpeg?q=90",
@@ -3873,6 +3904,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:azelaic-acid",
    "ing:hyaluronic-acid",
    "ing:centella-cica",
@@ -3979,7 +4011,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.3★ from 3 ratings",
-   "concernBasis": "Acne — product type, azelaic acid #2 on INCI, betaine salicylate #9 on INCI; Dark spots — product type, azelaic acid #2 on INCI; Irritation — product type, azelaic acid #2 on INCI, panthenol #7 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — product type, azelaic acid #2 on INCI, betaine salicylate #9 on INCI; Dark spots — product type, azelaic acid #2 on INCI; Irritation — product type, azelaic acid #2 on INCI, panthenol #7 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/p/r/r/30-skin-calming-serum-azelaic-acid-10-hyaluronic-acid-anua-original-imahcsk6jfujve68.jpeg?q=90",
@@ -3995,6 +4028,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:azelaic-acid",
    "ing:hyaluronic-acid",
    "claim:brightening",
@@ -4570,7 +4604,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "5★ from 4 ratings",
-   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/g/t/l/15-acne-spot-corrector-gel-salicylic-acid-spot-treatment-with-original-imahpnzz8yggd4z5.jpeg?q=90",
@@ -4587,6 +4622,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:oil",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:azelaic-acid",
@@ -4933,7 +4969,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/e/8/l/15-fast-acting-pimple-spot-gel-with-2-salicylic-acid-niacinamide-original-imahpartbqgcbxjn.jpeg?q=90",
@@ -4950,6 +4987,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:azelaic-acid",
@@ -5050,7 +5088,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/c/g/w/15-acne-spot-corrector-gel-2-bha-salicylic-acid-acne-scar-pimple-original-imahzyhfhrue3cgt.jpeg?q=90",
@@ -5065,6 +5104,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:azelaic-acid",
@@ -5164,7 +5204,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/n/w/4/15-acne-treatment-gel-salicylic-acid-niacinamide-azelaic-acid-original-imahpasfeuu6xwtu.jpeg?q=90",
@@ -5180,6 +5221,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:azelaic-acid",
@@ -5279,7 +5321,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/c/g/w/15-acne-spot-corrector-gel-2-bha-salicylic-acid-acne-scar-pimple-original-imahzyhfhrue3cgt.jpeg?q=90",
@@ -5294,6 +5337,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:azelaic-acid",
@@ -5393,7 +5437,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/z/e/b/15-pimple-spot-gel-with-salicylic-acid-azelaic-acid-for-acne-original-imahpatydcvvvfpc.jpeg?q=90",
@@ -5409,6 +5454,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:azelaic-acid",
@@ -5508,7 +5554,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/u/y/g/15-fast-acne-spot-gel-with-azelaic-acid-for-blemish-control-original-imahparsdzqzf2r7.jpeg?q=90",
@@ -5524,6 +5571,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:azelaic-acid",
@@ -5622,7 +5670,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/2/b/2/15-pimple-spot-treatment-gel-salicylic-acid-azelaic-acid-sulfur-original-imahpas3uka76c6g.jpeg?q=90",
@@ -5637,6 +5686,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:azelaic-acid",
@@ -5735,7 +5785,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/i/z/h/15-fast-acting-acne-spot-gel-with-bha-sulfur-azelaic-acid-blend-original-imahpasfwr9txhfc.jpeg?q=90",
@@ -5751,6 +5802,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:azelaic-acid",
@@ -5849,7 +5901,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/f/d/a/15-professional-acne-spot-corrector-gel-2-bha-niacinamide-original-imahparkhba4zuqx.jpeg?q=90",
@@ -5865,6 +5918,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:azelaic-acid",
@@ -5964,7 +6018,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/o/o/7/15-acne-spot-corrector-with-sulfur-azelaic-acid-for-fast-pimple-original-imahpas6ugz5rgze.jpeg?q=90",
@@ -5980,6 +6035,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:azelaic-acid",
@@ -6079,7 +6135,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/v/o/i/15-fast-acting-acne-spot-gel-with-2-bha-sulfur-azelaic-acid-for-original-imahpas5uzy8xzay.jpeg?q=90",
@@ -6095,6 +6152,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:azelaic-acid",
@@ -6931,7 +6989,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "5★ from 50 ratings",
-   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/j/1/0/30-6-azelaic-acid-4-niacinamide-clarifying-face-serum-for-acne-original-imahhh95tqk6yheg.jpeg?q=90",
@@ -6947,6 +7006,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:azelaic-acid",
    "claim:brightening",
@@ -7458,7 +7518,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/8/3/g/30-azelaic-acid-20-cream-for-daily-skin-care-skinoren-original-imahqnfwshw5fd54.jpeg?q=90",
@@ -7474,6 +7535,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:azelaic-acid",
    "claim:dark-spots",
    "claim:acne",
@@ -7936,7 +7998,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/1/q/r/10-10-azelaic-acid-serum-mini-size-with-niacinamide-rejuveol-original-imahq63sbw5ngkjv.jpeg?q=90",
@@ -7950,6 +8013,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
+   "water:unstated",
    "ing:niacinamide",
    "ing:azelaic-acid",
    "claim:brightening",
@@ -8050,7 +8114,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/i/m/7/30-20-azelaic-acid-face-cream-for-dark-spot-care-skinoren-original-imahqnffdbvqgzva.jpeg?q=90",
@@ -8066,6 +8131,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:azelaic-acid",
    "claim:dark-spots",
    "claim:acne",
@@ -8165,7 +8231,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/e/g/d/30-azelaic-acid-face-cream-for-dark-spots-blemishes-skinoren-original-imahqneu2wqgpzgc.jpeg?q=90",
@@ -8181,6 +8248,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:azelaic-acid",
    "claim:dark-spots",
    "claim:acne",
@@ -8280,7 +8348,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/l/8/a/30-azelaic-acid-20-cream-for-acne-dark-spots-skinoren-original-imahqnecaxymwjgg.jpeg?q=90",
@@ -8295,6 +8364,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:azelaic-acid",
    "claim:dark-spots",
    "claim:acne",
@@ -8394,7 +8464,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/p/2/b/30-azelaic-acid-20-cream-for-acne-uneven-skin-tone-skinoren-original-imahqnf5rcjyzwxz.jpeg?q=90",
@@ -8410,6 +8481,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:azelaic-acid",
    "claim:dark-spots",
    "claim:acne",
@@ -8509,7 +8581,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/m/u/g/30-azelaic-acid-20-cream-for-uneven-skin-tone-care-skinoren-original-imahqnefnuwnkgb7.jpeg?q=90",
@@ -8525,6 +8598,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:azelaic-acid",
    "claim:dark-spots",
    "claim:acne",
@@ -8736,7 +8810,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/c/i/f/30-20-azelaic-acid-face-cream-for-blemish-care-skinoren-original-imahqneezsykssyt.jpeg?q=90",
@@ -8752,6 +8827,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:azelaic-acid",
    "claim:dark-spots",
    "claim:acne",
@@ -8964,7 +9040,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/p/n/e/30-azelaic-acid-20-cream-for-acne-dark-spots-skinoren-original-imahqnecnv8ucaa9.jpeg?q=90",
@@ -8980,6 +9057,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:azelaic-acid",
    "claim:dark-spots",
    "claim:acne",
@@ -9192,7 +9270,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/h/o/u/15-salicylic-acid-acne-gel-with-azelaic-acid-for-smooth-clear-original-imahpatpc8jqrdhr.jpeg?q=90",
@@ -9208,6 +9287,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:azelaic-acid",
@@ -9545,7 +9625,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/c/g/w/15-acne-spot-corrector-gel-2-bha-salicylic-acid-acne-scar-pimple-original-imahzyhfhrue3cgt.jpeg?q=90",
@@ -9560,6 +9641,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:azelaic-acid",
@@ -9780,7 +9862,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/l/c/l/15-fast-acting-acne-spot-gel-with-salicylic-acid-azelaic-acid-original-imahparqkprzjped.jpeg?q=90",
@@ -9796,6 +9879,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:azelaic-acid",
@@ -10006,7 +10090,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/y/r/b/15-acne-spot-gel-with-azelaic-acid-for-spot-correction-rosebrite-original-imahparpzmcpmrgt.jpeg?q=90",
@@ -10024,6 +10109,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:pack",
    "format:wash",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:azelaic-acid",
@@ -10130,7 +10216,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/l/8/a/30-azelaic-acid-20-cream-for-acne-dark-spots-skinoren-original-imahqnecaxymwjgg.jpeg?q=90",
@@ -10145,6 +10232,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:azelaic-acid",
    "claim:dark-spots",
    "claim:acne",
@@ -10245,7 +10333,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/8/y/1/15-salicylic-acid-acne-treatment-gel-with-azelaic-acid-for-spot-original-imahpashqbhzzfz4.jpeg?q=90",
@@ -10261,6 +10350,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:azelaic-acid",
@@ -10360,7 +10450,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/c/g/w/15-acne-spot-corrector-gel-2-bha-salicylic-acid-acne-scar-pimple-original-imahzyhfhrue3cgt.jpeg?q=90",
@@ -10375,6 +10466,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:azelaic-acid",
@@ -10474,7 +10566,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "5★ from 5 ratings",
-   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/b/i/e/30-azelaic-acid-10-hyaluron-serum-to-reduce-redness-rejuveol-original-imahpfu5grnqgj95.jpeg?q=90",
@@ -10490,6 +10583,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:azelaic-acid",
    "ing:hyaluronic-acid",
    "claim:brightening",
@@ -10822,7 +10916,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/t/s/r/30-azelaic-acid-serum-for-bright-radiant-glow-rejuveol-original-imahq9jyrzggzkhc.jpeg?q=90",
@@ -10836,6 +10931,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:wash",
+   "water:unstated",
    "ing:azelaic-acid",
    "claim:brightening",
    "claim:dark-spots",
@@ -11164,7 +11260,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type, azelaic acid #3 on INCI, salicylic acid #5 on INCI; Dark spots — product type, azelaic acid #3 on INCI; Irritation — product type, azelaic acid #3 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — product type, azelaic acid #3 on INCI, salicylic acid #5 on INCI; Dark spots — product type, azelaic acid #3 on INCI; Irritation — product type, azelaic acid #3 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/n/c/w/30-salicylic-acid-and-azelaic-acid-face-serum-for-acne-pimples-original-imahzvyguhs7csuh.jpeg?q=90",
@@ -11180,6 +11277,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:azelaic-acid",
    "claim:brightening",
@@ -11299,7 +11397,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/p/z/4/15-salicylic-acid-acne-spot-gel-with-azelaic-acid-for-smooth-original-imahparrsyp9tbdx.jpeg?q=90",
@@ -11316,6 +11415,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:azelaic-acid",
@@ -11415,7 +11515,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/4/e/q/15-acne-spot-corrector-gel-with-sulfur-azelaic-acid-for-breakout-original-imahparspkwefdjh.jpeg?q=90",
@@ -11431,6 +11532,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:azelaic-acid",
@@ -11641,7 +11743,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/a/j/h/15-acne-gel-with-salicylic-acid-niacinamide-azelaic-acid-for-original-imahpatqhznqnyxq.jpeg?q=90",
@@ -11657,6 +11760,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:azelaic-acid",
@@ -11755,7 +11859,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/o/m/z/15-nineless-azelaic-acid-cream-for-clear-skin-mini-size-rejuveol-original-imahputwssdzyzrz.jpeg?q=90",
@@ -11769,6 +11874,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
+   "water:unstated",
    "ing:azelaic-acid",
    "claim:brightening",
    "claim:dark-spots",
@@ -11867,7 +11973,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/1/1/4/10-10-azelaic-acid-serum-mini-size-with-dropper-rejuveol-original-imahq5q7n4hj8qqn.jpeg?q=90",
@@ -11881,6 +11988,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
+   "water:unstated",
    "ing:azelaic-acid",
    "claim:brightening",
    "claim:dark-spots",
@@ -11979,7 +12087,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/l/g/h/15-acne-spot-corrector-gel-with-2-salicylic-acid-azelaic-acid-original-imahzqr2tsngdkye.jpeg?q=90",
@@ -11996,6 +12105,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:pack",
    "format:wash",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
    "ing:azelaic-acid",
@@ -12106,7 +12216,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.7★ from 6 ratings",
-   "concernBasis": "Acne — product type, azelaic acid #1 on INCI, niacinamide #2 on INCI; Dark spots — product type, azelaic acid #1 on INCI, niacinamide #2 on INCI; Irritation — product type, azelaic acid #1 on INCI, aloe barbadensis leaf extract #6 on INCI, panthenol #7 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — product type, azelaic acid #1 on INCI, niacinamide #2 on INCI; Dark spots — product type, azelaic acid #1 on INCI, niacinamide #2 on INCI; Irritation — product type, azelaic acid #1 on INCI, aloe barbadensis leaf extract #6 on INCI, panthenol #7 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/a/3/x/30-10-azelaic-acid-face-serum-with-2-niacinamide-for-acne-original-imahmrwkjgzy5hsx.jpeg?q=90",
@@ -12122,6 +12233,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:azelaic-acid",
    "ing:aloe-vera",
@@ -12617,7 +12729,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.7★ from 19 ratings",
-   "concernBasis": "Acne — product type, niacinamide #6 on INCI, azelaic acid #8 on INCI; Dark spots — product type, niacinamide #6 on INCI, tranexamic acid #7 on INCI, azelaic acid #8 on INCI, ethyl ascorbic acid #9 on INCI, alpha-arbutin #10 on INCI, kojic dipalmitate #11 on INCI, kojic acid #12 on INCI; Aging — ethyl ascorbic acid #9 on INCI; Irritation — product type, azelaic acid #8 on INCI, aloe barbadensis leaf extract #14 on INCI, panthenol #15 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — product type, niacinamide #6 on INCI, azelaic acid #8 on INCI; Dark spots — product type, niacinamide #6 on INCI, tranexamic acid #7 on INCI, azelaic acid #8 on INCI, ethyl ascorbic acid #9 on INCI, alpha-arbutin #10 on INCI, kojic dipalmitate #11 on INCI, kojic acid #12 on INCI; Aging — ethyl ascorbic acid #9 on INCI; Irritation — product type, azelaic acid #8 on INCI, aloe barbadensis leaf extract #14 on INCI, panthenol #15 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/9/5/9/30-10-azelaic-acid-5-tranexamic-acid-pigmentation-corrector-original-imahncgss8wg7du7.jpeg?q=90",
@@ -12634,6 +12747,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:azelaic-acid",
    "ing:tranexamic-acid",
    "claim:brightening",
@@ -12846,7 +12960,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/b/q/l/15-acne-spot-corrector-gel-2-bha-salicylic-acid-acne-scar-pimple-original-imahzyhfarffzhzp.jpeg?q=90",
@@ -12862,6 +12977,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:cream",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:azelaic-acid",
@@ -13086,7 +13202,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.2★ from 97 ratings",
-   "concernBasis": "Acne — product type, niacinamide #2 on INCI, salicylic acid #3 on INCI, azelaic acid #4 on INCI; Dark spots — product type, niacinamide #2 on INCI, azelaic acid #4 on INCI; Irritation — product type, azelaic acid #4 on INCI, aloe barbadensis leaf extract #5 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — product type, niacinamide #2 on INCI, salicylic acid #3 on INCI, azelaic acid #4 on INCI; Dark spots — product type, niacinamide #2 on INCI, azelaic acid #4 on INCI; Irritation — product type, azelaic acid #4 on INCI, aloe barbadensis leaf extract #5 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/t/w/y/30-anti-acne-serum-niacinamide-salicylic-azelaic-acid-fights-original-imahmgmz7aefhxfy.jpeg?q=90",
@@ -13105,6 +13222,7 @@ const NXPRODUCTS = [
    "format:pack",
    "format:wash",
    "sun:mineral",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:mandelic-acid",
@@ -13382,7 +13500,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/d/2/c/15-acne-spot-corrector-gel-2-bha-salicylic-acid-niacinamide-original-imahzwbcqsupfjun.jpeg?q=90",
@@ -13397,6 +13516,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:cream",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:azelaic-acid",
@@ -13624,7 +13744,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Essential oil / volatile sensitiser: tea tree oil (−0.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type, niacinamide #4 on INCI, salicylic acid #5 on INCI, azelaic acid #7 on INCI, zinc pca #8 on INCI, melaleuca alternifolia leaf oil #9 on INCI; Dark spots — product type, niacinamide #4 on INCI, azelaic acid #7 on INCI; Irritation — product type, azelaic acid #7 on INCI, panthenol #11 on INCI, centella asiatica extract #13 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — product type, niacinamide #4 on INCI, salicylic acid #5 on INCI, azelaic acid #7 on INCI, zinc pca #8 on INCI, melaleuca alternifolia leaf oil #9 on INCI; Dark spots — product type, niacinamide #4 on INCI, azelaic acid #7 on INCI; Irritation — product type, azelaic acid #7 on INCI, panthenol #11 on INCI, centella asiatica extract #13 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/o/q/3/30-pore-reset-anti-acne-and-oil-control-serum-with-salicylic-original-imahpsgpsvuzd6he.jpeg?q=90",
@@ -13644,6 +13765,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:pack",
    "format:wash",
+   "water:unstated",
    "ing:niacinamide",
    "ing:retinol",
    "ing:salicylic-acid-bha",
@@ -14089,7 +14211,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/x/0/o/15-acne-spot-corrector-gel-2-salicylic-acid-bha-acne-treatment-original-imahzyhdkenhqcfp.jpeg?q=90",
@@ -14105,6 +14228,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:cream",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:azelaic-acid",
@@ -14317,7 +14441,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/u/o/a/15-acne-spot-corrector-gel-20ml-2-salicylic-acid-bha-niacinamide-original-imahzyhbjf73vqpq.jpeg?q=90",
@@ -14333,6 +14458,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:cream",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:azelaic-acid",
@@ -14436,7 +14562,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/l/8/a/30-azelaic-acid-20-cream-for-acne-dark-spots-skinoren-original-imahqnecaxymwjgg.jpeg?q=90",
@@ -14451,6 +14578,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:azelaic-acid",
    "claim:dark-spots",
    "claim:acne",
@@ -15344,7 +15472,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/f/r/h/30-hydrating-acne-serum-with-niacinamide-salicylic-azelaic-acid-original-imahhavpehvgm2hc.jpeg?q=90",
@@ -15360,6 +15489,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:azelaic-acid",
@@ -15575,7 +15705,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/4/2/u/30-azelaic-acid-acne-serum-with-niacinamide-5-salicylic-acid-original-imahhavpykw3fkuk.jpeg?q=90",
@@ -15591,6 +15722,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:lactic-acid",
@@ -16264,7 +16396,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/0/z/o/30-niacinamide-acne-serum-with-azelaic-salicylic-hyaluronic-acid-original-imahhavpu4xpmhcu.jpeg?q=90",
@@ -16280,6 +16413,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:azelaic-acid",
@@ -16383,7 +16517,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/z/l/h/30-niacinamide-5-acne-serum-with-azelaic-acid-hyaluronic-acid-original-imahhavpmz5nr5dg.jpeg?q=90",
@@ -16400,6 +16535,7 @@ const NXPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:niacinamide",
    "ing:azelaic-acid",
    "ing:hyaluronic-acid",
@@ -17291,7 +17427,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/i/y/n/30-hyaluronic-acid-acne-serum-with-niacinamide-azelaic-acid-original-imahhavphkcgf4ur.jpeg?q=90",
@@ -17307,6 +17444,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:azelaic-acid",
    "ing:hyaluronic-acid",
@@ -17747,7 +17885,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/r/b/c/30-advanced-retinol-serum-7-niacinamide-for-acne-marks-30ml-original-imahhavpza5duhwq.jpeg?q=90",
@@ -17763,6 +17902,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:azelaic-acid",
@@ -18208,7 +18348,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/c/9/a/30-clear-skin-acne-serum-with-niacinamide-salicylic-azelaic-acid-original-imahhavp48qfugav.jpeg?q=90",
@@ -18224,6 +18365,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:azelaic-acid",
@@ -18668,7 +18810,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Kreative Beauty Pvt Ltd (Hyphen) — Indian D2C brand with its own product company",
    "buyerEvidence": "4.1★ from 187 ratings",
-   "concernBasis": "Acne — product type, azelaic acid #3 on INCI, niacinamide #6 on INCI, salicylic acid #9 on INCI; Dark spots — product type, azelaic acid #3 on INCI, niacinamide #6 on INCI; Irritation — product type, azelaic acid #3 on INCI, centella asiatica extract #4 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — product type, azelaic acid #3 on INCI, niacinamide #6 on INCI, salicylic acid #9 on INCI; Dark spots — product type, azelaic acid #3 on INCI, niacinamide #6 on INCI; Irritation — product type, azelaic acid #3 on INCI, centella asiatica extract #4 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/u/2/u/-original-imahhgmggezwhgzb.jpeg?q=90",
@@ -18686,6 +18829,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:pack",
    "format:wash",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:azelaic-acid",
@@ -20058,7 +20202,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/z/u/i/30-salicylic-acid-face-serum-for-acne-pimples-oil-control-dark-original-imahnnu672bdbx4e.jpeg?q=90",
@@ -20074,6 +20219,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:pack",
    "format:wash",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:azelaic-acid",
@@ -20178,7 +20324,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/r/p/2/90-anti-acne-serum-pack-of-3-niacinamide-salicylic-azelaic-acid-original-imahcn67nnzpfgff.jpeg?q=90",
@@ -20196,6 +20343,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:azelaic-acid",
@@ -21333,7 +21481,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/o/d/1/30-niacinamide-5-face-serum-for-acne-azelaic-acid-hyaluronic-original-imahhavpcvchaxh5.jpeg?q=90",
@@ -21349,6 +21498,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:azelaic-acid",
    "ing:hyaluronic-acid",
@@ -22430,7 +22580,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.3★ from 3 ratings",
-   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/9/w/4/30-clarifying-face-serum-with-12-niacinamide-azelaic-acid-original-imahhf9yqcsgaheu.jpeg?q=90",
@@ -22447,6 +22598,7 @@ const NXPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:wash",
+   "water:unstated",
    "ing:niacinamide",
    "ing:azelaic-acid",
    "ing:hyaluronic-acid",
@@ -22895,7 +23047,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/o/l/u/99-65-herbal-intimate-whitening-for-toening-shine-skin-floral-original-imah2n64sxz2gzad.jpeg?q=90",
@@ -22913,6 +23066,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:kit",
    "spf:15",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:azelaic-acid",
    "ing:vitamin-e",
@@ -23605,7 +23759,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/7/x/p/15-2-salicylic-acid-acne-spot-gel-with-niacinamide-azelaic-acid-original-imahparckzwduhgy.jpeg?q=90",
@@ -23621,6 +23776,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:azelaic-acid",
@@ -23838,7 +23994,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/r/o/t/15-acne-removal-gel-salicylic-acid-azelaic-acid-niacinamide-spot-original-imahzyhag6qhsh2f.jpeg?q=90",
@@ -23854,6 +24011,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:cream",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:azelaic-acid",
@@ -23956,7 +24114,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/p/d/g/15-fast-acne-spot-gel-with-salicylic-acid-azelaic-acid-blend-original-imahpasfuksjes8q.jpeg?q=90",
@@ -23972,6 +24131,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:azelaic-acid",
@@ -24071,7 +24231,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/t/l/2/15-salicylic-acid-acne-gel-with-azelaic-acid-for-bright-smooth-original-imahpartxcyakyet.jpeg?q=90",
@@ -24087,6 +24248,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:azelaic-acid",
@@ -24187,7 +24349,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/f/3/l/15-salicylic-acid-acne-treatment-gel-with-azelaic-acid-for-original-imahpatqyhpzz3zz.jpeg?q=90",
@@ -24203,6 +24366,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:azelaic-acid",
@@ -24301,7 +24465,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/c/g/w/15-acne-spot-corrector-gel-2-bha-salicylic-acid-acne-scar-pimple-original-imahzyhfhrue3cgt.jpeg?q=90",
@@ -24316,6 +24481,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:azelaic-acid",
@@ -24751,7 +24917,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/g/y/q/30-azelaic-acid-20-cream-for-clearer-looking-skin-skinoren-original-imahqnewhwcwacyu.jpeg?q=90",
@@ -24767,6 +24934,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:azelaic-acid",
    "claim:dark-spots",
    "claim:acne",
@@ -24866,7 +25034,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/v/y/5/15-salicylic-acid-acne-gel-2-bha-pimple-spot-corrector-acne-original-imahzyhff6wkgj27.jpeg?q=90"
@@ -24878,6 +25047,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:cream",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:azelaic-acid",
@@ -24983,7 +25153,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.3★ from 17 ratings",
-   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/g/w/1/50-c-vit-radiance-glowing-fluid-brightening-moisturizer-for-dull-original-imahkz4vhmah4h6t.jpeg?q=90",
@@ -25002,6 +25173,7 @@ const NXPRODUCTS = [
    "format:emulsion",
    "format:wash",
    "spf:50",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "claim:brightening",
    "claim:dark-spots",
@@ -25320,7 +25492,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.1★ from 8 ratings",
-   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/a/l/2/50-epipatal-c30-anti-acne-sunscreen-with-niacinamide-azelaic-original-imahef9betsqnhqr.jpeg?q=90",
@@ -25337,6 +25510,7 @@ const NXPRODUCTS = [
    "format:cream",
    "spf:30",
    "pa:++++",
+   "water:unstated",
    "ing:niacinamide",
    "ing:azelaic-acid",
    "claim:acne",
@@ -25550,7 +25724,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/o/r/6/30-20-azelaic-acid-cream-for-acne-prone-skin-skinoren-original-imahqnehhby2bgy3.jpeg?q=90",
@@ -25566,6 +25741,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:azelaic-acid",
    "claim:dark-spots",
    "claim:acne",
@@ -25779,7 +25955,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/y/8/c/15-salicylic-acid-acne-corrector-gel-with-azelaic-acid-for-spot-original-imahparfajaxtxej.jpeg?q=90",
@@ -25795,6 +25972,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:azelaic-acid",
@@ -25893,7 +26071,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/c/g/w/15-acne-spot-corrector-gel-2-bha-salicylic-acid-acne-scar-pimple-original-imahzyhfhrue3cgt.jpeg?q=90",
@@ -25908,6 +26087,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:azelaic-acid",
@@ -26006,7 +26186,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/9/m/f/15-blemish-control-gel-with-2-salicylic-acid-azelaic-acid-original-imahparsjhjbadzk.jpeg?q=90",
@@ -26022,6 +26203,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:azelaic-acid",
@@ -26120,7 +26302,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/c/3/4/15-pimple-spot-corrector-with-sulfur-salicylic-acid-azelaic-acid-original-imahpatzege3mgfq.jpeg?q=90",
@@ -26136,6 +26319,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:azelaic-acid",
@@ -26237,7 +26421,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.3★ from 23 ratings",
-   "concernBasis": "Acne — product type, azelaic acid #1 on INCI; Dark spots — product type, azelaic acid #1 on INCI; Irritation — product type, azelaic acid #1 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — product type, azelaic acid #1 on INCI; Dark spots — product type, azelaic acid #1 on INCI; Irritation — product type, azelaic acid #1 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/q/2/q/30-azelaic-acid-10-face-serum-with-niacinamide-and-hazel-extract-original-imahpczyyfggqt52.jpeg?q=90",
@@ -26253,6 +26438,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:lactic-acid",
    "ing:azelaic-acid",
@@ -26688,7 +26874,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/t/c/y/30-azelaic-acid-10-hyaluron-redness-soothing-serum-anua-serum-original-imahpfhcrgy7uzkx.jpeg?q=90",
@@ -26704,6 +26891,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:azelaic-acid",
    "ing:hyaluronic-acid",
    "ing:centella-cica",
@@ -31483,7 +31671,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Kaya Ltd (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "3.9★ from 0 ratings",
-   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51vo-90G6sL._AC_UL320_.jpg"
@@ -31497,6 +31686,7 @@ const NXPRODUCTS = [
    "format:toner",
    "format:kit",
    "spf:15",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:azelaic-acid",
    "claim:brightening",
@@ -31932,7 +32122,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.4★ from 0 ratings",
-   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51ASlQvdQ2L._SL1080_.jpg",
@@ -31949,6 +32140,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:serum",
    "format:oil",
+   "water:unstated",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:alpha-arbutin",
@@ -33469,7 +33661,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "5★ from 0 ratings",
-   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/619v3mydinL._SL1254_.jpg",
@@ -33484,6 +33677,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
+   "water:unstated",
    "ing:niacinamide",
    "ing:azelaic-acid",
    "ing:hyaluronic-acid",
@@ -34148,7 +34342,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.6★ from 0 ratings",
-   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61y3PGTFhVL._SL1024_.jpg",
@@ -34163,6 +34358,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
+   "water:unstated",
    "ing:niacinamide",
    "ing:azelaic-acid",
    "claim:brightening",
@@ -34483,7 +34679,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51vwHRAB3NL._SL1024_.jpg",
@@ -34498,6 +34695,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
+   "water:unstated",
    "ing:niacinamide",
    "ing:azelaic-acid",
    "ing:turmeric",
@@ -34605,7 +34803,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71Ex7NATG+L._SL1500_.jpg",
@@ -34622,6 +34821,7 @@ const NXPRODUCTS = [
    "format:serum",
    "format:oil",
    "format:kit",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:azelaic-acid",
@@ -35167,7 +35367,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4★ from 0 ratings",
-   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51Q5ieNhyyL._SL1080_.jpg",
@@ -35184,6 +35385,7 @@ const NXPRODUCTS = [
    "format:serum",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:azelaic-acid",
@@ -37329,7 +37531,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
    "buyerEvidence": "4★ from 0 ratings",
-   "concernBasis": "Acne — product type, azelaic acid #2 on INCI, salicylic acid #9 on INCI; Dark spots — product type, azelaic acid #2 on INCI, glycyrrhiza glabra root extract #11 on INCI; Aging — adenosine #10 on INCI; Irritation — product type, azelaic acid #2 on INCI, bisabolol #14 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — product type, azelaic acid #2 on INCI, salicylic acid #9 on INCI; Dark spots — product type, azelaic acid #2 on INCI, glycyrrhiza glabra root extract #11 on INCI; Aging — adenosine #10 on INCI; Irritation — product type, azelaic acid #2 on INCI, bisabolol #14 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61XgU27oHdL._SL1500_.jpg",
@@ -37348,6 +37551,7 @@ const NXPRODUCTS = [
    "format:serum",
    "format:toner",
    "format:wash",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:azelaic-acid",
    "ing:benzoyl-peroxide",
@@ -40965,7 +41169,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "1★ from 0 ratings",
-   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61S-h4w5nZL._AC_UL320_.jpg"
@@ -40977,6 +41182,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:oil",
+   "water:unstated",
    "ing:niacinamide",
    "ing:azelaic-acid",
    "ing:hyaluronic-acid",
@@ -41085,7 +41291,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Conscious Chemist — Indian D2C brand with its own product company",
    "buyerEvidence": "3.7★ from 0 ratings",
-   "concernBasis": "Acne — product type, salicylic acid #3 on INCI, azelaic acid #12 on INCI; Dark spots — product type, azelaic acid #12 on INCI, glycyrrhiza glabra root extract #16 on INCI; Irritation — product type, azelaic acid #12 on INCI, panthenol #20 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — product type, salicylic acid #3 on INCI, azelaic acid #12 on INCI; Dark spots — product type, azelaic acid #12 on INCI, glycyrrhiza glabra root extract #16 on INCI; Irritation — product type, azelaic acid #12 on INCI, panthenol #20 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51mo6fgP07L._SL1200_.jpg",
@@ -41101,6 +41308,7 @@ const NXPRODUCTS = [
    "scope:unstated",
    "format:gel",
    "format:kit",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:azelaic-acid",
    "claim:dark-spots",
@@ -41885,7 +42093,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4★ from 0 ratings",
-   "concernBasis": "Acne — product type, azelaic acid #2 on INCI, niacinamide #3 on INCI; Dark spots — product type, azelaic acid #2 on INCI, niacinamide #3 on INCI, kojic dipalmitate #4 on INCI, tetrahexyldecyl ascorbate #5 on INCI, glycyrrhiza glabra root extract #11 on INCI, alpha-arbutin #12 on INCI; Aging — tetrahexyldecyl ascorbate #5 on INCI; Irritation — product type, azelaic acid #2 on INCI, panthenol #6 on INCI, centella asiatica extract #13 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — product type, azelaic acid #2 on INCI, niacinamide #3 on INCI; Dark spots — product type, azelaic acid #2 on INCI, niacinamide #3 on INCI, kojic dipalmitate #4 on INCI, tetrahexyldecyl ascorbate #5 on INCI, glycyrrhiza glabra root extract #11 on INCI, alpha-arbutin #12 on INCI; Aging — tetrahexyldecyl ascorbate #5 on INCI; Irritation — product type, azelaic acid #2 on INCI, panthenol #6 on INCI, centella asiatica extract #13 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/6137ujH3SGL._SL1500_.jpg",
@@ -41901,6 +42110,7 @@ const NXPRODUCTS = [
    "scope:unstated",
    "format:cream",
    "format:serum",
+   "water:unstated",
    "ing:azelaic-acid",
    "ing:collagen",
    "ing:kojic-acid",
@@ -42575,7 +42785,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.7★ from 0 ratings",
-   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51J0GHNXi3L._SL1024_.jpg",
@@ -42590,6 +42801,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
+   "water:unstated",
    "ing:niacinamide",
    "ing:azelaic-acid",
    "ing:hyaluronic-acid",
@@ -44182,7 +44394,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.5★ from 0 ratings",
-   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41Xl2S0ZcQL._SL1000_.jpg",
@@ -44196,6 +44409,7 @@ const NXPRODUCTS = [
   "title": "Dr. G R.E.D. Blemish Soothing Up Sun 50ml Sunscreen - Korean Sunscreen with No White Cast - Broad Spectrum SPF for Sensitive Skin - Non-Greasy - With Hyaluronic & Azelaic Acid - 1.69 fl oz",
   "tags": [
    "scope:both",
+   "water:unstated",
    "ing:azelaic-acid",
    "ing:hyaluronic-acid",
    "ing:centella-cica",
@@ -47341,7 +47555,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.7★ from 0 ratings",
-   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61g855bW6WL._SL1254_.jpg",
@@ -47356,6 +47571,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
+   "water:unstated",
    "ing:lactic-acid",
    "ing:azelaic-acid",
    "ing:centella-cica",
@@ -48477,7 +48693,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "5★ from 0 ratings",
-   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/710lIJjwAFL._SL1500_.jpg",
@@ -48492,6 +48709,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
+   "water:unstated",
    "ing:niacinamide",
    "ing:azelaic-acid",
    "ing:alpha-arbutin",
@@ -49618,7 +49836,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61uSNJHB7-L._SL1448_.jpg",
@@ -49634,6 +49853,7 @@ const NXPRODUCTS = [
    "scope:unstated",
    "spf:30",
    "pa:++++",
+   "water:unstated",
    "ing:niacinamide",
    "ing:azelaic-acid",
    "claim:dark-spots",
@@ -50200,7 +50420,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.7★ from 0 ratings",
-   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51H8CfwMqsL._SL1080_.jpg",
@@ -50216,6 +50437,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:wash",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:azelaic-acid",
    "ing:hyaluronic-acid",
@@ -51532,7 +51754,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.2★ from 0 ratings",
-   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61XriLrhMkL._SL1000_.jpg",
@@ -51547,6 +51770,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
+   "water:unstated",
    "ing:niacinamide",
    "ing:azelaic-acid",
    "ing:hyaluronic-acid",
@@ -51778,7 +52002,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41achQjTtRL.jpg",
@@ -51793,6 +52018,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
+   "water:unstated",
    "ing:lactic-acid",
    "ing:azelaic-acid",
    "ing:centella-cica",
@@ -52231,7 +52457,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.2★ from 0 ratings",
-   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61nOXH2govL._SL1500_.jpg",
@@ -52246,6 +52473,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:serum",
+   "water:unstated",
    "ing:niacinamide",
    "ing:azelaic-acid",
    "ing:glutathione",
@@ -53030,7 +53258,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4★ from 0 ratings",
-   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51uDItHXGeL.jpg",
@@ -53047,6 +53276,7 @@ const NXPRODUCTS = [
    "format:serum",
    "format:oil",
    "format:wash",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:azelaic-acid",
@@ -54039,6 +54269,124 @@ const NXPRODUCTS = [
     "url": null
    },
    "buyers": "3.7★ from 0 ratings"
+  }
+ },
+ {
+  "id": "azelia-b0h2bm9x2v",
+  "brand": "Azelia",
+  "model": "I-Shield SPF50 PA+++ Sunscreen Cream | Broad Spectrum UVA UVB Protection | Non-Greasy & Lo…",
+  "price": 470,
+  "capacityLine": "75 g",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Sunscreen · SPF 50 · ₹627/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "75 g",
+   "pricePer100": "₹627/100g",
+   "format": "Sunscreen",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Oil control / matte / non-greasy, Water / sweat resistant, Broad spectrum UVA/UVB, Lightweight / fast-absorbing, SPF included (seller claim — not clinical proof)",
+   "skinType": "Oily skin, Combination skin, Sensitive skin, All skin types",
+   "sunProtection": "SPF 50 · PA+++ (as labelled)",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistant / waterproof (duration not stated), marketed for swim / sport / outdoors (per listing — not tested here, not scored)"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61v2qP1SlbL._SL1300_.jpg",
+   "https://m.media-amazon.com/images/I/51I7qjlP4LL._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/61WbhMYgc7L._SL1157_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H2BM9X2V",
+  "buyStore": "Amazon",
+  "title": "Azelia I-Shield SPF50 PA+++ Sunscreen Cream | Broad Spectrum UVA UVB Protection | Non-Greasy & Long Lasting | Water Resistant for Swimming & Outdoor | All Skin Types | 75g",
+  "tags": [
+   "scope:unstated",
+   "format:cream",
+   "spf:50",
+   "pa:+++",
+   "water:resistant",
+   "water:sport",
+   "claim:oil-control",
+   "claim:water-resistant",
+   "claim:broad-spectrum",
+   "claim:lightweight",
+   "claim:spf-claim",
+   "skin:oily",
+   "skin:combination",
+   "skin:sensitive",
+   "skin:all",
+   "free:sensitive-safe",
+   "aud:unisex",
+   "size:standard",
+   "rating:none",
+   "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  }
 ];

@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-11.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-12.
 // Unknown fields are honestly marked, never invented.
 const NXPRODUCTS = [
  {
@@ -44,7 +44,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/x/p/x/50-premium-foot-cream-for-deep-hydration-and-heel-crack-care-original-imahzrr2xegftphp.jpeg?q=90",
@@ -61,6 +62,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:aloe-vera",
    "ing:saffron",
@@ -168,7 +170,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/o/p/y/100-foot-care-cream-repairs-cracked-heels-softens-dry-rough-feet-original-imahzufmn828pafz.jpeg?q=90",
@@ -188,6 +191,7 @@ const NXPRODUCTS = [
    "format:scrub",
    "format:wash",
    "format:roll-on",
+   "water:unstated",
    "ing:urea",
    "ing:aloe-vera",
    "claim:oil-control",
@@ -728,7 +732,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/c/z/w/50-natural-herbal-heel-repair-foot-cream-for-cracked-dry-rough-original-imahnhzn97vzapp8.jpeg?q=90",
@@ -745,6 +750,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:oil",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:neem",
    "ing:vitamin-e",
@@ -842,7 +848,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/g/1/b/100-moisturizing-antifungal-foot-care-cream-for-heel-repair-original-imahmrpu9v3tgczw.jpeg?q=90",
@@ -858,6 +865,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:cream",
+   "water:unstated",
    "claim:hydrating",
    "claim:barrier",
    "claim:ayurvedic",
@@ -2155,7 +2163,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-moisturizer-cream/p/l/i/50-foot-roll-on-for-dry-cracked-heels-deep-moisturizing-foot-original-imahzazrhv2qyesf.jpeg?q=90",
@@ -2174,6 +2183,7 @@ const NXPRODUCTS = [
    "format:lotion",
    "format:balm",
    "format:roll-on",
+   "water:unstated",
    "ing:urea",
    "ing:aloe-vera",
    "ing:shea-butter",
@@ -2274,7 +2284,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5); Essential oil / volatile sensitiser: tea tree oil (−0.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — niacinamide #7 on INCI, salicylic acid #11 on INCI, melaleuca alternifolia leaf oil #13 on INCI; Dark spots — niacinamide #7 on INCI; Irritation — aloe barbadensis leaf extract #6 on INCI, panthenol #8 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #7 on INCI, salicylic acid #11 on INCI, melaleuca alternifolia leaf oil #13 on INCI; Dark spots — niacinamide #7 on INCI; Irritation — aloe barbadensis leaf extract #6 on INCI, panthenol #8 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/q/o/s/50-urea-foot-care-crack-heel-cream-usa-formulated-aha-bha-smooth-original-imahkyhsdhpe6pgf.jpeg?q=90",
@@ -2291,6 +2302,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:pack",
    "format:roll-on",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:lactic-acid",
    "ing:aha",
@@ -2798,7 +2810,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5); Essential oil / volatile sensitiser: tea tree oil (−0.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — niacinamide #7 on INCI, salicylic acid #11 on INCI, melaleuca alternifolia leaf oil #13 on INCI; Dark spots — niacinamide #7 on INCI; Irritation — aloe barbadensis leaf extract #6 on INCI, panthenol #8 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #7 on INCI, salicylic acid #11 on INCI, melaleuca alternifolia leaf oil #13 on INCI; Dark spots — niacinamide #7 on INCI; Irritation — aloe barbadensis leaf extract #6 on INCI, panthenol #8 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/o/i/50-smooth-step-50g-kineticure-cream-original-imahguehgrrhvwbd.jpeg?q=90",
@@ -2816,6 +2829,7 @@ const NXPRODUCTS = [
    "format:lotion",
    "format:balm",
    "format:kit",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:lactic-acid",
    "ing:aha",
@@ -3230,7 +3244,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 11 ratings"
+   "buyerEvidence": "5★ from 11 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/r/z/l/100-foot-care-cream-for-rough-dry-and-cracked-heel-repair-cream-original-imahpgkjr7jphgnc.jpeg?q=90",
@@ -3250,6 +3265,7 @@ const NXPRODUCTS = [
    "format:scrub",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "claim:barrier",
    "claim:cracked-heels",
    "skin:oily",
@@ -3471,7 +3487,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 6 ratings"
+   "buyerEvidence": "4★ from 6 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/q/3/v/150-crack-heel-repair-cream-up-to-24-hours-of-moisturization-original-imahgnrf8syhza7q.jpeg?q=90",
@@ -3487,6 +3504,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:oil",
+   "water:unstated",
    "ing:neem",
    "claim:oil-control",
    "claim:hydrating",
@@ -3591,7 +3609,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 10 ratings"
+   "buyerEvidence": "4.3★ from 10 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/q/o/r/100-foot-cream-for-rough-dry-and-cracked-heel-feet-cream-for-original-imahggfgnmjntzdz.jpeg?q=90",
@@ -3606,6 +3625,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "claim:hydrating",
    "claim:barrier",
    "claim:cracked-heels",
@@ -3703,7 +3723,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/n/s/y/50-premium-foot-cream-for-dry-cracked-feet-with-skin-repair-heel-original-imahzrhngcsnefpf.jpeg?q=90",
@@ -3719,6 +3740,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "claim:brightening",
    "claim:hydrating",
    "claim:barrier",
@@ -6011,7 +6033,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/y/h/s/120-0-foot-magic-foot-cream-with-cocoa-butter-vitamin-e-reaxi-original-imahzpq2fhz8bqz6.jpeg?q=90",
@@ -6028,6 +6051,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:balm",
    "format:scrub",
+   "water:unstated",
    "ing:cocoa-butter",
    "ing:vitamin-e",
    "claim:anti-aging",
@@ -6301,7 +6325,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/o/u/75-hand-cream-75g-deep-moisturizing-nourishment-for-dry-hands-original-imahc7hdg6zkf4uc.jpeg?q=90",
@@ -6319,6 +6344,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:turmeric",
    "ing:papaya",
@@ -6811,7 +6837,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Oriflame Cosmetics — Global FMCG or beauty group",
-   "buyerEvidence": "4.1★ from 14 ratings"
+   "buyerEvidence": "4.1★ from 14 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/l0lbrm80/fairness/e/q/t/75-milk-honey-gold-moisturising-hand-cream-75g-1-oriflame-sweden-original-imagccfdmfhruxny.jpeg?q=90",
@@ -6827,6 +6854,7 @@ const NXPRODUCTS = [
    "scope:body",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:honey",
    "ing:milk",
    "ing:gold",
@@ -6919,7 +6947,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/6/5/25-moringa-kanaka-oil-enriched-with-kokum-butter-honey-apricot-original-imahhjqxnhzhmew3.jpeg?q=90",
@@ -6939,6 +6968,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:30",
    "pa:+",
+   "water:unstated",
    "ing:honey",
    "ing:licorice",
    "ing:apricot",
@@ -7222,7 +7252,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/e/v/c/30-hand-balm-with-orange-neem-extract-hand-care-for-soft-original-imahnkdzmgkuwrfy.jpeg?q=90",
@@ -7242,6 +7273,7 @@ const NXPRODUCTS = [
    "format:emulsion",
    "spf:30",
    "pa:+++",
+   "water:unstated",
    "ing:neem",
    "claim:whitening-claim",
    "claim:hydrating",
@@ -7654,7 +7686,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/g/j/85-intensive-healing-hand-cream-gold-bond-cream-original-imahe5w6ywzwspnt.jpeg?q=90",
@@ -7673,6 +7706,7 @@ const NXPRODUCTS = [
    "format:emulsion",
    "spf:30",
    "pa:+",
+   "water:unstated",
    "ing:gold",
    "claim:hydrating",
    "claim:barrier",
@@ -7984,7 +8018,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.7★ from 3 ratings"
+   "buyerEvidence": "3.7★ from 3 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/u/b/30-vitamin-c-ceramides-hand-cream-nourishes-softens-hydrates-original-imahmd6tkvgndg3v.jpeg?q=90",
@@ -8001,6 +8036,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:ceramides",
    "ing:shea-butter",
@@ -8101,7 +8137,8 @@ const NXPRODUCTS = [
    "evidenceActives": "glycerin (#4 on list, strong evidence); butyrospermum parkii butter (#13 on list, moderate evidence); theobroma cacao seed butter (#15 on list, limited evidence); squalane (#18 on list, moderate evidence); tocopheryl acetate (#19 on list, moderate evidence); sodium hyaluronate (#26 on list, moderate evidence)",
    "safetyFlags": "Added fragrance (parfum): parfum (−1.5); EU-declared fragrance allergen: linalool, limonene, eugenol, citronellol, geraniol, coumarin (−2)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/v/l/s/1-fragrance-originale-hand-cream-morocconoil-cream-original-imahmgfujyp2mbts.jpeg?q=90",
@@ -8120,6 +8157,7 @@ const NXPRODUCTS = [
    "format:emulsion",
    "format:kit",
    "spf:50",
+   "water:unstated",
    "claim:brightening",
    "claim:whitening-claim",
    "claim:hydrating",
@@ -8318,7 +8356,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/x/4/y/85-working-hands-hand-cream-tube-o-keeffe-s-cream-original-imah76qy4bfzwa7s.jpeg?q=90",
@@ -8336,6 +8375,7 @@ const NXPRODUCTS = [
    "format:lotion",
    "format:kit",
    "spf:30",
+   "water:unstated",
    "claim:whitening-claim",
    "claim:hydrating",
    "claim:long-lasting",
@@ -8786,7 +8826,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Fixderma India (dermatology company) — Dermatology / pharmaceutical manufacturer",
    "declaredManufacturer": "Fixderma India Pvt Ltd. F-170,E.P.I.P. zone,Neemrana, Disst. Alwar, Rajasthan - 301705, India (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.1★ from 1,398 ratings"
+   "buyerEvidence": "4.1★ from 1,398 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/f/v/4/30-brightening-hand-cream-with-spf-50-hand-moisturizer-for-dry-original-imahkuspcwt93qgh.jpeg?q=90",
@@ -8802,6 +8843,7 @@ const NXPRODUCTS = [
    "scope:body",
    "format:cream",
    "spf:50",
+   "water:unstated",
    "claim:brightening",
    "claim:hydrating",
    "claim:spf-claim",
@@ -9010,7 +9052,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/i/6/50-hand-lotion-aivre-feels-good-lotion-original-imahgudggefgg59s.jpeg?q=90",
@@ -9029,6 +9072,7 @@ const NXPRODUCTS = [
    "format:lotion",
    "format:oil",
    "format:pack",
+   "water:unstated",
    "ing:coconut",
    "claim:brightening",
    "claim:whitening-claim",
@@ -10065,7 +10109,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): perfume (−1.5); Formaldehyde-releasing preservative: imidazolidinyl urea (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — aloe barbadensis leaf juice #9 on INCI (matching only — not proof it works)"
+   "concernBasis": "Irritation — aloe barbadensis leaf juice #9 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/4/m/u/550-midnight-berries-hand-lotion-550ml-aloe-shea-butter-deep-original-imahm9krcbfmbusw.jpeg?q=90",
@@ -10084,6 +10129,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:30",
    "pa:+++",
+   "water:unstated",
    "ing:collagen",
    "ing:aloe-vera",
    "ing:cucumber",
@@ -10341,7 +10387,8 @@ const NXPRODUCTS = [
    "evidenceActives": "glycerin (#2 on list, strong evidence); mineral oil (#3 on list, moderate evidence); dimethicone (#8 on list, moderate evidence); tocopheryl acetate (#15 on list, moderate evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/v/y/t/100-kiwi-hand-cream-moisturising-cream-for-hands-nourishing-skin-original-imahpaeyqbsgjcwm.jpeg?q=90",
@@ -10358,6 +10405,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:lotion",
    "format:kit",
+   "water:unstated",
    "ing:caffeine",
    "ing:watermelon",
    "claim:hydrating",
@@ -10496,7 +10544,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3★ from 3 ratings"
+   "buyerEvidence": "3★ from 3 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/c/c/3/30-ultra-protect-hand-cream-spf-45-30-gm-pack-of-3-na-cgg-original-imagz9ejg95ahqdq.jpeg?q=90",
@@ -10513,6 +10562,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:kit",
    "spf:40",
+   "water:unstated",
    "claim:spf-claim",
    "skin:all",
    "aud:women",
@@ -10934,7 +10984,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 12 ratings"
+   "buyerEvidence": "4.4★ from 12 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/t/z/h/30-mandarin-tree-lush-hand-cream-asaya-cream-original-imahcu72a4zwe4qc.jpeg?q=90",
@@ -10950,6 +11001,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:balm",
+   "water:unstated",
    "ing:alpha-arbutin",
    "claim:oil-control",
    "claim:hydrating",
@@ -11051,7 +11103,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Oriflame Cosmetics — Global FMCG or beauty group",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/q/0/l/150-milk-honey-gold-moisturising-hand-cream-75-g-oriflame-sweden-original-imahckqxm5snursv.jpeg?q=90",
@@ -11067,6 +11120,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:honey",
    "ing:milk",
    "ing:gold",
@@ -11381,7 +11435,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Oriflame Cosmetics — Global FMCG or beauty group",
-   "buyerEvidence": "2.7★ from 3 ratings"
+   "buyerEvidence": "2.7★ from 3 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/q/5/i/75-glow-essentials-hand-cream-with-vitamins-e-b3-oriflame-sweden-original-imah3kdxgtbv2jbv.jpeg?q=90",
@@ -11396,6 +11451,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "claim:brightening",
    "skin:all",
    "free:paraben",
@@ -12251,7 +12307,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Oriflame Cosmetics — Global FMCG or beauty group",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/f/g/g/225-milk-honey-gold-moisturising-hand-cream-75-3-oriflame-sweden-original-imahcgzwezea2khk.jpeg?q=90",
@@ -12267,6 +12324,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:honey",
    "ing:milk",
    "ing:gold",
@@ -12769,7 +12827,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 7 ratings"
+   "buyerEvidence": "4.4★ from 7 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/g/o/h/45-nail-hand-cream-for-women-with-shea-butter-alpine-berry-original-imagycnpmzhnhqzf.jpeg?q=90",
@@ -12785,6 +12844,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:balm",
+   "water:unstated",
    "ing:shea-butter",
    "claim:oil-control",
    "claim:hydrating",
@@ -13734,7 +13794,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Oriflame Cosmetics — Global FMCG or beauty group",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/i/1/a/75-glow-essentials-hand-cream-vitamins-e-b3-all-skin-types-original-imahzyyfgsg5rbk3.jpeg?q=90",
@@ -13754,6 +13815,7 @@ const NXPRODUCTS = [
    "format:pack",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:niacinamide",
    "ing:honey",
    "ing:almond",
@@ -15287,7 +15349,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/n/z/f/100-kiwi-fruit-hand-cream-gel-with-vitamin-e-deep-nourishing-original-imahq5nzfpxtyfvr.jpeg?q=90",
@@ -15303,6 +15366,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:cream",
+   "water:unstated",
    "ing:vitamin-e",
    "claim:brightening",
    "claim:hydrating",
@@ -15524,7 +15588,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/q/a/p/100-natural-fresh-kiwi-fruit-gel-hand-cream-deep-nourishment-original-imahpwpy7xnswzm3.jpeg?q=90",
@@ -15540,6 +15605,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:cream",
+   "water:unstated",
    "ing:vitamin-e",
    "claim:brightening",
    "claim:hydrating",
@@ -15633,7 +15699,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/v/a/4/100-premium-kiwi-fruit-hand-cream-gel-vitamin-e-enriched-long-original-imahpsfkmj4tn3uy.jpeg?q=90",
@@ -15649,6 +15716,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:cream",
+   "water:unstated",
    "ing:vitamin-e",
    "claim:brightening",
    "claim:hydrating",
@@ -15743,7 +15811,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/e/4/50-puretouch-hand-cream-cream-with-spf-15-little-crush-cream-original-imahhpryqpmgpxey.jpeg?q=90",
@@ -15761,6 +15830,7 @@ const NXPRODUCTS = [
    "format:lotion",
    "format:patch",
    "spf:15",
+   "water:unstated",
    "ing:honey",
    "ing:almond",
    "ing:milk",
@@ -15860,7 +15930,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/n/2/j/50-naturals-nourishing-hand-foot-cream-for-dry-rough-skin-with-original-imahpse96e5cnvg3.jpeg?q=90",
@@ -15878,6 +15949,7 @@ const NXPRODUCTS = [
    "format:lotion",
    "format:balm",
    "spf:15",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:shea-butter",
    "ing:vitamin-e",
@@ -15975,7 +16047,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/m/s/100-natural-kiwi-hand-cream-repair-dry-rough-cracked-hands-fast-original-imahpsg8djvazr5n.jpeg?q=90",
@@ -15989,6 +16062,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:vitamin-e",
    "claim:brightening",
    "claim:hydrating",
@@ -16084,7 +16158,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/i/b/u/100-natural-fresh-kiwi-fruit-gel-hand-cream-deep-nourishment-original-imahpr7k5ayz64m9.jpeg?q=90",
@@ -16099,6 +16174,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:vitamin-e",
    "claim:brightening",
    "claim:hydrating",
@@ -16192,7 +16268,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/y/s/t/100-kiwi-fruit-moisturizing-hand-cream-for-women-deep-hydration-original-imahptgh8e4fbkgr.jpeg?q=90",
@@ -16207,6 +16284,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:vitamin-e",
    "claim:brightening",
    "claim:hydrating",
@@ -16299,7 +16377,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/1/6/100-refreshing-watermelon-hand-cream-vitamin-e-enriched-soft-original-imahpsghhcehehyc.jpeg?q=90",
@@ -16314,6 +16393,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:vitamin-e",
    "ing:watermelon",
    "claim:brightening",
@@ -16409,7 +16489,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/e/l/100-watermelon-hand-cream-moisturising-hydrating-lotion-for-soft-original-imahq5s5hhvkzgge.jpeg?q=90",
@@ -16425,6 +16506,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:lotion",
+   "water:unstated",
    "ing:vitamin-e",
    "ing:watermelon",
    "claim:brightening",
@@ -16518,7 +16600,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/2/1/l/100-watermelon-extract-hand-cream-for-women-repairs-dry-rough-original-imahpthuzuf37zhg.jpeg?q=90",
@@ -16533,6 +16616,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:vitamin-e",
    "ing:watermelon",
    "claim:brightening",
@@ -16732,7 +16816,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 61 ratings"
+   "buyerEvidence": "5★ from 61 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/p/b/m/200-0-foot-care-cream-for-rough-cracked-heels-moisturising-cream-original-imahzspndvhyvsyb.jpeg?q=90",
@@ -16749,6 +16834,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:balm",
    "format:pack",
+   "water:unstated",
    "ing:tea-tree",
    "ing:shea-butter",
    "claim:hydrating",
@@ -17500,7 +17586,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/5/w/50-natural-herbal-heel-repair-foot-cream-for-cracked-dry-rough-original-imahnhznj8rmrzgn.jpeg?q=90",
@@ -17517,6 +17604,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:lotion",
    "format:oil",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:tea-tree",
    "ing:aloe-vera",
@@ -17783,7 +17871,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/o/l/4/50-herbal-cracked-heel-repair-foot-cream-for-dry-rough-skin-original-imahnhaf5ar6m6um.jpeg?q=90",
@@ -17800,6 +17889,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:lotion",
    "format:oil",
+   "water:unstated",
    "ing:coffee",
    "ing:tea-tree",
    "ing:aloe-vera",
@@ -18686,7 +18776,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.8★ from 34 ratings"
+   "buyerEvidence": "3.8★ from 34 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/m/i/a/200-foot-cream-intense-heel-repair-hydration-for-dry-cracked-and-original-imahg3b2kudfkhq2.jpeg?q=90",
@@ -18701,6 +18792,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "claim:anti-aging",
    "claim:hydrating",
    "claim:barrier",
@@ -19574,7 +19666,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 2,251 ratings"
+   "buyerEvidence": "4★ from 2,251 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/g/r/50-herbal-foot-crack-revive-cream-for-dry-cracked-heels-feet-original-imah9zcj5fzgxh5a.jpeg?q=90",
@@ -19589,6 +19682,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "claim:hydrating",
    "claim:barrier",
    "claim:soothing",
@@ -19795,7 +19889,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/n/v/m/50-cracked-heel-repair-cream-for-men-women-dry-feet-soft-skin-original-imahqhh73h3hpv42.jpeg?q=90",
@@ -19815,6 +19910,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "format:kit",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:aha",
    "ing:tea-tree",
@@ -20129,7 +20225,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/o/x/o/50-foot-cream-for-rough-dry-and-cracked-heel-feet-cream-florero-original-imaheh5qqfyamfp7.jpeg?q=90",
@@ -20147,6 +20244,7 @@ const NXPRODUCTS = [
    "format:lotion",
    "format:balm",
    "format:kit",
+   "water:unstated",
    "ing:cocoa-butter",
    "claim:oil-control",
    "claim:hydrating",
@@ -20351,7 +20449,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/c/t/3/50-herbal-heel-repair-foot-care-cream-silktone-cream-original-imahnhz2mdffqazb.jpeg?q=90",
@@ -20370,6 +20469,7 @@ const NXPRODUCTS = [
    "format:lotion",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:shea-butter",
    "ing:cocoa-butter",
@@ -20912,7 +21012,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/o/6/w/50-foot-repair-cream-for-dry-cracked-feet-soft-smooth-heel-care-original-imahqhkpkebyug42.jpeg?q=90",
@@ -20932,6 +21033,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "format:kit",
+   "water:unstated",
    "ing:tea-tree",
    "ing:aloe-vera",
    "ing:shea-butter",
@@ -21033,7 +21135,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/x/a/t/50-cracked-heel-moisturizing-foot-cream-silktone-cream-original-imahnhz2zhuud65r.jpeg?q=90",
@@ -21052,6 +21155,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "format:kit",
+   "water:unstated",
    "ing:ceramides",
    "ing:rice-water",
    "ing:tea-tree",
@@ -21157,7 +21261,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/i/e/f/50-foot-crack-cream-with-natural-ingredients-for-heel-repair-and-original-imahqhkvjuk7vgfn.jpeg?q=90",
@@ -21177,6 +21282,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "format:kit",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:aha",
    "ing:tea-tree",
@@ -23126,7 +23232,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/v/5/c/50-moisturizing-lotion-for-dry-crack-foot-cream-evererin-cream-original-imahpgc77getgwfp.jpeg?q=90",
@@ -23145,6 +23252,7 @@ const NXPRODUCTS = [
    "format:lotion",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:aloe-vera",
    "claim:anti-aging",
    "claim:acne",
@@ -27099,7 +27207,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/r/u/50-foot-cream-for-rough-dry-and-cracked-heel-feet-cream-for-heel-original-imahfr39sz2nzc4n.jpeg?q=90",
@@ -27117,6 +27226,7 @@ const NXPRODUCTS = [
    "format:lotion",
    "format:balm",
    "spf:15",
+   "water:unstated",
    "ing:retinol",
    "ing:collagen",
    "ing:shea-butter",
@@ -27551,7 +27661,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 3 ratings"
+   "buyerEvidence": "5★ from 3 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/d/g/x/50-foot-cream-for-intensive-repair-nourishment-for-dry-rough-original-imahndv68bhwqzac.jpeg?q=90",
@@ -27570,6 +27681,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:scrub",
    "format:wash",
+   "water:unstated",
    "ing:turmeric",
    "ing:rose",
    "ing:glycerin",
@@ -28195,7 +28307,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/a/h/1/50-dry-cracked-feet-foot-repair-cream-subia-cream-original-imahe2fhfyfbhhk4.jpeg?q=90",
@@ -28211,6 +28324,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:oil",
+   "water:unstated",
    "ing:vitamin-e",
    "ing:argan-oil",
    "claim:anti-aging",
@@ -28306,7 +28420,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 6 ratings"
+   "buyerEvidence": "4.3★ from 6 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/a/1/m/50-foot-cream-for-rough-dry-and-cracked-heel-feet-cream-korat-original-imahj44hkzf2jyy6.jpeg?q=90",
@@ -28321,6 +28436,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "claim:hydrating",
    "claim:cracked-heels",
    "skin:all",
@@ -28616,7 +28732,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/i/x/q/50-foot-crack-revive-cream-for-dry-cracked-heels-feet-cream-original-imah3yymzaxmn5cr.jpeg?q=90",
@@ -28633,6 +28750,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:stick",
    "format:wash",
+   "water:unstated",
    "ing:green-tea",
    "claim:acne",
    "claim:hydrating",
@@ -28836,7 +28954,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/s/d/h/50-foot-repair-cream-myeong-cream-original-imagm299jpuw5zgg.jpeg?q=90",
@@ -28852,6 +28971,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:kit",
+   "water:unstated",
    "claim:hydrating",
    "claim:barrier",
    "claim:cracked-heels",
@@ -29232,7 +29352,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.6★ from 11 ratings"
+   "buyerEvidence": "3.6★ from 11 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/a/o/7/5-foot-patch-natural-herbal-detox-foot-pads-for-wellness-routine-original-imahmgh9z9wh4mnt.jpeg?q=90",
@@ -29250,6 +29371,7 @@ const NXPRODUCTS = [
    "format:pads",
    "format:patch",
    "format:wash",
+   "water:unstated",
    "ing:vitamin-c",
    "claim:exfoliating",
    "claim:ayurvedic",
@@ -30156,7 +30278,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.4★ from 78 ratings"
+   "buyerEvidence": "3.4★ from 78 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/x/p/g/50-glycolic-acid-foot-peeling-mask-deep-exfoliation-hydration-original-imahmvtqxh45pnce.jpeg?q=90",
@@ -30175,6 +30298,7 @@ const NXPRODUCTS = [
    "format:wash",
    "format:foot-peel",
    "sun:mineral",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
    "ing:lactic-acid",
@@ -30793,7 +30917,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.8★ from 124 ratings"
+   "buyerEvidence": "4.8★ from 124 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/z/3/w/200-0-foot-repair-cream-for-fast-relief-from-cracked-heels-original-imahm8jhxtvwyrhm.jpeg?q=90",
@@ -30811,6 +30936,7 @@ const NXPRODUCTS = [
    "format:pack",
    "format:wash",
    "spf:50",
+   "water:unstated",
    "ing:vitamin-c",
    "claim:hydrating",
    "claim:barrier",
@@ -31219,7 +31345,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.8★ from 62 ratings"
+   "buyerEvidence": "4.8★ from 62 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/r/q/w/200-0-cracked-heel-repair-cream-moisturize-nourish-hydrate-dry-original-imahm8hpxkyw8fge.jpeg?q=90",
@@ -31237,6 +31364,7 @@ const NXPRODUCTS = [
    "format:pack",
    "format:wash",
    "spf:50",
+   "water:unstated",
    "ing:vitamin-c",
    "claim:hydrating",
    "claim:barrier",
@@ -32277,7 +32405,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 69 ratings"
+   "buyerEvidence": "5★ from 69 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/1/r/e/200-0-cracked-heel-repair-foot-cream-deep-hydration-moisturizer-original-imahnvdjzw76rspf.jpeg?q=90",
@@ -32293,6 +32422,7 @@ const NXPRODUCTS = [
    "scope:body",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:lactic-acid",
    "ing:urea",
    "ing:tea-tree",
@@ -39783,7 +39913,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.9★ from 2,144 ratings"
+   "buyerEvidence": "3.9★ from 2,144 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/f/1/6/50-feet-crack-heel-repair-cream-smooth-foot-crack-cracked-heel-original-imah7dhjug8hkhuw.jpeg?q=90",
@@ -39798,6 +39929,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "claim:hydrating",
    "claim:barrier",
    "claim:cracked-heels",
@@ -39999,7 +40131,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/j/t/50-heel-repair-foot-cream-softens-rough-dry-cracked-feet-skin-original-imahzphs9yzzfrgw.jpeg?q=90",
@@ -40015,6 +40148,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:kit",
+   "water:unstated",
    "ing:aloe-vera",
    "claim:brightening",
    "claim:hydrating",
@@ -40879,7 +41013,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 4 ratings"
+   "buyerEvidence": "4★ from 4 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/g/2/7/400-0-crack-blaster-heel-repair-specialist-smoothness-formula-original-imahnbpavjzyavrz.jpeg?q=90",
@@ -40895,6 +41030,7 @@ const NXPRODUCTS = [
    "scope:body",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:allantoin",
    "ing:menthol",
@@ -41846,7 +41982,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 26 ratings"
+   "buyerEvidence": "4.3★ from 26 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/d/h/0/35-vitamin-c-foot-peel-mask-dead-skin-remover-for-cracked-heels-original-imahhfyvg8h7u7fg.jpeg?q=90",
@@ -41863,6 +42000,7 @@ const NXPRODUCTS = [
    "format:pack",
    "format:peel",
    "format:foot-peel",
+   "water:unstated",
    "ing:vitamin-c",
    "claim:brightening",
    "claim:hydrating",
@@ -42721,7 +42859,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.6★ from 19 ratings"
+   "buyerEvidence": "4.6★ from 19 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/f/l/b/50-tea-tree-oil-foot-cream-with-aloe-vera-vitamin-e-peppermint-original-imahhh2fzgytrnnb.jpeg?q=90",
@@ -42739,6 +42878,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "format:body-wax",
+   "water:unstated",
    "ing:tea-tree",
    "ing:aloe-vera",
    "ing:shea-butter",
@@ -43046,7 +43186,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 4 ratings"
+   "buyerEvidence": "4.3★ from 4 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/i/z/p/60-0-corn-removal-gel-lactic-acid-roll-on-for-calluses-cracked-original-imahmmvzwuudzefq.jpeg?q=90",
@@ -43063,6 +43204,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:pack",
    "format:roll-on",
+   "water:unstated",
    "ing:lactic-acid",
    "claim:cracked-heels",
    "skin:all",
@@ -43152,7 +43294,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.9★ from 2,384 ratings"
+   "buyerEvidence": "3.9★ from 2,384 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/g/r/50-herbal-foot-crack-revive-cream-for-dry-cracked-heels-feet-original-imah9zcj5fzgxh5a.jpeg?q=90",
@@ -43168,6 +43311,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:kit",
+   "water:unstated",
    "claim:brightening",
    "claim:de-tan",
    "claim:hydrating",
@@ -44217,7 +44361,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 8 ratings"
+   "buyerEvidence": "5★ from 8 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/x/s/w/50-moisturizing-foot-crack-heel-repair-cream-for-daily-care-original-imahpczdcbzzndzh.jpeg?q=90",
@@ -44234,6 +44379,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:tea-tree",
    "ing:aloe-vera",
    "ing:shea-butter",
@@ -44439,7 +44585,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-body-skin-treatment/c/p/9/30-foot-crack-cream-repair-dry-cracked-heels-fast-1x30g-naivam-original-imahmhajv3txdurd.jpeg?q=90",
@@ -44455,6 +44602,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:kit",
+   "water:unstated",
    "ing:lactic-acid",
    "ing:urea",
    "ing:glycerin",
@@ -45732,7 +45880,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/y/j/s/50-smooth-feet-heel-care-cream-silktone-cream-original-imahnhz2k7cwczym.jpeg?q=90",
@@ -45751,6 +45900,7 @@ const NXPRODUCTS = [
    "format:lotion",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:tea-tree",
    "ing:aloe-vera",
    "ing:shea-butter",
@@ -45953,7 +46103,8 @@ const NXPRODUCTS = [
    "evidenceActives": "shea butter (#2 on list, moderate evidence); cocoa butter (#8 on list, limited evidence); tocopherol (#9 on list, moderate evidence); glycerin (#10 on list, strong evidence); allantoin (#14 on list, limited evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/s/i/50-cracked-heel-repair-cream-for-dry-feet-and-daily-foot-care-original-imahz2snyqhpszbt.jpeg?q=90",
@@ -45971,6 +46122,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:tea-tree",
    "ing:aloe-vera",
    "ing:neem",
@@ -46146,7 +46298,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/c/u/150-foot-crack-cream-for-soft-smooth-feet-heel-care-formula-original-imahqsfp4kbyznzg.jpeg?q=90",
@@ -46163,6 +46316,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:tea-tree",
    "ing:aloe-vera",
    "ing:shea-butter",
@@ -46368,7 +46522,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/o/6/w/50-foot-repair-cream-for-dry-cracked-feet-soft-smooth-heel-care-original-imahqhkpkebyug42.jpeg?q=90",
@@ -46386,6 +46541,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "format:wash",
+   "water:unstated",
    "ing:tea-tree",
    "ing:aloe-vera",
    "ing:shea-butter",
@@ -46605,7 +46761,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/s/a/j/50-organic-premium-cracked-heel-repair-smooth-foot-cream-myeong-original-imagm29c5hxcqdzh.jpeg?q=90",
@@ -46621,6 +46778,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:capsule",
+   "water:unstated",
    "claim:brightening",
    "claim:de-tan",
    "claim:dark-spots",
@@ -46832,7 +46990,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 6 ratings"
+   "buyerEvidence": "4★ from 6 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/f/2/n/60-foot-cream-for-cracked-heels-dry-feet-heel-repair-2x30g-original-imahmjrrgyg36d7v.jpeg?q=90",
@@ -46847,6 +47006,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:lactic-acid",
    "ing:urea",
    "ing:glycerin",
@@ -47382,7 +47542,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 44 ratings"
+   "buyerEvidence": "4★ from 44 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/f/1/6/50-feet-crack-heel-repair-cream-smooth-foot-crack-cracked-heel-original-imah7dhjug8hkhuw.jpeg?q=90",
@@ -47397,6 +47558,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "claim:hydrating",
    "claim:barrier",
    "claim:cracked-heels",
@@ -47603,7 +47765,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/j/i/f/50-organic-premium-cracked-heel-repair-and-smooth-foot-cream-original-imagm29dygd7fryx.jpeg?q=90",
@@ -47619,6 +47782,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:kit",
+   "water:unstated",
    "claim:dark-spots",
    "claim:hydrating",
    "claim:barrier",
@@ -48463,7 +48627,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 4 ratings"
+   "buyerEvidence": "5★ from 4 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/w/r/50-foot-crack-cream-for-dry-cracked-heels-silktone-cream-original-imahnhz2axwvnyb5.jpeg?q=90",
@@ -48480,6 +48645,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:shea-butter",
    "ing:vitamin-e",
@@ -49011,7 +49177,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/n/o/50-foot-cream-for-moisturizes-soothes-repair-dry-cracked-heal-original-imahqjkqjykdya5z.jpeg?q=90"
@@ -49022,6 +49189,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "claim:brightening",
    "claim:hydrating",
    "claim:barrier",
@@ -49124,7 +49292,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 4 ratings"
+   "buyerEvidence": "5★ from 4 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/y/h/p/50-advanced-foot-repair-cream-for-dry-feet-silktone-cream-original-imahnhz23ghnx3gf.jpeg?q=90",
@@ -49141,6 +49310,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:tea-tree",
    "ing:aloe-vera",
    "ing:shea-butter",
@@ -49344,7 +49514,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/2/7/j/30-foot-cream-for-cracked-heels-dry-feet-heel-repair-1x30g-original-imahmhayuzby8ywg.jpeg?q=90",
@@ -49359,6 +49530,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:lactic-acid",
    "ing:urea",
    "ing:glycerin",
@@ -50126,7 +50298,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 71 ratings"
+   "buyerEvidence": "5★ from 71 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/3/b/n/200-0-moisturising-foot-cream-for-heel-crack-repair-and-soft-original-imahzspu7zzzqsyy.jpeg?q=90",
@@ -50143,6 +50316,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:balm",
    "format:pack",
+   "water:unstated",
    "ing:tea-tree",
    "ing:shea-butter",
    "claim:hydrating",
@@ -50351,7 +50525,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 65 ratings"
+   "buyerEvidence": "5★ from 65 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/q/i/1/300-0-intensive-heel-repair-foot-cream-to-soften-and-soothe-original-imahzspnhdj6anf4.jpeg?q=90",
@@ -50368,6 +50543,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:balm",
    "format:pack",
+   "water:unstated",
    "ing:tea-tree",
    "ing:shea-butter",
    "claim:barrier",
@@ -50463,7 +50639,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.9★ from 70 ratings"
+   "buyerEvidence": "4.9★ from 70 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/h/b/z/400-0-crack-blaster-foot-care-cream-for-deep-heel-healing-and-original-imahzspumh8fnff6.jpeg?q=90",
@@ -50480,6 +50657,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:balm",
    "format:pack",
+   "water:unstated",
    "ing:tea-tree",
    "ing:shea-butter",
    "claim:exfoliating",
@@ -50571,7 +50749,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/n/w/o/30-foot-crack-cream-repair-dry-cracked-heels-fast-1x30g-cotario-original-imahmjrgek9n9ge6.jpeg?q=90",
@@ -50590,6 +50769,7 @@ const NXPRODUCTS = [
    "format:lotion",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:lactic-acid",
    "ing:urea",
    "ing:aloe-vera",
@@ -50908,7 +51088,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 49 ratings"
+   "buyerEvidence": "5★ from 49 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/u/q/a/300-0-deep-moisturizer-foot-cream-for-dry-rough-feet-and-cracked-original-imahzspnjfefsuzz.jpeg?q=90",
@@ -50925,6 +51106,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:balm",
    "format:pack",
+   "water:unstated",
    "ing:tea-tree",
    "ing:shea-butter",
    "claim:hydrating",
@@ -51020,7 +51202,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-body-skin-treatment/b/b/9/60-foot-crack-cream-repair-dry-cracked-heels-fast-2x30g-cotario-original-imahmhaesqa44rbn.jpeg?q=90",
@@ -51037,6 +51220,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:lotion",
    "format:kit",
+   "water:unstated",
    "ing:lactic-acid",
    "ing:urea",
    "ing:honey",
@@ -51248,7 +51432,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/9/n/m/60-foot-cream-for-cracked-heels-dry-feet-heel-repair-2x30g-original-imahmsd9z2htxynw.jpeg?q=90",
@@ -51264,6 +51449,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:lotion",
+   "water:unstated",
    "ing:lactic-acid",
    "ing:urea",
    "ing:colloidal-oatmeal",
@@ -51364,7 +51550,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-body-skin-treatment/q/s/g/60-foot-crack-cream-repair-dry-cracked-heels-fast-2x30g-cotario-original-imahmhag6hhzjjge.jpeg?q=90",
@@ -51380,6 +51567,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:emulsion",
+   "water:unstated",
    "ing:lactic-acid",
    "ing:urea",
    "ing:glutathione",
@@ -51587,7 +51775,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/m/a/30-foot-cream-for-cracked-heels-dry-feet-heel-repair-1x30g-original-imahmhbmphtakzz9.jpeg?q=90",
@@ -51603,6 +51792,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:roll-on",
+   "water:unstated",
    "ing:lactic-acid",
    "ing:urea",
    "ing:glycerin",
@@ -51920,7 +52110,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-body-skin-treatment/h/m/0/30-foot-crack-cream-repair-dry-cracked-heels-fast-1x30g-cotario-original-imahmhaf2gfeczky.jpeg?q=90",
@@ -51935,6 +52126,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:lactic-acid",
    "ing:urea",
    "ing:aloe-vera",
@@ -52036,7 +52228,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-body-skin-treatment/l/x/0/30-foot-crack-cream-repair-dry-cracked-heels-fast-1x30g-naivam-original-imahhxpf9xdgjg5e.jpeg?q=90",
@@ -52053,6 +52246,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:lotion",
    "format:kit",
+   "water:unstated",
    "ing:lactic-acid",
    "ing:urea",
    "ing:almond",
@@ -52155,7 +52349,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 59 ratings"
+   "buyerEvidence": "5★ from 59 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/a/o/6/100-0-moisturizing-foot-cream-for-smooth-soft-feet-and-cracked-original-imahzspnr9gsyruh.jpeg?q=90",
@@ -52172,6 +52367,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:balm",
    "format:pack",
+   "water:unstated",
    "ing:tea-tree",
    "ing:shea-butter",
    "claim:hydrating",
@@ -52267,7 +52463,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.7★ from 3 ratings"
+   "buyerEvidence": "4.7★ from 3 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/j/n/l/200-0-intensive-foot-repair-cream-for-instant-softness-heel-original-imahm6gufczrd8gg.jpeg?q=90",
@@ -52285,6 +52482,7 @@ const NXPRODUCTS = [
    "format:pack",
    "format:wash",
    "spf:50",
+   "water:unstated",
    "ing:lactic-acid",
    "claim:barrier",
    "claim:spf-claim",
@@ -52602,7 +52800,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-moisturizer-cream/j/n/j/30-foot-cream-for-cracked-heels-dry-feet-heel-repair-1x30g-cream-original-imahhw5wnyqq6z6u.jpeg?q=90",
@@ -52618,6 +52817,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:lotion",
+   "water:unstated",
    "ing:lactic-acid",
    "ing:urea",
    "ing:glycerin",
@@ -52718,7 +52918,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 6 ratings"
+   "buyerEvidence": "4★ from 6 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/d/a/2/60-foot-cream-for-cracked-heels-dry-feet-heel-repair-2x30g-original-imahnjgzmzp4qkuq.jpeg?q=90",
@@ -52733,6 +52934,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:lactic-acid",
    "ing:urea",
    "ing:glycerin",
@@ -52832,7 +53034,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-body-skin-treatment/7/g/e/60-foot-crack-cream-repair-dry-cracked-heels-fast-2x30g-naivam-original-imahhydhrpwbhzer.jpeg?q=90",
@@ -52849,6 +53052,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:balm",
+   "water:unstated",
    "ing:lactic-acid",
    "ing:urea",
    "ing:aloe-vera",
@@ -52950,7 +53154,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/g/c/j/30-foot-cream-for-cracked-heels-dry-feet-heel-repair-1x30g-original-imahmjs68gsjcvzc.jpeg?q=90",
@@ -52965,6 +53170,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:lactic-acid",
    "ing:urea",
    "ing:glycerin",
@@ -53175,7 +53381,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/o/n/c/50-crack-heel-repair-herbal-moisturize-cream-for-foot-hand-with-original-imahpq8hd4brksjj.jpeg?q=90",
@@ -53190,6 +53397,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:vitamin-e",
    "claim:brightening",
    "claim:oil-control",
@@ -53284,7 +53492,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Oriflame Cosmetics — Global FMCG or beauty group",
-   "buyerEvidence": "4.2★ from 6 ratings"
+   "buyerEvidence": "4.2★ from 6 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/e/i/w/75-body-care-splendid-bouquet-hand-cream-oriflame-sweden-cream-original-imagxuqzszyz3zqj.jpeg?q=90",
@@ -53299,6 +53508,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:almond",
    "ing:glycerin",
    "claim:hydrating",
@@ -53723,7 +53933,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 13 ratings"
+   "buyerEvidence": "4.4★ from 13 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/c/2/j/30-hand-care-cream-with-tea-tree-extracts-for-all-skin-types-s-o-original-imahqftggwfbm4jq.jpeg?q=90",
@@ -53739,6 +53950,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:wash",
+   "water:unstated",
    "ing:tea-tree",
    "claim:brightening",
    "claim:hydrating",
@@ -53950,7 +54162,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/p/a/30-hand-care-cream-with-tea-tree-extracts-for-all-skin-types-original-imahpe2pkc5e5zgj.jpeg?q=90",
@@ -53967,6 +54180,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:lotion",
    "format:kit",
+   "water:unstated",
    "ing:tea-tree",
    "claim:brightening",
    "claim:oil-control",
@@ -54071,7 +54285,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/r/c/j/100-watermelon-moisturizing-hand-cream-deep-nourishment-for-all-original-imahps9qt4ahdfgt.jpeg?q=90",
@@ -54086,6 +54301,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:vitamin-e",
    "ing:watermelon",
    "claim:brightening",
@@ -54287,7 +54503,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Oriflame Cosmetics — Global FMCG or beauty group",
-   "buyerEvidence": "4.3★ from 83 ratings"
+   "buyerEvidence": "4.3★ from 83 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/j/v/3/75-essentials-glow-essentials-hand-cream-with-vitamins-e-b3-original-imah3fzdf7ptfbfa.jpeg?q=90",
@@ -54302,6 +54519,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "claim:brightening",
    "skin:all",
    "free:paraben",
@@ -54392,7 +54610,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Oriflame Cosmetics — Global FMCG or beauty group",
-   "buyerEvidence": "4.3★ from 21 ratings"
+   "buyerEvidence": "4.3★ from 21 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/c/z/y/75-moisturising-hand-cream-oriflame-sweden-cream-original-imahauhh6g5bg8jg.jpeg?q=90",
@@ -54407,6 +54626,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "claim:hydrating",
    "claim:barrier",
    "skin:all",
@@ -54725,7 +54945,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/p/q/100-watermelon-moisturizing-hand-cream-vitamin-e-enriched-original-imahpsce6x3kgt8j.jpeg?q=90",
@@ -54740,6 +54961,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:vitamin-e",
    "ing:watermelon",
    "claim:brightening",
@@ -55256,7 +55478,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Oriflame Cosmetics — Global FMCG or beauty group",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/i/c/4/75-glow-essentials-hand-cream-vitamins-e-b3-all-skin-types-original-imahnt7mqaughh3y.jpeg?q=90",
@@ -55272,6 +55495,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:oil",
+   "water:unstated",
    "ing:niacinamide",
    "ing:honey",
    "ing:almond",
@@ -55647,7 +55871,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Oriflame Cosmetics — Global FMCG or beauty group",
-   "buyerEvidence": "4.7★ from 20 ratings"
+   "buyerEvidence": "4.7★ from 20 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/1/1/g/75-milk-honey-gold-moisturising-hand-cream-oriflame-sweden-cream-original-imah6uchxu2fpvja.jpeg?q=90",
@@ -55663,6 +55888,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:balm",
+   "water:unstated",
    "ing:honey",
    "ing:shea-butter",
    "ing:milk",
@@ -55963,7 +56189,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/s/b/9/100-natural-fresh-watermelon-hand-cream-moisturising-hand-cream-original-imahpwmrycuhkbrp.jpeg?q=90",
@@ -55981,6 +56208,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:scrub",
    "format:kit",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:honey",
    "ing:vitamin-e",
@@ -56290,7 +56518,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.7★ from 7 ratings"
+   "buyerEvidence": "4.7★ from 7 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/u/d/96-cocoa-butter-formula-hand-cream-palmer-s-cream-original-imaguy7zpyu9b9yn.jpeg?q=90",
@@ -56306,6 +56535,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:balm",
+   "water:unstated",
    "ing:cocoa-butter",
    "claim:hydrating",
    "skin:all",
@@ -56500,7 +56730,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/1/l/r/100-hand-lotion-with-almond-oil-shea-butter-teal-terra-lotion-original-imah664fxapm9pfy.jpeg?q=90",
@@ -56523,6 +56754,7 @@ const NXPRODUCTS = [
    "format:kit",
    "spf:30",
    "pa:+++",
+   "water:unstated",
    "ing:rose",
    "ing:almond",
    "ing:shea-butter",
@@ -57337,7 +57569,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Oriflame Cosmetics — Global FMCG or beauty group",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/m/9/150-essentials-glow-hand-cream-with-vitamins-e-and-b3-75-x-2-ml-original-imahhsrd2xydexnz.jpeg?q=90",
@@ -57356,6 +57589,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:kit",
    "format:aerosol",
+   "water:unstated",
    "ing:vitamin-e",
    "claim:brightening",
    "claim:anti-aging",
@@ -57672,7 +57906,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/w/x/100-watermelon-hydrating-hand-cream-for-women-deep-moisturizing-original-imahptfech4sp5ht.jpeg?q=90",
@@ -57687,6 +57922,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:vitamin-e",
    "ing:watermelon",
    "claim:brightening",
@@ -57781,7 +58017,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/t/0/a/50-hand-foot-crack-healing-for-dry-cracked-heels-cream-for-women-original-imahgvhy8vwhuqyu.jpeg?q=90",
@@ -57799,6 +58036,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "format:roll-on",
+   "water:unstated",
    "ing:urea",
    "ing:peptides",
    "ing:shea-butter",
@@ -58119,7 +58357,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/7/x/i/75-oats-daily-moisturising-hand-cream-75ml-boots-cream-original-imagw5zcngttyyda.jpeg?q=90",
@@ -58137,6 +58376,7 @@ const NXPRODUCTS = [
    "format:lotion",
    "format:kit",
    "spf:50+",
+   "water:unstated",
    "ing:colloidal-oatmeal",
    "ing:avocado",
    "claim:brightening",
@@ -58336,7 +58576,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/f/n/b/85-working-hands-night-treatment-hand-cream-o-keeffe-s-cream-original-imahaza6rfhvxcvr.jpeg?q=90",
@@ -58353,6 +58594,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:lotion",
    "spf:50",
+   "water:unstated",
    "claim:brightening",
    "claim:hydrating",
    "claim:spf-claim",
@@ -58563,7 +58805,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/r/d/p/15-strengthening-nail-cuticle-cream-intensive-hydration-kysma-original-imahmtreghyzpjhz.jpeg?q=90",
@@ -58578,6 +58821,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "claim:hydrating",
    "claim:stretch-marks",
    "claim:scars",
@@ -59753,7 +59997,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/p/j/h/50-heel-repair-foot-crack-cream-women-men-moisurization-and-original-imah8gfh8g3kzqte.jpeg?q=90",
@@ -59771,6 +60016,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:pack",
    "format:patch",
+   "water:unstated",
    "ing:glycerin",
    "claim:hydrating",
    "claim:barrier",
@@ -60508,7 +60754,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/5/j/8/100-amrit-ras-foot-balm-relaxing-softening-healing-100g-ohria-original-imahdr4smgbzumeg.jpeg?q=90",
@@ -60527,6 +60774,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:wash",
    "spf:30",
+   "water:unstated",
    "ing:collagen",
    "ing:turmeric",
    "ing:honey",
@@ -64220,7 +64468,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/1/p/n/40-hydrating-nourishing-foot-mask-socks-exfoliating-foot-peel-original-imahp88fkzybffxk.jpeg?q=90",
@@ -64240,6 +64489,7 @@ const NXPRODUCTS = [
    "format:wash",
    "format:kit",
    "format:foot-peel",
+   "water:unstated",
    "ing:lavender",
    "claim:hydrating",
    "claim:exfoliating",
@@ -70872,7 +71122,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.3★ from 4 ratings"
+   "buyerEvidence": "3.3★ from 4 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/8/j/o/40-foot-peel-mask-for-dead-skin-removal-dry-cracked-callus-original-imahbxjsctsfd4ph.jpeg?q=90",
@@ -70891,6 +71142,7 @@ const NXPRODUCTS = [
    "format:peel",
    "format:wash",
    "format:foot-peel",
+   "water:unstated",
    "claim:dark-spots",
    "claim:hydrating",
    "claim:barrier",
@@ -74971,7 +75223,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Oriflame Cosmetics — Global FMCG or beauty group",
-   "buyerEvidence": "3.8★ from 4 ratings"
+   "buyerEvidence": "3.8★ from 4 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/7/8/q/100-advanced-intensive-moisture-foot-mask-oriflame-sweden-cream-original-imah3pfpjtvjqhhy.jpeg?q=90",
@@ -74987,6 +75240,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:foot-peel",
+   "water:unstated",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -75598,7 +75852,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/d/x/v/500-natural-detox-foot-patch-for-daily-body-care-and-wellness-original-imahz7xhypythkgm.jpeg?q=90",
@@ -75619,6 +75874,7 @@ const NXPRODUCTS = [
    "format:powder",
    "format:patch",
    "format:wash",
+   "water:unstated",
    "claim:soothing",
    "claim:exfoliating",
    "claim:ayurvedic",
@@ -77094,7 +77350,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/foot-filer/g/3/g/foot-peeling-mask-for-dead-skin-removal-natural-exfoliator-for-original-imahgfg3uhsaw5av.jpeg?q=90",
@@ -77109,6 +77366,7 @@ const NXPRODUCTS = [
    "format:peel",
    "format:patch",
    "format:foot-peel",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
    "ing:lactic-acid",
@@ -80782,7 +81040,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/a/l/u/35-natural-rose-exfoliating-foot-mask-lavender-essence-for-soft-original-imahdxr7nfdntrxs.jpeg?q=90",
@@ -80799,6 +81058,7 @@ const NXPRODUCTS = [
    "format:essence",
    "format:kit",
    "format:foot-peel",
+   "water:unstated",
    "ing:rose",
    "ing:lavender",
    "claim:brightening",
@@ -82530,7 +82790,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/z/z/y/35-natural-rose-exfoliating-foot-mask-lavender-essence-for-soft-original-imahdxr9cnykqhc5.jpeg?q=90",
@@ -82547,6 +82808,7 @@ const NXPRODUCTS = [
    "format:essence",
    "format:kit",
    "format:foot-peel",
+   "water:unstated",
    "ing:rose",
    "ing:lavender",
    "claim:brightening",
@@ -85814,7 +86076,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/foot-filer/p/m/h/foot-peel-mask-for-dry-cracked-feet-1-maukir-original-imahe3dkb7nj4bvb.jpeg?q=90",
@@ -85830,6 +86093,7 @@ const NXPRODUCTS = [
    "format:pack",
    "format:peel",
    "format:foot-peel",
+   "water:unstated",
    "ing:rose",
    "claim:soothing",
    "claim:exfoliating",
@@ -85921,7 +86185,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/z/4/e/36-lavender-foot-mask-for-dry-cracked-heels-dead-skin-removal-original-imahpaghggxzgerf.jpeg?q=90",
@@ -85938,6 +86203,7 @@ const NXPRODUCTS = [
    "format:pack",
    "format:wash",
    "format:foot-peel",
+   "water:unstated",
    "ing:lavender",
    "claim:de-tan",
    "claim:exfoliating",
@@ -86031,7 +86297,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/4/m/p/36-lavender-foot-care-mask-for-dry-feet-cracked-heels-calluses-original-imahpahp65bngj84.jpeg?q=90",
@@ -86047,6 +86314,7 @@ const NXPRODUCTS = [
    "format:pack",
    "format:wash",
    "format:foot-peel",
+   "water:unstated",
    "ing:lavender",
    "claim:de-tan",
    "claim:exfoliating",
@@ -86139,7 +86407,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/a/z/f/20-best-foot-peeling-mask-for-dead-dry-dull-skin-remover-soft-original-imahh4smbfx5yhgb.jpeg?q=90",
@@ -86156,6 +86425,7 @@ const NXPRODUCTS = [
    "format:pack",
    "format:peel",
    "format:foot-peel",
+   "water:unstated",
    "claim:exfoliating",
    "claim:cracked-heels",
    "claim:painless",
@@ -86356,7 +86626,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/v/s/h/36-exfoliating-lavender-foot-mask-socks-for-soft-smooth-feet-36g-original-imahpahpceyahsnz.jpeg?q=90",
@@ -86372,6 +86643,7 @@ const NXPRODUCTS = [
    "format:pack",
    "format:wash",
    "format:foot-peel",
+   "water:unstated",
    "ing:lavender",
    "claim:de-tan",
    "claim:exfoliating",
@@ -86463,7 +86735,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/j/m/n/40-rose-foot-peel-mask-for-cracked-heels-dead-skin-kevim-original-imahgdnj7agj35gb.jpeg?q=90",
@@ -86478,6 +86751,7 @@ const NXPRODUCTS = [
    "format:pack",
    "format:peel",
    "format:foot-peel",
+   "water:unstated",
    "ing:rose",
    "claim:soothing",
    "claim:exfoliating",
@@ -86569,7 +86843,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/p/i/t/20-exfoliating-foot-mask-peeling-dead-skin-hydrate-dry-skin-original-imahj6jht7qykt7a.jpeg?q=90",
@@ -86589,6 +86864,7 @@ const NXPRODUCTS = [
    "format:peel",
    "format:wash",
    "format:foot-peel",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
    "ing:lactic-acid",
@@ -86694,7 +86970,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/4/s/a/40-lavender-foot-peel-mask-for-cracked-heels-dead-skin-kevim-original-imahgdnfwydg9ajy.jpeg?q=90",
@@ -86710,6 +86987,7 @@ const NXPRODUCTS = [
    "format:pack",
    "format:peel",
    "format:foot-peel",
+   "water:unstated",
    "ing:lavender",
    "claim:soothing",
    "claim:exfoliating",
@@ -86801,7 +87079,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/b/t/t/36-callus-remover-foot-mask-socks-with-lavender-essence-36g-original-imahpahqj3bypyzu.jpeg?q=90",
@@ -86818,6 +87097,7 @@ const NXPRODUCTS = [
    "format:pack",
    "format:wash",
    "format:foot-peel",
+   "water:unstated",
    "ing:lavender",
    "claim:de-tan",
    "claim:exfoliating",
@@ -87020,7 +87300,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/u/l/u/20-exfoliating-foot-peeling-mask-for-smooth-florero-original-imahg98ya5au3wfp.jpeg?q=90",
@@ -87039,6 +87320,7 @@ const NXPRODUCTS = [
    "format:peel",
    "format:wash",
    "format:foot-peel",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:hyaluronic-acid",
    "ing:green-tea",
@@ -87242,7 +87524,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/o/b/a/16-exfoliating-foot-peel-mask-restores-hydration-for-smooth-original-imahj8ymaw4egy6p.jpeg?q=90",
@@ -87259,6 +87542,7 @@ const NXPRODUCTS = [
    "format:peel",
    "format:patch",
    "format:foot-peel",
+   "water:unstated",
    "claim:de-tan",
    "claim:hydrating",
    "claim:exfoliating",
@@ -87458,7 +87742,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/m/l/1/36-moisturizing-lavender-foot-peel-mask-heel-repair-dead-skin-original-imahpafzbwqtrtv6.jpeg?q=90",
@@ -87475,6 +87760,7 @@ const NXPRODUCTS = [
    "format:peel",
    "format:wash",
    "format:foot-peel",
+   "water:unstated",
    "ing:lavender",
    "claim:de-tan",
    "claim:hydrating",
@@ -87678,7 +87964,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/r/f/r/16-feet-mask-foot-peel-mask-for-dead-skin-florero-original-imahjyy9jszk5nqd.jpeg?q=90",
@@ -87694,6 +87981,7 @@ const NXPRODUCTS = [
    "format:pack",
    "format:peel",
    "format:foot-peel",
+   "water:unstated",
    "claim:exfoliating",
    "claim:cracked-heels",
    "claim:painless",
@@ -88101,7 +88389,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/c/r/i/36-glycolic-acid-foot-peeling-mask-deep-exfoliation-hydration-original-imahpaghpcqv9cjk.jpeg?q=90",
@@ -88118,6 +88407,7 @@ const NXPRODUCTS = [
    "format:peel",
    "format:wash",
    "format:foot-peel",
+   "water:unstated",
    "ing:glycolic-acid",
    "ing:lavender",
    "claim:de-tan",
@@ -88655,7 +88945,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Oriflame Cosmetics — Global FMCG or beauty group",
-   "buyerEvidence": "3.8★ from 5 ratings"
+   "buyerEvidence": "3.8★ from 5 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/p/y/150-feet-up-comfort-overnight-moisturising-foot-cream-glow-original-imah6mdybztfqzbq.jpeg?q=90",
@@ -88670,6 +88961,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "claim:brightening",
    "claim:hydrating",
    "claim:overnight",
@@ -89214,7 +89506,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.6★ from 5 ratings"
+   "buyerEvidence": "3.6★ from 5 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-combo-kit/5/h/c/hand-and-foot-cream-spf-cream-sun-protection-chemical-free-original-imahgvftcccgcakg.jpeg?q=90",
@@ -89232,6 +89525,7 @@ const NXPRODUCTS = [
    "format:pack",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "free:toxin-free",
    "aud:women",
    "rating:3.5",
@@ -89547,7 +89841,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/w/b/e/hand-and-foot-cream-spf-cream-sun-protection-chemical-free-original-imahzfgswazthant.jpeg?q=90",
@@ -89566,6 +89861,7 @@ const NXPRODUCTS = [
    "format:serum",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:gold",
    "claim:brightening",
@@ -90214,7 +90510,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.6★ from 65 ratings"
+   "buyerEvidence": "4.6★ from 65 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/m/t/0/50-hand-foot-cream-with-shea-butter-turmeric-oil-aloe-vera-original-imahzgtfy6pbvnyn.jpeg?q=90",
@@ -90231,6 +90528,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:turmeric",
    "ing:shea-butter",
@@ -91204,7 +91502,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/l/t/y/50-hand-foot-crack-healing-cream-cracked-skin-tanvi27-original-imahjf6p48apray2.jpeg?q=90",
@@ -91221,6 +91520,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:kit",
+   "water:unstated",
    "claim:brightening",
    "claim:whitening-claim",
    "claim:hydrating",
@@ -91950,7 +92250,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/0/x/w/hand-and-foot-cream-pure-aloe-vera-gold-gel-plant-based-herbal-original-imahzfgsed8g7qaj.jpeg?q=90",
@@ -91972,6 +92273,7 @@ const NXPRODUCTS = [
    "format:wash",
    "format:kit",
    "spf:30",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:clay",
    "ing:beetroot",
@@ -93142,7 +93444,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/n/o/n/40-foot-cream-anti-cracking-moisturizing-foot-and-hand-cream-original-imahj8ygsua42yyn.jpeg?q=90",
@@ -93157,6 +93460,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "claim:hydrating",
    "claim:barrier",
    "claim:cracked-heels",
@@ -93249,7 +93553,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 1,263 ratings"
+   "buyerEvidence": "4★ from 1,263 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/q/t/j/50-foot-care-cream-cracked-heel-dry-feet-aloe-vera-50g-pokonut-original-imahparyjccsbnkh.jpeg?q=90",
@@ -93264,6 +93569,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:aloe-vera",
    "claim:hydrating",
    "claim:exfoliating",
@@ -94243,7 +94549,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.5★ from 60 ratings"
+   "buyerEvidence": "4.5★ from 60 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-moisturizer-cream/a/p/v/75-hand-cream-for-men-women-reduce-tan-pigmentation-soothes-original-imahjx86xu9gve5h.jpeg?q=90",
@@ -94260,6 +94567,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:saffron",
    "ing:almond",
    "ing:shea-butter",
@@ -95124,7 +95432,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/2/a/r/100-0-foot-moisturizing-cream-for-dry-rough-skin-heel-care-deep-original-imahzph7dejybuuz.jpeg?q=90",
@@ -95141,6 +95450,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:turmeric",
    "ing:shea-butter",
@@ -95240,7 +95550,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/a/f/a/100-kiwi-extract-hand-cream-repair-dry-rough-cracked-hands-soft-original-imahpwpr6yqkzgq8.jpeg?q=90",
@@ -95255,6 +95566,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:vitamin-e",
    "claim:brightening",
    "claim:hydrating",
@@ -95349,7 +95661,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/y/j/x/50-foot-hand-repair-cream-for-moisturizes-02-thtc-cream-original-imahphahymmrby9e.jpeg?q=90",
@@ -95365,6 +95678,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:cream",
+   "water:unstated",
    "claim:brightening",
    "claim:whitening-claim",
    "claim:hydrating",
@@ -95459,7 +95773,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/0/m/z/100-kiwi-fruit-moisturizing-hand-cream-deep-repair-hydration-original-imahpwp5yjmfh2zw.jpeg?q=90",
@@ -95474,6 +95789,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:vitamin-e",
    "claim:brightening",
    "claim:hydrating",
@@ -95679,7 +95995,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/6/p/l/100-kiwi-fruit-hand-cream-vitamin-e-enriched-moisturizing-for-original-imahptkvmghzxkfr.jpeg?q=90",
@@ -95694,6 +96011,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:vitamin-e",
    "claim:brightening",
    "claim:hydrating",
@@ -106019,7 +106337,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/4/q/a/36-moisturizing-foot-peel-mask-socks-for-smooth-feet-with-original-imahpamym6xqhzhh.jpeg?q=90",
@@ -106037,6 +106356,7 @@ const NXPRODUCTS = [
    "format:peel",
    "format:wash",
    "format:foot-peel",
+   "water:unstated",
    "ing:lavender",
    "claim:de-tan",
    "claim:hydrating",
@@ -106345,7 +106665,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/v/g/2/36-spa-foot-mask-socks-for-dead-skin-removal-heel-repair-36g-original-imahpahvtp5ffbbc.jpeg?q=90",
@@ -106362,6 +106683,7 @@ const NXPRODUCTS = [
    "format:pack",
    "format:wash",
    "format:foot-peel",
+   "water:unstated",
    "ing:lavender",
    "claim:de-tan",
    "claim:barrier",
@@ -111956,7 +112278,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/c/i/v/36-lavender-foot-mask-for-heel-cracks-dry-skin-treatment-36g-original-imahpahqyfbnz2qa.jpeg?q=90",
@@ -111973,6 +112296,7 @@ const NXPRODUCTS = [
    "format:pack",
    "format:wash",
    "format:foot-peel",
+   "water:unstated",
    "ing:lavender",
    "claim:de-tan",
    "claim:exfoliating",
@@ -119031,7 +119355,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/2/g/b/60-foot-cream-flixy-cream-original-imahqmjeegpfmybr.jpeg?q=90",
@@ -119044,6 +119369,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:cream",
+   "water:unstated",
    "claim:brightening",
    "claim:oil-control",
    "claim:hydrating",
@@ -119139,7 +119465,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/v/g/50-daily-use-foot-cream-for-soft-feet-and-cracked-heel-treatment-original-imahzrrvfgad2hpg.jpeg?q=90",
@@ -119155,6 +119482,7 @@ const NXPRODUCTS = [
    "scope:body",
    "format:cream",
    "format:foam",
+   "water:unstated",
    "ing:aloe-vera",
    "claim:hydrating",
    "claim:cracked-heels",
@@ -119255,7 +119583,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/y/x/n/50-soft-feet-foot-cream-for-cracked-heels-and-dry-skin-relief-original-imahzrrmwgbcqaak.jpeg?q=90",
@@ -119273,6 +119602,7 @@ const NXPRODUCTS = [
    "format:lotion",
    "format:balm",
    "format:kit",
+   "water:unstated",
    "ing:shea-butter",
    "claim:hydrating",
    "claim:barrier",
@@ -119374,7 +119704,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/o/h/1/50-crack-blaster-repair-cracked-skin-heel-healing-balm-50gm-original-imahnhm9jh3dk3f8.jpeg?q=90",
@@ -119390,6 +119721,7 @@ const NXPRODUCTS = [
    "scope:body",
    "format:cream",
    "format:lotion",
+   "water:unstated",
    "ing:green-tea",
    "ing:cherry-acerola",
    "claim:hydrating",
@@ -119629,7 +119961,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/u/2/50-foot-care-cream-repair-dry-cracked-heels-rough-feet-deep-original-imahn93wvzazty6f.jpeg?q=90",
@@ -119649,6 +119982,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:scrub",
    "format:wash",
+   "water:unstated",
    "ing:saffron",
    "ing:cocoa-butter",
    "claim:hydrating",
@@ -119750,7 +120084,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/m/e/50-intensive-foot-repair-cream-dry-feet-heel-cracks-rough-skin-original-imahmy544xecsgzj.jpeg?q=90",
@@ -119768,6 +120103,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:scrub",
    "format:wash",
+   "water:unstated",
    "claim:hydrating",
    "claim:barrier",
    "claim:ayurvedic",
@@ -120261,7 +120597,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/e/5/q/50-crack-heel-repair-foot-care-cream-moisturizer-for-dry-rough-original-imahn8fgwusbznqk.jpeg?q=90",
@@ -120281,6 +120618,7 @@ const NXPRODUCTS = [
    "format:scrub",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "claim:brightening",
    "claim:dark-spots",
    "claim:whitening-claim",
@@ -120382,7 +120720,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Oriflame Cosmetics — Global FMCG or beauty group",
-   "buyerEvidence": "4.7★ from 7 ratings"
+   "buyerEvidence": "4.7★ from 7 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/o/e/r/75-oriflame-feet-up-advanced-cracked-heel-repair-and-smooth-foot-original-imahgkjhvqtug2fj.jpeg?q=90",
@@ -120398,6 +120737,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:balm",
+   "water:unstated",
    "ing:shea-butter",
    "ing:glycerin",
    "claim:brightening",
@@ -120494,7 +120834,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/j/v/s/50-foot-cream-for-cracked-heels-dry-feet-deep-repair-and-original-imahzprksqsdtgfh.jpeg?q=90",
@@ -120509,6 +120850,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:aloe-vera",
    "claim:oil-control",
    "claim:hydrating",
@@ -120610,7 +120952,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Oriflame Cosmetics — Global FMCG or beauty group",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/a/n/b/150-oriflame-feet-up-advanced-cracked-heel-repair-and-smooth-original-imahj5g6dug7z7ud.jpeg?q=90",
@@ -120629,6 +120972,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:cocoa-butter",
    "ing:vitamin-e",
    "ing:vitamin-b5-panthenol",
@@ -120730,7 +121074,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/o/z/50-foot-cream-softens-dry-heels-repairs-cracked-feet-kronzam-original-imahzu54pvhfmh7m.jpeg?q=90",
@@ -120749,6 +121094,7 @@ const NXPRODUCTS = [
    "format:scrub",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:kojic-acid",
    "claim:brightening",
    "claim:dark-spots",
@@ -120852,7 +121198,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/a/q/m/50-foot-cream-deep-nourishment-repair-for-dry-rough-cracked-feet-original-imahzu4xkszcuegf.jpeg?q=90",
@@ -120871,6 +121218,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:scrub",
    "format:wash",
+   "water:unstated",
    "claim:hydrating",
    "claim:barrier",
    "claim:soothing",
@@ -121340,7 +121688,8 @@ const NXPRODUCTS = [
    "evidenceActives": "urea (#2 on list, strong evidence); lactic acid (#6 on list, strong evidence); glycerin (#7 on list, strong evidence); tocopherol (#17 on list, moderate evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/e/4/y/50-intensive-foot-repair-cream-for-cracked-heels-50g-nairuvee-original-imahztt2ah9fge2c.jpeg?q=90",
@@ -121357,6 +121706,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:lotion",
    "format:serum",
+   "water:unstated",
    "ing:lactic-acid",
    "ing:urea",
    "ing:colloidal-oatmeal",
@@ -121725,7 +122075,8 @@ const NXPRODUCTS = [
    "evidenceActives": "paraffinum liquidum (#7 on list, moderate evidence); glycerin (#10 on list, strong evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/x/o/p/50-foot-cream-for-intensive-repair-nourishment-for-dry-rough-original-imahn3zrynfvxyxu.jpeg?q=90",
@@ -121744,6 +122095,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:scrub",
    "format:wash",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:turmeric",
    "ing:rose",
@@ -121867,7 +122219,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/e/g/f/50-foot-repair-cream-for-dry-cracked-feet-skynetics-cream-original-imahnfsednjrb7gr.jpeg?q=90",
@@ -121883,6 +122236,7 @@ const NXPRODUCTS = [
    "scope:body",
    "format:cream",
    "format:lotion",
+   "water:unstated",
    "ing:rose",
    "ing:milk",
    "claim:hydrating",
@@ -122667,7 +123021,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/t/h/b/50-deep-moisturizing-foot-repair-cream-for-heel-cracks-dry-feet-original-imahpz3pusrjtkhh.jpeg?q=90",
@@ -122682,6 +123037,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "claim:oil-control",
    "claim:hydrating",
    "claim:barrier",
@@ -123335,7 +123691,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/u/f/50-crack-heel-repair-foot-care-cream-moisturizer-for-dry-rough-original-imahn8fknabtnusf.jpeg?q=90",
@@ -123353,6 +123710,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:scrub",
    "format:wash",
+   "water:unstated",
    "claim:hydrating",
    "claim:barrier",
    "claim:cracked-heels",
@@ -125273,7 +125631,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/o/r/d/50-foot-cream-moisturizes-soothes-repair-dry-cracked-heal-gfsu-original-imahpg6734ew7hux.jpeg?q=90",
@@ -125288,6 +125647,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:lavender",
    "claim:brightening",
@@ -129042,7 +129402,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/4/y/90-7-shea-butter-hand-repair-cream-burt-s-bees-cream-original-imah2spvk2fdcafa.jpeg?q=90",
@@ -129061,6 +129422,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:kit",
    "spf:30",
+   "water:unstated",
    "ing:shea-butter",
    "claim:hydrating",
    "claim:barrier",
@@ -129897,7 +130259,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Oriflame Cosmetics — Global FMCG or beauty group",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/7/d/2/75-milk-and-honey-gold-moisturising-hand-cream-oriflame-sweden-original-imah3ntqsxqu3gfa.jpeg?q=90",
@@ -129912,6 +130275,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:honey",
    "ing:milk",
    "ing:gold",
@@ -130925,7 +131289,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.6★ from 14 ratings"
+   "buyerEvidence": "3.6★ from 14 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/b/p/5/200-0-foot-repair-cream-for-cracked-heels-dry-feet-regolith-original-imahm6c8z3mm2ag6.jpeg?q=90",
@@ -130944,6 +131309,7 @@ const NXPRODUCTS = [
    "format:wash",
    "format:kit",
    "spf:50",
+   "water:unstated",
    "ing:lactic-acid",
    "claim:barrier",
    "claim:spf-claim",
@@ -131037,7 +131403,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/u/e/j/50-0-crack-blaster-heel-repair-cream-velwar-original-imahzwamhq3nh3an.jpeg?q=90",
@@ -131052,6 +131419,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:pack",
    "format:wash",
+   "water:unstated",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -131472,7 +131840,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3★ from 4 ratings"
+   "buyerEvidence": "3★ from 4 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/p/a/8/200-0-herbal-foot-cream-for-rough-skin-and-finger-care-fast-original-imahm6ch2qvdbynm.jpeg?q=90",
@@ -131488,6 +131857,7 @@ const NXPRODUCTS = [
    "format:pack",
    "format:wash",
    "spf:50",
+   "water:unstated",
    "ing:lactic-acid",
    "claim:barrier",
    "claim:spf-claim",
@@ -132484,7 +132854,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/c/e/5/100-nirvaya-crack-blaster-cream-for-soft-smooth-and-healthy-skin-original-imahjg4unfbz3gb4.jpeg?q=90",
@@ -132503,6 +132874,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:tea-tree",
    "ing:turmeric",
    "ing:neem",
@@ -133143,7 +133515,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/c/m/n/400-0-intensive-cracked-heel-repair-foot-cream-for-smooth-and-original-imahp2pfrqncyufd.jpeg?q=90",
@@ -133163,6 +133536,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:pack",
    "format:wash",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:tea-tree",
    "ing:aloe-vera",
@@ -133804,7 +134178,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/a/c/2/50-crack-heel-repair-cream-crack-blaster-repair-cream-manasona-original-imah5r9tfwkczdww.jpeg?q=90",
@@ -133818,6 +134193,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:pack",
    "format:wash",
+   "water:unstated",
    "claim:barrier",
    "claim:cracked-heels",
    "skin:all",
@@ -134013,7 +134389,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 54 ratings"
+   "buyerEvidence": "5★ from 54 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/u/w/q/300-0-intensive-repair-foot-cream-for-cracked-heels-and-rough-original-imahzspuyf9hseqb.jpeg?q=90",
@@ -134030,6 +134407,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:balm",
    "format:pack",
+   "water:unstated",
    "ing:tea-tree",
    "ing:shea-butter",
    "claim:hydrating",
@@ -135332,7 +135710,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/m/v/o/50-feet-crack-heel-repair-cream-for-moisturizes-soothes-foot-original-imahjfhyaz4p7vnk.jpeg?q=90",
@@ -135348,6 +135727,7 @@ const NXPRODUCTS = [
    "scope:body",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "claim:brightening",
    "claim:hydrating",
    "claim:barrier",
@@ -135766,7 +136146,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/7/w/m/50-heel-repair-cream-smooth-foot-crack-cracked-heel-repair-foot-original-imahe7w8tusvypg9.jpeg?q=90",
@@ -135781,6 +136162,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:pack",
    "format:wash",
+   "water:unstated",
    "claim:brightening",
    "claim:hydrating",
    "claim:barrier",
@@ -135990,7 +136372,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/c/n/v/50-crack-heel-repair-foot-care-cream-for-men-women-latixmat-original-imahfzm2j2pphpy8.jpeg?q=90",
@@ -136005,6 +136388,7 @@ const NXPRODUCTS = [
    "format:pack",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "claim:brightening",
    "claim:hydrating",
    "claim:exfoliating",
@@ -137947,7 +138331,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/p/6/g/50-0-crack-blaster-revive-foot-cream-for-intensive-dry-skin-original-imahq8frrkfmpzxw.jpeg?q=90",
@@ -137964,6 +138349,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:pack",
    "format:patch",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:glycerin",
    "claim:acne",
@@ -138163,7 +138549,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/j/g/2/50-nirvaya-crack-blaster-heel-repair-cream-for-dry-cracked-feet-original-imahjg2evdeyq5a9.jpeg?q=90",
@@ -138182,6 +138569,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:tea-tree",
    "ing:turmeric",
    "ing:neem",
@@ -138598,7 +138986,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/u/7/h/50-42-urea-foot-cream-roll-on-for-moisturizing-exfoliating-dry-original-imahn7bzku7erzhf.jpeg?q=90",
@@ -138615,6 +139004,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:pack",
    "format:roll-on",
+   "water:unstated",
    "ing:urea",
    "claim:hydrating",
    "claim:soothing",
@@ -139040,7 +139430,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/a/n/7/30-crack-blaster-foot-cream-for-dry-cracked-heels-latibule-original-imahmz6fmy4zheaa.jpeg?q=90",
@@ -139056,6 +139447,7 @@ const NXPRODUCTS = [
    "scope:body",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:lactic-acid",
    "ing:urea",
    "ing:aloe-vera",
@@ -139261,7 +139653,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/j/p/r/50-urea-heel-repair-roll-on-krika-cream-original-imahzf6dhvjxybab.jpeg?q=90",
@@ -139284,6 +139677,7 @@ const NXPRODUCTS = [
    "format:pack",
    "format:roll-on",
    "format:kit",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:urea",
    "ing:honey",
@@ -140420,7 +140814,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.8★ from 88 ratings"
+   "buyerEvidence": "4.8★ from 88 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/j/c/u/50-20-urea-foot-roll-on-for-dry-cracked-heels-pokonut-original-imahz7y2puzyah9x.jpeg?q=90",
@@ -140437,6 +140832,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:pack",
    "format:roll-on",
+   "water:unstated",
    "ing:lactic-acid",
    "ing:urea",
    "ing:glycerin",
@@ -140760,7 +141156,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/s/2/i/50-cracked-heel-foot-cream-roll-on-with-25-urea-for-daily-dry-original-imahn67vywynjmhm.jpeg?q=90",
@@ -140778,6 +141175,7 @@ const NXPRODUCTS = [
    "format:lotion",
    "format:roll-on",
    "spf:15",
+   "water:unstated",
    "ing:urea",
    "ing:rose",
    "claim:oil-control",
@@ -141969,7 +142367,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/s/v/d/50-20-urea-foot-cream-roll-on-for-cracked-heels-foot-heel-repair-original-imahj29eswhm4hty.jpeg?q=90"
@@ -141983,6 +142382,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:pack",
    "format:roll-on",
+   "water:unstated",
    "ing:lactic-acid",
    "ing:urea",
    "ing:olive",
@@ -142858,7 +143258,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-moisturizer-cream/r/j/o/50-0-25-urea-foot-softening-roll-on-for-dry-rough-heel-care-original-imahn5zm7z2zeghc.jpeg?q=90",
@@ -142876,6 +143277,7 @@ const NXPRODUCTS = [
    "format:lotion",
    "format:roll-on",
    "spf:15",
+   "water:unstated",
    "ing:urea",
    "ing:lavender",
    "claim:oil-control",
@@ -143520,7 +143922,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/6/s/50-25-urea-foot-roll-on-cream-for-rough-dry-feet-heel-care-daily-original-imahnfffjnexyzxa.jpeg?q=90",
@@ -143538,6 +143941,7 @@ const NXPRODUCTS = [
    "format:lotion",
    "format:roll-on",
    "spf:15",
+   "water:unstated",
    "ing:urea",
    "claim:hydrating",
    "claim:barrier",
@@ -144286,7 +144690,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.9★ from 8 ratings"
+   "buyerEvidence": "3.9★ from 8 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/c/w/2/100-0-foot-crack-cream-for-women-20-urea-heel-repair-pack-of-2-original-imahgrzu2dpypk2x.jpeg?q=90",
@@ -144303,6 +144708,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:oil",
    "format:kit",
+   "water:unstated",
    "ing:lactic-acid",
    "ing:urea",
    "ing:olive",
@@ -144727,7 +145133,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.5★ from 6 ratings"
+   "buyerEvidence": "3.5★ from 6 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/e/8/50-20-urea-foot-crack-heel-repair-cream-for-women-quat-cream-original-imahgrzncfrzdmky.jpeg?q=90",
@@ -144743,6 +145150,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:oil",
+   "water:unstated",
    "ing:lactic-acid",
    "ing:urea",
    "ing:olive",
@@ -145164,7 +145572,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3★ from 3 ratings"
+   "buyerEvidence": "3★ from 3 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/t/d/w/50-foot-crack-heel-repair-cream-for-women-20-urea-foot-care-original-imahgrzkhz8ezchg.jpeg?q=90",
@@ -145180,6 +145589,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:oil",
+   "water:unstated",
    "ing:lactic-acid",
    "ing:urea",
    "ing:olive",
@@ -145383,7 +145793,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/t/d/g/50-foot-cream-02-skineva-cream-original-imahqafdnh89by73.jpeg?q=90",
@@ -145396,6 +145807,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:urea",
    "claim:hydrating",
    "claim:cracked-heels",
@@ -145594,7 +146006,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/n/z/n/50-foot-cream-01-skineva-cream-original-imahq292jg3e4gap.jpeg?q=90",
@@ -145606,6 +146019,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:urea",
    "claim:hydrating",
    "skin:all",
@@ -146777,7 +147191,8 @@ const NXPRODUCTS = [
    "evidenceActives": "shea butter (#2 on list, moderate evidence); cocoa butter (#8 on list, limited evidence); tocopherol (#9 on list, moderate evidence); glycerin (#10 on list, strong evidence); allantoin (#14 on list, limited evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/6/q/h/50-deep-nourishing-moisturizer-for-dry-feet-and-heel-repair-original-imahz2uyeqd9jfy4.jpeg?q=90",
@@ -146795,6 +147210,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:tea-tree",
    "ing:aloe-vera",
    "ing:neem",
@@ -147087,7 +147503,8 @@ const NXPRODUCTS = [
    "evidenceActives": "shea butter (#2 on list, moderate evidence); cocoa butter (#8 on list, limited evidence); tocopherol (#9 on list, moderate evidence); glycerin (#10 on list, strong evidence); allantoin (#14 on list, limited evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/g/7/b/50-foot-cream-for-dry-feet-with-long-lasting-moisturization-original-imahz2sckt6xggdf.jpeg?q=90",
@@ -147105,6 +147522,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:tea-tree",
    "ing:aloe-vera",
    "ing:neem",
@@ -147281,7 +147699,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/m/z/j/50-visionex-foot-care-roll-on-with-20-urea-for-cracked-heels-original-imahj3d8qzyethdf.jpeg?q=90",
@@ -147298,6 +147717,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:lotion",
    "format:roll-on",
+   "water:unstated",
    "ing:urea",
    "claim:oil-control",
    "claim:hydrating",
@@ -147613,7 +148033,8 @@ const NXPRODUCTS = [
    "evidenceActives": "shea butter (#2 on list, moderate evidence); cocoa butter (#8 on list, limited evidence); tocopherol (#9 on list, moderate evidence); glycerin (#10 on list, strong evidence); allantoin (#14 on list, limited evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/m/l/c/50-deep-nourishing-foot-cream-for-dry-feet-and-heel-care-50g-original-imahz2v7dwuyq8hf.jpeg?q=90",
@@ -147632,6 +148053,7 @@ const NXPRODUCTS = [
    "format:lotion",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:collagen",
    "ing:tea-tree",
    "ing:aloe-vera",
@@ -148135,7 +148557,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.4★ from 10,531 ratings"
+   "buyerEvidence": "4.4★ from 10,531 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/y/g/u/50-20-urea-foot-roll-on-for-dry-cracked-heels-be-bodywise-lotion-original-imahgg7yvqzkhnqa.jpeg?q=90",
@@ -148152,6 +148575,7 @@ const NXPRODUCTS = [
    "format:lotion",
    "format:oil",
    "format:roll-on",
+   "water:unstated",
    "ing:lactic-acid",
    "ing:urea",
    "ing:vitamin-e",
@@ -148367,7 +148791,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/n/2/v/50-foot-roll-on-with-urea-lactic-acid-for-cracked-heels-fast-original-imahqg2zrqbzfxmj.jpeg?q=90",
@@ -148381,6 +148806,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:roll-on",
+   "water:unstated",
    "ing:lactic-acid",
    "ing:urea",
    "claim:brightening",
@@ -148477,7 +148903,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.5★ from 31 ratings"
+   "buyerEvidence": "4.5★ from 31 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/i/p/a/150-visionex-40-urea-gel-for-cracked-heels-corns-deep-original-imahj8zyscp6usfz.jpeg?q=90",
@@ -148494,6 +148921,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:wash",
+   "water:unstated",
    "ing:urea",
    "claim:hydrating",
    "claim:barrier",
@@ -149025,7 +149453,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/i/d/p/50-20-urea-foot-roll-on-cracked-heel-repair-foot-care-for-dry-original-imahzb5e8rvrthge.jpeg?q=90",
@@ -149042,6 +149471,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:serum",
    "format:roll-on",
+   "water:unstated",
    "ing:urea",
    "claim:oil-control",
    "claim:hydrating",
@@ -149450,7 +149880,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/p/j/r/100-wonne-velisole-footcare-foot-cream-pack-of-2-coslina-original-imahpguhkacfczxv.jpeg?q=90"
@@ -149463,6 +149894,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "claim:soothing",
    "claim:ayurvedic",
    "skin:all",
@@ -149552,7 +149984,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Oriflame Cosmetics — Global FMCG or beauty group",
-   "buyerEvidence": "4.3★ from 483 ratings"
+   "buyerEvidence": "4.3★ from 483 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/4/f/n/75-milk-honey-gold-moisturising-hand-cream-oriflame-cream-original-imahg3zp8g3qpkuz.jpeg?q=90",
@@ -149567,6 +150000,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:honey",
    "ing:milk",
    "ing:gold",
@@ -149661,7 +150095,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/m/p/a/150-wonne-velisole-footcare-foot-cream-pack-of-3-coslina-original-imahpgujxwzjstnr.jpeg?q=90"
@@ -149674,6 +150109,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "claim:soothing",
    "claim:ayurvedic",
    "skin:all",
@@ -149882,7 +150318,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 5 ratings"
+   "buyerEvidence": "5★ from 5 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/u/t/v/50-0-foot-callus-remover-gel-for-soft-smooth-feet-with-daily-original-imahp2ztdah3bxu9.jpeg?q=90",
@@ -149899,6 +150336,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:oil",
    "format:pack",
+   "water:unstated",
    "ing:urea",
    "ing:aloe-vera",
    "ing:coconut",
@@ -149993,7 +150431,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.8★ from 36 ratings"
+   "buyerEvidence": "3.8★ from 36 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/c/0/50-foot-crack-heel-repair-roll-on-with-20-urea-for-smooth-soft-original-imahg5tjc79nsdtd.jpeg?q=90",
@@ -150009,6 +150448,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:roll-on",
+   "water:unstated",
    "ing:urea",
    "ing:aloe-vera",
    "ing:vitamin-e",
@@ -150438,7 +150878,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.9★ from 8 ratings"
+   "buyerEvidence": "3.9★ from 8 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/2/g/b/50-0-foot-cream-for-cracked-heels-for-women-with-20-urea-quat-original-imahgrzuwqftyehg.jpeg?q=90",
@@ -150454,6 +150895,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:oil",
+   "water:unstated",
    "ing:lactic-acid",
    "ing:urea",
    "ing:olive",
@@ -150548,7 +150990,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Oriflame Cosmetics — Global FMCG or beauty group",
-   "buyerEvidence": "3.9★ from 40 ratings"
+   "buyerEvidence": "3.9★ from 40 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/4/f/75-splendid-bouquet-hand-cream-oriflame-cream-original-imahg4pmqh6shzzf.jpeg?q=90",
@@ -150563,6 +151006,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "claim:brightening",
    "claim:whitening-claim",
    "claim:hydrating",
@@ -150864,7 +151308,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/q/f/a/30-ultra-protect-hand-cream-spf-45-broad-spectrum-pa-protection-original-imahb2gstezdjzzv.jpeg?q=90",
@@ -150884,6 +151329,7 @@ const NXPRODUCTS = [
    "format:kit",
    "spf:40",
    "pa:+++",
+   "water:unstated",
    "ing:shea-butter",
    "ing:cherry-acerola",
    "claim:brightening",
@@ -150978,7 +151424,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Oriflame Cosmetics — Global FMCG or beauty group",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/d/9/i/75-moisturising-hand-cream-oriflame-sweden-cream-original-imahahayyxzpfqhr.jpeg?q=90",
@@ -150995,6 +151442,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:kit",
    "sun:mineral",
+   "water:unstated",
    "ing:honey",
    "ing:milk",
    "claim:anti-aging",
@@ -151091,7 +151539,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Oriflame Cosmetics — Global FMCG or beauty group",
-   "buyerEvidence": "4.3★ from 483 ratings"
+   "buyerEvidence": "4.3★ from 483 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/x/j/0/250-milk-honey-gold-enchanting-jasmine-hand-and-body-cream-original-imahhgyuxfm4ygy8.jpeg?q=90",
@@ -151107,6 +151556,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:lotion",
+   "water:unstated",
    "ing:honey",
    "ing:milk",
    "ing:gold",
@@ -151200,7 +151650,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/t/b/t/184-men-s-essentials-everyday-moisture-daily-body-hand-cream-original-imah4nzazbs65rcu.jpeg?q=90",
@@ -151219,6 +151670,7 @@ const NXPRODUCTS = [
    "format:kit",
    "spf:30",
    "pa:+++",
+   "water:unstated",
    "ing:gold",
    "claim:hydrating",
    "claim:broad-spectrum",
@@ -151432,7 +151884,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/y/5/t/50-organics-cocoa-coffee-hand-cream-for-moisturizing-soothing-original-imahyasyekqbgqxj.jpeg?q=90",
@@ -151449,6 +151902,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:kit",
    "spf:30",
+   "water:unstated",
    "ing:coffee",
    "ing:cocoa-butter",
    "claim:whitening-claim",
@@ -151762,7 +152216,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/5/s/w/450-aloevera-calendula-moisturizing-lotion-3-in-1-face-body-hand-original-imahha82pxyrz9jh.jpeg?q=90",
@@ -151782,6 +152237,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "format:kit",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:cucumber",
    "ing:almond",
@@ -152511,7 +152967,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/8/f/h/200-raw-honey-tea-tree-hand-lotion-soften-protect-hydrates-200ml-original-imahhzgte3zpgwq2.jpeg?q=90",
@@ -152530,6 +152987,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:kit",
    "spf:30",
+   "water:unstated",
    "ing:tea-tree",
    "ing:aloe-vera",
    "ing:honey",
@@ -153375,7 +153833,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Formaldehyde-releasing preservative: dmdm hydantoin (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — sodium ascorbyl phosphate #8 on INCI (matching only — not proof it works)"
+   "concernBasis": "Dark spots — sodium ascorbyl phosphate #8 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/c/g/j/150-4-bhuja-charbhuja-foot-cream-revive-cream-cracked-heel-original-imahpdsfwu5kr4yx.jpeg?q=90",
@@ -153395,6 +153854,7 @@ const NXPRODUCTS = [
    "format:pack",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:shea-butter",
    "claim:oil-control",
    "claim:hydrating",
@@ -153530,7 +153990,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/n/s/y/50-premium-foot-cream-for-dry-cracked-feet-with-skin-repair-heel-original-imahzrhngcsnefpf.jpeg?q=90",
@@ -153545,6 +154006,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:body",
    "format:cream",
+   "water:unstated",
    "ing:aloe-vera",
    "claim:hydrating",
    "claim:barrier",
@@ -153645,7 +154107,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/d/h/50-foot-cream-for-cracked-heels-dry-feet-deep-moisturizing-original-imahzphgydmzdedm.jpeg?q=90",
@@ -153661,6 +154124,7 @@ const NXPRODUCTS = [
    "scope:body",
    "format:cream",
    "format:lotion",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:saffron",
    "claim:hydrating",
@@ -153995,7 +154459,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/r/1/s/50-moisturizing-foot-cream-for-soft-heels-skynetics-cream-original-imahnfshrty4jtyj.jpeg?q=90",
@@ -154011,6 +154476,7 @@ const NXPRODUCTS = [
    "scope:body",
    "format:cream",
    "format:lotion",
+   "water:unstated",
    "claim:hydrating",
    "claim:barrier",
    "claim:cracked-heels",
@@ -154227,7 +154693,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Formaldehyde-releasing preservative: dmdm hydantoin (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — sodium ascorbyl phosphate #9 on INCI (matching only — not proof it works)"
+   "concernBasis": "Dark spots — sodium ascorbyl phosphate #9 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/g/w/50-4-bhuja-charbhuja-foot-cream-for-dry-cracked-heels-and-original-imahp9gvxvhryynb.jpeg?q=90",
@@ -154245,6 +154712,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:lotion",
    "format:balm",
+   "water:unstated",
    "ing:aloe-vera",
    "claim:hydrating",
    "claim:barrier",
@@ -154376,7 +154844,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/f/w/m/50-cracked-heel-repair-foot-cream-50gm-skynetics-cream-original-imahnfseqqy4zrhh.jpeg?q=90",
@@ -154392,6 +154861,7 @@ const NXPRODUCTS = [
    "scope:body",
    "format:cream",
    "format:kit",
+   "water:unstated",
    "ing:aloe-vera",
    "claim:hydrating",
    "claim:barrier",
@@ -154612,7 +155082,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/r/m/25-foot-cream-deep-nourishment-fast-heel-repair-cream-sheny-original-imahz2mrzfphvz5v.jpeg?q=90",
@@ -154632,6 +155103,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:kit",
    "spf:15",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:honey",
    "ing:almond",
@@ -154729,7 +155201,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/s/s/n/50-advanced-foot-care-cream-tupik-cream-original-imahnawm2uy9etdc.jpeg?q=90",
@@ -154749,6 +155222,7 @@ const NXPRODUCTS = [
    "format:scrub",
    "format:wash",
    "spf:50",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:calamine",
    "claim:oil-control",
@@ -154963,7 +155437,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 187 ratings"
+   "buyerEvidence": "4★ from 187 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/v/u/4/50-foot-cracked-heels-remove-dead-skin-pedicure-dry-feet-men-original-imah83xgd5cdgd8t.jpeg?q=90",
@@ -154978,6 +155453,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "claim:brightening",
    "claim:de-tan",
    "claim:hydrating",
@@ -155745,7 +156221,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 17 ratings"
+   "buyerEvidence": "5★ from 17 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/7/h/g/50-heel-softening-foot-cream-for-dry-cracked-and-rough-skin-original-imahztu6hvqh6ftx.jpeg?q=90",
@@ -155760,6 +156237,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:body",
    "format:cream",
+   "water:unstated",
    "claim:hydrating",
    "skin:oily",
    "skin:dry",
@@ -155975,7 +156453,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/v/8/50-hydrating-foot-cream-for-dry-feet-rough-skin-heel-repair-original-imahzrq7qa3byqv5.jpeg?q=90",
@@ -155992,6 +156471,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:aloe-vera",
    "claim:hydrating",
@@ -156095,7 +156575,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Formaldehyde-releasing preservative: dmdm hydantoin (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — sodium ascorbyl phosphate #8 on INCI (matching only — not proof it works)"
+   "concernBasis": "Dark spots — sodium ascorbyl phosphate #8 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/o/o/150-4-bhuja-charbhuja-foot-cream-for-relief-cracked-heel-repair-original-imahptkqafgxh2kz.jpeg?q=90",
@@ -156110,6 +156591,7 @@ const NXPRODUCTS = [
    "format:pack",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "claim:oil-control",
    "claim:hydrating",
    "claim:exfoliating",
@@ -156241,7 +156723,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/0/h/l/25-foot-care-cream-for-dry-cracked-heels-repair-and-moisturise-original-imahz2frducvegpg.jpeg?q=90",
@@ -156260,6 +156743,7 @@ const NXPRODUCTS = [
    "format:serum",
    "format:kit",
    "spf:15",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:honey",
    "ing:almond",
@@ -157756,7 +158240,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/i/z/2/broad-spectrum-sunscreen-100ml-foot-repair-oil-30ml-natural-rose-original-imah3bg8xgfekxre.jpeg?q=90",
@@ -157779,6 +158264,7 @@ const NXPRODUCTS = [
    "format:peel",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:green-tea",
    "ing:rose",
    "ing:walnut",
@@ -157876,7 +158362,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/u/c/3/25-daad-khaj-cream-natural-ayurvedic-antifungal-cream-pack-of-1-original-imahq7zs9fnrggb5.jpeg?q=90",
@@ -157892,6 +158379,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:lotion",
+   "water:unstated",
    "claim:de-tan",
    "claim:anti-aging",
    "claim:oil-control",
@@ -157991,7 +158479,8 @@ const NXPRODUCTS = [
    "evidenceActives": "urea (#2 on list, strong evidence); lactic acid (#6 on list, strong evidence); glycerin (#7 on list, strong evidence); tocopherol (#17 on list, moderate evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/y/6/50-intensive-foot-repair-cream-for-cracked-heels-50g-nairuvee-original-imahztt2wnwt7avg.jpeg?q=90",
@@ -158008,6 +158497,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:lotion",
    "format:roll-on",
+   "water:unstated",
    "ing:lactic-acid",
    "ing:urea",
    "ing:vitamin-e",
@@ -158465,7 +158955,8 @@ const NXPRODUCTS = [
    "evidenceActives": "urea (#2 on list, strong evidence); lactic acid (#6 on list, strong evidence); glycerin (#7 on list, strong evidence); tocopherol (#17 on list, moderate evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/t/g/c/50-intensive-foot-repair-cream-for-cracked-heels-50g-nairuvee-original-imahzx6dagy4zhbz.jpeg?q=90",
@@ -158482,6 +158973,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:oil",
    "format:kit",
+   "water:unstated",
    "ing:lactic-acid",
    "ing:urea",
    "ing:vitamin-e",
@@ -158944,7 +159436,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/c/c/z/50-foot-crack-cream-for-dry-rough-and-cracked-heels-with-aloe-original-imahqhxzggufnzgg.jpeg?q=90",
@@ -158960,6 +159453,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:oil",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:vitamin-e",
    "ing:coconut",
@@ -164231,7 +164725,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.4★ from 10,555 ratings"
+   "buyerEvidence": "4.4★ from 10,555 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/minutes_enrichment_original/-enriched-original-PDKH6H86YGG6HDQE_0.jpg?q=90",
@@ -164248,6 +164743,7 @@ const NXPRODUCTS = [
    "format:lotion",
    "format:oil",
    "format:roll-on",
+   "water:unstated",
    "ing:lactic-acid",
    "ing:urea",
    "ing:vitamin-e",
@@ -164554,7 +165050,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/7/w/50-foot-roll-on-for-cracked-heels-dry-feet-20-urea-lactic-acid-original-imahphgfngntkyfr.jpeg?q=90",
@@ -164572,6 +165069,7 @@ const NXPRODUCTS = [
    "format:bar",
    "format:roll-on",
    "format:kit",
+   "water:unstated",
    "ing:lactic-acid",
    "ing:urea",
    "ing:vitamin-e",
@@ -165044,7 +165542,8 @@ const NXPRODUCTS = [
    "evidenceActives": "glycerin (#2 on list, strong evidence); glycolic acid (#6 on list, strong evidence); lactic acid (#7 on list, strong evidence); urea (#8 on list, strong evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/j/5/y/50-20-urea-foot-roll-on-cracked-heel-repair-foot-care-for-dry-original-imahzgrdprhzy6ej.jpeg?q=90",
@@ -165061,6 +165560,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:roll-on",
+   "water:unstated",
    "ing:glycolic-acid",
    "ing:lactic-acid",
    "ing:urea",
@@ -165639,7 +166139,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/t/c/g/100-20-urea-foot-roll-on-for-dry-cracked-heels-with-lactic-original-imahqhn8qzzaygwe.jpeg?q=90",
@@ -165655,6 +166156,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:roll-on",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
    "ing:lactic-acid",
@@ -166964,7 +167466,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/x/n/2/15-lemon-butter-cuticle-cream-burt-s-bees-butter-original-imahyjgnxhjxpj6a.jpeg?q=90",
@@ -166984,6 +167487,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:30",
    "pa:+++",
+   "water:unstated",
    "ing:lemon",
    "claim:brightening",
    "claim:whitening-claim",
@@ -182016,7 +182520,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.7★ from 0 ratings"
+   "buyerEvidence": "4.7★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61pgyOF-frL._SL1080_.jpg",
@@ -182034,6 +182539,7 @@ const NXPRODUCTS = [
    "format:wash",
    "spf:50",
    "pa:++",
+   "water:unstated",
    "ing:shea-butter",
    "ing:vitamin-e",
    "claim:oil-control",
@@ -208020,105 +208526,6 @@ const NXPRODUCTS = [
     "url": null
    },
    "buyers": "4★ from 0 ratings"
-  }
- },
- {
-  "id": "zollyss-b0f6yfxc53",
-  "brand": "Zollyss",
-  "model": "10L Foldable Bucket for Bathroom Cleaning, Collapsible Silicone Bucket with Handle for Car…",
-  "price": 579,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Wash / cleanser",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 1.6
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Wash / cleanser",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Lightweight / fast-absorbing (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "3.9/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.9★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61WhJSOV29L._SL1199_.jpg",
-   "https://m.media-amazon.com/images/I/71RaY+V6QzL._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/71xBgshaIEL._SL1434_.jpg",
-   "https://m.media-amazon.com/images/I/618gUiovoWL._SL1200_.jpg",
-   "https://m.media-amazon.com/images/I/71M6lqnKf4L._SL1200_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0F6YFXC53",
-  "buyStore": "Amazon",
-  "title": "Zollyss 10L Foldable Bucket for Bathroom Cleaning, Collapsible Silicone Bucket with Handle for Car Wash, Foot Soak, Camping, Laundry & Household Use, Yellow Blue",
-  "tags": [
-   "scope:body",
-   "format:wash",
-   "claim:lightweight",
-   "aud:unisex",
-   "rating:3.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "3.9★ from 0 ratings"
   }
  },
  {
@@ -239881,7 +240288,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Fixderma India (dermatology company) — Dermatology / pharmaceutical manufacturer",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41fEOBU4UZL._SL1200_.jpg",
@@ -239897,6 +240305,7 @@ const NXPRODUCTS = [
    "scope:body",
    "format:cream",
    "spf:50",
+   "water:unstated",
    "ing:kojic-acid",
    "claim:brightening",
    "claim:hydrating",
@@ -260120,7 +260529,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.5★ from 0 ratings"
+   "buyerEvidence": "4.5★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61g5MdD0vrL._SL1500_.jpg",
@@ -260137,6 +260547,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:oil",
    "sun:chemical",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:honey",
    "ing:neem",
@@ -280561,7 +280972,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 0 ratings"
+   "buyerEvidence": "4.4★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61jdZiP6bWL._SL1500_.jpg",
@@ -280576,6 +280988,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:bakuchiol",
    "ing:sandalwood",

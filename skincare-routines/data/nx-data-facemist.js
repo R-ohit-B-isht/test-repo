@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-11.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-12.
 // Unknown fields are honestly marked, never invented.
 const NXPRODUCTS = [
  {
@@ -9285,7 +9285,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/3/o/w/100-facial-hydrating-pore-tightening-refreshing-toner-mist-50ml-original-imahmjpjhsgh5pgb.jpeg?q=90",
@@ -9303,6 +9304,7 @@ const NXPRODUCTS = [
    "format:mist",
    "format:pack",
    "format:wash",
+   "water:unstated",
    "ing:rose",
    "ing:cucumber",
    "claim:pores",
@@ -10825,7 +10827,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 3 ratings"
+   "buyerEvidence": "5★ from 3 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/d/y/4/30-face-mist-hydrating-cooling-facial-mist-for-radiant-skin-the-original-imahf87jpvyb9nep.jpeg?q=90",
@@ -10842,6 +10845,7 @@ const NXPRODUCTS = [
    "format:mist",
    "format:oil",
    "format:pack",
+   "water:unstated",
    "ing:vitamin-c",
    "claim:brightening",
    "claim:anti-aging",
@@ -12161,7 +12165,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/primer/p/q/d/100-face-mist-spray-for-dry-sensitive-skin-flawless-makeup-original-imah7gk7ymxndkkc.jpeg?q=90",
@@ -12178,6 +12183,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:mist",
    "format:kit",
+   "water:unstated",
    "ing:green-tea",
    "claim:brightening",
    "claim:oil-control",
@@ -13757,7 +13763,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — panthenol #8 on INCI (matching only — not proof it works)"
+   "concernBasis": "Irritation — panthenol #8 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/h/d/o/100-pdrn-collagen-facial-mist-hydrating-serum-spray-with-original-imahme55prygnvcv.jpeg?q=90",
@@ -13773,6 +13780,7 @@ const NXPRODUCTS = [
    "format:serum",
    "format:mist",
    "format:pack",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:collagen",
    "ing:vitamin-b5-panthenol",
@@ -14033,7 +14041,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI; Aging — adenosine #8 on INCI; Irritation — panthenol #5 on INCI, centella asiatica extract #11 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI; Aging — adenosine #8 on INCI; Irritation — panthenol #5 on INCI, centella asiatica extract #11 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/t/z/g/30-lightweight-glow-mist-for-all-skin-types-with-hyaluronic-acid-original-imahnmzt9ehvshdz.jpeg?q=90",
@@ -14049,6 +14058,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:mist",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:collagen",
@@ -14334,7 +14344,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — panthenol #8 on INCI (matching only — not proof it works)"
+   "concernBasis": "Irritation — panthenol #8 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/u/a/w/100-pdrn-glow-mist-serum-hyaluronic-acid-facial-spray-for-deep-original-imahme52q9n3ygje.jpeg?q=90",
@@ -14351,6 +14362,7 @@ const NXPRODUCTS = [
    "format:serum",
    "format:mist",
    "format:pack",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:collagen",
    "ing:vitamin-b5-panthenol",
@@ -17727,7 +17739,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/primer/4/n/r/100-professional-lightweight-matte-face-spray-fixer-usbk-original-imahpzxyeezuztah.jpeg?q=90",
@@ -17743,6 +17756,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:mist",
    "format:kit",
+   "water:unstated",
    "claim:oil-control",
    "claim:exfoliating",
    "claim:no-white-cast",
@@ -18273,7 +18287,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/primer/x/p/e/100-new-perfect-makeup-beauty-long-lasting-hydrating-matte-fixer-original-imah44cfgfggxfm2.jpeg?q=90",
@@ -18289,6 +18304,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:mist",
    "format:kit",
+   "water:resistant",
    "ing:aloe-vera",
    "claim:oil-control",
    "claim:hydrating",
@@ -18385,7 +18401,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/primer/f/s/3/100-high-quality-matte-finish-professional-makeup-fixer-spray-original-imagraagagzfwyxy.jpeg?q=90",
@@ -18401,6 +18418,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:mist",
    "format:kit",
+   "water:unstated",
    "claim:hydrating",
    "claim:exfoliating",
    "claim:no-white-cast",
@@ -19058,7 +19076,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/primer/z/r/h/100-face-spray-prep-prime-long-lasting-and-hydrating-for-women-original-imahgh2hzvjh3hhn.jpeg?q=90",
@@ -19074,6 +19093,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:mist",
    "format:kit",
+   "water:unstated",
    "claim:hydrating",
    "claim:exfoliating",
    "claim:no-white-cast",
@@ -19166,7 +19186,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/primer/p/n/4/100-perfect-makeup-beauty-long-lasting-hydrating-matte-fixer-original-imah44cwkmazc83f.jpeg?q=90",
@@ -19182,6 +19203,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:mist",
    "format:kit",
+   "water:resistant",
    "claim:oil-control",
    "claim:hydrating",
    "claim:exfoliating",
@@ -19278,7 +19300,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/k547l3k0/primer/p/q/x/100-best-skin-enhancing-makeup-setting-spray-for-professional-original-imafnv8yh3wa6hxh.jpeg?q=90",
@@ -19294,6 +19317,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:mist",
    "format:kit",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:vitamin-e",
    "claim:oil-control",
@@ -19497,7 +19521,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/primer/c/f/f/100-the-matte-fixer-spray-professional-makeup-neycare-original-imah43avhjyzdgzb.jpeg?q=90",
@@ -19512,6 +19537,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:mist",
+   "water:unstated",
    "claim:oil-control",
    "claim:hydrating",
    "claim:exfoliating",
@@ -35629,7 +35655,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Pierre Fabre — Dermatology / pharmaceutical manufacturer",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/g/s/4/damaged-skin-barrier-kit-cicalfate-restorative-protective-cream-original-imah95egrsk6ezwv.jpeg?q=90",
@@ -35649,6 +35676,7 @@ const NXPRODUCTS = [
    "format:pack",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:thermal-water",
    "claim:dark-spots",
    "claim:hydrating",
@@ -35739,7 +35767,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Pierre Fabre — Dermatology / pharmaceutical manufacturer",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/z/c/5/damaged-skin-barrier-kit-cicalfate-restorative-protective-cream-original-imah96gerkezqz2t.jpeg?q=90",
@@ -35759,6 +35788,7 @@ const NXPRODUCTS = [
    "format:mist",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:alpha-arbutin",
    "ing:thermal-water",
    "claim:dark-spots",
@@ -36679,7 +36709,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/highlighter/s/j/7/120-illuminating-face-mist-instant-glow-hydrating-spray-evererin-original-imahnffwr9fyd2xu.jpeg?q=90",
@@ -36697,6 +36728,7 @@ const NXPRODUCTS = [
    "format:pack",
    "format:powder",
    "format:kit",
+   "water:unstated",
    "claim:brightening",
    "claim:oil-control",
    "claim:hydrating",
@@ -37004,7 +37036,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/primer/a/7/j/120-face-mist-for-makeup-with-shimmer-particles-and-natural-original-imahds5nyfkwz6nz.jpeg?q=90",
@@ -37022,6 +37055,7 @@ const NXPRODUCTS = [
    "format:essence",
    "format:mist",
    "format:kit",
+   "water:resistant",
    "ing:green-tea",
    "claim:brightening",
    "claim:oil-control",
@@ -40502,7 +40536,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/primer/r/2/c/100-sparkfix-glow-mist-glow-it-original-imahgwmhd4gbhxyh.jpeg?q=90",
@@ -40518,6 +40553,7 @@ const NXPRODUCTS = [
    "scope:unstated",
    "format:mist",
    "format:kit",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:gold",
    "claim:brightening",
@@ -40615,7 +40651,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/primer/f/t/x/100-glow-up-fixer-hydrating-finish-face-mist-for-women-setting-original-imahh2rywd347n8s.jpeg?q=90",
@@ -40632,6 +40669,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:mist",
    "format:kit",
+   "water:resistant",
    "claim:brightening",
    "claim:oil-control",
    "claim:hydrating",
@@ -40726,7 +40764,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/primer/9/p/c/100-glow-up-spray-2-in-1-setting-finish-face-mist-for-women-use-original-imahh2ry9xjwzey7.jpeg?q=90",
@@ -40742,6 +40781,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:mist",
    "format:kit",
+   "water:resistant",
    "claim:brightening",
    "claim:oil-control",
    "claim:hydrating",
@@ -40836,7 +40876,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/primer/l/l/s/120-glow-mist-fixing-spray-shimmer-spray-primer-yawi-original-imahgfd63mv9wgx2.jpeg?q=90",
@@ -40852,6 +40893,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:mist",
    "format:kit",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:vitamin-e",
    "claim:brightening",
@@ -41269,7 +41311,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/primer/y/e/o/100-glow-mist-fixing-spray-shimmer-spray-primer-gabbu-original-imah3yk5rhgwu5vd.jpeg?q=90",
@@ -41286,6 +41329,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:mist",
    "format:kit",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:turmeric",
    "claim:brightening",
@@ -41384,7 +41428,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/primer/p/z/u/120-glow-face-fixing-spray-shimmer-spray-gabbu-original-imahgu6jydu9ffhy.jpeg?q=90",
@@ -41401,6 +41446,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:mist",
    "format:kit",
+   "water:unstated",
    "ing:green-tea",
    "ing:aloe-vera",
    "ing:vitamin-e",
@@ -42257,7 +42303,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/primer/g/a/1/100-new-face-glow-mist-fixing-spray-shimmer-spray-primer-original-imah9k8eyd9pmcmz.jpeg?q=90",
@@ -42273,6 +42320,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:mist",
    "format:kit",
+   "water:unstated",
    "claim:brightening",
    "claim:oil-control",
    "claim:hydrating",
@@ -52915,7 +52963,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — niacinamide #7 on INCI; Dark spots — niacinamide #7 on INCI; Irritation — aloe barbadensis leaf extract #6 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #7 on INCI; Dark spots — niacinamide #7 on INCI; Irritation — aloe barbadensis leaf extract #6 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/primer/g/h/l/100-makeup-spray-green-tea-professional-finish-weightless-face-original-imahpyff6azjhbbf.jpeg?q=90",
@@ -52930,6 +52979,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:mist",
+   "water:unstated",
    "ing:green-tea",
    "claim:oil-control",
    "claim:exfoliating",
@@ -53883,7 +53933,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/primer/w/p/j/100-aloevera-intensive-hydration-make-up-fix-spray-huzurlu-original-imagyds7mymhyrxh.jpeg?q=90",
@@ -53901,6 +53952,7 @@ const NXPRODUCTS = [
    "format:toner",
    "format:mist",
    "format:kit",
+   "water:unstated",
    "ing:green-tea",
    "ing:aloe-vera",
    "ing:vitamin-e",
@@ -57516,7 +57568,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/primer/i/i/1/100-makeup-fix-glow-waterproof-after-setting-fixing-fixer-face-original-imahmtzvvqb3rmug.jpeg?q=90",
@@ -57532,6 +57585,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:mist",
    "format:kit",
+   "water:resistant",
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
    "claim:brightening",
@@ -57740,7 +57794,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/primer/h/n/j/100-makeup-fix-glow-waterproof-after-setting-fixing-fixer-face-original-imahmtzvgnu2yggh.jpeg?q=90",
@@ -57756,6 +57811,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:mist",
    "format:kit",
+   "water:resistant",
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
    "claim:brightening",
@@ -57961,7 +58017,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/primer/1/j/f/100-makeup-fix-glow-after-setting-fixing-fixer-waterproof-face-original-imahmtpyntfdstsb.jpeg?q=90",
@@ -57977,6 +58034,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:mist",
    "format:kit",
+   "water:resistant",
    "claim:brightening",
    "claim:hydrating",
    "claim:exfoliating",
@@ -64329,7 +64387,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/q/p/t/100-pdrn-collagen-dewy-mist-hyaluronic-acid-facial-spray-for-original-imahme5wj7ksgeqr.jpeg?q=90",
@@ -64346,6 +64405,7 @@ const NXPRODUCTS = [
    "format:serum",
    "format:mist",
    "format:pack",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:collagen",
    "ing:pdrn-polynucleotide",
@@ -64557,7 +64617,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/v/p/z/100-hydrating-glow-face-mist-pdrn-collagen-serum-spray-for-dewy-original-imahme5vdf5jabkb.jpeg?q=90",
@@ -64574,6 +64635,7 @@ const NXPRODUCTS = [
    "format:serum",
    "format:mist",
    "format:pack",
+   "water:unstated",
    "ing:collagen",
    "ing:pdrn-polynucleotide",
    "claim:brightening",
@@ -64677,7 +64739,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — panthenol #8 on INCI (matching only — not proof it works)"
+   "concernBasis": "Irritation — panthenol #8 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/5/b/4/100-pdrn-hydrating-serum-spray-collagen-boosting-face-mist-for-original-imahme5sxjz9gkpv.jpeg?q=90",
@@ -64693,6 +64756,7 @@ const NXPRODUCTS = [
    "format:serum",
    "format:mist",
    "format:pack",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:collagen",
    "ing:vitamin-b5-panthenol",
@@ -64848,7 +64912,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — panthenol #8 on INCI (matching only — not proof it works)"
+   "concernBasis": "Irritation — panthenol #8 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/h/1/z/100-glass-skin-glow-mist-pdrn-collagen-hyaluronic-acid-facial-original-imahme5upksyx4q7.jpeg?q=90",
@@ -64865,6 +64930,7 @@ const NXPRODUCTS = [
    "format:mist",
    "format:oil",
    "format:pack",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:collagen",
    "ing:vitamin-b5-panthenol",
@@ -97479,7 +97545,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "marketed for swim / sport / outdoors (per listing — not tested here, not scored)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/615N6x+4WDL._SL1500_.jpg",
@@ -97498,6 +97565,8 @@ const NXPRODUCTS = [
    "format:pads",
    "format:wash",
    "sun:mineral",
+   "water:unstated",
+   "water:sport",
    "ing:glycolic-acid",
    "ing:green-tea",
    "ing:cucumber",
@@ -104390,7 +104459,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51ifU5ttl9L._SL1500_.jpg",
@@ -104405,6 +104475,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:mist",
+   "water:unstated",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:glycerin",

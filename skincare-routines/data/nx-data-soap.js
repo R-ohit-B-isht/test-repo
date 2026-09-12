@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-11.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-12.
 // Unknown fields are honestly marked, never invented.
 const NXPRODUCTS = [
  {
@@ -1591,7 +1591,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 424 ratings"
+   "buyerEvidence": "4.2★ from 424 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-soap/v/d/f/1-75-kojic-acid-1-soap-with-glutathione-for-pigmentation-sun-original-imahjfnf2supvgej.jpeg?q=90",
@@ -1609,6 +1610,7 @@ const NXPRODUCTS = [
    "format:pack",
    "format:bar",
    "format:kit",
+   "water:unstated",
    "ing:kojic-acid",
    "claim:dark-spots",
    "claim:broad-spectrum",
@@ -116813,7 +116815,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 4 ratings"
+   "buyerEvidence": "4★ from 4 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/face-wash/q/x/i/100-vitamin-c-face-wash-with-sea-buckthorn-brighter-and-glowing-original-imah7428uygewbvh.jpeg?q=90",
@@ -116832,6 +116835,7 @@ const NXPRODUCTS = [
    "spf:50",
    "pa:+++",
    "sun:mineral",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
    "ing:aloe-vera",
@@ -126861,7 +126865,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/l/f/m/100-magic-soap-saniwipe-original-imahqfjfyyzhjqck.jpeg?q=90",
@@ -126879,6 +126884,7 @@ const NXPRODUCTS = [
    "format:pack",
    "format:bar",
    "format:wash",
+   "water:unstated",
    "ing:kojic-acid",
    "ing:saffron",
    "ing:sandalwood",
@@ -402153,7 +402159,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41X+2R1HY9L._SL1001_.jpg"
@@ -402170,6 +402177,7 @@ const NXPRODUCTS = [
    "format:wash",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:kojic-acid",
@@ -406338,7 +406346,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.3★ from 0 ratings"
+   "buyerEvidence": "3.3★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71evZOXm89L._SL1500_.jpg",
@@ -406354,6 +406363,7 @@ const NXPRODUCTS = [
    "scope:face",
    "spf:30",
    "pa:+",
+   "water:unstated",
    "ing:honey",
    "ing:vitamin-e",
    "claim:hydrating",
@@ -447538,7 +447548,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61E4Z-1EQRL._SL1254_.jpg",
@@ -447556,6 +447567,7 @@ const NXPRODUCTS = [
    "format:bar",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:kojic-acid",
    "ing:glutathione",
@@ -452625,7 +452637,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41ICrZhkf3L._SL1001_.jpg"
@@ -452642,6 +452655,7 @@ const NXPRODUCTS = [
    "format:wash",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:kojic-acid",
@@ -456652,7 +456666,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.5★ from 0 ratings"
+   "buyerEvidence": "4.5★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61Fj6-895-L._SL1500_.jpg",
@@ -456669,6 +456684,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:bar",
    "spf:30",
+   "water:unstated",
    "ing:kojic-acid",
    "claim:brightening",
    "claim:dark-spots",
@@ -503547,7 +503563,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41PPO1pFhdL._SL1001_.jpg"
@@ -503564,6 +503581,7 @@ const NXPRODUCTS = [
    "format:wash",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:kojic-acid",
@@ -525422,7 +525440,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Forest Essentials (Mountain Valley Springs) — Established / listed Indian FMCG house",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61ZaFjX14AL._SL1500_.jpg",
@@ -525438,6 +525457,7 @@ const NXPRODUCTS = [
    "scope:unstated",
    "format:bar",
    "sun:chemical",
+   "water:unstated",
    "ing:turmeric",
    "ing:sandalwood",
    "ing:sugar",

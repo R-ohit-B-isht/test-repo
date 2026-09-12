@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-11.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-12.
 // Unknown fields are honestly marked, never invented.
 const NXPRODUCTS = [
  {
@@ -384,7 +384,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/e/h/e/50-cleansing-lotion-acanthosis-nigricans-gentle-brightening-original-imahfkgkckjhhgpn.jpeg?q=90",
@@ -401,6 +402,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:lotion",
    "format:wash",
+   "water:unstated",
    "claim:brightening",
    "claim:acne",
    "claim:hydrating",
@@ -1930,7 +1932,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/make-up-remover/h/q/u/45-snow-pearl-cleansing-balm-gentle-makeup-remover-oil-cleanser-original-imahj9fyzzy4wjnq.jpeg?q=90",
@@ -1951,6 +1954,7 @@ const NXPRODUCTS = [
    "format:wash",
    "format:micellar",
    "format:cleansing-oil",
+   "water:unstated",
    "ing:pearl",
    "claim:pores",
    "claim:cooling",
@@ -2588,7 +2592,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/make-up-remover/2/n/r/100-clean-it-zero-hyaluronic-cleansing-balm-cb01a-fashion-colour-original-imahmx43sdvfgqyq.jpeg?q=90",
@@ -2607,6 +2612,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:wash",
    "format:cleansing-oil",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "claim:pores",
    "claim:hydrating",
@@ -17843,7 +17849,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/make-up-remover/2/v/7/200-comforting-micellar-eye-makeup-cleansing-water-with-original-imahzx8cyurvrfyc.jpeg?q=90",
@@ -17859,6 +17866,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:wash",
    "format:micellar",
+   "water:resistant",
    "ing:ceramides",
    "claim:oil-control",
    "claim:exfoliating",
@@ -22178,7 +22186,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Oriflame Cosmetics — Global FMCG or beauty group",
-   "buyerEvidence": "4.2★ from 12 ratings"
+   "buyerEvidence": "4.2★ from 12 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/7/d/v/150-optimals-soothing-micellar-cleansing-water-150ml-oriflame-original-imahgwhfcxf7czmq.jpeg?q=90",
@@ -22195,6 +22204,7 @@ const NXPRODUCTS = [
    "format:pack",
    "format:wash",
    "format:micellar",
+   "water:unstated",
    "claim:brightening",
    "claim:pores",
    "claim:hydrating",
@@ -27388,7 +27398,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/make-up-remover/i/q/g/120-micellar-water-makeup-removing-solution-for-all-skin-type-original-imahfg8ymgguuxsv.jpeg?q=90",
@@ -27407,6 +27418,7 @@ const NXPRODUCTS = [
    "format:micellar",
    "format:kit",
    "format:cleansing-oil",
+   "water:resistant",
    "ing:vitamin-c",
    "ing:vitamin-b5-panthenol",
    "claim:soothing",
@@ -31237,7 +31249,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/make-up-remover/q/w/w/100-hd-micellar-water-face-cleanser-water-proof-primus-original-imahnzrzqrqbmhym.jpeg?q=90",
@@ -31256,6 +31269,7 @@ const NXPRODUCTS = [
    "format:micellar",
    "format:kit",
    "format:cleansing-oil",
+   "water:resistant",
    "claim:hydrating",
    "claim:water-resistant",
    "claim:hair-removal",
@@ -31886,7 +31900,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/make-up-remover/r/i/r/60-makeup-removers-remove-dirt-oil-from-the-skin-without-original-imahgzxvvpazsafb.jpeg?q=90",
@@ -31904,6 +31919,7 @@ const NXPRODUCTS = [
    "format:wash",
    "format:kit",
    "format:cleansing-oil",
+   "water:unstated",
    "claim:hydrating",
    "claim:soothing",
    "claim:hair-removal",
@@ -37580,7 +37596,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/make-up-remover/h/f/o/30-balm-to-water-makeup-remover-cream-30g-deep-cleansing-makeup-original-imahqyb4hdgrrzht.jpeg?q=90",
@@ -37597,6 +37614,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:balm",
    "format:wash",
+   "water:resistant",
    "claim:water-resistant",
    "claim:makeup",
    "claim:waterproof-makeup",
@@ -41877,7 +41895,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/make-up-remover/l/i/c/100-face-cleanser-skin-hydrating-and-deep-cleansing-makeup-original-imahzf52qgk7fwjq.jpeg?q=90",
@@ -41898,6 +41917,7 @@ const NXPRODUCTS = [
    "format:wash",
    "format:micellar",
    "format:kit",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:cucumber",
    "ing:vitamin-e",
@@ -42785,7 +42805,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/make-up-remover/h/g/e/100-purifying-micellar-cleansing-water-and-makeup-removing-original-imahzf58hzg8z68g.jpeg?q=90",
@@ -42807,6 +42828,7 @@ const NXPRODUCTS = [
    "format:micellar",
    "format:kit",
    "format:cleansing-oil",
+   "water:unstated",
    "claim:pores",
    "claim:hydrating",
    "claim:kp",
@@ -49720,7 +49742,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/p/v/y/200-ayurvedic-cleansing-milk-pkc-original-imah8mudzgfxhuzs.jpeg?q=90",
@@ -49737,6 +49760,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:pack",
    "format:wash",
+   "water:unstated",
    "ing:papaya",
    "ing:milk",
    "claim:dark-spots",
@@ -49832,7 +49856,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/r/m/s/50-cleansing-milk-purna-veda-cream-original-imahqggchgncpacn.jpeg?q=90",
@@ -49848,6 +49873,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:oil",
    "format:wash",
+   "water:unstated",
    "ing:almond",
    "ing:milk",
    "claim:hydrating",
@@ -50162,7 +50188,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/y/0/f/500-deep-cleansing-milk-500ml-gentle-makeup-removal-skin-original-imahnjh3uzjgefgb.jpeg?q=90",
@@ -50178,6 +50205,7 @@ const NXPRODUCTS = [
    "format:lotion",
    "format:pack",
    "format:wash",
+   "water:unstated",
    "ing:honey",
    "ing:milk",
    "claim:makeup",
@@ -50380,7 +50408,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/m/b/w/986-aloe-vera-cleansing-milk-1-litre-gentle-makeup-honey-tree-original-imahnjkbgfu7tcnh.jpeg?q=90",
@@ -50395,6 +50424,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:pack",
    "format:wash",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:honey",
    "ing:milk",
@@ -51263,7 +51293,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/a/t/l/500-hocolate-cleansing-milk-500ml-gentle-cleansing-moisturizing-original-imahnjgwwh2xfamg.jpeg?q=90",
@@ -51279,6 +51310,7 @@ const NXPRODUCTS = [
    "scope:body",
    "format:pack",
    "format:wash",
+   "water:unstated",
    "ing:honey",
    "ing:milk",
    "claim:hydrating",
@@ -52018,7 +52050,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/make-up-remover/r/0/y/100-deep-facial-cleansing-oil-anti-acne-cleanser-and-makeup-original-imahgzy9en9uyjfj.jpeg?q=90",
@@ -52038,6 +52071,7 @@ const NXPRODUCTS = [
    "format:micellar",
    "format:kit",
    "format:cleansing-oil",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:cucumber",
    "ing:vitamin-e",
@@ -54447,7 +54481,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/make-up-remover/7/c/z/50-cleansing-pads-for-facial-eye-foundation-simple-makeup-original-imahhhc2ggz7uzkz.jpeg?q=90",
@@ -54467,6 +54502,7 @@ const NXPRODUCTS = [
    "format:wash",
    "format:micellar",
    "format:cleansing-oil",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:cucumber",
    "ing:vitamin-e",
@@ -54899,7 +54935,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/y/m/y/240-bakuchiol-moisturizer-balm-to-water-make-up-remover-original-imahzv9wdpgcggaw.jpeg?q=90",
@@ -54917,6 +54954,7 @@ const NXPRODUCTS = [
    "format:lotion",
    "format:balm",
    "spf:30",
+   "water:unstated",
    "ing:bakuchiol",
    "ing:glycolic-acid",
    "ing:aloe-vera",
@@ -58696,7 +58734,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/make-up-remover/4/d/a/50-reusable-makeup-remover-soft-facial-cleansing-pads-for-face-original-imahhhdffwrj6evg.jpeg?q=90",
@@ -58714,6 +58753,7 @@ const NXPRODUCTS = [
    "format:pads",
    "format:wash",
    "format:cleansing-oil",
+   "water:resistant",
    "claim:water-resistant",
    "claim:makeup",
    "claim:waterproof-makeup",
@@ -64974,7 +65014,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/make-up-remover/u/d/c/100-perfect-hd-makeup-remover-yawi-original-imagtsdehtnbbhyh.jpeg?q=90",
@@ -64991,6 +65032,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:wash",
    "format:cleansing-oil",
+   "water:unstated",
    "claim:hydrating",
    "claim:makeup",
    "skin:sensitive",
@@ -65301,7 +65343,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Lotus Herbals — Established / listed Indian FMCG house",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/make-up-remover/n/s/a/200-bi-facial-water-proof-makeup-remover-200ml-lotus-organics-original-imahn4wyhcyga2ym.jpeg?q=90",
@@ -65320,6 +65363,7 @@ const NXPRODUCTS = [
    "format:wash",
    "format:micellar",
    "format:cleansing-oil",
+   "water:resistant",
    "claim:hydrating",
    "claim:water-resistant",
    "claim:makeup",
@@ -67272,7 +67316,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/make-up-remover/3/u/x/100-instant-makeup-remover-ultra-soft-skin-friendly-gently-yawi-original-imahg5nvayfwbwwc.jpeg?q=90",
@@ -67291,6 +67336,7 @@ const NXPRODUCTS = [
    "format:wash",
    "format:kit",
    "format:cleansing-oil",
+   "water:resistant",
    "claim:oil-control",
    "claim:hydrating",
    "claim:water-resistant",
@@ -71296,7 +71342,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Oriflame Cosmetics — Global FMCG or beauty group",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/m/a/6/optimals-soothing-micellar-cleansing-water-and-comforting-facial-original-imahgwh7ahncyfyn.jpeg?q=90",
@@ -71316,6 +71363,7 @@ const NXPRODUCTS = [
    "format:wash",
    "format:micellar",
    "format:kit",
+   "water:unstated",
    "ing:vitamin-e",
    "claim:brightening",
    "claim:soothing",
@@ -71512,7 +71560,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Oriflame Cosmetics — Global FMCG or beauty group",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/v/u/s/love-nature-calming-micellar-water-150ml-with-brightening-original-imahnzu5aajks85z.jpeg?q=90",
@@ -71535,6 +71584,7 @@ const NXPRODUCTS = [
    "format:micellar",
    "format:kit",
    "spf:50",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:honey",
    "ing:clay",
@@ -74619,7 +74669,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/make-up-remover/y/t/r/200-makeup-gentle-on-your-skin-every-single-day-makeup-remover-original-imahzx9bfgebws6g.jpeg?q=90",
@@ -74634,6 +74685,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:wash",
+   "water:resistant",
    "claim:oil-control",
    "claim:exfoliating",
    "claim:water-resistant",
@@ -82981,7 +83033,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71bGj4UdhHL._AC_UL320_.jpg"
@@ -82995,6 +83048,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:wash",
    "format:cleansing-oil",
+   "water:unstated",
    "ing:ceramides",
    "ing:peptides",
    "ing:rice-water",
@@ -83092,7 +83146,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "5★ from 0 ratings",
-   "concernBasis": "Irritation — ceramide ap #18 on INCI, ceramide eop #19 on INCI, ceramide np #20 on INCI (matching only — not proof it works)"
+   "concernBasis": "Irritation — ceramide ap #18 on INCI, ceramide eop #19 on INCI, ceramide np #20 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41qvAs7Lm5L._AC_UL320_.jpg"
@@ -83107,6 +83162,7 @@ const NXPRODUCTS = [
    "format:pads",
    "format:wash",
    "format:cleansing-oil",
+   "water:resistant",
    "ing:colloidal-oatmeal",
    "ing:ceramides",
    "claim:pores",
@@ -83710,7 +83766,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51La1RPXs2L._SL1080_.jpg",
@@ -83729,6 +83786,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:wash",
    "format:cleansing-oil",
+   "water:unstated",
    "claim:acne",
    "claim:pores",
    "claim:oil-control",
@@ -84371,7 +84429,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61dxnQ73PvL._SL1200_.jpg",
@@ -84386,6 +84445,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:wash",
    "format:cleansing-oil",
+   "water:resistant",
    "ing:centella-cica",
    "claim:oil-control",
    "claim:hydrating",
@@ -84811,7 +84871,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
-   "buyerEvidence": "4.4★ from 0 ratings"
+   "buyerEvidence": "4.4★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/81XU9NcZ7bL._SL1500_.jpg",
@@ -84830,6 +84891,7 @@ const NXPRODUCTS = [
    "format:micellar",
    "format:kit",
    "format:cleansing-oil",
+   "water:unstated",
    "claim:acne",
    "claim:soothing",
    "claim:makeup",
@@ -85850,7 +85912,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.5★ from 0 ratings"
+   "buyerEvidence": "4.5★ from 0 ratings",
+   "waterResistance": "marketed for swim / sport / outdoors (per listing — not tested here, not scored)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61y06cMidtL._SL1500_.jpg",
@@ -85867,6 +85930,8 @@ const NXPRODUCTS = [
    "format:serum",
    "format:pads",
    "format:wash",
+   "water:unstated",
+   "water:sport",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "claim:hydrating",
@@ -87068,7 +87133,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 0 ratings"
+   "buyerEvidence": "4.4★ from 0 ratings",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51CRDtoznqL.jpg",
@@ -87087,6 +87153,7 @@ const NXPRODUCTS = [
    "format:wash",
    "format:micellar",
    "format:kit",
+   "water:resistant",
    "ing:avocado",
    "claim:water-resistant",
    "claim:cooling",
@@ -87704,7 +87771,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.8★ from 0 ratings"
+   "buyerEvidence": "3.8★ from 0 ratings",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71I+KRaBowL._SL1500_.jpg",
@@ -87723,6 +87791,7 @@ const NXPRODUCTS = [
    "format:pads",
    "format:wash",
    "format:kit",
+   "water:resistant",
    "claim:dark-circles",
    "claim:water-resistant",
    "claim:tinted",
@@ -92176,7 +92245,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 0 ratings"
+   "buyerEvidence": "4.4★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51ukmUYSqgL._SL1000_.jpg",
@@ -92193,6 +92263,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:wash",
    "format:cleansing-oil",
+   "water:unstated",
    "ing:rice-water",
    "ing:rosehip",
    "ing:jojoba",
@@ -92935,7 +93006,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71UT3ISbRUL._SL1500_.jpg",
@@ -92953,6 +93025,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:wash",
    "format:cleansing-oil",
+   "water:unstated",
    "ing:green-tea",
    "ing:shea-butter",
    "ing:olive",
@@ -93489,7 +93562,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistant / waterproof (duration not stated), marketed for swim / sport / outdoors (per listing — not tested here, not scored)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71OgHuL6qwL._SL1200_.jpg",
@@ -93503,6 +93577,8 @@ const NXPRODUCTS = [
    "format:oil",
    "format:wash",
    "format:micellar",
+   "water:resistant",
+   "water:sport",
    "claim:pores",
    "claim:oil-control",
    "claim:hydrating",
@@ -98602,7 +98678,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61oxD5dBaKL._SL1000_.jpg"
@@ -98615,6 +98692,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:wash",
    "format:cleansing-oil",
+   "water:resistant",
    "ing:green-tea",
    "claim:pores",
    "claim:oil-control",
@@ -98831,7 +98909,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61QAGIm3c0L._SL1500_.jpg",
@@ -98849,6 +98928,7 @@ const NXPRODUCTS = [
    "format:wash",
    "format:kit",
    "format:cleansing-oil",
+   "water:unstated",
    "claim:pores",
    "claim:hydrating",
    "claim:barrier",
@@ -100737,7 +100817,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71gCjxDyCLL._SL1440_.jpg"
@@ -100752,6 +100833,7 @@ const NXPRODUCTS = [
    "format:pads",
    "format:wash",
    "format:kit",
+   "water:resistant",
    "claim:dark-circles",
    "claim:water-resistant",
    "claim:tinted",
@@ -101561,7 +101643,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 0 ratings"
+   "buyerEvidence": "4.4★ from 0 ratings",
+   "waterResistance": "Water resistant / waterproof (duration not stated), marketed for swim / sport / outdoors (per listing — not tested here, not scored)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/712QhY1pFYL._SL1500_.jpg",
@@ -101576,6 +101659,8 @@ const NXPRODUCTS = [
    "scope:face",
    "format:pads",
    "format:wash",
+   "water:resistant",
+   "water:sport",
    "ing:papaya",
    "claim:pores",
    "claim:hydrating",
@@ -102554,7 +102639,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistant / waterproof (duration not stated), marketed for swim / sport / outdoors (per listing — not tested here, not scored)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61fWBPN0eEL._SL1080_.jpg",
@@ -102569,6 +102655,8 @@ const NXPRODUCTS = [
    "format:pack",
    "format:pads",
    "format:wash",
+   "water:resistant",
+   "water:sport",
    "claim:hydrating",
    "claim:water-resistant",
    "claim:cooling",
@@ -102875,7 +102963,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.6★ from 0 ratings"
+   "buyerEvidence": "4.6★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41JoRZw8rBL._SL1000_.jpg",
@@ -102892,6 +102981,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:wash",
    "format:cleansing-oil",
+   "water:unstated",
    "ing:sugar",
    "claim:hydrating",
    "claim:exfoliating",
@@ -104316,7 +104406,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.6★ from 0 ratings"
+   "buyerEvidence": "3.6★ from 0 ratings",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71vBScywCvL._AC_UL320_.jpg"
@@ -104329,6 +104420,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:wash",
    "format:cleansing-oil",
+   "water:resistant",
    "ing:vitamin-e",
    "ing:jojoba",
    "ing:ginseng",
@@ -104423,7 +104515,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51IRDnN8DYL._SL1500_.jpg",
@@ -104438,6 +104531,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:wash",
+   "water:resistant",
    "ing:ceramides",
    "claim:hydrating",
    "claim:barrier",
@@ -104541,7 +104635,8 @@ const NXPRODUCTS = [
    "safetyFlags": "EU-declared fragrance allergen: limonene, linalool (−0.6); Essential oil / volatile sensitiser: citrus aurantium bergamia fruit oil, pelargonium graveolens flower oil, rosa damascena flower oil (−0.8)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4★ from 0 ratings",
-   "concernBasis": "Irritation — centella asiatica extract #6 on INCI (matching only — not proof it works)"
+   "concernBasis": "Irritation — centella asiatica extract #6 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41veNQ-HOVL._SL1052_.jpg",
@@ -104559,6 +104654,7 @@ const NXPRODUCTS = [
    "format:wash",
    "format:kit",
    "format:cleansing-oil",
+   "water:unstated",
    "ing:centella-cica",
    "claim:acne",
    "claim:hydrating",
@@ -104710,7 +104806,8 @@ const NXPRODUCTS = [
    "safetyFlags": "EU-declared fragrance allergen: limonene, linalool (−0.6); Essential oil / volatile sensitiser: citrus aurantium bergamia fruit oil, pelargonium graveolens flower oil, rosa damascena flower oil (−0.8)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.6★ from 0 ratings",
-   "concernBasis": "Irritation — centella asiatica extract #6 on INCI (matching only — not proof it works)"
+   "concernBasis": "Irritation — centella asiatica extract #6 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61ZG5xWuA+L._SL1500_.jpg",
@@ -104728,6 +104825,7 @@ const NXPRODUCTS = [
    "format:wash",
    "format:kit",
    "format:cleansing-oil",
+   "water:unstated",
    "ing:centella-cica",
    "claim:acne",
    "claim:hydrating",
@@ -105095,7 +105193,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61Tw+ySR-XL._SL1500_.jpg",
@@ -105114,6 +105213,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:wash",
    "format:cleansing-oil",
+   "water:unstated",
    "claim:acne",
    "claim:pores",
    "claim:hydrating",
@@ -105407,7 +105507,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51w09CPK2mL._SL1350_.jpg",
@@ -105424,6 +105525,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:wash",
    "format:cleansing-oil",
+   "water:unstated",
    "ing:rice-water",
    "claim:acne",
    "claim:pores",
@@ -106393,7 +106495,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 0 ratings"
+   "buyerEvidence": "4.4★ from 0 ratings",
+   "waterResistance": "Water resistant / waterproof (duration not stated), marketed for swim / sport / outdoors (per listing — not tested here, not scored)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71pG+RoYv1L._SL1500_.jpg",
@@ -106412,6 +106515,8 @@ const NXPRODUCTS = [
    "format:pads",
    "format:wash",
    "format:kit",
+   "water:resistant",
+   "water:sport",
    "claim:soothing",
    "claim:water-resistant",
    "claim:odour",
@@ -110171,7 +110276,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "L'Oréal — Global FMCG or beauty group",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41iwUQQsb-L.jpg",
@@ -110190,6 +110296,7 @@ const NXPRODUCTS = [
    "format:pads",
    "format:wash",
    "format:micellar",
+   "water:resistant",
    "claim:acne",
    "claim:pores",
    "claim:oil-control",
@@ -113863,7 +113970,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.5★ from 0 ratings"
+   "buyerEvidence": "3.5★ from 0 ratings",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51Gb-7YFL1L._SL1280_.jpg",
@@ -113881,6 +113989,7 @@ const NXPRODUCTS = [
    "format:wash",
    "format:kit",
    "format:cleansing-oil",
+   "water:resistant",
    "ing:vitamin-e",
    "ing:jojoba",
    "ing:ginseng",
@@ -115161,7 +115270,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51OeNWi6UzL._SL1024_.jpg",
@@ -115177,6 +115287,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:wash",
    "format:micellar",
+   "water:unstated",
    "ing:ceramides",
    "ing:centella-cica",
    "ing:aloe-vera",
@@ -115700,7 +115811,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/516G-BlBBzL._SL1500_.jpg",
@@ -115717,6 +115829,7 @@ const NXPRODUCTS = [
    "format:lotion",
    "format:pack",
    "format:wash",
+   "water:unstated",
    "ing:milk",
    "claim:brightening",
    "claim:pores",
@@ -116246,7 +116359,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61CAaWUUCaL._SL1500_.jpg",
@@ -116261,6 +116375,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:wash",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:glycolic-acid",
    "ing:vitamin-b5-panthenol",
@@ -120364,7 +120479,8 @@ const NXPRODUCTS = [
    "evidenceActives": "tocopherol (#16 on list, moderate evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51pc75D2hVL._SL1080_.jpg",
@@ -120382,6 +120498,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:wash",
    "format:cleansing-oil",
+   "water:unstated",
    "ing:mugwort",
    "ing:watermelon",
    "ing:avocado",
@@ -122395,7 +122512,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61ZU8aq6viL._SL1000_.jpg",
@@ -122414,6 +122532,7 @@ const NXPRODUCTS = [
    "format:pads",
    "format:wash",
    "format:kit",
+   "water:resistant",
    "claim:dark-circles",
    "claim:water-resistant",
    "claim:tinted",
@@ -123485,7 +123604,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.6★ from 0 ratings"
+   "buyerEvidence": "4.6★ from 0 ratings",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41dxZfsTYLL._SL1500_.jpg",
@@ -123502,6 +123622,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:wash",
    "format:cleansing-oil",
+   "water:resistant",
    "claim:pores",
    "claim:oil-control",
    "claim:hydrating",
@@ -124341,7 +124462,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistant / waterproof (duration not stated), marketed for swim / sport / outdoors (per listing — not tested here, not scored)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61x7dbQ5qCL._SL1448_.jpg",
@@ -124358,6 +124480,8 @@ const NXPRODUCTS = [
    "format:pack",
    "format:pads",
    "format:wash",
+   "water:resistant",
+   "water:sport",
    "claim:hydrating",
    "claim:water-resistant",
    "claim:cooling",
@@ -124900,7 +125024,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41d1H2lGITL._SL1000_.jpg",
@@ -124917,6 +125042,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:wash",
    "format:cleansing-oil",
+   "water:unstated",
    "claim:pores",
    "claim:hydrating",
    "claim:exfoliating",
@@ -125219,7 +125345,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51+ebeb1amL._SL1080_.jpg",
@@ -125236,6 +125363,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:wash",
    "format:cleansing-oil",
+   "water:resistant",
    "ing:hyaluronic-acid",
    "claim:acne",
    "claim:pores",
@@ -125294,117 +125422,6 @@ const NXPRODUCTS = [
     "url": null
    },
    "buyers": "4.3★ from 0 ratings"
-  }
- },
- {
-  "id": "aurey-b0gx9jd3wv",
-  "brand": "AUREY",
-  "model": "Korean Rice Silk Cleansing Milk with NIACINAMIDE | GOAT MILK CHAMOMILE EXTRACTS | Gentle D…",
-  "price": 1190,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Niacinamide + Rice water + Shea butter",
-  "featureLine": "Wash / cleanser",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 5
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Wash / cleanser",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Niacinamide, Rice water, Shea butter, Milk, Chamomile (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening / glow, Pores / blackheads, Hydrating / moisturizing, Exfoliating, Korean / K-beauty (seller claim — not clinical proof)",
-   "skinType": "All skin types",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "5.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61xpsxw0oKL._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/51QZFYglTGL._SL1080_.jpg",
-   "https://m.media-amazon.com/images/I/61kHWLhT4PL._SL1080_.jpg",
-   "https://m.media-amazon.com/images/I/51JuXuSnwIL._SL1080_.jpg",
-   "https://m.media-amazon.com/images/I/515gEdR+K4L._SL1080_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GX9JD3WV",
-  "buyStore": "Amazon",
-  "title": "Aurey Korean Rice Silk Cleansing Milk with NIACINAMIDE | GOAT MILK CHAMOMILE EXTRACTS | Gentle Deep Pore Cleansing 1kg",
-  "tags": [
-   "scope:unstated",
-   "format:balm",
-   "format:pack",
-   "format:wash",
-   "ing:niacinamide",
-   "ing:rice-water",
-   "ing:shea-butter",
-   "ing:milk",
-   "ing:chamomile",
-   "claim:brightening",
-   "claim:pores",
-   "claim:hydrating",
-   "claim:exfoliating",
-   "claim:korean",
-   "skin:all",
-   "aud:unisex",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "5★ from 0 ratings"
   }
  },
  {
@@ -126103,7 +126120,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61WN3GvyIHL._SL1027_.jpg",
@@ -126118,6 +126136,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:wash",
    "format:cleansing-oil",
+   "water:unstated",
    "ing:ceramides",
    "ing:kojic-acid",
    "ing:rice-water",
@@ -126433,7 +126452,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.6★ from 0 ratings"
+   "buyerEvidence": "4.6★ from 0 ratings",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51IEX9gecFL._SL1000_.jpg",
@@ -126451,6 +126471,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:wash",
    "format:cleansing-oil",
+   "water:resistant",
    "ing:ceramides",
    "ing:centella-cica",
    "ing:tea-tree",
@@ -126553,7 +126574,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71r+46NMBNL._SL1500_.jpg",
@@ -126571,6 +126593,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:wash",
    "format:cleansing-oil",
+   "water:resistant",
    "ing:shea-butter",
    "ing:vitamin-e",
    "ing:avocado",
@@ -126669,7 +126692,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61JHLUCZ5YL._SL1254_.jpg",
@@ -126687,6 +126711,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:wash",
    "format:cleansing-oil",
+   "water:unstated",
    "ing:turmeric",
    "ing:jojoba",
    "claim:hydrating",
@@ -127534,7 +127559,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "waterResistance": "Water resistant / waterproof (duration not stated), marketed for swim / sport / outdoors (per listing — not tested here, not scored)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61ikbUcmmFL._SL1254_.jpg",
@@ -127552,6 +127578,8 @@ const NXPRODUCTS = [
    "format:balm",
    "format:pack",
    "format:wash",
+   "water:resistant",
+   "water:sport",
    "claim:anti-aging",
    "claim:pores",
    "claim:oil-control",
@@ -127749,7 +127777,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61dkFUusvKL._SL1500_.jpg",
@@ -127766,6 +127795,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:wash",
    "format:cleansing-oil",
+   "water:resistant",
    "ing:hyaluronic-acid",
    "ing:vitamin-e",
    "claim:brightening",
@@ -127966,7 +127996,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51inftVEB4L._SL1254_.jpg",
@@ -127983,6 +128014,7 @@ const NXPRODUCTS = [
    "format:mist",
    "format:wash",
    "format:micellar",
+   "water:unstated",
    "ing:ceramides",
    "ing:rice-water",
    "claim:hydrating",
@@ -128081,7 +128113,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Conscious Chemist — Indian D2C brand with its own product company",
    "buyerEvidence": "4.1★ from 0 ratings",
-   "concernBasis": "Aging — palmitoyl tripeptide-1 #21 on INCI, palmitoyl tetrapeptide-7 #22 on INCI (matching only — not proof it works)"
+   "concernBasis": "Aging — palmitoyl tripeptide-1 #21 on INCI, palmitoyl tetrapeptide-7 #22 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/513q6FpmV+L._SL1200_.jpg",
@@ -128098,6 +128131,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:wash",
    "format:cleansing-oil",
+   "water:unstated",
    "ing:peptides",
    "ing:collagen",
    "claim:brightening",
@@ -128576,7 +128610,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Galderma — Dermatology / pharmaceutical manufacturer",
-   "buyerEvidence": "4.5★ from 0 ratings"
+   "buyerEvidence": "4.5★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61erJ27Fu6L._SL1500_.jpg",
@@ -128592,6 +128627,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:wash",
    "format:micellar",
+   "water:unstated",
    "claim:anti-aging",
    "claim:hydrating",
    "claim:soothing",
@@ -130387,7 +130423,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51CRDtoznqL.jpg",
@@ -130407,6 +130444,7 @@ const NXPRODUCTS = [
    "format:wash",
    "format:micellar",
    "format:kit",
+   "water:resistant",
    "ing:avocado",
    "claim:hydrating",
    "claim:water-resistant",
@@ -133215,7 +133253,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51wHovHb-AL._SL1254_.jpg",
@@ -133232,6 +133271,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:wash",
    "format:micellar",
+   "water:resistant",
    "ing:hyaluronic-acid",
    "claim:hydrating",
    "claim:water-resistant",
@@ -134291,7 +134331,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61xN8-VCDyL._SL1254_.jpg",
@@ -134308,6 +134349,7 @@ const NXPRODUCTS = [
    "format:pack",
    "format:wash",
    "format:micellar",
+   "water:resistant",
    "ing:vitamin-c",
    "ing:aloe-vera",
    "claim:brightening",
@@ -136912,7 +136954,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "waterResistance": "Water resistant / waterproof (duration not stated), marketed for swim / sport / outdoors (per listing — not tested here, not scored)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71ekwSIyBbL._SL1200_.jpg",
@@ -136927,6 +136970,8 @@ const NXPRODUCTS = [
    "format:oil",
    "format:wash",
    "format:micellar",
+   "water:resistant",
+   "water:sport",
    "ing:vitamin-c",
    "claim:brightening",
    "claim:pores",
@@ -137456,7 +137501,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61XvKTjoJVL._SL1500_.jpg",
@@ -137472,6 +137518,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:lotion",
    "format:wash",
+   "water:unstated",
    "ing:milk",
    "claim:pores",
    "claim:hydrating",
@@ -137672,7 +137719,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51etsgqrX6L._SL1500_.jpg",
@@ -137688,6 +137736,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:lotion",
    "format:wash",
+   "water:unstated",
    "ing:milk",
    "claim:brightening",
    "claim:pores",
@@ -142402,7 +142451,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "waterResistance": "Water resistant / waterproof (duration not stated), marketed for swim / sport / outdoors (per listing — not tested here, not scored)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/616WaqnqPLL._SL1500_.jpg",
@@ -142420,6 +142470,8 @@ const NXPRODUCTS = [
    "format:wash",
    "format:kit",
    "format:cleansing-oil",
+   "water:resistant",
+   "water:sport",
    "claim:hydrating",
    "claim:exfoliating",
    "claim:water-resistant",
@@ -145207,7 +145259,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "waterResistance": "Water resistant / waterproof (duration not stated), marketed for swim / sport / outdoors (per listing — not tested here, not scored)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71DuV8CEgmL._SL1500_.jpg",
@@ -145222,6 +145275,8 @@ const NXPRODUCTS = [
    "scope:face",
    "format:pads",
    "format:wash",
+   "water:resistant",
+   "water:sport",
    "ing:papaya",
    "claim:pores",
    "claim:hydrating",
@@ -146429,7 +146484,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41EYUAF+6kL._SL1000_.jpg",
@@ -146446,6 +146502,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:wash",
    "format:cleansing-oil",
+   "water:resistant",
    "ing:niacinamide",
    "ing:glutathione",
    "claim:brightening",
@@ -146762,7 +146819,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71AmsaoWFBL._SL1500_.jpg",
@@ -146778,6 +146836,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:oil",
    "format:wash",
+   "water:unstated",
    "ing:rice-water",
    "ing:milk",
    "ing:ginseng",
@@ -147083,7 +147142,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3★ from 0 ratings"
+   "buyerEvidence": "3★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71WMG7aCgSL._SL1500_.jpg",
@@ -147100,6 +147160,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:wash",
    "format:cleansing-oil",
+   "water:unstated",
    "claim:pores",
    "claim:oil-control",
    "claim:hydrating",
@@ -147195,7 +147256,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "marketed for swim / sport / outdoors (per listing — not tested here, not scored)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/615N6x+4WDL._SL1500_.jpg",
@@ -147214,6 +147276,8 @@ const NXPRODUCTS = [
    "format:pads",
    "format:wash",
    "sun:mineral",
+   "water:unstated",
+   "water:sport",
    "ing:glycolic-acid",
    "ing:green-tea",
    "ing:cucumber",

@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-11.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-12.
 // Unknown fields are honestly marked, never invented.
 const NXPRODUCTS = [
  {
@@ -3034,7 +3034,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Mankind Pharma (listed) — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "4★ from 9 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/g/1/z/22-mankind-pimples-darks-circles-remove-and-fairness-pimples-original-imahhkms8gfjwtsz.jpeg?q=90",
@@ -3050,6 +3051,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:cream",
+   "water:unstated",
    "claim:whitening-claim",
    "claim:acne",
    "skin:all",

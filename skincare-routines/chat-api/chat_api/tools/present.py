@@ -100,7 +100,7 @@ def detail_summary(detail: dict) -> dict:
             "supportingIngredientsOnInci": ev.get("support", []),
         },
         "listingFacts": {k: spec[k] for k in ("quantity", "pricePer100", "format", "skinType", "hairType", "madeIn", "rating") if k in spec},
-        "sellerClaimsShownNotScored": {k: spec[k] for k in ("keyIngredients", "freeFrom", "dermTested", "nonComedogenic", "benefit", "naturalClaim") if k in spec},
+        "sellerClaimsShownNotScored": {k: spec[k] for k in ("keyIngredients", "freeFrom", "dermTested", "nonComedogenic", "benefit", "naturalClaim", "waterResistance") if k in spec},
     }
 
 

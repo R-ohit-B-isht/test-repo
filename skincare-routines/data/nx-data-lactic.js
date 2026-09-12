@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-11.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-12.
 // Unknown fields are honestly marked, never invented.
 const NXPRODUCTS = [
  {
@@ -275,7 +275,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Essential oil / volatile sensitiser: tea tree oil (−0.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — niacinamide #4 on INCI, salicylic acid #5 on INCI, azelaic acid #7 on INCI, zinc pca #8 on INCI, melaleuca alternifolia leaf oil #9 on INCI; Dark spots — niacinamide #4 on INCI, azelaic acid #7 on INCI; Irritation — azelaic acid #7 on INCI, panthenol #11 on INCI, centella asiatica extract #13 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #4 on INCI, salicylic acid #5 on INCI, azelaic acid #7 on INCI, zinc pca #8 on INCI, melaleuca alternifolia leaf oil #9 on INCI; Dark spots — niacinamide #4 on INCI, azelaic acid #7 on INCI; Irritation — azelaic acid #7 on INCI, panthenol #11 on INCI, centella asiatica extract #13 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/o/q/3/30-pore-reset-anti-acne-and-oil-control-serum-with-salicylic-original-imahpsgpsvuzd6he.jpeg?q=90",
@@ -295,6 +296,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:pack",
    "format:wash",
+   "water:unstated",
    "ing:niacinamide",
    "ing:retinol",
    "ing:salicylic-acid-bha",
@@ -718,7 +720,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 3 ratings"
+   "buyerEvidence": "4★ from 3 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-moisturizer-cream/f/l/0/200-glycolic-acid-lactic-acid-exfoliating-body-lotion-for-smooth-original-imahq4tz8brmxyup.jpeg?q=90",
@@ -734,6 +737,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:lotion",
+   "water:unstated",
    "ing:glycolic-acid",
    "ing:lactic-acid",
    "ing:aha",
@@ -3088,7 +3092,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/u/j/n/200-cactox-exfoliating-peel-shot-serum-with-aha-pha-cactus-original-imahqfmekhwfknfc.jpeg?q=90",
@@ -3104,6 +3109,7 @@ const NXPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:peel",
+   "water:unstated",
    "ing:aha",
    "ing:pha",
    "ing:peptides",
@@ -3523,7 +3529,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/r/x/75-healz-cream-moisturising-cream-with-urea-lactic-velite-cream-original-imahhvnbf7gm7atn.jpeg?q=90",
@@ -3539,6 +3546,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:lotion",
+   "water:unstated",
    "ing:lactic-acid",
    "ing:urea",
    "claim:hydrating",
@@ -3790,7 +3798,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/5/0/q/30-bare-peel-aha-30-bha-2-pha-3-peeling-solution-10-min-facial-original-imahn5bn52qjrpbd.jpeg?q=90",
@@ -3812,6 +3821,7 @@ const NXPRODUCTS = [
    "format:peel",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:aha",
    "ing:pha",
@@ -5567,7 +5577,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.5★ from 6 ratings"
+   "buyerEvidence": "3.5★ from 6 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/o/w/q/30-d-tan-lotion-for-pigmentation-tan-removal-with-glycolic-acid-original-imahf56xhrya3dd2.jpeg?q=90",
@@ -5582,6 +5593,7 @@ const NXPRODUCTS = [
    "scope:body",
    "format:lotion",
    "format:pack",
+   "water:unstated",
    "ing:glycolic-acid",
    "ing:lactic-acid",
    "ing:kojic-acid",
@@ -5682,7 +5694,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — niacinamide #2 on INCI; Dark spots — tranexamic acid #1 on INCI, niacinamide #2 on INCI; Aging — adenosine #10 on INCI; Irritation — panthenol #6 on INCI, centella asiatica extract #11 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #2 on INCI; Dark spots — tranexamic acid #1 on INCI, niacinamide #2 on INCI; Aging — adenosine #10 on INCI; Irritation — panthenol #6 on INCI, centella asiatica extract #11 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/z/l/m/200-niacinamide-aha-pha-exfoliator-for-rough-skin-pigmentation-original-imahnmkb3hrfkzsq.jpeg?q=90",
@@ -5698,6 +5711,7 @@ const NXPRODUCTS = [
    "scope:body",
    "format:mist",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:aha",
@@ -5887,7 +5901,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — niacinamide #2 on INCI; Dark spots — tranexamic acid #1 on INCI, niacinamide #2 on INCI; Aging — adenosine #10 on INCI; Irritation — panthenol #6 on INCI, centella asiatica extract #11 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #2 on INCI; Dark spots — tranexamic acid #1 on INCI, niacinamide #2 on INCI; Aging — adenosine #10 on INCI; Irritation — panthenol #6 on INCI, centella asiatica extract #11 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/a/u/z/200-txa-niacinamide-pha-body-peel-for-uneven-skin-tone-bumps-original-imahnmmkugfpbtsm.jpeg?q=90",
@@ -5906,6 +5921,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:pack",
    "format:peel",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:aha",
@@ -6450,7 +6466,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/4/g/q/30-lactic-acid-renewal-serum-lactic-acid-30-skin-exfoliating-original-imahqaaznjy35gth.jpeg?q=90",
@@ -6467,6 +6484,7 @@ const NXPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:peel",
+   "water:unstated",
    "ing:lactic-acid",
    "ing:green-tea",
    "ing:aloe-vera",
@@ -7515,7 +7533,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 7 ratings"
+   "buyerEvidence": "5★ from 7 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/u/e/m/30-0-5-retinol-face-serum-with-lactic-acid-ferulic-acid-anti-original-imahpefhp6whpfrt.jpeg?q=90",
@@ -7531,6 +7550,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:retinol",
    "ing:lactic-acid",
    "ing:aloe-vera",
@@ -7635,7 +7655,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/v/e/e/30-green-derma-10-lactic-acid-1-hyaluronic-acid-serum-for-original-imahnzqh7by63ntk.jpeg?q=90",
@@ -7651,6 +7672,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:lactic-acid",
    "ing:hyaluronic-acid",
    "claim:brightening",
@@ -8748,7 +8770,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/v/2/f/200-5-aha-lactic-acid-body-lotion-lactic-acid-body-lotion-for-original-imahqrsts8r2jruh.jpeg?q=90",
@@ -8765,6 +8788,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:lotion",
    "format:kit",
+   "water:unstated",
    "ing:lactic-acid",
    "ing:aha",
    "ing:centella-cica",
@@ -9582,7 +9606,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/h/w/i/30-face-serum-for-oily-acne-prone-skin-10-niacinamide-zinc-original-imahjchcgdpfa5w2.jpeg?q=90",
@@ -9595,6 +9620,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:lactic-acid",
    "ing:zinc",
@@ -10172,7 +10198,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/5/7/8/200-5-lactic-acid-body-lotion-fancyperks-lotion-original-imahpf9fbqjb2zpx.jpeg?q=90",
@@ -10190,6 +10217,7 @@ const NXPRODUCTS = [
    "format:lotion",
    "format:balm",
    "format:kit",
+   "water:unstated",
    "ing:lactic-acid",
    "ing:colloidal-oatmeal",
    "ing:hyaluronic-acid",
@@ -11938,7 +11966,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.6★ from 5 ratings"
+   "buyerEvidence": "4.6★ from 5 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/m/7/y/10-25-aha-2-bha-5-pha-peeling-solution-exfoliating-face-serum-original-imahqvgudzp2wj8z.jpeg?q=90",
@@ -11956,6 +11985,7 @@ const NXPRODUCTS = [
    "format:pack",
    "format:peel",
    "format:wash",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
    "ing:lactic-acid",
@@ -13040,7 +13070,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/i/r/r/30-jessner-s-solution-14-lactic-acid-14-salicylic-acid-14-original-imahqcdf95pc65sm.jpeg?q=90",
@@ -13055,6 +13086,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:pack",
    "format:peel",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:lactic-acid",
    "claim:dark-spots",
@@ -14506,7 +14538,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/h/j/6/30-5-mandelic-acid-exfoliating-serum-prevents-acne-hempnation-original-imahh2cyaqhvk3gh.jpeg?q=90",
@@ -14522,6 +14555,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:mandelic-acid",
    "ing:aha",
@@ -14746,7 +14780,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.8★ from 29 ratings"
+   "buyerEvidence": "4.8★ from 29 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/q/t/c/30-10-vitamin-c-face-serum-for-skin-brightening-with-1-original-imahjgfqqx9msnvx.jpeg?q=90",
@@ -14763,6 +14798,7 @@ const NXPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:wash",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:lactic-acid",
    "ing:mandelic-acid",
@@ -16689,7 +16725,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/v/z/250-tea-tree-lactic-acid-body-lotion-for-men-women-pack-of-1-original-imahhg6xh9w4cdg7.jpeg?q=90",
@@ -16708,6 +16745,7 @@ const NXPRODUCTS = [
    "format:serum",
    "format:oil",
    "format:kit",
+   "water:unstated",
    "ing:lactic-acid",
    "ing:hyaluronic-acid",
    "ing:tea-tree",
@@ -17167,7 +17205,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/3/8/200-exfoliating-body-smoothes-skin-fades-tan-dead-sea-salt-original-imahzd3tked5xcvk.jpeg?q=90",
@@ -17188,6 +17227,7 @@ const NXPRODUCTS = [
    "format:shave-cream",
    "spf:30",
    "pa:+",
+   "water:unstated",
    "ing:niacinamide",
    "ing:lactic-acid",
    "ing:hyaluronic-acid",
@@ -17727,7 +17767,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4★ from 209 ratings",
-   "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI; Irritation — aloe barbadensis leaf extract #7 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI; Irritation — aloe barbadensis leaf extract #7 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/8/p/q/100-magic-de-tan-body-lotion-saffron-lactic-acid-niacinamide-original-imahpaytcgsphtyb.jpeg?q=90",
@@ -17745,6 +17786,7 @@ const NXPRODUCTS = [
    "format:lotion",
    "format:balm",
    "format:body-wax",
+   "water:unstated",
    "ing:niacinamide",
    "ing:lactic-acid",
    "ing:aloe-vera",
@@ -18126,7 +18168,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 40 ratings"
+   "buyerEvidence": "4.1★ from 40 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/d/y/n/500-skin-science-shea-butter-with-lactic-acid-body-lotion-odilo-original-imahq99yhmjhgenk.jpeg?q=90",
@@ -18143,6 +18186,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:lotion",
    "format:balm",
+   "water:unstated",
    "ing:lactic-acid",
    "ing:shea-butter",
    "claim:brightening",
@@ -18555,7 +18599,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/f/f/b/200-brighten-lactic-acid-body-lotion-ras-luxury-oils-lotion-original-imagmyefgbgtvjrc.jpeg?q=90",
@@ -18575,6 +18620,7 @@ const NXPRODUCTS = [
    "format:kit",
    "spf:30",
    "pa:+++",
+   "water:unstated",
    "ing:lactic-acid",
    "ing:cocoa-butter",
    "ing:glycerin",
@@ -18997,7 +19043,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/3/6/250-de-tan-cream-with-wheat-germ-oil-licorice-lactic-acid-kojic-original-imahkvk89jxeywef.jpeg?q=90",
@@ -19015,6 +19062,7 @@ const NXPRODUCTS = [
    "format:lotion",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:niacinamide",
    "ing:retinol",
    "ing:lactic-acid",
@@ -20575,7 +20623,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "4.1★ from 5,198 ratings",
-   "concernBasis": "Acne — niacinamide #5 on INCI, salicylic acid #16 on INCI; Dark spots — niacinamide #5 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #5 on INCI, salicylic acid #16 on INCI; Dark spots — niacinamide #5 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/t/1/l/50-0-pore-minimizing-daily-face-moisturizer-with-3-niacinamide-3-enriched-transparent-original-imaheqsga89gzzp6.png?q=90",
@@ -20590,6 +20639,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:niacinamide",
    "ing:pha",
    "claim:pores",
@@ -20842,7 +20892,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/scrub/z/f/l/100-cranberry-aha-pha-detox-deep-clean-exfoliating-gel-face-original-imahzc8hqgzhqwt2.jpeg?q=90",
@@ -20860,6 +20911,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:scrub",
    "format:wash",
+   "water:unstated",
    "ing:lactic-acid",
    "ing:aha",
    "ing:pha",
@@ -22397,7 +22449,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Suganda Skincare — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41ZODl6PMGL._SL1080_.jpg",
@@ -22412,6 +22465,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
+   "water:unstated",
    "ing:lactic-acid",
    "ing:aha",
    "ing:hyaluronic-acid",
@@ -25468,7 +25522,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.6★ from 0 ratings"
+   "buyerEvidence": "4.6★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61BwYvNJxdL._SL1448_.jpg",
@@ -25483,6 +25538,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:lactic-acid",
    "claim:brightening",
@@ -28317,7 +28373,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.7★ from 0 ratings"
+   "buyerEvidence": "3.7★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51UfL9VP3fL._SL1024_.jpg",
@@ -28332,6 +28389,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:serum",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:mandelic-acid",
@@ -30123,7 +30181,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/4170CfdshgL._SL1350_.jpg"
@@ -30135,6 +30194,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:serum",
    "format:wash",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:retinol",
    "ing:pha",
@@ -30346,7 +30406,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/710kIPNm80L._SL1500_.jpg",
@@ -30361,6 +30422,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:pha",
    "ing:collagen",
@@ -32203,7 +32265,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61nccv-sjlL._SL1254_.jpg",
@@ -32218,6 +32281,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:lactic-acid",
    "ing:aha",
@@ -33405,7 +33469,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "2.1★ from 0 ratings"
+   "buyerEvidence": "2.1★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/619PYEPaCnL._SL1500_.jpg",
@@ -33420,6 +33485,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -33628,7 +33694,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.6★ from 0 ratings"
+   "buyerEvidence": "4.6★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71MXD2jXpPL._SL1500_.jpg",
@@ -33643,6 +33710,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
+   "water:unstated",
    "ing:niacinamide",
    "ing:lactic-acid",
    "ing:ceramides",
@@ -34745,7 +34813,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61ROck9oltL._SL1080_.jpg",
@@ -34764,6 +34833,7 @@ const NXPRODUCTS = [
    "format:kit",
    "spf:30",
    "sun:mineral",
+   "water:unstated",
    "ing:lactic-acid",
    "ing:collagen",
    "ing:mineral-oil",
@@ -35851,7 +35921,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51QUqrDOYXL._SL1500_.jpg",
@@ -35868,6 +35939,7 @@ const NXPRODUCTS = [
    "format:serum",
    "format:peel",
    "spf:30",
+   "water:unstated",
    "ing:niacinamide",
    "ing:lactic-acid",
    "ing:papaya",
@@ -36198,7 +36270,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.8★ from 0 ratings"
+   "buyerEvidence": "3.8★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61SWuuXgjIL._SL1500_.jpg",
@@ -36213,6 +36286,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:serum",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
@@ -37092,7 +37166,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61G2FAPTj3L._SL1254_.jpg",
@@ -37107,6 +37182,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:peel",
+   "water:unstated",
    "ing:lactic-acid",
    "ing:aha",
    "ing:collagen",
@@ -37758,7 +37834,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 0 ratings"
+   "buyerEvidence": "4.4★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71cJTFuhuQL._SL1280_.jpg",
@@ -37773,6 +37850,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:peel",
    "format:kit",
+   "water:unstated",
    "ing:lactic-acid",
    "ing:kojic-acid",
    "claim:brightening",
@@ -37864,7 +37942,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.7★ from 0 ratings"
+   "buyerEvidence": "3.7★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71drYp2D14L._SL1280_.jpg",
@@ -37880,6 +37959,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:peel",
    "format:kit",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:lactic-acid",
    "ing:kojic-acid",
@@ -37977,7 +38057,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "2.7★ from 0 ratings"
+   "buyerEvidence": "2.7★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71tw0A1nz8L._SL1500_.jpg",
@@ -37992,6 +38073,7 @@ const NXPRODUCTS = [
    "format:peel",
    "format:patch",
    "format:kit",
+   "water:unstated",
    "ing:mandelic-acid",
    "claim:dark-spots",
    "claim:acne",
@@ -39594,7 +39676,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51O5mLdma2L._SL1440_.jpg"
@@ -39606,6 +39689,7 @@ const NXPRODUCTS = [
    "scope:unstated",
    "format:serum",
    "format:patch",
+   "water:unstated",
    "ing:mandelic-acid",
    "ing:aha",
    "ing:aloe-vera",
@@ -39702,7 +39786,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41w3YcZ3nxL._SL1024_.jpg",
@@ -39719,6 +39804,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:serum",
    "format:oil",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
@@ -41098,7 +41184,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61uMqXxvIRL._SL1500_.jpg",
@@ -41114,6 +41201,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:essence",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:lactic-acid",
    "ing:pha",
@@ -42428,7 +42516,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Pep Technologies — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.7★ from 0 ratings"
+   "buyerEvidence": "4.7★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61LZEXIwbeL._SL1100_.jpg",
@@ -42445,6 +42534,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:scrub",
    "sun:mineral",
+   "water:unstated",
    "ing:niacinamide",
    "ing:glycolic-acid",
    "ing:lactic-acid",
@@ -42954,7 +43044,8 @@ const NXPRODUCTS = [
    "evidenceActives": "lactic acid (#2 on list, strong evidence); glycerin (#3 on list, strong evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Estée Lauder Companies — Global FMCG or beauty group",
-   "buyerEvidence": "4.5★ from 0 ratings"
+   "buyerEvidence": "4.5★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41uqHPQwPiL._SL1240_.jpg",
@@ -42970,6 +43061,7 @@ const NXPRODUCTS = [
    "scope:unstated",
    "format:serum",
    "format:kit",
+   "water:unstated",
    "ing:lactic-acid",
    "ing:hyaluronic-acid",
    "claim:exfoliating",
@@ -43477,7 +43569,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/611tggekV2L._SL1254_.jpg",
@@ -43492,6 +43585,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
+   "water:unstated",
    "ing:lactic-acid",
    "ing:aha",
    "ing:urea",
@@ -43804,7 +43898,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.6★ from 0 ratings"
+   "buyerEvidence": "4.6★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51S4NX7+GUL._SL1269_.jpg",
@@ -43819,6 +43914,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:centella-cica",
    "claim:brightening",
@@ -44243,7 +44339,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51CZhUHPwpL._SL1254_.jpg",
@@ -44258,6 +44355,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:aha",
    "ing:pha",
@@ -45446,7 +45544,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.9★ from 0 ratings"
+   "buyerEvidence": "3.9★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51WH96KnZfL._SL1215_.jpg",
@@ -45461,6 +45560,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
+   "water:unstated",
    "ing:lactic-acid",
    "ing:aha",
    "ing:hyaluronic-acid",
@@ -46002,7 +46102,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41Q-JVXw9LL._SL1024_.jpg",
@@ -46018,6 +46119,7 @@ const NXPRODUCTS = [
    "scope:unstated",
    "format:serum",
    "format:oil",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
    "ing:lactic-acid",
@@ -46558,7 +46660,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
-   "buyerEvidence": "4.4★ from 0 ratings"
+   "buyerEvidence": "4.4★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61BRRHp97hL._SL1500_.jpg",
@@ -46575,6 +46678,7 @@ const NXPRODUCTS = [
    "format:lotion",
    "format:toner",
    "format:wash",
+   "water:unstated",
    "ing:glycolic-acid",
    "ing:lactic-acid",
    "ing:aha",
@@ -54271,7 +54375,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.7★ from 0 ratings"
+   "buyerEvidence": "4.7★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61g855bW6WL._SL1254_.jpg",
@@ -54286,6 +54391,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
+   "water:unstated",
    "ing:lactic-acid",
    "ing:azelaic-acid",
    "ing:centella-cica",
@@ -55057,7 +55163,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41achQjTtRL.jpg",
@@ -55072,6 +55179,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
+   "water:unstated",
    "ing:lactic-acid",
    "ing:azelaic-acid",
    "ing:centella-cica",
@@ -55168,7 +55276,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Pep Technologies — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.4★ from 0 ratings"
+   "buyerEvidence": "4.4★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/616T3eY6EfL._SL1100_.jpg",
@@ -55184,6 +55293,7 @@ const NXPRODUCTS = [
    "scope:body",
    "format:scrub",
    "sun:mineral",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
    "ing:lactic-acid",

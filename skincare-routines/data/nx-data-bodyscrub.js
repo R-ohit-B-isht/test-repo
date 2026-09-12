@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-11.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-12.
 // Unknown fields are honestly marked, never invented.
 const NXPRODUCTS = [
  {
@@ -264,7 +264,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 3 ratings"
+   "buyerEvidence": "4★ from 3 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-moisturizer-cream/f/l/0/200-glycolic-acid-lactic-acid-exfoliating-body-lotion-for-smooth-original-imahq4tz8brmxyup.jpeg?q=90",
@@ -280,6 +281,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:lotion",
+   "water:unstated",
    "ing:glycolic-acid",
    "ing:lactic-acid",
    "ing:aha",
@@ -3302,7 +3304,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/scrub/4/n/h/800-lavender-body-scrub-for-glowing-skin-professional-salon-pack-original-imahkfvfjqzgyuhy.jpeg?q=90",
@@ -3319,6 +3322,7 @@ const NXPRODUCTS = [
    "format:pack",
    "format:scrub",
    "format:wash",
+   "water:unstated",
    "ing:vitamin-e",
    "ing:lavender",
    "claim:brightening",
@@ -21075,7 +21079,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/scrub/h/7/c/50-body-scrub-for-tan-removal-smooth-skin-gulglow99-original-imagtntzztrhynxz.jpeg?q=90",
@@ -21093,6 +21098,7 @@ const NXPRODUCTS = [
    "format:scrub",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:aha",
@@ -33146,7 +33152,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/scrub/l/i/b/150-face-body-scrub-for-exfoliation-tan-blackhead-remover-acne-original-imahg7yyeydajxzg.jpeg?q=90",
@@ -33162,6 +33169,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:scrub",
    "format:wash",
+   "water:unstated",
    "ing:turmeric",
    "ing:walnut",
    "ing:vitamin-e",
@@ -40943,7 +40951,8 @@ const NXPRODUCTS = [
    "evidenceActives": "prunus amygdalus dulcis oil (#2 on list, moderate evidence); butyrospermum parkii butter (#4 on list, moderate evidence); curcuma longa root extract (#10 on list, limited evidence); glycerin (#18 on list, strong evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/scrub/y/o/5/100-turmeric-sea-salt-body-polisher-enchanting-showstopper-original-imahkyypvgwx2pug.jpeg?q=90",
@@ -40961,6 +40970,7 @@ const NXPRODUCTS = [
    "format:scrub",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:glycolic-acid",
    "ing:caffeine",
    "ing:coffee",
@@ -41338,7 +41348,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/scrub/8/0/u/75-coffee-face-body-scrub-for-skin-brightening-de-tan-ayurveda-original-imahhbvmy2zhtxrh.jpeg?q=90",
@@ -41358,6 +41369,7 @@ const NXPRODUCTS = [
    "format:scrub",
    "format:wash",
    "sun:mineral",
+   "water:unstated",
    "ing:coffee",
    "ing:papaya",
    "ing:vitamin-e",
@@ -42844,7 +42856,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/scrub/i/h/y/225-almond-body-scrubber-natural-ayurvedic-scrub-for-tan-dead-original-imahfbrpzn5yrmxz.jpeg?q=90",
@@ -42863,6 +42876,7 @@ const NXPRODUCTS = [
    "format:peel",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:glycolic-acid",
    "ing:colloidal-oatmeal",
    "ing:rose",
@@ -82127,7 +82141,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/knqd3m80/combo-kit/w/m/d/100-pure-natural-ubtan-body-scrub-red-sandalwood-powder-150g-original-imag2cnrtthu6dxz.jpeg?q=90",
@@ -82147,6 +82162,7 @@ const NXPRODUCTS = [
    "format:powder",
    "format:kit",
    "spf:50+",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:sandalwood",
    "ing:ubtan",
@@ -84180,7 +84196,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/knqd3m80/combo-kit/e/y/l/100-pure-natural-ubtan-body-scrub-reetha-powder-150g-pack-of-2-original-imag2cgnzykwebrn.jpeg?q=90",
@@ -84202,6 +84219,7 @@ const NXPRODUCTS = [
    "format:powder",
    "format:kit",
    "spf:50+",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:ubtan",
    "claim:ayurvedic",
@@ -84530,7 +84548,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/knqd3m80/combo-kit/t/x/n/100-pure-natural-ubtan-body-scrub-vitamin-c-powder-150g-pack-of-original-imag2cgzzhuwgtrw.jpeg?q=90",
@@ -84554,6 +84573,7 @@ const NXPRODUCTS = [
    "format:kit",
    "spf:50+",
    "pa:++++",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:coffee",
    "ing:walnut",
@@ -86142,7 +86162,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-scrub/1/4/j/60-0-walnut-scrub-daily-face-body-cleaning-scrub-for-men-women-original-imahneug8eh33xgy.jpeg?q=90",
@@ -86161,6 +86182,7 @@ const NXPRODUCTS = [
    "format:scrub",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:turmeric",
    "ing:saffron",
    "ing:rose",
@@ -87968,7 +87990,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/scrub/f/s/z/60-walnut-scrub-face-body-cleaning-scrub-smooth-skin-daily-use-original-imahnfrrwyjfv2ut.jpeg?q=90",
@@ -87986,6 +88009,7 @@ const NXPRODUCTS = [
    "format:scrub",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:caffeine",
    "ing:coffee",
    "ing:charcoal",
@@ -113600,7 +113624,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/bath-essential-oil/t/g/t/200-coffee-body-polishing-oil-for-glowing-smooth-skin-best-original-imaheqp4he8gh4zg.jpeg?q=90",
@@ -113616,6 +113641,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:oil",
    "format:bar",
+   "water:unstated",
    "ing:caffeine",
    "ing:coffee",
    "ing:honey",
@@ -114815,7 +114841,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/bath-essential-oil/v/i/a/200-deep-nourishing-coffee-oil-for-sexy-coffee-body-polishing-original-imahemaz3zqdvhck.jpeg?q=90",
@@ -114830,6 +114857,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:oil",
+   "water:unstated",
    "ing:caffeine",
    "ing:coffee",
    "ing:honey",
@@ -115035,7 +115063,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Oriflame Cosmetics — Global FMCG or beauty group",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/z/z/200-love-nature-forest-berries-delights-exfoliating-body-scrub-original-imahg2baezn9tptt.jpeg?q=90",
@@ -115055,6 +115084,7 @@ const NXPRODUCTS = [
    "format:toner",
    "format:scrub",
    "format:wash",
+   "water:unstated",
    "ing:lemon",
    "claim:brightening",
    "claim:de-tan",
@@ -115155,7 +115185,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Oriflame Cosmetics — Global FMCG or beauty group",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/o/m/o/200-forest-berries-delight-exfoliating-body-scrub-jam-oriflame-original-imahahfg33yzegb3.jpeg?q=90",
@@ -115173,6 +115204,7 @@ const NXPRODUCTS = [
    "format:lotion",
    "format:scrub",
    "format:kit",
+   "water:unstated",
    "ing:niacinamide",
    "ing:caffeine",
    "claim:brightening",
@@ -115269,7 +115301,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Oriflame Cosmetics — Global FMCG or beauty group",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/1/g/200-love-nature-caring-body-cream-with-organic-oat-apricot-original-imahe37kbnmvsegx.jpeg?q=90",
@@ -115291,6 +115324,7 @@ const NXPRODUCTS = [
    "format:pack",
    "format:scrub",
    "format:aerosol",
+   "water:unstated",
    "ing:niacinamide",
    "ing:caffeine",
    "ing:honey",
@@ -120816,7 +120850,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/8/i/x/80-glow-rice-ampoule-peeling-solution-gentle-exfoliation-for-original-imahmavj24zg2v2u.jpeg?q=90",
@@ -120835,6 +120870,7 @@ const NXPRODUCTS = [
    "format:ampoule",
    "format:pack",
    "format:peel",
+   "water:unstated",
    "ing:rice-water",
    "claim:brightening",
    "claim:anti-aging",
@@ -121037,7 +121073,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/a/z/q/80-black-rice-infused-peeling-solution-daily-exfoliating-face-original-imahmhgnr9p6vzzv.jpeg?q=90",
@@ -121054,6 +121091,7 @@ const NXPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:peel",
+   "water:unstated",
    "ing:rice-water",
    "claim:brightening",
    "claim:anti-aging",
@@ -121150,7 +121188,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/e/b/w/80-daily-soft-exfoliator-face-body-dead-skin-remover-korean-original-imahmhghyvbdyfym.jpeg?q=90",
@@ -121167,6 +121206,7 @@ const NXPRODUCTS = [
    "format:pack",
    "format:scrub",
    "format:peel",
+   "water:unstated",
    "ing:rice-water",
    "claim:brightening",
    "claim:anti-aging",
@@ -121262,7 +121302,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/p/g/l/80-glow-rice-daily-peeling-ampoule-gentle-face-body-exfoliating-original-imahmavzydypmggm.jpeg?q=90",
@@ -121280,6 +121321,7 @@ const NXPRODUCTS = [
    "format:ampoule",
    "format:pack",
    "format:peel",
+   "water:unstated",
    "ing:rice-water",
    "claim:brightening",
    "claim:anti-aging",
@@ -121375,7 +121417,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/v/6/o/80-soft-peeling-exfoliator-face-body-dead-skin-remover-korean-original-imahmhhgx9jyyfza.jpeg?q=90",
@@ -121392,6 +121435,7 @@ const NXPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:peel",
+   "water:unstated",
    "claim:brightening",
    "claim:anti-aging",
    "claim:acne",
@@ -121487,7 +121531,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/p/x/s/80-glow-rice-peeling-ampoule-daily-gentle-exfoliator-for-face-original-imahmavsgafpx5sz.jpeg?q=90",
@@ -121505,6 +121550,7 @@ const NXPRODUCTS = [
    "format:ampoule",
    "format:pack",
    "format:peel",
+   "water:unstated",
    "ing:rice-water",
    "claim:brightening",
    "claim:anti-aging",
@@ -121600,7 +121646,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/j/r/q/80-glow-rice-daily-peeling-ampoule-gentle-exfoliating-care-for-original-imahmatqxuzfzhew.jpeg?q=90",
@@ -121617,6 +121664,7 @@ const NXPRODUCTS = [
    "format:ampoule",
    "format:pack",
    "format:peel",
+   "water:unstated",
    "ing:rice-water",
    "claim:brightening",
    "claim:anti-aging",
@@ -121712,7 +121760,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/q/z/o/80-black-rice-extract-gentle-daily-exfoliating-scrub-for-all-original-imahmhgwypy2zgr7.jpeg?q=90",
@@ -121731,6 +121780,7 @@ const NXPRODUCTS = [
    "format:pack",
    "format:scrub",
    "format:peel",
+   "water:unstated",
    "ing:rice-water",
    "claim:brightening",
    "claim:anti-aging",
@@ -121828,7 +121878,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.7★ from 3 ratings"
+   "buyerEvidence": "4.7★ from 3 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/5/u/h/80-glow-rice-daily-peeling-ampoule-gentle-face-body-exfoliating-original-imahjhwpjm3thuks.jpeg?q=90",
@@ -121847,6 +121898,7 @@ const NXPRODUCTS = [
    "format:pack",
    "format:peel",
    "format:kit",
+   "water:unstated",
    "ing:rice-water",
    "claim:brightening",
    "claim:anti-aging",
@@ -121944,7 +121996,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.7★ from 6 ratings"
+   "buyerEvidence": "4.7★ from 6 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/t/x/a/80-peel-shot-glow-rice-peeling-ampoule-daily-gentle-exfoliating-original-imahjhwmeg3u3hys.jpeg?q=90",
@@ -121962,6 +122015,7 @@ const NXPRODUCTS = [
    "format:ampoule",
    "format:pack",
    "format:peel",
+   "water:unstated",
    "ing:rice-water",
    "claim:brightening",
    "claim:anti-aging",
@@ -122061,7 +122115,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — panthenol #8 on INCI (matching only — not proof it works)"
+   "concernBasis": "Irritation — panthenol #8 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/f/j/j/100-peel-shot-glow-white-rice-peeling-ampoule-face-glow-rice-original-imahgrzbqbuqtb8d.jpeg?q=90",
@@ -122078,6 +122133,7 @@ const NXPRODUCTS = [
    "format:ampoule",
    "format:pack",
    "format:peel",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:rice-water",
    "ing:vitamin-b5-panthenol",
@@ -122220,7 +122276,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/l/y/o/80-glow-rice-daily-peeling-ampoule-gentle-exfoliating-care-for-original-imahmatqmqejf4ps.jpeg?q=90",
@@ -122238,6 +122295,7 @@ const NXPRODUCTS = [
    "format:ampoule",
    "format:pack",
    "format:peel",
+   "water:unstated",
    "ing:rice-water",
    "claim:brightening",
    "claim:anti-aging",
@@ -122337,7 +122395,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — panthenol #8 on INCI (matching only — not proof it works)"
+   "concernBasis": "Irritation — panthenol #8 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/x/m/n/80-glow-rice-peeling-ampoule-gentle-exfoliating-scrub-for-face-original-imahmatyx2axphhf.jpeg?q=90",
@@ -122357,6 +122416,7 @@ const NXPRODUCTS = [
    "format:pack",
    "format:scrub",
    "format:peel",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:rice-water",
    "ing:vitamin-b5-panthenol",
@@ -122498,7 +122558,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/3/w/t/80-peel-shot-glow-rice-peeling-ampoule-80ml-daily-soft-original-imahj9v96ceqxuhm.jpeg?q=90",
@@ -122516,6 +122577,7 @@ const NXPRODUCTS = [
    "format:pack",
    "format:peel",
    "format:kit",
+   "water:unstated",
    "ing:rice-water",
    "claim:brightening",
    "claim:anti-aging",
@@ -122614,7 +122676,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — panthenol #8 on INCI (matching only — not proof it works)"
+   "concernBasis": "Irritation — panthenol #8 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/2/w/s/80-peel-shot-glow-rice-peeling-ampoule-daily-gentle-exfoliating-original-imahmashyqgwujhz.jpeg?q=90",
@@ -122632,6 +122695,7 @@ const NXPRODUCTS = [
    "format:pack",
    "format:scrub",
    "format:peel",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:rice-water",
    "ing:vitamin-b5-panthenol",
@@ -122773,7 +122837,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/c/4/e/80-black-rice-peeling-care-mild-exfoliating-face-body-scrub-original-imahmhgwy4cd92rh.jpeg?q=90",
@@ -122791,6 +122856,7 @@ const NXPRODUCTS = [
    "format:pack",
    "format:scrub",
    "format:peel",
+   "water:unstated",
    "ing:rice-water",
    "claim:brightening",
    "claim:anti-aging",
@@ -122887,7 +122953,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/w/t/g/80-black-rice-mild-exfoliation-gentle-face-body-scrub-for-smooth-original-imahmhgfqhgsubc7.jpeg?q=90",
@@ -122906,6 +122973,7 @@ const NXPRODUCTS = [
    "format:pack",
    "format:scrub",
    "format:peel",
+   "water:unstated",
    "ing:rice-water",
    "claim:brightening",
    "claim:anti-aging",
@@ -123002,7 +123070,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/v/i/y/80-soft-peeling-exfoliator-face-body-scrub-for-dead-skin-removal-original-imahmhgy39jutyrw.jpeg?q=90",
@@ -123021,6 +123090,7 @@ const NXPRODUCTS = [
    "format:pack",
    "format:scrub",
    "format:peel",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:rice-water",
    "ing:lavender",
@@ -123122,7 +123192,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — panthenol #8 on INCI (matching only — not proof it works)"
+   "concernBasis": "Irritation — panthenol #8 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/f/i/i/80-peel-shot-glow-rice-peeling-ampoule-daily-gentle-exfoliating-original-imahjhw9h3bsjwhr.jpeg?q=90",
@@ -123141,6 +123212,7 @@ const NXPRODUCTS = [
    "format:pack",
    "format:peel",
    "format:kit",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:rice-water",
    "ing:vitamin-b5-panthenol",
@@ -123283,7 +123355,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/t/6/j/80-black-rice-extract-gentle-exfoliating-scrub-for-face-body-original-imahmhgvsegbazyg.jpeg?q=90",
@@ -123301,6 +123374,7 @@ const NXPRODUCTS = [
    "format:pack",
    "format:scrub",
    "format:peel",
+   "water:unstated",
    "ing:rice-water",
    "claim:brightening",
    "claim:anti-aging",
@@ -123399,7 +123473,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — panthenol #8 on INCI (matching only — not proof it works)"
+   "concernBasis": "Irritation — panthenol #8 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/8/u/d/80-rice-peeling-ampoule-gentle-daily-exfoliation-for-face-body-original-imahmasvwer7g88q.jpeg?q=90",
@@ -123417,6 +123492,7 @@ const NXPRODUCTS = [
    "format:ampoule",
    "format:pack",
    "format:peel",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:rice-water",
    "ing:vitamin-b5-panthenol",
@@ -123558,7 +123634,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/7/n/b/80-black-rice-extract-daily-soft-exfoliating-face-body-scrub-original-imahmhgfsfgzhbzt.jpeg?q=90",
@@ -123576,6 +123653,7 @@ const NXPRODUCTS = [
    "format:pack",
    "format:scrub",
    "format:peel",
+   "water:unstated",
    "ing:rice-water",
    "claim:brightening",
    "claim:anti-aging",
@@ -123675,7 +123753,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — panthenol #8 on INCI (matching only — not proof it works)"
+   "concernBasis": "Irritation — panthenol #8 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/m/n/e/80-peel-shot-glow-rice-peeling-ampoule-daily-gentle-exfoliating-original-imahmashzdhuzffj.jpeg?q=90",
@@ -123695,6 +123774,7 @@ const NXPRODUCTS = [
    "format:scrub",
    "format:peel",
    "format:kit",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:rice-water",
    "ing:vitamin-b5-panthenol",
@@ -123837,7 +123917,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/j/r/q/80-glow-rice-daily-peeling-ampoule-gentle-exfoliating-care-for-original-imahmatqxuzfzhew.jpeg?q=90",
@@ -123855,6 +123936,7 @@ const NXPRODUCTS = [
    "format:ampoule",
    "format:pack",
    "format:peel",
+   "water:unstated",
    "ing:rice-water",
    "claim:brightening",
    "claim:anti-aging",
@@ -123953,7 +124035,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−0.8)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — niacinamide #2 on INCI; Dark spots — tranexamic acid #1 on INCI, niacinamide #2 on INCI; Aging — adenosine #10 on INCI; Irritation — panthenol #6 on INCI, centella asiatica extract #11 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #2 on INCI; Dark spots — tranexamic acid #1 on INCI, niacinamide #2 on INCI; Aging — adenosine #10 on INCI; Irritation — panthenol #6 on INCI, centella asiatica extract #11 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/w/t/l/200-korean-aha-pha-exfoliating-spray-with-tranexamic-acid-for-original-imahnmka2sh94hf7.jpeg?q=90",
@@ -123971,6 +124054,7 @@ const NXPRODUCTS = [
    "format:mist",
    "format:pack",
    "format:aerosol",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:aha",
@@ -124165,7 +124249,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−0.8)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — niacinamide #2 on INCI; Dark spots — tranexamic acid #1 on INCI, niacinamide #2 on INCI; Aging — adenosine #10 on INCI; Irritation — panthenol #6 on INCI, centella asiatica extract #11 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #2 on INCI; Dark spots — tranexamic acid #1 on INCI, niacinamide #2 on INCI; Aging — adenosine #10 on INCI; Irritation — panthenol #6 on INCI, centella asiatica extract #11 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/z/2/p/200-tx-peel-shot-body-exfoliating-spray-tranexamic-acid-original-imahnkhgfq45yv7z.jpeg?q=90",
@@ -124184,6 +124269,7 @@ const NXPRODUCTS = [
    "format:peel",
    "format:kit",
    "format:aerosol",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:aha",
@@ -124709,7 +124795,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−0.8)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — niacinamide #2 on INCI; Dark spots — tranexamic acid #1 on INCI, niacinamide #2 on INCI; Aging — adenosine #10 on INCI; Irritation — panthenol #6 on INCI, centella asiatica extract #11 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #2 on INCI; Dark spots — tranexamic acid #1 on INCI, niacinamide #2 on INCI; Aging — adenosine #10 on INCI; Irritation — panthenol #6 on INCI, centella asiatica extract #11 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/t/m/w/200-exfoliating-korean-body-care-for-dead-skin-removal-body-original-imahnmh7zvrd7gp9.jpeg?q=90",
@@ -124726,6 +124813,7 @@ const NXPRODUCTS = [
    "format:mist",
    "format:balm",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:aha",
@@ -125569,7 +125657,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/3/8/200-exfoliating-body-smoothes-skin-fades-tan-dead-sea-salt-original-imahzd3tked5xcvk.jpeg?q=90",
@@ -125590,6 +125679,7 @@ const NXPRODUCTS = [
    "format:shave-cream",
    "spf:30",
    "pa:+",
+   "water:unstated",
    "ing:niacinamide",
    "ing:lactic-acid",
    "ing:hyaluronic-acid",
@@ -136549,104 +136639,6 @@ const NXPRODUCTS = [
   }
  },
  {
-  "id": "car-b0gl8r1zdd",
-  "brand": "CAR",
-  "model": "SAAZ Exterior Body Polish (1L) for Car & Bike | Advanced Shine Enhancer for Vehicle Paint …",
-  "price": 379,
-  "capacityLine": "1000 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Scrub · ₹38/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "1000 ml",
-   "pricePer100": "₹38/100ml",
-   "format": "Scrub",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "3.4/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.4★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71mz4hqsq4L._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/81tJbpC3bwL._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/81OPv8RPKcL._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/81A9LmUGtsL._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/61-AmEvuEVL._SL1024_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GL8R1ZDD",
-  "buyStore": "Amazon",
-  "title": "CAR SAAZ Exterior Body Polish (1L) for Car & Bike | Advanced Shine Enhancer for Vehicle Paint | Helps Maintain Gloss, Smoothness & Overall Exterior Look | Shine & Protects",
-  "tags": [
-   "scope:body",
-   "aud:unisex",
-   "size:xl",
-   "rating:low",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "3.4★ from 0 ratings"
-  }
- },
- {
   "id": "forest-essentials-b0cgtsjw5y",
   "brand": "Forest Essentials",
   "model": "Sea Salt Crystal Rose Body Polisher | Natural Ayurvedic Body Scrub for Skin Brightening | …",
@@ -136686,7 +136678,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Forest Essentials (Mountain Valley Springs) — Established / listed Indian FMCG house",
-   "buyerEvidence": "4.4★ from 0 ratings"
+   "buyerEvidence": "4.4★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71k4-k+qyaL._SL1500_.jpg",
@@ -136699,6 +136692,7 @@ const NXPRODUCTS = [
    "scope:body",
    "format:scrub",
    "sun:chemical",
+   "water:unstated",
    "ing:rose",
    "ing:sea-salt",
    "claim:brightening",
@@ -160403,7 +160397,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "COSIQ — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51ypZ6bHuKL._SL1500_.jpg",
@@ -160419,6 +160414,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:serum",
    "format:toner",
+   "water:unstated",
    "ing:glycolic-acid",
    "ing:aha",
    "ing:cucumber",
@@ -162244,7 +162240,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Pep Technologies — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.8★ from 0 ratings"
+   "buyerEvidence": "4.8★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/615rbPPlICL._SL1100_.jpg",
@@ -162259,6 +162256,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:body",
    "format:scrub",
+   "water:unstated",
    "ing:niacinamide",
    "ing:caffeine",
    "ing:walnut",
@@ -162354,7 +162352,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Pep Technologies — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.7★ from 0 ratings"
+   "buyerEvidence": "4.7★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61LZEXIwbeL._SL1100_.jpg",
@@ -162371,6 +162370,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:scrub",
    "sun:mineral",
+   "water:unstated",
    "ing:niacinamide",
    "ing:glycolic-acid",
    "ing:lactic-acid",
@@ -162585,7 +162585,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Forest Essentials (Mountain Valley Springs) — Established / listed Indian FMCG house",
-   "buyerEvidence": "4.8★ from 0 ratings"
+   "buyerEvidence": "4.8★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71Lg4KsD49L._SL1500_.jpg",
@@ -162601,6 +162602,7 @@ const NXPRODUCTS = [
    "scope:body",
    "format:scrub",
    "sun:chemical",
+   "water:unstated",
    "ing:turmeric",
    "ing:sandalwood",
    "claim:brightening",
@@ -173992,205 +173994,6 @@ const NXPRODUCTS = [
   }
  },
  {
-  "id": "sheeba-b08q7vydrb",
-  "brand": "SHEEBA",
-  "model": "Bike Scooter Scooty Motor Cycle Complete Body Polish Shiner (750 ml)",
-  "price": 346,
-  "capacityLine": "750 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Scrub · ₹46/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 1.9
-  },
-  "fullSpec": {
-   "quantity": "750 ml",
-   "pricePer100": "₹46/100ml",
-   "format": "Scrub",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening / glow (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61yAb3b7xAL._SL1173_.jpg",
-   "https://m.media-amazon.com/images/I/61tybP+Dn0L._SL1176_.jpg",
-   "https://m.media-amazon.com/images/I/71+zBV9qEgL._SL1197_.jpg",
-   "https://m.media-amazon.com/images/I/717oWwFo2UL._SL1200_.jpg",
-   "https://m.media-amazon.com/images/I/71w38YnSD7L._SL1192_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B08Q7VYDRB",
-  "buyStore": "Amazon",
-  "title": "SHEEBA Bike Scooter Scooty Motor Cycle Complete Body Polish Shiner (750 ml)",
-  "tags": [
-   "scope:body",
-   "format:foam",
-   "claim:brightening",
-   "aud:unisex",
-   "size:xl",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4★ from 0 ratings"
-  }
- },
- {
-  "id": "groommm-b0gn894c16",
-  "brand": "GROOMMM",
-  "model": "Car Polish 250ml for All Vehicles | Provide Glossy Shine for Dull Paint | Car Body Polish …",
-  "price": 299,
-  "capacityLine": "250 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Body wax · ₹120/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 1.3
-  },
-  "fullSpec": {
-   "quantity": "250 ml",
-   "pricePer100": "₹120/100ml",
-   "format": "Body wax",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "3.8/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.8★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51OCJUjkjtL._SL1100_.jpg",
-   "https://m.media-amazon.com/images/I/71H+SsoTa8L._SL1100_.jpg",
-   "https://m.media-amazon.com/images/I/61y6FbgP3HL._SL1100_.jpg",
-   "https://m.media-amazon.com/images/I/61QshUYoMcL._SL1100_.jpg",
-   "https://m.media-amazon.com/images/I/61xUqT5MBRL._SL1100_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GN894C16",
-  "buyStore": "Amazon",
-  "title": "Groommm Car Polish 250ml for All Vehicles | Provide Glossy Shine for Dull Paint | Car Body Polish for Exterior Paint Protection | Enhances Shine & Finish | Compatible with Car Wax & Ceramic Coating",
-  "tags": [
-   "scope:body",
-   "format:body-wax",
-   "aud:unisex",
-   "size:large",
-   "rating:3.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "3.8★ from 0 ratings"
-  }
- },
- {
   "id": "bodyherbals-b00uorox9s",
   "brand": "BodyHerbals",
   "model": "Radiance Body Polisher Scrub (200 gms) For Tan Removal & Instant Glow | Enriched With Natu…",
@@ -175668,7 +175471,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51JDVOULGPL._SL1254_.jpg",
@@ -175684,6 +175488,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:toner",
    "spf:30",
+   "water:unstated",
    "ing:glycolic-acid",
    "ing:aha",
    "ing:rose",
@@ -202708,7 +202513,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Pep Technologies — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.4★ from 0 ratings"
+   "buyerEvidence": "4.4★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/616T3eY6EfL._SL1100_.jpg",
@@ -202724,6 +202530,7 @@ const NXPRODUCTS = [
    "scope:body",
    "format:scrub",
    "sun:mineral",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
    "ing:lactic-acid",
@@ -209088,104 +208895,6 @@ const NXPRODUCTS = [
     "url": null
    },
    "buyers": "4.4★ from 0 ratings"
-  }
- },
- {
-  "id": "groommm-b0gn8fpjnd",
-  "brand": "GROOMMM",
-  "model": "Exterior Body Polish 250ml With 350gsm Cloth For Car, Motorbike & Scooty | Provide Long La…",
-  "price": 399,
-  "capacityLine": "250 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Scrub · ₹160/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 5
-  },
-  "fullSpec": {
-   "quantity": "250 ml",
-   "pricePer100": "₹160/100ml",
-   "format": "Scrub",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "5.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61cAre-8xJL._SL1100_.jpg",
-   "https://m.media-amazon.com/images/I/71H+SsoTa8L._SL1100_.jpg",
-   "https://m.media-amazon.com/images/I/61y6FbgP3HL._SL1100_.jpg",
-   "https://m.media-amazon.com/images/I/61QshUYoMcL._SL1100_.jpg",
-   "https://m.media-amazon.com/images/I/61jw7or1GsL._SL1100_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GN8FPJND",
-  "buyStore": "Amazon",
-  "title": "GROOMMM Exterior Body Polish 250ml With 350gsm Cloth For Car, Motorbike & Scooty | Provide Long Lasting High Gloss Shine | UV Protection | Safe For All Paints, Plastic & Metal Surfaces | DIY Polish",
-  "tags": [
-   "scope:body",
-   "aud:unisex",
-   "size:large",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "5★ from 0 ratings"
   }
  },
  {

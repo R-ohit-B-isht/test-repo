@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-11.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-12.
 // Unknown fields are honestly marked, never invented.
 const NXPRODUCTS = [
  {
@@ -159,7 +159,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type; Irritation — panthenol #8 on INCI (matching only — not proof it works)"
+   "concernBasis": "Aging — product type; Irritation — panthenol #8 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/h/d/o/100-pdrn-collagen-facial-mist-hydrating-serum-spray-with-original-imahme55prygnvcv.jpeg?q=90",
@@ -175,6 +176,7 @@ const NXPRODUCTS = [
    "format:serum",
    "format:mist",
    "format:pack",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:collagen",
    "ing:vitamin-b5-panthenol",
@@ -330,7 +332,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type; Irritation — panthenol #8 on INCI (matching only — not proof it works)"
+   "concernBasis": "Aging — product type; Irritation — panthenol #8 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/u/a/w/100-pdrn-glow-mist-serum-hyaluronic-acid-facial-spray-for-deep-original-imahme52q9n3ygje.jpeg?q=90",
@@ -347,6 +350,7 @@ const NXPRODUCTS = [
    "format:serum",
    "format:mist",
    "format:pack",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:collagen",
    "ing:vitamin-b5-panthenol",
@@ -1109,7 +1113,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — niacinamide #12 on INCI; Dark spots — niacinamide #12 on INCI, glycyrrhiza glabra root extract #19 on INCI; Aging — product type, acetyl hexapeptide-8 #7 on INCI, palmitoyl tripeptide-1 #8 on INCI, palmitoyl tetrapeptide-7 #9 on INCI, copper tripeptide-1 #10 on INCI; Irritation — panthenol #13 on INCI, centella asiatica extract #16 on INCI, aloe barbadensis leaf extract #17 on INCI, ceramide np #24 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #12 on INCI; Dark spots — niacinamide #12 on INCI, glycyrrhiza glabra root extract #19 on INCI; Aging — product type, acetyl hexapeptide-8 #7 on INCI, palmitoyl tripeptide-1 #8 on INCI, palmitoyl tetrapeptide-7 #9 on INCI, copper tripeptide-1 #10 on INCI; Irritation — panthenol #13 on INCI, centella asiatica extract #16 on INCI, aloe barbadensis leaf extract #17 on INCI, ceramide np #24 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/f/o/2/30-collagen-pdrn-boost-serum-riquenza-original-imahzw6fsrzs2ksz.jpeg?q=90",
@@ -1124,6 +1129,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:collagen",
    "ing:pdrn-polynucleotide",
    "claim:brightening",
@@ -2229,7 +2235,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.8★ from 75 ratings",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/o/s/v/30-communal-pdrn-pink-peptide-face-serum-30ml-with-multi-peptide-original-imahhbe9ps4sdczb.jpeg?q=90",
@@ -2245,6 +2252,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:peptides",
    "ing:collagen",
    "ing:pdrn-polynucleotide",
@@ -4336,7 +4344,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/8/5/j/30-deeperdots-nia-cica-hydrabright-exosome-serum-deeperdots-original-imahgwgwmmfamhyz.jpeg?q=90",
@@ -4352,6 +4361,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:alpha-arbutin",
    "ing:centella-cica",
@@ -4455,7 +4465,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI; Aging — product type, adenosine #11 on INCI; Irritation — centella asiatica extract #8 on INCI, panthenol #10 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI; Aging — product type, adenosine #11 on INCI; Irritation — centella asiatica extract #8 on INCI, panthenol #10 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/b/n/20-dr-reju-all-advanced-pdrn-rejuvenating-cream-20-ml-619-original-imahp9bqquuf5ge8.jpeg?q=90",
@@ -4470,6 +4481,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:kojic-acid",
    "ing:snail-mucin",
    "ing:pdrn-polynucleotide",
@@ -5688,7 +5700,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI; Aging — product type, adenosine #11 on INCI; Irritation — centella asiatica extract #8 on INCI, panthenol #10 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI; Aging — product type, adenosine #11 on INCI; Irritation — centella asiatica extract #8 on INCI, panthenol #10 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/s/x/8/20-dr-reju-all-advanced-pdrn-rejuvenating-cream-20-ml-648-original-imahp9bpsw5gpnq6.jpeg?q=90",
@@ -5704,6 +5717,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:kit",
+   "water:unstated",
    "ing:kojic-acid",
    "ing:pdrn-polynucleotide",
    "claim:brightening",
@@ -6382,7 +6396,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — niacinamide #6 on INCI; Dark spots — niacinamide #6 on INCI; Aging — product type; Irritation — aloe barbadensis leaf extract #8 on INCI, centella asiatica extract #9 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #6 on INCI; Dark spots — niacinamide #6 on INCI; Aging — product type; Irritation — aloe barbadensis leaf extract #8 on INCI, centella asiatica extract #9 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/a/e/e/30-k-beauty-pdrn-glow-face-serum-for-daily-use-qurielle-original-imahnhr9aj8zenxp.jpeg?q=90",
@@ -6398,6 +6413,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:retinol",
@@ -7138,7 +7154,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/0/f/d/60-ightweight-hydrating-face-moisturizer-with-salmon-dna-anua-original-imahphm8vhvzvejz.jpeg?q=90",
@@ -7154,6 +7171,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:lotion",
+   "water:unstated",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:pdrn-polynucleotide",
@@ -7254,7 +7272,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/t/z/q/60-pdrn-hyaluronic-acid-lightweight-moisturizer-for-smooth-original-imahhmafyqg76cjg.jpeg?q=90",
@@ -7271,6 +7290,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:lotion",
    "format:kit",
+   "water:unstated",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:ceramides",
@@ -7374,7 +7394,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/i/e/60-salmon-dna-hyaluronic-acid-face-cream-hydrating-korean-original-imahphz9fxvapbrn.jpeg?q=90",
@@ -7392,6 +7413,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:cocoa-butter",
@@ -7495,7 +7517,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.4★ from 205 ratings",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/f/9/q/20-pdrn-tinted-sunscreen-spf-50-broad-spectrum-uva-uvb-skin-original-imahnfpxfd4yhzjh.jpeg?q=90",
@@ -7512,6 +7535,7 @@ const NXPRODUCTS = [
    "format:gel",
    "spf:50",
    "pa:++++",
+   "water:unstated",
    "ing:pdrn-polynucleotide",
    "claim:barrier",
    "claim:broad-spectrum",
@@ -7725,7 +7749,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/p/n/q/30-pdrn-glow-serum-intense-hydration-repair-anua-original-imahcx7qthaufmjs.jpeg?q=90",
@@ -7742,6 +7767,7 @@ const NXPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:capsule",
+   "water:unstated",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:pdrn-polynucleotide",
@@ -7845,7 +7871,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/i/b/x/30-pdrn-capsule-100-serum-korean-skincare-for-glowing-repaired-original-imahcsmstdgawhka.jpeg?q=90",
@@ -7863,6 +7890,7 @@ const NXPRODUCTS = [
    "format:pack",
    "format:capsule",
    "format:kit",
+   "water:unstated",
    "ing:niacinamide",
    "ing:azelaic-acid",
    "ing:hyaluronic-acid",
@@ -7968,7 +7996,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/6/w/h/30-pdrn-hyaluronic-acid-hydrating-capsule-serum-anua-original-imahcx7pgmsfuk9b.jpeg?q=90",
@@ -7986,6 +8015,7 @@ const NXPRODUCTS = [
    "format:pack",
    "format:capsule",
    "format:kit",
+   "water:unstated",
    "ing:niacinamide",
    "ing:azelaic-acid",
    "ing:hyaluronic-acid",
@@ -8091,7 +8121,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/p/b/1/30-pdrn-capsule-serum-with-100-hyaluronic-acid-beads-korean-glow-original-imahcsmtg9mgmfmp.jpeg?q=90",
@@ -8107,6 +8138,7 @@ const NXPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:capsule",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:pdrn-polynucleotide",
    "claim:brightening",
@@ -8208,7 +8240,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/m/4/h/30-radiant-face-serum-with-salmon-dna-hyaluronic-acid-for-smooth-original-imahmfx7jztdjpdv.jpeg?q=90",
@@ -8224,6 +8257,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:pdrn-polynucleotide",
    "claim:brightening",
@@ -8322,7 +8356,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.7★ from 3 ratings",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/p/x/h/30-pdrn-ha-100-serum-boost-skin-hydration-elasticity-korean-original-imahcsmunxmpzunx.jpeg?q=90",
@@ -8338,6 +8373,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:pdrn-polynucleotide",
    "claim:brightening",
@@ -8439,7 +8475,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/b/c/q/30-deep-nourishing-serum-korean-ha-pdrn-skincare-anua-original-imahddhhgxfcd7ga.jpeg?q=90",
@@ -8456,6 +8493,7 @@ const NXPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:ceramides",
@@ -8563,7 +8601,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/s/b/q/30-salmon-dna-hyaluronic-acid-for-deep-hydration-plump-glass-original-imahmfx5zzc85vva.jpeg?q=90",
@@ -8579,6 +8618,7 @@ const NXPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:capsule",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:pdrn-polynucleotide",
    "claim:brightening",
@@ -8680,7 +8720,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/b/j/6/30-salmon-dna-hyaluronic-acid-for-plumping-moisture-lock-glow-original-imahmfxkhqg9pqpc.jpeg?q=90",
@@ -8696,6 +8737,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:pdrn-polynucleotide",
    "claim:brightening",
@@ -8795,7 +8837,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/v/x/z/30-100-pdrn-hyaluron-acid-capsule-100-serum-for-men-and-women-original-imahd7263k9mp2dm.jpeg?q=90",
@@ -8813,6 +8856,7 @@ const NXPRODUCTS = [
    "format:pack",
    "format:capsule",
    "format:kit",
+   "water:unstated",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:pdrn-polynucleotide",
@@ -8915,7 +8959,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/e/2/z/30-korean-skincare-serum-hyaluronic-acid-pdrn-anua-original-imahcx7qvukygzdp.jpeg?q=90",
@@ -8933,6 +8978,7 @@ const NXPRODUCTS = [
    "format:pack",
    "format:capsule",
    "format:kit",
+   "water:unstated",
    "ing:niacinamide",
    "ing:azelaic-acid",
    "ing:hyaluronic-acid",
@@ -9307,7 +9353,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "5★ from 7 ratings",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/y/v/i/100-pdrn-hyaluron-hydrating-serum-anua-serum-original-imahq3zjhpmx3y4r.jpeg?q=90",
@@ -9323,6 +9370,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:serum",
    "format:mist",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:glycerin",
    "ing:pdrn-polynucleotide",
@@ -9534,7 +9582,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type; Irritation — panthenol #8 on INCI (matching only — not proof it works)"
+   "concernBasis": "Aging — product type; Irritation — panthenol #8 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/n/c/3/100-pdrn-collagen-glow-facial-serum-spray-100ml-hydrating-face-original-imahmaryjuzjvcf7.jpeg?q=90",
@@ -9550,6 +9599,7 @@ const NXPRODUCTS = [
    "format:serum",
    "format:mist",
    "format:pack",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:collagen",
    "ing:vitamin-b5-panthenol",
@@ -9706,7 +9756,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/l/a/60-pdrn-hyaluronic-acid-face-cream-hydrating-moisturizer-for-original-imahj9w8tghhac43.jpeg?q=90",
@@ -9721,6 +9772,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:pdrn-polynucleotide",
@@ -9821,7 +9873,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/j/r/60-pdrn-hyaluronic-acid-formula-for-non-greasy-deep-hydration-original-imahhmannppwwec3.jpeg?q=90",
@@ -9837,6 +9890,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:kit",
+   "water:unstated",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:saffron",
@@ -9939,7 +9993,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/c/n/l/60-pdrn-hyaluronic-acid-100-moisturizing-cream-pack-of-1-anua-original-imahj9w43dy6ezhf.jpeg?q=90",
@@ -9956,6 +10011,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:oil",
    "format:kit",
+   "water:unstated",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:snail-mucin",
@@ -10059,7 +10115,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/v/3/8/60-hyaluronic-acid-100-moisturizing-cream-with-pdrn-lightweight-original-imahj9w6z9rjc7yx.jpeg?q=90",
@@ -10075,6 +10132,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:kit",
+   "water:unstated",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:pdrn-polynucleotide",
@@ -10488,7 +10546,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/n/z/0/30-pdrn-youth-serum-chicglow-original-imahpdygfkgt98p3.jpeg?q=90",
@@ -10502,6 +10561,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:glycerin",
@@ -10601,7 +10661,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/3/1/r/50-pink-pdrn-skin-serum-for-younger-skin-reduce-fine-line-original-imahnmrqdtygpurz.jpeg?q=90",
@@ -10617,6 +10678,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:peptides",
    "ing:collagen",
@@ -10721,7 +10783,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/3/b/n/50-pdrn-skin-serum-for-younger-skin-boost-skin-elasticity-original-imahneuyjkcuz5pa.jpeg?q=90",
@@ -10737,6 +10800,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:pdrn-polynucleotide",
    "claim:brightening",
    "claim:anti-aging",
@@ -10834,7 +10898,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.3★ from 6 ratings",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/q/m/l/30-pdrn-serum-with-rose-pdrn-vegan-glow-serum-with-peptides-original-imahh3zmtfy3jhpz.jpeg?q=90",
@@ -10850,6 +10915,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:peptides",
    "ing:rose",
@@ -11061,7 +11127,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/c/6/v/30-pdrn-booster-serum-korean-glow-serum-with-rosy-pdrn-peptides-original-imahzqr6fcygpuwz.jpeg?q=90",
@@ -11077,6 +11144,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:peptides",
    "ing:pdrn-polynucleotide",
    "claim:brightening",
@@ -11388,7 +11456,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/9/m/a/30-collagen-pdrn-serum-zuveriya-original-imahp8z5fmdmvpcy.jpeg?q=90",
@@ -11403,6 +11472,7 @@ const NXPRODUCTS = [
    "scope:body",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:collagen",
    "ing:pdrn-polynucleotide",
@@ -11499,7 +11569,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/z/d/x/30-new-salmon-pdrn-face-serum-with-hyaluronic-acid-niacinamide-original-imahqgq4hqurth49.jpeg?q=90",
@@ -11515,6 +11586,7 @@ const NXPRODUCTS = [
    "format:pack",
    "format:wash",
    "sun:mineral",
+   "water:unstated",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:glycerin",
@@ -11616,7 +11688,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/s/h/t/10-pdrn-lip-care-serum-with-hyaluronic-acid-collagen-10ml-anua-original-imahqngphbnhsehs.jpeg?q=90",
@@ -11632,6 +11705,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:collagen",
    "ing:pdrn-polynucleotide",
@@ -11837,7 +11911,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/n/c/s/30-korean-pdrn-booster-serum-rosy-pdrn-peptides-for-firm-smooth-original-imahzqrkjsphg4vz.jpeg?q=90",
@@ -11853,6 +11928,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:peptides",
@@ -12073,7 +12149,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — niacinamide #6 on INCI; Dark spots — niacinamide #6 on INCI; Aging — product type; Irritation — aloe barbadensis leaf extract #8 on INCI, centella asiatica extract #9 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #6 on INCI; Dark spots — niacinamide #6 on INCI; Aging — product type; Irritation — aloe barbadensis leaf extract #8 on INCI, centella asiatica extract #9 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/g/s/t/30-pdrn-collagen-peptide-face-serum-for-glowing-skin-qurielle-original-imahnhr98ze8upyw.jpeg?q=90",
@@ -12089,6 +12166,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:peptides",
@@ -12374,7 +12452,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/o/g/s/30-pdrn-hyaluronic-acid-formula-for-smooth-radiant-youthful-original-imahmfxha5w74mf3.jpeg?q=90",
@@ -12390,6 +12469,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
@@ -12766,7 +12846,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/x/h/o/30-rosy-pdrn-peptide-serum-korean-face-serum-for-skin-repair-original-imahzqr5ywysqzwk.jpeg?q=90",
@@ -12782,6 +12863,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:resveratrol",
    "ing:nad-nmn",
@@ -12880,7 +12962,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.5★ from 4 ratings",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/6/d/d/30-100-capsule-hyaluronic-acid-serum-with-pdrn-skin-glow-original-imahcx7npqs62c6k.jpeg?q=90",
@@ -12897,6 +12980,7 @@ const NXPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:capsule",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:pdrn-polynucleotide",
    "claim:brightening",
@@ -12996,7 +13080,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/0/f/e/10-pdrn-hyaluronic-acid-collagen-lip-moisturizing-serum-10ml-original-imahqnj6vszygzg3.jpeg?q=90",
@@ -13012,6 +13097,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:collagen",
    "ing:pdrn-polynucleotide",
@@ -13108,7 +13194,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/8/r/4/30-pdrn-booster-shot-serum-rosy-pdrn-peptides-for-glowy-healthy-original-imahzzndxf9ftzh2.jpeg?q=90",
@@ -13124,6 +13211,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:peptides",
    "ing:pdrn-polynucleotide",
    "claim:brightening",
@@ -13335,7 +13423,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/g/g/6/30-pdrn-hyaluronic-acid-capsule-100-serum-deep-hydration-skin-original-imahcx7mhuqj2tvh.jpeg?q=90",
@@ -13353,6 +13442,7 @@ const NXPRODUCTS = [
    "format:pack",
    "format:capsule",
    "format:kit",
+   "water:unstated",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:pdrn-polynucleotide",
@@ -13458,7 +13548,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — niacinamide #5 on INCI; Dark spots — niacinamide #5 on INCI; Aging — product type; Irritation — aloe barbadensis leaf extract #1 on INCI, panthenol #6 on INCI, centella asiatica extract #8 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #5 on INCI; Dark spots — niacinamide #5 on INCI; Aging — product type; Irritation — aloe barbadensis leaf extract #1 on INCI, panthenol #6 on INCI, centella asiatica extract #8 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/c/w/s/30-aloe-pdrn-cooling-calming-serum-eqqualberry-original-imahkz5xkff3gefk.jpeg?q=90",
@@ -13474,6 +13565,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
@@ -13657,7 +13749,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/6/n/7/30-pdrn-infused-glow-serum-for-hydration-elasticity-radiant-skin-original-imahmfxf5mgstqjf.jpeg?q=90",
@@ -13673,6 +13766,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:pdrn-polynucleotide",
    "claim:brightening",
@@ -13987,7 +14081,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/o/1/r/30-pink-peptide-serum-pdrn-firming-wrinkle-care-face-serum-original-imahqwhy2x2xffxf.jpeg?q=90",
@@ -13999,6 +14094,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
+   "water:unstated",
    "ing:peptides",
    "ing:pdrn-polynucleotide",
    "claim:brightening",
@@ -14096,7 +14192,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/m/s/o/30-capsule-100-serum-with-hyaluronic-acid-pdrn-skin-repair-original-imahcx7s58fhgwgy.jpeg?q=90",
@@ -14114,6 +14211,7 @@ const NXPRODUCTS = [
    "format:pack",
    "format:capsule",
    "format:kit",
+   "water:unstated",
    "ing:niacinamide",
    "ing:azelaic-acid",
    "ing:hyaluronic-acid",
@@ -14219,7 +14317,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/p/t/t/30-pdrn-peptide-face-serum-lightweight-korean-serum-for-skin-original-imahzqrf9yshmvm2.jpeg?q=90",
@@ -14235,6 +14334,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:retinal",
@@ -14344,7 +14444,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/q/p/t/100-pdrn-collagen-dewy-mist-hyaluronic-acid-facial-spray-for-original-imahme5wj7ksgeqr.jpeg?q=90",
@@ -14361,6 +14462,7 @@ const NXPRODUCTS = [
    "format:serum",
    "format:mist",
    "format:pack",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:collagen",
    "ing:pdrn-polynucleotide",
@@ -14567,7 +14669,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/d/c/f/30-pdrn-serum-vita-toning-ampoule-serum-rejuveol-original-imahzwffpzfpzdgf.jpeg?q=90",
@@ -14584,6 +14687,7 @@ const NXPRODUCTS = [
    "format:serum",
    "format:ampoule",
    "format:pack",
+   "water:unstated",
    "ing:pdrn-polynucleotide",
    "claim:brightening",
    "claim:anti-aging",
@@ -14679,7 +14783,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/o/v/o/20-skin-repair-cream-with-1200ppm-pdrn-hydrating-calming-original-imahgmr9msngvbzs.jpeg?q=90",
@@ -14694,6 +14799,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:niacinamide",
    "ing:retinol",
    "ing:collagen",
@@ -15733,7 +15839,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/r/n/i/50-pdrn-advanced-cream-with-skin-moisture-care-winym-cream-original-imahh7gn2bwkqq4h.jpeg?q=90",
@@ -15751,6 +15858,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:kit",
    "pa:+++",
+   "water:unstated",
    "ing:pdrn-polynucleotide",
    "claim:brightening",
    "claim:de-tan",
@@ -15853,7 +15961,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI; Aging — product type, adenosine #11 on INCI; Irritation — centella asiatica extract #8 on INCI, panthenol #10 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI; Aging — product type, adenosine #11 on INCI; Irritation — centella asiatica extract #8 on INCI, panthenol #10 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/f/b/p/20-dr-reju-all-advanced-pdrn-rejuvenating-cream-20-ml-690-original-imahpbkb2dambtuu.jpeg?q=90",
@@ -15868,6 +15977,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:retinol",
    "ing:snail-mucin",
    "ing:pdrn-polynucleotide",
@@ -27412,7 +27522,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/t/z/s/50-pdrn-advance-cream-glow-essence-repair-cream-pdrn1-activewow-original-imahnywehnupgbeg.jpeg?q=90",
@@ -27430,6 +27541,7 @@ const NXPRODUCTS = [
    "format:essence",
    "format:kit",
    "spf:15",
+   "water:unstated",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:peptides",
@@ -27536,7 +27648,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/i/v/v/50-pdrn-advance-cream-ultra-nourishing-skin-cream-pdrn1-original-imahnyxauwesf7be.jpeg?q=90",
@@ -27554,6 +27667,7 @@ const NXPRODUCTS = [
    "format:pack",
    "format:kit",
    "spf:15",
+   "water:unstated",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:peptides",
@@ -28152,7 +28266,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/n/a/y/50-pdrn-advance-cream-ultra-moist-repair-cream-pdrn1-activewow-original-imahnywqhr4sssxf.jpeg?q=90",
@@ -28169,6 +28284,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:kit",
    "spf:15",
+   "water:unstated",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:peptides",
@@ -28752,7 +28868,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/d/b/g/50-pdrn-advance-cream-soft-barrier-skin-cream-pdrn1-activewow-original-imahnywdtaqzmmfa.jpeg?q=90",
@@ -28769,6 +28886,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:kit",
    "spf:15",
+   "water:unstated",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:peptides",
@@ -29498,7 +29616,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI; Aging — product type, adenosine #11 on INCI; Irritation — centella asiatica extract #8 on INCI, panthenol #10 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI; Aging — product type, adenosine #11 on INCI; Irritation — centella asiatica extract #8 on INCI, panthenol #10 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/y/p/20-dr-reju-all-advanced-pdrn-rejuvenating-cream-20-ml-531-original-imahp3hmv55hhj82.jpeg?q=90",
@@ -29513,6 +29632,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:retinol",
    "ing:sandalwood",
    "ing:vitamin-e",
@@ -29807,7 +29927,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/d/i/7/50-pdrn-advance-cream-moisture-surge-repair-cream-pdrn1-original-imahnywuvfqyqav2.jpeg?q=90",
@@ -29825,6 +29946,7 @@ const NXPRODUCTS = [
    "format:pack",
    "format:kit",
    "spf:15",
+   "water:unstated",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:peptides",
@@ -31395,7 +31517,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/d/a/p/50-pdrn-advance-cream-ultra-repair-cream-pdrn1-activewow-cream-original-imahnywux39ysdyw.jpeg?q=90",
@@ -31413,6 +31536,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:kit",
    "spf:15",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
@@ -31633,7 +31757,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/o/u/i/50-pdrn-advance-cream-youth-boost-moisturizer-pdrn1-activewow-original-imahnywunczkegzx.jpeg?q=90",
@@ -31650,6 +31775,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:kit",
    "spf:15",
+   "water:unstated",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:peptides",
@@ -32115,7 +32241,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/2/q/m/20-pdrn-repair-cream-1200ppm-deep-moisturizing-healing-formula-original-imahgmr88jhkpgv5.jpeg?q=90",
@@ -32130,6 +32257,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:niacinamide",
    "ing:collagen",
    "ing:vitamin-b5-panthenol",
@@ -32233,7 +32361,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/d/q/y/30-exosome-spicule-serum-7-500-ppm-skin-texture-care-medicube-original-imahqxnhc9wm3gzt.jpeg?q=90",
@@ -32247,6 +32376,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
+   "water:unstated",
    "ing:exosomes",
    "claim:anti-aging",
    "claim:hydrating",
@@ -32444,7 +32574,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/i/d/m/20-advanced-pdrn-rejuvenating-cream-restore-elasticity-youthful-original-imahh7fannefjhes.jpeg?q=90",
@@ -32461,6 +32592,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:kit",
+   "water:unstated",
    "ing:niacinamide",
    "ing:collagen",
    "ing:kojic-acid",
@@ -35781,7 +35913,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI; Aging — product type, adenosine #11 on INCI; Irritation — centella asiatica extract #8 on INCI, panthenol #10 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI; Aging — product type, adenosine #11 on INCI; Irritation — centella asiatica extract #8 on INCI, panthenol #10 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/a/s/9/20-dr-reju-all-advanced-pdrn-rejuvenating-cream-20-ml-527-original-imahp3hfwmjtqype.jpeg?q=90",
@@ -35796,6 +35929,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:kojic-acid",
    "ing:snail-mucin",
    "ing:vitamin-e",
@@ -35969,7 +36103,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI; Aging — product type, adenosine #11 on INCI; Irritation — centella asiatica extract #8 on INCI, panthenol #10 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI; Aging — product type, adenosine #11 on INCI; Irritation — centella asiatica extract #8 on INCI, panthenol #10 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/o/l/5/20-dr-reju-all-advanced-pdrn-rejuvenating-cream-20-ml-01-fidosta-original-imahz4jfwskugkss.jpeg?q=90",
@@ -35985,6 +36120,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:lotion",
+   "water:unstated",
    "ing:kojic-acid",
    "ing:vitamin-e",
    "ing:pdrn-polynucleotide",
@@ -36156,7 +36292,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI; Aging — product type, adenosine #11 on INCI; Irritation — centella asiatica extract #8 on INCI, panthenol #10 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI; Aging — product type, adenosine #11 on INCI; Irritation — centella asiatica extract #8 on INCI, panthenol #10 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/l/w/20-dr-reju-all-advanced-pdrn-rejuvenating-cream-20-ml-120-original-imahzaw4cwchhwex.jpeg?q=90",
@@ -36172,6 +36309,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:kit",
+   "water:unstated",
    "ing:vitamin-e",
    "ing:pdrn-polynucleotide",
    "claim:brightening",
@@ -36342,7 +36480,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI; Aging — product type, adenosine #11 on INCI; Irritation — centella asiatica extract #8 on INCI, panthenol #10 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI; Aging — product type, adenosine #11 on INCI; Irritation — centella asiatica extract #8 on INCI, panthenol #10 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/a/p/w/20-dr-reju-all-advanced-pdrn-rejuvenating-cream-20-ml-121-original-imahzavv7zy6ggtg.jpeg?q=90",
@@ -36358,6 +36497,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:kit",
+   "water:unstated",
    "ing:ceramides",
    "ing:peptides",
    "ing:vitamin-e",
@@ -36533,7 +36673,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI; Aging — product type, adenosine #11 on INCI; Irritation — centella asiatica extract #8 on INCI, panthenol #10 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI; Aging — product type, adenosine #11 on INCI; Irritation — centella asiatica extract #8 on INCI, panthenol #10 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/7/d/p/20-dr-reju-all-advanced-pdrn-rejuvenating-cream-20-ml-529-original-imahp3hjepwvsshm.jpeg?q=90",
@@ -36549,6 +36690,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:kit",
+   "water:unstated",
    "ing:vitamin-e",
    "ing:avocado",
    "ing:pdrn-polynucleotide",
@@ -36721,7 +36863,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI; Aging — product type, adenosine #11 on INCI; Irritation — centella asiatica extract #8 on INCI, panthenol #10 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI; Aging — product type, adenosine #11 on INCI; Irritation — centella asiatica extract #8 on INCI, panthenol #10 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/s/e/20-dr-reju-all-advanced-pdrn-rejuvenating-cream-20-ml-504-original-imahp2yssadqmxfp.jpeg?q=90",
@@ -36736,6 +36879,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:vitamin-e",
    "ing:pdrn-polynucleotide",
    "claim:brightening",
@@ -36906,7 +37050,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI; Aging — product type, adenosine #11 on INCI; Irritation — centella asiatica extract #8 on INCI, panthenol #10 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI; Aging — product type, adenosine #11 on INCI; Irritation — centella asiatica extract #8 on INCI, panthenol #10 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/a/p/20-dr-reju-all-advanced-pdrn-rejuvenating-cream-20-ml-530-original-imahp3hkknxvzcfc.jpeg?q=90",
@@ -36921,6 +37066,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:vitamin-e",
    "ing:pdrn-polynucleotide",
    "claim:brightening",
@@ -37089,7 +37235,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI; Aging — product type, adenosine #11 on INCI; Irritation — centella asiatica extract #8 on INCI, panthenol #10 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI; Aging — product type, adenosine #11 on INCI; Irritation — centella asiatica extract #8 on INCI, panthenol #10 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/3/j/e/20-dr-reju-all-advanced-pdrn-rejuvenating-cream-20-ml-538-original-imahp3mymrjzh6uk.jpeg?q=90",
@@ -37104,6 +37251,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:vitamin-e",
    "ing:avocado",
    "ing:pdrn-polynucleotide",
@@ -37274,7 +37422,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI; Aging — product type, adenosine #11 on INCI; Irritation — centella asiatica extract #8 on INCI, panthenol #10 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI; Aging — product type, adenosine #11 on INCI; Irritation — centella asiatica extract #8 on INCI, panthenol #10 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/y/f/n/20-dr-reju-all-advanced-pdrn-rejuvenating-cream-20-ml-508-original-imahp2km4tyztnnp.jpeg?q=90",
@@ -37289,6 +37438,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:pdrn-polynucleotide",
    "claim:brightening",
    "claim:dark-spots",
@@ -37457,7 +37607,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI; Aging — product type, adenosine #11 on INCI; Irritation — centella asiatica extract #8 on INCI, panthenol #10 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI; Aging — product type, adenosine #11 on INCI; Irritation — centella asiatica extract #8 on INCI, panthenol #10 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/6/a/1/20-dr-reju-all-advanced-pdrn-rejuvenating-cream-20-ml-01-fidosta-original-imahz4jfwpgkfbdc.jpeg?q=90",
@@ -37472,6 +37623,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:pdrn-polynucleotide",
    "claim:brightening",
    "claim:anti-aging",
@@ -37639,7 +37791,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI; Aging — product type, adenosine #11 on INCI; Irritation — centella asiatica extract #8 on INCI, panthenol #10 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI; Aging — product type, adenosine #11 on INCI; Irritation — centella asiatica extract #8 on INCI, panthenol #10 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/d/s/i/20-dr-reju-all-advanced-pdrn-rejuvenating-cream-20-ml-501-original-imahpfvwphttjmhm.jpeg?q=90",
@@ -37654,6 +37807,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:vitamin-e",
    "ing:pdrn-polynucleotide",
    "claim:brightening",
@@ -37823,7 +37977,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI; Aging — product type, adenosine #11 on INCI; Irritation — centella asiatica extract #8 on INCI, panthenol #10 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI; Aging — product type, adenosine #11 on INCI; Irritation — centella asiatica extract #8 on INCI, panthenol #10 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/j/w/l/20-dr-reju-all-advanced-pdrn-rejuvenating-cream-20-ml-521-original-imahp2hvzsxrjz3r.jpeg?q=90",
@@ -37839,6 +37994,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:capsule",
+   "water:unstated",
    "ing:retinol",
    "ing:pdrn-polynucleotide",
    "claim:brightening",
@@ -38006,7 +38162,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/e/q/l/75-dr-reju-all-advanced-pdrn-rejuvenating-cream01-fidosta-cream-original-imahmggygsh7wjxy.jpeg?q=90",
@@ -38024,6 +38181,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:capsule",
    "spf:30",
+   "water:unstated",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:collagen",
@@ -38132,7 +38290,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI; Aging — product type, adenosine #11 on INCI; Irritation — centella asiatica extract #8 on INCI, panthenol #10 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI; Aging — product type, adenosine #11 on INCI; Irritation — centella asiatica extract #8 on INCI, panthenol #10 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/r/y/7/20-dr-reju-all-advanced-pdrn-rejuvenating-cream-20-ml-630-original-imahp9bpmg7uhhg7.jpeg?q=90",
@@ -38147,6 +38306,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:pdrn-polynucleotide",
    "claim:brightening",
    "claim:anti-aging",
@@ -38314,7 +38474,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI; Aging — product type, adenosine #11 on INCI; Irritation — centella asiatica extract #8 on INCI, panthenol #10 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI; Aging — product type, adenosine #11 on INCI; Irritation — centella asiatica extract #8 on INCI, panthenol #10 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/s/g/b/20-dr-reju-all-advanced-pdrn-rejuvenating-cream-20-ml-622-original-imahp9bpze4svx3f.jpeg?q=90",
@@ -38329,6 +38490,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:pdrn-polynucleotide",
    "claim:brightening",
    "claim:anti-aging",
@@ -38496,7 +38658,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI; Aging — product type, adenosine #11 on INCI; Irritation — centella asiatica extract #8 on INCI, panthenol #10 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI; Aging — product type, adenosine #11 on INCI; Irritation — centella asiatica extract #8 on INCI, panthenol #10 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/e/w/o/20-dr-reju-all-advanced-pdrn-rejuvenating-cream-20-ml-689-original-imahpbk8unsjuycd.jpeg?q=90",
@@ -38512,6 +38675,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:kit",
+   "water:unstated",
    "ing:snail-mucin",
    "ing:pdrn-polynucleotide",
    "claim:brightening",
@@ -38681,7 +38845,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI; Aging — product type, adenosine #11 on INCI; Irritation — centella asiatica extract #8 on INCI, panthenol #10 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI; Aging — product type, adenosine #11 on INCI; Irritation — centella asiatica extract #8 on INCI, panthenol #10 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/2/b/i/20-dr-reju-all-advanced-pdrn-rejuvenating-cream-20-ml-653-original-imahp9bpahjsnczw.jpeg?q=90",
@@ -38696,6 +38861,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:snail-mucin",
    "ing:pdrn-polynucleotide",
    "claim:brightening",
@@ -38865,7 +39031,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI; Aging — product type, adenosine #11 on INCI; Irritation — centella asiatica extract #8 on INCI, panthenol #10 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI; Aging — product type, adenosine #11 on INCI; Irritation — centella asiatica extract #8 on INCI, panthenol #10 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/u/v/20-dr-reju-all-advanced-pdrn-rejuvenating-cream-20-ml-629-original-imahp9bq6m6hgeqe.jpeg?q=90",
@@ -38880,6 +39047,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:snail-mucin",
    "ing:pdrn-polynucleotide",
    "claim:brightening",
@@ -39049,7 +39217,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI; Aging — product type, adenosine #11 on INCI; Irritation — centella asiatica extract #8 on INCI, panthenol #10 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI; Aging — product type, adenosine #11 on INCI; Irritation — centella asiatica extract #8 on INCI, panthenol #10 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/4/c/h/20-dr-reju-all-advanced-pdrn-rejuvenating-cream-20-ml-666-original-imahpbk57h3xpqz4.jpeg?q=90",
@@ -39065,6 +39234,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:cream",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:pdrn-polynucleotide",
    "claim:brightening",
@@ -39542,7 +39712,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/o/a/b/10-pdrn-lip-serum-for-long-lasting-hydration-soft-lips-10ml-anua-original-imahqnj4tza7gsrk.jpeg?q=90",
@@ -39558,6 +39729,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:collagen",
    "ing:pdrn-polynucleotide",
@@ -39656,7 +39828,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI; Aging — product type, adenosine #8 on INCI; Irritation — panthenol #5 on INCI, centella asiatica extract #11 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI; Aging — product type, adenosine #8 on INCI; Irritation — panthenol #5 on INCI, centella asiatica extract #11 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/t/a/q/30-collagen-pdrn-face-spray-for-instant-hydration-smooth-texture-original-imahnmnmzfgf3fmx.jpeg?q=90",
@@ -39674,6 +39847,7 @@ const NXPRODUCTS = [
    "format:mist",
    "format:pack",
    "format:capsule",
+   "water:unstated",
    "ing:niacinamide",
    "ing:azelaic-acid",
    "ing:hyaluronic-acid",
@@ -39856,7 +40030,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/e/l/f/10-anua-pdrn-lip-serum-10ml-anua-original-imahqhwkdshkzpcn.jpeg?q=90",
@@ -39872,6 +40047,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:collagen",
    "ing:pdrn-polynucleotide",
@@ -39968,7 +40144,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/o/w/v/10-pdrn-non-sticky-moisturizing-lip-serum-for-dry-lips-10ml-anua-original-imahqngzqdggcxct.jpeg?q=90",
@@ -39984,6 +40161,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:collagen",
    "ing:pdrn-polynucleotide",
@@ -40083,7 +40261,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type; Irritation — panthenol #8 on INCI (matching only — not proof it works)"
+   "concernBasis": "Aging — product type; Irritation — panthenol #8 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/9/q/g/100-pdrn-collagen-glow-facial-serum-mist-hydrating-hyaluronic-original-imahme5qd7zamheg.jpeg?q=90",
@@ -40099,6 +40278,7 @@ const NXPRODUCTS = [
    "format:serum",
    "format:mist",
    "format:pack",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:collagen",
    "ing:vitamin-b5-panthenol",
@@ -40253,7 +40433,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/v/p/z/100-hydrating-glow-face-mist-pdrn-collagen-serum-spray-for-dewy-original-imahme5vdf5jabkb.jpeg?q=90",
@@ -40270,6 +40451,7 @@ const NXPRODUCTS = [
    "format:serum",
    "format:mist",
    "format:pack",
+   "water:unstated",
    "ing:collagen",
    "ing:pdrn-polynucleotide",
    "claim:brightening",
@@ -40374,7 +40556,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type; Irritation — panthenol #8 on INCI (matching only — not proof it works)"
+   "concernBasis": "Aging — product type; Irritation — panthenol #8 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/5/b/4/100-pdrn-hydrating-serum-spray-collagen-boosting-face-mist-for-original-imahme5sxjz9gkpv.jpeg?q=90",
@@ -40390,6 +40573,7 @@ const NXPRODUCTS = [
    "format:serum",
    "format:mist",
    "format:pack",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:collagen",
    "ing:vitamin-b5-panthenol",
@@ -40546,7 +40730,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — niacinamide #5 on INCI; Dark spots — niacinamide #5 on INCI; Aging — product type; Irritation — aloe barbadensis leaf extract #1 on INCI, panthenol #6 on INCI, centella asiatica extract #8 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #5 on INCI; Dark spots — niacinamide #5 on INCI; Aging — product type; Irritation — aloe barbadensis leaf extract #1 on INCI, panthenol #6 on INCI, centella asiatica extract #8 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/4/8/b/30-aloe-pdrn-calming-smoothie-serum-eqqualberry-original-imahkxxes4frn4gy.jpeg?q=90",
@@ -40561,6 +40746,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:green-tea",
@@ -40973,7 +41159,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/o/j/d/50-pdrn-advance-cream-ultra-fresh-repair-cream-pdrn1-activewow-original-imahnyw4mxxay7ku.jpeg?q=90",
@@ -40991,6 +41178,7 @@ const NXPRODUCTS = [
    "format:lotion",
    "format:kit",
    "spf:15",
+   "water:unstated",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:peptides",
@@ -42730,7 +42918,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI; Aging — product type, adenosine #11 on INCI; Irritation — centella asiatica extract #8 on INCI, panthenol #10 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI; Aging — product type, adenosine #11 on INCI; Irritation — centella asiatica extract #8 on INCI, panthenol #10 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/9/i/20-dr-reju-all-advanced-pdrn-rejuvenating-cream-20-ml-691-original-imahpbkc35yrzgu8.jpeg?q=90",
@@ -42745,6 +42934,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:pdrn-polynucleotide",
    "claim:anti-aging",
    "claim:stretch-marks",
@@ -43028,7 +43218,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI; Aging — product type, adenosine #11 on INCI; Irritation — centella asiatica extract #8 on INCI, panthenol #10 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI; Aging — product type, adenosine #11 on INCI; Irritation — centella asiatica extract #8 on INCI, panthenol #10 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/4/v/v/20-dr-reju-all-advanced-pdrn-rejuvenating-cream-20-ml-633-original-imahp9bprxmzscez.jpeg?q=90",
@@ -43044,6 +43235,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:capsule",
+   "water:resistant",
    "ing:retinol",
    "ing:pdrn-polynucleotide",
    "claim:brightening",
@@ -43213,7 +43405,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI; Aging — product type, adenosine #11 on INCI; Irritation — centella asiatica extract #8 on INCI, panthenol #10 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI; Aging — product type, adenosine #11 on INCI; Irritation — centella asiatica extract #8 on INCI, panthenol #10 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/x/y/8/20-dr-reju-all-advanced-pdrn-rejuvenating-cream-20-ml-537-original-imahp3hyfqda3zsb.jpeg?q=90",
@@ -43229,6 +43422,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:kit",
+   "water:unstated",
    "ing:retinol",
    "ing:vitamin-e",
    "ing:pdrn-polynucleotide",
@@ -43517,7 +43711,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI; Aging — product type, adenosine #11 on INCI; Irritation — centella asiatica extract #8 on INCI, panthenol #10 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI; Aging — product type, adenosine #11 on INCI; Irritation — centella asiatica extract #8 on INCI, panthenol #10 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/n/a/l/20-dr-reju-all-advanced-pdrn-rejuvenating-cream-20-ml-611-original-imahp88kksvkqtfc.jpeg?q=90",
@@ -43533,6 +43728,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:kit",
+   "water:unstated",
    "ing:retinol",
    "ing:snail-mucin",
    "ing:pdrn-polynucleotide",
@@ -43937,7 +44133,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type; Irritation — panthenol #8 on INCI (matching only — not proof it works)"
+   "concernBasis": "Aging — product type; Irritation — panthenol #8 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/h/1/z/100-glass-skin-glow-mist-pdrn-collagen-hyaluronic-acid-facial-original-imahme5upksyx4q7.jpeg?q=90",
@@ -43954,6 +44151,7 @@ const NXPRODUCTS = [
    "format:mist",
    "format:oil",
    "format:pack",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:collagen",
    "ing:vitamin-b5-panthenol",
@@ -44888,7 +45086,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — niacinamide #5 on INCI; Dark spots — niacinamide #5 on INCI; Aging — product type, retinol #7 on INCI, adenosine #14 on INCI; Irritation — ceramide np #9 on INCI, panthenol #10 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #5 on INCI; Dark spots — niacinamide #5 on INCI; Aging — product type, retinol #7 on INCI, adenosine #14 on INCI; Irritation — ceramide np #9 on INCI, panthenol #10 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/s/q/f/15-spicule-retinol-pdrn-cream-korean-retinol-face-cream-for-pore-original-imahzqzhudggcqqe.jpeg?q=90",
@@ -44903,6 +45102,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:retinol",
    "ing:ceramides",
    "ing:pdrn-polynucleotide",
@@ -46546,7 +46746,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61J8fbp9FWL._SL1500_.jpg"
@@ -46557,6 +46758,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
+   "water:unstated",
    "ing:peptides",
    "ing:pdrn-polynucleotide",
    "claim:brightening",
@@ -47354,7 +47556,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51dxBTuDKBL._SL1000_.jpg"
@@ -47365,6 +47568,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
+   "water:unstated",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:peptides",
@@ -47471,7 +47675,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/511Q6+U-+pL._SL1254_.jpg",
@@ -47486,6 +47691,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "ing:centella-cica",
@@ -47586,7 +47792,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51efd16cy4L._SL1254_.jpg",
@@ -47601,6 +47808,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "ing:centella-cica",
@@ -47921,7 +48129,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.2★ from 0 ratings",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71AxMOo4-tL._AC_UL320_.jpg"
@@ -47935,6 +48144,7 @@ const NXPRODUCTS = [
    "format:serum",
    "spf:50",
    "pa:++++",
+   "water:unstated",
    "ing:niacinamide",
    "ing:centella-cica",
    "ing:pdrn-polynucleotide",
@@ -48155,7 +48365,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/618lZ77pfIL._SL1254_.jpg",
@@ -48172,6 +48383,7 @@ const NXPRODUCTS = [
    "format:cream",
    "spf:50+",
    "pa:++++",
+   "water:unstated",
    "ing:niacinamide",
    "ing:pdrn-polynucleotide",
    "claim:brightening",
@@ -48279,7 +48491,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.2★ from 0 ratings",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61lgnQYH8TL._SL1500_.jpg",
@@ -48294,6 +48507,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
+   "water:unstated",
    "ing:kojic-acid",
    "ing:rice-water",
    "ing:exosomes",
@@ -51280,7 +51494,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61vIOqW0ImL._SL1254_.jpg",
@@ -51295,6 +51510,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "ing:peptides",
@@ -53200,7 +53416,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.3★ from 0 ratings",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41TIM41SbiL._SL1024_.jpg",
@@ -53217,6 +53434,7 @@ const NXPRODUCTS = [
    "format:cream",
    "spf:50+",
    "pa:+++",
+   "water:resistant",
    "ing:hyaluronic-acid",
    "ing:glutathione",
    "ing:pdrn-polynucleotide",
@@ -53651,7 +53869,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51kkcL0ge1L._SL1024_.jpg",
@@ -53667,6 +53886,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:cream",
    "format:kit",
+   "water:unstated",
    "ing:niacinamide",
    "ing:pdrn-polynucleotide",
    "claim:acne",
@@ -54586,7 +54806,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "5★ from 0 ratings",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71mov6V8w0L._SL1254_.jpg",
@@ -54602,6 +54823,7 @@ const NXPRODUCTS = [
    "scope:unstated",
    "format:kit",
    "spf:50+",
+   "water:unstated",
    "ing:pdrn-polynucleotide",
    "claim:brightening",
    "claim:dark-spots",
@@ -55932,7 +56154,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51FWGmQAbDL._SL1110_.jpg",
@@ -55948,6 +56171,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:patch",
+   "water:unstated",
    "ing:kojic-acid",
    "ing:alpha-arbutin",
    "ing:pdrn-polynucleotide",
@@ -56628,7 +56852,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "5★ from 0 ratings",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71XPNGYnczL._SL1306_.jpg",
@@ -56644,6 +56869,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:serum",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "ing:peptides",
@@ -57859,7 +58085,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "4.2★ from 0 ratings",
-   "concernBasis": "Acne — niacinamide #2 on INCI; Dark spots — niacinamide #2 on INCI, 3-o-ethyl ascorbic acid #10 on INCI, sodium ascorbyl phosphate #14 on INCI; Aging — product type, 3-o-ethyl ascorbic acid #10 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #2 on INCI; Dark spots — niacinamide #2 on INCI, 3-o-ethyl ascorbic acid #10 on INCI, sodium ascorbyl phosphate #14 on INCI; Aging — product type, 3-o-ethyl ascorbic acid #10 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61Rtb5QKS1L._SL1200_.jpg",
@@ -57875,6 +58102,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:patch",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:collagen",
    "ing:alpha-arbutin",
@@ -65009,7 +65237,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/715bFQknZhL._SL1254_.jpg"
@@ -65021,6 +65250,7 @@ const NXPRODUCTS = [
    "scope:unstated",
    "spf:50+",
    "pa:++++",
+   "water:unstated",
    "ing:niacinamide",
    "ing:pdrn-polynucleotide",
    "claim:brightening",
@@ -66164,7 +66394,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "5★ from 0 ratings",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51T6usspD6L._AC_UL320_.jpg"
@@ -66175,6 +66406,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:serum",
+   "water:unstated",
    "ing:peptides",
    "ing:argireline",
    "ing:pdrn-polynucleotide",
@@ -67381,7 +67613,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "5★ from 0 ratings",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61nYUu6l0vL._SL1500_.jpg"
@@ -67392,6 +67625,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:collagen",
    "ing:pdrn-polynucleotide",
@@ -75056,7 +75290,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "5★ from 0 ratings",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51NJeYYTJCL._SL1080_.jpg",
@@ -75071,6 +75306,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:peptides",
    "ing:collagen",
@@ -75849,7 +76085,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.2★ from 0 ratings",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61k7gEe0nVL._SL1500_.jpg"
@@ -75860,6 +76097,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:peptides",
    "ing:copper-peptide",
@@ -76556,7 +76794,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4★ from 0 ratings",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51CPNS76HSL._SL1439_.jpg",
@@ -76571,6 +76810,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
+   "water:unstated",
    "ing:peptides",
    "ing:collagen",
    "ing:pdrn-polynucleotide",
@@ -77519,6 +77759,500 @@ const NXPRODUCTS = [
     "url": null
    },
    "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "winym-itm9be460b91be48",
+  "brand": "Winym",
+  "model": "Sunscreen - SPF 50 PA+++ SPF 70 PA++++ Salmon PDRN Glow Shield Sunscreen",
+  "price": 599,
+  "capacityLine": "150 g (pack of 3)",
+  "materialLine": "Vitamin C + Rice water + Gold",
+  "featureLine": "Sunscreen · Paraben-free · SPF 50 · ₹399/100g",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "50 g × 3 pack",
+   "pricePer100": "₹399/100g",
+   "format": "Sunscreen",
+   "appliesTo": "Face + body (per listing)",
+   "keyIngredients": "Vitamin C, Rice water, Gold, PDRN / polynucleotide (named on listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Hydrating / moisturizing, Broad spectrum UVA/UVB, Korean / K-beauty, SPF included (seller claim — not clinical proof)",
+   "skinType": "All skin types",
+   "sunProtection": "SPF 50 · PA+++ (as labelled)",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/1/d/z/50-spf-70-pa-salmon-pdrn-glow-boost-sunscreen-50-venvo-original-imahm23hdzxr7f6b.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/y/z/y/50-spf-70-pa-salmon-pdrn-soft-glow-sunscreen-50-venvo-original-imahm23hgcn8x4k8.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/2/2/6/50-spf-70-pa-salmon-pdrn-soft-glow-sunscreen-50-venvo-original-imahm23h4g3dedmw.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/v/y/c/50-spf-70-pa-salmon-pdrn-soft-glow-sunscreen-50-venvo-original-imahm23hy7fwfga9.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/6/t/h/120-spf-50-pa-mineral-based-face-shield-gel-pack-of-2-50-winym-original-imahhhejzerkwbzx.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/winym-sunscreen-spf-50-pa-shield-70-pa-salmon-pdrn-calm-care-uv/p/itm9be460b91be48",
+  "buyStore": "Flipkart",
+  "title": "Winym Sunscreen - SPF 50 PA+++ SPF 70 PA++++ Salmon PDRN Glow Shield Sunscreen",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:kit",
+   "spf:50",
+   "pa:+++",
+   "water:unstated",
+   "ing:vitamin-c",
+   "ing:rice-water",
+   "ing:gold",
+   "ing:pdrn-polynucleotide",
+   "claim:brightening",
+   "claim:hydrating",
+   "claim:broad-spectrum",
+   "claim:korean",
+   "claim:spf-claim",
+   "skin:all",
+   "free:paraben",
+   "free:vegan",
+   "aud:women",
+   "size:large",
+   "rating:none",
+   "store:flipkart",
+   "target:aging",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "mighty-theory-b0h3cjy4fz",
+  "brand": "MIGHTY THEORY",
+  "model": "Mighty Shield Sunscreen SPF 50+ PA+++ for Face | Broad Spectrum UVA & UVB Protection | No …",
+  "price": 552,
+  "capacityLine": "50 ml",
+  "materialLine": "Ceramides + Rice water + Centella / cica",
+  "featureLine": "Sunscreen · Fragrance-free · SPF 50 · ₹1104/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 1 ingredient named — formula unscored",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 5
+  },
+  "fullSpec": {
+   "quantity": "50 ml",
+   "pricePer100": "₹1104/100ml",
+   "format": "Sunscreen",
+   "appliesTo": "Face (per listing)",
+   "keyIngredients": "Ceramides, Rice water, Centella / cica, Vitamin B5 / panthenol, Exosomes (named on listing)",
+   "freeFrom": "Fragrance-free, Alcohol-free (seller claim — not scored)",
+   "dermTested": "Dermatologically tested (seller claim — not scored)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Dark spots / pigmentation, Hydrating / moisturizing, Barrier repair, Soothing / calming, No white cast, Broad spectrum UVA/UVB, Lightweight / fast-absorbing, SPF included, Makeup-related (setting / priming / removing) (seller claim — not clinical proof)",
+   "skinType": "Oily skin, Combination skin, Sensitive skin, All skin types",
+   "sunProtection": "SPF 50 · PA+++ (as labelled)",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: Cica Exosomes. Rice Extract. Kakadu Plum Extract. Ceramide NP. Panthenol",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "5★ from 0 ratings",
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51CGIhX30yL._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/61c6kh0L5EL._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/61gYD0cqRpL._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/61zl7vahWPL._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/51UJQ-zT1vL._SL1200_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H3CJY4FZ",
+  "buyStore": "Amazon",
+  "title": "Mighty Shield Sunscreen SPF 50+ PA+++ for Face | Broad Spectrum UVA & UVB Protection | No White Cast, Lightweight & Fast-Absorbing | Cica Exosomes, Ceramide & Panthenol | Fragrance-Free Face Sunscreen | For Oily, Dry & Sensitive Skin | Men & Women | 50ml",
+  "tags": [
+   "scope:face",
+   "spf:50+",
+   "pa:+++",
+   "water:unstated",
+   "ing:ceramides",
+   "ing:rice-water",
+   "ing:centella-cica",
+   "ing:vitamin-b5-panthenol",
+   "ing:exosomes",
+   "claim:dark-spots",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:soothing",
+   "claim:no-white-cast",
+   "claim:broad-spectrum",
+   "claim:lightweight",
+   "claim:spf-claim",
+   "claim:makeup",
+   "skin:oily",
+   "skin:combination",
+   "skin:sensitive",
+   "skin:all",
+   "free:fragrance",
+   "free:alcohol",
+   "free:derm",
+   "free:sensitive-safe",
+   "aud:women",
+   "size:travel",
+   "rating:4.5",
+   "store:amazon",
+   "target:aging",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": true,
+   "derm": true,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Cica Exosomes. Rice Extract. Kakadu Plum Extract. Ceramide NP. Panthenol",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "5★ from 0 ratings"
+  }
+ },
+ {
+  "id": "trisatva-b0ggcw9bg5",
+  "brand": "Trisatva",
+  "model": "Exoray Exosome Sunscreen SPF 50 PA++++ Face Gel Cream | Invisible Matte Finish for Men & W…",
+  "price": 495,
+  "capacityLine": "50 g",
+  "materialLine": "Collagen + Exosomes",
+  "featureLine": "Sunscreen · SPF 50 · ₹990/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 5
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹990/100g",
+   "format": "Sunscreen",
+   "appliesTo": "Face (per listing)",
+   "keyIngredients": "Collagen, Exosomes (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Non-comedogenic (seller claim — not scored)",
+   "benefit": "Brightening / glow, Dark spots / pigmentation, Acne / pimples, Oil control / matte / non-greasy, Barrier repair, Exfoliating, Water / sweat resistant, No white cast, Blue light protection, Lightweight / fast-absorbing, SPF included, Makeup-related (setting / priming / removing) (seller claim — not clinical proof)",
+   "skinType": "Oily skin, Sensitive skin, Acne-prone",
+   "sunProtection": "SPF 50 · PA++++ (as labelled)",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "5★ from 0 ratings",
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistant / waterproof (duration not stated), sweat resistant, marketed for swim / sport / outdoors (per listing — not tested here, not scored)"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71-xOzetKiL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71GvALkDQaL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71oegcRR5sL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81vjQDMc1UL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81CmyPGVLrL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GGCW9BG5",
+  "buyStore": "Amazon",
+  "title": "Exoray Exosome Sunscreen SPF 50 PA++++ Face Gel Cream | Invisible Matte Finish for Men & Women | New Gen Filters, Blue Light & Infrared Defense | Water Resistant, Non Oily, No White Cast (50g)",
+  "tags": [
+   "scope:face",
+   "format:gel",
+   "format:cream",
+   "format:oil",
+   "spf:50",
+   "pa:++++",
+   "sun:hybrid",
+   "water:resistant",
+   "water:sweat",
+   "water:sport",
+   "ing:collagen",
+   "ing:exosomes",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:acne",
+   "claim:oil-control",
+   "claim:barrier",
+   "claim:exfoliating",
+   "claim:water-resistant",
+   "claim:no-white-cast",
+   "claim:blue-light",
+   "claim:lightweight",
+   "claim:spf-claim",
+   "claim:makeup",
+   "skin:oily",
+   "skin:sensitive",
+   "skin:acne-prone",
+   "free:non-comedogenic",
+   "free:sensitive-safe",
+   "aud:women",
+   "size:travel",
+   "rating:4.5",
+   "store:amazon",
+   "target:aging",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "5★ from 0 ratings"
+  }
+ },
+ {
+  "id": "solved-labs-b0g1mg7g4v",
+  "brand": "Solved Labs",
+  "model": "Rose Veil Sunscreen Spray/Mist | SPF50 PA++++ | Rose Water & PDRN, Niacinamide & Brighteni…",
+  "price": 599,
+  "capacityLine": "100 ml",
+  "materialLine": "Niacinamide + Peptides + Rose",
+  "featureLine": "Sunscreen · SPF 50 · ₹599/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.9
+  },
+  "fullSpec": {
+   "quantity": "100 ml",
+   "pricePer100": "₹599/100ml",
+   "format": "Sunscreen",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Niacinamide, Peptides, Rose, PDRN / polynucleotide (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Dark spots / pigmentation, Barrier repair, Broad spectrum UVA/UVB, Lightweight / fast-absorbing, SPF included (seller claim — not clinical proof)",
+   "skinType": "All skin types",
+   "sunProtection": "SPF 50 · PA++++ (as labelled)",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.3/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/41INHgITCkL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/71hywj1TOBL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71WOmZJlPSL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61tGg5d3ugL._SL1420_.jpg",
+   "https://m.media-amazon.com/images/I/81cpG9IYffL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0G1MG7G4V",
+  "buyStore": "Amazon",
+  "title": "Solved Labs Rose Veil Sunscreen Spray/Mist | SPF50 PA++++ | Rose Water & PDRN, Niacinamide & Brightening Peptides | Lightweight UV Protection Spray Sunscreen | For All Skin Types | 100ml",
+  "tags": [
+   "scope:unstated",
+   "format:mist",
+   "spf:50",
+   "pa:++++",
+   "water:unstated",
+   "ing:niacinamide",
+   "ing:peptides",
+   "ing:rose",
+   "ing:pdrn-polynucleotide",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:barrier",
+   "claim:broad-spectrum",
+   "claim:lightweight",
+   "claim:spf-claim",
+   "skin:all",
+   "aud:unisex",
+   "size:standard",
+   "rating:4.0",
+   "store:amazon",
+   "target:aging",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.3★ from 0 ratings"
   }
  }
 ];

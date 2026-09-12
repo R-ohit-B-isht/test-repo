@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-11.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-12.
 // Unknown fields are honestly marked, never invented.
 const NXPRODUCTS = [
  {
@@ -45,7 +45,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/m/i/o/barrier-repair-lip-balm-underarm-roll-on-mineral-sunscreen-spray-original-imahnefkcyykdqhd.jpeg?q=90",
@@ -66,6 +67,7 @@ const NXPRODUCTS = [
    "format:kit",
    "spf:50",
    "sun:mineral",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
@@ -274,7 +276,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/5/q/e/spf-50-pa-sunscreen-with-tinted-beetroot-lip-balm-barrier-repair-original-imahndphgmyqacr4.jpeg?q=90",
@@ -295,6 +298,7 @@ const NXPRODUCTS = [
    "spf:50",
    "pa:++++",
    "sun:mineral",
+   "water:unstated",
    "ing:cocoa-butter",
    "ing:beetroot",
    "claim:hydrating",
@@ -493,7 +497,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "WishCare — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.5★ from 934 ratings"
+   "buyerEvidence": "4.5★ from 934 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/t/s/v/10-tinted-ceramide-lip-balm-with-spf50-pa-kojic-acid-niacinamide-original-imahpgvfcdmnncwk.jpeg?q=90",
@@ -511,6 +516,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:kojic-acid",
@@ -604,7 +610,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 18 ratings"
+   "buyerEvidence": "4.1★ from 18 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/m/7/c/5-tinted-ceramide-lip-balm-with-spf50-pa-kojic-acid-niacinamide-original-imah97q9unsqrmnd.jpeg?q=90",
@@ -622,6 +629,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:kojic-acid",
@@ -718,7 +726,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/4/j/y/5-ceramide-lip-balm-ceramide-lip-balm-for-dry-lips-with-shea-original-imahnjejthfuxakw.jpeg?q=90",
@@ -736,6 +745,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:ceramides",
    "ing:kojic-acid",
    "ing:shea-butter",
@@ -833,7 +843,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "WishCare — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.4★ from 293 ratings"
+   "buyerEvidence": "4.4★ from 293 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/v/6/w/5-tinted-ceramide-lip-balm-with-spf50-pa-kojic-acid-niacinamide-original-imahzqpfjsjvmjae.jpeg?q=90",
@@ -851,6 +862,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:50",
    "pa:++++",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:kojic-acid",
@@ -946,7 +958,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 11,768 ratings"
+   "buyerEvidence": "4.2★ from 11,768 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/t/r/a/5-kojic-acid-ceramide-spf-50-pa-cherry-red-lip-balm-for-original-imahhgpfshbgvutf.jpeg?q=90",
@@ -966,6 +979,7 @@ const NXPRODUCTS = [
    "spf:50",
    "pa:+++",
    "sun:chemical",
+   "water:unstated",
    "ing:ceramides",
    "ing:kojic-acid",
    "ing:almond",
@@ -1062,7 +1076,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 7,356 ratings"
+   "buyerEvidence": "4.1★ from 7,356 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/e/s/l/5-kojic-acid-ceramide-spf-50-pa-natural-lip-balm-for-pigmented-original-imahhgqxa7m4g5vb.jpeg?q=90",
@@ -1082,6 +1097,7 @@ const NXPRODUCTS = [
    "spf:50",
    "pa:+++",
    "sun:chemical",
+   "water:unstated",
    "ing:ceramides",
    "ing:kojic-acid",
    "ing:almond",
@@ -1177,7 +1193,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
    "declaredManufacturer": "VIVA COSMETICS 709/7th Floor Opal Square, Plot No. C-1, Road No. 1, Thane Indl Area, MIDC,Wagle Estate, Thane Thane Maharashtra 400604 GSTIN: 27ABVPT7080R1Z8 (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.4★ from 38,167 ratings"
+   "buyerEvidence": "4.4★ from 38,167 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/minutes_enrichment_original/-enriched-original-LPBH39FGWJVH7ERG_0.jpg?q=90",
@@ -1193,6 +1210,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:balm",
    "spf:50",
+   "water:unstated",
    "ing:cherry-acerola",
    "claim:hydrating",
    "claim:barrier",
@@ -3120,7 +3138,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/p/m/g/vitamin-c-serum-lip-balm-2-nms30-nmlb5-nueman-original-imahkvwqwwz47d4f.jpeg?q=90",
@@ -3144,6 +3163,7 @@ const NXPRODUCTS = [
    "format:kit",
    "spf:50",
    "sun:mineral",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -3350,7 +3370,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/s/h/t/10-pdrn-lip-care-serum-with-hyaluronic-acid-collagen-10ml-anua-original-imahqngphbnhsehs.jpeg?q=90",
@@ -3366,6 +3387,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:collagen",
    "ing:pdrn-polynucleotide",
@@ -3764,7 +3786,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/o/a/b/10-pdrn-lip-serum-for-long-lasting-hydration-soft-lips-10ml-anua-original-imahqnj4tza7gsrk.jpeg?q=90",
@@ -3780,6 +3803,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:collagen",
    "ing:pdrn-polynucleotide",
@@ -3874,7 +3898,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/e/l/f/10-anua-pdrn-lip-serum-10ml-anua-original-imahqhwkdshkzpcn.jpeg?q=90",
@@ -3890,6 +3915,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:collagen",
    "ing:pdrn-polynucleotide",
@@ -3984,7 +4010,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/o/w/v/10-pdrn-non-sticky-moisturizing-lip-serum-for-dry-lips-10ml-anua-original-imahqngzqdggcxct.jpeg?q=90",
@@ -4000,6 +4027,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:collagen",
    "ing:pdrn-polynucleotide",
@@ -4312,7 +4340,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/a/a/z/face-wash-lip-balm-2-nmf100-nmlb5-nueman-original-imahkvxa7hrgvhqm.jpeg?q=90",
@@ -4338,6 +4367,7 @@ const NXPRODUCTS = [
    "format:kit",
    "spf:50",
    "sun:mineral",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -6719,7 +6749,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Hard abrasive particles (face): polyethylene (−0.8)",
    "maker": "Maker not verified (no parent company found)",
    "declaredManufacturer": "VIVA Cosmetics, Regd. Oce & Factory AT: C-1/ 1 & 2, RIC, Asangaon, Shahapur, Thane - 421601. (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.2★ from 52,312 ratings"
+   "buyerEvidence": "4.2★ from 52,312 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/h/z/8/-original-imahhcbm8nmqcqyu.jpeg?q=90",
@@ -6734,6 +6765,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:balm",
+   "water:unstated",
    "ing:cherry-acerola",
    "ing:sugar",
    "claim:hydrating",
@@ -6869,7 +6901,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Deconstruct Skincare — Indian D2C brand with its own product company",
    "declaredManufacturer": "Baypure Lifestyle Private Limited (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4★ from 61,107 ratings"
+   "buyerEvidence": "4★ from 61,107 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/5/q/l/4-2-brightening-lip-balm-spf-50-moisturizes-brightens-lips-1-enriched-transparent-original-imahjg6uqghzehqr.png?q=90",
@@ -6885,6 +6918,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:balm",
    "spf:50",
+   "water:unstated",
    "claim:brightening",
    "claim:hydrating",
    "claim:tinted",
@@ -7380,7 +7414,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "declaredManufacturer": "VIVA Cosmetics, Regd. Oce & Factory AT: C-1/ 1 & 2, RIC, Asangaon, Shahapur, Thane - 421601. (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.3★ from 36,056 ratings"
+   "buyerEvidence": "4.3★ from 36,056 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/minutes_enrichment_original/-enriched-original-LPBGFZJJFZYGZHDF_0.jpg?q=90",
@@ -7395,6 +7430,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:balm",
+   "water:unstated",
    "ing:strawberry",
    "ing:sugar",
    "claim:hydrating",
@@ -7790,7 +7826,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
    "declaredManufacturer": "Sprivil Healthcare Pvt Ltd. L 1/ 4 Addl MIDC, Satara , 415004 M.L. No. MH/105105 (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.2★ from 24,091 ratings"
+   "buyerEvidence": "4.2★ from 24,091 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/d/j/f/12-strawberry-lip-balm-for-moisturization-soft-naturally-pink-enriched-transparent-original-imahh9wasu6yng45.png?q=90",
@@ -7806,6 +7843,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:balm",
    "spf:50",
+   "water:unstated",
    "ing:strawberry",
    "claim:hydrating",
    "claim:spf-claim",
@@ -8134,7 +8172,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "declaredManufacturer": "VEDIK TREE AYURVEDA- C-84, Sector-4, Bawana DSIIDC, Delhi-110039, India (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4★ from 23,541 ratings"
+   "buyerEvidence": "4★ from 23,541 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/t/h/v/5-beetroot-lip-balm-with-spf-15-shea-butter-for-nourished-lips-1-original-imahqh8wwwehu7gh.jpeg?q=90",
@@ -8151,6 +8190,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:wash",
    "spf:15",
+   "water:unstated",
    "ing:shea-butter",
    "ing:beetroot",
    "claim:hydrating",
@@ -8241,7 +8281,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
    "declaredManufacturer": "VIVA COSMETICS 709/7th Floor Opal Square, Plot No. C-1, Road No. 1, Thane Indl Area, MIDC,Wagle Estate, Thane Thane Maharashtra 400604 GSTIN: 27ABVPT7080R1Z8 (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.5★ from 21,504 ratings"
+   "buyerEvidence": "4.5★ from 21,504 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/minutes_enrichment_original/-enriched-original-LPBHF567XMZHYFXH_0.jpg?q=90",
@@ -8258,6 +8299,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:50+",
    "pa:+++",
+   "water:unstated",
    "claim:spf-claim",
    "aud:unisex",
    "rating:4.5",
@@ -8544,7 +8586,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "declaredManufacturer": "Oxys Beauty Pvt Ltd (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.1★ from 14,974 ratings"
+   "buyerEvidence": "4.1★ from 14,974 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/n/6/l/-original-imagru74rexwahyb.jpeg?q=90",
@@ -8559,6 +8602,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:balm",
+   "water:unstated",
    "ing:rose",
    "ing:shea-butter",
    "claim:hydrating",
@@ -8650,7 +8694,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Hard abrasive particles (face): polyethylene (−0.8)",
    "maker": "Maker not verified (no parent company found)",
    "declaredManufacturer": "Vellvette Lifestyle Private Limited B-1004, Palatial Heights, Chandivali Farm Road, Andheri East, Mumbai - 400072 (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.3★ from 15,956 ratings"
+   "buyerEvidence": "4.3★ from 15,956 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/n/m/x/-enriched-transparent-original-imahhcbhfwfv8vrd.png?q=90",
@@ -8665,6 +8710,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:balm",
+   "water:unstated",
    "ing:shea-butter",
    "ing:sugar",
    "claim:hydrating",
@@ -8908,7 +8954,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
    "declaredManufacturer": "VIVA COSMETICS 709/7th Floor Opal Square, Plot No. C-1, Road No. 1, Thane Indl Area, MIDC,Wagle Estate, Thane Thane Maharashtra 400604 GSTIN: 27ABVPT7080R1Z8 (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.3★ from 13,678 ratings"
+   "buyerEvidence": "4.3★ from 13,678 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/minutes_enrichment_original/-enriched-original-LPBH39G2YCRDVFMN_0.jpg?q=90",
@@ -8924,6 +8971,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:balm",
    "spf:50",
+   "water:unstated",
    "ing:strawberry",
    "claim:hydrating",
    "claim:barrier",
@@ -9116,7 +9164,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 13,619 ratings"
+   "buyerEvidence": "4.2★ from 13,619 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/c/f/5/4-5-cherry-lip-balm-spf15-nourish-protect-dry-chapped-lips-1-original-imahzz9knfyyshyz.jpeg?q=90",
@@ -9133,6 +9182,7 @@ const NXPRODUCTS = [
    "format:stick",
    "format:balm",
    "spf:15",
+   "water:unstated",
    "ing:rose",
    "ing:almond",
    "ing:cherry-acerola",
@@ -9635,7 +9685,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
    "declaredManufacturer": "VIVA COSMETICS,709/7th Floor Opal Square, Plot No. C-1, Road No. 1, Thane Indl Area, MIDC,Wagle Estate, Thane Thane Maharashtra 400604 GSTIN: 27ABVPT7080R1Z8 (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.4★ from 10,488 ratings"
+   "buyerEvidence": "4.4★ from 10,488 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/minutes_enrichment_original/-enriched-original-LPBHF55JMD4DY7ZU_0.jpg?q=90",
@@ -9652,6 +9703,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:50+",
    "pa:+++",
+   "water:unstated",
    "ing:strawberry",
    "claim:spf-claim",
    "aud:unisex",
@@ -9838,7 +9890,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
    "declaredManufacturer": "Sprivil Healthcare Pvt Ltd. L 1/ 4 Addl MIDC, Satara , 415004 M.L. No. MH/105105 (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.2★ from 10,724 ratings"
+   "buyerEvidence": "4.2★ from 10,724 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-lip-balm/v/y/v/12-spf-50-lip-balm-for-moisturization-soft-naturally-pink-lips-enriched-transparent-original-imahk686smazp2hf.png?q=90",
@@ -9854,6 +9907,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:balm",
    "spf:50",
+   "water:unstated",
    "ing:cherry-acerola",
    "claim:hydrating",
    "claim:spf-claim",
@@ -10045,7 +10099,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
    "declaredManufacturer": "Sprivil Healthcare Pvt Ltd L - 1/4 , Addl. MIDC Satara - 415004, Maharashtra Satara Maharashtra 415004 GSTIN: 27AAKCS3923R1ZL (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.3★ from 10,318 ratings"
+   "buyerEvidence": "4.3★ from 10,318 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/minutes_enrichment_original/-enriched-original-LPBGTQZXVEDG9CFD_0.jpg?q=90",
@@ -10061,6 +10116,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:balm",
    "pa:+++",
+   "water:unstated",
    "ing:ceramides",
    "ing:peptides",
    "ing:strawberry",
@@ -10348,7 +10404,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
    "declaredManufacturer": "VIVA COSMETICS 709/7th Floor Opal Square, Plot No. C-1, Road No. 1, Thane Indl Area, MIDC,Wagle Estate, Thane Thane Maharashtra 400604 GSTIN: 27ABVPT7080R1Z8 (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.4★ from 9,383 ratings"
+   "buyerEvidence": "4.4★ from 9,383 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/minutes_enrichment_original/-enriched-original-LPBH39DW6AF4UESP_0.jpg?q=90",
@@ -10364,6 +10421,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:balm",
    "spf:50",
+   "water:unstated",
    "ing:cocoa-butter",
    "claim:hydrating",
    "claim:barrier",
@@ -10454,7 +10512,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 9,192 ratings"
+   "buyerEvidence": "4.2★ from 9,192 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/l/a/x/5-kojic-acid-ceramide-spf-50-pa-light-rosy-lip-balm-for-original-imahhgqvna4phheh.jpeg?q=90",
@@ -10474,6 +10533,7 @@ const NXPRODUCTS = [
    "spf:50",
    "pa:+++",
    "sun:chemical",
+   "water:unstated",
    "ing:ceramides",
    "ing:kojic-acid",
    "ing:almond",
@@ -10672,7 +10732,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "declaredManufacturer": "(A)- Onesto Labs Private Limited, Plot No. 309, Sector-06, IMT Manesar, Gurugram, Haryana-122052 Mfg. Lic. No.: COS8HR2023000002 (B)- A.G. Organica Pvt. Ltd., C11, Block C. Sector 85 Noida-201305, UP Mfg Lic. No.: UP16320000028 (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.1★ from 9,025 ratings"
+   "buyerEvidence": "4.1★ from 9,025 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/minutes_enrichment_original/-enriched-original-LPBHDJ5JRUUVQSRT_0.jpg?q=90",
@@ -10689,6 +10750,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:50",
    "pa:++++",
+   "water:unstated",
    "claim:brightening",
    "claim:barrier",
    "claim:spf-claim",
@@ -10986,7 +11048,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/t/r/a/5-kojic-acid-ceramide-spf-50-pa-cherry-red-lip-balm-for-original-imahhgpfshbgvutf.jpeg?q=90",
@@ -11001,6 +11064,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:balm",
+   "water:unstated",
    "ing:shea-butter",
    "ing:sugar",
    "claim:hydrating",
@@ -11387,7 +11451,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
    "declaredManufacturer": "VIVA COSMETICS 709/7th Floor Opal Square, Plot No. C-1, Road No. 1, Thane Indl Area, MIDC,Wagle Estate, Thane Thane Maharashtra 400604 GSTIN: 27ABVPT7080R1Z8 (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.4★ from 7,677 ratings"
+   "buyerEvidence": "4.4★ from 7,677 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/minutes_enrichment_original/-enriched-original-LPBH39GS7RFDBGHH_0.jpg?q=90",
@@ -11403,6 +11468,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:balm",
    "spf:50",
+   "water:unstated",
    "claim:hydrating",
    "claim:barrier",
    "claim:tinted",
@@ -11596,7 +11662,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Fixderma India (dermatology company) — Dermatology / pharmaceutical manufacturer",
    "declaredManufacturer": "Fixderma India Pvt Ltd. F-170, E.P.I.P. Zone, Neemrana, Disst. Alwar, Rajasthan - 301705, India (+91 9999979839) (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.1★ from 7,481 ratings"
+   "buyerEvidence": "4.1★ from 7,481 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/n/9/6/15-spf-50-lip-balm-pa-4-kojic-acid-brightening-lip-balm-with-1-original-imahaf4589znu4zz.jpeg?q=90",
@@ -11613,6 +11680,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:50+",
    "pa:+++",
+   "water:unstated",
    "ing:kojic-acid",
    "ing:alpha-arbutin",
    "ing:coconut",
@@ -11703,7 +11771,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 7,386 ratings"
+   "buyerEvidence": "4.1★ from 7,386 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/m/r/2/-original-imahgk8jefhdgdwy.jpeg?q=90",
@@ -11720,6 +11789,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "spf:30",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:jojoba",
    "ing:coconut",
@@ -12123,7 +12193,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Fixderma India (dermatology company) — Dermatology / pharmaceutical manufacturer",
    "declaredManufacturer": "Fixderma India Pvt Ltd. F-170,E.P.I.P. zone,Neemrana, Disst. Alwar, Rajasthan - 301705, India (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "3.9★ from 5,949 ratings"
+   "buyerEvidence": "3.9★ from 5,949 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/t/i/u/15-shadow-spf-50-lip-shield-sunscreen-lip-balm-prevents-original-imahfzfhjgg8f7g9.jpeg?q=90",
@@ -12139,6 +12210,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:balm",
    "spf:50",
+   "water:unstated",
    "claim:dark-spots",
    "claim:spf-claim",
    "aud:unisex",
@@ -12227,7 +12299,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
    "declaredManufacturer": "Sprivil Healthcare Pvt Ltd L - 1/4 , Addl. MIDC Satara - 415004, Maharashtra Satara Maharashtra 415004 GSTIN: 27AAKCS3923R1ZL (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.3★ from 5,686 ratings"
+   "buyerEvidence": "4.3★ from 5,686 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/minutes_enrichment_original/-enriched-original-LPBGTRY5ZC8H7V3F_0.jpg?q=90",
@@ -12242,6 +12315,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:balm",
+   "water:unstated",
    "ing:ceramides",
    "ing:peptides",
    "claim:barrier",
@@ -12330,7 +12404,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Marico (Plix) — Established / listed Indian FMCG house",
-   "buyerEvidence": "4.1★ from 5,857 ratings"
+   "buyerEvidence": "4.1★ from 5,857 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/2/b/j/4-pineapple-brightening-lip-balm-with-spf-50-kojic-acid-vitamin-original-imahe296rwbqf6qe.jpeg?q=90",
@@ -12346,6 +12421,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:balm",
    "spf:50",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:kojic-acid",
    "claim:brightening",
@@ -12434,7 +12510,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Deconstruct Skincare — Indian D2C brand with its own product company",
    "declaredManufacturer": "Baypure Lifestyle Private Limited (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.2★ from 6,085 ratings"
+   "buyerEvidence": "4.2★ from 6,085 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/c/r/j/4-2-brightening-lip-balm-spf-50-brightens-dark-lips-moisturizes-original-imahz3zj3mradztr.jpeg?q=90",
@@ -12450,6 +12527,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:balm",
    "spf:50",
+   "water:unstated",
    "claim:brightening",
    "claim:hydrating",
    "claim:tinted",
@@ -12539,7 +12617,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
    "declaredManufacturer": "Sprivil Healthcare Pvt Ltd L - 1/4 , Addl. MIDC Satara - 415004, Maharashtra Satara Maharashtra 415004 GSTIN: 27AAKCS3923R1ZL (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.3★ from 5,700 ratings"
+   "buyerEvidence": "4.3★ from 5,700 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/minutes_enrichment_original/-enriched-original-LPBGTRYFRNHEPHMX_0.jpg?q=90",
@@ -12555,6 +12634,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:balm",
    "pa:+++",
+   "water:unstated",
    "ing:ceramides",
    "ing:peptides",
    "claim:barrier",
@@ -12645,7 +12725,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Beiersdorf — Global FMCG or beauty group",
    "declaredManufacturer": "Nivea India Pvt Ltd. (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.3★ from 5,396 ratings"
+   "buyerEvidence": "4.3★ from 5,396 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/p/j/y/-original-imahg98bzhjczv4a.jpeg?q=90",
@@ -12662,6 +12743,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:kit",
    "spf:15",
+   "water:unstated",
    "claim:spf-claim",
    "aud:men",
    "size:travel",
@@ -13299,7 +13381,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
    "declaredManufacturer": "SPRIVIL HEALTHCARE PVT.LTD L-1/4, ADDITIONAL MIDC SATARA MAHARASHTRA 415004 Maharashtra - 415004, India UDYAM Reg No. : UDYAM-MH-30-0002556 (Micro) GSTIN No- 27AAKCS3923R1ZL (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.3★ from 4,626 ratings"
+   "buyerEvidence": "4.3★ from 4,626 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/s/t/h/-original-imahjzdq27s8q9qa.jpeg?q=90",
@@ -13316,6 +13399,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:50+",
    "pa:+++",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:watermelon",
    "claim:tinted",
@@ -13405,7 +13489,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "declaredManufacturer": "Janki Herbal Pvt. Ltd. Plot No.69, 70, 71, Govindji Industrial Estate - 1, Makna - Valan Road, Valan, Dist: Surat, Gujarat - 394525. Mfg. Lic. No. GC/1804 (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "3.8★ from 4,546 ratings"
+   "buyerEvidence": "3.8★ from 4,546 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/7/p/c/5-tinted-lip-balm-with-spf-50-pa-kojic-acid-ceramide-for-lip-original-imahz8r6mkx4qqu9.jpeg?q=90",
@@ -13422,6 +13507,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:ceramides",
    "ing:kojic-acid",
    "claim:brightening",
@@ -13732,7 +13818,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.9★ from 4,333 ratings"
+   "buyerEvidence": "3.9★ from 4,333 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/e/t/4/5-multifunctional-salem-lip-lightening-balm-with-niacinamide-1-original-imahqv6zw5uqnmnp.jpeg?q=90",
@@ -13752,6 +13839,7 @@ const NXPRODUCTS = [
    "format:body-wax",
    "spf:50",
    "pa:++",
+   "water:unstated",
    "ing:niacinamide",
    "ing:rose",
    "ing:almond",
@@ -13850,7 +13938,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "declaredManufacturer": "Yash Medicare Pvt. Ltd. Near Sabar Dairy, Talod Road PO. Hajipur, Ta. Himatnagar-383006,Gujarat (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.2★ from 4,068 ratings"
+   "buyerEvidence": "4.2★ from 4,068 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/a/c/x/10-lip-care-lip-balm-spf-15-1-chaptex-original-imaha3hfc3kbyfms.jpeg?q=90",
@@ -13866,6 +13955,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:balm",
    "spf:15",
+   "water:unstated",
    "claim:hydrating",
    "claim:spf-claim",
    "claim:dry-skin-relief",
@@ -13955,7 +14045,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
-   "buyerEvidence": "4.3★ from 4,128 ratings"
+   "buyerEvidence": "4.3★ from 4,128 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/minutes_enrichment_original/-enriched-original-LPBGJH6XZATHDGRV_0.jpg?q=90",
@@ -13971,6 +14062,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:balm",
    "spf:30",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "claim:hydrating",
@@ -14477,7 +14569,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Foxtale Consumer — Indian D2C brand with its own product company",
    "declaredManufacturer": "Kain Cosmeceuticals Pvt. Ltd (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.2★ from 3,535 ratings"
+   "buyerEvidence": "4.2★ from 3,535 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/e/o/5/-original-imahhcbmv4e2zd9y.jpeg?q=90",
@@ -14493,6 +14586,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:balm",
    "spf:30",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
    "ing:peptides",
@@ -14582,7 +14676,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 3,600 ratings"
+   "buyerEvidence": "4.2★ from 3,600 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/d/d/x/-original-imahr49wzgfmxjsb.jpeg?q=90",
@@ -14599,6 +14694,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:50",
    "pa:++++",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:kojic-acid",
    "claim:dark-spots",
@@ -15000,7 +15096,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "declaredManufacturer": "7Days Organic Pvt LTD (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.2★ from 3,050 ratings"
+   "buyerEvidence": "4.2★ from 3,050 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/l/g/r/5-ceramide-lip-balm-spf-30-strawberry-flavour-natural-lip-care-original-imahk9qbtxgnfckh.jpeg?q=90",
@@ -15016,6 +15113,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:balm",
    "spf:30",
+   "water:unstated",
    "ing:ceramides",
    "ing:strawberry",
    "claim:hydrating",
@@ -15104,7 +15202,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "declaredManufacturer": "VIVA Cosmetics, Regd. Oce & Factory AT: C-1/ 1 & 2, RIC, Asangaon, Shahapur, Thane - 421601. (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.2★ from 3,012 ratings"
+   "buyerEvidence": "4.2★ from 3,012 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/b/p/l/4-5-nourishing-lip-balm-01-mint-moisturizing-spf-protection-original-imahqhawht9cnxds.jpeg?q=90",
@@ -15119,6 +15218,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:balm",
+   "water:unstated",
    "ing:sugar",
    "claim:hydrating",
    "claim:makeup",
@@ -15412,7 +15512,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
    "declaredManufacturer": "VIVA COSMETICS 709/7th Floor Opal Square, Plot No. C-1, Road No. 1, Thane Indl Area, MIDC,Wagle Estate, Thane Thane Maharashtra 400604 GSTIN: 27ABVPT7080R1Z8 (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.5★ from 2,739 ratings"
+   "buyerEvidence": "4.5★ from 2,739 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/t/x/7/4-meltie-lip-balm-spf-50-pa-cocoa-creme-1-dot-key-original-imahzu5mgvs6knha.jpeg?q=90",
@@ -15430,6 +15531,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:50+",
    "pa:+++",
+   "water:unstated",
    "ing:cocoa-butter",
    "claim:spf-claim",
    "aud:unisex",
@@ -16149,7 +16251,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Deconstruct Skincare — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.1★ from 1,994 ratings"
+   "buyerEvidence": "4.1★ from 1,994 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/o/7/2/8-4-brightening-lip-balm-spf-50-brightens-dark-lips-moisturizes-original-imahm8qfff2guykc.jpeg?q=90",
@@ -16166,6 +16269,7 @@ const NXPRODUCTS = [
    "format:stick",
    "format:balm",
    "spf:50",
+   "water:unstated",
    "ing:vitamin-c",
    "claim:brightening",
    "claim:hydrating",
@@ -17300,7 +17404,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "declaredManufacturer": "Palsons Derma Pvt. Ltd.,E7-92 / New, Biren Roy Road (West), Kolkata - 700061 (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.3★ from 1,515 ratings"
+   "buyerEvidence": "4.3★ from 1,515 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/j/1/m/10-nmfe-moisturising-lip-care-10-gm-spf-40-1-nmf-e-original-imahpzfvrufzzy47.jpeg?q=90",
@@ -17315,6 +17420,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "spf:40",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:vitamin-e",
    "claim:hydrating",
@@ -17609,7 +17715,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
    "declaredManufacturer": "Sprivil Healthcare Pvt Ltd. L 1/ 4 Addl MIDC, Satara , 415004 M.L. No. MH/105105 (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.2★ from 1,481 ratings"
+   "buyerEvidence": "4.2★ from 1,481 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/v/9/p/12-gloss-lip-balm-spf-30-i-vitamin-c-e-i-non-tinted-1-dot-key-original-imah5wvyznq75zvz.jpeg?q=90",
@@ -17625,6 +17732,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:balm",
    "spf:50",
+   "water:unstated",
    "claim:hydrating",
    "claim:tinted",
    "claim:spf-claim",
@@ -17864,7 +17972,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "declaredManufacturer": "7Days Organic Pvt LTD (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.2★ from 1,468 ratings"
+   "buyerEvidence": "4.2★ from 1,468 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/i/c/d/15-lip-balm-plumping-sleeping-mask-vitamin-c-e-cherry-with-original-imahqvcxae57n65r.jpeg?q=90",
@@ -17880,6 +17989,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:balm",
    "spf:15",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:kojic-acid",
    "ing:rose",
@@ -18387,7 +18497,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 1,412 ratings"
+   "buyerEvidence": "4.1★ from 1,412 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/s/9/f/4-5-everyday-lip-balm-heals-moisturizes-with-vitamin-c-skincare-original-imahckwuycchuq5p.jpeg?q=90",
@@ -18404,6 +18515,7 @@ const NXPRODUCTS = [
    "format:stick",
    "format:balm",
    "spf:30",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
    "ing:shea-butter",
@@ -18615,7 +18727,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.5★ from 1,347 ratings"
+   "buyerEvidence": "4.5★ from 1,347 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/1/w/e/24-dark-lips-beetroot-tinted-lip-balm-rose-lip-balm-with-spf-original-imagsfqvrzg9wyed.jpeg?q=90",
@@ -18630,6 +18743,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:balm",
+   "water:unstated",
    "ing:rose",
    "ing:almond",
    "ing:beetroot",
@@ -19153,7 +19267,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Marico (Plix) — Established / listed Indian FMCG house",
-   "buyerEvidence": "4.2★ from 1,216 ratings"
+   "buyerEvidence": "4.2★ from 1,216 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/8/0/o/pineapple-brightening-lip-balm-with-spf-50-kojic-acid-vitamin-c-original-imahezcxcz6ahtfn.jpeg?q=90",
@@ -19170,6 +19285,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:50",
    "pa:++",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:kojic-acid",
    "claim:brightening",
@@ -20420,7 +20536,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 958 ratings"
+   "buyerEvidence": "4.2★ from 958 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/o/u/v/10-perfect-pout-lip-balm-spf-30-enriched-with-shea-and-cocoa-original-imah7f9whhvegprw.jpeg?q=90",
@@ -20437,6 +20554,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "spf:30",
+   "water:unstated",
    "ing:almond",
    "ing:shea-butter",
    "ing:cocoa-butter",
@@ -20536,7 +20654,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.9★ from 900 ratings"
+   "buyerEvidence": "3.9★ from 900 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/krwec280/lip-balm/t/x/f/4-8-lip-balm-spf-15-sunkroma-original-imag5h3k4vjhmkpr.jpeg?q=90",
@@ -20552,6 +20671,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:balm",
    "spf:15",
+   "water:unstated",
    "claim:spf-claim",
    "aud:women",
    "size:travel",
@@ -20993,7 +21113,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Pep Technologies — Indian D2C brand with its own product company",
    "declaredManufacturer": "M/s Viva Cosmetics, R. Indl. Complex, Asangaon (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.4★ from 119 ratings"
+   "buyerEvidence": "4.4★ from 119 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/v/d/n/9-choco-lip-balm-with-spf-20-for-women-men-2-mcaffeine-original-imagtqv95namhszp.jpeg?q=90",
@@ -21009,6 +21130,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:balm",
    "spf:15",
+   "water:unstated",
    "ing:caffeine",
    "ing:cocoa-butter",
    "claim:spf-claim",
@@ -21302,7 +21424,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 762 ratings"
+   "buyerEvidence": "4.1★ from 762 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-lip-balm/c/a/h/4-5-everyday-lip-balm-heals-moisturizes-with-vitamin-c-skincare-enriched-transparent-original-imah6whsgbfcyhhn.png?q=90",
@@ -21320,6 +21443,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:kit",
    "spf:30",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
    "ing:rose",
@@ -21732,7 +21856,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.9★ from 614 ratings"
+   "buyerEvidence": "4.9★ from 614 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/h/8/c/5-tinted-ceramide-lip-balm-spf-50-pa-with-kojic-acid-niacinamide-original-imahmwfgfrdez3qa.jpeg?q=90",
@@ -21751,6 +21876,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:50",
    "pa:++++",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:kojic-acid",
@@ -21849,7 +21975,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Hard abrasive particles (face): polyethylene (−0.8)",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "4.1★ from 610 ratings",
-   "concernBasis": "Acne — niacinamide #25 on INCI; Dark spots — kojic dipalmitate #23 on INCI, alpha-arbutin #24 on INCI, niacinamide #25 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #25 on INCI; Dark spots — kojic dipalmitate #23 on INCI, alpha-arbutin #24 on INCI, niacinamide #25 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/g/u/n/4-5-1-kojic-acid-lip-balm-4-5-g-lightens-dark-pigmented-lips-spf-original-imahhz7yg6qddq6e.jpeg?q=90",
@@ -21865,6 +21992,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:balm",
    "spf:50",
+   "water:unstated",
    "ing:kojic-acid",
    "claim:dark-spots",
    "claim:spf-claim",
@@ -22711,7 +22839,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Brinton Pharmaceuticals — Dermatology / pharmaceutical manufacturer",
-   "buyerEvidence": "4.4★ from 551 ratings"
+   "buyerEvidence": "4.4★ from 551 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/d/w/t/8-uv-doux-lip-lightening-balm-spf-40-pa-with-almond-oil-olive-original-imahfhphp8xzfzh3.jpeg?q=90",
@@ -22729,6 +22858,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:40",
    "pa:++",
+   "water:unstated",
    "ing:almond",
    "ing:vitamin-e",
    "ing:olive",
@@ -23249,7 +23379,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 4,329 ratings"
+   "buyerEvidence": "4.1★ from 4,329 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/x/a/m/-original-imahpp8yczexeq4k.jpeg?q=90",
@@ -23266,6 +23397,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "spf:30",
+   "water:unstated",
    "ing:ceramides",
    "ing:kojic-acid",
    "ing:shea-butter",
@@ -23476,7 +23608,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "declaredManufacturer": "HCP Wellness Pvt Ltd (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "3.9★ from 429 ratings"
+   "buyerEvidence": "3.9★ from 429 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/p/n/e/5-brightening-lip-balm-with-spf-50-pa-glowy-hydration-kojic-acid-original-imahnkgh92xgthgg.jpeg?q=90",
@@ -23493,6 +23626,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:ceramides",
    "ing:kojic-acid",
    "claim:brightening",
@@ -24099,7 +24233,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "declaredManufacturer": "L COSMO H & P CARE (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.2★ from 406 ratings"
+   "buyerEvidence": "4.2★ from 406 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/x/2/t/4-by-tiger-shroff-spf-30-pa-lip-balm-for-dark-lips-with-kojic-original-imahkcuhrzqxbf7s.jpeg?q=90",
@@ -24116,6 +24251,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:30",
    "pa:+++",
+   "water:unstated",
    "ing:niacinamide",
    "ing:kojic-acid",
    "claim:spf-claim",
@@ -24417,7 +24553,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 392 ratings"
+   "buyerEvidence": "4.3★ from 392 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/x/u/d/-original-imahdfk8bv3bshkz.jpeg?q=90",
@@ -24434,6 +24571,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:kit",
    "spf:15",
+   "water:unstated",
    "claim:hydrating",
    "claim:spf-claim",
    "aud:women",
@@ -24524,7 +24662,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "declaredManufacturer": "Chian Bio Pvt. Ltd. (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.7★ from 390 ratings"
+   "buyerEvidence": "4.7★ from 390 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/c/w/a/4-by-tiger-shroff-spf-50-pa-lip-balm-for-dark-lips-with-kojic-original-imahmqhr5jurdprh.jpeg?q=90",
@@ -24541,6 +24680,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:kojic-acid",
    "ing:coffee",
    "claim:spf-claim",
@@ -24629,7 +24769,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "declaredManufacturer": "Onesto Labs private Limited, Plot No 309, Sector 6 IMT Manesar, Manesar, Gurugram, Haryana, 122052 (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.2★ from 383 ratings"
+   "buyerEvidence": "4.2★ from 383 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/h/o/p/10-vanilla-tinted-lip-balm-for-dry-chapped-pigmented-lips-spf-50-original-imahm38gpwbaxea6.jpeg?q=90",
@@ -24646,6 +24787,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:50",
    "pa:++++",
+   "water:unstated",
    "claim:dark-spots",
    "claim:tinted",
    "claim:spf-claim",
@@ -24954,7 +25096,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "declaredManufacturer": "Hivefy Lifestyle Pvt Ltd-106,Elita Square, Opp. Indian Petrol Pump,VIP Circle, Utran.Pincode-394101 (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.4★ from 371 ratings"
+   "buyerEvidence": "4.4★ from 371 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/e/p/c/5-light-pink-lip-balm-spf-50-pa-kojic-acid-ceramide-1-aravi-original-imahq82yeyx8rz3c.jpeg?q=90",
@@ -24971,6 +25114,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:50",
    "pa:++++",
+   "water:unstated",
    "ing:ceramides",
    "ing:kojic-acid",
    "ing:beetroot",
@@ -25061,7 +25205,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "declaredManufacturer": "Leeford Healthcare Ltd (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.2★ from 369 ratings"
+   "buyerEvidence": "4.2★ from 369 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/p/y/4/60-lip-lite-strawberry-moisturizing-lip-balm-with-spf-15-4-pc-x-original-imahcqm9epxrbtke.jpeg?q=90",
@@ -25077,6 +25222,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:balm",
    "spf:15",
+   "water:unstated",
    "ing:strawberry",
    "claim:hydrating",
    "claim:spf-claim",
@@ -26110,7 +26256,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.4★ from 9 ratings"
+   "buyerEvidence": "3.4★ from 9 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/h/v/m/4-5-nourishing-lip-balm-07-plum-moisturizing-spf-protection-original-imah6dku3pmamhhg.jpeg?q=90",
@@ -26127,6 +26274,7 @@ const NXPRODUCTS = [
    "format:stick",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:rose",
    "ing:almond",
    "ing:strawberry",
@@ -26324,7 +26472,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "declaredManufacturer": "Leeford Healthcare Ltd (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.2★ from 369 ratings"
+   "buyerEvidence": "4.2★ from 369 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/p/y/4/60-lip-lite-strawberry-moisturizing-lip-balm-with-spf-15-4-pc-x-original-imahcqm9epxrbtke.jpeg?q=90",
@@ -26340,6 +26489,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:balm",
    "spf:15",
+   "water:unstated",
    "ing:strawberry",
    "claim:hydrating",
    "claim:spf-claim",
@@ -27577,7 +27727,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.6★ from 14 ratings"
+   "buyerEvidence": "4.6★ from 14 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/s/t/j/14-4-lip-balm-spf-mint-pack-of-3-14-4gm-3-sunkroma-original-imah75amqqjhfdam.jpeg?q=90",
@@ -27594,6 +27745,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:kit",
    "spf:15",
+   "water:unstated",
    "claim:hydrating",
    "claim:spf-claim",
    "aud:women",
@@ -27681,7 +27833,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "declaredManufacturer": "EMEGA MART INDIA RAJKOT GUJRAT INDIA (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.1★ from 238 ratings"
+   "buyerEvidence": "4.1★ from 238 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/p/u/f/-original-imahdfk8sneybupn.jpeg?q=90",
@@ -27697,6 +27850,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:balm",
    "spf:15",
+   "water:unstated",
    "claim:hydrating",
    "claim:soothing",
    "claim:spf-claim",
@@ -27884,7 +28038,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 230 ratings"
+   "buyerEvidence": "4.2★ from 230 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/n/e/l/10-byob-berry-pop-ph-lip-balm-with-spf-50-for-plump-hydrated-original-imahqh8uyrtpzzsf.jpeg?q=90",
@@ -27902,6 +28057,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:wash",
    "spf:50",
+   "water:unstated",
    "ing:rosehip",
    "ing:vitamin-e",
    "ing:jojoba",
@@ -28896,7 +29052,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 191 ratings"
+   "buyerEvidence": "4.4★ from 191 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/u/t/x/4-beetroot-tinted-lip-balm-with-spf-20-with-shea-butter-for-original-imahdczaxuzxn9nk.jpeg?q=90",
@@ -28913,6 +29070,7 @@ const NXPRODUCTS = [
    "format:stick",
    "format:balm",
    "spf:15",
+   "water:unstated",
    "ing:shea-butter",
    "ing:beetroot",
    "claim:hydrating",
@@ -29640,7 +29798,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "declaredManufacturer": "Hivefy Lifestyle Pvt Ltd-106,Elita Square, Opp. Indian Petrol Pump,VIP Circle, Utran.Pincode-394101 (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.5★ from 173 ratings"
+   "buyerEvidence": "4.5★ from 173 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/f/9/i/5-nude-cocoa-lip-balm-spf-50-pa-for-pigmented-lips-kojic-acid-original-imahqkbe8yhbgdud.jpeg?q=90",
@@ -29657,6 +29816,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:50",
    "pa:++++",
+   "water:unstated",
    "ing:ceramides",
    "ing:kojic-acid",
    "ing:cocoa-butter",
@@ -31412,7 +31572,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.9★ from 21 ratings"
+   "buyerEvidence": "3.9★ from 21 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/b/9/o/-original-imah4awnhfzgxpeh.jpeg?q=90",
@@ -31428,6 +31589,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:rose",
    "ing:shea-butter",
    "ing:vitamin-e",
@@ -33039,7 +33201,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Fixderma India (dermatology company) — Dermatology / pharmaceutical manufacturer",
-   "buyerEvidence": "4★ from 114 ratings"
+   "buyerEvidence": "4★ from 114 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/a/p/x/30-brightening-tinted-lip-balm-relief-for-dry-and-chapped-lips-2-original-imahj4ggkdbywdky.jpeg?q=90",
@@ -33055,6 +33218,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:balm",
    "spf:50+",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:kojic-acid",
@@ -33473,7 +33637,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 110 ratings"
+   "buyerEvidence": "4★ from 110 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/t/w/z/10-brightening-lip-balm-spf50-pa-kojic-acid-niacinamide-for-dark-original-imahzgrum9gfrahv.jpeg?q=90",
@@ -33490,6 +33655,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:50",
    "pa:++",
+   "water:unstated",
    "ing:niacinamide",
    "ing:kojic-acid",
    "ing:vitamin-e",
@@ -33591,7 +33757,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 110 ratings"
+   "buyerEvidence": "4.3★ from 110 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/q/s/s/3-love-swipe-tinted-lip-balm-with-vitamin-c-hyaluronic-acid-original-imahhur6vjrzfpyd.jpeg?q=90",
@@ -33608,6 +33775,7 @@ const NXPRODUCTS = [
    "format:stick",
    "format:balm",
    "spf:30",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
    "ing:ceramides",
@@ -34214,7 +34382,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 96 ratings"
+   "buyerEvidence": "4.3★ from 96 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/b/z/x/10-e-nmfe-brite-lip-care-spf-50-pa-lip-brightening-and-hydrating-original-imahkuh3fxqh7gfx.jpeg?q=90",
@@ -34231,6 +34400,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:kojic-acid",
    "ing:shea-butter",
    "ing:vitamin-e",
@@ -34327,7 +34497,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 94 ratings"
+   "buyerEvidence": "4.3★ from 94 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/z/0/d/3-jelly-butter-lip-balm-with-spf-50-dusty-rose-1-blue-heaven-original-imahjfz2gyfdyr5y.jpeg?q=90",
@@ -34343,6 +34514,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:balm",
    "spf:50",
+   "water:unstated",
    "ing:rose",
    "ing:shea-butter",
    "claim:spf-claim",
@@ -34432,7 +34604,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 95 ratings"
+   "buyerEvidence": "4.3★ from 95 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/x/8/t/10-byob-berry-rose-ph-lip-balm-with-spf-50-for-soft-moisturized-original-imahnufajqwwwpbh.jpeg?q=90",
@@ -34450,6 +34623,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:wash",
    "spf:50",
+   "water:unstated",
    "ing:rose",
    "ing:rosehip",
    "ing:vitamin-e",
@@ -34549,7 +34723,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "declaredManufacturer": "A.M Enterprises,Khasra NO.63,64, Near Genious School, Uncha Parwanoo, Solan, Himachal Pradesh -173220 (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.3★ from 94 ratings"
+   "buyerEvidence": "4.3★ from 94 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-lip-balm/w/l/j/5-zeus-lip-lightening-serum-spf-30-pa-with-6-active-moisturize-original-imahqdnuqwxbhpwu.jpeg?q=90",
@@ -34567,6 +34742,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:30",
    "pa:++++",
+   "water:unstated",
    "claim:whitening-claim",
    "claim:hydrating",
    "claim:spf-claim",
@@ -35177,7 +35353,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 91 ratings"
+   "buyerEvidence": "4.2★ from 91 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/1/h/c/2-disney-frozen-princess-popsicle-lip-balm-elsa-heals-nourishes-original-imahf5wwexg39msu.jpeg?q=90",
@@ -35194,6 +35371,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "format:kit",
+   "water:unstated",
    "ing:almond",
    "ing:shea-butter",
    "ing:vitamin-e",
@@ -37066,7 +37244,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "declaredManufacturer": "Janki Herbal Pvt. Ltd. Plot No.69, 70, 71, Govindji Industrial Estate - 1, Makna - Valan Road, Valan, Dist: Surat, Gujarat - 394525. Mfg. Lic. No. Gc/1804 (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.5★ from 75 ratings"
+   "buyerEvidence": "4.5★ from 75 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/t/0/s/5-barrier-repair-lip-balm-spf-50-pa-for-pigmented-lips-kojic-original-imahqkbgzqbpdvzy.jpeg?q=90",
@@ -37083,6 +37262,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:50",
    "pa:++++",
+   "water:unstated",
    "ing:ceramides",
    "ing:kojic-acid",
    "claim:dark-spots",
@@ -37490,7 +37670,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 69 ratings"
+   "buyerEvidence": "4.1★ from 69 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/u/j/6/3-love-swipe-tint-it-lip-balm-with-vitamin-c-hyaluronic-acid-original-imahhtvzcz92sgsz.jpeg?q=90",
@@ -37507,6 +37688,7 @@ const NXPRODUCTS = [
    "format:stick",
    "format:balm",
    "spf:30",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
    "ing:ceramides",
@@ -38237,7 +38419,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 66 ratings"
+   "buyerEvidence": "4.4★ from 66 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/7/8/p/10-juicy-fix-tinted-lip-balm-glossy-spf30-tint-nourishes-repairs-original-imahgzznkfzzzahr.jpeg?q=90",
@@ -38253,6 +38436,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:balm",
    "spf:30",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
    "ing:ceramides",
@@ -38350,7 +38534,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.9★ from 64 ratings"
+   "buyerEvidence": "4.9★ from 64 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/x/a/o/40-desi-pop-drip-gloss-lip-balm-with-vitamin-e-shea-butter-original-imahkajphwtwk96d.jpeg?q=90",
@@ -38367,6 +38552,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "spf:15",
+   "water:unstated",
    "ing:shea-butter",
    "ing:vitamin-e",
    "ing:coconut",
@@ -38565,7 +38751,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 62 ratings"
+   "buyerEvidence": "4.2★ from 62 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/f/r/r/10-brightening-lip-balm-spf-50-pa-kojic-acid-niacinamide-for-original-imahzgrucxbapewa.jpeg?q=90",
@@ -38582,6 +38769,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:50",
    "pa:++",
+   "water:unstated",
    "ing:niacinamide",
    "ing:kojic-acid",
    "claim:brightening",
@@ -38778,7 +38966,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 61 ratings"
+   "buyerEvidence": "4.2★ from 61 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/v/d/w/1-6-ultra-soft-tinted-lip-balm-stick-spf-50-with-shea-butter-original-imahq96ganydaz8n.jpeg?q=90",
@@ -38795,6 +38984,7 @@ const NXPRODUCTS = [
    "format:stick",
    "format:balm",
    "spf:50+",
+   "water:unstated",
    "ing:shea-butter",
    "claim:dark-spots",
    "claim:tinted",
@@ -39304,7 +39494,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.7★ from 58 ratings"
+   "buyerEvidence": "3.7★ from 58 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/i/h/d/4-25-cherry-flavor-lip-balm-spf-15-0-15-oz-stick-in-carded-box-1-original-imahffg7n6hfhakd.jpeg?q=90",
@@ -39322,6 +39513,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:sleeping-mask",
    "spf:15",
+   "water:unstated",
    "ing:ceramides",
    "ing:peptides",
    "ing:cherry-acerola",
@@ -40056,7 +40248,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 56 ratings"
+   "buyerEvidence": "4.4★ from 56 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/g/j/t/10-juicy-fix-tinted-lip-balm-glossy-spf30-tint-nourishes-repairs-original-imahgzzjqhjwzv3v.jpeg?q=90",
@@ -40072,6 +40265,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:balm",
    "spf:30",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
    "ing:ceramides",
@@ -40481,7 +40675,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 53 ratings"
+   "buyerEvidence": "4.2★ from 53 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/l/w/n/4-8-cocoa-butter-lip-balm-spf-30-pa-lightens-dark-lips-sun-original-imahg5xawtwee87j.jpeg?q=90",
@@ -40500,6 +40695,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:30",
    "pa:+++",
+   "water:unstated",
    "ing:kojic-acid",
    "ing:rosehip",
    "ing:cocoa-butter",
@@ -41421,7 +41617,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 47 ratings"
+   "buyerEvidence": "4.2★ from 47 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/t/d/e/8-16-lip-balm-spf-2-sunkroma-original-imah75anwesfaygc.jpeg?q=90",
@@ -41436,6 +41633,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:balm",
+   "water:unstated",
    "claim:hydrating",
    "aud:women",
    "size:travel",
@@ -41625,7 +41823,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Pep Technologies — Indian D2C brand with its own product company",
    "declaredManufacturer": "Ananya Herbal Pvt. Ltd. (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.5★ from 45 ratings"
+   "buyerEvidence": "4.5★ from 45 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/s/l/t/10-spf-50-pa-lip-balm-brightens-even-tone-lips-24hrs-original-imah3y62s9hgjhpk.jpeg?q=90",
@@ -41642,6 +41841,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:50",
    "pa:++",
+   "water:unstated",
    "ing:caffeine",
    "ing:cocoa-butter",
    "claim:spf-claim",
@@ -42349,7 +42549,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "declaredManufacturer": "Nature Magic World, Plot No- 119, Sector 6A, IIE SIIDCUL, Haridwar, Uttarakhand-249403, Email- support@coloressence.com (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.2★ from 41 ratings"
+   "buyerEvidence": "4.2★ from 41 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/g/o/r/10-desi-pop-drip-gloss-lip-balm-spf-15-with-vitamin-e-shea-original-imahhy8bg5ybzgzp.jpeg?q=90",
@@ -42366,6 +42567,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "spf:15",
+   "water:unstated",
    "ing:shea-butter",
    "ing:vitamin-e",
    "ing:coconut",
@@ -42667,7 +42869,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Oriflame Cosmetics — Global FMCG or beauty group",
-   "buyerEvidence": "4.3★ from 39 ratings"
+   "buyerEvidence": "4.3★ from 39 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/x/1/u/2-1-the-one-lip-spa-lip-balm-raspberry-1-oriflame-sweden-original-imahhgwgmghf4aej.jpeg?q=90",
@@ -42684,6 +42887,7 @@ const NXPRODUCTS = [
    "format:stick",
    "format:balm",
    "spf:15",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:lactic-acid",
    "ing:hyaluronic-acid",
@@ -43198,7 +43402,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "declaredManufacturer": "Brawn Cosmetics and Herbals Pvt Ltd Plot no. 30, Sec-33,Gurugram-122002, Haryana, India (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.4★ from 38 ratings"
+   "buyerEvidence": "4.4★ from 38 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/m/b/f/40-natural-lip-balm-4-loperle-original-imahhzcgc9rwkzze.jpeg?q=90",
@@ -43216,6 +43421,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:kit",
    "spf:15",
+   "water:unstated",
    "ing:jojoba",
    "ing:coconut",
    "ing:strawberry",
@@ -43832,7 +44038,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "declaredManufacturer": "Janki Herbals Private Limited (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.9★ from 37 ratings"
+   "buyerEvidence": "4.9★ from 37 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/z/n/c/5-spf-50-lip-balm-for-sun-protection-hydration-smooth-healthy-original-imahjzmg3unqqnhd.jpeg?q=90",
@@ -43848,6 +44055,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:balm",
    "spf:50",
+   "water:unstated",
    "claim:hydrating",
    "claim:spf-claim",
    "aud:unisex",
@@ -43936,7 +44144,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.5★ from 37 ratings"
+   "buyerEvidence": "4.5★ from 37 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/4/s/e/5-dark-lips-repair-niacinamide-beetroot-tinted-lip-balm-with-spf-original-imahmk6tqvzmspbr.jpeg?q=90",
@@ -43955,6 +44164,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:body-wax",
    "spf:50",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:coffee",
@@ -44259,7 +44469,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 37 ratings"
+   "buyerEvidence": "4.1★ from 37 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/f/q/d/5-strawberry-lip-balm-spf-50-pa-sun-protection-soft-glossy-original-imahnr6rzdjxncqn.jpeg?q=90",
@@ -44277,6 +44488,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:strawberry",
    "claim:hydrating",
    "claim:spf-claim",
@@ -44586,7 +44798,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 35 ratings"
+   "buyerEvidence": "4.4★ from 35 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/0/q/2/3-love-swipe-tinted-lip-balm-with-vitamin-c-hyaluronic-acid-original-imahhtvacvdckt3u.jpeg?q=90",
@@ -44603,6 +44816,7 @@ const NXPRODUCTS = [
    "format:stick",
    "format:balm",
    "spf:30",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
    "ing:ceramides",
@@ -44916,7 +45130,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.5★ from 34 ratings"
+   "buyerEvidence": "4.5★ from 34 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/u/u/h/10-desi-pop-drip-gloss-lip-balm-spf-15-with-vitamin-e-shea-original-imahhy8yvr7ygvhu.jpeg?q=90",
@@ -44933,6 +45148,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "spf:15",
+   "water:unstated",
    "ing:shea-butter",
    "ing:vitamin-e",
    "ing:coconut",
@@ -45450,7 +45666,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 33 ratings"
+   "buyerEvidence": "4.4★ from 33 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/f/d/u/10-juicy-fix-tinted-lip-balm-glossy-spf30-tint-nourishes-repairs-original-imahgzzbv7f5fyrc.jpeg?q=90",
@@ -45466,6 +45683,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:balm",
    "spf:30",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
    "ing:ceramides",
@@ -45978,7 +46196,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.7★ from 31 ratings"
+   "buyerEvidence": "4.7★ from 31 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/g/8/w/8-lip-balm-spf-30-with-vitamin-c-mango-butter-for-hydrating-original-imahk42yqgnecsfz.jpeg?q=90",
@@ -45996,6 +46215,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:peel",
    "spf:30",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:almond",
    "ing:shea-butter",
@@ -46092,7 +46312,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.5★ from 31 ratings"
+   "buyerEvidence": "4.5★ from 31 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/d/2/0/4-25-classic-medicated-lip-balm-spf-15-1-carmex-original-imagthp8azcxvgs6.jpeg?q=90",
@@ -46109,6 +46330,7 @@ const NXPRODUCTS = [
    "format:stick",
    "format:balm",
    "spf:15",
+   "water:unstated",
    "ing:rose",
    "ing:almond",
    "claim:hydrating",
@@ -46200,7 +46422,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.5★ from 31 ratings"
+   "buyerEvidence": "4.5★ from 31 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/l/t/b/4-8-spf-15-lip-balm-with-liquorice-for-dry-chapped-lips-1-original-imahjj7wfcehurzz.jpeg?q=90",
@@ -46218,6 +46441,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:roll-on",
    "spf:15",
+   "water:unstated",
    "ing:petrolatum",
    "ing:almond",
    "ing:licorice",
@@ -46422,7 +46646,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "declaredManufacturer": "New Age Enterprises (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.5★ from 30 ratings"
+   "buyerEvidence": "4.5★ from 30 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/m/w/f/5-tinted-lip-balm-with-spf-50-lip-brightening-balm-for-pigmented-original-imahkyszwj7thehn.jpeg?q=90",
@@ -46438,6 +46663,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:balm",
    "spf:50",
+   "water:unstated",
    "ing:cherry-acerola",
    "claim:brightening",
    "claim:dark-spots",
@@ -46529,7 +46755,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
-   "buyerEvidence": "4.3★ from 30 ratings"
+   "buyerEvidence": "4.3★ from 30 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-lip-balm/z/w/w/20-lip-therapy-rosy-lips-balm-20g-1-vaseline-original-imahyj86n9znmnby.jpeg?q=90",
@@ -46545,6 +46772,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:balm",
+   "water:unstated",
    "ing:rose",
    "ing:vitamin-e",
    "claim:hydrating",
@@ -46744,7 +46972,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 29 ratings"
+   "buyerEvidence": "4.2★ from 29 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/b/z/i/4-8-lip-balm-spf-15-2-sunkroma-original-imagwbf59guygeb5.jpeg?q=90",
@@ -46760,6 +46989,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:balm",
    "spf:15",
+   "water:unstated",
    "claim:spf-claim",
    "aud:unisex",
    "size:travel",
@@ -47168,7 +47398,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 27 ratings"
+   "buyerEvidence": "4.3★ from 27 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/x/5/q/20-lip-balm-2-10-2-menarini-original-imah9szg5e5fvcdn.jpeg?q=90",
@@ -47184,6 +47415,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:balm",
    "spf:15",
+   "water:unstated",
    "ing:rose",
    "ing:almond",
    "claim:hydrating",
@@ -47803,7 +48035,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 25 ratings"
+   "buyerEvidence": "4.2★ from 25 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/p/u/b/5-lip-balm-for-dark-dry-lips-with-spf-30-pa-hydrates-and-original-imahdyx4uw4zrzgn.jpeg?q=90",
@@ -47821,6 +48054,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:30",
    "pa:++",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
    "ing:ceramides",
@@ -48324,7 +48558,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 24 ratings"
+   "buyerEvidence": "4.4★ from 24 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/2/g/n/10-lip-balm-pack-of-2-10g-spf-15-moisturizing-paraben-free-matte-original-imahcp65y5hgucaa.jpeg?q=90",
@@ -48341,6 +48576,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:kit",
    "spf:15",
+   "water:unstated",
    "ing:almond",
    "ing:vitamin-e",
    "ing:avocado",
@@ -48539,7 +48775,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.7★ from 23 ratings"
+   "buyerEvidence": "4.7★ from 23 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/c/i/d/24-lipcare-baume-spf-15-3-hydronic-original-imaghp3zf55pka97.jpeg?q=90",
@@ -48556,6 +48793,7 @@ const NXPRODUCTS = [
    "format:stick",
    "format:balm",
    "spf:15",
+   "water:unstated",
    "ing:rose",
    "ing:almond",
    "ing:strawberry",
@@ -48649,7 +48887,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "declaredManufacturer": "Nature Magic World, Plot No- 119, Sector 6A, IIE SIIDCUL, Haridwar, Uttarakhand-249403, Email- support@coloressence.com (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.5★ from 23 ratings"
+   "buyerEvidence": "4.5★ from 23 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/o/f/1/10-desi-pop-drip-gloss-lip-balm-spf-15-with-vitamin-e-shea-original-imahhy884jvzgdk7.jpeg?q=90",
@@ -48666,6 +48905,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "spf:15",
+   "water:unstated",
    "ing:shea-butter",
    "ing:vitamin-e",
    "ing:coconut",
@@ -49401,7 +49641,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.5★ from 22 ratings"
+   "buyerEvidence": "4.5★ from 22 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/p/8/c/-original-imahparhvyz6tzsz.jpeg?q=90",
@@ -49417,6 +49658,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:balm",
    "spf:50",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:kojic-acid",
    "claim:brightening",
@@ -50182,7 +50424,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 20 ratings"
+   "buyerEvidence": "4.1★ from 20 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/5/0/o/10-spf-50-pa-brightening-beetroot-lip-balm-for-dark-lips-1-original-imahmf6zhgzjb5yz.jpeg?q=90",
@@ -50200,6 +50443,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "claim:brightening",
    "claim:hydrating",
    "claim:barrier",
@@ -50814,7 +51058,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.8★ from 20 ratings"
+   "buyerEvidence": "3.8★ from 20 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/q/t/x/10-e-brite-lip-care-spf-50-pa-brightening-hydrating-lip-balm-1-original-imahndkdypawmhav.jpeg?q=90",
@@ -50831,6 +51076,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:kojic-acid",
    "ing:shea-butter",
    "ing:vitamin-e",
@@ -51026,7 +51272,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "declaredManufacturer": "AM enterprises, Himachal Pradesh (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "3.9★ from 19 ratings"
+   "buyerEvidence": "3.9★ from 19 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/w/m/d/5-lipbalm-cocoabutter-1-pepvelle-original-imahnmf4fhacbcjk.jpeg?q=90",
@@ -51043,6 +51290,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:30",
    "pa:+++",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:cocoa-butter",
@@ -51131,7 +51379,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.9★ from 19 ratings"
+   "buyerEvidence": "3.9★ from 19 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/d/y/2/15-2-kojic-acid-lavender-lip-balm-oil-for-dark-pigmented-lips-original-imahd425krbvaek5.jpeg?q=90",
@@ -51150,6 +51399,7 @@ const NXPRODUCTS = [
    "format:roll-on",
    "spf:50",
    "sun:mineral",
+   "water:unstated",
    "ing:kojic-acid",
    "ing:alpha-arbutin",
    "ing:shea-butter",
@@ -51350,7 +51600,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.8★ from 19 ratings"
+   "buyerEvidence": "3.8★ from 19 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/x/6/p/5-lip-balm-spf-50-for-dark-lips-tinted-ceramide-lip-balm-1-original-imahjkz7p2se9mgn.jpeg?q=90",
@@ -51367,6 +51618,7 @@ const NXPRODUCTS = [
    "format:stick",
    "format:balm",
    "spf:50",
+   "water:unstated",
    "ing:ceramides",
    "ing:shea-butter",
    "ing:watermelon",
@@ -52531,7 +52783,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.5★ from 16 ratings"
+   "buyerEvidence": "4.5★ from 16 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/n/r/8/4-2-lip-balm-stick-strawberry-spf-15-sunscreen-1-carmex-original-imahfffttsuymjpz.jpeg?q=90",
@@ -52549,6 +52802,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:sleeping-mask",
    "spf:15",
+   "water:unstated",
    "ing:ceramides",
    "ing:peptides",
    "ing:strawberry",
@@ -53055,7 +53309,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.5★ from 15 ratings"
+   "buyerEvidence": "4.5★ from 15 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/9/i/g/4-5-tinted-lip-balm-spf-15-hydrating-with-shea-butter-vitamin-e-original-imahmhncgnw3czwd.jpeg?q=90",
@@ -53071,6 +53326,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:balm",
    "spf:15",
+   "water:unstated",
    "ing:shea-butter",
    "ing:vitamin-e",
    "claim:hydrating",
@@ -54230,7 +54486,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.7★ from 14 ratings"
+   "buyerEvidence": "4.7★ from 14 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/m/6/t/20-yay-pina-colada-lip-balm-with-hyaluronic-acid-spf-30-for-dry-original-imah5unhcaxyrbkd.jpeg?q=90",
@@ -54247,6 +54504,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:balm",
    "spf:30",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:coconut",
    "claim:hydrating",
@@ -54650,7 +54908,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.7★ from 14 ratings"
+   "buyerEvidence": "4.7★ from 14 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/l4oi4cw0/lip-balm/g/g/j/30-lip-balm-tube-classic-medicated-0-35-ounce-3-count-1-carmex-original-imagfgn7dnee7gzh.jpeg?q=90",
@@ -54667,6 +54926,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:pack",
    "spf:15",
+   "water:unstated",
    "ing:strawberry",
    "claim:hydrating",
    "claim:spf-claim",
@@ -55394,7 +55654,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.5★ from 13 ratings"
+   "buyerEvidence": "4.5★ from 13 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/j/6/o/5-lip-balm-with-spf-15-1-nueman-original-imahkvwzzghckpgc.jpeg?q=90",
@@ -55413,6 +55674,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:15",
    "sun:mineral",
+   "water:unstated",
    "ing:shea-butter",
    "ing:vitamin-e",
    "ing:zinc",
@@ -57712,7 +57974,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.7★ from 10 ratings"
+   "buyerEvidence": "4.7★ from 10 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/t/f/f/15-rose-lip-balm-with-spf-made-with-rose-extracts-shea-butter-original-imahgkbsjqkrwths.jpeg?q=90",
@@ -57727,6 +57990,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:balm",
+   "water:unstated",
    "ing:rose",
    "ing:shea-butter",
    "ing:vitamin-e",
@@ -58431,7 +58695,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 9 ratings"
+   "buyerEvidence": "4.2★ from 9 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/y/7/7/5-tinted-lip-balm-spf-50-pa-brightening-beetroot-lip-balm-for-original-imahff2h4mffayem.jpeg?q=90",
@@ -58448,6 +58713,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:beetroot",
    "claim:brightening",
    "claim:hydrating",
@@ -58541,7 +58807,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.7★ from 9 ratings"
+   "buyerEvidence": "4.7★ from 9 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/d/5/r/3-5-brightening-lip-balm-spf-40-pa-dry-dark-pigmented-lips-original-imahm9zsqv2fshgh.jpeg?q=90",
@@ -58559,6 +58826,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:40",
    "pa:+++",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "claim:brightening",
    "claim:dark-spots",
@@ -59159,7 +59427,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.7★ from 9 ratings"
+   "buyerEvidence": "3.7★ from 9 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-lip-balm/3/1/q/4-spf-30-mango-butter-lip-balm-natural-nourishing-1-7pure-skin-original-imahzttjtgh9cexf.jpeg?q=90",
@@ -59177,6 +59446,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "spf:30",
+   "water:unstated",
    "ing:shea-butter",
    "ing:vitamin-e",
    "ing:beeswax",
@@ -59492,7 +59762,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.6★ from 9 ratings"
+   "buyerEvidence": "4.6★ from 9 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/o/f/a/4-2-classic-medicated-lip-balm-stick-spf-15-1-carmex-original-imah83xatwgrtehj.jpeg?q=90",
@@ -59509,6 +59780,7 @@ const NXPRODUCTS = [
    "format:stick",
    "format:balm",
    "spf:15",
+   "water:unstated",
    "claim:hydrating",
    "claim:spf-claim",
    "aud:women",
@@ -60453,7 +60725,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 8 ratings"
+   "buyerEvidence": "4.4★ from 8 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/i/g/f/50-lip-balm-spf-15-pa-dark-lip-brightening-balm-with-kojic-acid-original-imahzdsvwhkekmf9.jpeg?q=90",
@@ -60470,6 +60743,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:15",
    "pa:++",
+   "water:unstated",
    "ing:kojic-acid",
    "ing:strawberry",
    "claim:brightening",
@@ -61181,7 +61455,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 7 ratings"
+   "buyerEvidence": "5★ from 7 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/h/a/w/9-lip-moisturiser-spf-15-9g-1-lipz-original-imahqfgkny4busgk.jpeg?q=90",
@@ -61195,6 +61470,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:kit",
    "spf:15",
+   "water:unstated",
    "claim:hydrating",
    "claim:spf-claim",
    "free:paraben",
@@ -61598,7 +61874,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 7 ratings"
+   "buyerEvidence": "4.3★ from 7 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/y/i/p/1-lip-treatment-balm-with-spf-30-vitamin-e-1-the-element-original-imahqt474eggfgkg.jpeg?q=90",
@@ -61616,6 +61893,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:body-wax",
    "spf:30",
+   "water:unstated",
    "ing:almond",
    "ing:shea-butter",
    "ing:vitamin-e",
@@ -62023,7 +62301,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 7 ratings"
+   "buyerEvidence": "4.4★ from 7 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/w/n/j/4-25-medicated-lip-balm-spf-15-3-count-1-blistex-original-imahc26wqctt5zmr.jpeg?q=90",
@@ -62039,6 +62318,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:balm",
    "spf:15",
+   "water:unstated",
    "claim:spf-claim",
    "aud:unisex",
    "rating:4.0",
@@ -62333,7 +62613,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Himalaya Wellness — Established / listed Indian FMCG house",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/w/f/l/4-5-litchi-shine-lip-care-2-himalaya-original-imah6v72knezph2k.jpeg?q=90",
@@ -62351,6 +62632,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:kit",
    "spf:30",
+   "water:unstated",
    "ing:rose",
    "ing:almond",
    "ing:cocoa-butter",
@@ -62544,7 +62826,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 6 ratings"
+   "buyerEvidence": "4★ from 6 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/o/u/q/1-6-ultra-soft-tinted-lip-balm-stick-spf-50-with-shea-butter-original-imahp9m6nzqu6akz.jpeg?q=90",
@@ -62561,6 +62844,7 @@ const NXPRODUCTS = [
    "format:stick",
    "format:balm",
    "spf:50+",
+   "water:unstated",
    "ing:shea-butter",
    "claim:brightening",
    "claim:dark-spots",
@@ -63268,7 +63552,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 6 ratings"
+   "buyerEvidence": "4★ from 6 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/g/v/n/4-25-medicated-lip-balm-spf-15-1-blistex-original-imahca2hdye4ygjg.jpeg?q=90",
@@ -63285,6 +63570,7 @@ const NXPRODUCTS = [
    "format:stick",
    "format:balm",
    "spf:15",
+   "water:unstated",
    "ing:rose",
    "ing:almond",
    "claim:hydrating",
@@ -63906,7 +64192,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 5 ratings"
+   "buyerEvidence": "4.2★ from 5 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/k19lvgw0/lip-balm/8/b/w/4-lip-moisturizer-spf-15-chapstick-original-imafkvq6hzhzsw7d.jpeg?q=90",
@@ -63922,6 +64209,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:stick",
    "spf:15",
+   "water:unstated",
    "ing:rose",
    "ing:almond",
    "claim:hydrating",
@@ -65180,7 +65468,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3★ from 4 ratings"
+   "buyerEvidence": "3★ from 4 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/g/5/v/10-daily-care-moisturizing-lip-balm-fresh-cherry-spf-15-10g-1-original-imahfzfzbssc5c3p.jpeg?q=90",
@@ -65196,6 +65485,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:balm",
    "spf:15",
+   "water:unstated",
    "ing:strawberry",
    "ing:cherry-acerola",
    "claim:hydrating",
@@ -65498,7 +65788,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 4 ratings"
+   "buyerEvidence": "4★ from 4 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/v/q/c/10-buttter-lip-balm-spf-15-1-aurel-derma-original-imahjkzudq4mzstc.jpeg?q=90",
@@ -65514,6 +65805,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:balm",
    "spf:15",
+   "water:unstated",
    "claim:spf-claim",
    "aud:unisex",
    "size:travel",
@@ -65707,7 +65999,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Beiersdorf — Global FMCG or beauty group",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/z/q/5/9-6-lip-balm-4-8g-strawberry-shine-soft-rose-pack-of-2-2-nivea-original-imah5ey75wsmfrhc.jpeg?q=90",
@@ -65725,6 +66018,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:kit",
    "spf:30",
+   "water:unstated",
    "ing:rose",
    "ing:almond",
    "ing:strawberry",
@@ -66232,7 +66526,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.7★ from 3 ratings"
+   "buyerEvidence": "4.7★ from 3 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/8/6/u/2-8-lip-balm-stick-30-spf-1-herpecin-l-original-imah842rg4h6hfe6.jpeg?q=90",
@@ -66248,6 +66543,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:stick",
    "format:balm",
+   "water:unstated",
    "ing:rose",
    "ing:almond",
    "claim:hydrating",
@@ -66338,7 +66634,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.7★ from 3 ratings"
+   "buyerEvidence": "4.7★ from 3 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/h/u/m/8-natural-lip-balm-8-gm-for-dry-chapped-lips-with-intense-original-imah2ur8h32r9zrv.jpeg?q=90",
@@ -66356,6 +66653,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:kit",
    "spf:15",
+   "water:unstated",
    "ing:shea-butter",
    "ing:vitamin-e",
    "ing:jojoba",
@@ -66452,7 +66750,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "3.3★ from 3 ratings",
-   "concernBasis": "Dark spots — kojic dipalmitate #14 on INCI (matching only — not proof it works)"
+   "concernBasis": "Dark spots — kojic dipalmitate #14 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/q/8/o/1-honey-lip-balm-spf-50-brightens-lips-with-propolis-peptides-original-imahgrghgzzvzrkj.jpeg?q=90",
@@ -66468,6 +66767,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:balm",
    "spf:50",
+   "water:unstated",
    "ing:peptides",
    "ing:kojic-acid",
    "ing:honey",
@@ -67365,7 +67665,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 3 ratings"
+   "buyerEvidence": "5★ from 3 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/e/q/j/4-5-colour-splash-lip-balm-with-spf-15-intense-hydration-for-dry-original-imahht6wsh2prfd2.jpeg?q=90",
@@ -67381,6 +67682,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:almond",
    "ing:shea-butter",
    "ing:cocoa-butter",
@@ -69088,7 +69390,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 3 ratings"
+   "buyerEvidence": "4.3★ from 3 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/3/x/b/10-lip-balm-spf-45-pa-strawberry-advanced-moisturizing-sun-original-imahgpmpfzwbh9jg.jpeg?q=90",
@@ -69105,6 +69408,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:40",
    "pa:+++",
+   "water:unstated",
    "ing:strawberry",
    "claim:hydrating",
    "claim:spf-claim",
@@ -69928,7 +70232,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Himalaya Wellness — Established / listed Indian FMCG house",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/x/e/t/4-5-natural-soft-vanilla-lip-care-2-himalaya-original-imah6v7qzh5sprxw.jpeg?q=90",
@@ -69945,6 +70250,7 @@ const NXPRODUCTS = [
    "format:stick",
    "format:balm",
    "spf:15",
+   "water:unstated",
    "ing:rose",
    "ing:almond",
    "ing:shea-butter",
@@ -70456,7 +70762,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 2 ratings"
+   "buyerEvidence": "4★ from 2 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/q/e/q/5-tinted-lip-balm-spf-50-beetroot-care-for-dry-damaged-lips-1-original-imahnbhmnrvbn4ps.jpeg?q=90",
@@ -70476,6 +70783,7 @@ const NXPRODUCTS = [
    "format:body-wax",
    "spf:50",
    "pa:++++",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:coffee",
@@ -70578,7 +70886,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 2 ratings"
+   "buyerEvidence": "4★ from 2 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/g/b/q/30-lip-balm-tubes-with-spf-fresh-cherry-strawberry-wintergreen-original-imahf7htwz3chbba.jpeg?q=90",
@@ -70595,6 +70904,7 @@ const NXPRODUCTS = [
    "format:stick",
    "format:balm",
    "format:sleeping-mask",
+   "water:unstated",
    "ing:ceramides",
    "ing:peptides",
    "ing:rose",
@@ -71795,7 +72105,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/8/6/w/10-quick-film-formation-and-long-lasting-waterproof-shine-mirror-original-imahk435f6hcgv7t.jpeg?q=90",
@@ -71811,6 +72122,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:balm",
    "format:pack",
+   "water:resistant",
    "ing:peptides",
    "ing:shea-butter",
    "claim:dark-spots",
@@ -72011,7 +72323,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/z/n/b/3-aloe-vera-moisturizing-lip-balm-for-soft-and-glossy-lips-1-original-imahpnw6zfrq89bg.jpeg?q=90",
@@ -72030,6 +72343,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:kit",
    "spf:50",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:rose",
    "ing:cocoa-butter",
@@ -72126,7 +72440,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/3/r/e/3-aloevera-lip-balm-for-drack-and-crack-lips-1-jiwoo-original-imahgf494xgcsxqc.jpeg?q=90",
@@ -72142,6 +72457,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:balm",
    "spf:50",
+   "water:unstated",
    "ing:rose",
    "ing:cocoa-butter",
    "ing:strawberry",
@@ -72450,7 +72766,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/f/r/g/5-hydrating-aloe-vera-lip-balm-smooth-soft-lips-moisturizer-1-original-imahpbs9ffrzjada.jpeg?q=90",
@@ -72465,6 +72782,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:balm",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:shea-butter",
    "claim:hydrating",
@@ -72880,7 +73198,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/r/f/o/3-8-korean-waterproof-lip-balm-lightweight-glossy-pink-long-original-imahzv7zgw62zkvw.jpeg?q=90",
@@ -72900,6 +73219,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:roll-on",
    "spf:15",
+   "water:resistant",
    "ing:almond",
    "ing:cherry-acerola",
    "claim:whitening-claim",
@@ -73432,7 +73752,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/z/3/c/7-2-lip-care-moisturizer-lip-balm-color-change-fruit-2-luster-original-imahhgzh2ryehbsk.jpeg?q=90",
@@ -73452,6 +73773,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:kit",
    "spf:30",
+   "water:unstated",
    "ing:beetroot",
    "claim:dark-spots",
    "claim:oil-control",
@@ -73654,7 +73976,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/u/8/1/3-color-changing-lip-balm-moisturizing-waterproof-non-sticky-1-original-imah8wfuxqbzq4hg.jpeg?q=90",
@@ -73668,6 +73991,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:stick",
    "format:balm",
+   "water:unstated",
    "claim:hydrating",
    "claim:tinted",
    "claim:korean",
@@ -73759,7 +74083,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/q/d/e/3-8-glossy-pink-korean-lip-balm-waterproof-long-wear-smooth-lip-original-imahzv6an7mw8yun.jpeg?q=90",
@@ -73777,6 +74102,7 @@ const NXPRODUCTS = [
    "format:stick",
    "format:balm",
    "spf:15",
+   "water:resistant",
    "ing:aloe-vera",
    "ing:vitamin-e",
    "claim:whitening-claim",
@@ -73875,7 +74201,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/h/g/h/6-lip-oil-transparent-colorless-moisturizing-lip-makeup-3-seung-original-imaggdw9zjvdhj5y.jpeg?q=90",
@@ -73894,6 +74221,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:clay-mask",
    "spf:50",
+   "water:resistant",
    "claim:dark-spots",
    "claim:hydrating",
    "claim:barrier",
@@ -74414,7 +74742,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/s/d/n/3-8-korean-lightweight-waterproof-lip-balm-soft-pink-gloss-original-imahzv7jysntcgzt.jpeg?q=90",
@@ -74433,6 +74762,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:pack",
    "spf:15",
+   "water:resistant",
    "ing:peptides",
    "ing:aloe-vera",
    "ing:almond",
@@ -75627,7 +75957,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/x/c/u/3-tinted-100-natural-lip-balm-for-women-1-gfsu-go-for-something-original-imahfg5fgbahfqe2.jpeg?q=90",
@@ -75642,6 +75973,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:balm",
+   "water:unstated",
    "ing:strawberry",
    "claim:hydrating",
    "claim:tinted",
@@ -76508,7 +76840,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/1/0/2/3-floral-crystal-korean-lip-balm-smooth-moisturizing-lip-stick-1-original-imahpp397gsk58yg.jpeg?q=90",
@@ -76527,6 +76860,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:kit",
    "spf:30",
+   "water:unstated",
    "ing:peptides",
    "ing:rose",
    "claim:oil-control",
@@ -76725,7 +77059,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/c/i/d/3-6-korean-moisturising-lip-care-balm1-1-evererin-original-imahgve6tpwrakq2.jpeg?q=90",
@@ -76742,6 +77077,7 @@ const NXPRODUCTS = [
    "format:stick",
    "format:balm",
    "format:pack",
+   "water:resistant",
    "ing:peptides",
    "ing:shea-butter",
    "claim:dark-spots",
@@ -76842,7 +77178,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-gloss/x/n/s/10-long-lasting-alovera-lip-balm-for-womens-woongmi-original-imah4d62bnaakumr.jpeg?q=90",
@@ -76861,6 +77198,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:kit",
    "spf:50",
+   "water:resistant",
    "ing:aloe-vera",
    "ing:cherry-acerola",
    "claim:oil-control",
@@ -77072,7 +77410,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/o/4/t/-enriched-transparent-original-imahcf8pkjffgzbx.png?q=90",
@@ -77089,6 +77428,7 @@ const NXPRODUCTS = [
    "format:stick",
    "format:balm",
    "spf:50",
+   "water:resistant",
    "ing:rose",
    "ing:almond",
    "ing:strawberry",
@@ -77627,7 +77967,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/6/m/p/3-5-korean-color-changing-crystal-lip-balm-1-gfsu-go-for-original-imahfupksygkt5v7.jpeg?q=90",
@@ -77642,6 +77983,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:balm",
+   "water:unstated",
    "ing:strawberry",
    "claim:oil-control",
    "claim:hydrating",
@@ -77736,7 +78078,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/g/o/s/4-8-best-lip-balm-is-likely-a-skincare-product-1-gfsu-go-for-original-imagyceykch6txye.jpeg?q=90",
@@ -77754,6 +78097,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:kit",
    "spf:30",
+   "water:unstated",
    "ing:rose",
    "ing:shea-butter",
    "ing:cocoa-butter",
@@ -78058,7 +78402,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/r/o/d/3-8-natural-oils-24-hrs-moisturizing-color-lip-balm-orange-1-original-imagjqyd6zczysmm.jpeg?q=90",
@@ -78077,6 +78422,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:kit",
    "spf:50",
+   "water:unstated",
    "ing:vitamin-e",
    "ing:strawberry",
    "ing:cherry-acerola",
@@ -78289,7 +78635,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/z/v/r/3-color-changing-waterproof-multi-fruity-lip-balm-color-changing-original-imagyhfsrvr7rdut.jpeg?q=90",
@@ -78311,6 +78658,7 @@ const NXPRODUCTS = [
    "format:kit",
    "spf:50",
    "pa:++++",
+   "water:resistant",
    "ing:ceramides",
    "ing:kojic-acid",
    "ing:rose",
@@ -78519,7 +78867,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/u/j/4/2-5-moisturizing-aloe-vera-pink-color-lip-balm-1-luzimaisa-original-imah49sbbtsatesj.jpeg?q=90",
@@ -78538,6 +78887,7 @@ const NXPRODUCTS = [
    "format:kit",
    "spf:50",
    "pa:++++",
+   "water:resistant",
    "ing:ceramides",
    "ing:kojic-acid",
    "ing:aloe-vera",
@@ -79059,7 +79409,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/i/i/s/5-new-korean-green-lip-balm-change-changing-pink-lips-1-original-imahfr8cxeac96gj.jpeg?q=90",
@@ -79078,6 +79429,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:50+",
    "pa:+++",
+   "water:resistant",
    "ing:vitamin-c",
    "ing:peptides",
    "ing:rose",
@@ -79604,7 +79956,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/2/7/o/3-2-magic-color-lip-balm-moisture-pink-glow-moisturizer-1-daryue-original-imahnjdqsvrgrwuv.jpeg?q=90",
@@ -79621,6 +79974,7 @@ const NXPRODUCTS = [
    "format:stick",
    "format:balm",
    "spf:15",
+   "water:unstated",
    "ing:peptides",
    "claim:brightening",
    "claim:oil-control",
@@ -80160,7 +80514,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/x/0/z/7-crystal-jelly-lip-mask-glossy-moisturizing-long-lasting-lip-original-imahgnqyks9f3fdb.jpeg?q=90",
@@ -80179,6 +80534,7 @@ const NXPRODUCTS = [
    "format:kit",
    "format:lip-mask",
    "spf:30",
+   "water:unstated",
    "ing:cherry-acerola",
    "ing:avocado",
    "claim:oil-control",
@@ -80487,7 +80843,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/m/h/x/25-rose-extract-collagen-extract-lip-oil-with-lip-mask-fruity-original-imahhufmwy4rsufg.jpeg?q=90",
@@ -80508,6 +80865,7 @@ const NXPRODUCTS = [
    "format:kit",
    "format:lip-mask",
    "spf:15",
+   "water:unstated",
    "ing:collagen",
    "ing:rose",
    "ing:strawberry",
@@ -81258,7 +81616,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/x/v/t/25-rose-extract-collagen-extract-lip-oil-with-lip-mask-fruity-original-imahhufmufsqjpes.jpeg?q=90",
@@ -81277,6 +81636,7 @@ const NXPRODUCTS = [
    "format:kit",
    "format:lip-mask",
    "spf:30",
+   "water:unstated",
    "ing:collagen",
    "ing:rose",
    "claim:hydrating",
@@ -81369,7 +81729,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/h/c/y/25-rose-extract-collagen-extract-lip-oil-with-lip-mask-fruity-original-imahhm9gzmy37ahn.jpeg?q=90",
@@ -81388,6 +81749,7 @@ const NXPRODUCTS = [
    "format:kit",
    "format:lip-mask",
    "spf:30",
+   "water:unstated",
    "ing:collagen",
    "ing:rose",
    "ing:watermelon",
@@ -81815,7 +82177,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/r/l/t/25-rose-extract-collagen-extract-lip-oil-with-lip-mask-fruity-original-imahhufmfak3hzfq.jpeg?q=90",
@@ -81835,6 +82198,7 @@ const NXPRODUCTS = [
    "format:kit",
    "format:lip-mask",
    "spf:50",
+   "water:unstated",
    "ing:niacinamide",
    "ing:collagen",
    "ing:rose",
@@ -82252,7 +82616,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/h/g/s/3-0-moisturizing-lip-balm-for-chapped-lips-1-latixmat-original-imahng7rrhedwkaf.jpeg?q=90",
@@ -82269,6 +82634,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:kit",
    "spf:30",
+   "water:unstated",
    "ing:rose",
    "claim:oil-control",
    "claim:hydrating",
@@ -82362,7 +82728,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/z/m/6/25-rose-extract-collagen-extract-lip-oil-with-lip-mask-fruity-original-imahhh569m6wtb6q.jpeg?q=90",
@@ -82382,6 +82749,7 @@ const NXPRODUCTS = [
    "format:kit",
    "format:lip-mask",
    "spf:50",
+   "water:unstated",
    "ing:niacinamide",
    "ing:collagen",
    "ing:rose",
@@ -82480,7 +82848,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/y/g/2/25-rose-extract-collagen-extract-lip-oil-with-lip-mask-fruity-original-imahhm9geqzyegmb.jpeg?q=90",
@@ -82500,6 +82869,7 @@ const NXPRODUCTS = [
    "format:kit",
    "format:lip-mask",
    "spf:15",
+   "water:unstated",
    "ing:collagen",
    "ing:rose",
    "ing:strawberry",
@@ -82705,7 +83075,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/f/y/x/25-rose-extract-collagen-extract-lip-oil-with-lip-mask-fruity-original-imahhh56zagjkc5a.jpeg?q=90",
@@ -82726,6 +83097,7 @@ const NXPRODUCTS = [
    "format:kit",
    "format:lip-mask",
    "spf:15",
+   "water:unstated",
    "ing:collagen",
    "ing:rose",
    "ing:strawberry",
@@ -83142,7 +83514,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/m/1/p/3-long-lasting-lips-moisturizer-lip-balm-repair-lip-1-usbk-original-imahdpxremrnbs8z.jpeg?q=90",
@@ -83160,6 +83533,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:rose",
    "ing:shea-butter",
    "ing:vitamin-e",
@@ -83257,7 +83631,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/i/v/l/25-rose-extract-collagen-extract-lip-oil-with-lip-mask-fruity-original-imahhufmzfvhhyfj.jpeg?q=90",
@@ -83277,6 +83652,7 @@ const NXPRODUCTS = [
    "format:kit",
    "format:lip-mask",
    "spf:15",
+   "water:unstated",
    "ing:niacinamide",
    "ing:collagen",
    "ing:rose",
@@ -83596,7 +83972,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/0/u/n/25-rose-extract-collagen-extract-lip-oil-with-lip-mask-fruity-original-imahhufmrpyg9gmh.jpeg?q=90",
@@ -83617,6 +83994,7 @@ const NXPRODUCTS = [
    "format:kit",
    "format:lip-mask",
    "spf:15",
+   "water:unstated",
    "ing:collagen",
    "ing:rose",
    "ing:strawberry",
@@ -84350,7 +84728,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/j/w/1/25-rose-extract-collagen-extract-lip-oil-with-lip-mask-fruity-original-imahhxcbd9x36zwc.jpeg?q=90",
@@ -84369,6 +84748,7 @@ const NXPRODUCTS = [
    "format:kit",
    "format:lip-mask",
    "spf:30",
+   "water:unstated",
    "ing:collagen",
    "ing:coffee",
    "ing:rose",
@@ -84682,7 +85062,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/z/j/g/25-rose-extract-collagen-extract-lip-oil-with-lip-mask-fruity-original-imahhh565qhgunkf.jpeg?q=90",
@@ -84701,6 +85082,7 @@ const NXPRODUCTS = [
    "format:kit",
    "format:lip-mask",
    "spf:30",
+   "water:unstated",
    "ing:collagen",
    "ing:coffee",
    "ing:rose",
@@ -85224,7 +85606,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/i/b/t/25-rose-extract-collagen-extract-lip-oil-with-lip-mask-fruity-original-imahhufmddrghvnc.jpeg?q=90",
@@ -85243,6 +85626,7 @@ const NXPRODUCTS = [
    "format:scrub",
    "format:kit",
    "format:lip-mask",
+   "water:unstated",
    "ing:collagen",
    "ing:rose",
    "ing:strawberry",
@@ -85336,7 +85720,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/6/h/w/3-4-korean-color-changing-lip-balm-transparent-long-lasting-for-original-imahf9jphn92yzme.jpeg?q=90",
@@ -85355,6 +85740,7 @@ const NXPRODUCTS = [
    "format:clay-mask",
    "format:kit",
    "spf:30",
+   "water:unstated",
    "ing:rose",
    "ing:shea-butter",
    "claim:oil-control",
@@ -85558,7 +85944,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/o/2/m/25-rose-extract-collagen-extract-lip-oil-with-lip-mask-fruity-original-imahhm9gg9nw5ku5.jpeg?q=90",
@@ -85577,6 +85964,7 @@ const NXPRODUCTS = [
    "format:kit",
    "format:lip-mask",
    "spf:30",
+   "water:unstated",
    "ing:collagen",
    "ing:rose",
    "ing:strawberry",
@@ -85886,7 +86274,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-gloss/m/6/i/5-ocean-shimmer-clear-gloss-transparent-hydrating-lip-gloss-with-original-imahedj2bwcez98u.jpeg?q=90",
@@ -85903,6 +86292,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "spf:50",
+   "water:unstated",
    "ing:rose",
    "ing:strawberry",
    "claim:dark-spots",
@@ -86002,7 +86392,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/e/i/2/25-rose-extract-collagen-extract-lip-oil-with-lip-mask-fruity-original-imahhm9ggsacyum5.jpeg?q=90",
@@ -86022,6 +86413,7 @@ const NXPRODUCTS = [
    "format:kit",
    "format:lip-mask",
    "spf:50",
+   "water:unstated",
    "ing:niacinamide",
    "ing:collagen",
    "ing:rose",
@@ -86117,7 +86509,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/q/q/b/25-rose-extract-collagen-extract-lip-oil-with-lip-mask-2-klaty-original-imahhb2zbnhcrvpg.jpeg?q=90",
@@ -86136,6 +86529,7 @@ const NXPRODUCTS = [
    "format:pack",
    "format:kit",
    "format:lip-mask",
+   "water:resistant",
    "ing:peptides",
    "ing:collagen",
    "ing:rose",
@@ -86232,7 +86626,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/b/w/p/10-naturally-glowing-lips-smoothes-dry-lips-balm-1-agley-original-imah99szggjygm3j.jpeg?q=90",
@@ -86249,6 +86644,7 @@ const NXPRODUCTS = [
    "format:stick",
    "format:balm",
    "spf:30",
+   "water:resistant",
    "ing:vitamin-e",
    "ing:strawberry",
    "claim:brightening",
@@ -86976,7 +87372,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/t/1/7/3-6-color-changing-lip-balm-for-pink-lips-1-emijun-original-imah2hsmbxhj3jv6.jpeg?q=90",
@@ -86993,6 +87390,7 @@ const NXPRODUCTS = [
    "format:stick",
    "format:balm",
    "spf:30",
+   "water:unstated",
    "ing:rose",
    "ing:almond",
    "claim:brightening",
@@ -87084,7 +87482,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/q/x/u/3-natural-lip-balm-shiny-soft-formula-1-nadja-original-imahdqz8npedmbtf.jpeg?q=90",
@@ -87101,6 +87500,7 @@ const NXPRODUCTS = [
    "format:stick",
    "format:balm",
    "format:pack",
+   "water:resistant",
    "ing:peptides",
    "ing:shea-butter",
    "claim:dark-spots",
@@ -87294,7 +87694,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/r/l/f/3-6-lip-balm-best-for-dry-lips-long-lasting-1-bluemermaid-original-imagyhgfddyn2rph.jpeg?q=90",
@@ -87312,6 +87713,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:pack",
    "format:kit",
+   "water:resistant",
    "ing:peptides",
    "ing:shea-butter",
    "claim:dark-spots",
@@ -88444,7 +88846,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/r/x/u/10-butter-balm-hydrating-lip-balm-assorted-shades-deep-moisture-original-imahjs38xcsybss8.jpeg?q=90",
@@ -88461,6 +88864,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "spf:50",
+   "water:unstated",
    "ing:beetroot",
    "claim:brightening",
    "claim:oil-control",
@@ -88555,7 +88959,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/d/x/g/25-rose-extract-collagen-extract-lip-oil-with-lip-mask-fruity-original-imahhxcbaw7e4ufy.jpeg?q=90",
@@ -88575,6 +88980,7 @@ const NXPRODUCTS = [
    "format:kit",
    "format:lip-mask",
    "spf:30",
+   "water:unstated",
    "ing:collagen",
    "ing:rose",
    "ing:beetroot",
@@ -91387,7 +91793,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/u/4/x/5-multifunctional-lip-lightening-balm-with-niacinamide-pack-of-2-original-imahp9msdsd7zbnq.jpeg?q=90",
@@ -91408,6 +91815,7 @@ const NXPRODUCTS = [
    "format:body-wax",
    "spf:50",
    "pa:++",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:kojic-acid",
@@ -91733,7 +92141,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/w/n/p/5-sabrina-lip-lightening-balm-1-woodoo-original-imahzrrvcydy7baa.jpeg?q=90",
@@ -91750,6 +92159,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:kit",
    "spf:50",
+   "water:unstated",
    "claim:whitening-claim",
    "claim:hydrating",
    "claim:exfoliating",
@@ -91947,7 +92357,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/j/u/g/9-lip-lightening-serum-with-spf-15-2-hydronic-original-imahqy558t5cwrur.jpeg?q=90"
@@ -91960,6 +92371,7 @@ const NXPRODUCTS = [
    "format:serum",
    "format:balm",
    "spf:15",
+   "water:unstated",
    "ing:cocoa-butter",
    "claim:dark-spots",
    "claim:whitening-claim",
@@ -92056,7 +92468,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/n/s/w/6-rose-tinted-lip-balm-moisturizing-lip-care-with-natural-tint-1-original-imahps8tyahjbspt.jpeg?q=90",
@@ -92075,6 +92488,7 @@ const NXPRODUCTS = [
    "format:wash",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:ceramides",
    "ing:kojic-acid",
    "ing:rose",
@@ -92171,7 +92585,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/g/o/n/5-tinted-lip-balm-for-dry-pigmented-lips-with-spf-30-pa-1-52-original-imahpzce2cfzntha.jpeg?q=90",
@@ -92187,6 +92602,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:30",
    "pa:+++",
+   "water:unstated",
    "ing:cocoa-butter",
    "claim:dark-spots",
    "claim:hydrating",
@@ -92281,7 +92697,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/9/s/j/4-8-tinted-lip-balm-with-spf-30-for-chapped-and-dark-lips-1-skin-original-imahnq36hyyckvhg.jpeg?q=90",
@@ -92300,6 +92717,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:30",
    "pa:+++",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:kojic-acid",
@@ -92399,7 +92817,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/d/u/w/12-pack-of-3-korean-crystal-flower-jelly-lip-balm-hydrating-original-imahpp4my6tyfcbh.jpeg?q=90",
@@ -92417,6 +92836,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:kit",
    "spf:50",
+   "water:unstated",
    "ing:kojic-acid",
    "ing:aloe-vera",
    "ing:cherry-acerola",
@@ -92514,7 +92934,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/a/f/s/3-8-tint-me-lip-balm-moisturizing-non-sticky-everyday-lip-care-1-original-imahf8cxf3xxpgdc.jpeg?q=90",
@@ -92535,6 +92956,7 @@ const NXPRODUCTS = [
    "spf:50",
    "pa:+++",
    "sun:mineral",
+   "water:unstated",
    "ing:petrolatum",
    "ing:ceramides",
    "ing:kojic-acid",
@@ -92641,7 +93063,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/3/l/g/5-tinted-lip-balm-for-women-and-men-spf-50-pa-moisturizing-daily-original-imahq5gauheg9g4q.jpeg?q=90",
@@ -92657,6 +93080,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:50+",
    "pa:++",
+   "water:unstated",
    "claim:hydrating",
    "claim:tinted",
    "claim:spf-claim",
@@ -92863,7 +93287,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/j/n/b/20-hydrating-tinted-lip-balm-moisturizing-lip-care-with-natural-original-imahn8a3jsn2bhjj.jpeg?q=90",
@@ -92881,6 +93306,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "spf:15",
+   "water:unstated",
    "ing:shea-butter",
    "ing:coconut",
    "ing:beetroot",
@@ -92981,7 +93407,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/o/v/v/60-tinted-lip-balm-spf-50-pa-vitamin-c-shea-butter-hydrating-original-imahkr42hzxgwyz7.jpeg?q=90",
@@ -92999,6 +93426,7 @@ const NXPRODUCTS = [
    "format:pack",
    "spf:50",
    "pa:++++",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:ceramides",
@@ -93098,7 +93526,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/q/w/l/45-tinted-lip-balm-spf-50-pa-vitamin-c-shea-butter-dry-chapped-original-imahkr42uy3pehaw.jpeg?q=90",
@@ -93115,6 +93544,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:50",
    "pa:++++",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:ceramides",
@@ -93329,7 +93759,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 12 ratings"
+   "buyerEvidence": "4★ from 12 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/z/s/g/15-tinted-lip-balm-spf-50-pa-vitamin-c-shea-butter-hydrating-original-imahhf7zq6zdshme.jpeg?q=90",
@@ -93346,6 +93777,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:50",
    "pa:++++",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:ceramides",
@@ -93444,7 +93876,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/0/2/z/10-tinted-chocolate-lipbalm-1-oteria-original-imahnj6ewd9zehhk.jpeg?q=90",
@@ -93462,6 +93895,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:50+",
    "pa:+++",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
    "ing:peptides",
@@ -93780,7 +94214,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/n/w/i/5-100-soft-roll-on-hydrating-tinted-lip-balm-1-lillyamor-original-imahdhszvkxkmygw.jpeg?q=90",
@@ -93799,6 +94234,7 @@ const NXPRODUCTS = [
    "format:roll-on",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:ceramides",
    "ing:kojic-acid",
    "ing:rose",
@@ -94523,7 +94959,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/b/i/x/5-lip-balm-stick-tinted-lip-care-for-dry-chapped-lips-1-thtc-original-imahzgv5e9jtmzhf.jpeg?q=90",
@@ -94541,6 +94978,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:kit",
    "spf:30",
+   "water:unstated",
    "ing:rose",
    "ing:almond",
    "claim:hydrating",
@@ -99247,7 +99685,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-gloss/c/j/s/4-glossy-lips-smooth-high-shine-finish-caterinachiara-original-imahhjr4aszeagcd.jpeg?q=90",
@@ -99265,6 +99704,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "spf:15",
+   "water:unstated",
    "ing:shea-butter",
    "ing:vitamin-e",
    "ing:jojoba",
@@ -99362,7 +99802,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — kojic dipalmitate #25 on INCI (matching only — not proof it works)"
+   "concernBasis": "Dark spots — kojic dipalmitate #25 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/a/6/t/4-5-brightening-tinted-lip-balm-spf-50-pa-for-dark-pigmented-lip-original-imahpp6f4ahfnday.jpeg?q=90",
@@ -99379,6 +99820,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "claim:brightening",
    "claim:dark-spots",
    "claim:hydrating",
@@ -99580,7 +100022,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/w/8/x/3-6-tinted-lip-balm-brightening-hydrating-1-svylam-original-imahqkc4mfcc2vzg.jpeg?q=90",
@@ -99595,6 +100038,7 @@ const NXPRODUCTS = [
    "format:stick",
    "format:balm",
    "spf:30",
+   "water:unstated",
    "ing:ceramides",
    "ing:peptides",
    "ing:strawberry",
@@ -100221,7 +100665,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/0/u/e/3-8-hydra-touch-lip-balm-keeps-lips-soft-smooth-highly-original-imahpfapzjcvrqke.jpeg?q=90",
@@ -100241,6 +100686,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:ceramides",
    "ing:kojic-acid",
    "ing:almond",
@@ -100952,7 +101398,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/7/m/g/50-ceramide-tinted-lip-balm-spf-50-with-shea-butter-for-soft-original-imahqcjyfzdaesrz.jpeg?q=90",
@@ -100968,6 +101415,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:balm",
    "spf:50+",
+   "water:unstated",
    "ing:ceramides",
    "ing:shea-butter",
    "ing:strawberry",
@@ -101262,7 +101710,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/d/u/9/4-8-spf-15-lip-balm-with-liquorice-for-dry-chapped-lips-1-original-imahjj7wkmzrgkdz.jpeg?q=90",
@@ -101279,6 +101728,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "spf:15",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:petrolatum",
    "ing:kojic-acid",
@@ -101479,7 +101929,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/r/3/p/5-ceramide-lip-balm-spf-50-pa-in-vivo-tested-kojic-acid-original-imahptwj4fwmcfnx.jpeg?q=90",
@@ -101497,6 +101948,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:50+",
    "pa:++++",
+   "water:unstated",
    "ing:ceramides",
    "ing:beetroot",
    "claim:broad-spectrum",
@@ -101591,7 +102043,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/s/t/g/5-ceramide-lip-balm-spf-50-pa-1-hexora-original-imahpra8przgduk2.jpeg?q=90",
@@ -101606,6 +102059,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:50",
    "pa:++",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:kojic-acid",
@@ -101701,7 +102155,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/x/l/r/10-plumping-lip-balm-spf-15-moisturizes-brightens-lips-tinted-1-original-imahkkzar7gf8wxa.jpeg?q=90",
@@ -101717,6 +102172,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:balm",
    "spf:15",
+   "water:unstated",
    "ing:cherry-acerola",
    "claim:brightening",
    "claim:oil-control",
@@ -101810,7 +102266,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/c/6/4/20-0-brightening-hydrating-lip-balm-spf-50-for-dark-pigmented-original-imahqhbzajne3xs9.jpeg?q=90",
@@ -101828,6 +102285,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:50",
    "pa:++++",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
    "ing:ceramides",
@@ -101927,7 +102385,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/p/a/a/10-moisturising-lip-care-10g-spf-40-lip-balm-soft-smooth-original-imahq2hwvhyzshwb.jpeg?q=90"
@@ -101939,6 +102398,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:balm",
    "spf:40",
+   "water:unstated",
    "claim:hydrating",
    "claim:spf-claim",
    "aud:unisex",
@@ -102027,7 +102487,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/i/j/i/3-8-brightening-lip-balm-spf-15-brightens-dark-lips-moisturizes-original-imahpjnwahxhvb58.jpeg?q=90",
@@ -102046,6 +102507,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:kit",
    "spf:15",
+   "water:unstated",
    "ing:rose",
    "ing:shea-butter",
    "ing:vitamin-e",
@@ -102145,7 +102607,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/s/t/g/5-ceramide-lip-balm-spf-50-pa-1-hexora-original-imahpra8przgduk2.jpeg?q=90",
@@ -102161,6 +102624,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:50+",
    "pa:+++",
+   "water:unstated",
    "ing:ceramides",
    "claim:hydrating",
    "claim:tinted",
@@ -102251,7 +102715,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/9/x/c/15-plumping-spf10-lip-balm-for-dry-dark-chapped-cracked-lips-original-imahf7eszhngsahp.jpeg?q=90",
@@ -102268,6 +102733,7 @@ const NXPRODUCTS = [
    "format:serum",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:shea-butter",
    "ing:coconut",
    "ing:strawberry",
@@ -102366,7 +102832,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/9/s/7/5-vitamin-c-ceramides-spf50-brightening-red-lip-balm-for-original-imahq63wryyph2yy.jpeg?q=90",
@@ -102383,6 +102850,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:50+",
    "pa:++++",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
@@ -102485,7 +102953,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/q/f/s/-original-imahdfk8nkcbqaxb.jpeg?q=90",
@@ -102507,6 +102976,7 @@ const NXPRODUCTS = [
    "format:roll-on",
    "format:kit",
    "spf:15",
+   "water:unstated",
    "ing:rose",
    "ing:almond",
    "ing:shea-butter",
@@ -102605,7 +103075,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/s/t/g/5-ceramide-lip-balm-spf-50-pa-1-hexora-original-imahpra8przgduk2.jpeg?q=90",
@@ -102626,6 +103097,7 @@ const NXPRODUCTS = [
    "pa:+++",
    "sun:mineral",
    "sun:chemical",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:kojic-acid",
@@ -102730,7 +103202,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/t/0/r/5-strawberry-lip-balm-spf-50-vitamin-e-jojoba-oil-for-hydrated-original-imahkggngarjsf5q.jpeg?q=90",
@@ -102749,6 +103222,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:50+",
    "pa:+++",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:kojic-acid",
@@ -102849,7 +103323,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/c/q/t/4-8-lip-defense-spf-30-unflavoured-lip-balm-with-jojoba-oil-vit-original-imahq8c5zhgah3uy.jpeg?q=90",
@@ -102864,6 +103339,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "spf:30",
+   "water:unstated",
    "ing:vitamin-e",
    "ing:jojoba",
    "ing:beeswax",
@@ -102956,7 +103432,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/e/l/f/4-8-pigmentation-repair-lip-balm-with-spf-30-hydrating-for-dark-original-imahm9jc3gzzyntg.jpeg?q=90",
@@ -102979,6 +103456,7 @@ const NXPRODUCTS = [
    "format:kit",
    "spf:30",
    "pa:+++",
+   "water:unstated",
    "ing:ceramides",
    "ing:kojic-acid",
    "ing:aloe-vera",
@@ -103079,7 +103557,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/h/l/7/4-8-spf-15-lip-balm-with-liquorice-for-dry-chapped-lips-2-original-imahjj99zyqtkgwb.jpeg?q=90",
@@ -103097,6 +103576,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:pack",
    "spf:15",
+   "water:unstated",
    "ing:petrolatum",
    "ing:rose",
    "ing:almond",
@@ -103195,7 +103675,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/h/9/2/-original-imahpf7gpcmawnyu.jpeg?q=90",
@@ -103212,6 +103693,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:30",
    "pa:++++",
+   "water:unstated",
    "ing:ceramides",
    "ing:peptides",
    "ing:pdrn-polynucleotide",
@@ -103309,7 +103791,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/y/y/q/4-8-cocoa-butter-lip-balm-spf-30-pa-4-8g-pack-of-2-2-365care-original-imahfhv43rs2ggvz.jpeg?q=90",
@@ -103330,6 +103813,7 @@ const NXPRODUCTS = [
    "spf:30",
    "pa:+++",
    "sun:mineral",
+   "water:unstated",
    "ing:kojic-acid",
    "ing:cocoa-butter",
    "ing:licorice",
@@ -103427,7 +103911,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/g/n/7/10-tinted-lip-balm-spf-50-pa-brightening-lip-balm-for-dark-lips-original-imahmfaec3k8wrmt.jpeg?q=90",
@@ -103445,6 +103930,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:ceramides",
    "ing:kojic-acid",
    "ing:beetroot",
@@ -103542,7 +104028,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/l/2/p/15-lip-balm-with-spf-15-2-nueman-original-imahgb8ajmztr8hn.jpeg?q=90",
@@ -103562,6 +104049,7 @@ const NXPRODUCTS = [
    "spf:15",
    "pa:+++",
    "sun:mineral",
+   "water:unstated",
    "ing:ceramides",
    "ing:shea-butter",
    "ing:cocoa-butter",
@@ -103663,7 +104151,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/1/0/v/5-lip-balm-spf-50-strawberry-with-coconut-oil-vitamin-e-for-soft-original-imahkggnhjnxswkw.jpeg?q=90",
@@ -103682,6 +104171,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:50+",
    "pa:+++",
+   "water:unstated",
    "ing:niacinamide",
    "ing:kojic-acid",
    "ing:vitamin-e",
@@ -103780,7 +104270,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/8/f/5/50-lipbalm-with-spf-made-with-beetroot-extracts-shea-butter-1-original-imahdaj5mhu4qnfz.jpeg?q=90",
@@ -103795,6 +104286,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:balm",
+   "water:unstated",
    "ing:rose",
    "ing:shea-butter",
    "ing:beetroot",
@@ -103888,7 +104380,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/u/e/s/3-5-nourishing-lip-balm-moisturizing-spf-protection-1-yuency-original-imahpjhfjf2vjrsp.jpeg?q=90",
@@ -103908,6 +104401,7 @@ const NXPRODUCTS = [
    "format:lip-mask",
    "spf:40",
    "pa:+++",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:green-tea",
    "ing:strawberry",
@@ -104007,7 +104501,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/f/r/4/0-05-spf-15-lip-balm-2-sunkroma-original-imahzepm55fsvcm4.jpeg?q=90",
@@ -104024,6 +104519,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:balm",
    "spf:15",
+   "water:unstated",
    "ing:honey",
    "ing:almond",
    "claim:hydrating",
@@ -104117,7 +104613,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/u/y/w/4-spf-30-lip-balm-with-vitamin-c-lip-balm-lip-protection-original-imahmcfg8hx9gthh.jpeg?q=90",
@@ -104136,6 +104633,7 @@ const NXPRODUCTS = [
    "format:scrub",
    "format:kit",
    "spf:30",
+   "water:resistant",
    "ing:vitamin-c",
    "ing:strawberry",
    "claim:brightening",
@@ -104233,7 +104731,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-lip-balm/x/u/i/4-vitamin-c-lip-balm-brightens-pigmented-lips-improves-natural-original-imahmczyzn8hdgft.jpeg?q=90",
@@ -104249,6 +104748,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:stick",
    "format:balm",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:cherry-acerola",
    "claim:brightening",
@@ -104342,7 +104842,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Lotus Herbals — Established / listed Indian FMCG house",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/9/g/t/20-peptide-lip-balm-with-spf-15-for-dry-and-chapped-lips-2-lotus-original-imah7f25y7ckctw5.jpeg?q=90",
@@ -104360,6 +104861,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:kit",
    "spf:15",
+   "water:unstated",
    "ing:peptides",
    "ing:rose",
    "ing:almond",
@@ -104459,7 +104961,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/x/o/q/4-vitamin-c-lip-balm-spf-30-for-soft-and-silky-lips-1-sheny-original-imahmsqgagpjycnz.jpeg?q=90",
@@ -104475,6 +104978,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:balm",
    "spf:30",
+   "water:unstated",
    "ing:vitamin-c",
    "claim:spf-claim",
    "aud:unisex",
@@ -104562,7 +105066,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/d/2/a/4-vitamin-c-spf-30-lip-balm-for-soft-supple-and-nourished-lips-1-original-imahmrzpcqexnxvf.jpeg?q=90",
@@ -104578,6 +105083,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:balm",
    "spf:30",
+   "water:unstated",
    "ing:vitamin-c",
    "claim:hydrating",
    "claim:spf-claim",
@@ -104666,7 +105172,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/h/l/7/4-8-spf-15-lip-balm-with-liquorice-for-dry-chapped-lips-2-original-imahjj99zyqtkgwb.jpeg?q=90",
@@ -104683,6 +105190,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "spf:15",
+   "water:unstated",
    "ing:petrolatum",
    "ing:licorice",
    "ing:vitamin-e",
@@ -104775,7 +105283,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/f/i/n/1-vitamin-c-spf-30-nourishing-lip-balm-moisturizer-for-dry-and-original-imahmc2csv2hbmrq.jpeg?q=90",
@@ -104793,6 +105302,7 @@ const NXPRODUCTS = [
    "format:stick",
    "format:balm",
    "spf:30",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:aloe-vera",
    "ing:cherry-acerola",
@@ -104889,7 +105399,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/l/a/g/4-vitamin-c-spf-30-lip-balm-for-daily-lip-moisturizing-and-sun-original-imahmrkemqzcgkhg.jpeg?q=90",
@@ -104905,6 +105416,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:balm",
    "spf:30",
+   "water:unstated",
    "ing:vitamin-c",
    "claim:hydrating",
    "claim:spf-claim",
@@ -104994,7 +105506,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/g/7/5/15-special-care-aleo-vera-lip-sleeping-mask-spf-15-for-24-hrs-original-imagtepf9uxwgzfx.jpeg?q=90",
@@ -105015,6 +105528,7 @@ const NXPRODUCTS = [
    "format:body-wax",
    "format:lip-mask",
    "spf:15",
+   "water:unstated",
    "ing:green-tea",
    "ing:rose",
    "ing:honey",
@@ -105114,7 +105628,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/a/j/8/4-spf-30-lip-balm-with-vitamin-c-for-soft-smooth-and-protected-original-imahmrgxyftgtpmy.jpeg?q=90",
@@ -105130,6 +105645,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:balm",
    "spf:30",
+   "water:unstated",
    "ing:vitamin-c",
    "claim:spf-claim",
    "aud:unisex",
@@ -105217,7 +105733,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/d/x/a/4-spf-30-lip-balm-with-vitamin-c-for-healthy-and-glossy-lips-1-original-imahmsjjbxehfae6.jpeg?q=90",
@@ -105233,6 +105750,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:balm",
    "spf:30",
+   "water:unstated",
    "ing:vitamin-c",
    "claim:spf-claim",
    "aud:unisex",
@@ -105320,7 +105838,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/z/o/u/4-spf-30-lip-balm-with-vitamin-c-for-soft-pink-lips-effect-1-original-imahmspqh52kaneu.jpeg?q=90",
@@ -105336,6 +105855,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:balm",
    "spf:30",
+   "water:unstated",
    "ing:vitamin-c",
    "claim:spf-claim",
    "aud:unisex",
@@ -105423,7 +105943,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/c/8/g/4-lip-repair-balm-with-vitamin-c-and-spf-30-for-cracked-lips-original-imahmrnjju3mq3zr.jpeg?q=90",
@@ -105439,6 +105960,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:balm",
    "spf:30",
+   "water:unstated",
    "ing:vitamin-c",
    "claim:barrier",
    "claim:spf-claim",
@@ -105528,7 +106050,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/1/s/s/10-rose-lip-balm-with-spf-20-for-dry-chapped-lips-1-elecsera-original-imah9cn8s7mvxv4z.jpeg?q=90",
@@ -105546,6 +106069,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:roll-on",
    "spf:15",
+   "water:unstated",
    "ing:rose",
    "claim:brightening",
    "claim:hydrating",
@@ -105640,7 +106164,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/s/q/0/1-6-ultra-soft-tinted-lip-balm-stick-spf-50-with-shea-butter-original-imahqueybfcxmcpv.jpeg?q=90",
@@ -105657,6 +106182,7 @@ const NXPRODUCTS = [
    "format:stick",
    "format:balm",
    "spf:50+",
+   "water:unstated",
    "ing:shea-butter",
    "claim:dark-spots",
    "claim:tinted",
@@ -105747,7 +106273,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/9/1/z/4-spf-30-lip-balm-with-vitamin-c-for-smooth-and-hydrated-lips-1-original-imahmsgtnvj2j5mg.jpeg?q=90",
@@ -105763,6 +106290,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:balm",
    "spf:30",
+   "water:unstated",
    "ing:vitamin-c",
    "claim:hydrating",
    "claim:spf-claim",
@@ -105851,7 +106379,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/j/n/d/4-hydrating-lip-balm-with-vitamin-c-and-spf-30-for-dark-lips-original-imahmrgpnurxhx7n.jpeg?q=90",
@@ -105867,6 +106396,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:balm",
    "spf:30",
+   "water:unstated",
    "ing:vitamin-c",
    "claim:hydrating",
    "claim:barrier",
@@ -105957,7 +106487,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/c/2/m/4-vitamin-c-lip-balm-with-spf-30-orange-dry-chapped-lips-1-sheny-original-imahmc3zngh6tdtf.jpeg?q=90",
@@ -105974,6 +106505,7 @@ const NXPRODUCTS = [
    "format:stick",
    "format:balm",
    "spf:30",
+   "water:unstated",
    "ing:vitamin-c",
    "claim:brightening",
    "claim:dark-spots",
@@ -106067,7 +106599,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/s/o/j/4-5-tinted-lip-balm-spf-50-pa-with-kojic-acid-ceramides-for-dark-original-imahphh2w24h277k.jpeg?q=90",
@@ -106085,6 +106618,7 @@ const NXPRODUCTS = [
    "format:kit",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:kojic-acid",
@@ -106295,7 +106829,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/p/q/c/5-2-peptide-brightening-lip-balm-for-pigmented-chapped-lips-with-original-imahf7g7afssrmme.jpeg?q=90",
@@ -106316,6 +106851,7 @@ const NXPRODUCTS = [
    "spf:50+",
    "pa:++++",
    "sun:chemical",
+   "water:unstated",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:ceramides",
@@ -106424,7 +106960,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/p/t/z/3-5-brightening-lip-balm-spf-50-brightens-dark-lips-dry-lips-1-original-imahpjzgh2gmvbyu.jpeg?q=90",
@@ -106441,6 +106978,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:balm",
    "spf:50",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:strawberry",
    "claim:brightening",
@@ -106535,7 +107073,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-gloss/e/j/b/10-long-lasting-moisturizing-lip-oil-gloss-lip-for-all-girls-original-imah8qyxn8utuyxu.jpeg?q=90",
@@ -106551,6 +107090,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:stick",
    "format:balm",
+   "water:resistant",
    "claim:dark-spots",
    "claim:oil-control",
    "claim:hydrating",
@@ -106645,7 +107185,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/9/g/x/5-strawberry-lip-balm-spf-50-with-coconut-oil-shea-butter-for-original-imahkggnzfk5ahg8.jpeg?q=90",
@@ -106664,6 +107205,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:50+",
    "pa:+++",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:kojic-acid",
@@ -106766,7 +107308,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/q/d/2/5-lip-balm-with-spf-50-beetroot-tint-for-soft-smooth-pink-lips-1-original-imahnbm3vpqkwy76.jpeg?q=90",
@@ -106787,6 +107330,7 @@ const NXPRODUCTS = [
    "format:body-wax",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:kojic-acid",
@@ -107003,7 +107547,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/g/n/7/10-tinted-lip-balm-spf-50-pa-brightening-lip-balm-for-dark-lips-original-imahmfaec3k8wrmt.jpeg?q=90",
@@ -107022,6 +107567,7 @@ const NXPRODUCTS = [
    "format:body-wax",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:ceramides",
    "ing:kojic-acid",
    "ing:beetroot",
@@ -107120,7 +107666,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/5/6/8/4-la-la-lips-tinted-lip-balm-with-spf-15-lip-balm-strawberry-4gm-original-imahjzc3csgaw8sz.jpeg?q=90",
@@ -107137,6 +107684,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:kit",
    "spf:15",
+   "water:unstated",
    "ing:strawberry",
    "claim:tinted",
    "claim:spf-claim",
@@ -107225,7 +107773,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/e/5/9/10-lip-balm-ease-peptide-spf-50-pa-lip-treatment-for-softer-lips-original-imahzk76cvsyyj4q.jpeg?q=90",
@@ -107242,6 +107791,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "ing:peptides",
@@ -107344,7 +107894,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/d/t/e/5-strawberry-lip-balm-spf-50-coconut-oil-vitamin-e-for-hydrated-original-imahkggnqy36nnwy.jpeg?q=90",
@@ -107363,6 +107914,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:50+",
    "pa:+++",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:kojic-acid",
@@ -107463,7 +108015,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/l/b/l/5-beetroot-tinted-lip-balm-spf-50-for-soft-pink-lips-daily-care-original-imahnbhm6cfpfgjs.jpeg?q=90",
@@ -107483,6 +108036,7 @@ const NXPRODUCTS = [
    "format:body-wax",
    "spf:50",
    "pa:++++",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:coffee",
@@ -107590,7 +108144,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — kojic dipalmitate #14 on INCI (matching only — not proof it works)"
+   "concernBasis": "Dark spots — kojic dipalmitate #14 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/v/s/e/1-honey-lip-balm-spf-50-brightens-lips-with-propolis-peptides-original-imahgrghvbyzkhgz.jpeg?q=90",
@@ -107607,6 +108162,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "spf:50",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:peptides",
    "ing:kojic-acid",
@@ -107772,7 +108328,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/m/q/b/5-lip-balm-spf-50-pa-beetroot-lip-care-for-dry-cracked-lips-1-original-imahnbm2ugcpvmaf.jpeg?q=90",
@@ -107792,6 +108349,7 @@ const NXPRODUCTS = [
    "format:body-wax",
    "spf:50",
    "pa:++++",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:coffee",
@@ -107895,7 +108453,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/d/2/5/5-brightening-lip-balm-with-1-vitamin-c-spf-30-for-dry-pigmented-original-imahdhf963uu5dbd.jpeg?q=90",
@@ -107912,6 +108471,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:30",
    "pa:+++",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:ceramides",
    "ing:kojic-acid",
@@ -108007,7 +108567,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/i/l/j/4-2-fresh-flow-peach-lip-balm-with-spf-30-hydrated-lips-never-original-imahj5vw86fbwaym.jpeg?q=90",
@@ -108023,6 +108584,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:balm",
    "spf:30",
+   "water:unstated",
    "ing:vitamin-e",
    "ing:strawberry",
    "ing:beetroot",
@@ -108115,7 +108677,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/b/u/h/5-lip-balm-brightening-spf-30-pa-pigmented-lips-dark-lips-original-imahds55fys9pmfh.jpeg?q=90",
@@ -108134,6 +108697,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:30",
    "pa:+++",
+   "water:unstated",
    "ing:ceramides",
    "ing:kojic-acid",
    "ing:rosehip",
@@ -108235,7 +108799,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/1/n/a/10-tinted-lip-balm-spf-50-rose-tint-for-soft-hydrated-lips-1-original-imahqmkvueguzffb.jpeg?q=90",
@@ -108254,6 +108819,7 @@ const NXPRODUCTS = [
    "format:roll-on",
    "format:kit",
    "spf:50",
+   "water:unstated",
    "ing:rose",
    "ing:rosehip",
    "ing:shea-butter",
@@ -108353,7 +108919,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — kojic dipalmitate #14 on INCI (matching only — not proof it works)"
+   "concernBasis": "Dark spots — kojic dipalmitate #14 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/v/2/l/1-honey-lip-balm-spf-50-brightens-lips-with-propolis-peptides-original-imahgrgh9jnkk4zx.jpeg?q=90",
@@ -108373,6 +108940,7 @@ const NXPRODUCTS = [
    "format:scrub",
    "format:lip-mask",
    "spf:50",
+   "water:unstated",
    "ing:peptides",
    "ing:kojic-acid",
    "ing:honey",
@@ -108540,7 +109108,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/c/f/v/10-natural-spf-50-lip-balm-for-chapped-pigmented-lips-men-women-original-imahkqyymp8vc7et.jpeg?q=90",
@@ -108556,6 +109125,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:balm",
    "spf:50",
+   "water:unstated",
    "ing:rose",
    "ing:coconut",
    "ing:strawberry",
@@ -108655,7 +109225,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/u/2/l/5-spf-50-beetroot-lip-balm-for-dark-dry-chapped-lips-for-women-1-original-imahnbhmepzjfmmg.jpeg?q=90",
@@ -108675,6 +109246,7 @@ const NXPRODUCTS = [
    "format:body-wax",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:coffee",
@@ -108898,7 +109470,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/b/1/0/4-vitamin-c-brightening-lip-balm-for-dark-lips-evens-lip-tone-original-imahmbywh58vmwax.jpeg?q=90",
@@ -108915,6 +109488,7 @@ const NXPRODUCTS = [
    "format:stick",
    "format:balm",
    "spf:30",
+   "water:resistant",
    "ing:vitamin-c",
    "claim:brightening",
    "claim:dark-spots",
@@ -109009,7 +109583,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/d/s/t/5-tinted-ceramide-lip-balm-with-spf50-pa-kojic-acid-niacinamide-original-imahjb5yf4fyhqtp.jpeg?q=90",
@@ -109027,6 +109602,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:50+",
    "pa:+++",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:kojic-acid",
@@ -109233,7 +109809,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/4/i/r/10-natural-spf-50-lip-balm-for-babies-kids-hydrates-dry-lips-original-imahhgwyhvkxmnzs.jpeg?q=90",
@@ -109251,6 +109828,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "spf:50",
+   "water:unstated",
    "ing:rose",
    "ing:coconut",
    "ing:milk",
@@ -112201,7 +112779,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/a/n/z/15-gege-bear-vitamin-lip-mask-1-ka-cayla-original-imahefg24ugsfzu3.jpeg?q=90",
@@ -112220,6 +112799,7 @@ const NXPRODUCTS = [
    "format:bar",
    "format:lip-mask",
    "spf:15",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:rice-water",
    "ing:honey",
@@ -117669,7 +118249,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/v/z/0/10-moisture-sealing-lip-mask-for-soft-healthy-lips-2-colorsole-original-imahgj7gqgmgtuag.jpeg?q=90",
@@ -117689,6 +118270,7 @@ const NXPRODUCTS = [
    "format:lip-mask",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:collagen",
    "ing:kojic-acid",
    "ing:cherry-acerola",
@@ -117787,7 +118369,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/l3vxbbk0/lip-balm/r/c/p/40-lush-lips-hydrating-nourishing-lip-mask-1-ras-luxury-oils-original-imagewqbdtqyyqrc.jpeg?q=90",
@@ -117807,6 +118390,7 @@ const NXPRODUCTS = [
    "format:lip-mask",
    "spf:50+",
    "pa:+++",
+   "water:unstated",
    "ing:rose",
    "ing:almond",
    "ing:cherry-acerola",
@@ -118494,7 +119078,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lipstick/u/b/c/60-20-pcs-hydrating-lip-mask-lip-sleep-mask-reduces-lip-lines-original-imahqgy6gpyjtfdc.jpeg?q=90",
@@ -118510,6 +119095,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:cream",
    "format:lip-mask",
+   "water:resistant",
    "claim:oil-control",
    "claim:hydrating",
    "claim:water-resistant",
@@ -118831,7 +119417,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lipstick/b/t/e/60-grandeur-looker-collagen-lip-mask-20-pcs-hydrating-and-original-imahpjvpgzf5g5gf.jpeg?q=90",
@@ -118850,6 +119437,7 @@ const NXPRODUCTS = [
    "format:pack",
    "format:patch",
    "format:lip-mask",
+   "water:resistant",
    "ing:collagen",
    "claim:oil-control",
    "claim:hydrating",
@@ -119276,7 +119864,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-gloss/s/u/2/30-lip-mask-lip-oil-combo-pack-2-in-1-korean-lip-treatment-with-original-imahh8sfvnt2hzx6.jpeg?q=90",
@@ -119295,6 +119884,7 @@ const NXPRODUCTS = [
    "format:lip-mask",
    "spf:50",
    "pa:++++",
+   "water:unstated",
    "ing:petrolatum",
    "ing:rose",
    "claim:hydrating",
@@ -119828,7 +120418,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/w/g/r/15-lip-sleeping-mask-with-hyaluronic-acid-lip-treatment-1-original-imahpn4zvtaesgca.jpeg?q=90",
@@ -119847,6 +120438,7 @@ const NXPRODUCTS = [
    "format:lip-mask",
    "spf:50",
    "pa:++++",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "ing:kojic-acid",
@@ -120412,7 +121004,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/f/b/r/15-lip-sleeping-mask-with-hyaluronic-acid-for-dry-lips-1-original-imahpnakzfzwdguw.jpeg?q=90",
@@ -120432,6 +121025,7 @@ const NXPRODUCTS = [
    "format:lip-mask",
    "spf:50+",
    "pa:+++",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
    "ing:peptides",
@@ -121011,7 +121605,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/m/s/m/15-lip-sleeping-mask-with-rose-vitamin-e-shea-butter-blend-1-original-imahpnazcjksfkhs.jpeg?q=90",
@@ -121033,6 +121628,7 @@ const NXPRODUCTS = [
    "format:lip-mask",
    "spf:50+",
    "pa:+++",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
    "ing:peptides",
@@ -121142,7 +121738,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/l/z/5/15-nourishing-lip-sleeping-mask-for-daily-lip-moisture-1-original-imahpn5yz8dt4zqf.jpeg?q=90",
@@ -121160,6 +121757,7 @@ const NXPRODUCTS = [
    "format:sleeping-mask",
    "format:lip-mask",
    "spf:50",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:rose",
    "ing:shea-butter",
@@ -121264,7 +121862,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/4/r/u/15-lip-sleeping-mask-with-rose-extract-vitamin-e-hyaluronic-acid-original-imahpn2zyh54gp8s.jpeg?q=90",
@@ -121284,6 +121883,7 @@ const NXPRODUCTS = [
    "format:lip-mask",
    "spf:50+",
    "pa:+++",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
    "ing:rose",
@@ -121513,7 +122113,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/s/v/1/15-nourishing-lip-sleeping-mask-for-soft-smooth-lips-1-celestia-original-imahpnb96pqt9gua.jpeg?q=90",
@@ -121531,6 +122132,7 @@ const NXPRODUCTS = [
    "format:sleeping-mask",
    "format:lip-mask",
    "spf:50",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:rose",
    "ing:shea-butter",
@@ -121758,7 +122360,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/6/7/p/6-overnight-lip-sleeping-mask-hydrating-lip-balm-for-dry-cracked-original-imahp7c4w6yasmsy.jpeg?q=90",
@@ -121780,6 +122383,7 @@ const NXPRODUCTS = [
    "format:lip-mask",
    "spf:50+",
    "pa:+++",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:rose",
    "ing:almond",
@@ -121889,7 +122493,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/i/l/d/15-overnight-lip-mask-with-vitamin-e-glycerin-1-celestia-original-imahpn3bxvdv87eg.jpeg?q=90",
@@ -121908,6 +122513,7 @@ const NXPRODUCTS = [
    "format:kit",
    "format:lip-mask",
    "spf:50",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:rose",
    "ing:shea-butter",
@@ -122135,7 +122741,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/1/q/e/15-overnight-lip-mask-with-vitamin-e-glycerin-1-celestia-original-imahpn3bdkjdzgev.jpeg?q=90",
@@ -122153,6 +122760,7 @@ const NXPRODUCTS = [
    "format:sleeping-mask",
    "format:lip-mask",
    "spf:50",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:rose",
    "ing:shea-butter",
@@ -122257,7 +122865,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/3/s/s/15-moisturizing-lip-sleeping-mask-for-smooth-healthy-lips-1-original-imahpn63sunpz8hk.jpeg?q=90",
@@ -122276,6 +122885,7 @@ const NXPRODUCTS = [
    "format:kit",
    "format:lip-mask",
    "spf:50",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:rose",
    "ing:shea-butter",
@@ -122500,7 +123110,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/1/s/l/15-lip-sleeping-mask-with-rose-extract-vitamin-e-shea-butter-1-original-imahpnb4qdjvcgmm.jpeg?q=90",
@@ -122521,6 +123132,7 @@ const NXPRODUCTS = [
    "format:lip-mask",
    "spf:50+",
    "pa:+++",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
    "ing:rose",
@@ -122749,7 +123361,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/4/p/e/15-lip-sleeping-mask-overnight-moisturizing-lip-care-1-celestia-original-imahpn3hd2zszgvz.jpeg?q=90",
@@ -122767,6 +123380,7 @@ const NXPRODUCTS = [
    "format:sleeping-mask",
    "format:lip-mask",
    "spf:50",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:rose",
    "ing:shea-butter",
@@ -122994,7 +123608,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/f/r/m/20-deep-moisturizing-lip-balm-lip-sleeping-mask-for-overnight-original-imahp8ggb3wzrfhq.jpeg?q=90",
@@ -123015,6 +123630,7 @@ const NXPRODUCTS = [
    "format:kit",
    "format:lip-mask",
    "spf:50",
+   "water:unstated",
    "ing:coffee",
    "ing:rose",
    "ing:shea-butter",
@@ -123117,7 +123733,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/u/t/y/15-lip-sleeping-mask-with-nourishing-botanical-ingredients-1-original-imahpnasbqzrkryv.jpeg?q=90",
@@ -123138,6 +123755,7 @@ const NXPRODUCTS = [
    "format:lip-mask",
    "spf:50+",
    "pa:+++",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
    "ing:rose",
@@ -123246,7 +123864,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/d/h/d/6-hydrating-lip-sleeping-mask-moisturizing-lip-balm-with-original-imahpgfyd9gqc9jb.jpeg?q=90",
@@ -123266,6 +123885,7 @@ const NXPRODUCTS = [
    "format:sleeping-mask",
    "format:lip-mask",
    "spf:50",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:rose",
    "ing:almond",
@@ -123738,7 +124358,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/u/0/5/15-lip-sleeping-mask-for-repair-nourish-hydrate-lips-1-celestia-original-imahpn66zdezyrfk.jpeg?q=90",
@@ -123759,6 +124380,7 @@ const NXPRODUCTS = [
    "format:lip-mask",
    "spf:50+",
    "pa:+++",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
    "ing:rose",
@@ -123990,7 +124612,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/w/v/o/15-overnight-moisturizing-lip-mask-for-soft-healthy-lips-1-original-imahpnanedq6rber.jpeg?q=90",
@@ -124010,6 +124633,7 @@ const NXPRODUCTS = [
    "format:lip-mask",
    "spf:50+",
    "pa:+++",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
    "ing:rose",
@@ -124364,7 +124988,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/t/l/3/6-lip-sleeping-mask-with-applicator-day-night-hydrating-lip-balm-original-imahpdytkjyzp9zf.jpeg?q=90",
@@ -124383,6 +125008,7 @@ const NXPRODUCTS = [
    "format:sleeping-mask",
    "format:lip-mask",
    "spf:50",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:rose",
    "ing:almond",
@@ -124489,7 +125115,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/e/f/w/15-hydrating-overnight-lip-mask-for-healthy-pink-looking-lips-1-original-imahpn6m7g24p9ht.jpeg?q=90",
@@ -124507,6 +125134,7 @@ const NXPRODUCTS = [
    "format:sleeping-mask",
    "format:lip-mask",
    "spf:50",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:rose",
    "ing:shea-butter",
@@ -124610,7 +125238,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/v/a/i/15-deep-repair-lip-sleeping-mask-for-daily-lip-nourishment-1-original-imahpnahrwqg6jy6.jpeg?q=90",
@@ -124628,6 +125257,7 @@ const NXPRODUCTS = [
    "format:sleeping-mask",
    "format:lip-mask",
    "spf:50",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:rose",
    "ing:shea-butter",
@@ -124852,7 +125482,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/z/o/d/15-lip-sleeping-mask-with-rose-extract-for-smooth-lip-care-1-original-imahpnazmjbgnv2v.jpeg?q=90",
@@ -124871,6 +125502,7 @@ const NXPRODUCTS = [
    "format:kit",
    "format:lip-mask",
    "spf:50",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:rose",
    "ing:shea-butter",
@@ -124975,7 +125607,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/d/3/s/20-overnight-lip-sleeping-mask-lip-balm-for-dry-cracked-lips-original-imahp88f46yemcyj.jpeg?q=90",
@@ -124996,6 +125629,7 @@ const NXPRODUCTS = [
    "format:kit",
    "format:lip-mask",
    "spf:50",
+   "water:unstated",
    "ing:rose",
    "ing:shea-butter",
    "ing:cocoa-butter",
@@ -125201,7 +125835,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/0/x/w/20-lip-sleeping-mask-for-women-and-men-lip-balm-for-dry-chapped-original-imahp8g9eczcyjyy.jpeg?q=90",
@@ -125222,6 +125857,7 @@ const NXPRODUCTS = [
    "format:lip-mask",
    "spf:50",
    "pa:++++",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:peptides",
    "ing:rose",
@@ -125323,7 +125959,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/o/a/l/15-intensive-lip-sleeping-mask-for-overnight-lip-recovery-1-original-imahpnaqzcwpzzp4.jpeg?q=90",
@@ -125341,6 +125978,7 @@ const NXPRODUCTS = [
    "format:sleeping-mask",
    "format:lip-mask",
    "spf:50",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:rose",
    "ing:shea-butter",
@@ -125447,7 +126085,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/t/f/e/15-lip-sleeping-mask-with-natural-rose-moisture-lock-formula-1-original-imahpn6zdafhukhj.jpeg?q=90",
@@ -125468,6 +126107,7 @@ const NXPRODUCTS = [
    "format:kit",
    "format:lip-mask",
    "spf:50",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:rose",
    "ing:shea-butter",
@@ -125573,7 +126213,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/5/b/x/15-overnight-lip-hydration-repair-sleeping-mask-1-celestia-original-imahpn62y7wshvg7.jpeg?q=90",
@@ -125592,6 +126233,7 @@ const NXPRODUCTS = [
    "format:sleeping-mask",
    "format:lip-mask",
    "spf:50",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:rose",
    "ing:shea-butter",
@@ -125814,7 +126456,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/y/s/4/6-lip-sleeping-mask-day-night-lip-care-deep-moisturizing-lip-original-imahpgfn6gf9fgrs.jpeg?q=90",
@@ -125834,6 +126477,7 @@ const NXPRODUCTS = [
    "format:lip-mask",
    "spf:50+",
    "pa:+++",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
    "ing:rose",
@@ -126303,7 +126947,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/c/r/i/20-moisturizing-lip-balm-lip-sleeping-mask-for-smooth-soft-pink-original-imahp87vttszsnbg.jpeg?q=90",
@@ -126324,6 +126969,7 @@ const NXPRODUCTS = [
    "format:kit",
    "format:lip-mask",
    "spf:50",
+   "water:unstated",
    "ing:coffee",
    "ing:rose",
    "ing:shea-butter",
@@ -126425,7 +127071,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/h/q/a/6-lip-sleeping-mask-non-sticky-hydrating-lip-balm-1-bigbalist-original-imahpgh96uhwwrgu.jpeg?q=90",
@@ -126444,6 +127091,7 @@ const NXPRODUCTS = [
    "format:sleeping-mask",
    "format:lip-mask",
    "spf:50",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:rose",
    "ing:almond",
@@ -126659,7 +127307,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/e/f/b/20-lip-balm-lip-sleeping-mask-for-soft-pink-moisturized-lips-original-imahp87v5dgcqhjz.jpeg?q=90",
@@ -126679,6 +127328,7 @@ const NXPRODUCTS = [
    "format:kit",
    "format:lip-mask",
    "spf:50",
+   "water:unstated",
    "ing:rose",
    "ing:shea-butter",
    "ing:cocoa-butter",
@@ -127013,7 +127663,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/z/d/t/6-jelly-lip-sleeping-mask-intensive-overnight-lip-care-1-original-imahpgg4u3d6uzwg.jpeg?q=90",
@@ -127032,6 +127683,7 @@ const NXPRODUCTS = [
    "format:sleeping-mask",
    "format:lip-mask",
    "spf:50",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:rose",
    "ing:almond",
@@ -127260,7 +127912,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/q/2/j/6-lip-sleeping-mask-with-applicator-day-night-hydrating-lip-balm-original-imahpdytgczywubg.jpeg?q=90",
@@ -127279,6 +127932,7 @@ const NXPRODUCTS = [
    "format:sleeping-mask",
    "format:lip-mask",
    "spf:50",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:rose",
    "ing:almond",
@@ -127385,7 +128039,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/o/t/v/6-lip-care-sleeping-mask-soft-smooth-lips-1-bigbalist-original-imahpghrdpaxzuwm.jpeg?q=90",
@@ -127407,6 +128062,7 @@ const NXPRODUCTS = [
    "format:lip-mask",
    "spf:50",
    "pa:++++",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "ing:kojic-acid",
@@ -127517,7 +128173,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/o/y/h/6-lip-moisturizing-mask-rich-lip-sleeping-balm-with-applicator-1-original-imahpgg6fzhhfxpz.jpeg?q=90",
@@ -127536,6 +128193,7 @@ const NXPRODUCTS = [
    "format:sleeping-mask",
    "format:lip-mask",
    "spf:50",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:rose",
    "ing:almond",
@@ -127753,7 +128411,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/p/p/y/6-lip-therapy-mask-repairs-dry-chapped-cracked-lips-1-bigbalist-original-imahpghwgfegkpjb.jpeg?q=90",
@@ -127772,6 +128431,7 @@ const NXPRODUCTS = [
    "format:sleeping-mask",
    "format:lip-mask",
    "spf:50",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:rose",
    "ing:almond",
@@ -127878,7 +128538,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/d/s/7/6-lip-repair-sleeping-mask-nourishing-lip-balm-for-dry-lips-1-original-imahpgfwc99u7vgh.jpeg?q=90",
@@ -127898,6 +128559,7 @@ const NXPRODUCTS = [
    "format:lip-mask",
    "spf:50+",
    "pa:+++",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
    "ing:rose",
@@ -128008,7 +128670,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/a/1/2/6-lip-spa-sleeping-mask-intensive-lip-repair-moisturizing-lip-original-imahpgga7pnxhmas.jpeg?q=90",
@@ -128027,6 +128690,7 @@ const NXPRODUCTS = [
    "format:sleeping-mask",
    "format:lip-mask",
    "spf:50",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:rose",
    "ing:almond",
@@ -128133,7 +128797,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/u/u/m/45-special-lip-sleeping-mask-overnight-lip-repair-aloevera-green-original-imah4y76xxcqrypt.jpeg?q=90",
@@ -128154,6 +128819,7 @@ const NXPRODUCTS = [
    "format:lip-mask",
    "spf:50",
    "pa:++++",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:green-tea",
    "ing:aloe-vera",
@@ -128356,7 +129022,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/q/2/j/6-lip-sleeping-mask-with-applicator-day-night-hydrating-lip-balm-original-imahpdytgczywubg.jpeg?q=90",
@@ -128377,6 +129044,7 @@ const NXPRODUCTS = [
    "format:lip-mask",
    "spf:50",
    "pa:++++",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "ing:kojic-acid",
@@ -128486,7 +129154,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/2/x/l/6-lip-therapy-sleeping-mask-deep-repair-hydration-1-bigbalist-original-imahpgh8n6n3fv6h.jpeg?q=90",
@@ -128506,6 +129175,7 @@ const NXPRODUCTS = [
    "format:lip-mask",
    "spf:50+",
    "pa:+++",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
    "ing:peptides",
@@ -128615,7 +129285,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/c/0/c/6-rich-jelly-lip-sleeping-mask-lip-repair-hydration-pink-1-original-imahpgg7xebzzvgq.jpeg?q=90",
@@ -128634,6 +129305,7 @@ const NXPRODUCTS = [
    "format:sleeping-mask",
    "format:lip-mask",
    "spf:50",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:rose",
    "ing:almond",
@@ -128740,7 +129412,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/j/l/e/6-lip-sleeping-mask-for-women-hydrating-lip-treatment-1-original-imahpgg2gzfrp9aq.jpeg?q=90",
@@ -128759,6 +129432,7 @@ const NXPRODUCTS = [
    "format:sleeping-mask",
    "format:lip-mask",
    "spf:50",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:rose",
    "ing:almond",
@@ -128979,7 +129653,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/q/2/j/6-lip-sleeping-mask-with-applicator-day-night-hydrating-lip-balm-original-imahpdytgczywubg.jpeg?q=90",
@@ -128998,6 +129673,7 @@ const NXPRODUCTS = [
    "format:sleeping-mask",
    "format:lip-mask",
    "spf:50",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:rose",
    "ing:almond",
@@ -129218,7 +129894,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-lip-balm/w/j/x/10-lip-sleeping-mask-this-lip-mask-overnight-1-sheny-original-imahjpewsdzndegy.jpeg?q=90",
@@ -129237,6 +129914,7 @@ const NXPRODUCTS = [
    "format:kit",
    "format:lip-mask",
    "spf:30",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:strawberry",
    "claim:dark-spots",
@@ -129541,7 +130219,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/m/q/n/15-nourishing-lip-sleeping-mask-with-hyaluronic-acid-formula-1-original-imahpn6gpy6cfhkw.jpeg?q=90",
@@ -129563,6 +130242,7 @@ const NXPRODUCTS = [
    "format:lip-mask",
    "spf:50+",
    "pa:+++",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
    "ing:rose",
@@ -129894,7 +130574,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/0/s/5/15-hydrating-lip-sleeping-mask-with-natural-rose-extract-1-original-imahpnbgt8xncgws.jpeg?q=90",
@@ -129913,6 +130594,7 @@ const NXPRODUCTS = [
    "format:lip-mask",
    "spf:50+",
    "pa:+++",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
    "ing:rose",
@@ -130021,7 +130703,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/h/a/2/15-luxury-lip-sleeping-mask-for-deep-hydration-lip-repair-1-original-imahpnbf6pgafwcb.jpeg?q=90",
@@ -130040,6 +130723,7 @@ const NXPRODUCTS = [
    "format:lip-mask",
    "spf:50+",
    "pa:+++",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
    "ing:rose",
@@ -130148,7 +130832,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/m/z/j/15-hydrating-lip-sleeping-mask-for-deep-lip-repair-1-celestia-original-imahpn3dwfc7mhtn.jpeg?q=90",
@@ -130170,6 +130855,7 @@ const NXPRODUCTS = [
    "format:lip-mask",
    "spf:50+",
    "pa:+++",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
    "ing:rose",
@@ -130486,7 +131172,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/s/n/y/30-lip-sleeping-gel-mask-for-deep-hydration-6-frilwing-original-imahpr5y9vxezf9f.jpeg?q=90",
@@ -130505,6 +131192,7 @@ const NXPRODUCTS = [
    "format:patch",
    "format:kit",
    "spf:30",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:rose",
    "claim:hydrating",
@@ -130601,7 +131289,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/2/n/n/6-lip-therapy-mask-repairs-dry-chapped-cracked-lips-1-bigbalist-original-imahpggfgh4thu8f.jpeg?q=90",
@@ -130620,6 +131309,7 @@ const NXPRODUCTS = [
    "format:sleeping-mask",
    "format:lip-mask",
    "spf:50",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:peptides",
    "ing:rose",
@@ -130854,7 +131544,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/u/l/r/100-red-lip-mask-20-mask-nourishing-lip-repair-treatment-1-original-imahpcznjap2hyv3.jpeg?q=90",
@@ -130875,6 +131566,7 @@ const NXPRODUCTS = [
    "format:lip-mask",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:collagen",
    "ing:kojic-acid",
@@ -131093,7 +131785,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/c/1/6/100-red-lip-sleeping-mask-20-mask-overnight-hydrating-lip-care-1-original-imahpczgrnyugvsy.jpeg?q=90",
@@ -131113,6 +131806,7 @@ const NXPRODUCTS = [
    "format:lip-mask",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:collagen",
    "ing:kojic-acid",
@@ -131441,7 +132135,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/b/3/w/6-lip-care-mask-overnight-lip-repair-balm-deep-hydration-original-imahpggy7hqfh5vv.jpeg?q=90",
@@ -131461,6 +132156,7 @@ const NXPRODUCTS = [
    "format:lip-mask",
    "spf:50+",
    "pa:+++",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
    "ing:peptides",
@@ -131570,7 +132266,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/t/t/r/6-lip-spa-mask-hydrating-lip-balm-for-dry-damaged-lips-1-original-imahpgghn6nk6vgg.jpeg?q=90",
@@ -131591,6 +132288,7 @@ const NXPRODUCTS = [
    "format:lip-mask",
    "spf:50",
    "pa:++++",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "ing:kojic-acid",
@@ -131945,7 +132643,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/3/d/f/100-hydrogel-red-lip-mask-20-mask-soft-smooth-lips-1-celestia-original-imahpczkzgwvxkgg.jpeg?q=90",
@@ -131965,6 +132664,7 @@ const NXPRODUCTS = [
    "format:lip-mask",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:collagen",
    "ing:kojic-acid",
@@ -132405,7 +133105,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/l/n/z/100-rose-lip-mask-20-mask-moisturizing-lip-therapy-1-celestia-original-imahpdrqx3xpzgcm.jpeg?q=90",
@@ -132427,6 +133128,7 @@ const NXPRODUCTS = [
    "format:lip-mask",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "ing:peptides",
@@ -132646,7 +133348,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/j/i/h/100-20-lip-mask-red-lip-mask-overnight-hydrating-lip-care-1-original-imahpczdaucgg2tn.jpeg?q=90",
@@ -132666,6 +133369,7 @@ const NXPRODUCTS = [
    "format:lip-mask",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:collagen",
    "ing:kojic-acid",
@@ -132893,7 +133597,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/u/d/g/5-beetroot-lip-balm-with-shea-butter-long-lasting-lip-hydration-original-imahps8tjdc8evh3.jpeg?q=90",
@@ -132913,6 +133618,7 @@ const NXPRODUCTS = [
    "format:wash",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:rose",
    "ing:rosehip",
    "ing:shea-butter",
@@ -133342,7 +134048,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/e/i/w/3-3-shea-butter-lip-balm-1-mumuso-original-imahbznjawerkby9.jpeg?q=90",
@@ -133359,6 +134066,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "spf:50",
+   "water:unstated",
    "ing:peptides",
    "ing:shea-butter",
    "ing:jojoba",
@@ -133568,7 +134276,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/f/y/1/5-moisturizing-lip-balm-spf-15-non-tinted-for-men-and-women-5g-1-original-imahhwgxeffeefzh.jpeg?q=90",
@@ -133586,6 +134295,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:15",
    "pa:+++",
+   "water:unstated",
    "ing:ceramides",
    "ing:kojic-acid",
    "ing:squalane",
@@ -133798,7 +134508,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/kfikya80/lip-balm/c/3/z/10-lip-balm-cat-228-christina-moss-naturals-original-imafvxup5zdctysy.jpeg?q=90",
@@ -133815,6 +134526,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:kit",
    "spf:15",
+   "water:resistant",
    "ing:peptides",
    "ing:beetroot",
    "claim:hydrating",
@@ -134221,7 +134933,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/m/i/b/50-lip-butter-lip-balm-lip-cream-1-the-glow-rituals-original-imah8zrkg6zdbjzm.jpeg?q=90",
@@ -134239,6 +134952,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "spf:50",
+   "water:unstated",
    "ing:kojic-acid",
    "ing:rose",
    "ing:shea-butter",
@@ -139962,7 +140676,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/r/8/w/10-lip-balm-with-spf-50-pa-brightening-beetroot-lip-balm-for-original-imahmf68gnfaf4kf.jpeg?q=90",
@@ -139980,6 +140695,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:ceramides",
    "ing:kojic-acid",
    "ing:vitamin-e",
@@ -140630,7 +141346,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/b/p/q/16-cherry-lip-balm-for-dark-pigmented-chapped-lips-spf-15-2-original-imahnzznasctxv3g.jpeg?q=90",
@@ -140647,6 +141364,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "spf:15",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
@@ -140747,7 +141465,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/d/0/u/5-strawberry-flavour-lip-balm-stick-for-baby-women-men-girls-original-imah84f4mwfdzukp.jpeg?q=90",
@@ -140765,6 +141484,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:pack",
    "spf:40",
+   "water:resistant",
    "ing:rose",
    "ing:shea-butter",
    "ing:strawberry",
@@ -141194,7 +141914,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/n/u/z/3-5-spf-natural-lip-balm-repairs-chapped-lips-brightens-dark-original-imahqgy99ghfnxzd.jpeg?q=90",
@@ -141209,6 +141930,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:balm",
+   "water:unstated",
    "claim:brightening",
    "claim:hydrating",
    "claim:barrier",
@@ -141407,7 +142129,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/w/7/a/5-lip-balm-cherry-flavour-stick-for-baby-women-men-girls-kids-original-imah84fbngbep592.jpeg?q=90",
@@ -141427,6 +142150,7 @@ const NXPRODUCTS = [
    "format:kit",
    "spf:50",
    "pa:+++",
+   "water:resistant",
    "ing:ceramides",
    "ing:kojic-acid",
    "ing:shea-butter",
@@ -146288,7 +147012,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/0/6/p/3-6-temperature-color-change-lipstick-lip-blam-1-woongmi-original-imahyz8ehshe2y9h.jpeg?q=90",
@@ -146306,6 +147031,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "format:kit",
+   "water:resistant",
    "ing:peptides",
    "claim:hydrating",
    "claim:water-resistant",
@@ -146499,7 +147225,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/h/p/8/3-6-3d-lip-balm-for-dark-lips-with-vitamin-1-afaraxia-original-imah7n6hw9fxcmvc.jpeg?q=90",
@@ -146519,6 +147246,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:kit",
    "spf:50",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:rose",
    "ing:vitamin-e",
@@ -147168,7 +147896,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/w/c/z/10-new-strawberry-lip-scrub-balm-2-in-1-for-lightening-and-original-imah95mbmsw9eqzz.jpeg?q=90",
@@ -147186,6 +147915,7 @@ const NXPRODUCTS = [
    "format:scrub",
    "spf:50",
    "pa:++++",
+   "water:unstated",
    "ing:rose",
    "ing:strawberry",
    "claim:brightening",
@@ -149546,7 +150276,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/r/h/7/4-2-lip-balm-for-men-and-women-with-spf-20-for-dark-lips-to-original-imahkxs2mzpzwef8.jpeg?q=90",
@@ -149564,6 +150295,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "spf:15",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:strawberry",
    "claim:spf-claim",
@@ -149871,7 +150603,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/r/u/t/3-6-glossy-finish-tinted-lip-balm-for-dark-lips-1-jiwoo-original-imahmtjuwfgzs8r9.jpeg?q=90",
@@ -149887,6 +150620,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:balm",
    "spf:15",
+   "water:unstated",
    "ing:honey",
    "ing:kumkumadi",
    "ing:vitamin-e",
@@ -159190,7 +159924,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/z/u/9/1-brightening-lip-balm-for-men-help-for-pigmented-lips-dark-lips-original-imah7z8s9czbuggg.jpeg?q=90",
@@ -159210,6 +159945,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:40",
    "pa:+++",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:strawberry",
    "claim:brightening",
@@ -159304,7 +160040,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/6/j/l/3-aloe-vera-korean-lip-balm-for-pink-glossy-moisturized-lips-1-original-imahpnznsespqq4u.jpeg?q=90",
@@ -159325,6 +160062,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:kit",
    "spf:50",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:rose",
    "ing:vitamin-e",
@@ -159538,7 +160276,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/t/8/i/3-korean-aloe-vera-lip-balm-with-long-lasting-lip-hydration-1-original-imahpnzuhgfhqmuc.jpeg?q=90",
@@ -159556,6 +160295,7 @@ const NXPRODUCTS = [
    "format:stick",
    "format:balm",
    "spf:50",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:rose",
    "ing:cherry-acerola",
@@ -159756,7 +160496,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/o/z/8/3-korean-aloe-vera-lip-balm-smooth-texture-lip-moisturizer-1-original-imahpnzmfhmuxhby.jpeg?q=90",
@@ -159775,6 +160516,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:50",
    "pa:++++",
+   "water:unstated",
    "ing:ceramides",
    "ing:kojic-acid",
    "ing:aloe-vera",
@@ -159871,7 +160613,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/a/q/q/10-lip-balm-of-beetroot-berry-flavor-for-intense-hydration-original-imahqkhrgzvyxcyb.jpeg?q=90",
@@ -159887,6 +160630,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "spf:50+",
+   "water:unstated",
    "ing:shea-butter",
    "ing:cocoa-butter",
    "ing:vitamin-e",
@@ -159982,7 +160726,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/9/l/l/10-lip-balm-with-ceramides-hyaluronic-acid-for-women-men-10-gm-1-original-imahzcdm7khx7mjk.jpeg?q=90",
@@ -160000,6 +160745,7 @@ const NXPRODUCTS = [
    "format:pack",
    "format:kit",
    "spf:15",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
    "ing:ceramides",
@@ -160094,7 +160840,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/h/j/j/10-beetroot-strawberry-nourishing-lip-balm-for-soft-smooth-lips-original-imahqt55hhrmrhee.jpeg?q=90",
@@ -160111,6 +160858,7 @@ const NXPRODUCTS = [
    "format:serum",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:rose",
    "ing:honey",
    "ing:almond",
@@ -160323,7 +161071,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/u/a/w/20-beetroot-lip-balm-for-naturally-pink-lips-moisturizer-2-original-imahq6uqgqhektxd.jpeg?q=90",
@@ -160338,6 +161087,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "spf:50+",
+   "water:unstated",
    "ing:shea-butter",
    "ing:cocoa-butter",
    "ing:vitamin-e",
@@ -160433,7 +161183,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/p/y/0/10-beetroot-lip-balm-with-natural-beetroot-1-vellura-original-imahq6v34ztzghye.jpeg?q=90",
@@ -160450,6 +161201,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "spf:50+",
+   "water:unstated",
    "ing:shea-butter",
    "ing:cocoa-butter",
    "ing:vitamin-e",
@@ -160545,7 +161297,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/q/e/i/5-seductive-lip-balm-for-men-spf-50-pa-with-ceramide-peptide-1-original-imahdum7czfhb4wc.jpeg?q=90",
@@ -160566,6 +161319,7 @@ const NXPRODUCTS = [
    "spf:50",
    "pa:+++",
    "sun:mineral",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:ceramides",
@@ -161647,7 +162401,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/h/f/t/4-lip-balm-brightens-pigmented-lips-improves-natural-lip-tone-original-imahmbz2k2xutqsy.jpeg?q=90",
@@ -161665,6 +162420,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:kit",
    "spf:30",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:kojic-acid",
    "ing:cherry-acerola",
@@ -161875,7 +162631,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/6/p/8/10-blueberry-lip-balm-10g-antioxidant-rich-hydrating-nourishing-original-imahhnnevaqjhzym.jpeg?q=90",
@@ -161891,6 +162648,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:almond",
    "ing:shea-butter",
    "ing:cocoa-butter",
@@ -162097,7 +162855,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/m/s/a/4-vitamin-c-lip-balms-and-lip-care-long-lasting-hydration-for-original-imahmdyfej2bfhpv.jpeg?q=90",
@@ -162116,6 +162875,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "spf:30",
+   "water:resistant",
    "ing:vitamin-c",
    "ing:strawberry",
    "claim:brightening",
@@ -162449,7 +163209,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/e/z/f/4-organic-vitamin-c-lip-balm-for-chemical-free-lip-nourishment-original-imahmcfczsv5qyts.jpeg?q=90",
@@ -162468,6 +163229,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "spf:30",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:strawberry",
    "claim:brightening",
@@ -163455,7 +164217,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Beiersdorf — Global FMCG or beauty group",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/k4hcjgw0/lip-balm/h/h/x/4-8-fruity-shine-watermelon-lip-balm-labello-original-imafndfxkhkmqhng.jpeg?q=90",
@@ -163473,6 +164236,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:kojic-acid",
@@ -164105,7 +164869,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/z/n/b/3-aloe-vera-moisturizing-lip-balm-for-soft-and-glossy-lips-1-original-imahpnw6zfrq89bg.jpeg?q=90",
@@ -164124,6 +164889,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:50",
    "pa:++++",
+   "water:unstated",
    "ing:ceramides",
    "ing:kojic-acid",
    "ing:aloe-vera",
@@ -166732,7 +167498,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/s/a/o/30-hydrating-lip-oil-set-for-dry-lips-with-cherry-blueberry-original-imahphphcgd9fzpg.jpeg?q=90",
@@ -166750,6 +167517,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:kit",
    "spf:30",
+   "water:unstated",
    "ing:peptides",
    "ing:rose",
    "ing:cherry-acerola",
@@ -167049,7 +167817,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/e/w/7/1-essence-lip-oil-for-women-girls-1-dream-makeup-original-imahnj3ybu2nfcyn.jpeg?q=90",
@@ -167071,6 +167840,7 @@ const NXPRODUCTS = [
    "format:lip-mask",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:ceramides",
    "ing:kojic-acid",
    "ing:honey",
@@ -168699,7 +169469,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — glycyrrhiza glabra root extract #12 on INCI; Aging — palmitoyl tripeptide-1 #10 on INCI; Irritation — ceramide np #11 on INCI, bisabolol #15 on INCI (matching only — not proof it works)"
+   "concernBasis": "Dark spots — glycyrrhiza glabra root extract #12 on INCI; Aging — palmitoyl tripeptide-1 #10 on INCI; Irritation — ceramide np #11 on INCI, bisabolol #15 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-lip-balm/q/q/5/15-2-vitamin-c-vanilla-lip-oil-with-spf-25-1-bake-original-imahq98gftngzeaf.jpeg?q=90",
@@ -168716,6 +169487,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "format:pack",
+   "water:resistant",
    "ing:ceramides",
    "ing:peptides",
    "ing:coffee",
@@ -168993,7 +169765,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-gloss/u/h/c/3-8-lip-oil-makes-any-lipstick-stay-long-and-waterproof-fruits-original-imah399e6g98agh5.jpeg?q=90",
@@ -169012,6 +169785,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:roll-on",
    "format:kit",
+   "water:unstated",
    "claim:hydrating",
    "claim:no-white-cast",
    "claim:tinted",
@@ -171262,7 +172036,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/p/n/c/18-new-color-changing-hydrating-moisturising-lip-oil-6-nadja-original-imahkfzrtxfrzzjq.jpeg?q=90",
@@ -171279,6 +172054,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "format:pack",
+   "water:resistant",
    "ing:peptides",
    "ing:shea-butter",
    "claim:dark-spots",
@@ -172440,7 +173216,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/e/h/i/8-everyday-lip-balm-spf-15-for-dry-chapped-lips-with-vitamin-e-original-imahnyt7xqmsswyf.jpeg?q=90",
@@ -172459,6 +173236,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:pack",
    "spf:15",
+   "water:unstated",
    "ing:almond",
    "ing:shea-butter",
    "ing:vitamin-e",
@@ -172767,7 +173545,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/a/u/v/6-petal-pink-repairing-lip-oil-with-spf-hydrating-glossy-lip-original-imahzekzbwwv9zka.jpeg?q=90",
@@ -172783,6 +173562,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:strawberry",
    "claim:brightening",
    "claim:oil-control",
@@ -172990,7 +173770,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/e/i/r/10-moisturizing-pineapple-lip-oil-gloss-1-nuvya-original-imahebzy8pqkgczq.jpeg?q=90",
@@ -173006,6 +173787,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:aloe-vera",
    "claim:oil-control",
    "claim:hydrating",
@@ -173315,7 +174097,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-lip-balm/x/m/9/4-5-tinted-lip-balm-with-almond-oil-vitamin-e-shea-butter-spf-22-original-imahkf7mpvfy9py7.jpeg?q=90",
@@ -173335,6 +174118,7 @@ const NXPRODUCTS = [
    "format:kit",
    "spf:15",
    "pa:+++",
+   "water:unstated",
    "ing:ceramides",
    "ing:kojic-acid",
    "ing:coffee",
@@ -173546,7 +174330,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/d/f/r/-original-imahhcbmck4vhqhy.jpeg?q=90",
@@ -173566,6 +174351,7 @@ const NXPRODUCTS = [
    "format:lip-mask",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:ceramides",
@@ -181419,7 +182205,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/c/n/5/15-aleo-vera-lip-sleeping-mask-for-men-and-women-1-emijun-original-imah2rzfxvsvyhsn.jpeg?q=90",
@@ -181438,6 +182225,7 @@ const NXPRODUCTS = [
    "format:sleeping-mask",
    "format:lip-mask",
    "spf:50",
+   "water:unstated",
    "ing:rose",
    "ing:shea-butter",
    "ing:cocoa-butter",
@@ -184367,7 +185155,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/f/g/w/15-overnight-lip-sleeping-mask-with-rose-extract-vitamin-e-1-original-imahpn6bgwu6tx8r.jpeg?q=90",
@@ -184385,6 +185174,7 @@ const NXPRODUCTS = [
    "format:sleeping-mask",
    "format:lip-mask",
    "spf:50",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:rose",
    "ing:shea-butter",
@@ -184693,7 +185483,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Beiersdorf — Global FMCG or beauty group",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/9/p/v/9-6-women-nourishing-lip-balm-for-daily-hydration-naturally-soft-original-imahec38hb2pbpmj.jpeg?q=90",
@@ -184711,6 +185502,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "spf:30",
+   "water:unstated",
    "ing:shea-butter",
    "ing:vitamin-e",
    "ing:glycerin",
@@ -184808,7 +185600,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Beiersdorf — Global FMCG or beauty group",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/i/i/0/4-8-original-care-lip-balm-2-nivea-original-imahjf8hnfgngbza.jpeg?q=90",
@@ -184824,6 +185617,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:balm",
    "spf:30",
+   "water:unstated",
    "ing:shea-butter",
    "claim:hydrating",
    "claim:tinted",
@@ -184914,7 +185708,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Beiersdorf — Global FMCG or beauty group",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/q/c/x/14-4-peach-shine-lip-balm-4-8g-pack-of-3-3-nivea-original-imah5h7rakpweacu.jpeg?q=90",
@@ -184931,6 +185726,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:kit",
    "spf:30",
+   "water:unstated",
    "ing:strawberry",
    "ing:cherry-acerola",
    "ing:watermelon",
@@ -185128,7 +185924,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Beiersdorf — Global FMCG or beauty group",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/r/z/6/16-lip-care-fruity-shine-cherry-4-8g-pack-of-4-4-nivea-original-imagrzxhfd3jbz8d.jpeg?q=90",
@@ -185146,6 +185943,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "spf:15",
+   "water:unstated",
    "ing:peptides",
    "ing:rose",
    "ing:cherry-acerola",
@@ -185349,7 +186147,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Beiersdorf — Global FMCG or beauty group",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/o/l/m/9-6-strawberry-shine-lip-balm-for-women-2-nivea-original-imahgg5srktweezq.jpeg?q=90",
@@ -185367,6 +186166,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:kit",
    "spf:30",
+   "water:unstated",
    "ing:strawberry",
    "ing:cherry-acerola",
    "claim:hydrating",
@@ -185457,7 +186257,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Beiersdorf — Global FMCG or beauty group",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/o/t/g/14-4-lip-balm-4-8g-watermelon-shine-2pcs-original-care-pack-of-3-original-imah5hbmvjsbd6af.jpeg?q=90",
@@ -185475,6 +186276,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:kit",
    "spf:30",
+   "water:unstated",
    "ing:green-tea",
    "ing:rose",
    "ing:almond",
@@ -185677,7 +186479,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Beiersdorf — Global FMCG or beauty group",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/e/d/y/14-4-lip-balm-4-8g-original-care-soft-rose-pomegranate-pack-of-3-original-imah5hq5zk7tgygm.jpeg?q=90",
@@ -185695,6 +186498,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:kit",
    "spf:30",
+   "water:unstated",
    "ing:green-tea",
    "ing:rose",
    "ing:almond",
@@ -185890,7 +186694,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Beiersdorf — Global FMCG or beauty group",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/x/w/8/14-4-soft-rose-lip-balm-4-8g-pack-of-3-3-nivea-original-imah5h7txkthhgf9.jpeg?q=90",
@@ -185908,6 +186713,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:kit",
    "spf:30",
+   "water:unstated",
    "ing:rose",
    "ing:almond",
    "ing:cherry-acerola",
@@ -186000,7 +186806,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Beiersdorf — Global FMCG or beauty group",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/d/u/m/14-4-lip-balm-4-8g-pomegranate-shine-2pcs-original-caare-pack-of-original-imah5hebjuzmufar.jpeg?q=90",
@@ -186018,6 +186825,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:kit",
    "spf:30",
+   "water:unstated",
    "ing:rose",
    "ing:almond",
    "ing:shea-butter",
@@ -186213,7 +187021,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Beiersdorf — Global FMCG or beauty group",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/jr58l8w0/lip-balm/g/e/d/12-shine-caring-lip-balm-watermelon-pack-of-3-nivea-original-imafdybzsxz2zdae.jpeg?q=90",
@@ -186232,6 +187041,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:kit",
    "spf:50",
+   "water:unstated",
    "ing:rose",
    "ing:cocoa-butter",
    "ing:vitamin-e",
@@ -186327,7 +187137,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Beiersdorf — Global FMCG or beauty group",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/r/t/z/9-6-rose-lip-balm-for-women-2-nivea-original-imahgke5hwnasgpb.jpeg?q=90",
@@ -186345,6 +187156,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:kit",
    "spf:30",
+   "water:unstated",
    "ing:rose",
    "ing:cherry-acerola",
    "ing:watermelon",
@@ -186436,7 +187248,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Beiersdorf — Global FMCG or beauty group",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/j/t/d/14-4-watermelon-shine-lip-balm-4-8g-pack-of-3-3-nivea-original-imah5h7rwptewzzt.jpeg?q=90",
@@ -186454,6 +187267,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:kit",
    "spf:15",
+   "water:unstated",
    "ing:strawberry",
    "ing:cherry-acerola",
    "ing:watermelon",
@@ -186852,7 +187666,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Beiersdorf — Global FMCG or beauty group",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/q/i/e/14-4-lip-balm-4-8g-original-care-2pcs-strawberry-shine-pack-of-3-original-imah5h8s2pfmdkx5.jpeg?q=90",
@@ -186871,6 +187686,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:kit",
    "spf:15",
+   "water:unstated",
    "ing:green-tea",
    "ing:rose",
    "ing:almond",
@@ -187857,7 +188673,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "declaredManufacturer": "Florenz Soapy Box Pvt Ltd Greater Noida 201310 (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/2/z/f/10-shea-lip-balm-1-nishviaak-original-imahgzy5uhdcjxrx.jpeg?q=90",
@@ -187874,6 +188691,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:15",
    "pa:+++",
+   "water:unstated",
    "ing:peptides",
    "ing:rose",
    "ing:shea-butter",
@@ -187966,7 +188784,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Beiersdorf — Global FMCG or beauty group",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/q/m/m/strawberry-shine-lip-balm-soft-creme-300-ml-2-3298638-nivea-original-imahgt7qaap4ybdh.jpeg?q=90",
@@ -187984,6 +188803,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:balm",
    "format:kit",
+   "water:unstated",
    "ing:strawberry",
    "claim:brightening",
    "claim:hydrating",
@@ -189455,7 +190275,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/c/m/l/18-new-6pc-lip-balm-crayon-shaped-lip-balm-set-fun-colorful-6-original-imahzt69heqmhfhf.jpeg?q=90",
@@ -189474,6 +190295,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:pack",
    "format:kit",
+   "water:resistant",
    "ing:peptides",
    "ing:honey",
    "ing:shea-butter",
@@ -189795,7 +190617,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/l/i/i/10-organic-color-hydrating-crayon-lip-balm-set-apple-1-xin-son-original-imahhzjxdyfrqgxk.jpeg?q=90",
@@ -189814,6 +190637,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:kit",
    "spf:30",
+   "water:unstated",
    "ing:aloe-vera",
    "claim:hydrating",
    "claim:soothing",
@@ -190128,7 +190952,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/h/7/9/18-best-brightening-lip-balm-brightens-pigmented-lips-for-dark-original-imahbcmhkfhnupnn.jpeg?q=90",
@@ -190148,6 +190973,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:lip-mask",
    "spf:50",
+   "water:unstated",
    "ing:rose",
    "ing:shea-butter",
    "ing:cocoa-butter",
@@ -190246,7 +191072,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/n/c/b/18-4pc-multicolor-crayon-brightening-lip-balm-pencil-shape-lip-original-imahzt69nger8tf5.jpeg?q=90",
@@ -190264,6 +191091,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "spf:50",
+   "water:unstated",
    "ing:rose",
    "ing:honey",
    "ing:shea-butter",
@@ -190362,7 +191190,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/y/x/t/18-new-lip-balm-crayon-shaped-lip-balm-set-fun-colorful-6-original-imahzt68uzndb3dq.jpeg?q=90",
@@ -190383,6 +191212,7 @@ const NXPRODUCTS = [
    "format:kit",
    "format:lip-mask",
    "spf:50",
+   "water:unstated",
    "ing:rose",
    "ing:honey",
    "ing:shea-butter",
@@ -190709,7 +191539,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/f/l/g/8-nourishing-color-changing-3d-lip-balms-combo-6-thtc-original-imagqg858xpvywkh.jpeg?q=90",
@@ -190727,6 +191558,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:pack",
    "format:kit",
+   "water:resistant",
    "ing:peptides",
    "ing:rose",
    "ing:almond",
@@ -190828,7 +191660,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/s/v/l/4-5-lip-balm-long-lasting-moisturization-1-amaryllis-original-imagr3n8zdzzz7gb.jpeg?q=90",
@@ -190846,6 +191679,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:60",
    "pa:++++",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:kojic-acid",
    "ing:strawberry",
@@ -190941,7 +191775,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/t/t/v/6-crystal-flower-ph-temperature-changing-lip-balm-1-blussfrom-original-imahkgdf4gdtvh8w.jpeg?q=90",
@@ -190958,6 +191793,7 @@ const NXPRODUCTS = [
    "format:stick",
    "format:balm",
    "spf:30",
+   "water:resistant",
    "ing:rose",
    "ing:almond",
    "ing:watermelon",
@@ -191164,7 +192000,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/l/l/9/3-5-rich-cocoa-lip-balm-repair-dry-lips-smooth-moisturize-1-original-imahngcthqhbgqmn.jpeg?q=90",
@@ -191183,6 +192020,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:50+",
    "pa:+++",
+   "water:unstated",
    "ing:cocoa-butter",
    "claim:oil-control",
    "claim:hydrating",
@@ -191389,7 +192227,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/5/s/4/18-new-pencil-shaped-solid-moisturizer-stick-lip-balm-natural-6-original-imagvz4hj66ud4sx.jpeg?q=90",
@@ -191406,6 +192245,7 @@ const NXPRODUCTS = [
    "format:stick",
    "format:balm",
    "spf:30",
+   "water:unstated",
    "claim:oil-control",
    "claim:hydrating",
    "claim:exfoliating",
@@ -191499,7 +192339,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/l/e/l/8-baby-color-lip-balm-1-comy-wow-original-imahphrhh7mq8w8a.jpeg?q=90",
@@ -191517,6 +192358,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "spf:15",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:kojic-acid",
    "ing:rose",
@@ -191723,7 +192565,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/t/2/8/18-trending-multicolor-crayon-brightening-lip-balm-pencil-shape-original-imahzt69gwrfatjr.jpeg?q=90",
@@ -191741,6 +192584,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "spf:50",
+   "water:unstated",
    "ing:rose",
    "ing:honey",
    "ing:shea-butter",
@@ -191840,7 +192684,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/2/1/d/5-100-best-natural-longstay-waterproof-lip-balm-1-amaryllis-original-imagynyefdhufz5a.jpeg?q=90",
@@ -191858,6 +192703,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "spf:50",
+   "water:resistant",
    "ing:rose",
    "ing:almond",
    "ing:shea-butter",
@@ -191954,7 +192800,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/r/p/x/5-100-natural-longstay-waterproof-lip-balm-1-amaryllis-original-imagynydw9pjxp3c.jpeg?q=90",
@@ -191971,6 +192818,7 @@ const NXPRODUCTS = [
    "format:stick",
    "format:balm",
    "spf:50",
+   "water:resistant",
    "ing:rose",
    "ing:almond",
    "ing:cocoa-butter",
@@ -192069,7 +192917,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/d/w/g/18-ultra-soft-pencil-shaped-solid-moisturizer-stick-lip-balm-original-imagvz4jh3geemgu.jpeg?q=90",
@@ -192086,6 +192935,7 @@ const NXPRODUCTS = [
    "format:stick",
    "format:balm",
    "spf:30",
+   "water:resistant",
    "ing:rose",
    "ing:almond",
    "ing:strawberry",
@@ -192401,7 +193251,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/x/a/2/20-hd-long-lasting-smooth-lip-balm-4-lillyamor-original-imaguuymgghznzau.jpeg?q=90",
@@ -192418,6 +193269,7 @@ const NXPRODUCTS = [
    "format:stick",
    "format:balm",
    "format:pack",
+   "water:resistant",
    "ing:peptides",
    "ing:aloe-vera",
    "ing:rose",
@@ -192843,7 +193695,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/h/m/d/18-multicolor-crayon-pencil-lip-balm-6-felicechiara-original-imahzt68wenapbeb.jpeg?q=90",
@@ -192861,6 +193714,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "spf:50",
+   "water:unstated",
    "ing:rose",
    "ing:honey",
    "ing:strawberry",
@@ -192957,7 +193811,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/v/3/5/18-6-pc-multicolor-fruits-lip-balm-jelly-transparent-color-6-original-imahbcmhxqspqtkg.jpeg?q=90",
@@ -192975,6 +193830,7 @@ const NXPRODUCTS = [
    "format:stick",
    "format:balm",
    "spf:50",
+   "water:unstated",
    "ing:rose",
    "ing:shea-butter",
    "ing:cocoa-butter",
@@ -193173,7 +194029,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/q/p/f/5-soft-lip-balm-moisturizing-lips-lip-care-1-amaryllis-original-imags5hptaezz8vb.jpeg?q=90",
@@ -193193,6 +194050,7 @@ const NXPRODUCTS = [
    "format:roll-on",
    "spf:50",
    "pa:+++",
+   "water:resistant",
    "ing:ceramides",
    "ing:kojic-acid",
    "ing:jojoba",
@@ -193399,7 +194257,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/u/s/g/18-new-pencil-shape-lip-balm-fruity-6-felicechiara-original-imahzt687gkpzpjm.jpeg?q=90",
@@ -193418,6 +194277,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:lip-mask",
    "spf:50",
+   "water:unstated",
    "ing:rose",
    "ing:honey",
    "ing:shea-butter",
@@ -193516,7 +194376,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/r/m/q/18-multi-color-multi-shades-professional-moisturizer-lip-balm-6-original-imahzt69hebh3wxg.jpeg?q=90",
@@ -193533,6 +194394,7 @@ const NXPRODUCTS = [
    "format:stick",
    "format:balm",
    "spf:50",
+   "water:unstated",
    "ing:rose",
    "ing:honey",
    "ing:shea-butter",
@@ -193740,7 +194602,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/f/o/e/18-soft-lip-care-long-lasting-lip-blam-all-flavor-natural-6-original-imagvrgczgpjc2uj.jpeg?q=90",
@@ -193757,6 +194620,7 @@ const NXPRODUCTS = [
    "format:stick",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:peptides",
    "ing:rose",
    "ing:almond",
@@ -193854,7 +194718,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/e/b/d/10-strawberry-spf-15-0-35-oz-in-blister-pack-2-carmex-original-imahf7htpkbzxquu.jpeg?q=90",
@@ -193874,6 +194739,7 @@ const NXPRODUCTS = [
    "format:pack",
    "format:kit",
    "spf:15",
+   "water:unstated",
    "ing:ceramides",
    "ing:peptides",
    "ing:strawberry",
@@ -193972,7 +194838,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-gloss/q/u/v/20-perfect-lip-oil-fruity-roll-on-softens-lip-texture-for-men-original-imahzw9rt5zuftnd.jpeg?q=90",
@@ -193991,6 +194858,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:roll-on",
    "spf:50",
+   "water:unstated",
    "ing:rose",
    "ing:honey",
    "ing:cocoa-butter",
@@ -194309,7 +195177,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/h/t/f/12-best-lip-balm-moisturizing-and-hydrating-lips-lip-balm-lip-original-imahbcmhnfhuf3ty.jpeg?q=90",
@@ -194326,6 +195195,7 @@ const NXPRODUCTS = [
    "format:stick",
    "format:balm",
    "spf:50",
+   "water:unstated",
    "ing:rose",
    "ing:shea-butter",
    "ing:cocoa-butter",
@@ -194422,7 +195292,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/kydb3ww0/lip-balm/e/o/z/12-75-lip-balm-stick-strawberry-spf-15-pack-of-3-3-carmex-original-imagam4uz9rvdkhs.jpeg?q=90",
@@ -194441,6 +195312,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:kit",
    "spf:15",
+   "water:unstated",
    "ing:kojic-acid",
    "ing:coffee",
    "ing:rose",
@@ -194647,7 +195519,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/y/t/f/4-25-moisturizing-balm-lip-3-carmex-original-imah7qntzjptfsgh.jpeg?q=90",
@@ -194665,6 +195538,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "spf:50",
+   "water:unstated",
    "ing:kojic-acid",
    "ing:aloe-vera",
    "ing:rose",
@@ -194876,7 +195750,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/o/b/n/10-strawberry-lip-balm-moisturizing-lip-balm-10g-0-35-oz-1-original-imagkgffaafghfnx.jpeg?q=90",
@@ -194892,6 +195767,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:stick",
    "format:balm",
+   "water:unstated",
    "ing:rose",
    "ing:almond",
    "ing:strawberry",
@@ -195102,7 +195978,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/j/r/p/5-tinted-ceramide-lip-balm-with-spf50-pa-kojic-acid-niacirtamide-original-imahpfa3x4gwryjj.jpeg?q=90",
@@ -195120,6 +195997,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:ceramides",
    "ing:kojic-acid",
    "ing:watermelon",
@@ -195216,7 +196094,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/e/i/0/12-lip-balm-sticks-spf-15-fresh-cherry-strawberry-wintergreen-3-original-imahf7hs4xbtjjzc.jpeg?q=90",
@@ -195234,6 +196113,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:sleeping-mask",
    "spf:15",
+   "water:unstated",
    "ing:ceramides",
    "ing:peptides",
    "ing:rose",
@@ -195660,7 +196540,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/s/5/u/10-lippy-cream-hydrating-lip-balm-for-dry-chapped-lips-3-original-imahhfn6dc7j2tfb.jpeg?q=90",
@@ -195679,6 +196560,7 @@ const NXPRODUCTS = [
    "format:scrub",
    "spf:40",
    "pa:+++",
+   "water:unstated",
    "ing:shea-butter",
    "ing:vitamin-e",
    "ing:strawberry",
@@ -195774,7 +196656,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/n/g/b/10-0-redgrapes-lip-balm-for-dry-chapped-lips-deep-moisturizing-original-imahn7aa36fbzhgg.jpeg?q=90",
@@ -195789,6 +196672,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:balm",
+   "water:unstated",
    "ing:strawberry",
    "claim:brightening",
    "claim:hydrating",
@@ -195881,7 +196765,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/1/q/e/5-100-natural-lip-balm-i-non-sticky-i-protects-nourishes-dry-original-imah3fhmdzbexqza.jpeg?q=90",
@@ -195901,6 +196786,7 @@ const NXPRODUCTS = [
    "format:kit",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:ceramides",
    "ing:kojic-acid",
    "ing:coffee",
@@ -196547,7 +197433,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/l/i/a/5-brightening-lip-balm-n-39-1-smietrz-original-imahen9trhne8hrx.jpeg?q=90",
@@ -196566,6 +197453,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:30",
    "pa:++++",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:kojic-acid",
@@ -196871,7 +197759,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/z/q/v/5-strawberry-kiss-tinted-lip-balm-with-natural-pink-glow-1-original-imahjk4z8awkpv7u.jpeg?q=90",
@@ -196888,6 +197777,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:ceramides",
    "ing:kojic-acid",
    "ing:strawberry",
@@ -196984,7 +197874,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/a/0/l/10-bff-lip-balm-combo-24-hrs-moisturization-2-fashion-colour-original-imahgftbkhpaycvm.jpeg?q=90",
@@ -197001,6 +197892,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:kit",
    "spf:30",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
@@ -197100,7 +197992,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/c/e/s/10-8-jelly-lipstick-nutritious-moisturizer-lip-balm-3-woongmi-original-imah34zrnhfxtfw3.jpeg?q=90",
@@ -197118,6 +198011,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "format:pack",
+   "water:resistant",
    "ing:peptides",
    "ing:shea-butter",
    "ing:cherry-acerola",
@@ -201864,7 +202758,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/j/i/n/30-lip-balm-spf-30-1-way2derma-original-imahzfdqvc4f5hfh.jpeg?q=90",
@@ -201882,6 +202777,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "spf:30",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "ing:peptides",
@@ -203854,7 +204750,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/s/w/n/1-natural-moisturizing-lip-balm-original-beeswax-with-vitamin-e-original-imahyyy4erehhhez.jpeg?q=90",
@@ -203873,6 +204770,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "format:pack",
+   "water:resistant",
    "ing:peptides",
    "ing:rose",
    "ing:almond",
@@ -203971,7 +204869,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/f/b/a/8-5-coconut-pear-and-mango-two-balms-4-25-g-each-2-burt-s-bees-original-imah9qgwujgzcfww.jpeg?q=90",
@@ -203989,6 +204888,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "spf:50",
+   "water:resistant",
    "ing:rose",
    "ing:shea-butter",
    "ing:vitamin-e",
@@ -204087,7 +204987,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/v/z/h/17-freshly-picked-lip-balm-4-burt-s-bees-original-imahhydg8gjhkhnw.jpeg?q=90",
@@ -204104,6 +205005,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:kojic-acid",
    "ing:cucumber",
    "ing:strawberry",
@@ -204418,7 +205320,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/3/c/h/4-25-vanilla-bean-moisturizing-lip-balm-4-25g-1-burt-s-bees-original-imahpjn2ef9nqhau.jpeg?q=90",
@@ -204435,6 +205338,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:pack",
    "spf:15",
+   "water:resistant",
    "ing:peptides",
    "ing:shea-butter",
    "claim:dark-spots",
@@ -204979,7 +205883,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/g/2/y/47-lip-balm-beeswax-4-count-0-15-oz-4-burt-s-bees-original-imahmd6c5udvfytz.jpeg?q=90",
@@ -204997,6 +205902,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:kojic-acid",
    "ing:vitamin-e",
    "ing:watermelon",
@@ -205092,7 +205998,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/e/a/s/2-55-lip-balm-stocking-stuffer-moisturizing-lip-shimmer-1-burt-s-original-imagjggffdgzrgbn.jpeg?q=90",
@@ -205110,6 +206017,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "spf:15",
+   "water:unstated",
    "ing:kojic-acid",
    "ing:rose",
    "ing:almond",
@@ -205208,7 +206116,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/w/y/p/4-25-lip-shimmer-for-women-1-burt-s-bees-original-imahy9tyyugxtsf8.jpeg?q=90",
@@ -205227,6 +206136,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:kojic-acid",
    "ing:aloe-vera",
    "ing:rose",
@@ -205439,7 +206349,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/0/1/o/8-50-lip-balm-pomegranate-oil-blister-box-2-count-2-burt-s-bees-original-imagk4e2tmhhnqge.jpeg?q=90",
@@ -205460,6 +206371,7 @@ const NXPRODUCTS = [
    "format:roll-on",
    "format:kit",
    "spf:50",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:rose",
    "ing:almond",
@@ -207103,7 +208015,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lipstick/8/y/g/2-6-lip-shimmer-for-women-burt-s-bees-original-imahcedbz38k7ga9.jpeg?q=90",
@@ -207118,6 +208031,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "spf:30",
+   "water:resistant",
    "claim:oil-control",
    "claim:water-resistant",
    "claim:lightweight",
@@ -215156,7 +216070,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/d/7/o/4-best-vitamin-c-lip-balm-for-dry-and-chapped-lips-hydration-original-imahmcyybpnejxgg.jpeg?q=90",
@@ -215176,6 +216091,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:kit",
    "spf:30",
+   "water:resistant",
    "ing:vitamin-c",
    "ing:strawberry",
    "claim:brightening",
@@ -215603,7 +216519,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/w/u/q/4-lip-balm-with-vitamin-c-for-brighter-and-healthier-lips-and-original-imahmcy6gkkzhdjs.jpeg?q=90",
@@ -215622,6 +216539,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "spf:30",
+   "water:resistant",
    "ing:vitamin-c",
    "ing:strawberry",
    "claim:brightening",
@@ -216050,7 +216968,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/v/1/7/3-lip-balm-for-dry-damaged-chapped-lips-1-bluemermaid-original-imagyybrhz7xy5zw.jpeg?q=90",
@@ -216067,6 +216986,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:strawberry",
    "ing:watermelon",
    "claim:brightening",
@@ -216377,7 +217297,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/v/p/b/4-natural-vitamin-c-lip-balm-for-glowing-dry-lipsand-nourished-original-imahmcyhzuuxfxmn.jpeg?q=90",
@@ -216394,6 +217315,7 @@ const NXPRODUCTS = [
    "format:stick",
    "format:balm",
    "spf:50",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:rose",
    "ing:shea-butter",
@@ -216825,7 +217747,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/t/u/o/40-brightening-for-vitamin-c-andcartoon-lip-balm-brithen-lips-original-imahmrecpnwxzayf.jpeg?q=90",
@@ -216844,6 +217767,7 @@ const NXPRODUCTS = [
    "format:pack",
    "format:scrub",
    "format:kit",
+   "water:resistant",
    "ing:vitamin-c",
    "ing:peptides",
    "ing:shea-butter",
@@ -217773,7 +218697,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/a/j/j/20-lip-serum-advanced-brightening-therapy-for-soft-moisturised-original-imahnkgskhucpvmv.jpeg?q=90",
@@ -217793,6 +218718,7 @@ const NXPRODUCTS = [
    "format:roll-on",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:ceramides",
    "ing:kojic-acid",
    "ing:strawberry",
@@ -218837,7 +219763,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/b/g/c/10-premium-lip-serum-roll-on-deep-hydration-moisturizing-lip-original-imahnvmzdgzuktkx.jpeg?q=90",
@@ -218857,6 +219784,7 @@ const NXPRODUCTS = [
    "format:roll-on",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:ceramides",
    "ing:kojic-acid",
    "ing:strawberry",
@@ -219902,7 +220830,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/v/m/c/10-natural-lip-serum-infused-with-spf-15-vitamin-e-almond-oil-original-imah383v67utekun.jpeg?q=90",
@@ -219921,6 +220850,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "spf:15",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:almond",
    "ing:vitamin-e",
@@ -220443,7 +221373,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/z/r/n/10-lip-serum-roll-on-for-soft-smooth-glossy-lips-1-bejoy-original-imahp6bfggfr9xhk.jpeg?q=90",
@@ -220461,6 +221392,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:roll-on",
    "spf:50",
+   "water:unstated",
    "ing:rose",
    "ing:rosehip",
    "ing:shea-butter",
@@ -223307,7 +224239,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/r/c/y/10-lip-serum-help-maintain-lip-softness-moisturizing-plumping-original-imahmrsv47zubzzz.jpeg?q=90",
@@ -223326,6 +224259,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:roll-on",
    "spf:50",
+   "water:unstated",
    "ing:almond",
    "ing:shea-butter",
    "ing:argan-oil",
@@ -223959,7 +224893,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/v/q/z/10-lip-serum-roll-on-lip-serum-for-pigmentation-lip-serum-oil-original-imah383vuhnvyzde.jpeg?q=90",
@@ -223978,6 +224913,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:roll-on",
    "spf:15",
+   "water:unstated",
    "ing:honey",
    "ing:strawberry",
    "claim:dark-spots",
@@ -224281,7 +225217,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-lip-balm/n/h/g/40-0-lip-serum-roll-on-healing-lip-care-for-daily-use-travel-original-imahfjmbvgzebnda.jpeg?q=90",
@@ -224298,6 +225235,7 @@ const NXPRODUCTS = [
    "format:serum",
    "format:roll-on",
    "format:kit",
+   "water:unstated",
    "ing:strawberry",
    "ing:beetroot",
    "claim:brightening",
@@ -225710,7 +226648,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-gloss/m/m/r/10-pack-of-2-vitamin-c-lip-oil-spf-30-hydrating-glossy-lip-care-original-imahphfbq9hxadaf.jpeg?q=90",
@@ -225728,6 +226667,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:kit",
    "spf:30",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:rose",
    "ing:watermelon",
@@ -225934,7 +226874,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-gloss/0/v/7/5-vitamin-c-lip-oil-spf-30-hydrating-lip-serum-for-soft-glossy-original-imahphewr2fhcjjt.jpeg?q=90",
@@ -225951,6 +226892,7 @@ const NXPRODUCTS = [
    "format:serum",
    "format:oil",
    "spf:30",
+   "water:unstated",
    "ing:vitamin-c",
    "claim:hydrating",
    "claim:exfoliating",
@@ -226041,7 +226983,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-gloss/5/q/h/10-pack-of-2-rice-serum-lip-oil-spf-30-hydrating-glossy-lip-care-original-imahphfea63jz8sp.jpeg?q=90",
@@ -226059,6 +227002,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:kit",
    "spf:30",
+   "water:resistant",
    "ing:rice-water",
    "claim:oil-control",
    "claim:hydrating",
@@ -226257,7 +227201,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/r/v/u/10-lip-serum-hydrating-nourishing-and-plumping-lip-care-for-soft-original-imah9tf4s5rmmdaq.jpeg?q=90",
@@ -226277,6 +227222,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:roll-on",
    "spf:15",
+   "water:unstated",
    "ing:peptides",
    "ing:rose",
    "ing:rosehip",
@@ -232902,7 +233848,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-lip-balm/7/o/i/70-0-hydrating-lip-serum-roll-on-fast-absorbing-lip-moisturizer-original-imahg2ggb7zzyntw.jpeg?q=90",
@@ -232919,6 +233866,7 @@ const NXPRODUCTS = [
    "format:serum",
    "format:roll-on",
    "format:kit",
+   "water:unstated",
    "ing:strawberry",
    "ing:beetroot",
    "claim:brightening",
@@ -240127,7 +241075,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/7/y/m/10-cococare-ordinary-lipbalm-10g-pack-of-1-1-hydrah-original-imahqw8qrvxjn75v.jpeg?q=90",
@@ -240145,6 +241094,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:kit",
    "spf:15",
+   "water:unstated",
    "ing:rose",
    "ing:almond",
    "ing:shea-butter",
@@ -241863,7 +242813,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "declaredManufacturer": "Arovea Formulations Pvt. Ltd. (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/l/t/j/10-hydra-lip-spf-for-moisturised-hydrated-and-shiny-lips-sun-original-imahpcxyh3ptpqhn.jpeg?q=90",
@@ -241880,6 +242831,7 @@ const NXPRODUCTS = [
    "format:serum",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:peptides",
    "ing:strawberry",
    "claim:hydrating",
@@ -242532,7 +243484,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/i/f/7/15-natural-lip-balm-with-raspberry-coconut-almond-oil-shea-original-imahddug3nggjxeg.jpeg?q=90",
@@ -242549,6 +243502,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "spf:50",
+   "water:unstated",
    "ing:rose",
    "ing:honey",
    "ing:almond",
@@ -243669,7 +244623,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/d/o/e/5-100-best-aloe-vera-lip-balm-long-lasting-nutritious-lip-balm-1-original-imahd4vnahbxzd3e.jpeg?q=90",
@@ -243688,6 +244643,7 @@ const NXPRODUCTS = [
    "format:kit",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:kojic-acid",
@@ -243893,7 +244849,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/3/n/v/5-0-dark-lips-repair-niacinamide-beetroot-tinted-lip-balm-with-original-imahmf9rkczhndhq.jpeg?q=90",
@@ -243912,6 +244869,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:body-wax",
    "spf:50",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:coffee",
@@ -244356,7 +245314,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-gloss/b/x/f/5-100-super-aloe-vera-long-lasting-nutritious-soothing-lip-gloss-original-imahd68fhgxugug5.jpeg?q=90",
@@ -244377,6 +245336,7 @@ const NXPRODUCTS = [
    "format:kit",
    "spf:50",
    "pa:++++",
+   "water:unstated",
    "ing:ceramides",
    "ing:kojic-acid",
    "ing:rose",
@@ -244476,7 +245436,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/f/j/x/5-strawberry-lip-balm-spf-50-moisturizing-shea-butter-coconut-original-imahkggndszxvhyq.jpeg?q=90",
@@ -244495,6 +245456,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:50+",
    "pa:+++",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:kojic-acid",
@@ -244828,7 +245790,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/p/s/c/5-natural-lip-balm-i-non-sticky-i-protects-nourishes-dry-chapped-original-imah6uefragzzswm.jpeg?q=90",
@@ -244847,6 +245810,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:50",
    "pa:++++",
+   "water:unstated",
    "ing:niacinamide",
    "ing:petrolatum",
    "ing:ceramides",
@@ -244948,7 +245912,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/m/i/i/3-8-strawberry-lip-balm-moisturize-natural-shine-for-men-women-1-original-imahpkq2znbcbrtc.jpeg?q=90",
@@ -244966,6 +245931,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:kit",
    "spf:15",
+   "water:unstated",
    "ing:shea-butter",
    "ing:vitamin-e",
    "ing:strawberry",
@@ -245061,7 +246027,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/h/x/7/3-8-tinted-juicy-lip-balms-with-12hrs-moisturisation-spf-15-1-original-imahpf9ae5cembkx.jpeg?q=90",
@@ -245078,6 +246045,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:15",
    "pa:+++",
+   "water:unstated",
    "ing:peptides",
    "ing:kojic-acid",
    "ing:kumkumadi",
@@ -249703,7 +250671,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/x/m/z/5-color-lip-balm-1-your-beauty-original-imahnwnmdfgxenaa.jpeg?q=90",
@@ -249721,6 +250690,7 @@ const NXPRODUCTS = [
    "format:kit",
    "spf:15",
    "pa:+++",
+   "water:unstated",
    "ing:ceramides",
    "ing:kojic-acid",
    "ing:coffee",
@@ -249923,7 +250893,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/y/a/h/15-baby-color-strawberry-lip-balm-with-protection-1-comy-wow-original-imahgs57gsbvatdb.jpeg?q=90",
@@ -249939,6 +250910,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:argan-oil",
    "ing:strawberry",
    "ing:cherry-acerola",
@@ -250647,7 +251619,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/l/b/q/10-strawberry-lip-balm-10g-for-smooth-lip-texture-1-fairlis-original-imahq6tztnxxuygy.jpeg?q=90",
@@ -250663,6 +251636,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:balm",
    "pa:+++",
+   "water:unstated",
    "ing:ceramides",
    "ing:peptides",
    "ing:coffee",
@@ -250962,7 +251936,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/d/m/n/natural-attar-2ml-with-lip-balm-light-pink-2-fkt-816-geggsa-original-imahztrzj4zjgpt9.jpeg?q=90",
@@ -250979,6 +251954,7 @@ const NXPRODUCTS = [
    "format:stick",
    "format:balm",
    "spf:15",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:kojic-acid",
    "ing:rose",
@@ -251384,7 +252360,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/kkyc9zk0/lip-balm/y/s/v/10-100-natural-shine-lip-care-strawberry-pack-of-1-10-g-alphacia-original-imagy6nvmvqt5xcm.jpeg?q=90",
@@ -251404,6 +252381,7 @@ const NXPRODUCTS = [
    "format:kit",
    "spf:30",
    "pa:+++",
+   "water:unstated",
    "ing:rose",
    "ing:almond",
    "ing:strawberry",
@@ -251607,7 +252585,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/a/x/b/4-5-lip-balm-pink-moisture-rich-and-long-lasting-5-geggsa-original-imagw84wvtsj5ajh.jpeg?q=90",
@@ -251624,6 +252603,7 @@ const NXPRODUCTS = [
    "format:stick",
    "format:balm",
    "spf:50",
+   "water:unstated",
    "ing:rose",
    "ing:almond",
    "ing:cocoa-butter",
@@ -252831,7 +253811,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/g/b/3/3-8-strawberry-color-lip-balm-1-thtc-original-imagjqymzkcgvtmh.jpeg?q=90",
@@ -252848,6 +253829,7 @@ const NXPRODUCTS = [
    "format:stick",
    "format:balm",
    "spf:30",
+   "water:unstated",
    "ing:rose",
    "ing:almond",
    "ing:strawberry",
@@ -253469,7 +254451,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/4/6/v/10-herbals-nourishing-strawberry-lip-balm-for-men-women-1-original-imah9cn8hzdbdcqx.jpeg?q=90",
@@ -253487,6 +254470,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:roll-on",
    "format:kit",
+   "water:unstated",
    "ing:strawberry",
    "ing:beetroot",
    "claim:hydrating",
@@ -254237,7 +255221,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/d/o/u/3-8-lip-balm-with-natural-beetroot-extract-pinky-goodlooking-original-imahpfahxs62nghv.jpeg?q=90",
@@ -254257,6 +255242,7 @@ const NXPRODUCTS = [
    "format:kit",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:kojic-acid",
    "ing:almond",
    "ing:shea-butter",
@@ -257759,7 +258745,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/s/e/e/10-honey-lip-balm-sleeping-mask-overnight-for-dryness-and-lips-original-imahj8v7hxj29hry.jpeg?q=90",
@@ -257776,6 +258763,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:sleeping-mask",
    "format:pack",
+   "water:resistant",
    "ing:peptides",
    "ing:honey",
    "ing:shea-butter",
@@ -257977,7 +258965,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/e/v/e/15-gloss-finish-matte-finish-sleeping-lip-mask-aleo-vera-1-original-imagrmk7nsuyshap.jpeg?q=90",
@@ -257996,6 +258985,7 @@ const NXPRODUCTS = [
    "format:kit",
    "format:lip-mask",
    "spf:30",
+   "water:unstated",
    "ing:coffee",
    "ing:strawberry",
    "ing:avocado",
@@ -258538,7 +259528,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/m/g/x/100-20-mask-lip-nourishing-overnight-lip-care-treatment-1-original-imahpbp9zepadqw5.jpeg?q=90",
@@ -258557,6 +259548,7 @@ const NXPRODUCTS = [
    "format:lip-mask",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "ing:collagen",
@@ -258760,7 +259752,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/h/r/r/24-0-ubble-gum-fun-overnight-jelly-lip-mask-1-natually-original-imahftdfctyfbmzz.jpeg?q=90",
@@ -258777,6 +259770,7 @@ const NXPRODUCTS = [
    "format:serum",
    "format:oil",
    "format:lip-mask",
+   "water:unstated",
    "ing:strawberry",
    "claim:hydrating",
    "claim:spf-claim",
@@ -259339,7 +260333,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "declaredManufacturer": "Not Available (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/b/w/m/4-lip-sleeping-moisturizing-lip-overnight-lip-mask-for-chapped-original-imaherntfgknkney.jpeg?q=90",
@@ -259356,6 +260351,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:sleeping-mask",
    "format:lip-mask",
+   "water:unstated",
    "ing:cherry-acerola",
    "claim:hydrating",
    "claim:tinted",
@@ -259446,7 +260442,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/z/x/0/15-lip-sleeping-mask-with-rose-extract-vitamin-e-hyaluronic-acid-original-imahpn2zzt4mguax.jpeg?q=90",
@@ -259466,6 +260463,7 @@ const NXPRODUCTS = [
    "format:kit",
    "format:lip-mask",
    "spf:50",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:peptides",
    "ing:rose",
@@ -259792,7 +260790,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/m/w/i/45-special-care-lip-sleeping-mask-overnight-lip-repair-mask-3-original-imah5ghhfkmggyp5.jpeg?q=90",
@@ -259811,6 +260810,7 @@ const NXPRODUCTS = [
    "format:sleeping-mask",
    "format:lip-mask",
    "spf:50",
+   "water:unstated",
    "ing:green-tea",
    "ing:rose",
    "ing:strawberry",
@@ -260131,7 +261131,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/y/x/5/100-20-mask-lip-sleeping-mask-deep-repair-overnight-lip-original-imahpbqz8xfgyg4j.jpeg?q=90",
@@ -260150,6 +261151,7 @@ const NXPRODUCTS = [
    "format:lip-mask",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:collagen",
    "ing:kojic-acid",
@@ -260252,7 +261254,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/h/h/w/100-20-mask-lip-repair-gel-mask-for-overnight-lip-hydration-1-original-imahpbp23xqhkq5p.jpeg?q=90",
@@ -260273,6 +261276,7 @@ const NXPRODUCTS = [
    "format:lip-mask",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:collagen",
    "ing:kojic-acid",
@@ -260596,7 +261600,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/2/s/a/100-20-mask-overnight-lip-sleeping-mask-for-dry-chapped-lips-1-original-imahpagzmt37bguv.jpeg?q=90",
@@ -260616,6 +261621,7 @@ const NXPRODUCTS = [
    "format:lip-mask",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:collagen",
    "ing:kojic-acid",
@@ -260720,7 +261726,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/j/f/m/15-liplike-strawberry-lip-sleeping-mask-overnight-repair-original-imahksba2er4b9q5.jpeg?q=90",
@@ -260741,6 +261748,7 @@ const NXPRODUCTS = [
    "format:sleeping-mask",
    "format:lip-mask",
    "spf:15",
+   "water:resistant",
    "ing:strawberry",
    "ing:cherry-acerola",
    "claim:hydrating",
@@ -260835,7 +261843,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-lip-balm/a/g/2/5-brightening-lip-balm-spf-lip-balm-for-dark-lips-for-women-5g-1-original-imahgmhyd4ppfewm.jpeg?q=90",
@@ -260853,6 +261862,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:ceramides",
    "ing:kojic-acid",
    "ing:strawberry",
@@ -260950,7 +261960,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/x/4/b/6-dream-glow-lip-sleeping-mask-berry-kiss-overnight-lip-mask-1-original-imahpqhpgs8jm3pb.jpeg?q=90",
@@ -260970,6 +261981,7 @@ const NXPRODUCTS = [
    "format:lip-mask",
    "spf:50",
    "pa:++++",
+   "water:unstated",
    "ing:petrolatum",
    "ing:rose",
    "ing:honey",
@@ -261498,7 +262510,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/0/8/t/10-stay-smooth-lip-balm-beetroot-base-1-fairlis-original-imahebgjnzb2aqgs.jpeg?q=90",
@@ -261515,6 +262528,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "spf:30",
+   "water:unstated",
    "ing:ceramides",
    "ing:kojic-acid",
    "ing:rose",
@@ -262051,7 +263065,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/d/w/t/8-uv-doux-lip-lightening-balm-spf-40-pa-with-almond-oil-olive-original-imahfhphp8xzfzh3.jpeg?q=90",
@@ -262070,6 +263085,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "pa:++",
+   "water:unstated",
    "ing:almond",
    "ing:vitamin-e",
    "ing:olive",
@@ -262494,7 +263510,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/p/d/l/10-rose-lip-balm-for-natural-lip-moisturizer-for-lightening-soft-original-imah9cn8bguhjnhp.jpeg?q=90",
@@ -262512,6 +263529,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "format:roll-on",
+   "water:unstated",
    "ing:peptides",
    "ing:rose",
    "ing:shea-butter",
@@ -263949,7 +264967,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-lip-balm/n/z/y/30-herbal-beetroot-lip-balm-glossy-moisture-balm-with-natural-original-imahfby6pzs4ndnz.jpeg?q=90",
@@ -263966,6 +264985,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "format:kit",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:rose",
    "ing:almond",
@@ -264502,7 +265522,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/d/a/t/5-strawberry-lip-balm-spf-50-shea-butter-vitamin-e-for-lip-original-imahk2suzsarvrm7.jpeg?q=90",
@@ -264520,6 +265541,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:50+",
    "pa:++++",
+   "water:resistant",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:kojic-acid",
@@ -264829,7 +265851,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/2/y/l/8-0-strawberry-lip-balm-for-dark-with-vitamin-c-e-niacinamide-1-original-imahzy4ff9ddzn3p.jpeg?q=90",
@@ -264845,6 +265868,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:peptides",
@@ -264946,7 +265970,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/d/s/t/5-tinted-ceramide-lip-balm-with-spf50-pa-kojic-acid-niacinamide-original-imahjb5yf4fyhqtp.jpeg?q=90",
@@ -264965,6 +265990,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:50+",
    "pa:+++",
+   "water:unstated",
    "ing:niacinamide",
    "ing:kojic-acid",
    "ing:shea-butter",
@@ -265396,7 +266422,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/p/5/4/3-plumping-lip-oil-lip-gloss-lip-care-1-gabbu-original-imagxrbk9ju3pud2.jpeg?q=90",
@@ -265414,6 +266441,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "spf:50",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:rose",
    "ing:shea-butter",
@@ -265509,7 +266537,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/jyoq93k0/lip-balm/t/w/s/7-intense-therapy-lip-balm-jack-black-original-imafgvcnnnzjcj7g.jpeg?q=90",
@@ -265525,6 +266554,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:balm",
    "spf:15",
+   "water:unstated",
    "ing:shea-butter",
    "claim:spf-claim",
    "aud:unisex",
@@ -266075,7 +267105,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51abSk699tL._AC_UL320_.jpg"
@@ -266088,6 +267119,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "spf:15",
+   "water:unstated",
    "ing:ceramides",
    "ing:kojic-acid",
    "ing:shea-butter",
@@ -266290,7 +267322,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61W9xO+-4OL._AC_UL320_.jpg"
@@ -266303,6 +267336,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:ceramides",
    "ing:peptides",
    "ing:rose",
@@ -266804,7 +267838,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/716mWqxmmOL._AC_UL320_.jpg"
@@ -266817,6 +267852,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:50",
    "pa:++++",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "ing:kojic-acid",
@@ -266917,7 +267953,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51UghsDBsXL._AC_UL320_.jpg"
@@ -266931,6 +267968,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:50",
    "pa:+++",
+   "water:resistant",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "ing:rose",
@@ -267032,7 +268070,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51K3D2iuYiL._AC_UL320_.jpg"
@@ -267046,6 +268085,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:collagen",
@@ -267146,7 +268186,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41wG3Np8MGL._SL1001_.jpg"
@@ -267161,6 +268202,7 @@ const NXPRODUCTS = [
    "format:wash",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:kojic-acid",
@@ -267261,7 +268303,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41OA5P-okqL._SL1001_.jpg"
@@ -267276,6 +268319,7 @@ const NXPRODUCTS = [
    "format:wash",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:kojic-acid",
@@ -267379,7 +268423,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41X+2R1HY9L._SL1001_.jpg"
@@ -267396,6 +268441,7 @@ const NXPRODUCTS = [
    "format:wash",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:kojic-acid",
@@ -267502,7 +268548,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41RGuXPRtUL._SL1001_.jpg"
@@ -267517,6 +268564,7 @@ const NXPRODUCTS = [
    "format:wash",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:kojic-acid",
@@ -267616,7 +268664,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51ThhRbIwfL._SL1001_.jpg"
@@ -267631,6 +268680,7 @@ const NXPRODUCTS = [
    "format:wash",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:kojic-acid",
@@ -268390,7 +269440,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Deconstruct Skincare — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41WHo-xeSrL._SL1080_.jpg",
@@ -268406,6 +269457,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:balm",
    "spf:50",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:vitamin-e",
    "claim:brightening",
@@ -268611,7 +269663,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51Hu0J+eP6L._SL1500_.jpg",
@@ -268627,6 +269680,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:balm",
    "spf:50+",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:peptides",
    "ing:kojic-acid",
@@ -269088,7 +270142,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
    "buyerEvidence": "4.3★ from 0 ratings",
-   "concernBasis": "Irritation — ceramide np #23 on INCI (matching only — not proof it works)"
+   "concernBasis": "Irritation — ceramide np #23 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51uYLdqyxLL._SL1200_.jpg",
@@ -269105,6 +270160,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:30",
    "sun:chemical",
+   "water:unstated",
    "ing:petrolatum",
    "ing:hyaluronic-acid",
    "ing:ceramides",
@@ -269274,7 +270330,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Deconstruct Skincare — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41GgteJmVjL._SL1080_.jpg",
@@ -269290,6 +270347,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:balm",
    "spf:50",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:shea-butter",
    "claim:brightening",
@@ -269383,7 +270441,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51RYWLlAfqL._SL1080_.jpg",
@@ -269400,6 +270459,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:50",
    "pa:++",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:ceramides",
    "ing:kojic-acid",
@@ -269497,7 +270557,8 @@ const NXPRODUCTS = [
    "evidenceActives": "cera alba (#3 on list, moderate evidence); butyrospermum parkii butter (#5 on list, moderate evidence); tocopherol (#9 on list, moderate evidence)",
    "safetyFlags": "Added fragrance (parfum): aroma (−1.5)",
    "maker": "Beiersdorf — Global FMCG or beauty group",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51MZpCP340L._SL1200_.jpg",
@@ -269515,6 +270576,7 @@ const NXPRODUCTS = [
    "format:kit",
    "spf:15",
    "sun:mineral",
+   "water:unstated",
    "ing:mineral-oil",
    "claim:hydrating",
    "claim:broad-spectrum",
@@ -269677,7 +270739,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "WishCare — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61qm-ShEypL._SL1500_.jpg",
@@ -269695,6 +270758,7 @@ const NXPRODUCTS = [
    "format:pack",
    "spf:50",
    "pa:++++",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:kojic-acid",
@@ -269794,7 +270858,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61ZZqR0WAZL._SL1500_.jpg",
@@ -269812,6 +270877,7 @@ const NXPRODUCTS = [
    "spf:50",
    "pa:+++",
    "sun:mineral",
+   "water:unstated",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:ceramides",
@@ -269919,7 +270985,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.5★ from 0 ratings"
+   "buyerEvidence": "4.5★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61zmD9BYojL._SL1500_.jpg",
@@ -269935,6 +271002,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:balm",
    "spf:15",
+   "water:unstated",
    "claim:spf-claim",
    "aud:unisex",
    "rating:4.5",
@@ -270567,7 +271635,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Brinton Pharmaceuticals — Dermatology / pharmaceutical manufacturer",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51nnwKvKmFL._SL1500_.jpg",
@@ -270585,6 +271654,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:40",
    "pa:++",
+   "water:unstated",
    "ing:almond",
    "ing:vitamin-e",
    "ing:olive",
@@ -270684,7 +271754,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Foxtale Consumer — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61L3S0Q6zEL._SL1500_.jpg",
@@ -270701,6 +271772,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:clay-mask",
    "spf:30",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
    "ing:peptides",
@@ -271548,7 +272620,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71hySpa-gXL._SL1500_.jpg",
@@ -271564,6 +272637,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:balm",
    "spf:30",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:beetroot",
    "claim:brightening",
@@ -272290,7 +273364,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "L'Oréal — Global FMCG or beauty group",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51hTnOToLNL._SL1060_.jpg",
@@ -272306,6 +273381,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:balm",
    "spf:15",
+   "water:unstated",
    "ing:cherry-acerola",
    "claim:hydrating",
    "claim:soothing",
@@ -272512,7 +273588,8 @@ const NXPRODUCTS = [
    "evidenceActives": "petrolatum (#4 on list, strong evidence); tocopherol (#17 on list, moderate evidence); dimethicone (#40 on list, moderate evidence)",
    "safetyFlags": "Added fragrance (parfum): parfum/fragrance (−1.5); EU-declared fragrance allergen: limonene, benzyl benzoate, citral, linalool, hexyl cinnamal, geraniol, eugenol (−2); Hard abrasive particles (face): polyethylene (−0.8)",
    "maker": "L'Oréal — Global FMCG or beauty group",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51nWTAG-2kL._SL1060_.jpg",
@@ -272527,6 +273604,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:balm",
+   "water:unstated",
    "ing:cherry-acerola",
    "claim:hydrating",
    "claim:soothing",
@@ -272719,7 +273797,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51MlkHbHkuL._SL1500_.jpg",
@@ -272735,6 +273814,7 @@ const NXPRODUCTS = [
    "format:pack",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "ing:peptides",
@@ -272838,7 +273918,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51qI5iwn9NL._SL1000_.jpg",
@@ -272857,6 +273938,7 @@ const NXPRODUCTS = [
    "spf:50",
    "pa:+++",
    "sun:mineral",
+   "water:unstated",
    "ing:petrolatum",
    "ing:kojic-acid",
    "ing:rosehip",
@@ -273049,7 +274131,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.4★ from 0 ratings"
+   "buyerEvidence": "3.4★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/710Wwum+RXL._SL1500_.jpg",
@@ -273065,6 +274148,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:vitamin-e",
    "claim:brightening",
@@ -273160,7 +274244,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.9★ from 0 ratings"
+   "buyerEvidence": "3.9★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71gpE1e4dQL._SL1500_.jpg",
@@ -273179,6 +274264,7 @@ const NXPRODUCTS = [
    "spf:50",
    "pa:++++",
    "sun:mineral",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "ing:kojic-acid",
@@ -273672,7 +274758,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61bajn29v0L._SL1254_.jpg",
@@ -273690,6 +274777,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:kojic-acid",
@@ -273791,7 +274879,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/613TC6s4CFL._SL1300_.jpg",
@@ -273809,6 +274898,7 @@ const NXPRODUCTS = [
    "format:kit",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:ceramides",
    "ing:peptides",
    "ing:kojic-acid",
@@ -274111,7 +275201,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/714wQ-432sL._SL1500_.jpg",
@@ -274127,6 +275218,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:coffee",
    "ing:shea-butter",
    "ing:cherry-acerola",
@@ -274874,7 +275966,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "L'Oréal — Global FMCG or beauty group",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51hH-sA1CFL._SL1060_.jpg",
@@ -274890,6 +275983,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:balm",
    "spf:15",
+   "water:unstated",
    "ing:cherry-acerola",
    "claim:hydrating",
    "claim:soothing",
@@ -275405,7 +276499,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.7★ from 0 ratings"
+   "buyerEvidence": "4.7★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61+xdSV6idL._SL1254_.jpg",
@@ -275421,6 +276516,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:balm",
    "spf:15",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:shea-butter",
    "ing:cocoa-butter",
@@ -275617,7 +276713,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61Ib32glyEL._SL1500_.jpg",
@@ -275635,6 +276732,7 @@ const NXPRODUCTS = [
    "spf:50",
    "pa:+++",
    "sun:mineral",
+   "water:unstated",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:ceramides",
@@ -275947,7 +277045,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71a-WrZ1JbL._SL1500_.jpg",
@@ -275963,6 +277062,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:balm",
    "spf:50",
+   "water:unstated",
    "ing:cocoa-butter",
    "ing:cherry-acerola",
    "claim:brightening",
@@ -276373,7 +277473,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61aN5VneEtL._SL1080_.jpg",
@@ -276390,6 +277491,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "sun:mineral",
+   "water:unstated",
    "ing:almond",
    "ing:zinc",
    "claim:dark-spots",
@@ -276589,7 +277691,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Foxtale Consumer — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61M80BfSkXL._SL1500_.jpg",
@@ -276606,6 +277709,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:clay-mask",
    "spf:30",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
    "ing:peptides",
@@ -276906,7 +278010,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.8★ from 0 ratings"
+   "buyerEvidence": "4.8★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51aiRS7DmTL._SL1254_.jpg",
@@ -276922,6 +278027,7 @@ const NXPRODUCTS = [
    "format:stick",
    "format:balm",
    "spf:50+",
+   "water:unstated",
    "ing:shea-butter",
    "ing:cocoa-butter",
    "claim:brightening",
@@ -277249,7 +278355,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61gvA0jMJzL._SL1500_.jpg",
@@ -277266,6 +278373,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "spf:15",
+   "water:unstated",
    "ing:kojic-acid",
    "ing:alpha-arbutin",
    "ing:beetroot",
@@ -277361,7 +278469,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.9★ from 0 ratings"
+   "buyerEvidence": "3.9★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71a+tHFgdBL._SL1500_.jpg",
@@ -277379,6 +278488,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:15",
    "sun:mineral",
+   "water:unstated",
    "ing:coffee",
    "ing:almond",
    "ing:shea-butter",
@@ -277476,7 +278586,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51UFwlp--UL._SL1500_.jpg",
@@ -277492,6 +278603,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:cream",
    "format:balm",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:shea-butter",
    "ing:chamomile",
@@ -277588,7 +278700,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.8★ from 0 ratings"
+   "buyerEvidence": "3.8★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61wi3fQviBL._SL1500_.jpg",
@@ -277605,6 +278718,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:kojic-acid",
@@ -277812,7 +278926,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.9★ from 0 ratings"
+   "buyerEvidence": "3.9★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/81dhxbd8qLL._SL1500_.jpg",
@@ -277832,6 +278947,7 @@ const NXPRODUCTS = [
    "spf:50",
    "pa:++++",
    "sun:mineral",
+   "water:unstated",
    "ing:ceramides",
    "ing:kojic-acid",
    "ing:alpha-arbutin",
@@ -278263,7 +279379,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71kHLGXRREL._SL1500_.jpg",
@@ -278280,6 +279397,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:beetroot",
    "claim:brightening",
    "claim:dark-spots",
@@ -278377,7 +279495,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3★ from 0 ratings"
+   "buyerEvidence": "3★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61tSQ9gzetL._SL1024_.jpg",
@@ -278395,6 +279514,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:50",
    "pa:++++",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:ceramides",
@@ -278496,7 +279616,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51fPFVozupL._SL1080_.jpg",
@@ -278512,6 +279633,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:balm",
    "spf:30",
+   "water:unstated",
    "ing:peptides",
    "claim:tinted",
    "claim:spf-claim",
@@ -278598,7 +279720,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Deconstruct Skincare — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51CwHXezsbL._SL1254_.jpg"
@@ -278611,6 +279734,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:kit",
    "spf:50",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:shea-butter",
    "claim:brightening",
@@ -278704,7 +279828,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/81rIgs4qoLL._SL1500_.jpg",
@@ -278720,6 +279845,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:balm",
    "spf:30",
+   "water:unstated",
    "claim:brightening",
    "claim:oil-control",
    "claim:hydrating",
@@ -278814,7 +279940,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71IvuIwYpaL._SL1500_.jpg",
@@ -278832,6 +279959,7 @@ const NXPRODUCTS = [
    "format:pack",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:kojic-acid",
@@ -279143,7 +280271,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71QU4gf-JzL._SL1500_.jpg",
@@ -279158,6 +280287,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:balm",
+   "water:unstated",
    "ing:vitamin-e",
    "ing:coconut",
    "ing:milk",
@@ -279570,7 +280700,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.9★ from 0 ratings"
+   "buyerEvidence": "3.9★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71-oKs6j8YL._SL1500_.jpg",
@@ -279589,6 +280720,7 @@ const NXPRODUCTS = [
    "format:pack",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "ing:peptides",
@@ -279692,7 +280824,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71T+AAiY7iL._SL1500_.jpg",
@@ -279710,6 +280843,7 @@ const NXPRODUCTS = [
    "format:pack",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:kojic-acid",
@@ -279811,7 +280945,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 0 ratings"
+   "buyerEvidence": "4.4★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/617DhuhzYKL._SL1000_.jpg"
@@ -279824,6 +280959,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:kit",
    "spf:40",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:vitamin-e",
    "claim:spf-claim",
@@ -279912,7 +281048,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41XmYdXTFaL._SL1200_.jpg",
@@ -279929,6 +281066,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:ceramides",
    "ing:peptides",
    "ing:kojic-acid",
@@ -280027,7 +281165,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "2★ from 0 ratings"
+   "buyerEvidence": "2★ from 0 ratings",
+   "waterResistance": "Water resistant / waterproof (duration not stated), marketed for swim / sport / outdoors (per listing — not tested here, not scored)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71HdcwOozFL._SL1500_.jpg",
@@ -280044,6 +281183,8 @@ const NXPRODUCTS = [
    "format:stick",
    "format:balm",
    "spf:50+",
+   "water:resistant",
+   "water:sport",
    "claim:hydrating",
    "claim:barrier",
    "claim:soothing",
@@ -280138,7 +281279,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/5199dgyg3cL._SL1200_.jpg",
@@ -280156,6 +281298,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:50",
    "sun:mineral",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:petrolatum",
    "ing:ceramides",
@@ -280254,7 +281397,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 0 ratings"
+   "buyerEvidence": "4.4★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51aBWRo6BrL._SL1500_.jpg",
@@ -280271,6 +281415,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:30",
    "sun:mineral",
+   "water:unstated",
    "ing:zinc",
    "claim:broad-spectrum",
    "claim:spf-claim",
@@ -280361,7 +281506,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/513-2WljrDL._SL1080_.jpg",
@@ -280378,6 +281524,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:kit",
    "spf:15",
+   "water:unstated",
    "claim:spf-claim",
    "skin:all",
    "aud:unisex",
@@ -280465,7 +281612,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.6★ from 0 ratings"
+   "buyerEvidence": "3.6★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61KSaE06owL._SL1080_.jpg",
@@ -280482,6 +281630,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "spf:30",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:kojic-acid",
    "ing:almond",
@@ -280579,7 +281728,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61LqbohmpzL._SL1150_.jpg"
@@ -280591,6 +281741,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:balm",
    "spf:15",
+   "water:unstated",
    "claim:spf-claim",
    "aud:unisex",
    "rating:4.0",
@@ -280676,7 +281827,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61E77bR1+vL._SL1000_.jpg",
@@ -280690,6 +281842,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:balm",
    "spf:15",
+   "water:unstated",
    "claim:whitening-claim",
    "claim:hydrating",
    "claim:spf-claim",
@@ -280779,7 +281932,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71QhebXHOpL._SL1500_.jpg",
@@ -280795,6 +281949,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:stick",
    "format:balm",
+   "water:unstated",
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
@@ -280880,7 +282035,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41Q0ot9wqcL._SL1344_.jpg",
@@ -280896,6 +282052,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:balm",
    "spf:15",
+   "water:unstated",
    "ing:strawberry",
    "claim:hydrating",
    "claim:spf-claim",
@@ -280984,7 +282141,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "VLCC Health Care — Established / listed Indian FMCG house",
-   "buyerEvidence": "3.9★ from 0 ratings"
+   "buyerEvidence": "3.9★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/91GAe4NyMkL._SL1500_.jpg"
@@ -280997,6 +282155,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:balm",
    "spf:15",
+   "water:unstated",
    "ing:strawberry",
    "claim:hydrating",
    "claim:spf-claim",
@@ -281084,7 +282243,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Beiersdorf — Global FMCG or beauty group",
-   "buyerEvidence": "4.5★ from 0 ratings"
+   "buyerEvidence": "4.5★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71MrXLvcJbL._SL1500_.jpg"
@@ -281095,6 +282255,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:balm",
+   "water:unstated",
    "ing:strawberry",
    "claim:spf-claim",
    "aud:unisex",
@@ -281181,7 +282342,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61cfVlbkWSL._SL1500_.jpg",
@@ -281198,6 +282360,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "spf:15",
+   "water:unstated",
    "ing:almond",
    "ing:shea-butter",
    "ing:jojoba",
@@ -281301,7 +282464,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/718FWuRGlqL._SL1500_.jpg",
@@ -281318,6 +282482,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:50+",
    "pa:+++",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:kojic-acid",
@@ -281413,7 +282578,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61Uw5JJGwWL._SL1500_.jpg",
@@ -281426,6 +282592,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:balm",
    "spf:15",
+   "water:unstated",
    "ing:cherry-acerola",
    "claim:hydrating",
    "claim:spf-claim",
@@ -281513,7 +282680,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.7★ from 0 ratings"
+   "buyerEvidence": "3.7★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61G6hzaMGgL._SL1500_.jpg",
@@ -281529,6 +282697,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:balm",
    "spf:50+",
+   "water:unstated",
    "ing:kojic-acid",
    "claim:brightening",
    "claim:dark-spots",
@@ -281627,7 +282796,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "3.5★ from 0 ratings",
-   "concernBasis": "Dark spots — kojic dipalmitate #14 on INCI (matching only — not proof it works)"
+   "concernBasis": "Dark spots — kojic dipalmitate #14 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/513ulDHeY2L._SL1100_.jpg",
@@ -281646,6 +282816,7 @@ const NXPRODUCTS = [
    "format:clay-mask",
    "spf:50",
    "sun:mineral",
+   "water:unstated",
    "ing:petrolatum",
    "ing:peptides",
    "ing:kojic-acid",
@@ -281820,7 +282991,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51OfOaNMmFL._SL1320_.jpg"
@@ -281832,6 +283004,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:balm",
    "format:kit",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:strawberry",
    "claim:hydrating",
@@ -281923,7 +283096,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 0 ratings"
+   "buyerEvidence": "4.4★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/81Eiz3TrDoL._SL1500_.jpg",
@@ -281937,6 +283111,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:balm",
+   "water:unstated",
    "ing:cherry-acerola",
    "claim:spf-claim",
    "aud:unisex",
@@ -282023,7 +283198,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61yubrAPgaL._SL1000_.jpg",
@@ -282039,6 +283215,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:shea-butter",
    "ing:vitamin-e",
    "ing:beetroot",
@@ -282133,7 +283310,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/31oboHnvgBL.jpg",
@@ -282148,6 +283326,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:kit",
    "spf:30",
+   "water:unstated",
    "claim:oil-control",
    "claim:hydrating",
    "claim:lightweight",
@@ -282240,7 +283419,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.8★ from 0 ratings"
+   "buyerEvidence": "4.8★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51ctUjN+01L._SL1254_.jpg",
@@ -282257,6 +283437,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:kojic-acid",
@@ -282355,7 +283536,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61yubrAPgaL._SL1000_.jpg",
@@ -282371,6 +283553,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:shea-butter",
    "ing:vitamin-e",
    "ing:beetroot",
@@ -284401,7 +285584,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.8★ from 0 ratings"
+   "buyerEvidence": "3.8★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71aGg4MCbEL._SL1500_.jpg",
@@ -284417,6 +285601,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:balm",
    "format:lip-mask",
+   "water:unstated",
    "ing:honey",
    "ing:vitamin-e",
    "claim:dark-spots",
@@ -284930,7 +286115,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61NrfGQBJeL._SL1500_.jpg",
@@ -284949,6 +286135,7 @@ const NXPRODUCTS = [
    "format:kit",
    "format:lip-mask",
    "spf:50",
+   "water:resistant",
    "claim:oil-control",
    "claim:hydrating",
    "claim:water-resistant",
@@ -288829,7 +290016,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/710WvvjnuZL._SL1500_.jpg",
@@ -288845,6 +290033,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:almond",
    "ing:cocoa-butter",
    "ing:beetroot",
@@ -288939,7 +290128,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51ddnaD5HsL._SL1024_.jpg",
@@ -288956,6 +290146,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "spf:50",
+   "water:unstated",
    "ing:shea-butter",
    "ing:vitamin-e",
    "ing:jojoba",
@@ -289606,7 +290797,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.8★ from 0 ratings"
+   "buyerEvidence": "3.8★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51tr7XeQ2+L._SL1254_.jpg",
@@ -289623,6 +290815,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "spf:15",
+   "water:unstated",
    "ing:peptides",
    "ing:almond",
    "ing:shea-butter",
@@ -290245,7 +291438,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.8★ from 0 ratings"
+   "buyerEvidence": "3.8★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61AmQtJyWpL._SL1500_.jpg",
@@ -290261,6 +291455,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:balm",
    "spf:30",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
    "ing:shea-butter",
@@ -290356,7 +291551,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.6★ from 0 ratings"
+   "buyerEvidence": "3.6★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61PT11O0FeL._SL1500_.jpg",
@@ -290374,6 +291570,7 @@ const NXPRODUCTS = [
    "spf:30",
    "pa:+++",
    "sun:mineral",
+   "water:unstated",
    "ing:shea-butter",
    "ing:coconut",
    "ing:avocado",
@@ -290470,7 +291667,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/817b5kgUKDL._SL1500_.jpg",
@@ -290486,6 +291684,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:balm",
    "spf:30",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:shea-butter",
    "ing:vitamin-e",
@@ -291771,7 +292970,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51Jd-emvNfL._SL1500_.jpg",
@@ -291788,6 +292988,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:balm",
    "spf:50+",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:peptides",
    "ing:kojic-acid",
@@ -291882,7 +293083,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51MlO7YfAFL._SL1500_.jpg",
@@ -291899,6 +293101,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "spf:15",
+   "water:unstated",
    "ing:coffee",
    "ing:shea-butter",
    "ing:avocado",
@@ -292219,7 +293422,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51Fay+CsmWL._SL1043_.jpg",
@@ -292236,6 +293440,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:niacinamide",
    "ing:kojic-acid",
    "ing:shea-butter",
@@ -292554,7 +293759,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51TgEYo+cdL._SL1000_.jpg",
@@ -292571,6 +293777,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "spf:30",
+   "water:unstated",
    "ing:rose",
    "ing:cocoa-butter",
    "ing:beeswax",
@@ -292667,7 +293874,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/817+szXK7-L._SL1500_.jpg",
@@ -292684,6 +293892,7 @@ const NXPRODUCTS = [
    "format:pack",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:kojic-acid",
@@ -292784,7 +293993,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61FtUmpcZkL._SL1500_.jpg",
@@ -292801,6 +294011,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "format:lip-mask",
+   "water:unstated",
    "ing:retinol",
    "ing:shea-butter",
    "ing:coconut",
@@ -293241,7 +294452,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51b85Jr1HLL._SL1000_.jpg",
@@ -293260,6 +294472,7 @@ const NXPRODUCTS = [
    "spf:50",
    "pa:+++",
    "sun:mineral",
+   "water:unstated",
    "ing:petrolatum",
    "ing:kojic-acid",
    "ing:rosehip",
@@ -293469,7 +294682,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/5120f23G8XL._SL1024_.jpg",
@@ -293485,6 +294699,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:15",
    "pa:+++",
+   "water:unstated",
    "ing:kojic-acid",
    "ing:rose",
    "ing:shea-butter",
@@ -297746,7 +298961,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Emami — Established / listed Indian FMCG house",
-   "buyerEvidence": "3.8★ from 0 ratings"
+   "buyerEvidence": "3.8★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61nminNAOoL._SL1100_.jpg",
@@ -297762,6 +298978,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:balm",
    "sun:mineral",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:mineral-oil",
    "claim:hydrating",
@@ -297854,7 +299071,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Beiersdorf — Global FMCG or beauty group",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71obP1GOCtL._SL1445_.jpg",
@@ -297871,6 +299089,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:kit",
    "spf:15",
+   "water:unstated",
    "claim:dark-spots",
    "claim:hydrating",
    "claim:broad-spectrum",
@@ -298160,7 +299379,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71rUJ5m97EL._SL1500_.jpg",
@@ -298179,6 +299399,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:peel",
    "sun:mineral",
+   "water:unstated",
    "ing:shea-butter",
    "ing:cocoa-butter",
    "ing:vitamin-e",
@@ -298285,7 +299506,8 @@ const NXPRODUCTS = [
    "evidenceActives": "cera alba (#3 on list, moderate evidence); butyrospermum parkii butter (#5 on list, moderate evidence); tocopherol (#9 on list, moderate evidence)",
    "safetyFlags": "Added fragrance (parfum): aroma (−1.5)",
    "maker": "Beiersdorf — Global FMCG or beauty group",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61vMZ19vJ-L._SL1000_.jpg",
@@ -298303,6 +299525,7 @@ const NXPRODUCTS = [
    "format:kit",
    "spf:15",
    "sun:mineral",
+   "water:unstated",
    "ing:mineral-oil",
    "claim:broad-spectrum",
    "claim:long-lasting",
@@ -298466,7 +299689,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51nntINntIL._SL1024_.jpg",
@@ -298484,6 +299708,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:50",
    "pa:++++",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:kojic-acid",
@@ -298697,7 +299922,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/8131siwQmEL._SL1500_.jpg",
@@ -298714,6 +299940,7 @@ const NXPRODUCTS = [
    "format:essence",
    "format:balm",
    "spf:30",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:coffee",
    "claim:hydrating",
@@ -298913,7 +300140,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61nE7x1oKyL._SL1500_.jpg",
@@ -298928,6 +300156,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:balm",
+   "water:unstated",
    "ing:shea-butter",
    "claim:oil-control",
    "claim:hydrating",
@@ -299017,7 +300246,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51PrF66JxrL._SL1500_.jpg",
@@ -299033,6 +300263,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:coffee",
    "ing:shea-butter",
    "ing:cherry-acerola",
@@ -301409,7 +302640,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71VeinAV4dL._AC_UL320_.jpg"
@@ -301422,6 +302654,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:balm",
    "spf:15",
+   "water:unstated",
    "ing:cherry-acerola",
    "claim:hydrating",
    "claim:barrier",
@@ -301515,7 +302748,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/81wLOIssltL._AC_UL320_.jpg"
@@ -301528,6 +302762,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:balm",
    "spf:15",
+   "water:unstated",
    "ing:strawberry",
    "claim:hydrating",
    "claim:barrier",
@@ -301729,7 +302964,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51QxHdlFMML._AC_UL320_.jpg"
@@ -301743,6 +302979,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:50",
    "pa:+++",
+   "water:resistant",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "ing:rose",
@@ -301844,7 +303081,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/5152PPQayrL._SL1001_.jpg"
@@ -301858,6 +303096,7 @@ const NXPRODUCTS = [
    "spf:50",
    "pa:+++",
    "sun:mineral",
+   "water:unstated",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:ceramides",
@@ -301962,7 +303201,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/5121DRYsy6L._SL1001_.jpg"
@@ -301975,6 +303215,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:kojic-acid",
@@ -302076,7 +303317,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.9★ from 0 ratings"
+   "buyerEvidence": "3.9★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51o6gOvitBL._SL1456_.jpg",
@@ -302091,6 +303333,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:50",
    "pa:++++",
+   "water:unstated",
    "ing:ceramides",
    "ing:kojic-acid",
    "ing:shea-butter",
@@ -302186,7 +303429,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41ICrZhkf3L._SL1001_.jpg"
@@ -302203,6 +303447,7 @@ const NXPRODUCTS = [
    "format:wash",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:kojic-acid",
@@ -302796,7 +304041,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Deconstruct Skincare — Indian D2C brand with its own product company",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/619P1FqlJRL._SL1254_.jpg",
@@ -302811,6 +304057,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:kit",
    "spf:50",
+   "water:unstated",
    "ing:vitamin-c",
    "claim:brightening",
    "claim:dark-spots",
@@ -303018,7 +304265,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Himalaya Wellness — Established / listed Indian FMCG house",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51DsaWv6-5L._SL1000_.jpg",
@@ -303037,6 +304285,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:15",
    "sun:mineral",
+   "water:unstated",
    "ing:petrolatum",
    "ing:vitamin-e",
    "ing:strawberry",
@@ -303130,7 +304379,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/613eO2yOoCL._SL1500_.jpg",
@@ -303148,6 +304398,7 @@ const NXPRODUCTS = [
    "spf:50",
    "pa:+++",
    "sun:mineral",
+   "water:unstated",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:ceramides",
@@ -303253,7 +304504,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41+WxKmARkL._SL1024_.jpg",
@@ -303270,6 +304522,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "spf:50",
+   "water:unstated",
    "ing:rose",
    "ing:shea-butter",
    "ing:vitamin-e",
@@ -303367,7 +304620,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.9★ from 0 ratings"
+   "buyerEvidence": "3.9★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/615qVha7L5L._SL1500_.jpg",
@@ -303385,6 +304639,7 @@ const NXPRODUCTS = [
    "format:clay-mask",
    "spf:50",
    "pa:++",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:kojic-acid",
@@ -303485,7 +304740,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "WishCare — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.5★ from 0 ratings"
+   "buyerEvidence": "4.5★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51a0zvw574L._SL1200_.jpg",
@@ -303503,6 +304759,7 @@ const NXPRODUCTS = [
    "format:pack",
    "spf:50",
    "pa:++++",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:kojic-acid",
@@ -303602,7 +304859,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61pv8VCXycL._SL1500_.jpg",
@@ -303618,6 +304876,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:shea-butter",
    "ing:vitamin-e",
    "ing:jojoba",
@@ -303917,7 +305176,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51edNQNvRTL._SL1080_.jpg",
@@ -303934,6 +305194,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:peptides",
    "ing:kojic-acid",
    "ing:alpha-arbutin",
@@ -304135,7 +305396,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71f8qIQcZdL._SL1500_.jpg",
@@ -304151,6 +305413,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:shea-butter",
    "ing:vitamin-e",
    "ing:beetroot",
@@ -304452,7 +305715,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/613VasNBI3L._SL1500_.jpg",
@@ -304469,6 +305733,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:50",
    "pa:++++",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:kojic-acid",
    "ing:shea-butter",
@@ -304567,7 +305832,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71ztOQSiaIL._SL1500_.jpg",
@@ -304583,6 +305849,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:kit",
    "spf:15",
+   "water:unstated",
    "claim:hydrating",
    "claim:spf-claim",
    "aud:unisex",
@@ -305100,7 +306367,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Marico — Established / listed Indian FMCG house",
-   "buyerEvidence": "3.8★ from 0 ratings"
+   "buyerEvidence": "3.8★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61QrUcBgx1L._SL1500_.jpg",
@@ -305118,6 +306386,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:15",
    "sun:mineral",
+   "water:unstated",
    "ing:coffee",
    "ing:beetroot",
    "ing:cherry-acerola",
@@ -305969,7 +307238,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Marico — Established / listed Indian FMCG house",
-   "buyerEvidence": "3.8★ from 0 ratings"
+   "buyerEvidence": "3.8★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61kav27U6rL._SL1500_.jpg",
@@ -305986,6 +307256,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "spf:30",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "ing:kojic-acid",
@@ -306088,7 +307359,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51h4hq6soZL._SL1500_.jpg",
@@ -306104,6 +307376,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:balm",
    "spf:40",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:vitamin-e",
    "ing:tretinoin",
@@ -306526,7 +307799,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.5★ from 0 ratings"
+   "buyerEvidence": "3.5★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/810jXlnFUHL._SL1500_.jpg",
@@ -306543,6 +307817,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:kit",
    "spf:15",
+   "water:unstated",
    "ing:beetroot",
    "claim:hydrating",
    "claim:tinted",
@@ -306747,7 +308022,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Bio Veda Action Research — Established / listed Indian FMCG house",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61v36yjE57L._SL1500_.jpg",
@@ -306763,6 +308039,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:balm",
    "spf:50",
+   "water:unstated",
    "claim:brightening",
    "claim:dark-spots",
    "claim:whitening-claim",
@@ -306854,7 +308131,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.4★ from 0 ratings"
+   "buyerEvidence": "3.4★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/714Yw1TzpKL._SL1500_.jpg",
@@ -306871,6 +308149,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:30",
    "pa:++",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:ceramides",
@@ -306969,7 +308248,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/619UHDSbaLL._SL1500_.jpg",
@@ -306986,6 +308266,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "spf:15",
+   "water:unstated",
    "ing:coffee",
    "ing:almond",
    "ing:cocoa-butter",
@@ -308374,7 +309655,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.5★ from 0 ratings"
+   "buyerEvidence": "4.5★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61Fj6-895-L._SL1500_.jpg",
@@ -308391,6 +309673,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:bar",
    "spf:30",
+   "water:unstated",
    "ing:kojic-acid",
    "claim:brightening",
    "claim:dark-spots",
@@ -308483,7 +309766,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61D0Pi0UEHL._SL1500_.jpg",
@@ -308499,6 +309783,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:balm",
    "spf:50",
+   "water:unstated",
    "ing:shea-butter",
    "claim:brightening",
    "claim:dark-spots",
@@ -308697,7 +309982,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.4★ from 0 ratings"
+   "buyerEvidence": "3.4★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71gMHZLHqeL._SL1500_.jpg",
@@ -308714,6 +310000,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:50+",
    "pa:+++",
+   "water:unstated",
    "ing:kojic-acid",
    "ing:shea-butter",
    "ing:vitamin-e",
@@ -308811,7 +310098,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/615xKRARnaL._SL1500_.jpg",
@@ -308827,6 +310115,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:shea-butter",
    "ing:vitamin-e",
    "ing:jojoba",
@@ -309235,7 +310524,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51MoiZGaUAL._SL1024_.jpg",
@@ -309252,6 +310542,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "spf:50",
+   "water:unstated",
    "ing:shea-butter",
    "ing:vitamin-e",
    "ing:jojoba",
@@ -310008,7 +311299,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61RWnkwtxdL._SL1254_.jpg",
@@ -310024,6 +311316,7 @@ const NXPRODUCTS = [
    "format:stick",
    "format:balm",
    "spf:50+",
+   "water:unstated",
    "ing:shea-butter",
    "ing:cocoa-butter",
    "claim:brightening",
@@ -310116,7 +311409,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51nDvyZylhL._SL1000_.jpg",
@@ -310133,6 +311427,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:collagen",
    "claim:brightening",
    "claim:dark-spots",
@@ -310332,7 +311627,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61RGUdBqb5L._SL1500_.jpg",
@@ -310354,6 +311650,7 @@ const NXPRODUCTS = [
    "pa:++++",
    "sun:mineral",
    "sun:chemical",
+   "water:resistant",
    "ing:petrolatum",
    "ing:ceramides",
    "ing:peptides",
@@ -310569,7 +311866,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.8★ from 0 ratings"
+   "buyerEvidence": "3.8★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61Kq-Tn95cL._SL1500_.jpg",
@@ -310585,6 +311883,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:rose",
    "ing:almond",
    "claim:oil-control",
@@ -310681,7 +311980,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51Aujjs6wFL._SL1080_.jpg",
@@ -310698,6 +311998,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "ing:peptides",
@@ -310798,7 +312099,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61kV2AvCUkL._SL1254_.jpg",
@@ -310815,6 +312117,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:shea-butter",
    "ing:vitamin-e",
    "ing:strawberry",
@@ -310911,7 +312214,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61yubrAPgaL._SL1000_.jpg",
@@ -310927,6 +312231,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:shea-butter",
    "ing:vitamin-e",
    "ing:beetroot",
@@ -311020,7 +312325,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61yubrAPgaL._SL1000_.jpg",
@@ -311036,6 +312342,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:shea-butter",
    "ing:vitamin-e",
    "ing:beetroot",
@@ -311234,7 +312541,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51u65HQs-6L._SL1000_.jpg",
@@ -311252,6 +312560,7 @@ const NXPRODUCTS = [
    "format:kit",
    "spf:50",
    "pa:++++",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
    "ing:ceramides",
@@ -311765,7 +313074,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.8★ from 0 ratings"
+   "buyerEvidence": "3.8★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61m5Wl8EL6L._SL1500_.jpg",
@@ -311781,6 +313091,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:balm",
    "spf:30",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
    "ing:shea-butter",
@@ -312200,7 +313511,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.8★ from 0 ratings"
+   "buyerEvidence": "4.8★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51J3PLjWh-L._SL1254_.jpg",
@@ -312216,6 +313528,7 @@ const NXPRODUCTS = [
    "format:stick",
    "format:balm",
    "spf:50+",
+   "water:unstated",
    "ing:shea-butter",
    "ing:cocoa-butter",
    "claim:brightening",
@@ -312415,7 +313728,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.4★ from 0 ratings"
+   "buyerEvidence": "3.4★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/717NR8P72zL._SL1500_.jpg",
@@ -312432,6 +313746,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:50+",
    "pa:++++",
+   "water:unstated",
    "ing:kojic-acid",
    "ing:beetroot",
    "claim:brightening",
@@ -312639,7 +313954,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 0 ratings"
+   "buyerEvidence": "4.4★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71sS0GD+WEL._SL1500_.jpg",
@@ -312656,6 +313972,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:15",
    "sun:mineral",
+   "water:unstated",
    "ing:shea-butter",
    "ing:vitamin-e",
    "ing:coconut",
@@ -312871,7 +314188,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61rF1pHrPSL._SL1500_.jpg",
@@ -312888,6 +314206,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:ceramides",
    "claim:brightening",
    "claim:dark-spots",
@@ -313609,7 +314928,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61JNcXwLH7L._SL1500_.jpg",
@@ -313625,6 +314945,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:balm",
    "spf:30",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
    "ing:ceramides",
@@ -313718,7 +315039,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51VXpFSVUCL._SL1024_.jpg",
@@ -313733,6 +315055,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:balm",
+   "water:unstated",
    "claim:brightening",
    "claim:dark-spots",
    "claim:oil-control",
@@ -313826,7 +315149,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.8★ from 0 ratings"
+   "buyerEvidence": "3.8★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61xyB1cl-fL._SL1500_.jpg",
@@ -313842,6 +315166,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:retinol",
    "ing:shea-butter",
    "ing:cocoa-butter",
@@ -314050,7 +315375,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61TngroRbNL._SL1500_.jpg",
@@ -314068,6 +315394,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:body-wax",
    "sun:mineral",
+   "water:unstated",
    "ing:coffee",
    "ing:rice-water",
    "ing:almond",
@@ -314279,7 +315606,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71lhn7PURoL._SL1500_.jpg",
@@ -314295,6 +315623,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:coffee",
    "ing:shea-butter",
    "ing:cherry-acerola",
@@ -314391,7 +315720,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.8★ from 0 ratings"
+   "buyerEvidence": "4.8★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61lmECyPUJL._SL1500_.jpg",
@@ -314409,6 +315739,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:kit",
    "spf:30",
+   "water:unstated",
    "ing:ceramides",
    "ing:kojic-acid",
    "ing:shea-butter",
@@ -314510,7 +315841,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.8★ from 0 ratings"
+   "buyerEvidence": "4.8★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51ZIg0jxB7L._SL1500_.jpg",
@@ -314529,6 +315861,7 @@ const NXPRODUCTS = [
    "format:kit",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:kojic-acid",
@@ -314631,7 +315964,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.7★ from 0 ratings"
+   "buyerEvidence": "3.7★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41AZVV2fQaL._SL1080_.jpg",
@@ -314645,6 +315979,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:kit",
    "spf:15",
+   "water:unstated",
    "claim:brightening",
    "claim:dark-spots",
    "claim:hydrating",
@@ -314735,7 +316070,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "2★ from 0 ratings"
+   "buyerEvidence": "2★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61wM0zxdAyL._SL1500_.jpg",
@@ -314753,6 +316089,7 @@ const NXPRODUCTS = [
    "spf:50",
    "pa:+++",
    "sun:mineral",
+   "water:unstated",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:ceramides",
@@ -314857,7 +316194,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61tXjfyWQcL._SL1500_.jpg",
@@ -314875,6 +316213,7 @@ const NXPRODUCTS = [
    "spf:50",
    "pa:+++",
    "sun:mineral",
+   "water:unstated",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:ceramides",
@@ -314980,7 +316319,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/513jZ1bfjLL._SL1000_.jpg",
@@ -314999,6 +316339,7 @@ const NXPRODUCTS = [
    "spf:50",
    "pa:+++",
    "sun:mineral",
+   "water:unstated",
    "ing:petrolatum",
    "ing:kojic-acid",
    "ing:rosehip",
@@ -315097,7 +316438,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71jkMYkPM0L._SL1500_.jpg",
@@ -315113,6 +316455,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:15",
    "sun:mineral",
+   "water:unstated",
    "ing:vitamin-e",
    "ing:coconut",
    "ing:mineral-oil",
@@ -315204,7 +316547,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61aj+we9pfL._SL1024_.jpg",
@@ -315223,6 +316567,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:ceramides",
    "ing:peptides",
    "ing:kojic-acid",
@@ -315322,7 +316667,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 0 ratings"
+   "buyerEvidence": "4.4★ from 0 ratings",
+   "waterResistance": "Water resistant — 80 minutes or more (very water resistant) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61Y9rxEjDcL._SL1500_.jpg",
@@ -315339,6 +316685,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:pack",
    "spf:15",
+   "water:80",
    "ing:strawberry",
    "claim:hydrating",
    "claim:soothing",
@@ -315428,7 +316775,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61sMLHP0kZL._SL1254_.jpg",
@@ -315446,6 +316794,7 @@ const NXPRODUCTS = [
    "format:kit",
    "spf:30",
    "pa:+++",
+   "water:unstated",
    "ing:ceramides",
    "ing:kojic-acid",
    "ing:vitamin-e",
@@ -315540,7 +316889,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Beiersdorf — Global FMCG or beauty group",
-   "buyerEvidence": "4.4★ from 0 ratings"
+   "buyerEvidence": "4.4★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61fORApUP4L._SL1442_.jpg",
@@ -315556,6 +316906,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:balm",
    "spf:15",
+   "water:unstated",
    "ing:shea-butter",
    "claim:hydrating",
    "claim:no-white-cast",
@@ -315648,7 +316999,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Kenvue — Dermatology / pharmaceutical manufacturer",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61aiJZ4CRXL._SL1500_.jpg",
@@ -315665,6 +317017,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:clay-mask",
    "spf:15",
+   "water:unstated",
    "claim:hydrating",
    "claim:soothing",
    "claim:exfoliating",
@@ -315757,7 +317110,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "marketed for swim / sport / outdoors (per listing — not tested here, not scored)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61BObQZFPLL._SL1280_.jpg",
@@ -315771,6 +317125,8 @@ const NXPRODUCTS = [
    "scope:face",
    "format:balm",
    "spf:15",
+   "water:unstated",
+   "water:sport",
    "ing:cherry-acerola",
    "claim:hydrating",
    "claim:soothing",
@@ -315865,7 +317221,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "waterResistance": "marketed for swim / sport / outdoors (per listing — not tested here, not scored)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/81Db1a8TOJL._SL1500_.jpg",
@@ -315884,6 +317241,8 @@ const NXPRODUCTS = [
    "format:lip-mask",
    "spf:30",
    "sun:mineral",
+   "water:unstated",
+   "water:sport",
    "ing:vitamin-c",
    "ing:coffee",
    "ing:rose",
@@ -315988,7 +317347,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/715OqTNSGpL._SL1500_.jpg",
@@ -316004,6 +317364,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:balm",
    "spf:30",
+   "water:unstated",
    "ing:strawberry",
    "claim:hydrating",
    "claim:broad-spectrum",
@@ -316093,7 +317454,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.7★ from 0 ratings"
+   "buyerEvidence": "3.7★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71fekRw+uEL._SL1500_.jpg",
@@ -316110,6 +317472,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:30",
    "pa:++",
+   "water:unstated",
    "ing:ceramides",
    "ing:peptides",
    "ing:cocoa-butter",
@@ -316208,7 +317571,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61OPfzV8bqL._SL1465_.jpg",
@@ -316227,6 +317591,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:30",
    "pa:++",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:coconut",
    "claim:hydrating",
@@ -316320,7 +317685,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71oacZmcZGL._SL1500_.jpg",
@@ -316336,6 +317702,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:balm",
    "spf:30",
+   "water:unstated",
    "ing:shea-butter",
    "ing:cocoa-butter",
    "claim:oil-control",
@@ -316430,7 +317797,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Kenvue — Dermatology / pharmaceutical manufacturer",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/517BGountXL._SL1500_.jpg",
@@ -316447,6 +317815,7 @@ const NXPRODUCTS = [
    "format:stick",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:almond",
    "ing:shea-butter",
    "ing:vitamin-e",
@@ -316543,7 +317912,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51GjYtICD0L._SL1080_.jpg",
@@ -316559,6 +317929,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:balm",
    "spf:15",
+   "water:unstated",
    "claim:whitening-claim",
    "claim:hydrating",
    "claim:barrier",
@@ -316653,7 +318024,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51khaDlNPDL._SL1200_.jpg"
@@ -316666,6 +318038,7 @@ const NXPRODUCTS = [
    "format:essence",
    "format:balm",
    "format:pack",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:strawberry",
    "claim:hydrating",
@@ -316756,7 +318129,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/511Z-VZ4djL._SL1254_.jpg",
@@ -316773,6 +318147,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:30",
    "sun:mineral",
+   "water:unstated",
    "ing:shea-butter",
    "ing:vitamin-e",
    "ing:zinc",
@@ -316865,7 +318240,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.8★ from 0 ratings"
+   "buyerEvidence": "3.8★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/716kFkUIeIL._SL1500_.jpg",
@@ -316882,6 +318258,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:kit",
    "spf:15",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:rose",
    "ing:shea-butter",
@@ -316980,7 +318357,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61yubrAPgaL._SL1000_.jpg",
@@ -316996,6 +318374,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:shea-butter",
    "ing:vitamin-e",
    "ing:beetroot",
@@ -317089,7 +318468,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61yubrAPgaL._SL1000_.jpg",
@@ -317105,6 +318485,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:shea-butter",
    "ing:vitamin-e",
    "ing:beetroot",
@@ -320586,118 +321967,6 @@ const NXPRODUCTS = [
   }
  },
  {
-  "id": "vishbin-b0gd7c4g7t",
-  "brand": "VishBin",
-  "model": "Hydrating Gel Masks for Dry, Cracked Lips | Lip Treatment Pads with Hyaluronic Acid & Vita…",
-  "price": 279,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Hyaluronic acid + Collagen + Vitamin E",
-  "featureLine": "Lip mask",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Lip mask",
-   "appliesTo": "Face (per listing)",
-   "keyIngredients": "Hyaluronic acid, Collagen, Vitamin E (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Anti-aging / wrinkles, Hydrating / moisturizing, Barrier repair, Dry / very dry skin relief (seller claim — not clinical proof)",
-   "skinType": "Dry skin",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/41C91QbsjrL.jpg",
-   "https://m.media-amazon.com/images/I/51FVJGs10wL.jpg",
-   "https://m.media-amazon.com/images/I/512J2xTjCuL.jpg",
-   "https://m.media-amazon.com/images/I/41VqW8SaAML.jpg",
-   "https://m.media-amazon.com/images/I/414Ylr9AyGL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GD7C4G7T",
-  "buyStore": "Amazon",
-  "title": "Hydrating Gel Masks for Dry, Cracked Lips | Lip Treatment Pads with Hyaluronic Acid & Vitamin E | Plump, Smooth & Nourish Lip Patches, Anti-Aging and Plump Your Lips (Pack of 2)",
-  "tags": [
-   "scope:face",
-   "format:gel",
-   "format:essence",
-   "format:pads",
-   "format:patch",
-   "format:kit",
-   "format:lip-mask",
-   "ing:hyaluronic-acid",
-   "ing:collagen",
-   "ing:vitamin-e",
-   "claim:anti-aging",
-   "claim:hydrating",
-   "claim:barrier",
-   "claim:dry-skin-relief",
-   "skin:dry",
-   "aud:unisex",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
   "id": "ateto-b0g13zj8r3",
   "brand": "ATETO",
   "model": "Hydrating Lip Mask, Lip Sleep Mask 2 Pcs Reduces Lines and Restores Moisture, Anti-Aging N…",
@@ -320961,7 +322230,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.5★ from 0 ratings"
+   "buyerEvidence": "3.5★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71uukpclrzL._SL1500_.jpg",
@@ -320978,6 +322248,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "format:clay-mask",
+   "water:unstated",
    "ing:coffee",
    "ing:jojoba",
    "ing:avocado",
@@ -323430,7 +324701,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41CvgUPEw2L._SL1000_.jpg",
@@ -323447,6 +324719,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:15",
    "sun:mineral",
+   "water:unstated",
    "claim:hydrating",
    "claim:spf-claim",
    "skin:combination",
@@ -325368,7 +326641,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/618R6Du3A4L._SL1174_.jpg"
@@ -325382,6 +326656,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:pack",
    "spf:15",
+   "water:unstated",
    "ing:shea-butter",
    "ing:vitamin-e",
    "claim:oil-control",
@@ -326008,7 +327283,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.2★ from 0 ratings"
+   "buyerEvidence": "3.2★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51ztiFJ32QL._SL1100_.jpg",
@@ -326025,6 +327301,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "spf:15",
+   "water:unstated",
    "ing:shea-butter",
    "ing:vitamin-e",
    "ing:coconut",
@@ -326342,7 +327619,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61tuxH4HV+L._SL1500_.jpg",
@@ -326357,6 +327635,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:kojic-acid",
    "ing:almond",
    "ing:shea-butter",
@@ -326453,7 +327732,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61uHdE0ZQ+L._SL1500_.jpg",
@@ -326465,6 +327745,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:balm",
+   "water:resistant",
    "ing:niacinamide",
    "ing:vitamin-e",
    "claim:dark-spots",
@@ -327005,7 +328286,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/5132kt8xidL._SL1350_.jpg"
@@ -327017,6 +328299,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:balm",
    "spf:30",
+   "water:unstated",
    "ing:vitamin-c",
    "claim:brightening",
    "claim:dark-spots",
@@ -327111,7 +328394,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71QOcR06s6L._SL1500_.jpg",
@@ -327130,6 +328414,7 @@ const NXPRODUCTS = [
    "format:kit",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:kojic-acid",
@@ -327457,7 +328742,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71BDqRw+24L._SL1500_.jpg",
@@ -327471,6 +328757,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:balm",
    "spf:30",
+   "water:unstated",
    "ing:shea-butter",
    "claim:dark-spots",
    "claim:whitening-claim",
@@ -331783,7 +333070,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51BQTJSQEWL._SL1500_.jpg",
@@ -331801,6 +333089,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "spf:50",
+   "water:unstated",
    "ing:ceramides",
    "ing:shea-butter",
    "ing:avocado",
@@ -332290,7 +333579,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.1★ from 0 ratings"
+   "buyerEvidence": "3.1★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61Zl81Ikv4L._SL1230_.jpg",
@@ -332305,6 +333595,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:balm",
+   "water:unstated",
    "ing:vitamin-e",
    "ing:beetroot",
    "claim:de-tan",
@@ -332399,7 +333690,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41exwXwVC8L._SL1000_.jpg",
@@ -332415,6 +333707,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:balm",
    "spf:50",
+   "water:unstated",
    "claim:oil-control",
    "claim:hydrating",
    "claim:broad-spectrum",
@@ -332616,7 +333909,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Beiersdorf — Global FMCG or beauty group",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61Dp29yte8L._SL1442_.jpg",
@@ -332632,6 +333926,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:balm",
    "spf:15",
+   "water:unstated",
    "ing:rose",
    "claim:hydrating",
    "claim:broad-spectrum",
@@ -333700,7 +334995,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51MjV8DHo5L._SL1080_.jpg",
@@ -333716,6 +335012,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:balm",
    "spf:50",
+   "water:unstated",
    "ing:rose",
    "ing:shea-butter",
    "ing:vitamin-e",
@@ -333915,7 +335212,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51RzMbuJVxL._SL1280_.jpg",
@@ -333932,6 +335230,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:30",
    "pa:+++",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:cocoa-butter",
@@ -334027,7 +335326,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51Wv09olvgL._SL1200_.jpg",
@@ -334041,6 +335341,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:balm",
    "spf:15",
+   "water:unstated",
    "claim:broad-spectrum",
    "claim:spf-claim",
    "claim:chapped-lips",
@@ -334240,7 +335541,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51+ZK-4Ky0L._SL1440_.jpg",
@@ -334258,6 +335560,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "ing:peptides",
@@ -335426,7 +336729,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51mUweRKviL._AC_UL320_.jpg"
@@ -335441,6 +336745,7 @@ const NXPRODUCTS = [
    "format:kit",
    "spf:50+",
    "pa:+++",
+   "water:unstated",
    "ing:shea-butter",
    "ing:vitamin-e",
    "claim:oil-control",
@@ -335535,7 +336840,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/513IovjdgOL._AC_UL320_.jpg"
@@ -335549,6 +336855,7 @@ const NXPRODUCTS = [
    "format:kit",
    "spf:50+",
    "pa:+++",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "ing:peptides",
@@ -335756,7 +337063,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61iUM+8O9zL._AC_UL320_.jpg"
@@ -335769,6 +337077,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:niacinamide",
    "ing:vitamin-e",
    "ing:beetroot",
@@ -335871,7 +337180,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/511J8QBtsKL._AC_UL320_.jpg"
@@ -335884,6 +337194,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:50",
    "pa:++++",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "ing:kojic-acid",
@@ -335981,7 +337292,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41iEIxX-+xL._AC_UL320_.jpg"
@@ -335995,6 +337307,7 @@ const NXPRODUCTS = [
    "format:kit",
    "spf:30",
    "sun:mineral",
+   "water:unstated",
    "ing:vitamin-e",
    "ing:milk",
    "ing:apricot",
@@ -336090,7 +337403,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41eHKpXPPBL._AC_UL320_.jpg"
@@ -336105,6 +337419,7 @@ const NXPRODUCTS = [
    "spf:50",
    "pa:++++",
    "sun:chemical",
+   "water:unstated",
    "ing:petrolatum",
    "ing:almond",
    "ing:shea-butter",
@@ -336415,7 +337730,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/617vz9y-EiL._AC_UL320_.jpg"
@@ -336429,6 +337745,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:50",
    "pa:+++",
+   "water:resistant",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "ing:rose",
@@ -336530,7 +337847,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51GdumdBeVL._SL1001_.jpg"
@@ -336544,6 +337862,7 @@ const NXPRODUCTS = [
    "spf:50",
    "pa:+++",
    "sun:mineral",
+   "water:unstated",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:ceramides",
@@ -336649,7 +337968,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41OAQz-ul4L._SL1001_.jpg"
@@ -336664,6 +337984,7 @@ const NXPRODUCTS = [
    "format:wash",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:kojic-acid",
@@ -336768,7 +338089,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/514B-5NRaBL._SL1001_.jpg"
@@ -336782,6 +338104,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:collagen",
@@ -336882,7 +338205,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/5178RYv6fmL._SL1001_.jpg"
@@ -336897,6 +338221,7 @@ const NXPRODUCTS = [
    "format:wash",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:kojic-acid",
@@ -336996,7 +338321,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41PPO1pFhdL._SL1001_.jpg"
@@ -337013,6 +338339,7 @@ const NXPRODUCTS = [
    "format:wash",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:kojic-acid",
@@ -337451,7 +338778,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51UiE6jsWxL._SL1500_.jpg",
@@ -337467,6 +338795,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:balm",
    "spf:50+",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:peptides",
    "ing:kojic-acid",
@@ -337998,7 +339327,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Fixderma India (dermatology company) — Dermatology / pharmaceutical manufacturer",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61dv0if7ZmL._SL1500_.jpg",
@@ -338016,6 +339346,7 @@ const NXPRODUCTS = [
    "spf:50",
    "pa:+++",
    "sun:chemical",
+   "water:unstated",
    "ing:kojic-acid",
    "ing:alpha-arbutin",
    "ing:turmeric",
@@ -338113,7 +339444,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
-   "buyerEvidence": "3.9★ from 0 ratings"
+   "buyerEvidence": "3.9★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61kwmU9yoSL._SL1500_.jpg",
@@ -338130,6 +339462,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:lip-mask",
    "spf:50",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:shea-butter",
    "ing:vitamin-e",
@@ -338227,7 +339560,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "WishCare — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51jYnQr+wVL._SL1200_.jpg",
@@ -338245,6 +339579,7 @@ const NXPRODUCTS = [
    "format:pack",
    "spf:50",
    "pa:++++",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:kojic-acid",
@@ -338451,7 +339786,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71UZTVCEvkL._SL1500_.jpg",
@@ -338467,6 +339803,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:coffee",
    "ing:shea-butter",
    "ing:cherry-acerola",
@@ -338562,7 +339899,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61mPB1z5ITL._SL1500_.jpg",
@@ -338580,6 +339918,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "spf:50",
+   "water:unstated",
    "ing:ceramides",
    "ing:shea-butter",
    "ing:strawberry",
@@ -338674,7 +340013,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Sebapharma GmbH — Dermatology / pharmaceutical manufacturer",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51yiVtfnPcL._SL1080_.jpg",
@@ -338691,6 +340031,7 @@ const NXPRODUCTS = [
    "format:stick",
    "format:balm",
    "spf:30",
+   "water:unstated",
    "claim:spf-claim",
    "claim:chapped-lips",
    "skin:dry",
@@ -339309,7 +340650,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.5★ from 0 ratings"
+   "buyerEvidence": "4.5★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61rQf37zDAL._SL1080_.jpg",
@@ -339325,6 +340667,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:balm",
    "spf:30",
+   "water:unstated",
    "ing:ceramides",
    "ing:shea-butter",
    "claim:oil-control",
@@ -339527,7 +340870,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51aj3eqm5ZL._SL1000_.jpg",
@@ -339544,6 +340888,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:50",
    "pa:++++",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "ing:kojic-acid",
@@ -339904,7 +341249,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Quench Botanics — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41d8CI8+GsL._SL1080_.jpg",
@@ -339919,6 +341265,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:60",
    "pa:++++",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:kojic-acid",
    "claim:brightening",
@@ -340222,7 +341569,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Conscious Chemist — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41IviS5+SEL._SL1200_.jpg",
@@ -340239,6 +341587,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:balm",
    "spf:15",
+   "water:unstated",
    "ing:peptides",
    "ing:shea-butter",
    "claim:brightening",
@@ -340451,7 +341800,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Kenvue — Dermatology / pharmaceutical manufacturer",
-   "buyerEvidence": "4.6★ from 0 ratings"
+   "buyerEvidence": "4.6★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71GQUF7nXCL._SL1500_.jpg",
@@ -340466,6 +341816,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "spf:15",
+   "water:unstated",
    "claim:spf-claim",
    "aud:unisex",
    "size:travel",
@@ -340661,7 +342012,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71haUj5DacL._SL1500_.jpg",
@@ -340678,6 +342030,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:clay-mask",
    "spf:15",
+   "water:unstated",
    "ing:shea-butter",
    "ing:vitamin-e",
    "claim:brightening",
@@ -342150,7 +343503,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.8★ from 0 ratings"
+   "buyerEvidence": "3.8★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71g5iYec40L._SL1500_.jpg",
@@ -342166,6 +343520,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:vitamin-e",
    "ing:strawberry",
    "claim:brightening",
@@ -343582,7 +344937,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Fixderma India (dermatology company) — Dermatology / pharmaceutical manufacturer",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51VZacvKO6L._SL1200_.jpg",
@@ -343599,6 +344955,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:50+",
    "pa:+++",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:ceramides",
@@ -343697,7 +345054,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51sE0TSeSmL._SL1100_.jpg",
@@ -343713,6 +345071,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:shea-butter",
    "ing:cocoa-butter",
    "ing:olive",
@@ -343917,7 +345276,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Galderma — Dermatology / pharmaceutical manufacturer",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71jR+ZECZ-L._SL1500_.jpg",
@@ -343934,6 +345294,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "spf:50+",
+   "water:unstated",
    "ing:vitamin-e",
    "ing:coconut",
    "claim:soothing",
@@ -344535,7 +345896,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51KSLvnGYzL._SL1080_.jpg",
@@ -344551,6 +345913,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:balm",
    "spf:15",
+   "water:unstated",
    "ing:kojic-acid",
    "ing:shea-butter",
    "ing:cocoa-butter",
@@ -344648,7 +346011,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51HGGw2-rEL._SL1402_.jpg",
@@ -344665,6 +346029,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:40",
    "pa:+++",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
    "ing:kojic-acid",
@@ -344945,7 +346310,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41rWlyNz1RL._SL1000_.jpg",
@@ -344963,6 +346329,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:50",
    "pa:++++",
+   "water:unstated",
    "ing:kojic-acid",
    "ing:jojoba",
    "claim:dark-spots",
@@ -345165,7 +346532,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71XNWD0jSfL._SL1500_.jpg",
@@ -345182,6 +346550,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:pack",
    "spf:40",
+   "water:unstated",
    "ing:ceramides",
    "ing:rose",
    "ing:shea-butter",
@@ -345280,7 +346649,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71BtASH9jTL._SL1500_.jpg",
@@ -345296,6 +346666,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:rose",
    "ing:shea-butter",
    "ing:vitamin-e",
@@ -345392,7 +346763,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/5154aJytsuL._SL1470_.jpg",
@@ -345410,6 +346782,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:50+",
    "pa:++",
+   "water:unstated",
    "ing:ceramides",
    "ing:strawberry",
    "ing:watermelon",
@@ -345508,7 +346881,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61yubrAPgaL._SL1000_.jpg",
@@ -345524,6 +346898,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:shea-butter",
    "ing:vitamin-e",
    "ing:beetroot",
@@ -345925,7 +347300,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.4★ from 0 ratings"
+   "buyerEvidence": "3.4★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61d+EY6HtDL._SL1500_.jpg",
@@ -345944,6 +347320,7 @@ const NXPRODUCTS = [
    "format:pack",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "ing:peptides",
@@ -346151,7 +347528,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.5★ from 0 ratings"
+   "buyerEvidence": "3.5★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61UtbQVBDkL._SL1500_.jpg",
@@ -346167,6 +347545,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:balm",
    "spf:15",
+   "water:unstated",
    "ing:shea-butter",
    "ing:cocoa-butter",
    "ing:vitamin-e",
@@ -346365,7 +347744,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71PdGhhzTXL._SL1500_.jpg",
@@ -346381,6 +347761,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:balm",
    "format:kit",
+   "water:unstated",
    "ing:shea-butter",
    "claim:hydrating",
    "claim:tinted",
@@ -346471,7 +347852,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.8★ from 0 ratings"
+   "buyerEvidence": "3.8★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/610c6Tymr5L._SL1500_.jpg",
@@ -346488,6 +347870,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "spf:15",
+   "water:unstated",
    "ing:coffee",
    "ing:almond",
    "ing:shea-butter",
@@ -346783,7 +348166,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51HTp0afcYL._SL1080_.jpg",
@@ -346800,6 +348184,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "ing:peptides",
@@ -347002,7 +348387,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71aE5NTnwjL._SL1500_.jpg",
@@ -347019,6 +348405,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:50",
    "pa:+++",
+   "water:resistant",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "ing:shea-butter",
@@ -347320,7 +348707,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71+hU+bWVrL._SL1500_.jpg",
@@ -347337,6 +348725,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "spf:15",
+   "water:unstated",
    "ing:almond",
    "ing:shea-butter",
    "ing:beetroot",
@@ -347746,7 +349135,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51ZizkjlBoL._SL1500_.jpg",
@@ -347764,6 +349154,7 @@ const NXPRODUCTS = [
    "format:clay-mask",
    "spf:15",
    "pa:++",
+   "water:unstated",
    "ing:peptides",
    "ing:cocoa-butter",
    "ing:strawberry",
@@ -348078,7 +349469,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.8★ from 0 ratings"
+   "buyerEvidence": "3.8★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71m2srYS5WL._SL1500_.jpg",
@@ -348095,6 +349487,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:kit",
    "spf:15",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:rose",
    "ing:shea-butter",
@@ -348732,7 +350125,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Fixderma India (dermatology company) — Dermatology / pharmaceutical manufacturer",
-   "buyerEvidence": "3.6★ from 0 ratings"
+   "buyerEvidence": "3.6★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/612QqsmOTQL._SL1500_.jpg",
@@ -348749,6 +350143,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:vitamin-e",
    "claim:dark-spots",
    "claim:hydrating",
@@ -348839,7 +350234,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Foxtale Consumer — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61RTQoYiFVL._SL1500_.jpg",
@@ -348856,6 +350252,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:clay-mask",
    "spf:30",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
    "ing:peptides",
@@ -348953,7 +350350,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51aDAQkqFeL._SL1440_.jpg",
@@ -348970,6 +350368,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:niacinamide",
    "ing:kojic-acid",
    "ing:coffee",
@@ -349067,7 +350466,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51yn8N3sbLL._SL1448_.jpg",
@@ -349086,6 +350486,7 @@ const NXPRODUCTS = [
    "format:clay-mask",
    "format:wash",
    "spf:50",
+   "water:unstated",
    "ing:rosehip",
    "ing:jojoba",
    "claim:oil-control",
@@ -349177,7 +350578,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61qBwIaMnTL._SL1500_.jpg",
@@ -349193,6 +350595,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:balm",
    "spf:40",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:vitamin-e",
    "claim:spf-claim",
@@ -349281,7 +350684,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Beiersdorf (Eucerin dermo-cosmetics) — Dermatology / pharmaceutical manufacturer",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61QiQ1hbGAL._SL1000_.jpg",
@@ -349300,6 +350704,7 @@ const NXPRODUCTS = [
    "format:pack",
    "format:kit",
    "spf:30",
+   "water:unstated",
    "ing:shea-butter",
    "claim:oil-control",
    "claim:hydrating",
@@ -349396,7 +350801,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51EsTvX8gzL._SL1080_.jpg",
@@ -349413,6 +350819,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:50",
    "pa:++++",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "ing:peptides",
@@ -349512,7 +350919,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.5★ from 0 ratings"
+   "buyerEvidence": "4.5★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61HhA3bxs9L._SL1500_.jpg",
@@ -349526,6 +350934,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:balm",
    "spf:15",
+   "water:unstated",
    "claim:spf-claim",
    "aud:unisex",
    "rating:4.5",
@@ -349611,7 +351020,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.8★ from 0 ratings"
+   "buyerEvidence": "4.8★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41kMgdQ0lNL._SL1080_.jpg",
@@ -349629,6 +351039,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:pack",
    "spf:30",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:vitamin-e",
    "claim:dark-spots",
@@ -349733,7 +351144,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "3.3★ from 0 ratings",
-   "concernBasis": "Dark spots — kojic dipalmitate #29 on INCI (matching only — not proof it works)"
+   "concernBasis": "Dark spots — kojic dipalmitate #29 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61wlLffd-PL._SL1200_.jpg",
@@ -349752,6 +351164,7 @@ const NXPRODUCTS = [
    "spf:50+",
    "pa:+++",
    "sun:mineral",
+   "water:unstated",
    "ing:kojic-acid",
    "ing:saffron",
    "claim:dark-spots",
@@ -349983,7 +351396,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51FQnrwQEHL._SL1500_.jpg",
@@ -350002,6 +351416,7 @@ const NXPRODUCTS = [
    "format:body-wax",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:ceramides",
    "ing:peptides",
    "ing:kojic-acid",
@@ -350097,7 +351512,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71srrYnJXFL._SL1500_.jpg",
@@ -350114,6 +351530,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:30",
    "pa:+++",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:cocoa-butter",
@@ -350206,7 +351623,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61WbeGCjwLL._SL1080_.jpg",
@@ -350222,6 +351640,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:balm",
    "spf:50",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:ceramides",
    "ing:kojic-acid",
@@ -350320,7 +351739,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51ufCfG8v8L._SL1200_.jpg",
@@ -350337,6 +351757,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:50",
    "pa:++++",
+   "water:unstated",
    "ing:beetroot",
    "claim:brightening",
    "claim:dark-spots",
@@ -350433,7 +351854,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61LFr4CPkBL._SL1500_.jpg",
@@ -350451,6 +351873,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:50+",
    "pa:+++",
+   "water:unstated",
    "ing:shea-butter",
    "ing:cherry-acerola",
    "claim:oil-control",
@@ -350546,7 +351969,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.6★ from 0 ratings"
+   "buyerEvidence": "3.6★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61jUd0zJzBL._SL1500_.jpg",
@@ -350563,6 +351987,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "spf:50",
+   "water:unstated",
    "ing:collagen",
    "ing:kojic-acid",
    "ing:alpha-arbutin",
@@ -350666,7 +352091,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 0 ratings"
+   "buyerEvidence": "4.4★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41rNieJ3cXL.jpg"
@@ -350678,6 +352104,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:balm",
    "spf:15",
+   "water:unstated",
    "claim:hydrating",
    "claim:soothing",
    "claim:spf-claim",
@@ -350768,7 +352195,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61JaxM8FmiL._SL1500_.jpg",
@@ -350783,6 +352211,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:balm",
+   "water:unstated",
    "ing:rose",
    "claim:hydrating",
    "claim:barrier",
@@ -350872,7 +352301,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71OMNN9NosL._SL1500_.jpg",
@@ -350889,6 +352319,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:pack",
    "spf:40",
+   "water:unstated",
    "ing:ceramides",
    "ing:shea-butter",
    "ing:cocoa-butter",
@@ -350988,7 +352419,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51wiTsk-QjL._SL1500_.jpg",
@@ -351005,6 +352437,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "spf:15",
+   "water:unstated",
    "ing:shea-butter",
    "ing:avocado",
    "claim:brightening",
@@ -351100,7 +352533,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71gURtLQZYL._SL1500_.jpg",
@@ -351119,6 +352553,7 @@ const NXPRODUCTS = [
    "pa:+++",
    "sun:mineral",
    "sun:chemical",
+   "water:unstated",
    "ing:kojic-acid",
    "ing:licorice",
    "ing:zinc",
@@ -351215,7 +352650,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "WishCare — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51wHqAkcGnL._SL1080_.jpg",
@@ -351233,6 +352669,7 @@ const NXPRODUCTS = [
    "format:emulsion",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:kojic-acid",
@@ -351330,7 +352767,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61xHWel9YzL._SL1200_.jpg",
@@ -351347,6 +352785,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "spf:15",
+   "water:unstated",
    "ing:shea-butter",
    "ing:jojoba",
    "ing:strawberry",
@@ -351443,7 +352882,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61yubrAPgaL._SL1000_.jpg",
@@ -351459,6 +352899,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:shea-butter",
    "ing:vitamin-e",
    "ing:beetroot",
@@ -351552,7 +352993,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61yubrAPgaL._SL1000_.jpg",
@@ -351568,6 +353010,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:shea-butter",
    "ing:vitamin-e",
    "ing:beetroot",
@@ -351773,7 +353216,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.4★ from 0 ratings"
+   "buyerEvidence": "3.4★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51gxVElqINL._SL1200_.jpg",
@@ -351795,6 +353239,7 @@ const NXPRODUCTS = [
    "format:kit",
    "format:lip-mask",
    "spf:50",
+   "water:unstated",
    "claim:anti-aging",
    "claim:hydrating",
    "claim:exfoliating",
@@ -353696,7 +355141,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61NrfGQBJeL._SL1500_.jpg",
@@ -353715,6 +355161,7 @@ const NXPRODUCTS = [
    "format:kit",
    "format:lip-mask",
    "spf:50",
+   "water:resistant",
    "claim:oil-control",
    "claim:hydrating",
    "claim:water-resistant",
@@ -355181,7 +356628,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51jxjz7vP-L._SL1500_.jpg",
@@ -355198,6 +356646,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "spf:50",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:kojic-acid",
    "ing:green-tea",
@@ -357595,7 +359044,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.6★ from 0 ratings"
+   "buyerEvidence": "4.6★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/515cvFxZqQL.jpg",
@@ -357612,6 +359062,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "spf:30",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
    "ing:rosehip",
@@ -359845,7 +361296,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51J3f0Rg9TL._SL1500_.jpg",
@@ -359863,6 +361315,7 @@ const NXPRODUCTS = [
    "format:clay-mask",
    "spf:15",
    "pa:++",
+   "water:unstated",
    "ing:peptides",
    "ing:cocoa-butter",
    "ing:strawberry",
@@ -360169,7 +361622,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.8★ from 0 ratings"
+   "buyerEvidence": "3.8★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71KBiRlN9BL._SL1500_.jpg",
@@ -360187,6 +361641,7 @@ const NXPRODUCTS = [
    "format:pack",
    "spf:30",
    "pa:+++",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:kojic-acid",
@@ -360748,7 +362203,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71KBiRlN9BL._SL1500_.jpg",
@@ -360765,6 +362221,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:30",
    "pa:+++",
+   "water:unstated",
    "ing:cocoa-butter",
    "claim:brightening",
    "claim:dark-spots",
@@ -360868,7 +362325,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61KBOxcMqCL._SL1500_.jpg",
@@ -360884,6 +362342,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:balm",
    "spf:50",
+   "water:unstated",
    "ing:ceramides",
    "ing:collagen",
    "ing:caffeine",
@@ -361888,7 +363347,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41IqLdCYDfL._SL1000_.jpg",
@@ -361906,6 +363366,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:kit",
    "spf:50",
+   "water:unstated",
    "ing:beetroot",
    "claim:dark-spots",
    "claim:oil-control",
@@ -362218,7 +363679,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51tA2FU6rjL._SL1000_.jpg",
@@ -362237,6 +363699,7 @@ const NXPRODUCTS = [
    "spf:50",
    "pa:+++",
    "sun:mineral",
+   "water:unstated",
    "ing:petrolatum",
    "ing:kojic-acid",
    "ing:rosehip",
@@ -366099,7 +367562,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Emami — Established / listed Indian FMCG house",
-   "buyerEvidence": "3.6★ from 0 ratings"
+   "buyerEvidence": "3.6★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71-cbxgm7AL._SL1500_.jpg",
@@ -366117,6 +367581,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:kit",
    "spf:15",
+   "water:unstated",
    "ing:licorice",
    "ing:vitamin-e",
    "ing:coconut",
@@ -366211,7 +367676,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61cKUmklT8L._SL1500_.jpg",
@@ -366228,6 +367694,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:lip-mask",
    "spf:50",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:shea-butter",
    "ing:vitamin-e",
@@ -366429,7 +367896,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "2.7★ from 0 ratings"
+   "buyerEvidence": "2.7★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61zr3p+NsYL._SL1024_.jpg",
@@ -366446,6 +367914,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:50",
    "sun:mineral",
+   "water:unstated",
    "ing:niacinamide",
    "ing:kojic-acid",
    "ing:shea-butter",
@@ -366654,7 +368123,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61QYOH+sXsL._SL1500_.jpg",
@@ -366672,6 +368142,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:15",
    "sun:mineral",
+   "water:unstated",
    "ing:shea-butter",
    "ing:cocoa-butter",
    "ing:vitamin-e",
@@ -366882,7 +368353,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61u9Rc32qaL._SL1230_.jpg",
@@ -366899,6 +368371,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "format:pack",
+   "water:unstated",
    "ing:coffee",
    "ing:shea-butter",
    "ing:vitamin-e",
@@ -366994,7 +368467,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71YXX6+UEzL._SL1500_.jpg",
@@ -367013,6 +368487,7 @@ const NXPRODUCTS = [
    "format:pack",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:ceramides",
@@ -367332,7 +368807,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51gRkI2yZHL._SL1080_.jpg",
@@ -367349,6 +368825,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "ing:peptides",
@@ -367448,7 +368925,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61x1c+VD+nL._SL1200_.jpg",
@@ -367466,6 +368944,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:clay-mask",
    "spf:50",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:shea-butter",
    "claim:dark-spots",
@@ -367667,7 +369146,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61uGJsZ78QL._SL1500_.jpg",
@@ -367684,6 +369164,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:50",
    "pa:++++",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "ing:kojic-acid",
@@ -368810,7 +370291,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61CgkEOAZHL._SL1500_.jpg",
@@ -368828,6 +370310,7 @@ const NXPRODUCTS = [
    "spf:50",
    "pa:+++",
    "sun:chemical",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "ing:peptides",
@@ -370405,7 +371888,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61cT3xsoFRL.jpg"
@@ -370417,6 +371901,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:balm",
    "spf:30",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
    "ing:ceramides",
@@ -370873,6 +372358,343 @@ const NXPRODUCTS = [
     "url": null
    },
    "buyers": "4.2★ from 0 ratings"
+  }
+ },
+ {
+  "id": "sunclip-itme2f7497e5995a",
+  "brand": "SunClip",
+  "model": "Sunscreen - SPF 50 PA+++ Sunscreen gel 50gm water resistant,Non comedogenic",
+  "price": 464,
+  "capacityLine": "50 g",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Sunscreen · SPF 50 · ₹928/100g",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "Well-reviewed: 4.3★ from 197 ratings"
+  ],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 6.1
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹928/100g",
+   "format": "Sunscreen",
+   "appliesTo": "Face (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Non-comedogenic (seller claim — not scored)",
+   "benefit": "Water / sweat resistant, Broad spectrum UVA/UVB, SPF included (seller claim — not clinical proof)",
+   "skinType": "Oily skin, Dry skin, Combination skin, Sensitive skin, Normal skin, All skin types",
+   "sunProtection": "SPF 50 · PA+++ (as labelled)",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.3/5 (197 ratings, Flipkart)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.3★ from 197 ratings",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/ktd9mkw0/sunscreen/o/m/w/50-sunscreen-gel-50gm-water-resistant-non-comedogenic-40-sunclip-original-imag6q6mcp7g6aqj.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/n/t/l/-original-imahqzwfbpucggby.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/1/o/w/-original-imahqzwfmnwvwxsw.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/u/e/w/50-sunclip-sunscreen-40-cadila-pharma-original-imah7d3drc9zhueb.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/b/3/1/50-sunscreen-gel-na-40-sunclip-original-imahzbkgqkxyhuqz.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/sunclip-sunscreen-spf-50-pa-gel-50gm-water-resistant-non-comedogenic/p/itme2f7497e5995a",
+  "buyStore": "Flipkart",
+  "title": "SunClip Sunscreen - SPF 50 PA+++ Sunscreen gel 50gm water resistant,Non comedogenic",
+  "tags": [
+   "scope:face",
+   "format:gel",
+   "spf:50",
+   "pa:+++",
+   "water:resistant",
+   "claim:water-resistant",
+   "claim:broad-spectrum",
+   "claim:spf-claim",
+   "skin:oily",
+   "skin:dry",
+   "skin:combination",
+   "skin:sensitive",
+   "skin:normal",
+   "skin:all",
+   "free:non-comedogenic",
+   "free:hypoallergenic",
+   "free:sensitive-safe",
+   "aud:women",
+   "size:travel",
+   "rating:4.0",
+   "store:flipkart",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.3★ from 197 ratings"
+  }
+ },
+ {
+  "id": "cadila-pharma-itm4462d70c0ff46",
+  "brand": "cadila pharma",
+  "model": "Sunscreen - SPF 50 PA+++ SUNCLIP SUNSCREEN (2 PCS) 50 GM",
+  "price": 828,
+  "capacityLine": "50 g",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Sunscreen · SPF 50 · ₹1656/100g",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 3.2
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹1656/100g",
+   "format": "Sunscreen",
+   "appliesTo": "Face (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "SPF included (seller claim — not clinical proof)",
+   "skinType": "Oily skin, Dry skin, Combination skin, Sensitive skin, Normal skin, All skin types",
+   "sunProtection": "SPF 50 · PA+++ (as labelled)",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4/5 (7 ratings, Flipkart)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4★ from 7 ratings",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/d/3/q/100-sunclip-sunscreen-2-pcs-50-gm-40-cadila-pharma-original-imah7d3e4uexr9hh.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/n/t/l/-original-imahqzwfbpucggby.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/1/o/w/-original-imahqzwfmnwvwxsw.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/u/e/w/50-sunclip-sunscreen-40-cadila-pharma-original-imah7d3drc9zhueb.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/t/m/i/100-sunscreen-spf-50-pa-with-vitamin-c-aloe-vera-no-white-cast-original-imahqdypbvzcgugw.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/cadila-pharma-sunscreen-spf-50-pa-sunclip-2-pcs-gm/p/itm4462d70c0ff46",
+  "buyStore": "Flipkart",
+  "title": "cadila pharma Sunscreen - SPF 50 PA+++ SUNCLIP SUNSCREEN (2 PCS) 50 GM",
+  "tags": [
+   "scope:face",
+   "format:gel",
+   "spf:50",
+   "pa:+++",
+   "water:unstated",
+   "claim:spf-claim",
+   "skin:oily",
+   "skin:dry",
+   "skin:combination",
+   "skin:sensitive",
+   "skin:normal",
+   "skin:all",
+   "free:sensitive-safe",
+   "aud:women",
+   "size:travel",
+   "rating:4.0",
+   "store:flipkart",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4★ from 7 ratings"
+  }
+ },
+ {
+  "id": "ihc-itmea46ccf18276e",
+  "brand": "IHC",
+  "model": "india health care Sunscreen - SPF 50 PA+++ India Healthcare SunClip Sunscreen - SPF 50 PA+…",
+  "price": 689,
+  "capacityLine": "60 g",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Sunscreen · SPF 50 · ₹1148/100g",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "60 g",
+   "pricePer100": "₹1148/100g",
+   "format": "Sunscreen",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Whitening / fairness (claim), SPF included (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "sunProtection": "SPF 50 · PA+++ (as labelled)",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/f/8/f/60-india-healthcare-sunclip-sunscreen-spf-50-pa-sunclip-advance-original-imahgsygvzd8ctw2.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/c/p/t/60-india-healthcare-sunclip-sunscreen-spf-50-pa-sunclip-advance-original-imahgsygfyxgxvct.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/i/r/0/60-india-healthcare-sunclip-sunscreen-spf-50-pa-sunclip-advance-original-imahgsygjhtk4cgt.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/p/d/6/60-india-healthcare-sunclip-sunscreen-spf-50-pa-sunclip-advance-original-imahgsyge5amckeg.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/t/a/g/60-india-healthcare-sunclip-sunscreen-spf-50-pa-sunclip-advance-original-imahgsygygxbzz5u.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/ihc-india-health-care-sunscreen-spf-50-pa-healthcare-sunclip-sunclip-advance-gel-60-g/p/itmea46ccf18276e",
+  "buyStore": "Flipkart",
+  "title": "IHC india health care Sunscreen - SPF 50 PA+++ India Healthcare SunClip Sunscreen - SPF 50 PA+++ SUNCLIP_ADVANCE_GEL (60 g)",
+  "tags": [
+   "scope:unstated",
+   "format:cream",
+   "spf:50",
+   "pa:+++",
+   "water:unstated",
+   "claim:whitening-claim",
+   "claim:spf-claim",
+   "aud:unisex",
+   "size:standard",
+   "rating:none",
+   "store:flipkart",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  }
 ];

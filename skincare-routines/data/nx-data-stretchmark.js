@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-11.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-12.
 // Unknown fields are honestly marked, never invented.
 const NXPRODUCTS = [
  {
@@ -350,7 +350,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.5★ from 84 ratings"
+   "buyerEvidence": "3.5★ from 84 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/1/f/a/30-scar-removal-cream-silicone-gel-advanced-scar-treatment-for-original-imahzh5cnay5tqam.jpeg?q=90",
@@ -368,6 +369,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:pack",
    "format:wash",
+   "water:unstated",
    "claim:dark-spots",
    "claim:anti-aging",
    "claim:acne",
@@ -2759,7 +2761,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/f/z/o/380-cocoa-butter-face-body-cream-stretch-marks-removal-softening-original-imahhw3ugeg9zscs.jpeg?q=90",
@@ -2776,6 +2779,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:rice-water",
    "ing:neem",
    "ing:cocoa-butter",
@@ -4352,7 +4356,8 @@ const NXPRODUCTS = [
    "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 1,991 ratings"
+   "buyerEvidence": "4★ from 1,991 ratings",
+   "waterResistance": "marketed for swim / sport / outdoors (per listing — not tested here, not scored)"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/f/9/w/50-stretch-marks-removal-cream-pokonut-cream-original-imahhfvqr8e2wmn8.jpeg?q=90",
@@ -4368,6 +4373,8 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:oil",
+   "water:unstated",
+   "water:sport",
    "ing:hyaluronic-acid",
    "ing:rosehip",
    "ing:licorice",
@@ -5305,7 +5312,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 28 ratings"
+   "buyerEvidence": "5★ from 28 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/skin-treatment/m/q/s/100-0-maternity-stretch-marks-defense-cream-deep-moisturization-original-imahnt5wgjdye3ha.jpeg?q=90",
@@ -5322,6 +5330,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:balm",
    "format:pack",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:shea-butter",
    "ing:cocoa-butter",
@@ -5421,7 +5430,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/skin-treatment/q/s/s/91-2-stretch-marks-scars-cream-and-itchy-skin-scar-removal-for-original-imah8hnm65frdgtq.jpeg?q=90",
@@ -5437,6 +5447,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:kit",
+   "water:unstated",
    "ing:glycolic-acid",
    "ing:vitamin-e",
    "claim:brightening",
@@ -5862,7 +5873,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/skin-treatment/o/f/u/100-stretch-mark-cream-scar-removal-for-pregnancy-luminae-original-imahhben4zyzherh.jpeg?q=90",
@@ -5877,6 +5889,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:oil",
    "format:pack",
+   "water:unstated",
    "claim:brightening",
    "claim:de-tan",
    "claim:anti-aging",
@@ -6762,7 +6775,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/c/q/2/100-herbal-anti-stretch-mark-cream-for-smooth-radiant-skin-care-original-imahmp8pyyxuk4qc.jpeg?q=90",
@@ -6780,6 +6794,7 @@ const NXPRODUCTS = [
    "format:lotion",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:watermelon",
    "claim:brightening",
    "claim:hydrating",
@@ -6981,7 +6996,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/x/g/50-stretch-mark-cream-florero-cream-original-imahdgcjwymak4kv.jpeg?q=90",
@@ -6997,6 +7013,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:kit",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "claim:brightening",
@@ -7526,7 +7543,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/y/o/s/100-stretch-mark-removal-cream-with-natural-ingredients-alfa-original-imahmp8yephyjesj.jpeg?q=90",
@@ -7544,6 +7562,7 @@ const NXPRODUCTS = [
    "format:lotion",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:watermelon",
    "claim:brightening",
    "claim:hydrating",
@@ -7638,7 +7657,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 1,991 ratings"
+   "buyerEvidence": "4★ from 1,991 ratings",
+   "waterResistance": "marketed for swim / sport / outdoors (per listing — not tested here, not scored)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/i/n/h/100-stretch-marks-cream-for-women-with-hyaluronic-acid-coconut-original-imahnezbxawhvsum.jpeg?q=90",
@@ -7656,6 +7676,8 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "format:kit",
+   "water:unstated",
+   "water:sport",
    "ing:hyaluronic-acid",
    "ing:turmeric",
    "ing:rose",
@@ -7751,7 +7773,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 17 ratings"
+   "buyerEvidence": "4.1★ from 17 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/l/1/x/100-anti-stretch-marks-remover-removal-cream-bio-oil-after-original-imahf7d4hdppfpjn.jpeg?q=90",
@@ -7769,6 +7792,7 @@ const NXPRODUCTS = [
    "format:serum",
    "format:toner",
    "format:oil",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:almond",
    "ing:argan-oil",
@@ -8212,7 +8236,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.8★ from 52 ratings"
+   "buyerEvidence": "4.8★ from 52 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/4/t/z/100-0-pregnancy-stretch-mark-removal-cream-for-maternity-repair-original-imahnhkmvgmrqcy5.jpeg?q=90",
@@ -8229,6 +8254,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:balm",
    "format:pack",
+   "water:unstated",
    "ing:cocoa-butter",
    "ing:vitamin-e",
    "claim:brightening",
@@ -8430,7 +8456,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 253 ratings"
+   "buyerEvidence": "4.1★ from 253 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/a/i/n/150-stretch-mark-roll-on-pack-of-3-reduces-old-new-stretch-marks-original-imahpewjzy8qh6fj.jpeg?q=90",
@@ -8449,6 +8476,7 @@ const NXPRODUCTS = [
    "format:pack",
    "format:roll-on",
    "format:kit",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:aloe-vera",
    "ing:turmeric",
@@ -10271,7 +10299,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/5/h/50-stretch-marks-cream-for-women-latixmat-cream-original-imahz5bzgdtj3hfh.jpeg?q=90",
@@ -10289,6 +10318,7 @@ const NXPRODUCTS = [
    "format:lotion",
    "spf:30",
    "pa:+++",
+   "water:unstated",
    "claim:acne",
    "claim:broad-spectrum",
    "claim:spf-claim",
@@ -10483,7 +10513,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 334 ratings"
+   "buyerEvidence": "4★ from 334 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/v/t/s/-original-imah9dbyh89yyhxf.jpeg?q=90",
@@ -10499,6 +10530,7 @@ const NXPRODUCTS = [
    "scope:body",
    "format:cream",
    "format:wash",
+   "water:unstated",
    "ing:pearl",
    "claim:stretch-marks",
    "skin:all",
@@ -10691,7 +10723,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/v/t/5/50-stretch-mark-cream-improves-appearance-of-fresh-and-mature-original-imahffwexhqf5bsf.jpeg?q=90",
@@ -10708,6 +10741,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:lotion",
    "format:balm",
+   "water:unstated",
    "ing:caffeine",
    "claim:brightening",
    "claim:whitening-claim",
@@ -12637,7 +12671,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 113 ratings"
+   "buyerEvidence": "4.2★ from 113 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/v/v/l/180-0-pregnancy-stretch-mark-removal-cream-for-belly-thighs-hips-original-imahha3f4q9hk96g.jpeg?q=90",
@@ -12653,6 +12688,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:oil",
+   "water:unstated",
    "ing:collagen",
    "ing:aloe-vera",
    "ing:almond",
@@ -12862,7 +12898,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 44 ratings"
+   "buyerEvidence": "4.4★ from 44 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/a/9/6/180-0-stretch-marks-removal-cream-reduce-scar-before-after-original-imahm5atymhyz5vk.jpeg?q=90",
@@ -12879,6 +12916,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:oil",
    "spf:50",
+   "water:unstated",
    "ing:niacinamide",
    "ing:aloe-vera",
    "ing:almond",
@@ -13090,7 +13128,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.7★ from 215 ratings"
+   "buyerEvidence": "3.7★ from 215 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/8/g/100-stretch-marks-cream-with-toxin-free-ingredients-and-zero-original-imahk88ff2yydfug.jpeg?q=90",
@@ -13108,6 +13147,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:kit",
    "sun:mineral",
+   "water:unstated",
    "ing:mineral-oil",
    "claim:stretch-marks",
    "skin:all",
@@ -13202,7 +13242,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 2 ratings"
+   "buyerEvidence": "5★ from 2 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/x/p/d/50-stretch-marks-cream-after-pregnancy-koresa-london-cream-original-imahhp37ugqajmhv.jpeg?q=90",
@@ -13217,6 +13258,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "claim:stretch-marks",
    "skin:all",
    "free:paraben",
@@ -13410,7 +13452,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 9,761 ratings"
+   "buyerEvidence": "4★ from 9,761 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/body-skin-treatment/a/5/a/50-stretch-marks-removal-cream-reduce-scar-before-after-original-imagx34suz3h2pct.jpeg?q=90",
@@ -13427,6 +13470,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:balm",
    "format:pack",
+   "water:unstated",
    "ing:collagen",
    "ing:coffee",
    "ing:rosehip",
@@ -13524,7 +13568,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.5★ from 84 ratings"
+   "buyerEvidence": "3.5★ from 84 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/a/z/x/50-stretch-marks-cream-with-toxin-free-ingredients-and-zero-original-imahk88fg8yy8yup.jpeg?q=90",
@@ -13541,6 +13586,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:oil",
    "sun:mineral",
+   "water:unstated",
    "ing:mineral-oil",
    "claim:stretch-marks",
    "skin:all",
@@ -14184,7 +14230,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.6★ from 236 ratings"
+   "buyerEvidence": "3.6★ from 236 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-body-skin-treatment/h/2/h/150-effective-stretch-mark-cream-ingredients-for-reducing-original-imah4naga3ynmed3.jpeg?q=90",
@@ -14199,6 +14246,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "claim:stretch-marks",
    "skin:all",
    "free:paraben",
@@ -14290,7 +14338,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 17 ratings"
+   "buyerEvidence": "4.1★ from 17 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/6/4/180-0-stretch-marks-cream-for-pregnancy-non-sticky-for-women-original-imahm58fh34nvwab.jpeg?q=90",
@@ -14307,6 +14356,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:oil",
    "spf:50",
+   "water:unstated",
    "ing:niacinamide",
    "ing:aloe-vera",
    "ing:almond",
@@ -15523,7 +15573,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 67 ratings"
+   "buyerEvidence": "4.2★ from 67 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/j/n/50-stretch-marks-cream-for-pregnancy-deep-repair-for-old-new-original-imahk8z7g62vn8nz.jpeg?q=90",
@@ -15540,6 +15591,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:rosehip",
    "ing:almond",
    "ing:shea-butter",
@@ -15753,7 +15805,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.9★ from 59 ratings",
-   "concernBasis": "Irritation — centella asiatica extract #8 on INCI (matching only — not proof it works)"
+   "concernBasis": "Irritation — centella asiatica extract #8 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/p/o/o/100-0-intensive-stretch-mark-removal-cream-for-pregnancy-and-original-imahnpv38bxu9qqy.jpeg?q=90",
@@ -15769,6 +15822,7 @@ const NXPRODUCTS = [
    "scope:body",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "claim:dark-spots",
    "claim:barrier",
    "claim:ayurvedic",
@@ -16144,7 +16198,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/p/0/8/30-advanced-scar-treatment-for-keloids-scar-repair-cream-for-old-original-imahph3yy59dzdsr.jpeg?q=90",
@@ -16162,6 +16217,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:pack",
    "sun:mineral",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:vitamin-e",
    "ing:allantoin",
@@ -16369,7 +16425,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.6★ from 3,878 ratings"
+   "buyerEvidence": "3.6★ from 3,878 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/f/u/8/100-anti-cellulite-skin-toning-stretch-mark-removal-oil-elibliss-original-imahk8gxk75pbkaf.jpeg?q=90",
@@ -16385,6 +16442,7 @@ const NXPRODUCTS = [
    "scope:body",
    "format:oil",
    "format:pack",
+   "water:unstated",
    "claim:anti-aging",
    "claim:stretch-marks",
    "skin:all",
@@ -16692,7 +16750,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/f/o/o/50-stretch-marks-removal-cream-improves-skin-elasticity-and-original-imahzwbu5cnhqmqq.jpeg?q=90",
@@ -16709,6 +16768,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:balm",
    "format:pack",
+   "water:unstated",
    "ing:collagen",
    "ing:coffee",
    "ing:rosehip",
@@ -17134,7 +17194,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.8★ from 9,184 ratings"
+   "buyerEvidence": "3.8★ from 9,184 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/g/y/p/150-stretch-marks-cream-for-women-with-hyaluronic-acid-coconut-original-imahzu6pxqmz6cez.jpeg?q=90",
@@ -17153,6 +17214,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:aloe-vera",
    "ing:rose",
@@ -17715,7 +17777,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.9★ from 71 ratings"
+   "buyerEvidence": "3.9★ from 71 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/v/g/h/100-natural-stretch-oil-with-coconut-olive-jojoba-oils-for-scars-original-imahk8gxthavegu9.jpeg?q=90",
@@ -17731,6 +17794,7 @@ const NXPRODUCTS = [
    "scope:body",
    "format:oil",
    "format:pack",
+   "water:unstated",
    "ing:jojoba",
    "ing:coconut",
    "ing:olive",
@@ -17826,7 +17890,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/f/l/z/100-body-stretch-marks-removal-cream-for-belly-thighs-hips-arms-original-imahhdzpyacxje4q.jpeg?q=90",
@@ -17842,6 +17907,7 @@ const NXPRODUCTS = [
    "scope:body",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "claim:brightening",
    "claim:de-tan",
    "claim:anti-aging",
@@ -18155,7 +18221,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/p/n/t/100-natural-back-bum-lightening-serum-naturally-brightens-treats-original-imahmbygeunmj4vr.jpeg?q=90",
@@ -18172,6 +18239,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:toner",
    "format:pack",
+   "water:unstated",
    "ing:titanium-dioxide",
    "claim:brightening",
    "claim:dark-spots",
@@ -18482,7 +18550,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 28 ratings"
+   "buyerEvidence": "5★ from 28 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/a/g/9/200-0-maternity-stretch-marks-defense-cream-deep-moisturization-original-imahnt5wvaadzjs8.jpeg?q=90",
@@ -18499,6 +18568,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:balm",
    "format:pack",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:shea-butter",
    "ing:cocoa-butter",
@@ -18599,7 +18669,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/b/u/t/60-0-pregnancy-stretch-mark-removal-cream-maternity-repair-skin-original-imahpmvzccm4rre8.jpeg?q=90",
@@ -18616,6 +18687,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:balm",
    "format:pack",
+   "water:unstated",
    "ing:shea-butter",
    "claim:oil-control",
    "claim:barrier",
@@ -21184,7 +21256,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/1/j/50-stretch-marks-cream-koresa-london-cream-original-imahzdqhgtuucdzg.jpeg?q=90",
@@ -21202,6 +21275,7 @@ const NXPRODUCTS = [
    "format:lotion",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:shea-butter",
    "ing:cocoa-butter",
    "ing:coconut",
@@ -21295,7 +21369,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/r/j/7/25-stretch-marks-removal-cream-for-women-koresa-london-cream-original-imahzdr3kh3wxptz.jpeg?q=90",
@@ -21313,6 +21388,7 @@ const NXPRODUCTS = [
    "format:lotion",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:shea-butter",
    "ing:cocoa-butter",
    "ing:coconut",
@@ -21408,7 +21484,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.5★ from 73 ratings"
+   "buyerEvidence": "3.5★ from 73 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/q/s/d/200-stretch-marks-scar-removal-cream-oil-in-during-after-original-imah94g5kjhpug5e.jpeg?q=90",
@@ -21424,6 +21501,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:oil",
+   "water:unstated",
    "ing:rose",
    "ing:almond",
    "ing:shea-butter",
@@ -22071,7 +22149,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 26 ratings"
+   "buyerEvidence": "4★ from 26 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/t/a/h/100-anti-stretch-marks-scar-remover-removal-cream-pregnancy-original-imah9qgwj2xrgnjv.jpeg?q=90",
@@ -22089,6 +22168,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "format:pack",
+   "water:unstated",
    "ing:shea-butter",
    "ing:lemon",
    "claim:brightening",
@@ -22184,7 +22264,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.4★ from 63 ratings"
+   "buyerEvidence": "3.4★ from 63 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/q/g/e/100-stretch-marks-remover-cream-for-men-stretch-marks-oil-bio-original-imah6ty4yzsnfh5b.jpeg?q=90",
@@ -22200,6 +22281,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:oil",
+   "water:unstated",
    "ing:almond",
    "claim:hydrating",
    "claim:stretch-marks",
@@ -22720,7 +22802,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 11 ratings"
+   "buyerEvidence": "4.1★ from 11 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/n/s/200-stretch-marks-cream-reduce-stretchmarks-safe-for-pregnancy-original-imahycz3zytx9hrf.jpeg?q=90",
@@ -22736,6 +22819,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:oil",
+   "water:unstated",
    "ing:rose",
    "ing:almond",
    "ing:shea-butter",
@@ -23376,7 +23460,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Mankind Pharma (listed) — Dermatology / pharmaceutical manufacturer",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/j/z/x/100-prega-happy-skin-care-cream-mankind-cream-original-imahem6vdwncy25w.jpeg?q=90",
@@ -23394,6 +23479,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "format:pack",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:almond",
    "ing:shea-butter",
@@ -23489,7 +23575,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3★ from 5 ratings"
+   "buyerEvidence": "3★ from 5 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/8/x/100-stretch-mark-cream-removes-pregnancy-stretch-marks-scar-original-imah94ccqqaz7sru.jpeg?q=90",
@@ -23504,6 +23591,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:lotion",
+   "water:unstated",
    "claim:hydrating",
    "claim:stretch-marks",
    "claim:scars",
@@ -23702,7 +23790,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.9★ from 10 ratings"
+   "buyerEvidence": "3.9★ from 10 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/e/v/g/200-stretch-marks-scar-removal-cream-oil-in-during-after-original-imahask4eazpakam.jpeg?q=90",
@@ -23718,6 +23807,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:oil",
+   "water:unstated",
    "ing:centella-cica",
    "ing:rose",
    "ing:almond",
@@ -25028,7 +25118,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/f/3/60-0-stretch-mark-prevention-cream-for-hydrates-deeply-under-arm-original-imahegrhdyv57yzy.jpeg?q=90",
@@ -25045,6 +25136,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:clay-mask",
    "format:capsule",
+   "water:unstated",
    "ing:saffron",
    "ing:clay",
    "claim:brightening",
@@ -25145,7 +25237,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 17 ratings"
+   "buyerEvidence": "4.1★ from 17 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/t/a/h/100-anti-stretch-marks-scar-remover-removal-cream-pregnancy-original-imah9qgwj2xrgnjv.jpeg?q=90",
@@ -25163,6 +25256,7 @@ const NXPRODUCTS = [
    "format:toner",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:collagen",
    "ing:almond",
    "ing:shea-butter",
@@ -25483,7 +25577,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/l/n/f/90-1-stretch-marks-removal-cream-reduce-scar-before-after-original-imah8hm8ezmsmhjf.jpeg?q=90",
@@ -25500,6 +25595,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:kit",
    "spf:15",
+   "water:unstated",
    "ing:vitamin-c",
    "claim:brightening",
    "claim:de-tan",
@@ -25712,7 +25808,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 144 ratings"
+   "buyerEvidence": "4.3★ from 144 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/e/u/y/100-belly-treatment-elixir-nourishing-10-oil-blend-for-stretch-original-imahjjfg5rkdz5tp.jpeg?q=90",
@@ -25728,6 +25825,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:oil",
+   "water:unstated",
    "ing:centella-cica",
    "ing:almond",
    "ing:jojoba",
@@ -26053,7 +26151,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.5★ from 31 ratings"
+   "buyerEvidence": "4.5★ from 31 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/b/x/s/60-scar-removal-cream-silicone-gel-advanced-scar-treatment-for-original-imahzh6f6ytxr6x7.jpeg?q=90",
@@ -26071,6 +26170,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:pack",
    "format:wash",
+   "water:unstated",
    "claim:dark-spots",
    "claim:anti-aging",
    "claim:acne",
@@ -29835,7 +29935,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/bath-essential-oil/l/u/x/100-stretch-marks-oil-to-reduce-skin-toning-stretch-mark-removal-original-imahh6hfkaxz8zxu.jpeg?q=90",
@@ -29851,6 +29952,7 @@ const NXPRODUCTS = [
    "scope:body",
    "format:oil",
    "format:kit",
+   "water:unstated",
    "ing:honey",
    "ing:almond",
    "ing:vitamin-e",
@@ -30046,7 +30148,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/9/v/g/stretch-mark-bundle-for-pregnancy-nalpamaradi-oil-kikkisa-lepam-original-imahh2g9zctfbabp.jpeg?q=90",
@@ -30067,6 +30170,7 @@ const NXPRODUCTS = [
    "format:pack",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:lavender",
    "claim:brightening",
    "claim:de-tan",
@@ -32723,7 +32827,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/4/o/100-strechmin-stretch-mark-oil-for-natural-skar-free-skin-pack-original-imahdkabrae6w2pf.jpeg?q=90",
@@ -32744,6 +32849,7 @@ const NXPRODUCTS = [
    "format:kit",
    "spf:30",
    "pa:+++",
+   "water:unstated",
    "claim:hydrating",
    "claim:broad-spectrum",
    "claim:spf-claim",
@@ -36298,7 +36404,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.7★ from 40 ratings"
+   "buyerEvidence": "3.7★ from 40 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/l/1/x/100-anti-stretch-marks-remover-removal-cream-bio-oil-after-original-imahf7d4hdppfpjn.jpeg?q=90",
@@ -36316,6 +36423,7 @@ const NXPRODUCTS = [
    "format:lotion",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:collagen",
    "ing:shea-butter",
    "ing:lemon",
@@ -36417,7 +36525,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 22 ratings"
+   "buyerEvidence": "4.1★ from 22 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/l/h/100-stretch-marks-cream-stretch-mark-oil-bump-hydrating-body-original-imahk4cjnzhet7jn.jpeg?q=90",
@@ -36434,6 +36543,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:centella-cica",
    "ing:rosehip",
    "ing:almond",
@@ -37817,7 +37927,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/w/b/x/50-pregnancy-stretch-mark-cream-moisturises-soothens-skin-for-original-imahmazjzjfthbkj.jpeg?q=90",
@@ -37832,6 +37943,7 @@ const NXPRODUCTS = [
    "scope:body",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "claim:brightening",
    "claim:dark-spots",
    "claim:anti-aging",
@@ -38037,7 +38149,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/1/c/d/50-after-pregnancy-stretch-mark-scar-removal-gulglow99-original-imah5h9sxbtzqjzj.jpeg?q=90"
@@ -38048,6 +38161,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:body",
    "format:cream",
+   "water:unstated",
    "claim:hydrating",
    "claim:stretch-marks",
    "claim:scars",
@@ -39562,7 +39676,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/d/d/z/99-99-stretch-mark-scar-removal-cream-during-after-pregnancy-original-imahhfzpefjfdhyz.jpeg?q=90",
@@ -39576,6 +39691,7 @@ const NXPRODUCTS = [
    "scope:body",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "claim:de-tan",
    "claim:soothing",
    "claim:exfoliating",
@@ -39778,7 +39894,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/d/i/c/50-best-korean-stretch-marks-cream-scar-removal-for-pregnancy-original-imahfz3fynzr9gtd.jpeg?q=90",
@@ -39791,6 +39908,7 @@ const NXPRODUCTS = [
    "scope:body",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "claim:korean",
    "claim:stretch-marks",
    "claim:scars",
@@ -39988,7 +40106,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/a/z/c/50-anti-stretch-mark-cream-reduce-pregnancy-stretch-marks-scars-original-imahfz3dfjn72d4e.jpeg?q=90",
@@ -40002,6 +40121,7 @@ const NXPRODUCTS = [
    "scope:body",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "claim:stretch-marks",
    "claim:scars",
    "skin:all",
@@ -40846,7 +40966,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.7★ from 10 ratings"
+   "buyerEvidence": "4.7★ from 10 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/6/n/b/100-stretch-marks-scar-removal-cream-during-after-pregnancy-original-imahjzsruysbabdd.jpeg?q=90",
@@ -40862,6 +40983,7 @@ const NXPRODUCTS = [
    "scope:body",
    "format:cream",
    "format:oil",
+   "water:unstated",
    "ing:almond",
    "claim:dark-spots",
    "claim:pores",
@@ -41381,7 +41503,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.7★ from 617 ratings"
+   "buyerEvidence": "3.7★ from 617 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/w/e/v/50-stretch-marks-cream-to-reduce-stretch-marks-scars-elibliss-original-imahk8gcsqstcy66.jpeg?q=90",
@@ -41399,6 +41522,7 @@ const NXPRODUCTS = [
    "format:lotion",
    "format:pack",
    "format:wash",
+   "water:unstated",
    "claim:brightening",
    "claim:de-tan",
    "claim:anti-aging",
@@ -41493,7 +41617,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/6/f/h/100-anti-stretch-mark-cream-for-pregnancy-weight-loss-alfa-youth-original-imahh299dh4yg9wj.jpeg?q=90",
@@ -41511,6 +41636,7 @@ const NXPRODUCTS = [
    "format:lotion",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:watermelon",
    "claim:brightening",
    "claim:hydrating",
@@ -42494,7 +42620,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-body-skin-treatment/m/h/f/100-pregazo-cureto-original-imahm9kzh8jpjuxs.jpeg?q=90",
@@ -42511,6 +42638,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:balm",
    "format:pack",
+   "water:unstated",
    "ing:shea-butter",
    "claim:stretch-marks",
    "claim:scars",
@@ -43040,7 +43168,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.8★ from 331 ratings"
+   "buyerEvidence": "3.8★ from 331 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/f/b/h/50-anti-stretch-marks-cream-reduce-pregnancy-stretch-marks-original-imahkdv5mzhzz6g5.jpeg?q=90",
@@ -43057,6 +43186,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "claim:anti-aging",
    "claim:stretch-marks",
    "skin:all",
@@ -43148,7 +43278,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/1/q/a/100-natural-scar-repair-anti-stretch-mark-cream-for-women-men-original-imahmjzf9sh6h4ha.jpeg?q=90",
@@ -43165,6 +43296,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:lotion",
    "format:oil",
+   "water:unstated",
    "ing:watermelon",
    "claim:hydrating",
    "claim:exfoliating",
@@ -45392,7 +45524,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/1/g/d/60-smartdrops-stretch-mark-cream-to-reduce-stretch-marks-60ml-original-imahqkjertj4mfdp.jpeg?q=90"
@@ -45403,6 +45536,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "claim:hydrating",
    "claim:barrier",
    "claim:stretch-marks",
@@ -45494,7 +45628,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 135 ratings"
+   "buyerEvidence": "4★ from 135 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/l/1/x/100-anti-stretch-marks-remover-removal-cream-bio-oil-after-original-imahf7d4hdppfpjn.jpeg?q=90",
@@ -45510,6 +45645,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:oil",
+   "water:unstated",
    "claim:acne",
    "claim:barrier",
    "claim:stretch-marks",
@@ -45816,7 +45952,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/d/2/b/100-stretch-mark-cream-alfa-youth-cream-original-imahkufqzyqmgubz.jpeg?q=90",
@@ -45831,6 +45968,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "claim:hydrating",
    "claim:stretch-marks",
    "claim:scars",
@@ -46027,7 +46165,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 28 ratings"
+   "buyerEvidence": "5★ from 28 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/g/v/y/150-0-mango-stretch-mark-cream-for-pregnancy-relieves-itching-original-imahnt5wzgyy5g5r.jpeg?q=90",
@@ -46044,6 +46183,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:balm",
    "format:pack",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:shea-butter",
    "ing:cocoa-butter",
@@ -46782,7 +46922,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.7★ from 462 ratings"
+   "buyerEvidence": "3.7★ from 462 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/o/r/g/100-stretch-marks-oil-for-pregnancy-with-rosehip-oil-sea-original-imahkfyufkxjzmxz.jpeg?q=90",
@@ -46798,6 +46939,7 @@ const NXPRODUCTS = [
    "scope:body",
    "format:oil",
    "format:pack",
+   "water:unstated",
    "ing:rosehip",
    "ing:coconut",
    "ing:sea-buckthorn",
@@ -47558,7 +47700,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 31 ratings"
+   "buyerEvidence": "5★ from 31 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/d/i/b/100-0-stretch-marks-removal-cream-for-scar-healing-skin-original-imahntctzvj8qgzn.jpeg?q=90",
@@ -47576,6 +47719,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:pack",
    "format:wash",
+   "water:unstated",
    "ing:almond",
    "ing:vitamin-e",
    "claim:brightening",
@@ -48198,7 +48342,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/v/h/x/50-stretch-mark-cream-reduce-pregnancy-stretch-marks-scars-for-original-imahfz3gjjdfgjux.jpeg?q=90",
@@ -48211,6 +48356,7 @@ const NXPRODUCTS = [
    "scope:body",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "claim:stretch-marks",
    "claim:scars",
    "skin:all",
@@ -48413,7 +48559,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.8★ from 30 ratings"
+   "buyerEvidence": "3.8★ from 30 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/m/d/s/50-stretchrid-cream-for-stretch-marks-50gm-stretch-rid-cream-original-imagzuutefsuzbsb.jpeg?q=90",
@@ -48428,6 +48575,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "claim:stretch-marks",
    "skin:all",
    "free:paraben",
@@ -49286,7 +49434,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.5★ from 4 ratings"
+   "buyerEvidence": "3.5★ from 4 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/i/f/p/50-stretch-mark-cream-for-scars-stretch-mark-ageing-firming-original-imah4denyukepjx2.jpeg?q=90",
@@ -49301,6 +49450,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:almond",
    "ing:vitamin-e",
    "claim:anti-aging",
@@ -49395,7 +49545,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.3★ from 31 ratings"
+   "buyerEvidence": "3.3★ from 31 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/i/a/j/50-stretch-marks-cream-for-reducing-stretch-marks-scars-elibliss-original-imahk88cbczcz275.jpeg?q=90",
@@ -49411,6 +49562,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:lotion",
+   "water:unstated",
    "claim:soothing",
    "claim:stretch-marks",
    "skin:all",
@@ -49607,7 +49759,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.7★ from 32 ratings"
+   "buyerEvidence": "3.7★ from 32 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/b/c/0/100-anti-stretch-marks-scars-removal-oil-cream-in-during-after-original-imagggzys6gj9qav.jpeg?q=90",
@@ -49623,6 +49776,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:oil",
+   "water:unstated",
    "claim:stretch-marks",
    "claim:scars",
    "skin:dry",
@@ -49718,7 +49872,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/v/h/c/50-stretch-marks-cream-for-scars-ageing-firming-nourishment-original-imah4deqyfc2ext9.jpeg?q=90",
@@ -49735,6 +49890,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:patch",
+   "water:unstated",
    "ing:almond",
    "ing:vitamin-e",
    "claim:brightening",
@@ -50061,7 +50217,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/e/i/b/30-scar-acne-remover-cream-fades-scars-acne-marks-stretch-marks-original-imahnsfjwazchaju.jpeg?q=90",
@@ -50082,6 +50239,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:kit",
    "spf:30",
+   "water:unstated",
    "ing:niacinamide",
    "ing:honey",
    "ing:almond",
@@ -50187,7 +50345,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.7★ from 7 ratings"
+   "buyerEvidence": "4.7★ from 7 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/2/d/q/100-stretch-mark-removal-cream-scar-removal-anti-wrinkle-body-original-imah6xdbytst4grg.jpeg?q=90",
@@ -50202,6 +50361,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:oil",
+   "water:unstated",
    "ing:rose",
    "ing:almond",
    "ing:shea-butter",
@@ -51087,7 +51247,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.5★ from 30 ratings"
+   "buyerEvidence": "4.5★ from 30 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/1/v/a/50-stretch-marks-scar-removal-roll-on-oil-serum-pregnancy-safe-original-imahmrkx9gbxhgdz.jpeg?q=90",
@@ -51106,6 +51267,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:pack",
    "format:roll-on",
+   "water:unstated",
    "ing:retinol",
    "ing:hyaluronic-acid",
    "ing:collagen",
@@ -51204,7 +51366,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.8★ from 627 ratings"
+   "buyerEvidence": "3.8★ from 627 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/a/p/5/100-original-body-oil-suitable-for-acne-scar-removal-dark-spots-original-imahk8gxapq56ett.jpeg?q=90",
@@ -51220,6 +51383,7 @@ const NXPRODUCTS = [
    "scope:body",
    "format:oil",
    "format:pack",
+   "water:unstated",
    "claim:dark-spots",
    "claim:acne",
    "claim:stretch-marks",
@@ -51650,7 +51814,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/g/a/z/100-anti-stretch-marks-cream-moisturizes-the-skin-reduces-original-imah94gy8gzfsj4g.jpeg?q=90",
@@ -51666,6 +51831,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:oil",
+   "water:unstated",
    "claim:hydrating",
    "claim:stretch-marks",
    "claim:scars",
@@ -52183,7 +52349,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/9/q/100-advanced-herbal-anti-stretch-mark-repair-cream-for-smooth-original-imahmjnxvfjwbjqq.jpeg?q=90",
@@ -52199,6 +52366,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:lotion",
+   "water:unstated",
    "ing:watermelon",
    "claim:hydrating",
    "claim:barrier",
@@ -52613,7 +52781,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.8★ from 16 ratings"
+   "buyerEvidence": "3.8★ from 16 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/i/m/g/100-body-stretch-mark-removal-oil-stretch-marks-solutions-original-imahkfytnjamprfv.jpeg?q=90",
@@ -52629,6 +52798,7 @@ const NXPRODUCTS = [
    "scope:body",
    "format:oil",
    "format:pack",
+   "water:unstated",
    "claim:stretch-marks",
    "skin:all",
    "free:paraben",
@@ -54586,7 +54756,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/g/f/j/100-stretch-mark-removal-oil-100-ml-for-body-with-orange-oil-original-imahk55saff9xh4j.jpeg?q=90",
@@ -54603,6 +54774,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:rosehip",
    "ing:almond",
    "ing:vitamin-e",
@@ -55795,7 +55967,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.2★ from 19 ratings"
+   "buyerEvidence": "3.2★ from 19 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/body-skin-treatment/i/t/4/100-natural-stretch-marks-removal-scars-remover-bio-oil-cream-original-imagzeu7kssfxshu.jpeg?q=90",
@@ -55813,6 +55986,7 @@ const NXPRODUCTS = [
    "format:toner",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:collagen",
    "ing:almond",
    "ing:shea-butter",
@@ -59288,7 +59462,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/y/z/e/50-elastoderm-stretch-marks-cream-pregnancy-safe-peptide-formula-original-imahm6g9t3ayvqnh.jpeg?q=90",
@@ -59302,6 +59477,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:body",
    "format:cream",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:peptides",
    "claim:stretch-marks",
@@ -59722,7 +59898,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.8★ from 9,184 ratings"
+   "buyerEvidence": "3.8★ from 9,184 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/i/n/h/100-stretch-marks-cream-for-women-with-hyaluronic-acid-coconut-original-imahnezbxawhvsum.jpeg?q=90",
@@ -59741,6 +59918,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:aloe-vera",
    "ing:turmeric",
@@ -60700,7 +60878,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.8★ from 126 ratings"
+   "buyerEvidence": "3.8★ from 126 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/x/j/h/100-remove-pregnancy-scars-treatment-body-skin-acne-scar-stretch-original-imahkfyrfhwax99s.jpeg?q=90",
@@ -60718,6 +60897,7 @@ const NXPRODUCTS = [
    "format:lotion",
    "format:oil",
    "format:pack",
+   "water:unstated",
    "claim:acne",
    "claim:stretch-marks",
    "claim:scars",
@@ -60917,7 +61097,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.9★ from 15 ratings"
+   "buyerEvidence": "3.9★ from 15 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/c/x/h/100-retains-moisture-helps-reduce-stretch-marks-and-scars-original-imahk8gyypnnvuxv.jpeg?q=90",
@@ -60933,6 +61114,7 @@ const NXPRODUCTS = [
    "scope:body",
    "format:oil",
    "format:pack",
+   "water:unstated",
    "claim:anti-aging",
    "claim:stretch-marks",
    "claim:scars",
@@ -62437,7 +62619,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/n/r/n/50-stretch-away-cream-for-stretch-marks-removal-cream-50-gram-dc-original-imahgt6ztenkgwzr.jpeg?q=90",
@@ -62453,6 +62636,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "claim:soothing",
    "claim:stretch-marks",
    "skin:all",
@@ -63628,7 +63812,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/3/u/b/50-anti-stretch-marks-cream-to-reduce-stretch-marks-scars-original-imahjhuwwv3nhkfh.jpeg?q=90",
@@ -63644,6 +63829,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:balm",
    "format:pack",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "claim:hydrating",
    "claim:stretch-marks",
@@ -64603,7 +64789,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.9★ from 58 ratings",
-   "concernBasis": "Irritation — centella asiatica extract #8 on INCI (matching only — not proof it works)"
+   "concernBasis": "Irritation — centella asiatica extract #8 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/2/l/g/200-0-stretch-mark-removal-cream-for-pregnancy-maternity-skin-original-imahnpv3d4hyesw8.jpeg?q=90",
@@ -64619,6 +64806,7 @@ const NXPRODUCTS = [
    "scope:body",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "claim:dark-spots",
    "claim:barrier",
    "claim:ayurvedic",
@@ -65331,7 +65519,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/i/p/o/100-anti-stretch-mark-cream-for-pregnancy-weight-loss-for-all-original-imahhy5ygdwugakx.jpeg?q=90",
@@ -65346,6 +65535,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "claim:stretch-marks",
    "skin:all",
    "free:paraben",
@@ -69679,7 +69869,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/k5fn3ww0/combo-kit/m/a/h/daily-skin-therapy-heal-cream-tummy-butter-for-stretch-marks-original-imafz4b9hffvn7hw.jpeg?q=90",
@@ -69701,6 +69892,7 @@ const NXPRODUCTS = [
    "format:pack",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:rose",
    "ing:gold",
    "claim:brightening",
@@ -69904,7 +70096,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/9/t/s/100-0-sha-una-anti-stretch-marks-cream-for-all-skin-type-original-imahhzr6znbgtty9.jpeg?q=90",
@@ -69923,6 +70116,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:kit",
    "spf:50+",
+   "water:unstated",
    "ing:shea-butter",
    "ing:cocoa-butter",
    "claim:brightening",
@@ -71357,7 +71551,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/n/u/m/91-stretch-mark-fresh-cream-pregnancy-stretch-marks-100-original-imah239h2gn2h7nk.jpeg?q=90",
@@ -71372,6 +71567,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:aloe-vera",
    "claim:brightening",
    "claim:de-tan",
@@ -71467,7 +71663,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/p/i/p/150-0-soothing-mango-stretch-mark-cream-to-improve-skin-original-imahq2h66h4gahnh.jpeg?q=90",
@@ -71483,6 +71680,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:oil",
    "format:pack",
+   "water:unstated",
    "ing:almond",
    "claim:acne",
    "claim:hydrating",
@@ -71684,7 +71882,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/2/s/h/150-0-mango-extract-stretch-mark-removal-cream-for-maternity-original-imahq2h6reepmzqd.jpeg?q=90",
@@ -71700,6 +71899,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:oil",
    "format:pack",
+   "water:unstated",
    "ing:almond",
    "claim:acne",
    "claim:hydrating",
@@ -72119,7 +72319,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/kuzuoi80/body-skin-treatment/s/0/j/200-body-toning-oil-for-scars-stretch-mark-ageing-uneven-skin-original-imag7ztgttz77zjr.jpeg?q=90",
@@ -72136,6 +72337,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:serum",
    "format:oil",
+   "water:unstated",
    "claim:stretch-marks",
    "claim:scars",
    "skin:all",
@@ -72537,7 +72739,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/u/y/25-pregnancy-stretch-marks-scar-removal-cream-koresa-london-original-imahzdrb2kuy4frx.jpeg?q=90",
@@ -72555,6 +72758,7 @@ const NXPRODUCTS = [
    "format:lotion",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:shea-butter",
    "ing:cocoa-butter",
    "ing:coconut",
@@ -73078,7 +73282,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/o/w/8/50-stretch-mark-cream-for-pregnancy-koresa-london-cream-original-imahzdrkrz5rnx6z.jpeg?q=90",
@@ -73097,6 +73302,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "format:kit",
+   "water:unstated",
    "ing:almond",
    "ing:shea-butter",
    "ing:cocoa-butter",
@@ -73522,7 +73728,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Mankind Pharma (listed) — Dermatology / pharmaceutical manufacturer",
-   "buyerEvidence": "4★ from 4 ratings"
+   "buyerEvidence": "4★ from 4 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/x/8/o/100-prega-happy-stretch-mark-and-moisturizing-cream-mankind-original-imahertfwyu8svzu.jpeg?q=90",
@@ -73537,6 +73744,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "claim:hydrating",
    "claim:stretch-marks",
    "skin:all",
@@ -73629,7 +73837,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/1/b/j/50-stretch-mark-removal-ceam-after-pregnancy-50g-pack-of-1-jiwoo-original-imahffwbhxdsjyef.jpeg?q=90",
@@ -73645,6 +73854,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:kit",
+   "water:unstated",
    "claim:brightening",
    "claim:whitening-claim",
    "claim:hydrating",
@@ -73967,7 +74177,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/r/w/e/50-anti-stretch-marks-scar-remover-cream-during-after-pregnancy-original-imahb8ym6b6fcqes.jpeg?q=90",
@@ -73983,6 +74194,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:kit",
+   "water:unstated",
    "ing:honey",
    "ing:papaya",
    "ing:almond",
@@ -74190,7 +74402,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/o/q/g/50-perfect-for-all-pregnant-lady-use-scar-removal-cream-evererin-original-imahdzvqf6vg4dg2.jpeg?q=90",
@@ -74208,6 +74421,7 @@ const NXPRODUCTS = [
    "format:lotion",
    "format:oil",
    "spf:60",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:aha",
    "claim:brightening",
@@ -74413,7 +74627,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/u/r/3/50-advanced-stretch-mark-repair-serum-hushpurr-original-imahnz2njtzqnkwb.jpeg?q=90",
@@ -74431,6 +74646,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "format:pack",
+   "water:unstated",
    "ing:centella-cica",
    "ing:almond",
    "ing:licorice",
@@ -75189,7 +75405,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — glycyrrhiza glabra root extract #4 on INCI; Aging — bakuchiol #6 on INCI; Irritation — aloe barbadensis leaf juice #2 on INCI, panthenol #8 on INCI, centella asiatica extract #12 on INCI, asiaticoside #13 on INCI (matching only — not proof it works)"
+   "concernBasis": "Dark spots — glycyrrhiza glabra root extract #4 on INCI; Aging — bakuchiol #6 on INCI; Irritation — aloe barbadensis leaf juice #2 on INCI, panthenol #8 on INCI, centella asiatica extract #12 on INCI, asiaticoside #13 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/z/o/z/50-stretch-marks-removal-roll-on-serum-for-pregnancy-scars-skin-original-imahhqkfrneqr8hv.jpeg?q=90",
@@ -75206,6 +75423,7 @@ const NXPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:roll-on",
+   "water:unstated",
    "ing:bakuchiol",
    "ing:centella-cica",
    "claim:dark-spots",
@@ -75959,7 +76177,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.6★ from 432 ratings"
+   "buyerEvidence": "3.6★ from 432 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/kuzuoi80/body-skin-treatment/p/g/d/30-body-toning-oil-for-scars-stretch-mark-ageing-uneven-skin-original-imag7zszezkcnqft.jpeg?q=90",
@@ -75976,6 +76195,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:serum",
    "format:oil",
+   "water:unstated",
    "claim:anti-aging",
    "claim:stretch-marks",
    "claim:scars",
@@ -76822,7 +77042,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/e/y/q/25-maternity-stretch-mark-cream-hypoallergenic-anti-marks-cream-original-imagszdfgg2czbud.jpeg?q=90",
@@ -76843,6 +77064,7 @@ const NXPRODUCTS = [
    "format:kit",
    "spf:30",
    "pa:+++",
+   "water:unstated",
    "ing:alpha-arbutin",
    "ing:rice-water",
    "ing:tea-tree",
@@ -77820,7 +78042,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 89 ratings"
+   "buyerEvidence": "4★ from 89 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/j/7/a/100-intimate-lightening-serum-bikni-stretch-mark-corrector-original-imahk5bp3n9w3pka.jpeg?q=90",
@@ -77836,6 +78059,7 @@ const NXPRODUCTS = [
    "scope:body",
    "format:gel",
    "format:serum",
+   "water:unstated",
    "claim:brightening",
    "claim:whitening-claim",
    "claim:ayurvedic",
@@ -78374,7 +78598,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/r/a/u/100-herbal-intimate-area-whitening-natural-cream-skin-lightening-original-imahfyjedqwqggq2.jpeg?q=90",
@@ -78390,6 +78615,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:kit",
+   "water:unstated",
    "claim:brightening",
    "claim:whitening-claim",
    "claim:dry-skin-relief",
@@ -79596,7 +79822,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/4/m/z/50-stretch-marks-cream-koresa-london-cream-original-imahhp3bxvptx3r5.jpeg?q=90",
@@ -79612,6 +79839,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:oil",
+   "water:unstated",
    "claim:stretch-marks",
    "skin:all",
    "free:paraben",
@@ -82695,7 +82923,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/y/o/s/100-stretch-mark-removal-cream-with-natural-ingredients-alfa-original-imahmp8yephyjesj.jpeg?q=90",
@@ -82713,6 +82942,7 @@ const NXPRODUCTS = [
    "format:lotion",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:watermelon",
    "claim:brightening",
    "claim:hydrating",
@@ -82810,7 +83040,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/g/i/t/100-skin-repair-cream-for-stretch-marks-scars-alfa-youth-cream-original-imahmp95gpsqhzeh.jpeg?q=90",
@@ -82828,6 +83059,7 @@ const NXPRODUCTS = [
    "format:lotion",
    "format:serum",
    "format:kit",
+   "water:unstated",
    "ing:milk",
    "ing:watermelon",
    "claim:hydrating",
@@ -83150,7 +83382,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.2★ from 6 ratings"
+   "buyerEvidence": "3.2★ from 6 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/v/h/c/50-stretch-marks-cream-for-scars-ageing-firming-nourishment-original-imah4deqyfc2ext9.jpeg?q=90",
@@ -83165,6 +83398,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:almond",
    "ing:vitamin-e",
    "claim:anti-aging",
@@ -83695,7 +83929,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.7★ from 6 ratings"
+   "buyerEvidence": "3.7★ from 6 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/s/q/a/100-removal-natural-pregnancy-breast-hip-legs-mark-oil-stretch-original-imagskzyyz6fewhf.jpeg?q=90",
@@ -83711,6 +83946,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:oil",
+   "water:unstated",
    "claim:stretch-marks",
    "skin:all",
    "aud:women",
@@ -84887,7 +85123,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/a/t/6/50-after-pregnancy-stretch-mark-removal-cream-koresa-london-original-imahhnzjrzyywkse.jpeg?q=90",
@@ -84904,6 +85141,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "claim:hydrating",
    "claim:stretch-marks",
    "claim:scars",
@@ -84996,7 +85234,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/n/t/c/50-stretch-marks-removal-cream-reduce-scar-before-after-original-imahmazah5x4k288.jpeg?q=90",
@@ -85011,6 +85250,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:caffeine",
    "claim:brightening",
    "claim:anti-aging",
@@ -85216,7 +85456,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/c/c/d/50-stretch-mark-cream-during-pregnancy-jiwoo-cream-original-imahffw9czjwbnm8.jpeg?q=90",
@@ -85234,6 +85475,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:lotion",
    "spf:60",
+   "water:unstated",
    "ing:vitamin-c",
    "claim:brightening",
    "claim:hydrating",
@@ -85330,7 +85572,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/i/n/50-anti-stretch-mark-cream-koresa-london-cream-original-imahhp25seffefmm.jpeg?q=90",
@@ -85346,6 +85589,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:balm",
+   "water:unstated",
    "ing:shea-butter",
    "ing:cocoa-butter",
    "claim:stretch-marks",
@@ -85438,7 +85682,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/n/0/50-stretch-mark-cream-for-pregnancy-jiwoo-cream-original-imahffvrbfbbzzze.jpeg?q=90",
@@ -85454,6 +85699,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:cream",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:aloe-vera",
    "ing:vitamin-e",
@@ -85970,7 +86216,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/5/w/v/200-shauna-anti-stretch-mark-cream-scar-repair-formula-100g-pack-original-imahzgzqub6jhh6k.jpeg?q=90",
@@ -85989,6 +86236,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:kit",
    "spf:30",
+   "water:unstated",
    "ing:niacinamide",
    "ing:squalane",
    "ing:cocoa-butter",
@@ -86405,7 +86653,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.8★ from 20 ratings"
+   "buyerEvidence": "4.8★ from 20 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/e/6/z/100-stretch-mark-removal-body-lotion-fade-marks-reduces-stretch-original-imahpze4zvg7ynnc.jpeg?q=90",
@@ -86421,6 +86670,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:lotion",
    "format:balm",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:shea-butter",
    "claim:hydrating",
@@ -86731,7 +86981,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-moisturizer-cream/5/d/n/150-anti-stretch-marks-body-lotion-reduce-the-visible-signs-of-original-imah4y7p9uvbfpc5.jpeg?q=90",
@@ -86753,6 +87004,7 @@ const NXPRODUCTS = [
    "format:kit",
    "spf:30",
    "pa:+++",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:honey",
    "ing:shea-butter",
@@ -86856,7 +87108,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/j/6/i/100-advanced-stretch-mark-cream-smooth-even-skin-tone-alfa-youth-original-imahmkqhuhvyzv7v.jpeg?q=90",
@@ -86874,6 +87127,7 @@ const NXPRODUCTS = [
    "format:lotion",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:watermelon",
    "claim:brightening",
    "claim:hydrating",
@@ -87076,7 +87330,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/v/3/100-advanced-herbal-anti-stretch-mark-repair-cream-for-smooth-original-imahmjzhngznk6yy.jpeg?q=90",
@@ -87092,6 +87347,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:lotion",
+   "water:unstated",
    "ing:watermelon",
    "claim:hydrating",
    "claim:barrier",
@@ -88815,7 +89071,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/g/l/4/100-reduce-stretch-mark-heal-scars-and-increase-elasticity-oil-original-imahke3zgm6qx3w3.jpeg?q=90",
@@ -88831,6 +89088,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:oil",
    "format:pack",
+   "water:unstated",
    "claim:hydrating",
    "claim:stretch-marks",
    "claim:scars",
@@ -90176,7 +90434,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/jeka07k0/moisturizer-cream/5/b/p/473-dermatologist-developed-advanced-therapy-lotion-lubriderm-original-imaf385anf7cfgur.jpeg?q=90",
@@ -90194,6 +90453,7 @@ const NXPRODUCTS = [
    "format:lotion",
    "spf:30",
    "pa:+++",
+   "water:unstated",
    "ing:retinol",
    "ing:collagen",
    "claim:anti-aging",
@@ -90833,7 +91093,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/o/p/f/50-stretch-marks-removal-cream-reduce-scar-florero-cream-original-imahe37hxgznk8bd.jpeg?q=90",
@@ -90848,6 +91109,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "claim:barrier",
    "claim:exfoliating",
    "claim:stretch-marks",
@@ -92134,7 +92396,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 102 ratings"
+   "buyerEvidence": "4.3★ from 102 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/g/f/f/60-0-stretch-marks-removal-cream-in-during-after-pregnancy-original-imahm588zhhpuxhw.jpeg?q=90",
@@ -92151,6 +92414,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:oil",
    "spf:50",
+   "water:unstated",
    "ing:niacinamide",
    "ing:aloe-vera",
    "ing:almond",
@@ -92890,7 +93154,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/j/x/p/50-anti-stretch-marks-cream-skin-elasticity-range-of-stretch-original-imah26k5hzhwsrdh.jpeg?q=90",
@@ -92909,6 +93174,7 @@ const NXPRODUCTS = [
    "format:kit",
    "spf:30",
    "pa:+++",
+   "water:unstated",
    "claim:brightening",
    "claim:hydrating",
    "claim:dark-circles",
@@ -93006,7 +93272,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/s/r/c/50-stretch-marks-cream-remove-scars-during-after-pregnancy-original-imahmaz2my9zyydt.jpeg?q=90",
@@ -93027,6 +93294,7 @@ const NXPRODUCTS = [
    "format:capsule",
    "format:kit",
    "spf:30",
+   "water:unstated",
    "ing:aloe-vera",
    "claim:brightening",
    "claim:dark-spots",
@@ -93239,7 +93507,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/d/i/q/30-scar-acne-scar-remover-cream-dark-spot-blemish-care-stretch-original-imahf7f3k9kfpvpw.jpeg?q=90",
@@ -93257,6 +93526,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "format:kit",
+   "water:unstated",
    "ing:collagen",
    "ing:rice-water",
    "ing:aloe-vera",
@@ -94129,7 +94399,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/o/s/g/50-stretch-mark-removal-cream-anti-stretch-mark-body-cream-original-imahmayy5yssqg26.jpeg?q=90",
@@ -94147,6 +94418,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:lotion",
    "format:kit",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:hyaluronic-acid",
    "claim:brightening",
@@ -95116,7 +95388,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/x/n/t/60-0-regenscar-advanced-scar-repair-gel-for-smooth-even-looking-original-imahnnnfzztzgh53.jpeg?q=90",
@@ -95136,6 +95409,7 @@ const NXPRODUCTS = [
    "format:scrub",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:niacinamide",
    "claim:brightening",
    "claim:acne",
@@ -95455,7 +95729,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/o/y/100-stretch-mark-cream-alfa-youth-cream-original-imahkufqacpewhg6.jpeg?q=90",
@@ -95470,6 +95745,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "claim:hydrating",
    "claim:barrier",
    "claim:stretch-marks",
@@ -95789,7 +96065,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/2/v/r/0-1-r-top-r-stretch-mark-removal-cream-anti-scar-skin-repair-original-imahgzfcsbtg6a6u.jpeg?q=90",
@@ -95806,6 +96083,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:lotion",
    "format:kit",
+   "water:unstated",
    "claim:anti-aging",
    "claim:hydrating",
    "claim:barrier",
@@ -95902,7 +96180,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.5★ from 6 ratings"
+   "buyerEvidence": "4.5★ from 6 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/i/l/100-aloe-based-stretch-mark-cream-for-soft-clear-healthy-skin-original-imahmjz2m68egne9.jpeg?q=90",
@@ -95917,6 +96196,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "claim:hydrating",
    "claim:stretch-marks",
    "skin:all",
@@ -96116,7 +96396,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/f/r/i/30-stretch-mark-acne-scar-remover-cream-scar-fading-skin-repair-original-imahhhz9pp3cntdg.jpeg?q=90",
@@ -96134,6 +96415,7 @@ const NXPRODUCTS = [
    "format:lotion",
    "format:oil",
    "format:pack",
+   "water:unstated",
    "ing:tea-tree",
    "ing:aloe-vera",
    "ing:turmeric",
@@ -96666,7 +96948,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/r/d/a/50-stretch-marks-ageing-signs-for-glowing-skin-stretch-mark-original-imahztzsyqudvev6.jpeg?q=90",
@@ -96681,6 +96964,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:wash",
+   "water:unstated",
    "claim:brightening",
    "claim:hydrating",
    "claim:barrier",
@@ -97429,7 +97713,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/w/b/7/30-stretch-mark-oil-30-ml-for-body-with-orange-oil-almond-oil-original-imahk55pzqdvasmp.jpeg?q=90",
@@ -97445,6 +97730,7 @@ const NXPRODUCTS = [
    "scope:body",
    "format:oil",
    "format:pack",
+   "water:unstated",
    "ing:almond",
    "ing:vitamin-e",
    "claim:brightening",
@@ -97880,7 +98166,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 48 ratings"
+   "buyerEvidence": "5★ from 48 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/j/w/1/150-0-stretch-marks-removal-oil-to-heal-scars-and-increase-skin-original-imahnt7djuzvdpzb.jpeg?q=90",
@@ -97896,6 +98183,7 @@ const NXPRODUCTS = [
    "scope:body",
    "format:oil",
    "format:pack",
+   "water:unstated",
    "ing:rosehip",
    "ing:almond",
    "ing:vitamin-e",
@@ -97992,7 +98280,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/e/7/o/150-0-stretch-mark-oil-for-women-natural-skin-nourishing-body-original-imahzky9rsk8ggkj.jpeg?q=90",
@@ -98008,6 +98297,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "format:pack",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:rosehip",
    "ing:almond",
@@ -98228,7 +98518,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/h/q/q/100-stretch-marks-natural-scar-removal-oil-ideal-for-men-women-original-imahgpx7r2qnyawd.jpeg?q=90",
@@ -98243,6 +98534,7 @@ const NXPRODUCTS = [
    "scope:body",
    "format:oil",
    "format:pack",
+   "water:unstated",
    "claim:pores",
    "claim:ayurvedic",
    "claim:stretch-marks",
@@ -98545,7 +98837,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.9★ from 8 ratings"
+   "buyerEvidence": "3.9★ from 8 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-body-skin-treatment/r/6/g/100-pregnancy-and-maternity-stretch-marks-removal-oil-udaun-original-imahkdte2qhrjgn9.jpeg?q=90",
@@ -98562,6 +98855,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "claim:hydrating",
    "claim:barrier",
    "claim:stretch-marks",
@@ -99100,7 +99394,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/g/l/u/100-rabenda-stretch-marks-oil-100-ml-rabenda-original-imahp6bcvn33zy62.jpeg?q=90",
@@ -99114,6 +99409,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:pack",
    "sun:mineral",
+   "water:unstated",
    "ing:almond",
    "ing:vitamin-e",
    "ing:jojoba",
@@ -99216,7 +99512,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-body-skin-treatment/d/u/b/50-nirvaya-pregnancy-stretch-mark-oil-herbal-formula-pack-of-1-original-imahjpxnza24jcqq.jpeg?q=90",
@@ -99232,6 +99529,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:almond",
    "ing:vitamin-e",
    "ing:coconut",
@@ -99328,7 +99626,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/e/8/q/50-scar-removal-pregnancy-stretch-mark-cream-koresa-london-cream-original-imahhnzjeawr3m9v.jpeg?q=90",
@@ -99345,6 +99644,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:lotion",
    "format:balm",
+   "water:unstated",
    "ing:shea-butter",
    "ing:cocoa-butter",
    "claim:stretch-marks",
@@ -99978,7 +100278,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/m/u/o/100-natural-pregnancy-mark-removeal-skin-whitening-for-toening-original-imahfu68hfhbjmbt.jpeg?q=90",
@@ -99994,6 +100295,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:kit",
+   "water:unstated",
    "claim:whitening-claim",
    "claim:hydrating",
    "claim:ayurvedic",
@@ -100189,7 +100491,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.6★ from 58 ratings"
+   "buyerEvidence": "3.6★ from 58 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/x/x/q/100-stretch-marks-cream-for-pregnancy-with-the-goodness-of-shea-original-imah94fyc29uzztg.jpeg?q=90",
@@ -100206,6 +100509,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:saffron",
    "ing:rose",
    "ing:almond",
@@ -100407,7 +100711,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/b/n/75-stretch-mark-removal-cream-for-pregnancy-fades-scars-24h-original-imahn5ruy3e7tugg.jpeg?q=90",
@@ -100425,6 +100730,7 @@ const NXPRODUCTS = [
    "format:lotion",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:rosehip",
    "ing:shea-butter",
@@ -100627,7 +100933,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "2.7★ from 3 ratings"
+   "buyerEvidence": "2.7★ from 3 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/8/u/1/100-stretch-cream-for-stretch-marks-removal-post-pregnancy-fast-original-imah94g3wu4zvkk9.jpeg?q=90",
@@ -100643,6 +100950,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:oil",
+   "water:unstated",
    "ing:rose",
    "ing:almond",
    "ing:shea-butter",
@@ -101967,7 +102275,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/9/d/x/100-99-natural-origin-stretch-marks-cream-balm-blush-fizz-original-imahk7gkahgfrm6x.jpeg?q=90",
@@ -101983,6 +102292,7 @@ const NXPRODUCTS = [
    "scope:body",
    "format:cream",
    "format:balm",
+   "water:unstated",
    "claim:stretch-marks",
    "claim:scars",
    "skin:all",
@@ -140806,7 +141116,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.4★ from 0 ratings"
+   "buyerEvidence": "3.4★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41kspJ2SthL._SL1080_.jpg",
@@ -140822,6 +141133,7 @@ const NXPRODUCTS = [
    "scope:body",
    "format:lotion",
    "format:balm",
+   "water:unstated",
    "ing:coffee",
    "ing:honey",
    "ing:almond",
@@ -158103,7 +158415,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 0 ratings"
+   "buyerEvidence": "4.4★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61W0SFjzUmL._SL1264_.jpg",
@@ -158119,6 +158432,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:cream",
+   "water:unstated",
    "claim:dark-spots",
    "claim:acne",
    "claim:oil-control",
@@ -162742,7 +163056,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61IN67H8bSL._SL1264_.jpg",
@@ -162759,6 +163074,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:kit",
+   "water:unstated",
    "claim:acne",
    "claim:barrier",
    "claim:exfoliating",

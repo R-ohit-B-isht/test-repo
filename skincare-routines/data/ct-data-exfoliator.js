@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-07.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-12.
 // Unknown fields are honestly marked, never invented.
 const CTPRODUCTS = [
  {
@@ -62,6 +62,7 @@ const CTPRODUCTS = [
    "format:foam",
    "format:wash",
    "ing:ceramides",
+   "ing:polyglutamic-acid",
    "claim:acne",
    "claim:oil-control",
    "claim:exfoliating",
@@ -722,7 +723,7 @@ const CTPRODUCTS = [
  {
   "id": "chemist-at-play-itm2ce80643a03b7",
   "brand": "Chemist at Play",
-  "model": "Exfoliating Bathing Bar | AHA, Walnut, Rice | Det …",
+  "model": "Exfoliating Bathing Bar | AHA, Walnut, Rice | Detans & Brightens | pH 5.5 Soap",
   "price": 206,
   "capacityLine": "Quantity not stated",
   "materialLine": "rice water + walnut",
@@ -748,7 +749,7 @@ const CTPRODUCTS = [
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
-   "benefit": "Not stated in listing",
+   "benefit": "Brightening/glow claim",
    "audience": "Unisex / not stated",
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
@@ -772,14 +773,17 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/chemist-play-exfoliating-bathing-bar-aha-walnut-rice-detans-brightens-ph-5-5-soap/p/itm2ce80643a03b7",
   "buyStore": "Flipkart",
-  "title": "Chemist at Play Exfoliating Bathing Bar | AHA, Walnut, Rice | Det …",
+  "title": "Chemist at Play Exfoliating Bathing Bar | AHA, Walnut, Rice | Detans & Brightens | pH 5.5 Soap",
   "tags": [
    "scope:unstated",
    "format:bar",
    "ing:aha",
    "ing:rice-water",
    "ing:walnut",
+   "claim:brightening",
+   "claim:de-tan",
    "claim:exfoliating",
+   "free:ph-balanced",
    "aud:unisex",
    "rating:4.5",
    "store:flipkart",
@@ -1033,6 +1037,110 @@ const CTPRODUCTS = [
     "url": "https://thesirona.com/"
    },
    "buyers": "4.2★ from 16,137 ratings"
+  }
+ },
+ {
+  "id": "the-plant-fix-plix-itmb7d8532d225fe",
+  "brand": "The Plant Fix Plix",
+  "model": "Pineapple PHA 3% Alcohol Free Face Toner for Pore Tightening & Mild Exfoliation Men & Wome…",
+  "price": 348,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "PHA",
+  "featureLine": "Scrub / exfoliant · Alcohol-free",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "Well-reviewed: 4.4★ from 2,110 ratings"
+  ],
+  "cons": [
+   "No ingredient list published on the listing"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6,
+   "experience": 7.9
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "PHA (per listing)",
+   "freeFrom": "Alcohol-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.4/5 (2,110 ratings, Flipkart)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Marico (Plix) — Established / listed Indian FMCG house",
+   "declaredManufacturer": "HCP WELLNESS PVT LTD. (as printed on the Flipkart listing — not scored)",
+   "buyerEvidence": "4.4★ from 2,110 ratings"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/2/c/l/150-0-pineapple-pha-3-alcohol-free-face-toner-for-pore-original-imaherua4bhgbads.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/q/i/u/150-0-pineapple-pha-3-alcohol-free-face-toner-for-pore-original-imaheruajnkv2zwg.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/3/d/x/150-0-pineapple-pha-3-alcohol-free-face-toner-for-pore-original-imaheruagnpdcxt4.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/l/s/m/150-0-pineapple-pha-3-alcohol-free-face-toner-for-pore-original-imaheruamhrhfkb4.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/h/s/p/150-0-pineapple-pha-3-alcohol-free-face-toner-for-pore-original-imaheruavwutypg7.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/plant-fix-plix-pineapple-pha-3-alcohol-free-face-toner-pore-tightening-mild-exfoliation-men-women/p/itmb7d8532d225fe",
+  "buyStore": "Flipkart",
+  "title": "The Plant Fix Plix Pineapple PHA 3% Alcohol Free Face Toner for Pore Tightening & Mild Exfoliation Men & Women",
+  "tags": [
+   "scope:face",
+   "format:toner",
+   "ing:pha",
+   "claim:pores",
+   "claim:exfoliating",
+   "free:alcohol",
+   "aud:women",
+   "rating:4.0",
+   "store:flipkart",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Marico (Plix)",
+    "kind": "india",
+    "label": "Established / listed Indian FMCG house",
+    "pts": 6,
+    "url": "https://marico.com/india/brands"
+   },
+   "buyers": "4.4★ from 2,110 ratings"
   }
  },
  {
@@ -1293,7 +1401,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Heavenly Secrets — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.1★ from 36,255 ratings"
+   "buyerEvidence": "4.1★ from 36,255 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/p/c/c/-original-imahq95jphfjru8w.jpeg?q=90",
@@ -1310,6 +1419,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:peel",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
    "ing:lactic-acid",
@@ -1410,7 +1520,8 @@ const CTPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — zinc pca #7 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — zinc pca #7 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/t/d/s/30-salicylic-acid-02-face-serum-exfoliating-clarifying-care-for-original-imahhfzz9xctdpxh.jpeg?q=90",
@@ -1428,6 +1539,7 @@ const CTPRODUCTS = [
    "format:pack",
    "format:powder",
    "format:wash",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:aloe-vera",
    "ing:zinc",
@@ -6029,114 +6141,6 @@ const CTPRODUCTS = [
    "actives": false,
    "freefrom": false,
    "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "phillauri-itm52c5679ec4b3b",
-  "brand": "Phillauri",
-  "model": "Coffee Face Polish Scrub For Smooth Refreshing Skin Car …",
-  "price": 199,
-  "capacityLine": "120 ml",
-  "materialLine": "caffeine",
-  "featureLine": "Scrub / exfoliant · ₹166/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "120 ml",
-   "pricePer100": "₹166/100ml",
-   "format": "Scrub / exfoliant",
-   "keyIngredients": "caffeine (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "All Skin Types",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-scrub/s/g/j/120-0-premium-coffee-exfoliating-scrub-for-daily-face-cleansing-original-imahnezharhtvbg4.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-scrub/7/s/g/120-0-coffee-face-scrub-scrub-for-men-women-hydrating-nourishing-original-imahneqfy4vnamyh.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-scrub/c/g/8/120-0-coffee-face-scrub-scrub-for-men-women-hydrating-nourishing-original-imahneqfhzfj8ghw.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-scrub/y/3/6/120-0-coffee-face-scrub-scrub-for-men-women-hydrating-nourishing-original-imahneqfyez6nhuu.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-scrub/u/z/z/60-0-coffee-face-scrub-scrub-for-men-women-hydrating-nourishing-original-imahneqftwgvsqpw.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/phillauri-coffee-face-polish-scrub-smooth-refreshing-skin-care/p/itm52c5679ec4b3b",
-  "buyStore": "Flipkart",
-  "title": "Phillauri Coffee Face Polish Scrub For Smooth Refreshing Skin Car …",
-  "tags": [
-   "scope:face",
-   "format:scrub",
-   "format:kit",
-   "ing:coffee",
-   "claim:pores",
-   "claim:hydrating",
-   "claim:exfoliating",
-   "claim:lightweight",
-   "claim:cooling",
-   "skin:all",
-   "aud:women",
-   "size:standard",
-   "rating:none",
-   "store:flipkart",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": false,
-   "natural": false,
    "derm": false,
    "men": false,
    "women": true,
@@ -19456,6 +19460,7 @@ const CTPRODUCTS = [
    "claim:oil-control",
    "claim:hydrating",
    "claim:exfoliating",
+   "claim:chapped-lips",
    "skin:dry",
    "skin:all",
    "free:vegan",
@@ -19989,7 +19994,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Oriflame Cosmetics — Global FMCG or beauty group",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/0/q/h/75-pure-skin-smoothing-face-scrub-oriflame-cream-original-imahkwz3uschygn2.jpeg?q=90",
@@ -20009,6 +20015,7 @@ const CTPRODUCTS = [
    "format:pack",
    "format:scrub",
    "format:wash",
+   "water:unstated",
    "ing:green-tea",
    "ing:clay",
    "ing:glycerin",
@@ -20895,7 +20902,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/scrub/l/t/q/100-face-and-body-cleansing-scrub-gel-for-women-men-arcanuy-original-imahfrg7kdgyz3w3.jpeg?q=90",
@@ -20914,6 +20922,7 @@ const CTPRODUCTS = [
    "format:peel",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:walnut",
    "ing:vitamin-e",
    "ing:strawberry",
@@ -21226,7 +21235,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/u/j/100-0-purifying-exfoliating-face-gel-for-deep-cleansing-gentle-original-imahzgjen29w77ja.jpeg?q=90",
@@ -21247,6 +21257,7 @@ const CTPRODUCTS = [
    "format:peel",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "claim:brightening",
    "claim:hydrating",
    "claim:exfoliating",
@@ -21520,7 +21531,7 @@ const CTPRODUCTS = [
  {
   "id": "skinvest-itmd62a4eefa23a2",
   "brand": "Skinvest",
-  "model": "Resurface Anti-Tan Peeling Gel with Lactic Acid & Soothi …",
+  "model": "Resurface Anti-Tan Peeling Gel with Lactic Acid & Soothing botanicals",
   "price": 480,
   "capacityLine": "100 g",
   "materialLine": "lactic acid + rose + clay/mud",
@@ -21571,7 +21582,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/skinvest-resurface-anti-tan-peeling-gel-lactic-acid-soothing-botanicals/p/itmd62a4eefa23a2",
   "buyStore": "Flipkart",
-  "title": "Skinvest Resurface Anti-Tan Peeling Gel with Lactic Acid & Soothi …",
+  "title": "Skinvest Resurface Anti-Tan Peeling Gel with Lactic Acid & Soothing botanicals",
   "tags": [
    "scope:face",
    "format:gel",
@@ -22947,7 +22958,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/kmi2g7k0/combo-kit/d/8/q/100-pure-natural-aloe-vera-peeling-gel-aloe-vera-face-wash-200ml-original-imagfdvuthzvjzv5.jpeg?q=90",
@@ -22971,6 +22983,7 @@ const CTPRODUCTS = [
    "format:kit",
    "spf:50+",
    "pa:++++",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:aloe-vera",
    "ing:rose",
@@ -23503,7 +23516,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/kmi2g7k0/combo-kit/q/0/s/100-pure-natural-aloe-vera-peeling-gel-aloe-vera-cleansing-milk-original-imagfdvu4pfjnruv.jpeg?q=90",
@@ -23528,6 +23542,7 @@ const CTPRODUCTS = [
    "format:kit",
    "spf:50+",
    "pa:++++",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:coffee",
    "ing:aloe-vera",
@@ -24091,6 +24106,7 @@ const CTPRODUCTS = [
    "claim:whitening-claim",
    "claim:pores",
    "claim:exfoliating",
+   "claim:chapped-lips",
    "skin:all",
    "aud:women",
    "size:standard",
@@ -24197,6 +24213,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:whitening-claim",
    "claim:exfoliating",
+   "claim:chapped-lips",
    "skin:all",
    "aud:women",
    "size:standard",
@@ -24360,7 +24377,7 @@ const CTPRODUCTS = [
  {
   "id": "skinvest-itm8d367df551f9e",
   "brand": "Skinvest",
-  "model": "Resurface Anti-Tan Peeling Gel with Lactic Acid Pack of …",
+  "model": "Resurface Anti-Tan Peeling Gel with Lactic Acid Pack of 2 | 70g x 2",
   "price": 719,
   "capacityLine": "140 g (pack of 2)",
   "materialLine": "lactic acid",
@@ -24411,7 +24428,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/skinvest-resurface-anti-tan-peeling-gel-lactic-acid-pack-2-70g-x/p/itm8d367df551f9e",
   "buyStore": "Flipkart",
-  "title": "Skinvest Resurface Anti-Tan Peeling Gel with Lactic Acid Pack of …",
+  "title": "Skinvest Resurface Anti-Tan Peeling Gel with Lactic Acid Pack of 2 | 70g x 2",
   "tags": [
    "scope:unstated",
    "format:gel",
@@ -26795,6 +26812,7 @@ const CTPRODUCTS = [
    "format:scrub",
    "format:peel",
    "format:wash",
+   "format:cleansing-oil",
    "ing:vitamin-c",
    "claim:brightening",
    "claim:de-tan",
@@ -27698,6 +27716,7 @@ const CTPRODUCTS = [
    "claim:de-tan",
    "claim:hydrating",
    "claim:exfoliating",
+   "claim:chapped-lips",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -28212,7 +28231,8 @@ const CTPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — panthenol #10 on INCI (matching only — not proof it works)"
+   "concernBasis": "Irritation — panthenol #10 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/a/n/u/60-aha-bha-pha-face-serum-for-exfoliation-acne-control-smoother-original-imahfez7j4yahdzy.jpeg?q=90",
@@ -28230,6 +28250,7 @@ const CTPRODUCTS = [
    "format:pack",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:aha",
    "ing:pha",
@@ -28544,7 +28565,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.6★ from 9 ratings"
+   "buyerEvidence": "3.6★ from 9 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/s/j/g/30-aha-bha-exfoliating-serum-for-skin-brightening-pore-refining-original-imahg2gvkus3u4bb.jpeg?q=90",
@@ -28560,6 +28582,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:aha",
    "claim:brightening",
@@ -28655,7 +28678,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/5/l/5/30-exfoliating-face-serum-with-glycolic-and-salicylic-acid-aha-original-imahm56avjwnkxya.jpeg?q=90",
@@ -28673,6 +28697,7 @@ const CTPRODUCTS = [
    "format:pack",
    "format:peel",
    "format:wash",
+   "water:unstated",
    "ing:retinol",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
@@ -28775,7 +28800,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/k/v/c/30-oily-skin-advanced-aha-bha-face-serum-exfoliating-peeling-original-imahm45qgvazrdyf.jpeg?q=90",
@@ -28792,6 +28818,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:peel",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:aha",
    "claim:brightening",
@@ -28888,7 +28915,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/m/2/i/60-10-aha-1-bha-face-serum-for-glowing-skin-exfoliating-pore-original-imahm58unqphdxga.jpeg?q=90",
@@ -28905,6 +28933,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:aha",
    "claim:brightening",
@@ -29002,7 +29031,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/4/l/a/30-advanced-face-serum-for-oily-skin-exfoliating-aha-bha-face-original-imahm55zdy3my9mh.jpeg?q=90",
@@ -29018,6 +29048,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:aha",
    "claim:brightening",
@@ -29115,7 +29146,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/j/k/l/30-brightening-and-glowing-skin-aha-bha-face-serum-exfoliating-original-imahm45j9vsfnqgk.jpeg?q=90",
@@ -29131,6 +29163,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:aha",
    "claim:brightening",
@@ -29227,7 +29260,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/n/i/p/30-10-aha-1-bha-face-serum-for-glowing-skin-chemical-exfoliant-original-imahhwzmtj5r4nrf.jpeg?q=90",
@@ -29243,6 +29277,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:aha",
    "claim:brightening",
@@ -29516,7 +29551,7 @@ const CTPRODUCTS = [
  {
   "id": "acnestar-itmbbaaba734244a",
   "brand": "acnestar",
-  "model": "Anti-Acne Exfoliating Face Serum AHA, BHA & Niacinamide, …",
+  "model": "Anti-Acne Exfoliating Face Serum AHA, BHA & Niacinamide, 30 ml x 3",
   "price": 1046,
   "capacityLine": "30 ml",
   "materialLine": "niacinamide + salicylic acid (BHA)",
@@ -29565,7 +29600,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/acnestar-anti-acne-exfoliating-face-serum-aha-bha-niacinamide-30-ml-x-3/p/itmbbaaba734244a",
   "buyStore": "Flipkart",
-  "title": "acnestar Anti-Acne Exfoliating Face Serum AHA, BHA & Niacinamide, …",
+  "title": "acnestar Anti-Acne Exfoliating Face Serum AHA, BHA & Niacinamide, 30 ml x 3",
   "tags": [
    "scope:face",
    "format:serum",
@@ -29849,7 +29884,7 @@ const CTPRODUCTS = [
  {
   "id": "scientistry-itmb60fb9f441fc3",
   "brand": "Scientistry",
-  "model": "AHA BHA PHA Exfoliating Serum|Glycolic,Lactic,Salicyl …",
+  "model": "AHA BHA PHA Exfoliating Serum|Glycolic,Lactic,Salicylic Acid & Gluconolactone",
   "price": 319,
   "capacityLine": "30 ml",
   "materialLine": "salicylic acid (BHA) + glycolic acid + lactic acid",
@@ -29901,7 +29936,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/scientistry-aha-bha-pha-exfoliating-serum-glycolic-lactic-salicylic-acid-gluconolactone/p/itmb60fb9f441fc3",
   "buyStore": "Flipkart",
-  "title": "Scientistry AHA BHA PHA Exfoliating Serum|Glycolic,Lactic,Salicyl …",
+  "title": "Scientistry AHA BHA PHA Exfoliating Serum|Glycolic,Lactic,Salicylic Acid & Gluconolactone",
   "tags": [
    "scope:face",
    "format:serum",
@@ -30002,7 +30037,7 @@ const CTPRODUCTS = [
  {
   "id": "skinaa-itmced0be0586021",
   "brand": "SKINAA",
-  "model": "AHA BHA PHA Exfoliating Face Serum with 2% Salicylic Acid …",
+  "model": "AHA BHA PHA Exfoliating Face Serum with 2% Salicylic Acid for Acne Control",
   "price": 646,
   "capacityLine": "30 ml",
   "materialLine": "salicylic acid (BHA) + lactic acid + PHA",
@@ -30052,7 +30087,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/skinaa-aha-bha-pha-exfoliating-face-serum-2-salicylic-acid-acne-control/p/itmced0be0586021",
   "buyStore": "Flipkart",
-  "title": "SKINAA AHA BHA PHA Exfoliating Face Serum with 2% Salicylic Acid …",
+  "title": "SKINAA AHA BHA PHA Exfoliating Face Serum with 2% Salicylic Acid for Acne Control",
   "tags": [
    "scope:face",
    "format:serum",
@@ -30158,7 +30193,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.6★ from 5 ratings"
+   "buyerEvidence": "4.6★ from 5 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/0/0/a/60-25-aha-2-bha-5-pha-peeling-solution-exfoliating-serum-for-original-imahmpg8nw7nd3fc.jpeg?q=90",
@@ -30176,6 +30212,7 @@ const CTPRODUCTS = [
    "format:pack",
    "format:peel",
    "format:wash",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
    "ing:lactic-acid",
@@ -30279,7 +30316,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/o/i/i/30-35-aha-bha-pha-face-serum-peeling-solution-exfoliation-original-imahzhjqgwqhzek5.jpeg?q=90",
@@ -30296,6 +30334,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:peel",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:aha",
    "ing:pha",
@@ -30394,7 +30433,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/t/b/9/30-10-aha-2-bha-exfoliating-face-serum-for-glowing-skin-pore-original-imahm7hpkubw9ssa.jpeg?q=90",
@@ -30413,6 +30453,7 @@ const CTPRODUCTS = [
    "format:peel",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
    "ing:aha",
@@ -30474,7 +30515,7 @@ const CTPRODUCTS = [
  {
   "id": "the-facecraft-project-itm35062fe1bbd39",
   "brand": "the facecraft project",
-  "model": "AHA,PHA Salicylic Exfoliating Serum for Acn …",
+  "model": "AHA,PHA Salicylic Exfoliating Serum for Acne Marks| Pigmentation| Texture & Glow",
   "price": 1439,
   "capacityLine": "30 ml",
   "materialLine": "bakuchiol + salicylic acid (BHA) + PHA",
@@ -30524,7 +30565,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/facecraft-project-aha-pha-salicylic-exfoliating-serum-acne-marks-pigmentation-texture-glow/p/itm35062fe1bbd39",
   "buyStore": "Flipkart",
-  "title": "the facecraft project AHA,PHA Salicylic Exfoliating Serum for Acn …",
+  "title": "the facecraft project AHA,PHA Salicylic Exfoliating Serum for Acne Marks| Pigmentation| Texture & Glow",
   "tags": [
    "scope:face",
    "format:serum",
@@ -30744,7 +30785,8 @@ const CTPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.8★ from 4 ratings",
-   "concernBasis": "Acne — niacinamide #5 on INCI, salicylic acid #12 on INCI; Dark spots — niacinamide #5 on INCI; Irritation — panthenol #9 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #5 on INCI, salicylic acid #12 on INCI; Dark spots — niacinamide #5 on INCI; Irritation — panthenol #9 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/s/j/o/30-12-aha-bha-night-exfoliating-serum-for-smooth-skin-pore-original-imahmqgkhf2hsxtw.jpeg?q=90",
@@ -30760,6 +30802,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:aha",
    "claim:brightening",
@@ -30964,7 +31007,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/e/r/p/30-best-acne-prone-skin-aha-bha-face-serum-deep-exfoliation-face-original-imahm463vrsnmfu6.jpeg?q=90",
@@ -30980,6 +31024,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -31198,7 +31243,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/j/f/9/30-aha-30-bha-2-peeling-solution-for-glowing-skin-aha-bha-original-imahqdn5mx8gpru3.jpeg?q=90",
@@ -31216,6 +31262,7 @@ const CTPRODUCTS = [
    "format:pack",
    "format:peel",
    "format:wash",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:aha",
@@ -31493,7 +31540,7 @@ const CTPRODUCTS = [
  {
   "id": "underated-itm86393ebc15617",
   "brand": "Underated",
-  "model": "25% AHA 2% BHA 5% PHA Peeling Solution (60 g)",
+  "model": "25% AHA 2% BHA 5% PHA Peeling Solution",
   "price": 500,
   "capacityLine": "60 g",
   "materialLine": "salicylic acid (BHA) + PHA",
@@ -31546,7 +31593,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/underated-25-aha-2-bha-5-pha-peeling-solution/p/itm86393ebc15617",
   "buyStore": "Flipkart",
-  "title": "UNDERATED 25% AHA 2% BHA 5% PHA Peeling Solution (60 g)",
+  "title": "UNDERATED 25% AHA 2% BHA 5% PHA Peeling Solution",
   "tags": [
    "scope:face",
    "format:serum",
@@ -31892,7 +31939,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/q/q/9/30-exfoliating-aha-bha-serum-brightens-skin-unclogs-pores-30-ml-original-imahh3ztbxr97kab.jpeg?q=90"
@@ -31904,6 +31952,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
    "ing:lactic-acid",
@@ -32279,7 +32328,7 @@ const CTPRODUCTS = [
  {
   "id": "bare-peel-itm1d9ba0329d47b",
   "brand": "Bare Peel",
-  "model": "Bare Peel AHA 30% + BHA 2% + PHA 3% Peeling Solution | …",
+  "model": "Bare Peel AHA 30% + BHA 2% + PHA 3% Peeling Solution | 10-Min Facial Exfoliator for Glowin…",
   "price": 400,
   "capacityLine": "30 ml",
   "materialLine": "salicylic acid (BHA) + PHA + centella/cica",
@@ -32317,7 +32366,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/5/0/q/30-bare-peel-aha-30-bha-2-pha-3-peeling-solution-10-min-facial-original-imahn5bn52qjrpbd.jpeg?q=90",
@@ -32328,7 +32378,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/bare-peel-aha-30-bha-2-pha-3-peeling-solution-10-min-facial-exfoliator-glowing-skin-acne-marks-open-pores/p/itm1d9ba0329d47b",
   "buyStore": "Flipkart",
-  "title": "Bare Peel Bare Peel AHA 30% + BHA 2% + PHA 3% Peeling Solution | …",
+  "title": "Bare Peel Bare Peel AHA 30% + BHA 2% + PHA 3% Peeling Solution | 10-Min Facial Exfoliator for Glowing Skin, Acne Marks & Open Pores",
   "tags": [
    "scope:face",
    "format:serum",
@@ -32336,6 +32386,7 @@ const CTPRODUCTS = [
    "format:peel",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:aha",
    "ing:pha",
@@ -32552,7 +32603,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.8★ from 45 ratings"
+   "buyerEvidence": "3.8★ from 45 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/t/u/l/30-28-aha-bha-pha-peeling-solution-makes-skin-glow-and-cleanses-original-imah3h8paznfgxuk.jpeg?q=90",
@@ -32569,6 +32621,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:peel",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
    "ing:lactic-acid",
@@ -32667,7 +32720,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/w/y/k/30-advanced-10-aha-1-bha-peeling-solution-potent-glycolic-and-original-imahm47eb5vh6gar.jpeg?q=90",
@@ -32685,12 +32739,14 @@ const CTPRODUCTS = [
    "format:pack",
    "format:peel",
    "format:wash",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
    "ing:aha",
    "ing:pha",
    "ing:peptides",
    "ing:collagen",
+   "ing:pdrn-polynucleotide",
    "claim:brightening",
    "claim:acne",
    "claim:pores",
@@ -32747,7 +32803,7 @@ const CTPRODUCTS = [
  {
   "id": "deconstruct-itm0219d3eb78253",
   "brand": "Deconstruct",
-  "model": "Exfoliating 18% AHA & 3% BHA PHA Serum Liposomal Tech …",
+  "model": "Exfoliating 18% AHA & 3% BHA PHA Serum Liposomal Technology for Face, Body Detan",
   "price": 553,
   "capacityLine": "Quantity not stated",
   "materialLine": "salicylic acid (BHA) + PHA",
@@ -32797,13 +32853,14 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/deconstruct-exfoliating-18-aha-3-bha-pha-serum-liposomal-technology-face-body-detan/p/itm0219d3eb78253",
   "buyStore": "Flipkart",
-  "title": "Deconstruct Exfoliating 18% AHA & 3% BHA PHA Serum Liposomal Tech …",
+  "title": "Deconstruct Exfoliating 18% AHA & 3% BHA PHA Serum Liposomal Technology for Face, Body Detan",
   "tags": [
-   "scope:unstated",
+   "scope:both",
    "format:serum",
    "ing:salicylic-acid-bha",
    "ing:aha",
    "ing:pha",
+   "claim:de-tan",
    "claim:exfoliating",
    "aud:unisex",
    "rating:4.5",
@@ -32889,7 +32946,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/1/u/k/30-30-aha-2-bha-d-panthenol-peeling-solution-for-acne-marks-glow-original-imahpby6snxbh2eg.jpeg?q=90",
@@ -32908,6 +32966,7 @@ const CTPRODUCTS = [
    "format:peel",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:aha",
    "ing:pha",
@@ -33030,6 +33089,7 @@ const CTPRODUCTS = [
    "ing:hyaluronic-acid",
    "ing:peptides",
    "ing:collagen",
+   "ing:pdrn-polynucleotide",
    "claim:brightening",
    "claim:dark-spots",
    "claim:anti-aging",
@@ -33193,7 +33253,7 @@ const CTPRODUCTS = [
  {
   "id": "earth-science-ayurveda-itm3259d46a36945",
   "brand": "Earth Science Ayurveda",
-  "model": "AHA BHA PHA Face Peeling Solution with Hya …",
+  "model": "AHA BHA PHA Face Peeling Solution with Hyaluronic Acid & Mandelic Acid",
   "price": 240,
   "capacityLine": "30 ml",
   "materialLine": "salicylic acid (BHA) + glycolic acid + lactic acid",
@@ -33230,7 +33290,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 60 ratings"
+   "buyerEvidence": "4.2★ from 60 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/body-skin-treatment/m/y/1/30-aha-bha-pha-face-peeling-solution-with-hyaluronic-acid-original-imaghhthkgbsntmq.jpeg?q=90",
@@ -33241,11 +33302,12 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/earth-science-ayurveda-aha-bha-pha-face-peeling-solution-hyaluronic-acid-mandelic/p/itm3259d46a36945",
   "buyStore": "Flipkart",
-  "title": "Earth Science Ayurveda AHA BHA PHA Face Peeling Solution with Hya …",
+  "title": "Earth Science Ayurveda AHA BHA PHA Face Peeling Solution with Hyaluronic Acid & Mandelic Acid",
   "tags": [
    "scope:face",
    "format:serum",
    "format:peel",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
    "ing:lactic-acid",
@@ -33466,7 +33528,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/r/0/i/30-organics-exfoliating-serum-for-complete-exfoliation-from-face-original-imahqfht6f8bupbt.jpeg?q=90"
@@ -33478,6 +33541,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "claim:exfoliating",
    "claim:ayurvedic",
    "skin:all",
@@ -33683,7 +33747,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/q/g/m/30-eraser-shot-exfoliating-face-serum-glycolic-acid-aha-bha-original-imahzqpvun5rgard.jpeg?q=90",
@@ -33700,6 +33765,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:retinal",
@@ -33709,6 +33775,7 @@ const CTPRODUCTS = [
    "ing:glutathione",
    "ing:vitamin-e",
    "ing:resveratrol",
+   "ing:nad-nmn",
    "claim:anti-aging",
    "claim:pores",
    "claim:oil-control",
@@ -33804,7 +33871,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/s/u/n/30-glycolic-acid-booster-serum-aha-bha-exfoliating-treatment-for-original-imahzqpundatjnhy.jpeg?q=90",
@@ -33821,6 +33889,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
    "ing:aha",
@@ -34030,7 +34099,7 @@ const CTPRODUCTS = [
  {
   "id": "zvizoro-itm19ca2cf9a89ff",
   "brand": "Zvizoro",
-  "model": "Aha Bha 10% Face Serum Face Exfoliator With lactic Acid R …",
+  "model": "Aha Bha 10% Face Serum Face Exfoliator With lactic Acid Radiant Youthful",
   "price": 160,
   "capacityLine": "30 ml",
   "materialLine": "salicylic acid (BHA) + lactic acid",
@@ -34078,7 +34147,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/zvizoro-aha-bha-10-face-serum-exfoliator-lactic-acid-radiant-youthful/p/itm19ca2cf9a89ff",
   "buyStore": "Flipkart",
-  "title": "Zvizoro Aha Bha 10% Face Serum Face Exfoliator With lactic Acid R …",
+  "title": "Zvizoro Aha Bha 10% Face Serum Face Exfoliator With lactic Acid Radiant Youthful",
   "tags": [
    "scope:face",
    "format:serum",
@@ -34522,7 +34591,7 @@ const CTPRODUCTS = [
  {
   "id": "bake-itma52a209659c2e",
   "brand": "Bake",
-  "model": "AHA BHA Serum Sheet Mask, Glycolic & Lactic Acid, Exfoliate …",
+  "model": "AHA BHA Serum Sheet Mask, Glycolic & Lactic Acid, Exfoliate & Blackhead Removal",
   "price": 220,
   "capacityLine": "20 ml",
   "materialLine": "salicylic acid (BHA) + glycolic acid + lactic acid",
@@ -34572,7 +34641,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/bake-aha-bha-serum-sheet-mask-glycolic-lactic-acid-exfoliate-blackhead-removal/p/itma52a209659c2e",
   "buyStore": "Flipkart",
-  "title": "BAKE AHA BHA Serum Sheet Mask, Glycolic & Lactic Acid, Exfoliate …",
+  "title": "BAKE AHA BHA Serum Sheet Mask, Glycolic & Lactic Acid, Exfoliate & Blackhead Removal",
   "tags": [
    "scope:unstated",
    "format:serum",
@@ -34785,7 +34854,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/7/q/p/30-aha-bha-exfoliating-serum-for-brightening-skin-clearing-pores-original-imahhb4rgqxmbnxn.jpeg?q=90",
@@ -34801,6 +34871,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
    "ing:lactic-acid",
@@ -34858,7 +34929,7 @@ const CTPRODUCTS = [
  {
   "id": "minimalist-itm7281d48216188",
   "brand": "Minimalist",
-  "model": "AHA 25% + BHA 2% + PHA 5% Peeling Solution for Glowing …",
+  "model": "AHA 25% + BHA 2% + PHA 5% Peeling Solution for Glowing Skin",
   "price": 284,
   "capacityLine": "10 ml",
   "materialLine": "salicylic acid (BHA) + PHA",
@@ -34909,7 +34980,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/minimalist-aha-25-bha-2-pha-5-peeling-solution-glowing-skin/p/itm7281d48216188",
   "buyStore": "Flipkart",
-  "title": "Minimalist AHA 25% + BHA 2% + PHA 5% Peeling Solution for Glowing …",
+  "title": "Minimalist AHA 25% + BHA 2% + PHA 5% Peeling Solution for Glowing Skin",
   "tags": [
    "scope:face",
    "format:serum",
@@ -35067,7 +35138,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/p/p/b/30-glycolic-acid-eraser-shot-serum-korean-exfoliating-face-serum-original-imahzqrwmmmc2x3n.jpeg?q=90",
@@ -35084,6 +35156,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
    "ing:aha",
@@ -35181,7 +35254,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/c/6/n/30-exfoliating-eraser-shot-serum-glycolic-acid-aha-bha-face-original-imahzqthfhspjhhh.jpeg?q=90",
@@ -35199,6 +35273,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:retinal",
@@ -35304,7 +35379,8 @@ const CTPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — panthenol #8 on INCI (matching only — not proof it works)"
+   "concernBasis": "Irritation — panthenol #8 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/j/d/w/80-aha-bha-niacinamide-dead-skin-exfoliating-care-for-all-skin-original-imahmhg5va4uffhy.jpeg?q=90",
@@ -35320,6 +35396,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:aha",
@@ -35735,7 +35812,8 @@ const CTPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — panthenol #8 on INCI (matching only — not proof it works)"
+   "concernBasis": "Irritation — panthenol #8 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/b/m/o/80-aha-bha-niacinamide-daily-gentle-exfoliating-solution-smooth-original-imahmhhtb33h99yf.jpeg?q=90",
@@ -35751,6 +35829,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:aha",
@@ -36067,7 +36146,7 @@ const CTPRODUCTS = [
  {
   "id": "dermora-itmd9fbf85015f43",
   "brand": "DERMORA",
-  "model": "Lactic Acid Exfoliating Face Serum, With For Smooth, Brig …",
+  "model": "Lactic Acid Exfoliating Face Serum, With For Smooth, Bright & Even Skin",
   "price": 440,
   "capacityLine": "30 ml",
   "materialLine": "lactic acid",
@@ -36115,7 +36194,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/dermora-lactic-acid-exfoliating-face-serum-smooth-bright-even-skin/p/itmd9fbf85015f43",
   "buyStore": "Flipkart",
-  "title": "DERMORA Lactic Acid Exfoliating Face Serum, With For Smooth, Brig …",
+  "title": "DERMORA Lactic Acid Exfoliating Face Serum, With For Smooth, Bright & Even Skin",
   "tags": [
    "scope:face",
    "format:serum",
@@ -36444,7 +36523,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/m/r/j/30-30-aha-2-bha-peeling-solution-for-deep-cleaninsing-original-imahzxanczvnqnyj.jpeg?q=90",
@@ -36463,6 +36543,7 @@ const CTPRODUCTS = [
    "format:peel",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:aha",
    "claim:brightening",
@@ -38131,7 +38212,7 @@ const CTPRODUCTS = [
  {
   "id": "chemist-at-play-itm7d6c5bc0e333c",
   "brand": "Chemist at Play",
-  "model": "26% AHA 2% BHA 4% PHA Peeling Solution | Chemical …",
+  "model": "26% AHA 2% BHA 4% PHA Peeling Solution | Chemical Exfoliator For Face",
   "price": 419,
   "capacityLine": "30 ml",
   "materialLine": "salicylic acid (BHA) + PHA",
@@ -38167,6 +38248,7 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
+   "declaredManufacturer": "Onesto Labs private Limited, Plot No 309, Sector 6 IMT Manesar, Manesar, Gurugram, Haryana, 122052 (as printed on the Flipkart listing — not scored)",
    "buyerEvidence": "4.1★ from 2,698 ratings"
   },
   "images": [
@@ -38178,7 +38260,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/chemist-play-26-aha-2-bha-4-pha-peeling-solution-chemical-exfoliator-face/p/itm7d6c5bc0e333c",
   "buyStore": "Flipkart",
-  "title": "Chemist at Play 26% AHA 2% BHA 4% PHA Peeling Solution | Chemical …",
+  "title": "Chemist at Play 26% AHA 2% BHA 4% PHA Peeling Solution | Chemical Exfoliator For Face",
   "tags": [
    "scope:face",
    "format:peel-off",
@@ -39357,7 +39439,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/2/i/u/252-aha-bha-exfoliating-body-lotion-with-coconut-oil-vitamin-e-original-imahha6gqpevkm9e.jpeg?q=90",
@@ -39376,6 +39459,7 @@ const CTPRODUCTS = [
    "format:lotion",
    "format:oil",
    "format:kit",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:aha",
    "ing:cucumber",
@@ -39898,7 +39982,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/n/a/g/1-glow-infusion-aha-bha-skin-exfoliating-serum-msglamour-cream-original-imahm46htwyrbp7m.jpeg?q=90",
@@ -39914,6 +39999,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:serum",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
@@ -41239,7 +41325,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.8★ from 4 ratings"
+   "buyerEvidence": "3.8★ from 4 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/y/b/n/50-dharthi-fashion-gentle-facial-exfoliator-cleanser-deep-original-imahjhu7g6xf4jey.jpeg?q=90",
@@ -41256,6 +41343,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:scrub",
    "format:wash",
+   "water:unstated",
    "claim:brightening",
    "claim:anti-aging",
    "claim:hydrating",
@@ -42457,7 +42545,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 222 ratings"
+   "buyerEvidence": "4★ from 222 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/4/e/u/7-aha-bha-exfoliating-bodywash-spf-50-bodylotion-for-smooth-original-imahd3hkep63vgyf.jpeg?q=90",
@@ -42473,6 +42562,7 @@ const CTPRODUCTS = [
    "scope:unstated",
    "format:kit",
    "spf:50",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:aha",
    "claim:brightening",
@@ -43962,6 +44052,111 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "yapidra-itmd56822c4fc9bd",
+  "brand": "Yapidra",
+  "model": "Triple-Acid Peeling Serum with 25% AHA, 2% BHA & 5% PHA – Deep Exfoliating Treatment for S…",
+  "price": 579,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "salicylic acid (BHA) + PHA",
+  "featureLine": "Scrub / exfoliant",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "salicylic acid (BHA), PHA (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/t/o/8/30-triple-acid-peeling-serum-with-25-aha-2-bha-5-pha-deep-original-imahem7gr7amkzrf.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/t/l/j/30-triple-acid-peeling-serum-with-25-aha-2-bha-5-pha-deep-original-imahem7gxmnjff5a.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/z/y/w/30-triple-acid-peeling-serum-with-25-aha-2-bha-5-pha-deep-original-imahem7gtngg6b4t.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/l/x/q/30-triple-acid-peeling-serum-with-25-aha-2-bha-5-pha-deep-original-imahem7gzycbnut4.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/o/z/v/30-triple-acid-peeling-serum-with-25-aha-2-bha-5-pha-deep-original-imahem7gzggx54tw.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/yapidra-triple-acid-peeling-serum-25-aha-2-bha-5-pha-deep-exfoliating-treatment-smooth-radiant-clear-skin-lightweight-fast-absorbing-formula/p/itmd56822c4fc9bd",
+  "buyStore": "Flipkart",
+  "title": "Yapidra Triple-Acid Peeling Serum with 25% AHA, 2% BHA & 5% PHA – Deep Exfoliating Treatment for Smooth, Radiant & Clear Skin | Lightweight & Fast-Absorbing Formula",
+  "tags": [
+   "scope:unstated",
+   "format:serum",
+   "format:peel",
+   "ing:salicylic-acid-bha",
+   "ing:aha",
+   "ing:pha",
+   "claim:exfoliating",
+   "claim:lightweight",
+   "aud:unisex",
+   "rating:none",
+   "store:flipkart",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
   "id": "erbali-itm0aaec6ba05d84",
   "brand": "Erbali",
   "model": "Exfoliating Body Wash with 7% AHA + BHA & Vitamin E (250 m …",
@@ -44084,7 +44279,7 @@ const CTPRODUCTS = [
  {
   "id": "trambex-itm1f3feaba152c9",
   "brand": "Trambex",
-  "model": "7% AHA BHA Exfoliating Body Wash | De-Tan Glycolic & Sali …",
+  "model": "7% AHA BHA Exfoliating Body Wash | De-Tan Glycolic & Salicylic Acid Shower Gel: Buy Trambe…",
   "price": 61,
   "capacityLine": "250 ml",
   "materialLine": "salicylic acid (BHA) + glycolic acid",
@@ -44133,7 +44328,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/trambex-7-aha-bha-exfoliating-body-wash-de-tan-glycolic-salicylic-acid-shower-gel/p/itm1f3feaba152c9",
   "buyStore": "Flipkart",
-  "title": "Trambex 7% AHA BHA Exfoliating Body Wash | De-Tan Glycolic & Sali …",
+  "title": "Trambex 7% AHA BHA Exfoliating Body Wash | De-Tan Glycolic & Salicylic Acid Shower Gel: Buy Trambex 7% AHA BHA Exfoliating Body Wash | De-Tan Glycolic & Salicylic Acid Shower Gel at Low",
   "tags": [
    "scope:body",
    "format:gel",
@@ -44308,7 +44503,7 @@ const CTPRODUCTS = [
  {
   "id": "fixderma-itme2dfdf81d0ff3",
   "brand": "Fixderma",
-  "model": "Dewrav 10% AHA 1% BHA Deep Exfoliating Body Lotion with …",
+  "model": "Dewrav 10% AHA 1% BHA Deep Exfoliating Body Lotion with Lactic & Salicylic Acid",
   "price": 536,
   "capacityLine": "200 ml",
   "materialLine": "salicylic acid (BHA) + lactic acid + colloidal oatmeal",
@@ -44358,7 +44553,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/fixderma-dewrav-10-aha-1-bha-deep-exfoliating-body-lotion-lactic-salicylic-acid/p/itme2dfdf81d0ff3",
   "buyStore": "Flipkart",
-  "title": "Fixderma Dewrav 10% AHA 1% BHA Deep Exfoliating Body Lotion with …",
+  "title": "Fixderma Dewrav 10% AHA 1% BHA Deep Exfoliating Body Lotion with Lactic & Salicylic Acid",
   "tags": [
    "scope:both",
    "format:lotion",
@@ -45358,10 +45553,10 @@ const CTPRODUCTS = [
  {
   "id": "be-bodywise-itme2906f5a64706",
   "brand": "Be Bodywise",
-  "model": "2% AHA BHA Exfoliating Body Wash | 1% Glycolic Acid, …",
+  "model": "2% AHA BHA Exfoliating Body Wash | 1% Glycolic Acid, 1% Lactic Acid | Shower Gel: Buy Be B…",
   "price": 126,
   "capacityLine": "Quantity not stated",
-  "materialLine": "salicylic acid (BHA) + glycolic acid",
+  "materialLine": "salicylic acid (BHA) + glycolic acid + lactic acid",
   "featureLine": "Scrub / exfoliant",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
@@ -45380,7 +45575,7 @@ const CTPRODUCTS = [
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
    "format": "Scrub / exfoliant",
-   "keyIngredients": "salicylic acid (BHA), glycolic acid (per listing)",
+   "keyIngredients": "salicylic acid (BHA), glycolic acid, lactic acid (per listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
@@ -45408,12 +45603,14 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/bodywise-2-aha-bha-exfoliating-body-wash-1-glycolic-acid-lactic-acid-shower-gel/p/itme2906f5a64706",
   "buyStore": "Flipkart",
-  "title": "Be Bodywise 2% AHA BHA Exfoliating Body Wash | 1% Glycolic Acid, …",
+  "title": "Be Bodywise 2% AHA BHA Exfoliating Body Wash | 1% Glycolic Acid, 1% Lactic Acid | Shower Gel: Buy Be Bodywise 2% AHA BHA Exfoliating Body Wash | 1% Glycolic Acid, 1% Lactic Acid | Shower Gel at Low",
   "tags": [
    "scope:body",
+   "format:gel",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
+   "ing:lactic-acid",
    "ing:aha",
    "claim:exfoliating",
    "aud:unisex",
@@ -45717,7 +45914,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 667 ratings"
+   "buyerEvidence": "4.2★ from 667 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/5/s/3/380-papaya-gel-dr-rashel-gel-original-imah8g73vtcgssft.jpeg?q=90",
@@ -45732,6 +45930,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:gel",
+   "water:unstated",
    "ing:papaya",
    "ing:glycerin",
    "claim:brightening",
@@ -46668,6 +46867,178 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "dr-sheth-s-itm304d9a447b98a",
+  "brand": "Dr. Sheth's",
+  "model": "Tea Tree & Lactic Acid Body Lotion | Treats Body Acne, Exfoliating & Non Sticky",
+  "price": 80,
+  "capacityLine": "300 ml",
+  "materialLine": "lactic acid + tea tree",
+  "featureLine": "Scrub / exfoliant · ₹27/100ml",
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Dr. Sheth's official website (drsheths.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "lactic acid high on the INCI list (strong evidence); salicylic acid high on the INCI list (strong evidence)"
+  ],
+  "cons": [
+   "Essential oil / volatile sensitiser: tea tree oil"
+  ],
+  "scores": {
+   "ingredients": 7.5,
+   "skin": 9.8,
+   "trust": 8,
+   "experience": 7.6
+  },
+  "fullSpec": {
+   "quantity": "300 ml",
+   "pricePer100": "₹27/100ml",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "lactic acid, tea tree (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Acne/blemish claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.2/5 (4,920 ratings, Flipkart)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Dr. Sheth's official website (drsheths.com) — product page › Ingredients",
+   "inciSourceUrl": "https://drsheths.com/products/tea-tree-lactic-acid-body-lotion-300-ml",
+   "inciMatchedName": "Tea Tree & Lactic Acid Body Lotion - 300ml (name match 90%)",
+   "inciList": "DM Water, Lactic Acid, Ester of Ethyl Olivate & Olive Oil Methyl Ester (Kvosil-Nsp), Propylene Glycol, Light Liquid Paraffin , Glyceryl Stearate (and) PEG-100 Stearate (Arlacel 165), Dimethicone (DC 350), Glycerin, Glyceryl Mono stearate (SE), Cetyl Alcohol, Salicylic Acid, Liquorice (Mulethi) Extract, Imid Urea, Xanthan Gum, Lactokine Fluid, Chamomile Extract, Tea Tree Oil",
+   "evidenceActives": "lactic acid (#2 on list, strong evidence); salicylic acid (#11 on list, strong evidence)",
+   "safetyFlags": "Essential oil / volatile sensitiser: tea tree oil (−0.3)",
+   "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
+   "buyerEvidence": "4.2★ from 4,920 ratings",
+   "concernBasis": "Acne — salicylic acid #11 on INCI, melaleuca alternifolia leaf oil #17 on INCI (matching only — not proof it works)"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/k/e/300-tea-tree-lactic-acid-body-lotion-treats-body-acne-original-imahykh8gzhkfxa6.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/a/h/q/300-tea-tree-lactic-acid-body-lotion-helps-to-treat-body-acne-dr-original-imagw7z54mcpfb5p.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/5/z/x/300-tea-tree-lactic-acid-body-lotion-helps-to-treat-body-acne-dr-original-imagw7z5q5mzfyze.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/anti-ageing/1/n/n/30-rosehip-retinol-serum-for-aging-damaged-dull-skin-dr-sheth-s-original-imagf4b7hva6x5dw.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/x/m/u/200-0-tea-tree-lactic-acid-body-lotion-helps-to-reduce-body-acne-original-imaheqsfjgfffr4e.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/dr-sheths-tea-tree-lactic-acid-body-lotion-treats-acne-exfoliating-non-sticky/p/itm304d9a447b98a",
+  "buyStore": "Flipkart",
+  "title": "Dr. Sheth’s Tea Tree & Lactic Acid Body Lotion | Treats Body Acne, Exfoliating & Non Sticky",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "ing:lactic-acid",
+   "ing:tea-tree",
+   "claim:acne",
+   "claim:oil-control",
+   "claim:exfoliating",
+   "aud:unisex",
+   "size:xl",
+   "rating:4.0",
+   "store:flipkart",
+   "target:acne",
+   "inci:full",
+   "inci:brand-site"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Dr. Sheth's official website (drsheths.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://drsheths.com/products/tea-tree-lactic-acid-body-lotion-300-ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Tea Tree & Lactic Acid Body Lotion - 300ml",
+   "inciMatchScore": 0.9,
+   "inciText": "DM Water, Lactic Acid, Ester of Ethyl Olivate & Olive Oil Methyl Ester (Kvosil-Nsp), Propylene Glycol, Light Liquid Paraffin , Glyceryl Stearate (and) PEG-100 Stearate (Arlacel 165), Dimethicone (DC 350), Glycerin, Glyceryl Mono stearate (SE), Cetyl Alcohol, Salicylic Acid, Liquorice (Mulethi) Extract, Imid Urea, Xanthan Gum, Lactokine Fluid, Chamomile Extract, Tea Tree Oil",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 1,
+   "recognised": 0.94,
+   "actives": [
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "paraffinum liquidum",
+     "grade": "B",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 11,
+     "core": true,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "melaleuca alternifolia leaf oil",
+     "grade": "B",
+     "position": 17,
+     "core": false,
+     "trace": false,
+     "src": "teaTree"
+    }
+   ],
+   "support": [
+    "dimethicone",
+    "glycerin"
+   ],
+   "formulaNotes": [],
+   "flags": [
+    {
+     "id": "essentialOil",
+     "label": "Essential oil / volatile sensitiser",
+     "names": [
+      "tea tree oil"
+     ],
+     "penalty": 0.3,
+     "src": "acdsFragrance"
+    }
+   ],
+   "maker": {
+    "parent": "Honasa Consumer (listed)",
+    "kind": "india",
+    "label": "Established / listed Indian FMCG house",
+    "pts": 6,
+    "url": "https://honasa.in/brands"
+   },
+   "buyers": "4.2★ from 4,920 ratings"
+  }
+ },
+ {
   "id": "aqurea-itmfac5a56fef078",
   "brand": "Aqurea",
   "model": "10% Urea Moisturising & Exfoliating Cream for Dry Rough Th …",
@@ -46782,7 +47153,7 @@ const CTPRODUCTS = [
  {
   "id": "volamena-itmdc358219d0ee5",
   "brand": "Volamena",
-  "model": "Organics Tea Tree & lactic body Lotion For Exfoliates & …",
+  "model": "Organics Tea Tree & lactic body Lotion For Exfoliates & Improves skin Texture",
   "price": 122,
   "capacityLine": "200 ml",
   "materialLine": "lactic acid + tea tree",
@@ -46830,7 +47201,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/volamena-organics-tea-tree-lactic-body-lotion-exfoliates-improves-skin-texture/p/itmdc358219d0ee5",
   "buyStore": "Flipkart",
-  "title": "Volamena Organics Tea Tree & lactic body Lotion For Exfoliates & …",
+  "title": "Volamena Organics Tea Tree & lactic body Lotion For Exfoliates & Improves skin Texture",
   "tags": [
    "scope:both",
    "format:lotion",
@@ -47175,6 +47546,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:makeup",
+   "claim:chapped-lips",
    "skin:oily",
    "skin:combination",
    "skin:all",
@@ -47381,7 +47753,8 @@ const CTPRODUCTS = [
    "evidenceActives": "glycolic acid (#10 on list, strong evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 12 ratings"
+   "buyerEvidence": "4.2★ from 12 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/m/n/p/300-1-salicylic-acid-daily-exfoliating-body-lotion-dermease-original-imagzw4wmqh9aymr.jpeg?q=90",
@@ -47398,6 +47771,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:lotion",
    "format:body-wax",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
    "ing:cocoa-butter",
@@ -47740,7 +48114,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/skin-treatment/q/9/a/20-massa-skin-care-gel-with-1-salicylic-acid-exfoliating-gel-for-original-imahzw9t4xwyszbr.jpeg?q=90",
@@ -47754,6 +48129,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:cream",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "claim:exfoliating",
    "skin:all",
@@ -47844,7 +48220,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.9★ from 177 ratings"
+   "buyerEvidence": "3.9★ from 177 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/q/a/e/50-aha-bha-wart-removal-cream-50g-exfoliating-formula-for-smooth-original-imahmn7x6qyjyvmd.jpeg?q=90",
@@ -47861,6 +48238,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:oil",
    "format:kit",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
    "ing:aha",
@@ -48532,7 +48910,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/s/i/f/60-glowell-6-glycolic-acid-6-w-w-exfoliating-glow-cream-luxiva-original-imahjfcche6ygwgf.jpeg?q=90",
@@ -48549,6 +48928,7 @@ const CTPRODUCTS = [
    "format:gel",
    "format:cream",
    "spf:30",
+   "water:unstated",
    "ing:niacinamide",
    "ing:glycolic-acid",
    "claim:brightening",
@@ -48866,7 +49246,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 3 ratings"
+   "buyerEvidence": "4★ from 3 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/shopsy-moisturizer-cream/f/l/0/200-glycolic-acid-lactic-acid-exfoliating-body-lotion-for-smooth-original-imahq4tz8brmxyup.jpeg?q=90",
@@ -48882,6 +49263,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:lotion",
+   "water:unstated",
    "ing:glycolic-acid",
    "ing:lactic-acid",
    "ing:aha",
@@ -48941,7 +49323,7 @@ const CTPRODUCTS = [
  {
   "id": "amlactin-itm3c3c2f37ec093",
   "brand": "AmLactin",
-  "model": "With 7% Lactic Acid - Skin-Brightening Exfoliator And Mo …",
+  "model": "With 7% Lactic Acid - Skin-Brightening Exfoliator And Moisturizer",
   "price": 1997,
   "capacityLine": "225 g",
   "materialLine": "lactic acid",
@@ -48990,7 +49372,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/amlactin-7-lactic-acid-skin-brightening-exfoliator-moisturizer/p/itm3c3c2f37ec093",
   "buyStore": "Flipkart",
-  "title": "AmLactin With 7% Lactic Acid - Skin-Brightening Exfoliator And Mo …",
+  "title": "AmLactin With 7% Lactic Acid - Skin-Brightening Exfoliator And Moisturizer",
   "tags": [
    "scope:both",
    "format:lotion",
@@ -49384,7 +49766,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/c/b/e/200-care-forest-fern-aha-bha-4-in-1-exfoliating-body-moisturizer-original-imahgsa2b5rkpghd.jpeg?q=90",
@@ -49402,6 +49785,7 @@ const CTPRODUCTS = [
    "format:lotion",
    "spf:30",
    "pa:+",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:aha",
    "claim:exfoliating",
@@ -54913,7 +55297,8 @@ const CTPRODUCTS = [
    "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
    "safetyFlags": "Added fragrance (parfum): parfum (−0.8)",
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
-   "buyerEvidence": "4.5★ from 0 ratings"
+   "buyerEvidence": "4.5★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61V-A2S4K+L._AC_UL320_.jpg"
@@ -54926,6 +55311,8 @@ const CTPRODUCTS = [
    "format:balm",
    "format:scrub",
    "format:wash",
+   "format:cleansing-oil",
+   "water:unstated",
    "ing:strawberry",
    "claim:oil-control",
    "claim:makeup",
@@ -55954,15 +56341,16 @@ const CTPRODUCTS = [
   "capacityLine": "150 ml",
   "materialLine": "PHA",
   "featureLine": "Scrub / exfoliant · Alcohol-free · ₹253/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. Scored from its published INCI list (Amazon.in listing — Important information › Ingredients): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "gluconolactone high on the INCI list (moderate evidence); salicylic acid high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 7.2,
+   "skin": 10,
+   "trust": 8.5,
    "experience": 2.6
   },
   "fullSpec": {
@@ -55979,13 +56367,14 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.2/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Aqua (Water); Gluconolactone (3%); Niacinamide; Butylene Glycol; Methylpropanediol; Inulin; Lactococcus Ferment Lysate; Saccharide Isomerate; Cucumis Sativus (Cucumber) Fruit Extract; Xylitylglucoside; Anhydroxylitol; Xylitol; Salicylic Acid; Allantoin; Trehalose; Glycerin; Sodium Polyglutamate; Sodium Hyaluronate; Panthenol (Vitamin B5); Lysine; Histidine; Arginine; Aspartic Acid; Threonine; Serine; Glutamic Acid; Proline; Glycine; Alanine; Valine; Methionine; Isoleucine; Leucine; Tyrosine; Phenylalanine; Cysteine; Ethoxydiglycol; Trisodium Ethylenediamine Disuccinate; Phenoxyethanol; Ethylhexylglycerin; 1,2-Hexanediol; Citric Acid; Sodium Citrate",
+   "evidenceActives": "gluconolactone (#2 on list, moderate evidence); salicylic acid (#13 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #3 on INCI, salicylic acid #13 on INCI; Dark spots — niacinamide #3 on INCI; Irritation — panthenol #19 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/511npQ5KXaL._AC_UL320_.jpg"
@@ -56008,7 +56397,11 @@ const CTPRODUCTS = [
    "size:large",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
+   "inci:full",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -56017,25 +56410,96 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "listing",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
+   "inci": "full",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
-   "inciText": null,
+   "inciText": "Aqua (Water); Gluconolactone (3%); Niacinamide; Butylene Glycol; Methylpropanediol; Inulin; Lactococcus Ferment Lysate; Saccharide Isomerate; Cucumis Sativus (Cucumber) Fruit Extract; Xylitylglucoside; Anhydroxylitol; Xylitol; Salicylic Acid; Allantoin; Trehalose; Glycerin; Sodium Polyglutamate; Sodium Hyaluronate; Panthenol (Vitamin B5); Lysine; Histidine; Arginine; Aspartic Acid; Threonine; Serine; Glutamic Acid; Proline; Glycine; Alanine; Valine; Methionine; Isoleucine; Leucine; Tyrosine; Phenylalanine; Cysteine; Ethoxydiglycol; Trisodium Ethylenediamine Disuccinate; Phenoxyethanol; Ethylhexylglycerin; 1,2-Hexanediol; Citric Acid; Sodium Citrate",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.88,
+   "actives": [
+    {
+     "name": "gluconolactone",
+     "grade": "B",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 13,
+     "core": true,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 14,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 16,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 18,
+     "core": false,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 19,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 42,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    }
+   ],
+   "support": [
+    "niacinamide",
+    "butylene glycol",
+    "glycerin",
+    "sodium hyaluronate",
+    "panthenol"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -56262,15 +56726,16 @@ const CTPRODUCTS = [
   "capacityLine": "100 ml",
   "materialLine": "glycolic acid",
   "featureLine": "Scrub / exfoliant · ₹900/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (The Ordinary official website (theordinary.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycolic acid high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 7,
+   "skin": 10,
+   "trust": 8.5,
    "experience": 3.2
   },
   "fullSpec": {
@@ -56287,11 +56752,13 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.4/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "The Ordinary official website (theordinary.com) — product page › Ingredients",
+   "inciSourceUrl": "https://theordinary.com/en-in/glycolic-acid-7-exfoliating-toner-100418.html",
+   "inciMatchedName": "Glycolic Acid 7% Exfoliating Toner (name match 100%)",
+   "inciList": "Aqua (Water), Glycolic Acid, Rosa Damascena Flower Water, Centaurea Cyanus Flower Water, Aloe Barbadensis Leaf Water, Propanediol, Glycerin, Triethanolamine, Aminomethyl Propanol, Panax Ginseng Root Extract, Tasmannia Lanceolata Fruit/Leaf Extract, Aspartic Acid, Alanine, Glycine, Serine, Valine, Isoleucine, Proline, Threonine, Histidine, Phenylalanine, Glutamic Acid, Arginine, Pca, Sodium Pca, Sodium Lactate, Fructose, Glucose, Sucrose, Urea, Hexyl Nicotinate, Dextrin, Citric Acid, Polysorbate 20, Gellan Gum, Trisodium Ethylenediamine Disuccinate, Sodium Chloride, Hexylene Glycol, Potassium Sorbate, Sodium Benzoate, 1,2-Hexanediol, Caprylyl Glycol",
+   "evidenceActives": "glycolic acid (#2 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Estée Lauder Companies — Global FMCG or beauty group",
    "buyerEvidence": "4.4★ from 0 ratings"
   },
@@ -56311,7 +56778,9 @@ const CTPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -56320,25 +56789,79 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "The Ordinary official website (theordinary.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://theordinary.com/en-in/glycolic-acid-7-exfoliating-toner-100418.html",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Glycolic Acid 7% Exfoliating Toner",
+   "inciMatchScore": 1,
+   "inciText": "Aqua (Water), Glycolic Acid, Rosa Damascena Flower Water, Centaurea Cyanus Flower Water, Aloe Barbadensis Leaf Water, Propanediol, Glycerin, Triethanolamine, Aminomethyl Propanol, Panax Ginseng Root Extract, Tasmannia Lanceolata Fruit/Leaf Extract, Aspartic Acid, Alanine, Glycine, Serine, Valine, Isoleucine, Proline, Threonine, Histidine, Phenylalanine, Glutamic Acid, Arginine, Pca, Sodium Pca, Sodium Lactate, Fructose, Glucose, Sucrose, Urea, Hexyl Nicotinate, Dextrin, Citric Acid, Polysorbate 20, Gellan Gum, Trisodium Ethylenediamine Disuccinate, Sodium Chloride, Hexylene Glycol, Potassium Sorbate, Sodium Benzoate, 1,2-Hexanediol, Caprylyl Glycol",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycolic acid",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "sucrose",
+     "grade": "C",
+     "position": 29,
+     "core": false,
+     "trace": false,
+     "src": "aadScrub"
+    },
+    {
+     "name": "urea",
+     "grade": "A",
+     "position": 30,
+     "core": false,
+     "trace": false,
+     "src": "urea"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 33,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 37,
+     "core": false,
+     "trace": true,
+     "src": "aadScrub"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "glycerin",
+    "sodium pca",
+    "urea"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -56663,15 +57186,16 @@ const CTPRODUCTS = [
   "capacityLine": "240 ml",
   "materialLine": "glycolic acid",
   "featureLine": "Scrub / exfoliant · ₹473/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (The Ordinary official website (theordinary.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycolic acid high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 7,
+   "skin": 10,
+   "trust": 8.5,
    "experience": 3.2
   },
   "fullSpec": {
@@ -56688,11 +57212,13 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.4/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "The Ordinary official website (theordinary.com) — product page › Ingredients",
+   "inciSourceUrl": "https://theordinary.com/en-in/glycolic-acid-7-exfoliating-toner-100418.html",
+   "inciMatchedName": "Glycolic Acid 7% Exfoliating Toner (name match 100%)",
+   "inciList": "Aqua (Water), Glycolic Acid, Rosa Damascena Flower Water, Centaurea Cyanus Flower Water, Aloe Barbadensis Leaf Water, Propanediol, Glycerin, Triethanolamine, Aminomethyl Propanol, Panax Ginseng Root Extract, Tasmannia Lanceolata Fruit/Leaf Extract, Aspartic Acid, Alanine, Glycine, Serine, Valine, Isoleucine, Proline, Threonine, Histidine, Phenylalanine, Glutamic Acid, Arginine, Pca, Sodium Pca, Sodium Lactate, Fructose, Glucose, Sucrose, Urea, Hexyl Nicotinate, Dextrin, Citric Acid, Polysorbate 20, Gellan Gum, Trisodium Ethylenediamine Disuccinate, Sodium Chloride, Hexylene Glycol, Potassium Sorbate, Sodium Benzoate, 1,2-Hexanediol, Caprylyl Glycol",
+   "evidenceActives": "glycolic acid (#2 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Estée Lauder Companies — Global FMCG or beauty group",
    "buyerEvidence": "4.4★ from 0 ratings"
   },
@@ -56712,7 +57238,9 @@ const CTPRODUCTS = [
    "size:large",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -56721,25 +57249,79 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "The Ordinary official website (theordinary.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://theordinary.com/en-in/glycolic-acid-7-exfoliating-toner-100418.html",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Glycolic Acid 7% Exfoliating Toner",
+   "inciMatchScore": 1,
+   "inciText": "Aqua (Water), Glycolic Acid, Rosa Damascena Flower Water, Centaurea Cyanus Flower Water, Aloe Barbadensis Leaf Water, Propanediol, Glycerin, Triethanolamine, Aminomethyl Propanol, Panax Ginseng Root Extract, Tasmannia Lanceolata Fruit/Leaf Extract, Aspartic Acid, Alanine, Glycine, Serine, Valine, Isoleucine, Proline, Threonine, Histidine, Phenylalanine, Glutamic Acid, Arginine, Pca, Sodium Pca, Sodium Lactate, Fructose, Glucose, Sucrose, Urea, Hexyl Nicotinate, Dextrin, Citric Acid, Polysorbate 20, Gellan Gum, Trisodium Ethylenediamine Disuccinate, Sodium Chloride, Hexylene Glycol, Potassium Sorbate, Sodium Benzoate, 1,2-Hexanediol, Caprylyl Glycol",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycolic acid",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "sucrose",
+     "grade": "C",
+     "position": 29,
+     "core": false,
+     "trace": false,
+     "src": "aadScrub"
+    },
+    {
+     "name": "urea",
+     "grade": "A",
+     "position": 30,
+     "core": false,
+     "trace": false,
+     "src": "urea"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 33,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 37,
+     "core": false,
+     "trace": true,
+     "src": "aadScrub"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "glycerin",
+    "sodium pca",
+    "urea"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -58949,15 +59531,15 @@ const CTPRODUCTS = [
   "capacityLine": "100 ml",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Scrub / exfoliant · ₹1500/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (The Ordinary official website (theordinary.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 3.7,
+   "skin": 10,
+   "trust": 8.5,
    "experience": 3.8
   },
   "fullSpec": {
@@ -58974,11 +59556,13 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.6/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "The Ordinary official website (theordinary.com) — product page › Ingredients",
+   "inciSourceUrl": "https://theordinary.com/en-in/saccharomyces-ferment-30-milky-toner-100647.html",
+   "inciMatchedName": "Saccharomyces Ferment 30% Milky Toner (name match 100%)",
+   "inciList": "Aqua (Water), Yeast Extract, Squalane, Lauryl Glucoside, Myristyl Glucoside, Polyglyceryl-6 Laurate, Isoceteth-20, Trisodium Ethylenediamine Disuccinate, Citric Acid, Sodium Citrate, Sodium Hydroxide, Phenoxyethanol, Chlorphenesin",
+   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Estée Lauder Companies — Global FMCG or beauty group",
    "buyerEvidence": "4.6★ from 0 ratings"
   },
@@ -58997,7 +59581,9 @@ const CTPRODUCTS = [
    "size:standard",
    "rating:4.5",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": false,
@@ -59006,25 +59592,44 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "The Ordinary official website (theordinary.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://theordinary.com/en-in/saccharomyces-ferment-30-milky-toner-100647.html",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Saccharomyces Ferment 30% Milky Toner",
+   "inciMatchScore": 1,
+   "inciText": "Aqua (Water), Yeast Extract, Squalane, Lauryl Glucoside, Myristyl Glucoside, Polyglyceryl-6 Laurate, Isoceteth-20, Trisodium Ethylenediamine Disuccinate, Citric Acid, Sodium Citrate, Sodium Hydroxide, Phenoxyethanol, Chlorphenesin",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.92,
+   "actives": [
+    {
+     "name": "squalane",
+     "grade": "B",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 9,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    }
+   ],
+   "support": [
+    "squalane"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -63023,15 +63628,18 @@ const CTPRODUCTS = [
   "capacityLine": "100 ml",
   "materialLine": "mandelic acid + walnut",
   "featureLine": "Scrub / exfoliant · ₹299/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. Scored from its published INCI list (Amazon.in listing — Important information › Ingredients): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "lactobionic acid high on the INCI list (moderate evidence); mandelic acid high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): fragrance",
+   "Hard abrasive particles (face): juglans regia shell powder"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 4,
+   "skin": 7.6,
+   "trust": 7,
    "experience": 2.6
   },
   "fullSpec": {
@@ -63048,11 +63656,11 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.2/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Purified Water, Sorbitol, Sodium Lauroamphoacetate, Sodium C14-16 Olefin Sulfonate, Juglans Regia (Walnut) Shell Powder, Propylene Glycol, Cocamidopropyl Betaine, Fragrance, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Lactobionic Acid, Mandelic Acid, Citrus Limon (Pink Lemon) Fruit Extract, Oryza Sativa (Rice) Extract, Butyrospermum Parkii (Shea) Butter, 1-2 Hexanediol, Euterpe Oleracea (Acai Berry) Pulp Powder, PEG-40 Hydrogenated Castor Oil, Perlite, Xanthan Gum, Disodium EDTA, Phenoxyethanol, PEG 45M.",
+   "evidenceActives": "lactobionic acid (#10 on list, moderate evidence); mandelic acid (#11 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−0.8); Hard abrasive particles (face): juglans regia shell powder (−0.8)",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "buyerEvidence": "4.2★ from 0 ratings"
   },
@@ -63075,7 +63683,7 @@ const CTPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "inci:full"
   ],
   "filters": {
    "actives": true,
@@ -63084,27 +63692,89 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "listing",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
+   "inci": "full",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
-   "inciText": null,
+   "inciText": "Purified Water, Sorbitol, Sodium Lauroamphoacetate, Sodium C14-16 Olefin Sulfonate, Juglans Regia (Walnut) Shell Powder, Propylene Glycol, Cocamidopropyl Betaine, Fragrance, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Lactobionic Acid, Mandelic Acid, Citrus Limon (Pink Lemon) Fruit Extract, Oryza Sativa (Rice) Extract, Butyrospermum Parkii (Shea) Butter, 1-2 Hexanediol, Euterpe Oleracea (Acai Berry) Pulp Powder, PEG-40 Hydrogenated Castor Oil, Perlite, Xanthan Gum, Disodium EDTA, Phenoxyethanol, PEG 45M.",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 0.91,
+   "actives": [
+    {
+     "name": "juglans regia shell powder",
+     "grade": "C",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "aadScrub"
+    },
+    {
+     "name": "lactobionic acid",
+     "grade": "B",
+     "position": 10,
+     "core": true,
+     "trace": true,
+     "src": "aha"
+    },
+    {
+     "name": "mandelic acid",
+     "grade": "B",
+     "position": 11,
+     "core": true,
+     "trace": true,
+     "src": "aha"
+    },
+    {
+     "name": "oryza sativa extract",
+     "grade": "C",
+     "position": 13,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 14,
+     "core": false,
+     "trace": true,
+     "src": "petrolatum"
+    }
+   ],
+   "support": [
+    "butyrospermum parkii butter"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 0.8,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "abrasive",
+     "label": "Hard abrasive particles (face)",
+     "names": [
+      "juglans regia shell powder"
+     ],
+     "penalty": 0.8,
+     "src": "aadScrub"
+    }
+   ],
    "maker": {
     "parent": "Chemist at Play / Bodywise",
     "kind": "d2c",
@@ -99102,15 +99772,16 @@ const CTPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "salicylic acid (BHA) + PHA",
   "featureLine": "Scrub / exfoliant · ₹1497/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. Scored from its published INCI list (Amazon.in listing — Important information › Ingredients): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "mandelic acid high on the INCI list (moderate evidence); gluconolactone high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 7.9,
+   "skin": 9,
+   "trust": 7,
    "experience": 1.3
   },
   "fullSpec": {
@@ -99127,13 +99798,14 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "3.8/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Aqua, Water & Vaccinium Myrtillus Fruit/Leaf Extract & Saccharum Officinarum (Sugar Cane) Extract & Citrus Aurantium Dulcis (Orange) Fruit Extract & Citrus Limon (Lemon) Fruit Extract & Acer Saccharum (Sugar Maple) Extract, Aloe Vera Leaf Extract^, Propanediol, Mandelic Acid (and) Succinic Acid (and) Tartaric Acid, Water (and) Glycerin (and) Gluconolactone (and) Honey (and) Lactobionic Acid, Cocamidopropyl Dimethylamine, Salicylic Acid, Water, Polysorbate 80, Phenoxyethanol, Ethylhexylglycerin, Carthamus Tinctorius (Safflower) Seed Oil, Olea Europaea (Olive) Fruit Oil, Sodium Benzoate (and) Potassium Sorbate, Natural Betaine*, Lactic Acid, Xanthan Gum*, Dl-Panthenol, Sodium Gluconate*",
+   "evidenceActives": "mandelic acid (#5 on list, moderate evidence); gluconolactone (#10 on list, moderate evidence); lactobionic acid (#12 on list, moderate evidence); salicylic acid (#14 on list, strong evidence); lactic acid (#24 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "COSIQ — Indian D2C brand with its own product company",
-   "buyerEvidence": "3.8★ from 0 ratings"
+   "buyerEvidence": "3.8★ from 0 ratings",
+   "concernBasis": "Acne — salicylic acid #14 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/718o+IbLRkL._AC_UL320_.jpg"
@@ -99155,7 +99827,9 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:3.5",
    "store:amazon",
-   "inci:none"
+   "target:acne",
+   "inci:full",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -99164,25 +99838,86 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "listing",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
+   "inci": "full",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
-   "inciText": null,
+   "inciText": "Aqua, Water & Vaccinium Myrtillus Fruit/Leaf Extract & Saccharum Officinarum (Sugar Cane) Extract & Citrus Aurantium Dulcis (Orange) Fruit Extract & Citrus Limon (Lemon) Fruit Extract & Acer Saccharum (Sugar Maple) Extract, Aloe Vera Leaf Extract^, Propanediol, Mandelic Acid (and) Succinic Acid (and) Tartaric Acid, Water (and) Glycerin (and) Gluconolactone (and) Honey (and) Lactobionic Acid, Cocamidopropyl Dimethylamine, Salicylic Acid, Water, Polysorbate 80, Phenoxyethanol, Ethylhexylglycerin, Carthamus Tinctorius (Safflower) Seed Oil, Olea Europaea (Olive) Fruit Oil, Sodium Benzoate (and) Potassium Sorbate, Natural Betaine*, Lactic Acid, Xanthan Gum*, Dl-Panthenol, Sodium Gluconate*",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "mandelic acid",
+     "grade": "B",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "gluconolactone",
+     "grade": "B",
+     "position": 10,
+     "core": true,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "lactobionic acid",
+     "grade": "B",
+     "position": 12,
+     "core": true,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 14,
+     "core": true,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 24,
+     "core": true,
+     "trace": true,
+     "src": "aha"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 26,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "glycerin",
+    "panthenol"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -100513,12 +101248,12 @@ const CTPRODUCTS = [
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "No ingredient list published on the listing"
+   "Only 1 ingredient named — formula unscored"
   ],
   "scores": {
    "ingredients": 0,
    "skin": 0,
-   "trust": 6.5,
+   "trust": 6.8,
    "experience": 2.6
   },
   "fullSpec": {
@@ -100535,9 +101270,9 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.2/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: Exfoliant",
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
@@ -100561,7 +101296,7 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "inci:partial"
   ],
   "filters": {
    "actives": true,
@@ -100570,23 +101305,23 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
+   "inci": "partial",
    "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
    "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
+   "inciUnverified": "Exfoliant",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
    "declarationConfidence": null,
-   "recognised": null,
+   "recognised": 0,
    "actives": [],
    "support": [],
    "formulaNotes": [],
@@ -100609,15 +101344,16 @@ const CTPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "salicylic acid (BHA)",
   "featureLine": "Scrub / exfoliant · ₹3167/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (The Ordinary official website (theordinary.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycolic acid high on the INCI list (strong evidence); salicylic acid high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 9.4,
+   "skin": 10,
+   "trust": 8.5,
    "experience": 3.2
   },
   "fullSpec": {
@@ -100634,13 +101370,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.4/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "The Ordinary official website (theordinary.com) — product page › Ingredients",
+   "inciSourceUrl": "https://theordinary.com/en-in/aha-30-bha-2-peeling-solution-exfoliator-100400.html",
+   "inciMatchedName": "AHA 30% + BHA 2% Peeling Solution (name match 100%)",
+   "inciList": "Glycolic Acid, Aqua (Water), Aloe Barbadensis Leaf Water, Sodium Hydroxide, Daucus Carota Sativa Extract, Propanediol, Cocamidopropyl Dimethylamine, Salicylic Acid, Lactic Acid, Tartaric Acid, Citric Acid, Panthenol, Sodium Hyaluronate Crosspolymer, Tasmannia Lanceolata Fruit/Leaf Extract, Glycerin, Pentylene Glycol, Xanthan Gum, Polysorbate 20, Trisodium Ethylenediamine Disuccinate, Potassium Sorbate, Sodium Benzoate, Ethylhexylglycerin, 1,2-Hexanediol, Caprylyl Glycol",
+   "evidenceActives": "glycolic acid (#1 on list, strong evidence); salicylic acid (#8 on list, strong evidence); lactic acid (#9 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Estée Lauder Companies — Global FMCG or beauty group",
-   "buyerEvidence": "4.4★ from 0 ratings"
+   "buyerEvidence": "4.4★ from 0 ratings",
+   "concernBasis": "Acne — salicylic acid #8 on INCI; Irritation — panthenol #12 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51xY4ObuOEL._AC_UL320_.jpg"
@@ -100658,7 +101397,11 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "target:acne",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -100667,25 +101410,78 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "The Ordinary official website (theordinary.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://theordinary.com/en-in/aha-30-bha-2-peeling-solution-exfoliator-100400.html",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "AHA 30% + BHA 2% Peeling Solution",
+   "inciMatchScore": 1,
+   "inciText": "Glycolic Acid, Aqua (Water), Aloe Barbadensis Leaf Water, Sodium Hydroxide, Daucus Carota Sativa Extract, Propanediol, Cocamidopropyl Dimethylamine, Salicylic Acid, Lactic Acid, Tartaric Acid, Citric Acid, Panthenol, Sodium Hyaluronate Crosspolymer, Tasmannia Lanceolata Fruit/Leaf Extract, Glycerin, Pentylene Glycol, Xanthan Gum, Polysorbate 20, Trisodium Ethylenediamine Disuccinate, Potassium Sorbate, Sodium Benzoate, Ethylhexylglycerin, 1,2-Hexanediol, Caprylyl Glycol",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycolic acid",
+     "grade": "A",
+     "position": 1,
+     "core": true,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 8,
+     "core": true,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 9,
+     "core": true,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 11,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 12,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 15,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "panthenol",
+    "glycerin"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -101010,15 +101806,16 @@ const CTPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "salicylic acid (BHA) + PHA",
   "featureLine": "Scrub / exfoliant · ₹937/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. Scored from its published INCI list (Amazon.in listing — Important information › Ingredients): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycolic acid high on the INCI list (strong evidence); lactic acid high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 8.3,
+   "skin": 9,
+   "trust": 7,
    "experience": 2.2
   },
   "fullSpec": {
@@ -101035,13 +101832,14 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.1/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Propylene Glycol, Aqua, Glycolic Acid, Lactic Acid, Gluconolactone, Alpha Arbutin, 0.5% Salicylic Acid, Glycerin, Hydroxyethylcellulose, Phenoxyethanol, 3-O Ethyl Ascorbic Acid (C.i no.16035)",
+   "evidenceActives": "glycolic acid (#3 on list, strong evidence); lactic acid (#4 on list, strong evidence); gluconolactone (#5 on list, moderate evidence); salicylic acid (#7 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Conscious Chemist — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "concernBasis": "Acne — salicylic acid #7 on INCI; Dark spots — alpha-arbutin #6 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51RwKbo+xlL._AC_UL320_.jpg"
@@ -101062,7 +101860,10 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "target:acne",
+   "target:dark-spots",
+   "inci:full",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -101071,25 +101872,84 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "listing",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
+   "inci": "full",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
-   "inciText": null,
+   "inciText": "Propylene Glycol, Aqua, Glycolic Acid, Lactic Acid, Gluconolactone, Alpha Arbutin, 0.5% Salicylic Acid, Glycerin, Hydroxyethylcellulose, Phenoxyethanol, 3-O Ethyl Ascorbic Acid (C.i no.16035)",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycolic acid",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "gluconolactone",
+     "grade": "B",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "alpha-arbutin",
+     "grade": "B",
+     "position": 6,
+     "core": false,
+     "trace": false,
+     "src": "pigment"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "3-o-ethyl ascorbic acid",
+     "grade": "B",
+     "position": 11,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "glycerin"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -102658,15 +103518,16 @@ const CTPRODUCTS = [
   "capacityLine": "60 ml (pack of 2)",
   "materialLine": "salicylic acid (BHA)",
   "featureLine": "Scrub / exfoliant · ₹3167/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (The Ordinary official website (theordinary.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycolic acid high on the INCI list (strong evidence); salicylic acid high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 9.4,
+   "skin": 10,
+   "trust": 8.5,
    "experience": 3.2
   },
   "fullSpec": {
@@ -102683,13 +103544,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.4/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "The Ordinary official website (theordinary.com) — product page › Ingredients",
+   "inciSourceUrl": "https://theordinary.com/en-in/aha-30-bha-2-peeling-solution-exfoliator-100400.html",
+   "inciMatchedName": "AHA 30% + BHA 2% Peeling Solution (name match 100%)",
+   "inciList": "Glycolic Acid, Aqua (Water), Aloe Barbadensis Leaf Water, Sodium Hydroxide, Daucus Carota Sativa Extract, Propanediol, Cocamidopropyl Dimethylamine, Salicylic Acid, Lactic Acid, Tartaric Acid, Citric Acid, Panthenol, Sodium Hyaluronate Crosspolymer, Tasmannia Lanceolata Fruit/Leaf Extract, Glycerin, Pentylene Glycol, Xanthan Gum, Polysorbate 20, Trisodium Ethylenediamine Disuccinate, Potassium Sorbate, Sodium Benzoate, Ethylhexylglycerin, 1,2-Hexanediol, Caprylyl Glycol",
+   "evidenceActives": "glycolic acid (#1 on list, strong evidence); salicylic acid (#8 on list, strong evidence); lactic acid (#9 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Estée Lauder Companies — Global FMCG or beauty group",
-   "buyerEvidence": "4.4★ from 0 ratings"
+   "buyerEvidence": "4.4★ from 0 ratings",
+   "concernBasis": "Acne — salicylic acid #8 on INCI; Irritation — panthenol #12 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51i1m6pqEWL._AC_UL320_.jpg"
@@ -102708,7 +103572,11 @@ const CTPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "target:acne",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -102717,25 +103585,78 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "The Ordinary official website (theordinary.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://theordinary.com/en-in/aha-30-bha-2-peeling-solution-exfoliator-100400.html",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "AHA 30% + BHA 2% Peeling Solution",
+   "inciMatchScore": 1,
+   "inciText": "Glycolic Acid, Aqua (Water), Aloe Barbadensis Leaf Water, Sodium Hydroxide, Daucus Carota Sativa Extract, Propanediol, Cocamidopropyl Dimethylamine, Salicylic Acid, Lactic Acid, Tartaric Acid, Citric Acid, Panthenol, Sodium Hyaluronate Crosspolymer, Tasmannia Lanceolata Fruit/Leaf Extract, Glycerin, Pentylene Glycol, Xanthan Gum, Polysorbate 20, Trisodium Ethylenediamine Disuccinate, Potassium Sorbate, Sodium Benzoate, Ethylhexylglycerin, 1,2-Hexanediol, Caprylyl Glycol",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycolic acid",
+     "grade": "A",
+     "position": 1,
+     "core": true,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 8,
+     "core": true,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 9,
+     "core": true,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 11,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 12,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 15,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "panthenol",
+    "glycerin"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -109570,16 +110491,18 @@ const CTPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "salicylic acid (BHA) + PHA",
   "featureLine": "Scrub / exfoliant",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. Scored from its published INCI list (Amazon.in listing — Important information › Ingredients): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "salicylic acid high on the INCI list (strong evidence); gluconolactone high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 5.7,
+   "skin": 7,
+   "trust": 5.5,
    "experience": 2.9
   },
   "fullSpec": {
@@ -109596,13 +110519,14 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.3/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Aqua, Propylene Glycol, Salicylic Acid, Gluconolactone, Lactobionic Acid, Honey, Glycerine, Phenoxyethanol, Hydroxyethyl Cellulose, Ethylhexylglycerine, Sodium Gluconate.",
+   "evidenceActives": "salicylic acid (#3 on list, strong evidence); gluconolactone (#4 on list, moderate evidence); lactobionic acid (#5 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "concernBasis": "Acne — salicylic acid #3 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61Vyi5-C9FL._AC_UL320_.jpg"
@@ -109623,7 +110547,9 @@ const CTPRODUCTS = [
    "aud:women",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "target:acne",
+   "inci:full",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -109632,25 +110558,60 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "listing",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
+   "inci": "full",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
-   "inciText": null,
+   "inciText": "Aqua, Propylene Glycol, Salicylic Acid, Gluconolactone, Lactobionic Acid, Honey, Glycerine, Phenoxyethanol, Hydroxyethyl Cellulose, Ethylhexylglycerine, Sodium Gluconate.",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "gluconolactone",
+     "grade": "B",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "lactobionic acid",
+     "grade": "B",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    }
+   ],
+   "support": [
+    "glycerin"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -112074,6 +113035,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:wash",
+   "format:cleansing-oil",
    "ing:salicylic-acid-bha",
    "ing:green-tea",
    "claim:acne",
@@ -115972,13 +116934,13 @@ const CTPRODUCTS = [
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "No ingredient list published on the listing",
+   "Only 4 ingredients named — formula unscored",
    "Maker not verified — no parent company found"
   ],
   "scores": {
    "ingredients": 0,
    "skin": 0,
-   "trust": 3.5,
+   "trust": 3.8,
    "experience": 2.9
   },
   "fullSpec": {
@@ -115995,9 +116957,9 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.3/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
+   "inciStatus": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: Top notes: Citrus, Fruity Notes. Heart notes: Floral Notes. Base notes: Musk, Amber, Woody Notes",
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
@@ -116029,7 +116991,7 @@ const CTPRODUCTS = [
    "size:large",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "inci:partial"
   ],
   "filters": {
    "actives": true,
@@ -116038,23 +117000,23 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
+   "inci": "partial",
    "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
    "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
+   "inciUnverified": "Top notes: Citrus, Fruity Notes. Heart notes: Floral Notes. Base notes: Musk, Amber, Woody Notes",
+   "inciNote": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
    "declarationConfidence": null,
-   "recognised": null,
+   "recognised": 0.5,
    "actives": [],
    "support": [],
    "formulaNotes": [],
@@ -117482,6 +118444,7 @@ const CTPRODUCTS = [
    "format:clay-mask",
    "format:powder",
    "format:wash",
+   "format:cleansing-oil",
    "ing:collagen",
    "ing:clay",
    "claim:brightening",
@@ -118774,17 +119737,17 @@ const CTPRODUCTS = [
   "capacityLine": "29 ml",
   "materialLine": "salicylic acid (BHA) + mandelic acid + PHA",
   "featureLine": "Scrub / exfoliant · ₹341/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Amazon listing. Scored from its published INCI list (Amazon.in listing — Important information › Ingredients): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
+   "gluconolactone high on the INCI list (moderate evidence); mandelic acid high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list",
    "Made by Galderma (dermatology / pharma maker)"
   ],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 8,
+   "ingredients": 7.5,
+   "skin": 10,
+   "trust": 10,
    "experience": 2.6
   },
   "fullSpec": {
@@ -118801,13 +119764,14 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.2/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "AQUA, GLYCERIN, ISOPROPYL PALMITATE, BUTYROSPERMUM PARKII BUTTER, CETEARYL ALCOHOL, GLUCONOLACTONE, GLYCERYL STEARATE, PEG-100 STEARATE, DIMETHICONE, MANDELIC ACID, TOCOPHERYL ACETATE, SODIUM HYDROXIDE, PANTHENOL, E T H Y L H E X Y L G L Y C E R I N , NIACINAMIDE, PHENOXYETHANOL, XANTHAN GUM, DISODIUM EDTA, SALICYLIC ACID, PANTOLACTONE, CITRIC ACID.",
+   "evidenceActives": "gluconolactone (#6 on list, moderate evidence); mandelic acid (#9 on list, moderate evidence); salicylic acid (#18 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Galderma — Dermatology / pharmaceutical manufacturer",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Irritation — panthenol #12 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61uwM5vQhaL._AC_UL320_.jpg"
@@ -118832,7 +119796,9 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
-   "inci:none",
+   "target:irritation",
+   "inci:full",
+   "inci:no-fragrance",
    "inci:pharma-maker"
   ],
   "filters": {
@@ -118842,25 +119808,112 @@ const CTPRODUCTS = [
    "derm": true,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "listing",
    "pharma": true
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
+   "inci": "full",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
-   "inciText": null,
+   "inciText": "AQUA, GLYCERIN, ISOPROPYL PALMITATE, BUTYROSPERMUM PARKII BUTTER, CETEARYL ALCOHOL, GLUCONOLACTONE, GLYCERYL STEARATE, PEG-100 STEARATE, DIMETHICONE, MANDELIC ACID, TOCOPHERYL ACETATE, SODIUM HYDROXIDE, PANTHENOL, E T H Y L H E X Y L G L Y C E R I N , NIACINAMIDE, PHENOXYETHANOL, XANTHAN GUM, DISODIUM EDTA, SALICYLIC ACID, PANTOLACTONE, CITRIC ACID.",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "gluconolactone",
+     "grade": "B",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "mandelic acid",
+     "grade": "B",
+     "position": 9,
+     "core": true,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 12,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 14,
+     "core": false,
+     "trace": true,
+     "src": "niacinamide"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 18,
+     "core": true,
+     "trace": true,
+     "src": "bha"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 20,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "butyrospermum parkii butter",
+    "dimethicone",
+    "panthenol",
+    "niacinamide"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -119142,7 +120195,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51MrTIb8iYL._AC_UL320_.jpg"
@@ -119157,6 +120211,7 @@ const CTPRODUCTS = [
    "format:patch",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:niacinamide",
    "ing:aha",
    "ing:shea-butter",
@@ -121576,6 +122631,7 @@ const CTPRODUCTS = [
    "claim:kp",
    "claim:lightweight",
    "claim:ingrown",
+   "claim:razor-burn",
    "skin:dry",
    "skin:sensitive",
    "free:derm",
@@ -125907,7 +126963,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Micro Labs — Dermatology / pharmaceutical manufacturer",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61gDTItVtKL._SL1500_.jpg"
@@ -125919,6 +126976,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:cream",
    "format:kit",
+   "water:unstated",
    "ing:glycolic-acid",
    "claim:brightening",
    "claim:dark-spots",
@@ -128014,7 +129072,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51D8eq7RBGL._AC_UL320_.jpg"
@@ -128028,6 +129087,7 @@ const CTPRODUCTS = [
    "format:wash",
    "format:kit",
    "spf:30",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:vitamin-e",
@@ -128841,7 +129901,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Micro Labs — Dermatology / pharmaceutical manufacturer",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71zThvoBNBL._SL1500_.jpg",
@@ -128857,6 +129918,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:cream",
    "format:kit",
+   "water:unstated",
    "ing:glycolic-acid",
    "claim:brightening",
    "claim:dark-spots",
@@ -130338,15 +131400,16 @@ const CTPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "lactic acid + hyaluronic acid",
   "featureLine": "Sunscreen · Alcohol-free · ₹3167/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. Scored from its published INCI list (Amazon.in listing — Important information › Ingredients): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "lactic acid high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 6.2,
+   "skin": 10,
+   "trust": 8.5,
    "experience": 3.5
   },
   "fullSpec": {
@@ -130363,13 +131426,14 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.5/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Aqua (Water), Lactic Acid, Glycerin, Pentylene Glycol, Propanediol, Sodium Hydroxide, Sodium Hyaluronate Crosspolymer, Tasmannia Lanceolata Fruit/Leaf Extract, Acacia Senegal Gum, Xanthan Gum, Isoceteth-20, Trisodium Ethylenediamine Disuccinate, Ethylhexylglycerin, 1,2-Hexanediol, Caprylyl Glycol.",
+   "evidenceActives": "lactic acid (#2 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Estée Lauder Companies — Global FMCG or beauty group",
-   "buyerEvidence": "4.5★ from 0 ratings"
+   "buyerEvidence": "4.5★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41uqHPQwPiL._SL1240_.jpg",
@@ -130385,6 +131449,7 @@ const CTPRODUCTS = [
    "scope:unstated",
    "format:serum",
    "format:kit",
+   "water:unstated",
    "ing:lactic-acid",
    "ing:hyaluronic-acid",
    "claim:exfoliating",
@@ -130397,7 +131462,8 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -130406,25 +131472,45 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "listing",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
+   "inci": "full",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
-   "inciText": null,
+   "inciText": "Aqua (Water), Lactic Acid, Glycerin, Pentylene Glycol, Propanediol, Sodium Hydroxide, Sodium Hyaluronate Crosspolymer, Tasmannia Lanceolata Fruit/Leaf Extract, Acacia Senegal Gum, Xanthan Gum, Isoceteth-20, Trisodium Ethylenediamine Disuccinate, Ethylhexylglycerin, 1,2-Hexanediol, Caprylyl Glycol.",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.93,
+   "actives": [
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "propanediol"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -131000,7 +132086,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51-uGHtvRrL._AC_UL320_.jpg"
@@ -131012,6 +132099,7 @@ const CTPRODUCTS = [
    "scope:body",
    "format:lotion",
    "format:oil",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:aha",
    "ing:green-tea",
@@ -133918,6 +135006,230 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "dravida-organics-itm69c93d0bb5efd",
+  "brand": "Dravida Organics",
+  "model": "3% PHA Face Toner for Oily Skin, Pore Tightening, Mild Exfoliating for Women",
+  "price": 86,
+  "capacityLine": "100 ml",
+  "materialLine": "PHA",
+  "featureLine": "Scrub / exfoliant · Paraben-free · ₹86/100ml",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.8
+  },
+  "fullSpec": {
+   "quantity": "100 ml",
+   "pricePer100": "₹86/100ml",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "PHA (per listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "3.7/5 (20 ratings, Flipkart)",
+   "madeIn": "India",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.7★ from 20 ratings"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/n/s/8/100-v-white-intimate-area-whitening-cream-skin-cream-for-private-original-imahqaafxz8vhmmv.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/ayurvedic/6/c/g/v-whitening-cream-intimate-area-skin-lightening-whitening-cream-original-imahq5qyppx5yrgm.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/dravida-organics-3-pha-face-toner-oily-skin-pore-tightening-mild-exfoliating-women/p/itm69c93d0bb5efd",
+  "buyStore": "Flipkart",
+  "title": "Dravida Organics 3% PHA Face Toner for Oily Skin, Pore Tightening, Mild Exfoliating for Women",
+  "tags": [
+   "scope:both",
+   "format:toner",
+   "format:pack",
+   "ing:pha",
+   "claim:pores",
+   "claim:exfoliating",
+   "skin:oily",
+   "skin:all",
+   "free:paraben",
+   "aud:women",
+   "size:standard",
+   "rating:3.5",
+   "store:flipkart",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.7★ from 20 ratings"
+  }
+ },
+ {
+  "id": "the-true-therapy-itm44fe2f08329e3",
+  "brand": "The True Therapy",
+  "model": "Gluconolactone Face Toner for Gentle Skin Exfoliator with PHA 10% for Men & Women",
+  "price": 160,
+  "capacityLine": "200 g",
+  "materialLine": "niacinamide + salicylic acid (BHA) + glycolic acid",
+  "featureLine": "Scrub / exfoliant · Paraben-free · ₹80/100g",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 4 ingredients named — formula unscored",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "200 g",
+   "pricePer100": "₹80/100g",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "niacinamide, salicylic acid (BHA), glycolic acid, PHA, hyaluronic acid, rice water, zinc (per listing)",
+   "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim, Acne/blemish claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: 10% Glucanolacton, D-Penthanol, Niacinamide, 17 Amino Acid Complex",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/face-wash/6/r/6/100-100-natural-actives-body-whitening-lightening-skin-original-imah4uw2mxwupkak.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/true-therapy-gluconolactone-face-toner-gentle-skin-exfoliator-pha-10-men-women/p/itm44fe2f08329e3",
+  "buyStore": "Flipkart",
+  "title": "The True Therapy Gluconolactone Face Toner for Gentle Skin Exfoliator with PHA 10% for Men & Women",
+  "tags": [
+   "scope:both",
+   "format:serum",
+   "format:toner",
+   "format:mist",
+   "format:pack",
+   "format:wash",
+   "format:kit",
+   "ing:niacinamide",
+   "ing:salicylic-acid-bha",
+   "ing:glycolic-acid",
+   "ing:pha",
+   "ing:hyaluronic-acid",
+   "ing:rice-water",
+   "ing:zinc",
+   "claim:brightening",
+   "claim:acne",
+   "claim:pores",
+   "claim:oil-control",
+   "claim:exfoliating",
+   "claim:scars",
+   "claim:cooling",
+   "skin:sensitive",
+   "skin:all",
+   "free:paraben",
+   "free:alcohol",
+   "free:vegan",
+   "free:sensitive-safe",
+   "aud:women",
+   "size:large",
+   "rating:none",
+   "store:flipkart",
+   "inci:partial"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "10% Glucanolacton, D-Penthanol, Niacinamide, 17 Amino Acid Complex",
+   "inciNote": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 0.75,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
   "id": "reglet-itm3bfd65fe716f3",
   "brand": "REGLET",
   "model": "Exfoliating Scrub For Women & Men, Sugar Scrub for Tan Rem …",
@@ -134142,7 +135454,7 @@ const CTPRODUCTS = [
  {
   "id": "love-earth-itm3c87d28d0d468",
   "brand": "Love Earth",
-  "model": "Exfoliation Toner For Infused With Glycolic Acid, Mand …",
+  "model": "Exfoliation Toner For Infused With Glycolic Acid, Mandelic Acid , Lactic Acid Women",
   "price": 385,
   "capacityLine": "50 ml",
   "materialLine": "glycolic acid + lactic acid + mandelic acid",
@@ -134194,7 +135506,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/love-earth-exfoliation-toner-infused-glycolic-acid-mandelic-acid-lactic-women/p/itm3c87d28d0d468",
   "buyStore": "Flipkart",
-  "title": "LOVE EARTH Exfoliation Toner For Infused With Glycolic Acid, Mand …",
+  "title": "LOVE EARTH Exfoliation Toner For Infused With Glycolic Acid, Mandelic Acid , Lactic Acid Women",
   "tags": [
    "scope:both",
    "format:essence",
@@ -134556,7 +135868,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "declaredManufacturer": "Brillare Science Pvt. Ltd. (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.2★ from 83 ratings"
+   "buyerEvidence": "4.2★ from 83 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/g/l/v/120-care-addict-broad-spectrum-spf-50-pa-uv-protect-pack-of-2-na-original-imahhmgf6jgzrdu5.jpeg?q=90",
@@ -134568,6 +135881,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:peel",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:aha",
    "claim:exfoliating",
@@ -134734,7 +136048,7 @@ const CTPRODUCTS = [
  {
   "id": "ryllz-essentials-itm76b267c3953c4",
   "brand": "RYLLZ ESSENTIALS",
-  "model": "AHA PHA BHA Face Toner | Mild Exfoliation, Acne …",
+  "model": "AHA PHA BHA Face Toner | Mild Exfoliation, Acne Control Men & Women",
   "price": 234,
   "capacityLine": "200 ml",
   "materialLine": "salicylic acid (BHA) + PHA",
@@ -134784,7 +136098,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/ryllz-essentials-aha-pha-bha-face-toner-mild-exfoliation-acne-control-men-women/p/itm76b267c3953c4",
   "buyStore": "Flipkart",
-  "title": "RYLLZ ESSENTIALS AHA PHA BHA Face Toner | Mild Exfoliation, Acne …",
+  "title": "RYLLZ ESSENTIALS AHA PHA BHA Face Toner | Mild Exfoliation, Acne Control Men & Women",
   "tags": [
    "scope:face",
    "format:toner",
@@ -134842,6 +136156,115 @@ const CTPRODUCTS = [
     "url": null
    },
    "buyers": "4.7★ from 19 ratings"
+  }
+ },
+ {
+  "id": "veqix-itm560b0bd62a5c5",
+  "brand": "veqix",
+  "model": "Pineapple PHA 3% Alcohol Free Face Toner for Pore Tightening & Mild Exfoliation Men & Wome…",
+  "price": 121,
+  "capacityLine": "100 ml",
+  "materialLine": "PHA",
+  "featureLine": "Scrub / exfoliant · Paraben-free · ₹121/100ml",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 3 ingredients named — formula unscored",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 1.9
+  },
+  "fullSpec": {
+   "quantity": "100 ml",
+   "pricePer100": "₹121/100ml",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "PHA (per listing)",
+   "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "3.6/5 (7 ratings, Flipkart)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 3 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: Aloevera Extract, Pineapple Extract, Niacinamide",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.6★ from 7 ratings"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/4/a/f/100-0-pineapple-pha-3-alcohol-free-face-toner-for-pore-original-imahk8d7zvydjuen.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/e/j/2/300-0-pineapple-pha-3-alcohol-free-face-toner-for-pore-original-imahk8d7y5cn4mqx.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/k/t/a/150-0-pineapple-pha-3-alcohol-free-face-toner-for-pore-original-imahk8d79b8yudzz.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/n/7/c/150-0-pineapple-pha-3-alcohol-free-face-toner-for-pore-original-imahk8d7v4kyrs7n.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/t/a/t/300-0-pineapple-pha-3-alcohol-free-face-toner-for-pore-original-imahk8d7qmgggrsw.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/veqix-pineapple-pha-3-alcohol-free-face-toner-pore-tightening-mild-exfoliation-men-women/p/itm560b0bd62a5c5",
+  "buyStore": "Flipkart",
+  "title": "veqix Pineapple PHA 3% Alcohol Free Face Toner for Pore Tightening & Mild Exfoliation Men & Women",
+  "tags": [
+   "scope:face",
+   "format:toner",
+   "format:pack",
+   "ing:pha",
+   "claim:brightening",
+   "claim:pores",
+   "claim:exfoliating",
+   "claim:ayurvedic",
+   "skin:all",
+   "free:paraben",
+   "free:alcohol",
+   "free:vegan",
+   "aud:women",
+   "size:standard",
+   "rating:3.5",
+   "store:flipkart",
+   "inci:partial"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Aloevera Extract, Pineapple Extract, Niacinamide",
+   "inciNote": "Only 3 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.6★ from 7 ratings"
   }
  },
  {
@@ -135411,10 +136834,10 @@ const CTPRODUCTS = [
  {
   "id": "vlcc-itm29eaee94bb453",
   "brand": "Vlcc",
-  "model": "Clinic Micro Exfoliating Scrub | Brightening scrub | Lactobi …",
+  "model": "Clinic Micro Exfoliating Scrub | Brightening scrub | Lactobionic Acid & Rice Exfoliator Sc…",
   "price": 341,
   "capacityLine": "Quantity not stated",
-  "materialLine": "Key ingredients not stated",
+  "materialLine": "rice water",
   "featureLine": "Scrub / exfoliant",
   "highlight": "Live Flipkart listing. Scored from its published INCI list (Flipkart listing — Specifications › Composition): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
@@ -135433,7 +136856,7 @@ const CTPRODUCTS = [
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
    "format": "Scrub / exfoliant",
-   "keyIngredients": "Not stated in listing",
+   "keyIngredients": "rice water (per listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
@@ -135461,10 +136884,11 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/vlcc-clinic-micro-exfoliating-scrub-brightening-lactobionic-acid-rice-exfoliator/p/itm29eaee94bb453",
   "buyStore": "Flipkart",
-  "title": "VLCC Clinic Micro Exfoliating Scrub | Brightening scrub | Lactobi …",
+  "title": "VLCC Clinic Micro Exfoliating Scrub | Brightening scrub | Lactobionic Acid & Rice Exfoliator Scrub",
   "tags": [
    "scope:unstated",
    "format:scrub",
+   "ing:rice-water",
    "claim:brightening",
    "claim:exfoliating",
    "aud:unisex",
@@ -135542,7 +136966,7 @@ const CTPRODUCTS = [
  {
   "id": "saltspire-itm308848ce9308d",
   "brand": "SALTSPIRE",
-  "model": "Clarifying Face Serum – Gentle Exfoliating Serum with G …",
+  "model": "Clarifying Face Serum – Gentle Exfoliating Serum with Glycolic Acid, Lactic Acid & Panthen…",
   "price": 234,
   "capacityLine": "30 ml",
   "materialLine": "glycolic acid + lactic acid",
@@ -135591,7 +137015,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/saltspire-clarifying-face-serum-gentle-exfoliating-glycolic-acid-lactic-acid-panthenol-smooths-skin-texture-refines-pores-reveals-radiant-glow-30-ml-1-oz/p/itm308848ce9308d",
   "buyStore": "Flipkart",
-  "title": "SALTSPIRE Clarifying Face Serum – Gentle Exfoliating Serum with G …",
+  "title": "SALTSPIRE Clarifying Face Serum – Gentle Exfoliating Serum with Glycolic Acid, Lactic Acid & Panthenol | Smooths Skin Texture, Refines Pores & Reveals Radiant Glow | 30 mL / 1 oz",
   "tags": [
    "scope:face",
    "format:serum",
@@ -135639,6 +137063,122 @@ const CTPRODUCTS = [
    "inciNote": null,
    "declarationConfidence": null,
    "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "saltspire-itm50423cb3597d0",
+  "brand": "SALTSPIRE",
+  "model": "Lactic Acid Renewal Serum | Lactic Acid + Vitamin C + Ferulic Acid + Vitamin E | Glow & Sm…",
+  "price": 243,
+  "capacityLine": "30 ml",
+  "materialLine": "vitamin C + lactic acid + vitamin E",
+  "featureLine": "Scrub / exfoliant · Paraben-free · ₹810/100ml",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 1 ingredient named — formula unscored",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹810/100ml",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "vitamin C, lactic acid, vitamin E (per listing)",
+   "freeFrom": "Paraben-free, Sulfate/SLS-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim, Anti-aging claim, Acne/blemish claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: Aqua (Water) Lactic Acid Vitamin C Ferulic Acid Vitamin E",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/r/y/t/30-lactic-acid-renewal-serum-lactic-acid-vitamin-c-ferulic-acid-original-imahgvg5qngs79za.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/4/3/w/30-lactic-acid-renewal-serum-lactic-acid-vitamin-c-ferulic-acid-original-imahgvg5gqtdvjam.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/h/v/5/30-lactic-acid-renewal-serum-lactic-acid-vitamin-c-ferulic-acid-original-imahgvg5bwjxukfh.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/t/c/l/30-lactic-acid-renewal-serum-lactic-acid-vitamin-c-ferulic-acid-original-imahgvg58um9yww5.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/8/8/s/30-lactic-acid-renewal-serum-lactic-acid-vitamin-c-ferulic-acid-original-imahgvg5zznj7cb9.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/saltspire-lactic-acid-renewal-serum-vitamin-c-ferulic-e-glow-smooth-skin-21-days-exfoliating-brightening-collagen-support-face-30ml/p/itm50423cb3597d0",
+  "buyStore": "Flipkart",
+  "title": "SALTSPIRE Lactic Acid Renewal Serum | Lactic Acid + Vitamin C + Ferulic Acid + Vitamin E | Glow & Smooth Skin in 21 Days | Exfoliating, Brightening & Collagen Support Face Serum | 30ml",
+  "tags": [
+   "scope:face",
+   "format:serum",
+   "format:wash",
+   "ing:vitamin-c",
+   "ing:lactic-acid",
+   "ing:collagen",
+   "ing:vitamin-e",
+   "ing:ferulic-acid",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:anti-aging",
+   "claim:acne",
+   "claim:pores",
+   "claim:exfoliating",
+   "skin:all",
+   "free:paraben",
+   "free:sulfate",
+   "free:vegan",
+   "aud:women",
+   "size:travel",
+   "rating:none",
+   "store:flipkart",
+   "inci:partial"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Aqua (Water) Lactic Acid Vitamin C Ferulic Acid Vitamin E",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
    "actives": [],
    "support": [],
    "formulaNotes": [],
@@ -136280,7 +137820,7 @@ const CTPRODUCTS = [
  {
   "id": "pyro-peel-itmf2f99f1bdf05c",
   "brand": "pyro peel",
-  "model": "Lactic Acid Renewal Serum/Lactic Acid 30% Skin Exfoliat …",
+  "model": "Lactic Acid Renewal Serum/Lactic Acid 30% Skin Exfoliating Serum (30 ml)/Lactic Acid 30% R…",
   "price": 756,
   "capacityLine": "30 ml",
   "materialLine": "lactic acid + green tea + aloe vera",
@@ -136318,7 +137858,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/4/g/q/30-lactic-acid-renewal-serum-lactic-acid-30-skin-exfoliating-original-imahqaaznjy35gth.jpeg?q=90",
@@ -136329,12 +137870,13 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/pyro-peel-lactic-acid-renewal-serum-lactic-30-skin-exfoliating-serum-30-ml-lactic-aloe-green-tea-ml/p/itmf2f99f1bdf05c",
   "buyStore": "Flipkart",
-  "title": "pyro peel Lactic Acid Renewal Serum/Lactic Acid 30% Skin Exfoliat …",
+  "title": "pyro peel Lactic Acid Renewal Serum/Lactic Acid 30% Skin Exfoliating Serum (30 ml)/Lactic Acid 30% Renewal Serum with Aloe & Green Tea (30 ml )",
   "tags": [
    "scope:face",
    "format:serum",
    "format:pack",
    "format:peel",
+   "water:unstated",
    "ing:lactic-acid",
    "ing:green-tea",
    "ing:aloe-vera",
@@ -137062,7 +138604,7 @@ const CTPRODUCTS = [
  {
   "id": "cosmacube-itm3f7a75ba6a934",
   "brand": "cosmacube",
-  "model": "Exfolyn Exfoliating Body Wash | Lactic & Salicylic Acid …",
+  "model": "Exfolyn Exfoliating Body Wash | Lactic & Salicylic Acid | Men & Women: Buy cosmacube Exfol…",
   "price": 307,
   "capacityLine": "210 ml",
   "materialLine": "salicylic acid (BHA) + lactic acid + caffeine",
@@ -137070,14 +138612,14 @@ const CTPRODUCTS = [
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "No ingredient list published on the listing",
+   "Only 5 ingredients named — formula unscored",
    "Maker not verified — no parent company found",
    "No buyer ratings yet"
   ],
   "scores": {
    "ingredients": 0,
    "skin": 0,
-   "trust": 3.5,
+   "trust": 3.8,
    "experience": 0
   },
   "fullSpec": {
@@ -137089,17 +138631,18 @@ const CTPRODUCTS = [
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
    "benefit": "Not stated in listing",
-   "audience": "Unisex / not stated",
+   "audience": "Marketed for women",
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
+   "inciStatus": "Only 5 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Specifications › Composition",
+   "inciList": "Unverified seller line: Lactic Acid (AHA), Salicylic Acid (BHA), Rice Bran Beads, Murumuru Beads, Hyaluronic Acid",
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
+   "declaredManufacturer": "Prelord Pharmaceuticals (ISO 9001:2015 & GMP Certified) Village Kailer, P.O. Saproon, Teh. & Distt. Solan (H.P.) - 173211 (as printed on the Flipkart listing — not scored)",
    "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
@@ -137111,7 +138654,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/cosmacube-exfolyn-exfoliating-body-wash-lactic-salicylic-acid-men-women/p/itm3f7a75ba6a934",
   "buyStore": "Flipkart",
-  "title": "cosmacube Exfolyn Exfoliating Body Wash | Lactic & Salicylic Acid …",
+  "title": "cosmacube Exfolyn Exfoliating Body Wash | Lactic & Salicylic Acid | Men & Women: Buy cosmacube Exfolyn Exfoliating Body Wash | Lactic & Salicylic Acid | Men & Women at Low",
   "tags": [
    "scope:body",
    "format:gel",
@@ -137126,11 +138669,11 @@ const CTPRODUCTS = [
    "claim:soothing",
    "claim:exfoliating",
    "claim:odour",
-   "aud:unisex",
+   "aud:women",
    "size:large",
    "rating:none",
    "store:flipkart",
-   "inci:none"
+   "inci:partial"
   ],
   "filters": {
    "actives": true,
@@ -137138,24 +138681,24 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false,
-   "inci": "none",
+   "women": true,
+   "inci": "partial",
    "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Specifications › Composition",
+   "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
    "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
+   "inciUnverified": "Lactic Acid (AHA), Salicylic Acid (BHA), Rice Bran Beads, Murumuru Beads, Hyaluronic Acid",
+   "inciNote": "Only 5 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
    "declarationConfidence": null,
-   "recognised": null,
+   "recognised": 0.6,
    "actives": [],
    "support": [],
    "formulaNotes": [],
@@ -137278,7 +138821,7 @@ const CTPRODUCTS = [
  {
   "id": "dermalist-itm87ef43ff7b0a0",
   "brand": "Dermalist",
-  "model": "Exfoliating Body Wash Lactic Acid & Salicylic Acid De-T …",
+  "model": "Exfoliating Body Wash Lactic Acid & Salicylic Acid De-Tan Shower Gel Men & Women",
   "price": 437,
   "capacityLine": "490 ml",
   "materialLine": "vitamin C + salicylic acid (BHA) + lactic acid",
@@ -137328,7 +138871,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/dermalist-exfoliating-body-wash-lactic-acid-salicylic-de-tan-shower-gel-men-women/p/itm87ef43ff7b0a0",
   "buyStore": "Flipkart",
-  "title": "Dermalist Exfoliating Body Wash Lactic Acid & Salicylic Acid De-T …",
+  "title": "Dermalist Exfoliating Body Wash Lactic Acid & Salicylic Acid De-Tan Shower Gel Men & Women",
   "tags": [
    "scope:body",
    "format:gel",
@@ -137501,7 +139044,7 @@ const CTPRODUCTS = [
  {
   "id": "erbali-itmaf78cd38544de",
   "brand": "Erbali",
-  "model": "Glow Boost Exfoliating Body Wash | Lactic Acid + Vitamin E …",
+  "model": "Glow Boost Exfoliating Body Wash | Lactic Acid + Vitamin E: Buy Erbali Glow Boost Exfoliat…",
   "price": 184,
   "capacityLine": "500 ml (pack of 2)",
   "materialLine": "salicylic acid (BHA) + glycolic acid + lactic acid",
@@ -137550,7 +139093,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/erbali-glow-boost-exfoliating-body-wash-lactic-acid-vitamin-e/p/itmaf78cd38544de",
   "buyStore": "Flipkart",
-  "title": "Erbali Glow Boost Exfoliating Body Wash | Lactic Acid + Vitamin E …",
+  "title": "Erbali Glow Boost Exfoliating Body Wash | Lactic Acid + Vitamin E: Buy Erbali Glow Boost Exfoliating Body Wash | Lactic Acid + Vitamin E at Low",
   "tags": [
    "scope:body",
    "format:gel",
@@ -139345,7 +140888,7 @@ const CTPRODUCTS = [
  {
   "id": "unbranded-itm09b03d75b3d7b",
   "brand": "Unbranded",
-  "model": "the facecraft project 2 % Salicylic + Tranexamic Exfoliate Serum …",
+  "model": "the facecraft project 2 % Salicylic + Tranexamic Exfoliate Serum for Dark Spots & Pigmenta…",
   "price": 1369,
   "capacityLine": "Quantity not stated",
   "materialLine": "salicylic acid (BHA) + tranexamic acid",
@@ -139355,13 +140898,13 @@ const CTPRODUCTS = [
    "Well-reviewed: 5★ from 5 ratings"
   ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Too few ingredients are recognisable INCI names to treat this as the declared list, so formula and safety are unscored — formula unscored",
    "Maker not verified — no parent company found"
   ],
   "scores": {
    "ingredients": 0,
    "skin": 0,
-   "trust": 3.5,
+   "trust": 3.8,
    "experience": 6.1
   },
   "fullSpec": {
@@ -139378,12 +140921,13 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "5/5 (5 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
+   "inciStatus": "Too few ingredients are recognisable INCI names to treat this as the declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Specifications › Composition",
+   "inciList": "Unverified seller line: Salicylic Acid, Tranexamic Acid, AHA Blend (Alpha Hydroxy Acids), PHA (Polyhydroxy Acids), D-Panthenol (Pro-Vitamin B5), Bakuchiol, Silymarin (Silybum marianum Fruit Extract), Glycerin, Saccharide Isomerate",
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
+   "declaredManufacturer": "Beaucience India Pvt.Ltd., I-10 DLF, Industrial Area , Phase-1, Sector 32, Faridabad, Harayana ,India -121003 (as printed on the Flipkart listing — not scored)",
    "buyerEvidence": "5★ from 5 ratings"
   },
   "images": [
@@ -139395,17 +140939,18 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/facecraft-project-2-salicylic-tranexamic-exfoliate-serum-dark-spots-pigmentation-care/p/itm09b03d75b3d7b",
   "buyStore": "Flipkart",
-  "title": "the facecraft project 2 % Salicylic + Tranexamic Exfoliate Serum …",
+  "title": "the facecraft project 2 % Salicylic + Tranexamic Exfoliate Serum for Dark Spots & Pigmentation Care",
   "tags": [
    "scope:unstated",
    "format:serum",
    "ing:salicylic-acid-bha",
    "ing:tranexamic-acid",
+   "claim:dark-spots",
    "claim:exfoliating",
    "aud:unisex",
    "rating:4.5",
    "store:flipkart",
-   "inci:none"
+   "inci:partial"
   ],
   "filters": {
    "actives": true,
@@ -139414,23 +140959,23 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
+   "inci": "partial",
    "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Specifications › Composition",
+   "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
    "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
+   "inciUnverified": "Salicylic Acid, Tranexamic Acid, AHA Blend (Alpha Hydroxy Acids), PHA (Polyhydroxy Acids), D-Panthenol (Pro-Vitamin B5), Bakuchiol, Silymarin (Silybum marianum Fruit Extract), Glycerin, Saccharide Isomerate",
+   "inciNote": "Too few ingredients are recognisable INCI names to treat this as the declared list, so formula and safety are unscored",
    "declarationConfidence": null,
-   "recognised": null,
+   "recognised": 0.56,
    "actives": [],
    "support": [],
    "formulaNotes": [],
@@ -139489,7 +141034,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): perfume (−0.8)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.4★ from 57 ratings",
-   "concernBasis": "Acne — niacinamide #6 on INCI; Dark spots — kojic acid #5 on INCI, niacinamide #6 on INCI; Irritation — panthenol #9 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #6 on INCI; Dark spots — kojic acid #5 on INCI, niacinamide #6 on INCI; Irritation — panthenol #9 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/scrub/a/w/6/100-peel-shot-instant-tan-removal-exfoliating-spray-body-foot-original-imahqnjhkggckhqx.jpeg?q=90",
@@ -139506,6 +141052,7 @@ const CTPRODUCTS = [
    "format:mist",
    "format:pack",
    "format:peel",
+   "water:unstated",
    "claim:de-tan",
    "claim:exfoliating",
    "skin:all",
@@ -139663,7 +141210,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/d/v/v/2-salicylic-acid-exfoliating-body-wash-under-arm-roll-on-10-aha-original-imaheqxhcuphcfty.jpeg?q=90",
@@ -139683,6 +141231,7 @@ const CTPRODUCTS = [
    "format:kit",
    "spf:50",
    "pa:++++",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:aha",
    "claim:brightening",
@@ -140244,7 +141793,7 @@ const CTPRODUCTS = [
  {
   "id": "suganda-skincare-itm226c4bd502046",
   "brand": "SUGANDA SKINCARE",
-  "model": "2-in-1 Exfoliating & Moisturising Fragrance Free …",
+  "model": "2-in-1 Exfoliating & Moisturising Fragrance Free Unscented Body Lotion",
   "price": 475,
   "capacityLine": "200 ml",
   "materialLine": "niacinamide + lactic acid",
@@ -140280,7 +141829,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Suganda Skincare — Indian D2C brand with its own product company",
-   "buyerEvidence": "3.9★ from 47 ratings"
+   "buyerEvidence": "3.9★ from 47 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/j/u/v/200-2-in-1-exfoliating-moisturising-fragrance-free-unscented-original-imahf9k9unhfydv2.jpeg?q=90",
@@ -140291,12 +141841,13 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/suganda-skincare-2-in-1-exfoliating-moisturising-fragrance-free-unscented-body-lotion/p/itm226c4bd502046",
   "buyStore": "Flipkart",
-  "title": "SUGANDA SKINCARE 2-in-1 Exfoliating & Moisturising Fragrance Free …",
+  "title": "SUGANDA SKINCARE 2-in-1 Exfoliating & Moisturising Fragrance Free Unscented Body Lotion",
   "tags": [
    "scope:both",
    "format:lotion",
    "format:oil",
    "format:patch",
+   "water:unstated",
    "ing:niacinamide",
    "ing:lactic-acid",
    "ing:calendula",
@@ -140361,7 +141912,7 @@ const CTPRODUCTS = [
  {
   "id": "suganda-skincare-itmff097b6184f71",
   "brand": "SUGANDA SKINCARE",
-  "model": "2-in-1 Exfoliating & Moisturising Fragrance Free …",
+  "model": "2-in-1 Exfoliating & Moisturising Fragrance Free Body Lotion,500ml",
   "price": 858,
   "capacityLine": "500 ml",
   "materialLine": "niacinamide + lactic acid",
@@ -140410,7 +141961,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/suganda-skincare-2-in-1-exfoliating-moisturising-fragrance-free-body-lotion-500ml/p/itmff097b6184f71",
   "buyStore": "Flipkart",
-  "title": "SUGANDA SKINCARE 2-in-1 Exfoliating & Moisturising Fragrance Free …",
+  "title": "SUGANDA SKINCARE 2-in-1 Exfoliating & Moisturising Fragrance Free Body Lotion,500ml",
   "tags": [
    "scope:both",
    "format:lotion",
@@ -141630,7 +143181,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/q/4/e/30-peeling-solution-face-serum-for-exfoliation-detan-unisex-original-imahjzg9vmmgvjbb.jpeg?q=90",
@@ -141649,6 +143201,7 @@ const CTPRODUCTS = [
    "format:pack",
    "format:peel",
    "format:wash",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "claim:brightening",
@@ -142038,7 +143591,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.4★ from 5 ratings"
+   "buyerEvidence": "3.4★ from 5 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/t/v/b/30-32-aha-pha-bha-face-peel-serum-peeling-solution-instant-glow-original-imahh6ywa6xhkuad.jpeg?q=90",
@@ -142055,6 +143609,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:peel",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:aha",
    "ing:pha",
@@ -142790,7 +144345,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/y/g/5/80-mild-peeling-solution-face-body-exfoliating-scrub-for-smooth-original-imahmhhcaawpcaah.jpeg?q=90",
@@ -142806,6 +144362,7 @@ const CTPRODUCTS = [
    "format:pack",
    "format:scrub",
    "format:peel",
+   "water:unstated",
    "claim:brightening",
    "claim:anti-aging",
    "claim:acne",
@@ -143312,7 +144869,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/o/c/l/30-exfoliating-serum-fancyperks-original-imahzdg9tgpbgjfz.jpeg?q=90",
@@ -143327,6 +144885,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:peel",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:aha",
    "claim:brightening",
@@ -144192,44 +145751,45 @@ const CTPRODUCTS = [
  {
   "id": "skinzaar-itmf23070fccee86",
   "brand": "Skinzaar",
-  "model": "Exfoliating Serum – Lactic Acid, Glycolic Acid, Hyaluron …",
+  "model": "Exfoliating Serum – Lactic Acid, Glycolic Acid, Hyaluronic Acid & Vitamin B | Purifies Por…",
   "price": 565,
   "capacityLine": "Quantity not stated",
-  "materialLine": "glycolic acid + lactic acid",
+  "materialLine": "glycolic acid + lactic acid + hyaluronic acid",
   "featureLine": "Scrub / exfoliant",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "No ingredient list published on the listing",
+   "Only 3 ingredients named — formula unscored",
    "Maker not verified — no parent company found",
    "No buyer ratings yet"
   ],
   "scores": {
    "ingredients": 0,
    "skin": 0,
-   "trust": 3.5,
+   "trust": 3.8,
    "experience": 0
   },
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
    "format": "Scrub / exfoliant",
-   "keyIngredients": "glycolic acid, lactic acid (per listing)",
+   "keyIngredients": "glycolic acid, lactic acid, hyaluronic acid (per listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
-   "benefit": "Not stated in listing",
+   "benefit": "Acne/blemish claim",
    "audience": "Unisex / not stated",
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
+   "inciStatus": "Only 3 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Specifications › Composition",
+   "inciList": "Unverified seller line: Aqua (Water), Hyaluronice acid, Green Tea",
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
+   "declaredManufacturer": "skinzaar , new delhi ,india (as printed on the Flipkart listing — not scored)",
    "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
@@ -144240,18 +145800,22 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/skinzaar-exfoliating-serum-lactic-acid-glycolic-hyaluronic-acid-vitamin-b-purifies-pores-regulates-oil-softens-dryness-exfoliates-dead-skin-heals-acne-improves-skin-texture/p/itmf23070fccee86",
   "buyStore": "Flipkart",
-  "title": "Skinzaar Exfoliating Serum – Lactic Acid, Glycolic Acid, Hyaluron …",
+  "title": "Skinzaar Exfoliating Serum – Lactic Acid, Glycolic Acid, Hyaluronic Acid & Vitamin B | Purifies Pores, Regulates Oil, Softens Dryness, Exfoliates Dead Skin, Heals Acne & Improves Skin Texture",
   "tags": [
    "scope:unstated",
    "format:serum",
+   "format:oil",
    "ing:glycolic-acid",
    "ing:lactic-acid",
    "ing:hyaluronic-acid",
+   "claim:acne",
+   "claim:pores",
    "claim:exfoliating",
+   "claim:dry-skin-relief",
    "aud:unisex",
    "rating:none",
    "store:flipkart",
-   "inci:none"
+   "inci:partial"
   ],
   "filters": {
    "actives": true,
@@ -144260,23 +145824,23 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
+   "inci": "partial",
    "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Specifications › Composition",
+   "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
    "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
+   "inciUnverified": "Aqua (Water), Hyaluronice acid, Green Tea",
+   "inciNote": "Only 3 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
    "declarationConfidence": null,
-   "recognised": null,
+   "recognised": 0.67,
    "actives": [],
    "support": [],
    "formulaNotes": [],
@@ -144332,7 +145896,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/x/e/t/30-nineless-5-glycolic-acid-serum-aha-exfoliating-texture-original-imahmf55azsgew9j.jpeg?q=90",
@@ -144348,6 +145913,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:serum",
    "format:wash",
+   "water:unstated",
    "ing:glycolic-acid",
    "ing:aha",
    "claim:brightening",
@@ -144440,7 +146006,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/y/g/k/30-nineless-glycolic-acid-serum-aha-exfoliating-texture-original-imahmfdes56vyxby.jpeg?q=90",
@@ -144457,6 +146024,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:serum",
    "format:wash",
+   "water:unstated",
    "ing:glycolic-acid",
    "ing:aha",
    "claim:brightening",
@@ -144509,9 +146077,183 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "juicy-chemistry-itm28fc9d5b86884",
+  "brand": "Juicy Chemistry",
+  "model": "5% Lactic Acid + 3% Flower Acids Serum | Gentle Exfoliating & Brightening Serum",
+  "price": 234,
+  "capacityLine": "10 ml",
+  "materialLine": "lactic acid",
+  "featureLine": "Scrub / exfoliant · ₹2340/100ml",
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Juicy Chemistry official website (juicychemistry.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "lactic acid high on the INCI list (strong evidence); salicylic acid high on the INCI list (strong evidence)",
+   "Well-reviewed: 4.3★ from 37 ratings"
+  ],
+  "cons": [
+   "EU-declared fragrance allergen: benzyl alcohol"
+  ],
+  "scores": {
+   "ingredients": 6.8,
+   "skin": 8.7,
+   "trust": 7,
+   "experience": 5.1
+  },
+  "fullSpec": {
+   "quantity": "10 ml",
+   "pricePer100": "₹2340/100ml",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "lactic acid (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "4.3/5 (37 ratings, Flipkart)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Juicy Chemistry official website (juicychemistry.com) — product page › Ingredients",
+   "inciSourceUrl": "https://juicychemistry.com/products/5-lactic-acid-3-flower-acids-serum-fortified-with-hyaluronic-acid-cica",
+   "inciMatchedName": "5% Lactic Acid + 3% Flower Acids Face Serum (name match 88%)",
+   "inciList": "Aqua (Water), Aloe Barbadensis Leaf (Aloe) Juice, Rosa Damascena Flower (Rose Water), Lactic Acid, Butylene Glycol, Hibiscus Sabdariffa Flower Extract, Centella Asiatica Extract (Gotu Kola), Sodium Hyaluronate, Xanthan Gum, Glycerine, Benzyl Alcohol (and) Salicylic Acid (and) Glycerine (and) Sorbic Acid",
+   "evidenceActives": "lactic acid (#4 on list, strong evidence); salicylic acid (#12 on list, strong evidence)",
+   "safetyFlags": "EU-declared fragrance allergen: benzyl alcohol (−0.3)",
+   "maker": "Juicy Chemistry — Indian D2C brand with its own product company",
+   "buyerEvidence": "4.3★ from 37 ratings",
+   "concernBasis": "Irritation — aloe barbadensis leaf juice #2 on INCI, centella asiatica extract #7 on INCI (matching only — not proof it works)"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/n/n/m/10-5-lactic-acid-3-flower-acids-serum-gentle-exfoliating-original-imahnctr6zutemz6.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/3/h/g/10-2-bha-zinc-pca-serum-oil-control-acne-fighting-face-serum-for-original-imahnctmkeh5yqfj.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/n/a/9/10-3-ceramide-complex-copper-peptide-serum-barrier-repair-anti-original-imahnctjfuxh6cw3.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/p/8/z/10-10-niacinamide-2-ectoin-serum-brightening-hydrating-face-original-imahnctpsa77f3zj.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/j/8/d/15-brightening-serum-with-kojic-lactic-acid-for-tan-removal-15ml-original-imahpkqkr8gzxdcr.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/juicy-chemistry-5-lactic-acid-3-flower-acids-serum-gentle-exfoliating-brightening/p/itm28fc9d5b86884",
+  "buyStore": "Flipkart",
+  "title": "Juicy Chemistry 5% Lactic Acid + 3% Flower Acids Serum | Gentle Exfoliating & Brightening Serum",
+  "tags": [
+   "scope:face",
+   "format:serum",
+   "ing:lactic-acid",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:exfoliating",
+   "skin:all",
+   "aud:women",
+   "size:travel",
+   "rating:4.0",
+   "store:flipkart",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Juicy Chemistry official website (juicychemistry.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://juicychemistry.com/products/5-lactic-acid-3-flower-acids-serum-fortified-with-hyaluronic-acid-cica",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "5% Lactic Acid + 3% Flower Acids Face Serum",
+   "inciMatchScore": 0.88,
+   "inciText": "Aqua (Water), Aloe Barbadensis Leaf (Aloe) Juice, Rosa Damascena Flower (Rose Water), Lactic Acid, Butylene Glycol, Hibiscus Sabdariffa Flower Extract, Centella Asiatica Extract (Gotu Kola), Sodium Hyaluronate, Xanthan Gum, Glycerine, Benzyl Alcohol (and) Salicylic Acid (and) Glycerine (and) Sorbic Acid",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "aloe barbadensis leaf juice",
+     "grade": "B",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "centella asiatica extract",
+     "grade": "B",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 12,
+     "core": true,
+     "trace": true,
+     "src": "bha"
+    }
+   ],
+   "support": [
+    "butylene glycol",
+    "sodium hyaluronate",
+    "glycerin"
+   ],
+   "formulaNotes": [],
+   "flags": [
+    {
+     "id": "euAllergen",
+     "label": "EU-declared fragrance allergen",
+     "names": [
+      "benzyl alcohol"
+     ],
+     "penalty": 0.3,
+     "src": "eu1223"
+    }
+   ],
+   "maker": {
+    "parent": "Juicy Chemistry",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://juicychemistry.com/"
+   },
+   "buyers": "4.3★ from 37 ratings"
+  }
+ },
+ {
   "id": "bejoy-itmb3d983067da58",
   "brand": "Bejoy",
-  "model": "Gentle Chemical Exfoliating Serum with 10% Lactic Acid for …",
+  "model": "Gentle Chemical Exfoliating Serum with 10% Lactic Acid for Clear & Healthy Looking Skin",
   "price": 149,
   "capacityLine": "30 ml",
   "materialLine": "lactic acid",
@@ -144556,7 +146298,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/bejoy-gentle-chemical-exfoliating-serum-10-lactic-acid-clear-healthy-looking-skin/p/itmb3d983067da58",
   "buyStore": "Flipkart",
-  "title": "Bejoy Gentle Chemical Exfoliating Serum with 10% Lactic Acid for …",
+  "title": "Bejoy Gentle Chemical Exfoliating Serum with 10% Lactic Acid for Clear & Healthy Looking Skin",
   "tags": [
    "scope:face",
    "format:serum",
@@ -144612,9 +146354,240 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "bejoy-itm013fea36daa60",
+  "brand": "Bejoy",
+  "model": "Lactic Acid 10% + Hyaluronic Acid Face Serum for Glowing Skin – Exfoliating & Hydrating Fo…",
+  "price": 149,
+  "capacityLine": "30 ml",
+  "materialLine": "niacinamide + retinol + glycolic acid",
+  "featureLine": "Scrub / exfoliant · ₹497/100ml",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹497/100ml",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "niacinamide, retinol, glycolic acid, lactic acid, hyaluronic acid (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim, Anti-aging claim, Acne/blemish claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/c/i/b/30-lactic-acid-10-hyaluronic-acid-face-serum-for-glowing-skin-original-imahneppkd9srjmj.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/t/f/0/30-radiant-skin-lactic-acid-10-serum-gentle-exfoliation-for-even-original-imahnezcxh8jybaj.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/p/i/e/30-lactic-acid-10-ha-face-serum-30ml-brightening-pore-size-original-imah9qknqc4w9quc.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/l15bxjk0/fairness/k/5/h/30-10-lactic-acid-serum-aha-serum-for-acne-scars-tan-removal-original-imagcs9dzgcxbztd.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/c/g/a/30-10-lactic-acid-aha-serum-with-ha-glycerin-for-brightening-original-imahnenybrjyfrn3.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/bejoy-lactic-acid-10-hyaluronic-face-serum-glowing-skin-exfoliating-hydrating-formula/p/itm013fea36daa60",
+  "buyStore": "Flipkart",
+  "title": "Bejoy Lactic Acid 10% + Hyaluronic Acid Face Serum for Glowing Skin – Exfoliating & Hydrating Formula",
+  "tags": [
+   "scope:face",
+   "format:serum",
+   "format:capsule",
+   "ing:niacinamide",
+   "ing:retinol",
+   "ing:glycolic-acid",
+   "ing:lactic-acid",
+   "ing:hyaluronic-acid",
+   "ing:ferulic-acid",
+   "ing:pdrn-polynucleotide",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:anti-aging",
+   "claim:acne",
+   "claim:pores",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "claim:scars",
+   "aud:women",
+   "size:travel",
+   "rating:none",
+   "store:flipkart",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "alna-itm30e02a35c18f4",
+  "brand": "ALNA",
+  "model": "GREEN DERMA 10% LACTIC ACID & 1% HYALURONIC ACID SERUM FOR EXFOLIATION AND SKIN RENEWAL, H…",
+  "price": 535,
+  "capacityLine": "30 ml",
+  "materialLine": "lactic acid + hyaluronic acid",
+  "featureLine": "Scrub / exfoliant · Paraben-free · ₹1783/100ml",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 2 ingredients named — formula unscored",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹1783/100ml",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "lactic acid, hyaluronic acid (per listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Dermatologically tested (seller claim — not scored)",
+   "nonComedogenic": "Non-comedogenic (seller claim — not scored)",
+   "benefit": "Hydrating, Brightening/glow claim, Anti-aging claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Sensitive Skin",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: 10% LACTIC ACID AND 1% HYALURONIC ACID SERUM",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/v/e/e/30-green-derma-10-lactic-acid-1-hyaluronic-acid-serum-for-original-imahnzqh7by63ntk.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/d/z/z/30-green-derma-10-lactic-acid-1-hyaluronic-acid-serum-for-original-imahzzb3wzpjxxae.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/x/o/g/30-green-derma-10-lactic-acid-1-hyaluronic-acid-serum-for-original-imahzzapgfgxkshf.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/8/u/q/30-green-derma-10-lactic-acid-1-hyaluronic-acid-serum-for-original-imahzzb38pxv53mn.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/l/k/j/30-green-derma-10-lactic-acid-1-hyaluronic-acid-serum-for-original-imahzzapvaa8h42e.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/alna-green-derma-10-lactic-acid-1-hyaluronic-serum-exfoliation-skin-renewal-hydration-plumping-gentle-suitable-sensitive/p/itm30e02a35c18f4",
+  "buyStore": "Flipkart",
+  "title": "ALNA GREEN DERMA 10% LACTIC ACID & 1% HYALURONIC ACID SERUM FOR EXFOLIATION AND SKIN RENEWAL, HYDRATION AND PLUMPING, GENTLE AND SUITABLE FOR SENSITIVE SKIN",
+  "tags": [
+   "scope:face",
+   "format:serum",
+   "format:pack",
+   "water:unstated",
+   "ing:lactic-acid",
+   "ing:hyaluronic-acid",
+   "claim:brightening",
+   "claim:anti-aging",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "skin:sensitive",
+   "free:paraben",
+   "free:derm",
+   "free:non-comedogenic",
+   "free:sensitive-safe",
+   "aud:women",
+   "size:travel",
+   "rating:none",
+   "store:flipkart",
+   "inci:partial"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": true,
+   "derm": true,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "10% LACTIC ACID AND 1% HYALURONIC ACID SERUM",
+   "inciNote": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
   "id": "bejoy-itm7a638fed61093",
   "brand": "Bejoy",
-  "model": "Radiant Skin Lactic Acid 10% Serum – Gentle Exfoliation for …",
+  "model": "Radiant Skin Lactic Acid 10% Serum – Gentle Exfoliation for Even Tone & Soft Texture",
   "price": 146,
   "capacityLine": "30 ml",
   "materialLine": "lactic acid",
@@ -144659,7 +146632,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/bejoy-radiant-skin-lactic-acid-10-serum-gentle-exfoliation-even-tone-soft-texture/p/itm7a638fed61093",
   "buyStore": "Flipkart",
-  "title": "Bejoy Radiant Skin Lactic Acid 10% Serum – Gentle Exfoliation for …",
+  "title": "Bejoy Radiant Skin Lactic Acid 10% Serum – Gentle Exfoliation for Even Tone & Soft Texture",
   "tags": [
    "scope:face",
    "format:serum",
@@ -144718,7 +146691,7 @@ const CTPRODUCTS = [
  {
   "id": "cosmo-itm77c68df93affd",
   "brand": "Cosmo",
-  "model": "Lactic Acid 10% + Ha Face Serum Exfoliates, Reveals Smoothe …",
+  "model": "Lactic Acid 10% + Ha Face Serum Exfoliates, Reveals Smoother Skin",
   "price": 500,
   "capacityLine": "30 ml",
   "materialLine": "lactic acid + aloe vera + rose",
@@ -144766,7 +146739,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/cosmo-lactic-acid-10-ha-face-serum-exfoliates-reveals-smoother-skin/p/itm77c68df93affd",
   "buyStore": "Flipkart",
-  "title": "COSMO Lactic Acid 10% + Ha Face Serum Exfoliates, Reveals Smoothe …",
+  "title": "COSMO Lactic Acid 10% + Ha Face Serum Exfoliates, Reveals Smoother Skin",
   "tags": [
    "scope:both",
    "format:cream",
@@ -144830,7 +146803,7 @@ const CTPRODUCTS = [
  {
   "id": "sarstae-itm96ed61e5e4371",
   "brand": "SARSTAE",
-  "model": "5% Lactic Acid + 2% Ha Daily Peeling Solution for Glowing …",
+  "model": "5% Lactic Acid + 2% Ha Daily Peeling Solution for Glowing, Smooth Skin| 30ml",
   "price": 430,
   "capacityLine": "30 ml",
   "materialLine": "lactic acid + hyaluronic acid",
@@ -144879,7 +146852,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/sarstae-5-lactic-acid-2-ha-daily-peeling-solution-glowing-smooth-skin-30ml/p/itm96ed61e5e4371",
   "buyStore": "Flipkart",
-  "title": "SARSTAE 5% Lactic Acid + 2% Ha Daily Peeling Solution for Glowing …",
+  "title": "SARSTAE 5% Lactic Acid + 2% Ha Daily Peeling Solution for Glowing, Smooth Skin| 30ml",
   "tags": [
    "scope:face",
    "format:serum",
@@ -144949,7 +146922,7 @@ const CTPRODUCTS = [
  {
   "id": "hempnation-itmdb0a8e91c2714",
   "brand": "Hempnation",
-  "model": "5% Mandelic Acid Exfoliating Serum – Prevents Acne (30 …",
+  "model": "5% Mandelic Acid Exfoliating Serum – Prevents Acne",
   "price": 359,
   "capacityLine": "30 ml",
   "materialLine": "mandelic acid + rice water + vitamin E",
@@ -144987,7 +146960,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/h/j/6/30-5-mandelic-acid-exfoliating-serum-prevents-acne-hempnation-original-imahh2cyaqhvk3gh.jpeg?q=90",
@@ -144998,11 +146972,12 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/hempnation-5-mandelic-acid-exfoliating-serum-prevents-acne/p/itmdb0a8e91c2714",
   "buyStore": "Flipkart",
-  "title": "Hempnation 5% Mandelic Acid Exfoliating Serum – Prevents Acne (30 …",
+  "title": "Hempnation 5% Mandelic Acid Exfoliating Serum – Prevents Acne",
   "tags": [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:mandelic-acid",
    "ing:rice-water",
    "ing:vitamin-e",
@@ -148987,7 +150962,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): perfume (−0.8)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "5★ from 6 ratings",
-   "concernBasis": "Acne — salicylic acid #13 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — salicylic acid #13 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-face-wash/f/o/q/gel-100-radiant-glow-aha-bha-exfoliating-face-wash-100g-matives-original-imahj5pyy5kg5m5f.jpeg?q=90",
@@ -149004,6 +150980,7 @@ const CTPRODUCTS = [
    "format:gel",
    "format:pack",
    "format:wash",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:aha",
    "claim:brightening",
@@ -149875,6 +151852,7 @@ const CTPRODUCTS = [
    "ing:clay",
    "ing:papaya",
    "ing:ubtan",
+   "ing:pdrn-polynucleotide",
    "claim:acne",
    "claim:oil-control",
    "claim:hydrating",
@@ -152102,6 +154080,7 @@ const CTPRODUCTS = [
    "format:pack",
    "format:peel",
    "format:wash",
+   "format:cleansing-oil",
    "ing:green-tea",
    "claim:brightening",
    "claim:dark-spots",
@@ -153026,7 +155005,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.3★ from 6 ratings"
+   "buyerEvidence": "3.3★ from 6 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/e/i/s/100-orange-enzyme-exfoliating-gel-brightening-face-body-original-imahmwa3j6cwzazg.jpeg?q=90",
@@ -153042,6 +155022,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:pack",
+   "water:unstated",
    "claim:brightening",
    "claim:whitening-claim",
    "claim:anti-aging",
@@ -166447,6 +168428,7 @@ const CTPRODUCTS = [
    "claim:acne",
    "claim:pores",
    "claim:exfoliating",
+   "claim:chapped-lips",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -167411,7 +169393,7 @@ const CTPRODUCTS = [
  {
   "id": "neev-itm7a195e47c93ac",
   "brand": "Neev",
-  "model": "Neem Face Scrub Soap 50gm (50 g)",
+  "model": "Neem Face Scrub Soap 50gm",
   "price": 128,
   "capacityLine": "150 g (pack of 3)",
   "materialLine": "sandalwood + rose + charcoal",
@@ -167459,7 +169441,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/neev-neem-face-scrub-soap-50gm/p/itm7a195e47c93ac",
   "buyStore": "Flipkart",
-  "title": "Neev Neem Face Scrub Soap 50gm (50 g)",
+  "title": "Neev Neem Face Scrub Soap 50gm",
   "tags": [
    "scope:face",
    "format:oil",
@@ -171586,6 +173568,7 @@ const CTPRODUCTS = [
    "ing:aloe-vera",
    "ing:glycerin",
    "ing:chamomile",
+   "ing:pdrn-polynucleotide",
    "claim:brightening",
    "claim:dark-spots",
    "claim:acne",
@@ -174278,6 +176261,7 @@ const CTPRODUCTS = [
    "claim:exfoliating",
    "claim:water-resistant",
    "claim:makeup",
+   "claim:waterproof-makeup",
    "skin:dry",
    "skin:sensitive",
    "free:paraben",
@@ -175060,13 +177044,13 @@ const CTPRODUCTS = [
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "No ingredient list published on the listing",
+   "Only 2 ingredients named — formula unscored",
    "Maker not verified — no parent company found"
   ],
   "scores": {
    "ingredients": 0,
    "skin": 0,
-   "trust": 3.5,
+   "trust": 3.8,
    "experience": 1.3
   },
   "fullSpec": {
@@ -175083,9 +177067,9 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "3.8/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
+   "inciStatus": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: Aqua Aloe Barbadensis (Aloe vera) Leaf Extract Glycerin Kojic acid Dipalmitate Cucumis Sativus (Cucumber) Fruit Extract Lactic Acid 1,2 Propanediol Sodium Hyaluronate Ethylhexylglycerin Phenoxyethanol Carbomer Xanthan Gum Disodium EDTA Sodium Hydroxide Glycyrrhiza Glabra (Licorice) Root Extract Malic Acid Fragrance",
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
@@ -175109,7 +177093,7 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:3.5",
    "store:amazon",
-   "inci:none"
+   "inci:partial"
   ],
   "filters": {
    "actives": true,
@@ -175118,23 +177102,23 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
+   "inci": "partial",
    "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
    "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
+   "inciUnverified": "Aqua Aloe Barbadensis (Aloe vera) Leaf Extract Glycerin Kojic acid Dipalmitate Cucumis Sativus (Cucumber) Fruit Extract Lactic Acid 1,2 Propanediol Sodium Hyaluronate Ethylhexylglycerin Phenoxyethanol Carbomer Xanthan Gum Disodium EDTA Sodium Hydroxide Glycyrrhiza Glabra (Licorice) Root Extract Malic Acid Fragrance",
+   "inciNote": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
    "declarationConfidence": null,
-   "recognised": null,
+   "recognised": 1,
    "actives": [],
    "support": [],
    "formulaNotes": [],
@@ -178649,6 +180633,7 @@ const CTPRODUCTS = [
    "format:toner",
    "format:oil",
    "format:wash",
+   "format:cleansing-oil",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
    "ing:aha",
@@ -185554,10 +187539,12 @@ const CTPRODUCTS = [
   "tags": [
    "scope:body",
    "format:pads",
+   "format:aftershave",
    "ing:salicylic-acid-bha",
    "ing:aha",
    "claim:exfoliating",
    "claim:ingrown",
+   "claim:razor-burn",
    "aud:women",
    "rating:4.0",
    "store:amazon",
@@ -193451,7 +195438,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51aEILt+16L._AC_UL320_.jpg"
@@ -193464,6 +195452,7 @@ const CTPRODUCTS = [
    "format:peel",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
    "ing:aha",
@@ -195463,7 +197452,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61LIRWAKi8L._AC_UL320_.jpg"
@@ -195478,6 +197468,7 @@ const CTPRODUCTS = [
    "spf:50",
    "pa:+++",
    "sun:mineral",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:aha",
    "ing:pha",
@@ -195899,7 +197890,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.8★ from 0 ratings"
+   "buyerEvidence": "3.8★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61hfpg-cV6L._AC_UL320_.jpg"
@@ -195913,6 +197905,7 @@ const CTPRODUCTS = [
    "format:peel",
    "spf:60",
    "pa:++++",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:aha",
    "ing:pha",
@@ -197946,7 +199939,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.9★ from 0 ratings"
+   "buyerEvidence": "4.9★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51emDjVoffL._AC_UL320_.jpg"
@@ -197958,6 +199952,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:peel",
+   "water:unstated",
    "ing:niacinamide",
    "ing:aha",
    "ing:green-tea",
@@ -198810,7 +200805,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Heavenly Secrets — Indian D2C brand with its own product company",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/4128poa45bL._AC_UL320_.jpg"
@@ -198824,6 +200820,7 @@ const CTPRODUCTS = [
    "format:peel",
    "spf:50",
    "pa:++++",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",

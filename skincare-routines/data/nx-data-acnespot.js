@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-11.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-12.
 // Unknown fields are honestly marked, never invented.
 const NXPRODUCTS = [
  {
@@ -45,7 +45,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/b/e/n/40-green-tangerine-serum-dark-spot-corrector-hydrating-care-original-imahds7phb7sbh7b.jpeg?q=90",
@@ -62,6 +63,7 @@ const NXPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:wash",
+   "water:unstated",
    "ing:vitamin-c",
    "claim:brightening",
    "claim:dark-spots",
@@ -5391,7 +5393,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/2/s/s/36-acne-pimple-patch-for-face-with-hydrocolloid-salycylic-acid-original-imah4c55nbhfkyjy.jpeg?q=90",
@@ -5406,6 +5409,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:pack",
    "format:patch",
+   "water:unstated",
    "ing:tea-tree",
    "ing:hydrocolloid",
    "ing:calendula",
@@ -5720,7 +5724,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.5★ from 6 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/r/b/c/36-hydrocolloid-acne-pimple-patch-with-salicylic-acid-gleora-original-imahmgwdgzkmgpaq.jpeg?q=90",
@@ -5737,6 +5742,7 @@ const NXPRODUCTS = [
    "format:pack",
    "format:peel",
    "format:patch",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:hydrocolloid",
    "claim:acne",
@@ -8560,7 +8566,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4★ from 1,688 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-body-skin-treatment/v/u/g/20-pimple-acne-patch-hydrocolloid-waterproof-patches-active-original-imahfp79uwb7y9ts.jpeg?q=90",
@@ -8576,6 +8583,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:pack",
    "format:patch",
+   "water:resistant",
    "ing:salicylic-acid-bha",
    "ing:tea-tree",
    "ing:aloe-vera",
@@ -10239,7 +10247,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/b/a/p/20-pimple-patch-acne-patch-for-face-women-face-pack-for-acne-original-imahe83vfv7zezsg.jpeg?q=90",
@@ -10255,6 +10264,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:pack",
    "format:patch",
+   "water:resistant",
    "ing:hydrocolloid",
    "claim:acne",
    "claim:pores",
@@ -10351,7 +10361,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.8★ from 17 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/x/r/j/18-0-acne-spot-patch-acne-pimple-patch-overnight-spot-cover-original-imahhvd5udhnknst.jpeg?q=90",
@@ -10368,6 +10379,7 @@ const NXPRODUCTS = [
    "format:pack",
    "format:peel",
    "format:patch",
+   "water:unstated",
    "ing:hydrocolloid",
    "claim:dark-spots",
    "claim:acne",
@@ -10571,7 +10583,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/6/s/6/20-acne-pimple-patch-36-dots-daryue-original-imahmechyqggrcns.jpeg?q=90",
@@ -10591,6 +10604,7 @@ const NXPRODUCTS = [
    "format:patch",
    "format:wash",
    "format:kit",
+   "water:resistant",
    "ing:salicylic-acid-bha",
    "ing:clay",
    "ing:hydrocolloid",
@@ -11131,7 +11145,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/u/w/n/12-cica-acne-patch-with-cica-and-salicylic-acid-enn-original-imahpah6yc8ghxpj.jpeg?q=90",
@@ -11146,6 +11161,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:patch",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:centella-cica",
    "claim:anti-aging",
@@ -16500,7 +16516,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/0/r/a/20-moduseb-acne-spot-gel-for-active-acne-oily-skin-with-0-5-original-imahqvb7hvagurcj.jpeg?q=90",
@@ -16517,6 +16534,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:retinal",
    "ing:salicylic-acid-bha",
@@ -16620,7 +16638,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Fixderma India (dermatology company) — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "4.2★ from 359 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/8/d/6/-original-imahz8q9gxjcwzua.jpeg?q=90",
@@ -16636,6 +16655,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "claim:dark-spots",
@@ -16834,7 +16854,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/h/j/v/30-lumaira-sos-acne-spot-corrector-pack-of-2-lumaira-original-imahmz34ztydq9uk.jpeg?q=90",
@@ -16852,6 +16873,7 @@ const NXPRODUCTS = [
    "format:clay-mask",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:clay",
    "ing:glycerin",
    "claim:dark-spots",
@@ -16947,7 +16969,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/j/u/d/2-acne-pimple-patches-for-removing-zits-blemishes-pimples-svylam-original-imahmrmg3gmpndny.jpeg?q=90",
@@ -16963,6 +16986,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:pack",
    "format:patch",
+   "water:resistant",
    "claim:acne",
    "claim:pores",
    "claim:oil-control",
@@ -17167,7 +17191,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.8★ from 13 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/e/h/g/20-spot-corrector-gel-moha-original-imahk68evxsfhd44.jpeg?q=90",
@@ -17185,6 +17210,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:pack",
    "format:wash",
+   "water:unstated",
    "ing:tea-tree",
    "claim:dark-spots",
    "claim:anti-aging",
@@ -17821,7 +17847,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/t/i/l/15-acne-spot-corrector-gel-with-2-salicylic-acid-for-smooth-original-imahpas5yngvgvr6.jpeg?q=90",
@@ -17837,6 +17864,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -18159,7 +18187,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/s/l/1/10-pimple-healing-spot-clearing-patch-invisible-hydrocolloid-original-imahdgabwtbwgeun.jpeg?q=90",
@@ -18173,6 +18202,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:pack",
    "format:patch",
+   "water:unstated",
    "ing:hydrocolloid",
    "claim:acne",
    "claim:no-white-cast",
@@ -18266,7 +18296,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/n/v/9/15-acne-treatment-gel-with-2-salicylic-acid-for-clear-healthy-original-imahparfavvrwrqw.jpeg?q=90",
@@ -18282,6 +18313,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -18377,7 +18409,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/7/c/a/15-fast-acne-spot-gel-with-salicylic-acid-bha-complex-rosebrite-original-imahpasfrwfvp6eh.jpeg?q=90",
@@ -18393,6 +18426,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -18605,7 +18639,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/7/3/r/15-salicylic-acid-bha-gel-for-acne-spots-stubborn-breakouts-original-imahparqhfg4seg5.jpeg?q=90",
@@ -18621,6 +18656,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -18717,7 +18753,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "5★ from 4 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/g/t/l/15-acne-spot-corrector-gel-salicylic-acid-spot-treatment-with-original-imahpnzz8yggd4z5.jpeg?q=90",
@@ -18734,6 +18771,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:oil",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:azelaic-acid",
@@ -19062,7 +19100,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/d/3/50-dark-spot-corrector-face-cream-for-women-pigmentation-repairs-original-imahjb8kurxhqawt.jpeg?q=90",
@@ -19079,6 +19118,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:wash",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:saffron",
    "ing:vitamin-e",
@@ -19305,7 +19345,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.8★ from 546 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/2/i/w/50-dark-spot-corrector-cream-pimple-marks-acne-scar-pigmentation-original-imah4m8hfhttvkzb.jpeg?q=90",
@@ -19321,6 +19362,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:kit",
+   "water:unstated",
    "claim:brightening",
    "claim:de-tan",
    "claim:dark-spots",
@@ -19418,7 +19460,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/z/s/b/10-3-acne-treatment-gel-with-niacinamide-5-glycolic-acid-3-original-imahhwknyzdhze2s.jpeg?q=90",
@@ -19439,6 +19482,7 @@ const NXPRODUCTS = [
    "format:pack",
    "format:bar",
    "format:wash",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -19550,7 +19594,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3★ from 2 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/t/d/g/25-spot-erase-micro-point-hydrocolloid-patches-for-dark-spots-original-imahh9gbgg7swy9h.jpeg?q=90",
@@ -19565,6 +19610,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:patch",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:hyaluronic-acid",
@@ -20125,7 +20171,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/d/p/w/50-face-cream-for-skin-brightening-acne-spot-care-limez-original-imahqybk75ubbh4r.jpeg?q=90",
@@ -20139,6 +20186,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
@@ -20700,7 +20748,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/e/8/l/15-fast-acting-pimple-spot-gel-with-2-salicylic-acid-niacinamide-original-imahpartbqgcbxjn.jpeg?q=90",
@@ -20717,6 +20766,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:azelaic-acid",
@@ -21170,7 +21220,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/m/n/e/30-treatment-skin-care-face-acne-removal-cream-anti-acne-scar-original-imahhrerzzjjpfnh.jpeg?q=90",
@@ -21187,6 +21238,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:capsule",
    "format:kit",
+   "water:unstated",
    "claim:brightening",
    "claim:dark-spots",
    "claim:whitening-claim",
@@ -21289,7 +21341,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/e/x/y/60-face-care-anti-acne-treatment-cream-gabbu-cream-original-imahhrdywyfr99g6.jpeg?q=90",
@@ -21304,6 +21357,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "claim:brightening",
    "claim:acne",
    "claim:pores",
@@ -21869,7 +21923,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/3/g/o/50-skin-whitening-cream-for-dark-spots-deep-moisturizing-original-imahed6xn6eytuj7.jpeg?q=90",
@@ -21886,6 +21941,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:oil",
    "sun:mineral",
+   "water:unstated",
    "ing:collagen",
    "ing:mineral-oil",
    "claim:brightening",
@@ -21984,7 +22040,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/l/o/o/15-pimple-spot-corrector-gel-with-salicylic-acid-for-blackheads-original-imahpau4wewvhrky.jpeg?q=90",
@@ -22000,6 +22057,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -22430,7 +22488,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/j/b/x/15-acne-spot-gel-with-sulfur-niacinamide-for-clear-complexion-original-imahpatswfhj5qn2.jpeg?q=90",
@@ -22446,6 +22505,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -22541,7 +22601,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/u/m/l/15-pimple-removal-gel-with-salicylic-acid-niacinamide-sulfur-original-imahpatufmftnpjd.jpeg?q=90",
@@ -22557,6 +22618,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -22652,7 +22714,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/c/g/w/15-acne-spot-corrector-gel-2-bha-salicylic-acid-acne-scar-pimple-original-imahzyhfhrue3cgt.jpeg?q=90",
@@ -22667,6 +22730,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:azelaic-acid",
@@ -22764,7 +22828,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/x/j/f/15-acne-spot-corrector-with-bha-sulfur-for-active-pimples-original-imahparvz2y7tdpp.jpeg?q=90",
@@ -22780,6 +22845,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -22876,7 +22942,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/o/a/l/15-acne-spot-corrector-gel-with-sulfur-for-pimples-blackheads-original-imahpasydeqghdev.jpeg?q=90",
@@ -22892,6 +22959,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -22988,7 +23056,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/n/m/x/15-acne-spot-corrector-gel-with-bha-for-acne-pimples-spot-original-imahpas34kw5gwyw.jpeg?q=90",
@@ -23004,6 +23073,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -23100,7 +23170,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/m/m/2/15-pimple-spot-treatment-gel-with-salicylic-acid-for-acne-care-original-imahpasfvmy2sxap.jpeg?q=90",
@@ -23116,6 +23187,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -23211,7 +23283,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/e/0/2/15-pimple-spot-treatment-gel-with-niacinamide-sulfur-care-original-imahpatvbt4mzfjg.jpeg?q=90",
@@ -23227,6 +23300,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -23322,7 +23396,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/n/w/4/15-acne-treatment-gel-salicylic-acid-niacinamide-azelaic-acid-original-imahpasfeuu6xwtu.jpeg?q=90",
@@ -23338,6 +23413,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:azelaic-acid",
@@ -23435,7 +23511,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/8/b/n/15-fast-acting-acne-spot-gel-with-2-bha-for-acne-prone-oily-skin-original-imahpasezptmfhhg.jpeg?q=90",
@@ -23451,6 +23528,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -23548,7 +23626,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/r/v/x/15-salicylic-acid-acne-gel-with-sulfur-for-stubborn-breakout-original-imahparz7nj56yrb.jpeg?q=90",
@@ -23564,6 +23643,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -23659,7 +23739,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/c/g/w/15-acne-spot-corrector-gel-2-bha-salicylic-acid-acne-scar-pimple-original-imahzyhfhrue3cgt.jpeg?q=90",
@@ -23674,6 +23755,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -23769,7 +23851,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/w/h/x/15-salicylic-acid-acne-spot-corrector-for-deep-pore-cleansing-original-imahparq8ngxkrb2.jpeg?q=90",
@@ -23786,6 +23869,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:pack",
    "format:wash",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -23882,7 +23966,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/6/1/u/15-pimple-spot-treatment-gel-for-acne-blackheads-excess-oil-original-imahparbnqvrujm3.jpeg?q=90",
@@ -23898,6 +23983,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -23995,7 +24081,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/s/l/l/15-pimple-spot-treatment-gel-with-salicylic-acid-sulfur-formula-original-imahparv4mctuhzg.jpeg?q=90",
@@ -24011,6 +24098,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -24106,7 +24194,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/o/v/r/15-pimple-removal-gel-with-salicylic-acid-for-spot-blemish-care-original-imahpascfxjvzuna.jpeg?q=90",
@@ -24122,6 +24211,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -24217,7 +24307,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/n/r/3/15-pimple-spot-gel-with-salicylic-acid-for-acne-relief-blemish-original-imahpatr5fymbnxr.jpeg?q=90",
@@ -24233,6 +24324,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -24328,7 +24420,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/z/j/9/15-acne-spot-treatment-gel-with-bha-for-fast-pimple-drying-pore-original-imahpassh9gpd5cz.jpeg?q=90",
@@ -24344,6 +24437,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -24439,7 +24533,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/e/3/o/15-acne-spot-gel-with-2-bha-for-deep-pore-purification-rosebrite-original-imahparqzxqkgecx.jpeg?q=90",
@@ -24455,6 +24550,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -24550,7 +24646,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/n/0/z/15-fast-acting-pimple-spot-gel-with-2-bha-for-acne-prone-skin-original-imahparmfsyzrvjh.jpeg?q=90",
@@ -24566,6 +24663,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -24662,7 +24760,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/9/1/g/15-acne-treatment-gel-with-sulfur-niacinamide-for-spot-free-original-imahpasmygwmywjk.jpeg?q=90",
@@ -24678,6 +24777,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -24773,7 +24873,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/c/g/w/15-acne-spot-corrector-gel-2-bha-salicylic-acid-acne-scar-pimple-original-imahzyhfhrue3cgt.jpeg?q=90",
@@ -24788,6 +24889,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -24884,7 +24986,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/n/s/7/15-professional-acne-spot-gel-with-bha-sulfur-niacinamide-original-imahparsvrfzkjv2.jpeg?q=90",
@@ -24900,6 +25003,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -24995,7 +25099,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/1/8/c/15-salicylic-acid-acne-spot-gel-for-oil-control-pimples-breakout-original-imahpasm2uugzrbt.jpeg?q=90",
@@ -25011,6 +25116,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -25107,7 +25213,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/j/o/i/15-acne-blemish-spot-gel-with-sulfur-niacinamide-salicylic-acid-original-imahparsqpexvaf5.jpeg?q=90",
@@ -25123,6 +25230,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -25218,7 +25326,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/r/u/m/15-acne-treatment-gel-with-sulfur-for-fast-acne-spot-relief-original-imahpasjzb5cczeb.jpeg?q=90",
@@ -25234,6 +25343,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -25329,7 +25439,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/o/o/a/15-acne-spot-treatment-gel-with-niacinamide-sulfur-for-clear-original-imahpas8xnz2kxyn.jpeg?q=90",
@@ -25345,6 +25456,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -25440,7 +25552,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/g/t/h/15-salicylic-acid-acne-spot-gel-with-sulfur-for-daily-acne-spot-original-imahpasecgqb8qh6.jpeg?q=90",
@@ -25456,6 +25569,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -25551,7 +25665,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/c/w/e/15-pimple-removal-gel-with-salicylic-acid-sulfur-complex-original-imahpatxxjrqvh8z.jpeg?q=90",
@@ -25567,6 +25682,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -25662,7 +25778,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/y/w/w/15-acne-treatment-gel-with-sulfur-for-stubborn-acne-spots-original-imahparmtrzacxdw.jpeg?q=90",
@@ -25678,6 +25795,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -25773,7 +25891,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/e/h/n/15-acne-spot-gel-with-sulfur-for-fast-drying-pimples-rosebrite-original-imahparma5znwdhg.jpeg?q=90",
@@ -25789,6 +25908,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -25884,7 +26004,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/d/7/w/15-pimple-control-gel-with-salicylic-acid-sulfur-blend-rosebrite-original-imahparqbs3hnqz2.jpeg?q=90",
@@ -25900,6 +26021,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -25995,7 +26117,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/5/h/2/15-acne-spot-gel-with-sulfur-for-active-pimples-blemish-original-imahpasmxpmguda5.jpeg?q=90",
@@ -26011,6 +26134,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -26106,7 +26230,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/v/s/g/15-fast-acne-control-gel-with-bha-sulfur-niacinamide-formula-original-imahpatrsdyf8wef.jpeg?q=90",
@@ -26122,6 +26247,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -26217,7 +26343,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/b/y/2/15-salicylic-acid-acne-gel-with-sulfur-for-stubborn-acne-spot-original-imahpat3stgmj2h9.jpeg?q=90",
@@ -26233,6 +26360,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -26328,7 +26456,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/f/h/u/15-acne-spot-treatment-gel-with-sulfur-for-active-pimples-acne-original-imahpatnyuzdfpfz.jpeg?q=90",
@@ -26344,6 +26473,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -26440,7 +26570,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/n/m/o/15-acne-spot-corrector-gel-with-sulfur-for-fast-drying-active-original-imahpatesfaewgur.jpeg?q=90",
@@ -26456,6 +26587,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -26668,7 +26800,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/c/g/w/15-acne-spot-corrector-gel-2-bha-salicylic-acid-acne-scar-pimple-original-imahzyhfhrue3cgt.jpeg?q=90",
@@ -26683,6 +26816,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:azelaic-acid",
@@ -26780,7 +26914,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/z/o/j/15-professional-acne-spot-treatment-gel-with-2-salicylic-acid-original-imahpas3eurqugaz.jpeg?q=90",
@@ -26796,6 +26931,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -26891,7 +27027,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/z/e/b/15-pimple-spot-gel-with-salicylic-acid-azelaic-acid-for-acne-original-imahpatydcvvvfpc.jpeg?q=90",
@@ -26907,6 +27044,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:azelaic-acid",
@@ -27228,7 +27366,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/p/h/d/15-acne-control-gel-with-niacinamide-sulfur-salicylic-acid-original-imahpaswjfgrp6zv.jpeg?q=90",
@@ -27244,6 +27383,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -27339,7 +27479,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/t/5/a/15-acne-spot-treatment-with-sulfur-2-salicylic-acid-for-active-original-imahpas9yvsvswzf.jpeg?q=90",
@@ -27355,6 +27496,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -27450,7 +27592,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/2/n/9/15-acne-spot-corrector-gel-with-2-salicylic-acid-for-pimples-oil-original-imahpat8edm7enqw.jpeg?q=90",
@@ -27466,6 +27609,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -27563,7 +27707,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/5/6/t/15-acne-spot-corrector-with-bha-for-daily-pimple-blemish-original-imahpatgm3yhehcf.jpeg?q=90",
@@ -27579,6 +27724,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -27675,7 +27821,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/z/5/3/15-acne-spot-treatment-with-sulfur-for-fast-acne-spot-reduction-original-imahparv9g6pjvrg.jpeg?q=90",
@@ -27691,6 +27838,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -27786,7 +27934,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/e/w/0/15-acne-control-spot-gel-with-salicylic-acid-for-clear-healthy-original-imahpars5qthvuvj.jpeg?q=90",
@@ -27802,6 +27951,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -27897,7 +28047,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/8/e/l/15-acne-control-spot-gel-for-pimples-excess-sebum-reduction-original-imahpasahagsgazr.jpeg?q=90",
@@ -27913,6 +28064,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -28009,7 +28161,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/s/f/v/15-acne-control-gel-with-niacinamide-sulfur-salicylic-acid-original-imahpasefjp9atsz.jpeg?q=90",
@@ -28025,6 +28178,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -28120,7 +28274,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/i/o/c/15-acne-treatment-gel-with-sulfur-niacinamide-for-healthy-original-imahpasffux8xjtg.jpeg?q=90",
@@ -28136,6 +28291,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -28231,7 +28387,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/x/z/9/15-salicylic-acid-spot-corrector-for-acne-marks-pimples-original-imahpatsb7fau3zy.jpeg?q=90",
@@ -28247,6 +28404,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -28344,7 +28502,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/7/o/j/15-acne-spot-corrector-gel-with-2-salicylic-acid-for-clear-original-imahparwg7y6e2hv.jpeg?q=90",
@@ -28360,6 +28519,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -28456,7 +28616,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/i/w/x/15-acne-spot-treatment-gel-with-2-bha-for-healthy-looking-skin-original-imahparq7c4g4gek.jpeg?q=90",
@@ -28472,6 +28633,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -28567,7 +28729,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/c/e/y/15-salicylic-acid-acne-spot-gel-for-clear-smooth-looking-skin-original-imahpategdkz7gqs.jpeg?q=90",
@@ -28583,6 +28746,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -28678,7 +28842,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/g/d/o/15-salicylic-acid-acne-spot-corrector-gel-for-stubborn-acne-original-imahpaseaxcj2xhx.jpeg?q=90",
@@ -28694,6 +28859,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -28790,7 +28956,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/n/e/c/15-acne-treatment-gel-with-bha-for-acne-marks-breakouts-original-imahparyzczfq7yg.jpeg?q=90",
@@ -28806,6 +28973,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -28902,7 +29070,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/p/e/1/15-pimple-spot-corrector-with-salicylic-acid-for-oil-control-original-imahpas9dcs5fqeg.jpeg?q=90",
@@ -28918,6 +29087,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -29016,7 +29186,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/d/z/v/15-acne-treatment-gel-with-salicylic-acid-sulfur-for-healthy-original-imahpau43cy66g2n.jpeg?q=90",
@@ -29032,6 +29203,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -29127,7 +29299,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/b/2/n/15-salicylic-acid-acne-gel-with-2-bha-for-blackheads-whiteheads-original-imahpatjgnekchyy.jpeg?q=90",
@@ -29143,6 +29316,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -29238,7 +29412,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/m/y/7/15-acne-spot-gel-with-2-salicylic-acid-for-oil-free-blemish-original-imahpathcbcmafdg.jpeg?q=90",
@@ -29254,6 +29429,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -29350,7 +29526,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/m/x/x/15-acne-spot-gel-with-salicylic-acid-for-blackhead-reduction-original-imahpatpf4uzdx37.jpeg?q=90",
@@ -29366,6 +29543,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -29461,7 +29639,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/a/2/z/15-fast-acting-acne-spot-gel-with-salicylic-acid-for-stubborn-original-imahparsqjp3hqrg.jpeg?q=90",
@@ -29477,6 +29656,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -29572,7 +29752,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/m/q/c/15-salicylic-acid-gel-for-acne-spots-breakouts-pore-refining-original-imahparmup4hgnah.jpeg?q=90",
@@ -29588,6 +29769,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -29683,7 +29865,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/t/8/o/15-acne-treatment-gel-with-2-salicylic-acid-for-daily-acne-care-original-imahparp6hyqzzxz.jpeg?q=90",
@@ -29699,6 +29882,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -29794,7 +29978,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/y/h/v/15-acne-spot-corrector-gel-with-2-bha-for-fast-daily-acne-spot-original-imahpatpm7nezgve.jpeg?q=90",
@@ -29810,6 +29995,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -29906,7 +30092,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/b/y/b/15-salicylic-acid-acne-gel-for-breakouts-spot-correction-original-imahpat8wmhhxpk9.jpeg?q=90",
@@ -29922,6 +30109,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -30018,7 +30206,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/v/1/p/15-salicylic-acid-acne-spot-corrector-with-sulfur-for-maximum-original-imahpatghwcmjhsm.jpeg?q=90",
@@ -30034,6 +30223,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -30130,7 +30320,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/x/z/7/15-salicylic-acid-acne-gel-for-blemishes-pimples-oil-free-skin-original-imahparwbzux8nux.jpeg?q=90",
@@ -30146,6 +30337,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -30242,7 +30434,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/c/g/w/15-acne-spot-corrector-gel-2-bha-salicylic-acid-acne-scar-pimple-original-imahzyhfhrue3cgt.jpeg?q=90",
@@ -30257,6 +30450,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -30353,7 +30547,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/n/o/h/15-pimple-spot-gel-with-salicylic-acid-for-breakouts-blemishes-original-imahpasbabhbhjpc.jpeg?q=90",
@@ -30369,6 +30564,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -30465,7 +30661,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/g/5/d/15-acne-control-gel-with-salicylic-acid-for-pimples-pores-spot-original-imahpas5cjjhgddf.jpeg?q=90",
@@ -30481,6 +30678,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -30577,7 +30775,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/t/o/7/15-salicylic-acid-acne-spot-gel-with-sulfur-for-daily-spot-original-imahpas2rzpzcpw8.jpeg?q=90",
@@ -30593,6 +30792,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -30689,7 +30889,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/c/g/w/15-acne-spot-corrector-gel-2-bha-salicylic-acid-acne-scar-pimple-original-imahzyhfhrue3cgt.jpeg?q=90",
@@ -30704,6 +30905,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -30799,7 +31001,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/7/x/f/15-acne-spot-treatment-with-sulfur-salicylic-acid-for-clear-skin-original-imahparrzk6f5ssz.jpeg?q=90",
@@ -30815,6 +31018,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -30910,7 +31114,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/g/d/t/15-pimple-spot-gel-with-salicylic-acid-for-acne-control-routine-original-imahparp9kgywmbn.jpeg?q=90",
@@ -30926,6 +31131,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -31021,7 +31227,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/e/r/t/15-acne-control-gel-with-bha-for-blackheads-whiteheads-care-original-imahpasgmrhngjyh.jpeg?q=90",
@@ -31037,6 +31244,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -31132,7 +31340,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/u/l/x/15-acne-spot-treatment-gel-with-2-bha-for-stubborn-pimples-marks-original-imahparkz8rftq75.jpeg?q=90",
@@ -31148,6 +31357,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -31243,7 +31453,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/o/a/z/15-pimple-spot-corrector-gel-with-2-salicylic-acid-for-daily-original-imahpas45gzkcgqa.jpeg?q=90",
@@ -31259,6 +31470,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -31355,7 +31567,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/s/b/t/15-salicylic-acid-acne-spot-corrector-for-acne-marks-blemish-original-imahpasfaufqvtkp.jpeg?q=90",
@@ -31371,6 +31584,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -31468,7 +31682,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/v/y/d/15-professional-acne-spot-corrector-gel-with-2-salicylic-acid-original-imahparvrpvznjkz.jpeg?q=90",
@@ -31484,6 +31699,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -31580,7 +31796,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/u/y/g/15-fast-acne-spot-gel-with-azelaic-acid-for-blemish-control-original-imahparsdzqzf2r7.jpeg?q=90",
@@ -31596,6 +31813,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:azelaic-acid",
@@ -31692,7 +31910,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/f/l/d/15-2-bha-acne-spot-corrector-for-pimples-blemishes-redness-original-imahparmufu5cshz.jpeg?q=90",
@@ -31708,6 +31927,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -31805,7 +32025,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/i/v/d/15-pimple-spot-gel-with-2-bha-for-daily-acne-care-routine-original-imahparwgkcczdrg.jpeg?q=90",
@@ -31821,6 +32042,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -31916,7 +32138,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/2/b/2/15-pimple-spot-treatment-gel-salicylic-acid-azelaic-acid-sulfur-original-imahpas3uka76c6g.jpeg?q=90",
@@ -31931,6 +32154,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:azelaic-acid",
@@ -32027,7 +32251,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/i/z/h/15-fast-acting-acne-spot-gel-with-bha-sulfur-azelaic-acid-blend-original-imahpasfwr9txhfc.jpeg?q=90",
@@ -32043,6 +32268,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:azelaic-acid",
@@ -32139,7 +32365,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/j/v/b/15-acne-spot-gel-with-sulfur-niacinamide-for-fast-acne-treatment-original-imahparvjhr7fn4v.jpeg?q=90",
@@ -32155,6 +32382,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -32250,7 +32478,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/b/r/o/15-acne-spot-treatment-gel-with-2-bha-for-fast-drying-stubborn-original-imahpas6fdpx5fgg.jpeg?q=90",
@@ -32266,6 +32495,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -32361,7 +32591,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/g/t/g/15-acne-spot-treatment-gel-with-sulfur-for-active-acne-relief-original-imahpatvuhewhhdq.jpeg?q=90",
@@ -32377,6 +32608,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -32472,7 +32704,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/o/l/w/15-acne-spot-corrector-gel-with-sulfur-for-spot-drying-action-original-imahparwykwhzzff.jpeg?q=90",
@@ -32488,6 +32721,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -32584,7 +32818,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/g/z/t/15-acne-control-gel-with-2-bha-for-pimples-spots-pore-refinement-original-imahpascfrx3jnzp.jpeg?q=90",
@@ -32600,6 +32835,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -32695,7 +32931,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/i/j/g/15-acne-spot-treatment-with-salicylic-acid-sulfur-for-oily-skin-original-imahparcapxzanfw.jpeg?q=90",
@@ -32711,6 +32948,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -32807,7 +33045,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/r/v/3/15-acne-spot-corrector-gel-with-2-salicylic-acid-for-clear-acne-original-imahparfpapy9fgf.jpeg?q=90",
@@ -32823,6 +33062,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -32919,7 +33159,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/i/d/5/15-salicylic-acid-acne-gel-with-sulfur-for-acne-prone-original-imahpasbvf3yxhqp.jpeg?q=90",
@@ -32935,6 +33176,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -33032,7 +33274,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/w/5/g/15-acne-control-spot-gel-with-niacinamide-2-bha-for-fast-acne-original-imahpasbwnz5mvzp.jpeg?q=90",
@@ -33048,6 +33291,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -33143,7 +33387,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/d/a/n/15-fast-acne-spot-gel-with-salicylic-acid-for-clear-radiant-original-imahpatgdsuhv2fz.jpeg?q=90",
@@ -33159,6 +33404,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -33254,7 +33500,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/f/d/a/15-professional-acne-spot-corrector-gel-2-bha-niacinamide-original-imahparkhba4zuqx.jpeg?q=90",
@@ -33270,6 +33517,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:azelaic-acid",
@@ -33367,7 +33615,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/b/n/d/15-acne-spot-corrector-with-bha-for-pimples-acne-marks-rosebrite-original-imahpat8hgh8t4ya.jpeg?q=90",
@@ -33383,6 +33632,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -33480,7 +33730,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/o/o/7/15-acne-spot-corrector-with-sulfur-azelaic-acid-for-fast-pimple-original-imahpas6ugz5rgze.jpeg?q=90",
@@ -33496,6 +33747,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:azelaic-acid",
@@ -33593,7 +33845,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/o/m/h/15-fast-acne-spot-treatment-gel-with-salicylic-acid-for-acne-original-imahpas6wkxahvph.jpeg?q=90",
@@ -33609,6 +33862,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -33706,7 +33960,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/3/c/9/15-fast-absorbing-acne-spot-gel-with-2-bha-for-daily-blemish-original-imahpau5wycmczrh.jpeg?q=90",
@@ -33722,6 +33977,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -33818,7 +34074,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/1/f/i/15-acne-spot-gel-with-niacinamide-for-oil-control-acne-marks-original-imahpasf6amtkb7n.jpeg?q=90",
@@ -33834,6 +34091,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -33931,7 +34189,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/e/4/h/15-pimple-control-gel-with-salicylic-acid-for-acne-prone-oily-original-imahparhvsugmzhg.jpeg?q=90",
@@ -33947,6 +34206,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -34044,7 +34304,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/i/i/c/15-salicylic-acid-spot-gel-for-acne-care-oil-control-clear-skin-original-imahpasfpyfpfhg4.jpeg?q=90",
@@ -34060,6 +34321,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -34156,7 +34418,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/c/g/w/15-acne-spot-corrector-gel-2-bha-salicylic-acid-acne-scar-pimple-original-imahzyhfhrue3cgt.jpeg?q=90",
@@ -34171,6 +34434,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -34267,7 +34531,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/s/c/v/15-bha-acne-gel-with-salicylic-acid-niacinamide-sulfur-for-daily-original-imahparfrnm3zhqz.jpeg?q=90",
@@ -34283,6 +34548,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -34379,7 +34645,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/e/f/0/15-salicylic-acid-acne-treatment-gel-for-pimples-pore-refining-original-imahpas3vz9wwwra.jpeg?q=90",
@@ -34395,6 +34662,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -34490,7 +34758,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/8/z/s/15-acne-control-gel-with-2-bha-for-acne-prone-combination-skin-original-imahparrfbfzbwyw.jpeg?q=90",
@@ -34506,6 +34775,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -34603,7 +34873,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/y/x/7/15-salicylic-acid-acne-gel-for-fast-acne-spot-treatment-original-imahpathbknd6agb.jpeg?q=90",
@@ -34619,6 +34890,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -34714,7 +34986,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/h/m/w/15-acne-spot-corrector-gel-with-2-salicylic-acid-niacinamide-original-imahparkwzrf92sm.jpeg?q=90",
@@ -34730,6 +35003,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -34826,7 +35100,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/v/o/i/15-fast-acting-acne-spot-gel-with-2-bha-sulfur-azelaic-acid-for-original-imahpas5uzy8xzay.jpeg?q=90",
@@ -34842,6 +35117,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:azelaic-acid",
@@ -34938,7 +35214,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/g/g/t/15-fast-acne-spot-treatment-with-2-salicylic-acid-for-active-original-imahpatrn23fdqag.jpeg?q=90",
@@ -34954,6 +35231,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -35049,7 +35327,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/w/u/n/15-2-salicylic-acid-acne-gel-for-active-pimples-blemish-original-imahparq37yr3jks.jpeg?q=90",
@@ -35065,6 +35344,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -35160,7 +35440,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/3/w/s/15-acne-spot-gel-with-niacinamide-sulfur-for-fast-acne-spot-original-imahpaszsxf3xqhg.jpeg?q=90",
@@ -35176,6 +35457,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -35272,7 +35554,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/g/d/o/15-acne-blemish-treatment-gel-with-2-bha-niacinamide-formula-original-imahparzfqnuwjrd.jpeg?q=90",
@@ -35288,6 +35571,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -35383,7 +35667,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/c/g/w/15-acne-spot-corrector-gel-2-bha-salicylic-acid-acne-scar-pimple-original-imahzyhfhrue3cgt.jpeg?q=90",
@@ -35398,6 +35683,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -35494,7 +35780,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/v/x/z/15-acne-treatment-spot-gel-with-2-bha-niacinamide-for-clear-skin-original-imahparmnrhhyygp.jpeg?q=90",
@@ -35510,6 +35797,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -35605,7 +35893,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/c/g/w/15-acne-spot-corrector-gel-2-bha-salicylic-acid-acne-scar-pimple-original-imahzyhfhrue3cgt.jpeg?q=90",
@@ -35620,6 +35909,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -35715,7 +36005,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/r/h/g/15-acne-spot-corrector-with-2-salicylic-acid-for-breakouts-acne-original-imahpartyraaryt8.jpeg?q=90",
@@ -35731,6 +36022,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -35828,7 +36120,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/u/q/f/15-pimple-removal-gel-with-2-salicylic-acid-for-fast-spot-original-imahparkchbgwtya.jpeg?q=90",
@@ -35844,6 +36137,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -35940,7 +36234,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/z/r/0/15-acne-control-spot-gel-with-niacinamide-2-bha-for-breakout-original-imahparw9jqx8m8e.jpeg?q=90",
@@ -35956,6 +36251,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -36051,7 +36347,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/j/r/m/15-acne-spot-corrector-with-2-bha-for-clear-smooth-refined-skin-original-imahparbewtwvu8z.jpeg?q=90",
@@ -36067,6 +36364,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -36163,7 +36461,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/t/c/o/15-pimple-treatment-gel-with-salicylic-acid-for-acne-marks-original-imahpasydv3cfgyv.jpeg?q=90",
@@ -36179,6 +36478,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -36275,7 +36575,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/o/h/u/15-fast-acting-acne-spot-corrector-with-bha-for-stubborn-original-imahpasmd5ekbhvu.jpeg?q=90",
@@ -36291,6 +36592,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -36387,7 +36689,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/n/z/z/15-acne-repair-gel-with-2-salicylic-acid-niacinamide-azelaic-original-imahparb9uefgrps.jpeg?q=90",
@@ -36403,6 +36706,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:azelaic-acid",
@@ -36500,7 +36804,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/f/1/t/15-fast-acne-spot-corrector-gel-2-salicylic-acid-for-pimples-original-imahpas3jhwhu4yz.jpeg?q=90",
@@ -36516,6 +36821,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -36724,7 +37030,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/d/p/h/15-acne-spot-treatment-with-2-bha-niacinamide-for-daily-use-original-imahparmkebjuchq.jpeg?q=90",
@@ -36740,6 +37047,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -36835,7 +37143,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/c/g/w/15-acne-spot-corrector-gel-2-bha-salicylic-acid-acne-scar-pimple-original-imahzyhfhrue3cgt.jpeg?q=90",
@@ -36850,6 +37159,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -36946,7 +37256,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/a/g/s/15-fast-acne-spot-treatment-with-salicylic-acid-technology-original-imahparwwdtbxb8u.jpeg?q=90",
@@ -36962,6 +37273,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -37057,7 +37369,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/t/x/b/15-salicylic-acid-acne-gel-with-niacinamide-for-pimple-oil-original-imahpat73bgdcrtu.jpeg?q=90",
@@ -37073,6 +37386,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -37169,7 +37483,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/4/q/s/15-acne-spot-treatment-with-bha-for-oily-combination-skin-original-imahparv7zgtyh8h.jpeg?q=90",
@@ -37185,6 +37500,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -38898,7 +39214,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/l/x/30-a-lite-skin-essence-anti-acne-gel-pack-of-2-volant-gel-original-imahmd6mgmbfg4t9.jpeg?q=90",
@@ -38917,6 +39234,7 @@ const NXPRODUCTS = [
    "format:lotion",
    "format:essence",
    "format:kit",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:aha",
    "ing:avocado",
@@ -39342,7 +39660,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/i/0/b/30-acne-removal-cream-gel-anti-acne-scar-treatment-care-cream-original-imahpg7uyafhskkg.jpeg?q=90",
@@ -39360,6 +39679,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:capsule",
    "format:kit",
+   "water:unstated",
    "ing:papaya",
    "claim:brightening",
    "claim:anti-aging",
@@ -39572,7 +39892,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/v/v/a/30-kormesic-acne-gel-fast-acting-treatment-for-clearer-skin-original-imahevyhm9scxkgj.jpeg?q=90",
@@ -39590,6 +39911,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:stick",
    "format:wash",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:green-tea",
    "claim:dark-spots",
@@ -39918,7 +40240,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/c/e/t/30-acne-removal-cream-gel-anti-acne-scar-treatment-skin-care-original-imahhskhjatzzbbz.jpeg?q=90",
@@ -39934,6 +40257,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:cream",
+   "water:unstated",
    "claim:brightening",
    "claim:whitening-claim",
    "claim:acne",
@@ -40598,7 +40922,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/f/m/30-acne-removal-cream-gel-anti-acne-scar-treatment-care-thtc-original-imahpf9hjc5fewyq.jpeg?q=90",
@@ -40615,6 +40940,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:capsule",
+   "water:unstated",
    "ing:papaya",
    "claim:brightening",
    "claim:anti-aging",
@@ -41201,7 +41527,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/v/g/d/30-anti-acne-spot-cream-reduces-acne-redness-bijlan-cosmetic-original-imahpjb4bqyhdyev.jpeg?q=90",
@@ -41215,6 +41542,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "claim:acne",
    "claim:soothing",
    "claim:dry-skin-relief",
@@ -41308,7 +41636,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/1/w/50-oil-free-anti-acne-gel-for-pimples-blemish-free-skin-50ml-original-imahmd5bpqez6t9r.jpeg?q=90",
@@ -41326,6 +41655,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:oil",
    "format:kit",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:glutathione",
    "ing:tea-tree",
@@ -41430,7 +41760,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/o/l/5/30-kormesic-acne-gel-fast-acting-treatment-for-clearer-skin-original-imahevyhfandafej.jpeg?q=90",
@@ -41446,6 +41777,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:cream",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "claim:dark-spots",
    "claim:anti-aging",
@@ -41651,7 +41983,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/d/h/z/100-acne-cream-for-men-latixmat-cream-original-imahzk4kcbmm3fe9.jpeg?q=90",
@@ -41670,6 +42003,7 @@ const NXPRODUCTS = [
    "format:kit",
    "spf:30",
    "pa:+",
+   "water:unstated",
    "claim:dark-spots",
    "claim:acne",
    "claim:pores",
@@ -43796,7 +44130,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/0/t/30-acne-cream-for-scars-acne-pores-cream-thtc-cream-original-imahpg7wb4khz6tn.jpeg?q=90",
@@ -43814,6 +44149,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:lotion",
    "format:capsule",
+   "water:unstated",
    "ing:glutathione",
    "ing:papaya",
    "claim:brightening",
@@ -43913,7 +44249,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/r/a/y/30-anti-acne-cream-for-acne-remover-age-spots-and-clean-open-original-imahpf8uhx7yzz6n.jpeg?q=90",
@@ -43930,6 +44267,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:lotion",
    "format:capsule",
+   "water:unstated",
    "ing:papaya",
    "claim:brightening",
    "claim:dark-spots",
@@ -44818,7 +45156,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/o/h/9/100-pimple-cream-for-women-latixmat-cream-original-imahzk4mrvrumegx.jpeg?q=90",
@@ -44837,6 +45176,7 @@ const NXPRODUCTS = [
    "format:kit",
    "spf:30",
    "pa:+",
+   "water:unstated",
    "ing:avocado",
    "claim:acne",
    "claim:hydrating",
@@ -46378,7 +46718,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/b/m/50-acne-pimple-cream-for-acne-marks-oil-control-clear-skin-original-imahpv3uxpvh2z8z.jpeg?q=90"
@@ -46390,6 +46731,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:oil",
+   "water:unstated",
    "ing:tea-tree",
    "ing:turmeric",
    "ing:neem",
@@ -47785,7 +48127,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.3★ from 24 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/2/m/s/30-vc-lipoz-spot-corrector-cream-vc-original-imahj6hwwhhzf5fr.jpeg?q=90",
@@ -47801,6 +48144,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "claim:dark-spots",
    "claim:acne",
    "skin:all",
@@ -48770,7 +49114,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/concealer/2/m/o/8-conceal-correct-liquid-concealer-hide-dark-spot-acne-birth-original-imagpwbmynysnkzv.jpeg?q=90",
@@ -48786,6 +49131,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:stick",
    "format:kit",
+   "water:unstated",
    "claim:acne",
    "claim:oil-control",
    "claim:exfoliating",
@@ -49419,7 +49765,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/concealer/d/3/d/8-orange-concealer-eye-correctorfor-men-women-acne-spot-dark-original-imahh8euxfymbryu.jpeg?q=90",
@@ -49435,6 +49782,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:cream",
    "format:kit",
+   "water:unstated",
    "ing:honey",
    "claim:acne",
    "claim:oil-control",
@@ -49530,7 +49878,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistant / waterproof (duration not stated), sweat resistant (per listing — not tested here, not scored)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/concealer/i/7/g/10-5-shades-concealer-palette-acne-marks-dark-circles-brighten-original-imah9d5ghbhnfvgy.jpeg?q=90",
@@ -49547,6 +49896,8 @@ const NXPRODUCTS = [
    "format:cream",
    "format:stick",
    "format:kit",
+   "water:resistant",
+   "water:sweat",
    "claim:brightening",
    "claim:acne",
    "claim:oil-control",
@@ -50287,7 +50638,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/g/w/c/30-anti-acne-gel-oil-control-for-acne-pimples-reduce-pimples-original-imah7d4g3nbhehgp.jpeg?q=90",
@@ -50307,6 +50659,7 @@ const NXPRODUCTS = [
    "format:pack",
    "format:wash",
    "spf:50+",
+   "water:unstated",
    "ing:tea-tree",
    "ing:rose",
    "ing:avocado",
@@ -50533,7 +50886,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "5★ from 10 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/a/s/y/1-invisible-acne-spot-patches-with-salicylic-acid-for-blemish-original-imahp9zwcnmbauaz.jpeg?q=90",
@@ -50549,6 +50903,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:pack",
    "format:patch",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:hydrocolloid",
    "claim:acne",
@@ -50642,7 +50997,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/f/4/a/4-hydrocolloid-salicylic-acid-acne-pimple-patches-clear-clouds-original-imahpdyrksmmvvhw.jpeg?q=90",
@@ -50659,6 +51015,7 @@ const NXPRODUCTS = [
    "format:pack",
    "format:patch",
    "format:kit",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:hydrocolloid",
    "claim:acne",
@@ -50752,7 +51109,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "5★ from 32 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/z/b/h/1-hydrocolloid-acne-patch-pimple-patch-43-cloud-shaped-patches-original-imahqhrvuzygupfc.jpeg?q=90",
@@ -50768,6 +51126,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:pack",
    "format:patch",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:hydrocolloid",
    "claim:acne",
@@ -50860,7 +51219,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/j/n/q/4-hydrocolloid-salicylic-acid-acne-pimple-patches-clear-clouds-original-imahptf9xrg2wr5b.jpeg?q=90",
@@ -50877,6 +51237,7 @@ const NXPRODUCTS = [
    "format:pack",
    "format:patch",
    "format:kit",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:hydrocolloid",
    "claim:acne",
@@ -51749,7 +52110,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/h/h/f/15-salicylic-acid-acne-spot-corrector-for-clear-smooth-refined-original-imahparc3hty2rzg.jpeg?q=90",
@@ -51765,6 +52127,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -52086,7 +52449,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/j/q/z/15-salicylic-acid-acne-spot-treatment-for-blackheads-pimples-original-imahparmzftsywyg.jpeg?q=90",
@@ -52102,6 +52466,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -52198,7 +52563,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/d/b/q/15-salicylic-acid-acne-gel-with-niacinamide-for-clear-skin-original-imahparxutnmnpp6.jpeg?q=90",
@@ -52214,6 +52580,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -52662,7 +53029,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/c/g/w/15-acne-spot-corrector-gel-2-bha-salicylic-acid-acne-scar-pimple-original-imahzyhfhrue3cgt.jpeg?q=90",
@@ -52677,6 +53045,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -52773,7 +53142,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/j/o/g/15-fast-acne-spot-corrector-with-salicylic-acid-for-pimples-original-imahparu3qe2x2bs.jpeg?q=90",
@@ -52789,6 +53159,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -52886,7 +53257,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/8/e/4/15-2-bha-acne-spot-treatment-for-fast-pimple-drying-formula-original-imahparqvf6nfqek.jpeg?q=90",
@@ -52902,6 +53274,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -52997,7 +53370,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/c/g/w/15-acne-spot-corrector-gel-2-bha-salicylic-acid-acne-scar-pimple-original-imahzyhfhrue3cgt.jpeg?q=90",
@@ -53012,6 +53386,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -53327,7 +53702,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/g/g/y/2-ultra-thin-hydrocolloid-acne-patches-with-salicylic-acid-for-original-imahp7hx3fyqzdy7.jpeg?q=90",
@@ -53344,6 +53720,7 @@ const NXPRODUCTS = [
    "format:pack",
    "format:patch",
    "format:kit",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:hydrocolloid",
    "claim:acne",
@@ -53762,7 +54139,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/c/u/g/36-pimple-patches-36-pcs-skin-protect-pimple-patches-kashtabhan-original-imahjn6vknqpjyju.jpeg?q=90",
@@ -53780,6 +54158,7 @@ const NXPRODUCTS = [
    "format:pack",
    "format:patch",
    "format:kit",
+   "water:resistant",
    "ing:tea-tree",
    "ing:hydrocolloid",
    "claim:acne",
@@ -54105,7 +54484,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/f/v/m/36-acne-patch-36-pcs-skin-tag-acne-patch-dots-kashtabhan-original-imahjn5st9hfhedw.jpeg?q=90",
@@ -54122,6 +54502,7 @@ const NXPRODUCTS = [
    "format:pack",
    "format:patch",
    "format:kit",
+   "water:resistant",
    "ing:salicylic-acid-bha",
    "ing:hydrocolloid",
    "claim:acne",
@@ -54218,7 +54599,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/t/u/n/36-acne-patches-acen-patch-36-pcs-skin-tag-acne-patch-dots-original-imahjn6e2yfvs2wg.jpeg?q=90",
@@ -54234,6 +54616,7 @@ const NXPRODUCTS = [
    "format:pack",
    "format:patch",
    "format:kit",
+   "water:unstated",
    "ing:hydrocolloid",
    "claim:acne",
    "claim:no-white-cast",
@@ -55208,7 +55591,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/x/b/0/3-hydrocolloid-salicylic-acid-acne-pimple-patches-for-blemish-original-imahpdybg5z6c9ct.jpeg?q=90",
@@ -55225,6 +55609,7 @@ const NXPRODUCTS = [
    "format:pack",
    "format:patch",
    "format:kit",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:hydrocolloid",
    "claim:acne",
@@ -56486,7 +56871,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/j/d/p/1-salicylic-acid-hydrocolloid-patches-for-acne-and-pimples-43-original-imahp9zrn62tx8w8.jpeg?q=90",
@@ -56504,6 +56890,7 @@ const NXPRODUCTS = [
    "format:pack",
    "format:patch",
    "format:kit",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:hydrocolloid",
    "claim:brightening",
@@ -56924,7 +57311,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/i/j/4/2-pimple-patches-for-face-pimples-skin-tag-removal-patch-pimple-original-imahmzbpsvh2cyqv.jpeg?q=90",
@@ -56939,6 +57327,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:pack",
    "format:patch",
+   "water:resistant",
    "ing:hydrocolloid",
    "claim:acne",
    "claim:exfoliating",
@@ -58640,7 +59029,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/s/b/q/36-pimple-patch-for-men-and-women-paste-afaraxia-original-imah5zxapxcw3haf.jpeg?q=90",
@@ -58658,6 +59048,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:toner",
    "format:patch",
+   "water:unstated",
    "ing:saffron",
    "ing:gold",
    "claim:brightening",
@@ -58874,7 +59265,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/f/s/p/30-anti-acne-gel-30g-helps-reduce-pimples-control-excess-oil-original-imahnjjfvwu7ckkm.jpeg?q=90",
@@ -58890,6 +59282,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:pack",
+   "water:unstated",
    "ing:honey",
    "claim:acne",
    "claim:oil-control",
@@ -58984,7 +59377,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/q/p/p/30-say-goodbye-to-acne-fast-with-prc-herbal-pimple-patches-36-original-imahzeaz25yyvxdg.jpeg?q=90",
@@ -58999,6 +59393,7 @@ const NXPRODUCTS = [
    "format:pack",
    "format:patch",
    "format:kit",
+   "water:unstated",
    "ing:hydrocolloid",
    "claim:acne",
    "claim:ayurvedic",
@@ -59308,7 +59703,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.6★ from 7 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/d/o/b/30-20-vitamin-c-serum-collagen-booster-brightening-glowing-original-imahghpuh7rfpguq.jpeg?q=90",
@@ -59325,6 +59721,7 @@ const NXPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:salicylic-acid-bha",
    "ing:collagen",
@@ -59429,7 +59826,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.1★ from 7 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/r/z/r/20-vitamin-c-20-concentrate-even-skin-tone-dark-spot-corrector-original-imahhqgwvyasqy76.jpeg?q=90",
@@ -59445,6 +59843,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:lemon",
    "claim:brightening",
@@ -59543,7 +59942,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/a/x/l/15-acne-treatment-gel-for-pimples-with-2-salicylic-acid-formula-original-imahpasaqzfhmjcx.jpeg?q=90",
@@ -59559,6 +59959,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -59777,7 +60178,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/h/o/u/15-salicylic-acid-acne-gel-with-azelaic-acid-for-smooth-clear-original-imahpatpc8jqrdhr.jpeg?q=90",
@@ -59793,6 +60195,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:azelaic-acid",
@@ -59889,7 +60292,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/c/g/w/15-acne-spot-corrector-gel-2-bha-salicylic-acid-acne-scar-pimple-original-imahzyhfhrue3cgt.jpeg?q=90",
@@ -59904,6 +60308,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:azelaic-acid",
@@ -60000,7 +60405,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/l/c/l/15-fast-acting-acne-spot-gel-with-salicylic-acid-azelaic-acid-original-imahparqkprzjped.jpeg?q=90",
@@ -60016,6 +60422,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:azelaic-acid",
@@ -60112,7 +60519,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/y/r/b/15-acne-spot-gel-with-azelaic-acid-for-spot-correction-rosebrite-original-imahparpzmcpmrgt.jpeg?q=90",
@@ -60130,6 +60538,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:pack",
    "format:wash",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:azelaic-acid",
@@ -60234,7 +60643,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/8/y/1/15-salicylic-acid-acne-treatment-gel-with-azelaic-acid-for-spot-original-imahpashqbhzzfz4.jpeg?q=90",
@@ -60250,6 +60660,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:azelaic-acid",
@@ -60347,7 +60758,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/c/g/w/15-acne-spot-corrector-gel-2-bha-salicylic-acid-acne-scar-pimple-original-imahzyhfhrue3cgt.jpeg?q=90",
@@ -60362,6 +60774,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:azelaic-acid",
@@ -60567,7 +60980,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/p/z/4/15-salicylic-acid-acne-spot-gel-with-azelaic-acid-for-smooth-original-imahparrsyp9tbdx.jpeg?q=90",
@@ -60584,6 +60998,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:azelaic-acid",
@@ -60681,7 +61096,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/4/e/q/15-acne-spot-corrector-gel-with-sulfur-azelaic-acid-for-breakout-original-imahparspkwefdjh.jpeg?q=90",
@@ -60697,6 +61113,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:azelaic-acid",
@@ -60794,7 +61211,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/a/j/h/15-acne-gel-with-salicylic-acid-niacinamide-azelaic-acid-for-original-imahpatqhznqnyxq.jpeg?q=90",
@@ -60810,6 +61228,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:azelaic-acid",
@@ -60906,7 +61325,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/l/g/h/15-acne-spot-corrector-gel-with-2-salicylic-acid-azelaic-acid-original-imahzqr2tsngdkye.jpeg?q=90",
@@ -60923,6 +61343,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:pack",
    "format:wash",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
    "ing:azelaic-acid",
@@ -61030,7 +61451,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/b/q/l/15-acne-spot-corrector-gel-2-bha-salicylic-acid-acne-scar-pimple-original-imahzyhfarffzhzp.jpeg?q=90",
@@ -61046,6 +61468,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:cream",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:azelaic-acid",
@@ -61148,7 +61571,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/d/2/c/15-acne-spot-corrector-gel-2-bha-salicylic-acid-niacinamide-original-imahzwbcqsupfjun.jpeg?q=90",
@@ -61163,6 +61587,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:cream",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:azelaic-acid",
@@ -61382,7 +61807,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/w/d/g/15-2-salicylic-acid-acne-spot-treatment-gel-pimple-remover-cream-original-imahzyh4gqawhugk.jpeg?q=90",
@@ -61398,6 +61824,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:cream",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:azelaic-acid",
@@ -61498,7 +61925,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/y/2/n/15-anti-acne-gel-2-bha-salicylic-acid-spot-corrector-pimple-original-imahzyhgdyz66hk6.jpeg?q=90",
@@ -61514,6 +61942,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:cream",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:azelaic-acid",
@@ -61615,7 +62044,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/y/r/c/15-pimple-spot-corrector-gel-2-salicylic-acid-acne-treatment-original-imahzyhbfszznghy.jpeg?q=90",
@@ -61631,6 +62061,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:cream",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:azelaic-acid",
@@ -61732,7 +62163,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/x/0/o/15-acne-spot-corrector-gel-2-salicylic-acid-bha-acne-treatment-original-imahzyhdkenhqcfp.jpeg?q=90",
@@ -61748,6 +62180,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:cream",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:azelaic-acid",
@@ -61849,7 +62282,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/u/o/a/15-acne-spot-corrector-gel-20ml-2-salicylic-acid-bha-niacinamide-original-imahzyhbjf73vqpq.jpeg?q=90",
@@ -61865,6 +62299,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:cream",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:azelaic-acid",
@@ -61966,7 +62401,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/v/t/y/15-acne-spot-gel-fast-acting-pimple-corrector-2-salicylic-acid-original-imahzyh9tztb2euz.jpeg?q=90",
@@ -61981,6 +62417,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:cream",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:azelaic-acid",
@@ -62081,7 +62518,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/d/c/m/15-acne-treatment-gel-with-niacinamide-for-oil-control-acne-spot-original-imahpascwpbxjpg2.jpeg?q=90",
@@ -62097,6 +62535,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -62424,7 +62863,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/m/x/y/100-clearglow-anti-acne-cream-pack-of-2-elfica-cream-original-imahmh2bwnzztr3z.jpeg?q=90",
@@ -62441,6 +62881,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:lotion",
    "format:kit",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:aha",
    "claim:brightening",
@@ -62540,7 +62981,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/7/x/p/15-2-salicylic-acid-acne-spot-gel-with-niacinamide-azelaic-acid-original-imahparckzwduhgy.jpeg?q=90",
@@ -62556,6 +62998,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:azelaic-acid",
@@ -62652,7 +63095,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/8/a/r/15-acne-spot-corrector-gel-for-face-salicylic-acid-acne-original-imahzyhhpcgfdhrt.jpeg?q=90",
@@ -62668,6 +63112,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:cream",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:azelaic-acid",
@@ -62769,7 +63214,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/r/o/t/15-acne-removal-gel-salicylic-acid-azelaic-acid-niacinamide-spot-original-imahzyhag6qhsh2f.jpeg?q=90",
@@ -62785,6 +63231,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:cream",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:azelaic-acid",
@@ -62885,7 +63332,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/p/d/g/15-fast-acne-spot-gel-with-salicylic-acid-azelaic-acid-blend-original-imahpasfuksjes8q.jpeg?q=90",
@@ -62901,6 +63349,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:azelaic-acid",
@@ -62998,7 +63447,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/7/v/t/15-pimple-spot-corrector-with-salicylic-acid-for-acne-breakout-original-imahparsfeeuuhuh.jpeg?q=90",
@@ -63014,6 +63464,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -63110,7 +63561,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/t/l/2/15-salicylic-acid-acne-gel-with-azelaic-acid-for-bright-smooth-original-imahpartxcyakyet.jpeg?q=90",
@@ -63126,6 +63578,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:azelaic-acid",
@@ -63224,7 +63677,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/f/3/l/15-salicylic-acid-acne-treatment-gel-with-azelaic-acid-for-original-imahpatqyhpzz3zz.jpeg?q=90",
@@ -63240,6 +63694,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:azelaic-acid",
@@ -63336,7 +63791,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/c/g/w/15-acne-spot-corrector-gel-2-bha-salicylic-acid-acne-scar-pimple-original-imahzyhfhrue3cgt.jpeg?q=90",
@@ -63351,6 +63807,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:azelaic-acid",
@@ -63448,7 +63905,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/s/r/g/15-acne-treatment-gel-2-bha-salicylic-acid-spot-corrector-clears-original-imahzyhfvzwzzfza.jpeg?q=90",
@@ -63464,6 +63922,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:oil",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:azelaic-acid",
@@ -63565,7 +64024,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/g/e/j/15-acne-corrector-cream-salicylic-acid-acne-spot-treatment-original-imahzyh8kznpzutb.jpeg?q=90",
@@ -63581,6 +64041,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:cream",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:azelaic-acid",
@@ -63682,7 +64143,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/v/y/5/15-salicylic-acid-acne-gel-2-bha-pimple-spot-corrector-acne-original-imahzyhff6wkgj27.jpeg?q=90"
@@ -63694,6 +64156,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:cream",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:azelaic-acid",
@@ -63795,7 +64258,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/e/n/t/15-pimple-removal-gel-acne-spot-treatment-with-salicylic-acid-original-imahzyhdswuxdbvg.jpeg?q=90",
@@ -63811,6 +64275,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:cream",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:azelaic-acid",
@@ -63911,7 +64376,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/c/g/w/15-acne-spot-corrector-gel-2-bha-salicylic-acid-acne-scar-pimple-original-imahzyhfhrue3cgt.jpeg?q=90",
@@ -63926,6 +64392,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -64021,7 +64488,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/c/g/w/15-acne-spot-corrector-gel-2-bha-salicylic-acid-acne-scar-pimple-original-imahzyhfhrue3cgt.jpeg?q=90",
@@ -64036,6 +64504,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -64132,7 +64601,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/l/2/a/15-acne-spot-gel-with-salicylic-acid-for-healthy-clear-skin-original-imahpatkuubz3bcz.jpeg?q=90",
@@ -64148,6 +64618,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -64243,7 +64714,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/l/0/x/15-fast-acting-acne-spot-gel-with-salicylic-acid-niacinamide-original-imahparqajnshazy.jpeg?q=90",
@@ -64259,6 +64731,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -64355,7 +64828,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/s/p/q/15-salicylic-acid-acne-treatment-gel-for-oily-skin-stubborn-acne-original-imahpas3ykd7hshh.jpeg?q=90",
@@ -64371,6 +64845,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -64467,7 +64942,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/c/g/w/15-acne-spot-corrector-gel-2-bha-salicylic-acid-acne-scar-pimple-original-imahzyhfhrue3cgt.jpeg?q=90",
@@ -64482,6 +64958,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -64579,7 +65056,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/d/p/g/15-acne-spot-gel-with-salicylic-acid-niacinamide-for-oil-balance-original-imahparvjvsgxqmh.jpeg?q=90",
@@ -64595,6 +65073,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -64690,7 +65169,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/7/q/s/15-acne-spot-treatment-gel-with-sulfur-for-pimples-spots-excess-original-imahpas9eduztejh.jpeg?q=90",
@@ -64706,6 +65186,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -64803,7 +65284,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/o/2/5/15-fast-acne-spot-corrector-with-salicylic-acid-for-blackheads-original-imahparxfbazwgax.jpeg?q=90",
@@ -64819,6 +65301,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -64915,7 +65398,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/l/j/q/15-acne-control-gel-with-bha-sulfur-niacinamide-for-spot-free-original-imahpasnvyhmevpt.jpeg?q=90",
@@ -64931,6 +65415,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -65026,7 +65511,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/x/g/v/15-salicylic-acid-spot-treatment-gel-for-acne-redness-breakout-original-imahpas4byvanwta.jpeg?q=90",
@@ -65042,6 +65528,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -65138,7 +65625,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/n/9/8/15-acne-spot-corrector-gel-with-salicylic-acid-sulfur-for-daily-original-imahpas3spggy722.jpeg?q=90",
@@ -65154,6 +65642,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -65250,7 +65739,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/x/y/c/15-acne-spot-gel-with-niacinamide-azelaic-acid-for-daily-acne-original-imahpasaaynw4cpj.jpeg?q=90",
@@ -65266,6 +65756,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:azelaic-acid",
@@ -65362,7 +65853,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/u/q/b/15-salicylic-acid-acne-spot-gel-with-2-bha-for-daily-acne-original-imahpasfmhvgfzba.jpeg?q=90",
@@ -65378,6 +65870,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -65473,7 +65966,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/t/u/m/15-acne-spot-corrector-gel-with-sulfur-for-pimples-spots-oil-original-imahpas8ac7kcfyp.jpeg?q=90",
@@ -65489,6 +65983,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -65587,7 +66082,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/9/l/e/15-acne-treatment-gel-with-salicylic-acid-for-active-pimples-original-imahparv5kwwjggu.jpeg?q=90",
@@ -65603,6 +66099,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -65699,7 +66196,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/p/j/3/15-acne-spot-gel-with-salicylic-acid-niacinamide-sulfur-for-original-imahpascanvmyykm.jpeg?q=90",
@@ -65715,6 +66213,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -65810,7 +66309,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/r/g/j/15-salicylic-acid-acne-gel-with-sulfur-for-deep-pore-purifying-original-imahpas5x77e95wh.jpeg?q=90",
@@ -65826,6 +66326,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -65921,7 +66422,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/z/9/c/15-fast-acne-spot-gel-with-salicylic-acid-for-acne-pimples-original-imahpas4ce7amuwf.jpeg?q=90",
@@ -65937,6 +66439,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -66032,7 +66535,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/s/r/j/15-salicylic-acid-acne-spot-gel-with-niacinamide-for-blemishes-original-imahpas5fymkfuag.jpeg?q=90",
@@ -66048,6 +66552,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -66145,7 +66650,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/n/o/i/15-fast-acting-acne-spot-treatment-with-2-salicylic-acid-for-original-imahpas3zszfzgsn.jpeg?q=90",
@@ -66161,6 +66667,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -66256,7 +66763,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/b/w/h/15-acne-spot-gel-with-2-bha-for-daily-breakout-prevention-original-imahpasykkh2vusk.jpeg?q=90",
@@ -66272,6 +66780,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -66368,7 +66877,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/z/y/3/15-fast-acne-spot-corrector-with-2-salicylic-acid-bha-for-clear-original-imahpas9btd3zzcy.jpeg?q=90",
@@ -66384,6 +66894,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -66480,7 +66991,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/y/z/5/15-acne-control-gel-with-2-salicylic-acid-for-acne-spots-oil-original-imahpatuasz8gybp.jpeg?q=90",
@@ -66496,6 +67008,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -66591,7 +67104,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/m/j/e/15-fast-acting-acne-spot-treatment-with-2-salicylic-acid-for-original-imahpas7r74tuxzv.jpeg?q=90",
@@ -66607,6 +67121,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -66702,7 +67217,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/s/d/s/15-acne-spot-corrector-gel-with-2-salicylic-acid-for-acne-original-imahpassg3yz6esp.jpeg?q=90",
@@ -66718,6 +67234,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -66814,7 +67331,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/a/3/1/15-fast-acne-spot-gel-with-niacinamide-salicylic-acid-for-clear-original-imahpas4sdmhugsg.jpeg?q=90",
@@ -66830,6 +67348,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -66925,7 +67444,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/d/p/m/15-salicylic-acid-acne-spot-corrector-for-oily-skin-breakout-original-imahparttgyh4ynh.jpeg?q=90",
@@ -66941,6 +67461,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -67038,7 +67559,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/b/f/s/15-acne-spot-treatment-with-2-bha-for-smooth-healthy-looking-original-imahparz4fhu6gsz.jpeg?q=90",
@@ -67054,6 +67576,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -67149,7 +67672,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/q/l/d/15-pimple-spot-gel-with-salicylic-acid-for-acne-spot-redness-original-imahpasmsnpaagzj.jpeg?q=90",
@@ -67165,6 +67689,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -67261,7 +67786,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/l/c/o/15-salicylic-acid-acne-treatment-gel-with-sulfur-for-oil-control-original-imahpathzskwemap.jpeg?q=90",
@@ -67277,6 +67803,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -67373,7 +67900,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/m/j/n/15-acne-spot-treatment-gel-with-salicylic-acid-for-acne-marks-original-imahpas4wfpkghey.jpeg?q=90",
@@ -67389,6 +67917,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -67592,7 +68121,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/j/7/c/15-acne-control-gel-with-niacinamide-for-smooth-looking-skin-original-imahparppgkq6dar.jpeg?q=90",
@@ -67608,6 +68138,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -67914,7 +68445,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/y/8/c/15-salicylic-acid-acne-corrector-gel-with-azelaic-acid-for-spot-original-imahparfajaxtxej.jpeg?q=90",
@@ -67930,6 +68462,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:azelaic-acid",
@@ -68026,7 +68559,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/w/s/d/15-acne-spot-treatment-gel-with-pore-refining-bha-formula-original-imahparxjwfn4qjg.jpeg?q=90",
@@ -68042,6 +68576,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -68137,7 +68672,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/f/z/m/15-acne-spot-treatment-gel-with-salicylic-acid-for-oily-acne-original-imahparsys626btt.jpeg?q=90",
@@ -68153,6 +68689,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -68250,7 +68787,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/9/m/f/15-blemish-control-gel-with-2-salicylic-acid-azelaic-acid-original-imahparsjhjbadzk.jpeg?q=90",
@@ -68266,6 +68804,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:azelaic-acid",
@@ -68362,7 +68901,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/c/3/4/15-pimple-spot-corrector-with-sulfur-salicylic-acid-azelaic-acid-original-imahpatzege3mgfq.jpeg?q=90",
@@ -68378,6 +68918,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:azelaic-acid",
@@ -68475,7 +69016,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/z/5/9/15-acne-spot-gel-for-blackheads-whiteheads-pore-purifying-care-original-imahpas8qhydjhmd.jpeg?q=90",
@@ -68491,6 +69033,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -68586,7 +69129,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/4/e/e/15-acne-spot-corrector-gel-for-oily-skin-breakout-control-original-imahpat8cwrzknjn.jpeg?q=90",
@@ -68602,6 +69146,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -68699,7 +69244,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/1/z/m/15-blemish-corrector-gel-with-salicylic-acid-acne-spot-treatment-original-imahpas382th3y5h.jpeg?q=90",
@@ -68715,6 +69261,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -68812,7 +69359,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/w/o/4/15-acne-treatment-gel-with-bha-for-blackheads-whitehead-removal-original-imahpasyszyxxvfk.jpeg?q=90",
@@ -68828,6 +69376,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -68924,7 +69473,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/n/o/f/15-acne-spot-corrector-with-salicylic-acid-for-breakouts-redness-original-imahpasewzg5ufrf.jpeg?q=90",
@@ -68940,6 +69490,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -69037,7 +69588,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/y/s/3/15-anti-acne-gel-with-salicylic-acid-niacinamide-sulfur-spot-original-imahpas3ztkjebgd.jpeg?q=90",
@@ -69053,6 +69605,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -69148,7 +69701,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/c/g/w/15-acne-spot-corrector-gel-2-bha-salicylic-acid-acne-scar-pimple-original-imahzyhfhrue3cgt.jpeg?q=90",
@@ -69163,6 +69717,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -69259,7 +69814,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/c/g/w/15-acne-spot-corrector-gel-2-bha-salicylic-acid-acne-scar-pimple-original-imahzyhfhrue3cgt.jpeg?q=90",
@@ -69274,6 +69830,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -69371,7 +69928,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/d/j/j/15-salicylic-acid-acne-treatment-gel-for-pimples-pores-oil-original-imahparcvnphenjs.jpeg?q=90",
@@ -69387,6 +69945,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -69483,7 +70042,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/t/a/y/15-salicylic-acid-acne-spot-gel-for-oily-acne-prone-skin-original-imahparvtzhutfhk.jpeg?q=90",
@@ -69499,6 +70059,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -69596,7 +70157,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/8/c/v/15-professional-acne-spot-gel-with-2-salicylic-acid-for-acne-original-imahpatwnkhxnbex.jpeg?q=90",
@@ -69612,6 +70174,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -69708,7 +70271,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/m/i/c/15-acne-control-gel-with-salicylic-acid-for-clear-pore-care-original-imahparzu46yp9ys.jpeg?q=90",
@@ -69724,6 +70288,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -69819,7 +70384,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/m/f/o/15-2-bha-acne-treatment-gel-for-pimples-oil-control-clearer-skin-original-imahpark44a3epky.jpeg?q=90",
@@ -69835,6 +70401,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -70144,7 +70711,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/e/i/b/30-scar-acne-remover-cream-fades-scars-acne-marks-stretch-marks-original-imahnsfjwazchaju.jpeg?q=90",
@@ -70165,6 +70733,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:kit",
    "spf:30",
+   "water:unstated",
    "ing:niacinamide",
    "ing:honey",
    "ing:almond",
@@ -70392,7 +70961,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Mankind Pharma (listed) — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "4★ from 9 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/g/1/z/22-mankind-pimples-darks-circles-remove-and-fairness-pimples-original-imahhkms8gfjwtsz.jpeg?q=90",
@@ -70408,6 +70978,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:cream",
+   "water:unstated",
    "claim:whitening-claim",
    "claim:acne",
    "skin:all",
@@ -70832,7 +71403,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.8★ from 104 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/a/n/t/60-clear-marks-anti-acne-and-anti-pimple-cream-for-men-women-original-imah3mtjwxa2smhb.jpeg?q=90",
@@ -70848,6 +71420,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:kit",
+   "water:unstated",
    "claim:acne",
    "skin:all",
    "free:paraben",
@@ -70939,7 +71512,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.8★ from 104 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/a/i/9/60-clear-marks-anti-acne-and-anti-pimple-cream-for-men-women-original-imahqft8asqasbaq.jpeg?q=90",
@@ -70955,6 +71529,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:oil",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:turmeric",
    "ing:neem",
@@ -71054,7 +71629,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.8★ from 104 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/a/i/9/60-clear-marks-anti-acne-and-anti-pimple-cream-for-men-women-original-imahqft8asqasbaq.jpeg?q=90",
@@ -71069,6 +71645,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "claim:acne",
    "skin:all",
    "free:paraben",
@@ -71487,7 +72064,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/r/x/y/30-tritex-dark-spot-corrector-face-serum-30-ml-unisvet-original-imahframeyafc6yf.jpeg?q=90",
@@ -71503,6 +72081,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:lotion",
    "format:serum",
+   "water:unstated",
    "ing:glycolic-acid",
    "ing:tranexamic-acid",
    "claim:brightening",
@@ -71709,7 +72288,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/x/t/20-arbutin-7-intensive-spot-cream-with-70-000ppm-arbutin-3-original-imahm42nyj9pyxhf.jpeg?q=90",
@@ -71724,6 +72304,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:alpha-arbutin",
    "claim:brightening",
    "claim:dark-spots",
@@ -72494,7 +73075,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/a/5/2/30-acne-treatment-cream-huzurlu-original-imahd3j39qm2p9ks.jpeg?q=90",
@@ -72512,6 +73094,7 @@ const NXPRODUCTS = [
    "format:lotion",
    "format:stick",
    "format:clay-mask",
+   "water:unstated",
    "ing:clay",
    "claim:brightening",
    "claim:dark-spots",
@@ -73061,7 +73644,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/m/8/c/30-new-acne-pimple-remover-cream-myeong-cream-original-imahp8khub2ttksn.jpeg?q=90",
@@ -73077,6 +73661,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:capsule",
+   "water:unstated",
    "ing:kojic-acid",
    "claim:brightening",
    "claim:de-tan",
@@ -74267,7 +74852,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/8/2/30-acne-cream-for-clean-skin-face-cream-skin-care-acne-treatment-original-imahqsf2rhpgdtgh.jpeg?q=90",
@@ -74284,6 +74870,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:capsule",
    "format:kit",
+   "water:unstated",
    "claim:brightening",
    "claim:de-tan",
    "claim:anti-aging",
@@ -81201,7 +81788,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "5★ from 0 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51l1XL1Q0eL._SL1500_.jpg",
@@ -81216,6 +81804,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:gel",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:hyaluronic-acid",
@@ -85449,7 +86038,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51e53SEThCL._SL1254_.jpg",
@@ -85463,6 +86053,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:retinol",
    "ing:retinal",
@@ -97391,7 +97982,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.8★ from 0 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61mp3tZlOrL._SL1254_.jpg",
@@ -97406,6 +97998,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
@@ -97508,7 +98101,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.9★ from 0 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/613edw0y9XL._SL1500_.jpg",
@@ -97524,6 +98118,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:oil",
+   "water:unstated",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:alpha-arbutin",
@@ -97737,7 +98332,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51e53SEThCL._SL1254_.jpg",
@@ -97751,6 +98347,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:retinol",
    "ing:retinal",
@@ -103703,7 +104300,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Fixderma India (dermatology company) — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "4.2★ from 0 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/613eEFbjg+L._SL1200_.jpg",
@@ -103718,6 +104316,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:gel",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "claim:dark-spots",
@@ -104045,7 +104644,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4★ from 0 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51AmVKAw3KL._SL1080_.jpg",
@@ -104063,6 +104663,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:tea-tree",
    "claim:dark-spots",
    "claim:acne",
@@ -106044,7 +106645,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.4★ from 0 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/710ebgjTsnL._SL1500_.jpg"
@@ -106055,6 +106657,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:gel",
+   "water:unstated",
    "claim:brightening",
    "claim:dark-spots",
    "claim:acne",
@@ -106263,7 +106866,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.5★ from 0 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71wwcl6kaQL._SL1254_.jpg",
@@ -106279,6 +106883,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:cream",
    "format:lotion",
+   "water:unstated",
    "ing:niacinamide",
    "ing:retinol",
    "ing:hyaluronic-acid",
@@ -107793,7 +108398,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.4★ from 0 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61mSd+KfhKL._SL1294_.jpg",
@@ -107809,6 +108415,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:patch",
+   "water:unstated",
    "ing:niacinamide",
    "ing:retinol",
    "ing:salicylic-acid-bha",
@@ -108798,7 +109405,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Conscious Chemist — Indian D2C brand with its own product company",
    "buyerEvidence": "3.7★ from 0 ratings",
-   "concernBasis": "Acne — product type, salicylic acid #3 on INCI, azelaic acid #12 on INCI; Dark spots — azelaic acid #12 on INCI, glycyrrhiza glabra root extract #16 on INCI; Irritation — azelaic acid #12 on INCI, panthenol #20 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — product type, salicylic acid #3 on INCI, azelaic acid #12 on INCI; Dark spots — azelaic acid #12 on INCI, glycyrrhiza glabra root extract #16 on INCI; Irritation — azelaic acid #12 on INCI, panthenol #20 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51mo6fgP07L._SL1200_.jpg",
@@ -108814,6 +109422,7 @@ const NXPRODUCTS = [
    "scope:unstated",
    "format:gel",
    "format:kit",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:azelaic-acid",
    "claim:dark-spots",
@@ -108961,7 +109570,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/613Mex9oo8L._SL1341_.jpg",
@@ -108978,6 +109588,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:serum",
    "format:wash",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
    "claim:brightening",
@@ -109077,7 +109688,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51e53SEThCL._SL1254_.jpg",
@@ -109091,6 +109703,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:retinol",
    "ing:retinal",
@@ -109190,7 +109803,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51r4LeMYxEL._SL1269_.jpg",
@@ -109205,6 +109819,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:retinol",
    "ing:retinal",
@@ -109303,7 +109918,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "5★ from 0 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/514rbiWMnhL._SL1254_.jpg",
@@ -109317,6 +109933,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:retinol",
    "ing:retinal",
@@ -109748,7 +110365,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.2★ from 0 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71x4mCKZG-L._SL1500_.jpg",
@@ -109761,6 +110379,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:kojic-acid",
@@ -112102,7 +112721,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.1★ from 0 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51f7EcA6kiL._SL1254_.jpg",
@@ -112117,6 +112737,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "claim:acne",
@@ -117281,7 +117902,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "1★ from 0 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71GLii9E16L._SL1500_.jpg",
@@ -117297,6 +117919,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:oil",
    "sun:mineral",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:tea-tree",
    "ing:turmeric",
@@ -128502,7 +129125,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.6★ from 0 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61Ij1U1ny5L._SL1500_.jpg",
@@ -128517,6 +129141,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:kit",
+   "water:unstated",
    "ing:niacinamide",
    "ing:kojic-acid",
    "ing:alpha-arbutin",
@@ -129713,7 +130338,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "5★ from 0 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51eielE0DoL._SL1024_.jpg",
@@ -129729,6 +130355,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:patch",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:alpha-arbutin",
    "claim:brightening",
@@ -136310,7 +136937,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "5★ from 0 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61ib6l2QMpL._SL1500_.jpg"
@@ -136321,6 +136949,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:gel",
+   "water:unstated",
    "claim:brightening",
    "claim:dark-spots",
    "claim:acne",
@@ -136958,7 +137587,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.3★ from 0 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51rqlUlhZwL._SL1500_.jpg",
@@ -136970,6 +137600,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
+   "water:unstated",
    "claim:acne",
    "claim:hydrating",
    "claim:barrier",
@@ -137925,7 +138556,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.1★ from 0 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61nGmeAb9VL._SL1500_.jpg",
@@ -137942,6 +138574,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:oil",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:neem",
    "claim:acne",

@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-07.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-12.
 // Unknown fields are honestly marked, never invented.
 const CTPRODUCTS = [
  {
@@ -165,7 +165,8 @@ const CTPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — niacinamide #6 on INCI; Dark spots — niacinamide #6 on INCI; Aging — product type, retinal #20 on INCI; Irritation — panthenol #10 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #6 on INCI; Dark spots — niacinamide #6 on INCI; Aging — product type, retinal #20 on INCI; Irritation — panthenol #10 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/4/m/n/15-retinal-shot-tightening-booster-celimax-original-imahqv6ubgbrrnd9.jpeg?q=90"
@@ -177,6 +178,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:retinol",
    "ing:retinal",
    "ing:vitamin-e",
@@ -352,7 +354,8 @@ const CTPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type, retinol #14 on INCI; Irritation — panthenol #6 on INCI (matching only — not proof it works)"
+   "concernBasis": "Aging — product type, retinol #14 on INCI; Irritation — panthenol #6 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/a/b/i/30-vita-a-retinol-shot-serum-0-1-anti-aging-tightening-booster-original-imahhxzynhwez458.jpeg?q=90",
@@ -369,6 +372,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:wash",
+   "water:unstated",
    "ing:retinol",
    "ing:retinal",
    "ing:peptides",
@@ -567,7 +571,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/n/w/n/15-retinal-shot-with-matryxyl-for-wrinkle-fine-line-care-15ml-original-imahqk3ygshf8pnq.jpeg?q=90",
@@ -580,6 +585,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:retinal",
    "claim:brightening",
@@ -684,7 +690,8 @@ const CTPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — niacinamide #6 on INCI; Dark spots — niacinamide #6 on INCI; Aging — product type, retinal #20 on INCI; Irritation — panthenol #10 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #6 on INCI; Dark spots — niacinamide #6 on INCI; Aging — product type, retinal #20 on INCI; Irritation — panthenol #10 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/o/c/x/15-retinal-tightening-booster-for-smooth-refined-looking-skin-original-imahqk3ttxa6ghyy.jpeg?q=90",
@@ -698,6 +705,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:retinal",
    "claim:brightening",
@@ -877,7 +885,8 @@ const CTPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type, retinol #14 on INCI; Irritation — panthenol #6 on INCI (matching only — not proof it works)"
+   "concernBasis": "Aging — product type, retinol #14 on INCI; Irritation — panthenol #6 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/j/t/q/30-vita-a-retinol-serum-anti-aging-firming-booster-smooth-skin-original-imahhxpycfqa73wn.jpeg?q=90",
@@ -895,6 +904,7 @@ const CTPRODUCTS = [
    "format:ampoule",
    "format:pack",
    "format:wash",
+   "water:unstated",
    "ing:niacinamide",
    "ing:retinol",
    "claim:brightening",
@@ -1097,7 +1107,8 @@ const CTPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.9★ from 10 ratings",
-   "concernBasis": "Aging — product type, retinol #14 on INCI; Irritation — panthenol #6 on INCI (matching only — not proof it works)"
+   "concernBasis": "Aging — product type, retinol #14 on INCI; Irritation — panthenol #6 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/h/7/h/30-the-vita-a-retinol-serum-skin-firming-anti-wrinkle-elasticity-original-imahfjphpgzhbjmr.jpeg?q=90",
@@ -1114,6 +1125,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:wash",
+   "water:unstated",
    "ing:retinol",
    "claim:brightening",
    "claim:dark-spots",
@@ -1309,7 +1321,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.1★ from 8 ratings",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/l/i/g/15-anti-aging-formula-with-0-1-retinal-firms-skin-minimises-original-imahzqqqjp4pdr5m.jpeg?q=90",
@@ -1326,6 +1339,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:retinal",
    "claim:brightening",
    "claim:dark-spots",
@@ -1424,7 +1438,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/u/d/n/15-the-vita-a-retinal-0-1-face-serum-for-mature-skin-care-15ml-original-imahqk3wsarmxxbe.jpeg?q=90",
@@ -1438,6 +1453,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:retinal",
    "claim:brightening",
@@ -1543,7 +1559,8 @@ const CTPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type, retinol #14 on INCI; Irritation — panthenol #6 on INCI (matching only — not proof it works)"
+   "concernBasis": "Aging — product type, retinol #14 on INCI; Irritation — panthenol #6 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/t/l/v/30-retinol-0-1-face-serum-vita-a-tightening-booster-reduces-fine-original-imahhxzzhzmfgcp7.jpeg?q=90",
@@ -1561,6 +1578,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:wash",
+   "water:unstated",
    "ing:niacinamide",
    "ing:retinol",
    "claim:brightening",
@@ -1763,7 +1781,8 @@ const CTPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type, retinol #14 on INCI; Irritation — panthenol #6 on INCI (matching only — not proof it works)"
+   "concernBasis": "Aging — product type, retinol #14 on INCI; Irritation — panthenol #6 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/p/8/y/30-vita-a-retinol-anti-wrinkle-serum-celimax-original-imahhy7tqfzcd72w.jpeg?q=90",
@@ -1780,6 +1799,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:wash",
+   "water:unstated",
    "ing:retinol",
    "ing:retinal",
    "ing:ginseng",
@@ -1983,7 +2003,8 @@ const CTPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — niacinamide #6 on INCI; Dark spots — niacinamide #6 on INCI; Aging — product type, retinal #20 on INCI; Irritation — panthenol #10 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #6 on INCI; Dark spots — niacinamide #6 on INCI; Aging — product type, retinal #20 on INCI; Irritation — panthenol #10 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/j/p/7/15-vita-a-retinal-booster-with-3-matryxyl-for-fine-lines-15ml-original-imahqk32fqhgv636.jpeg?q=90"
@@ -1995,6 +2016,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:retinal",
    "claim:brightening",
@@ -2174,7 +2196,8 @@ const CTPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type, retinol #14 on INCI; Irritation — panthenol #6 on INCI (matching only — not proof it works)"
+   "concernBasis": "Aging — product type, retinol #14 on INCI; Irritation — panthenol #6 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/p/s/c/30-vita-a-retinol-elasticity-boost-serum-celimax-original-imahhy8y7nmdzwxu.jpeg?q=90",
@@ -2191,6 +2214,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:wash",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:retinol",
@@ -2394,7 +2418,8 @@ const CTPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type, retinol #14 on INCI; Irritation — panthenol #6 on INCI (matching only — not proof it works)"
+   "concernBasis": "Aging — product type, retinol #14 on INCI; Irritation — panthenol #6 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/v/r/f/30-vita-a-retinol-firming-lifting-serum-restore-elasticity-original-imahfp7drwxjukhp.jpeg?q=90",
@@ -2412,6 +2437,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:wash",
+   "water:unstated",
    "ing:niacinamide",
    "ing:retinol",
    "ing:retinal",
@@ -2616,7 +2642,8 @@ const CTPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type, retinol #14 on INCI; Irritation — panthenol #6 on INCI (matching only — not proof it works)"
+   "concernBasis": "Aging — product type, retinol #14 on INCI; Irritation — panthenol #6 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/n/1/n/30-vita-a-retinol-advanced-tightening-serum-celimax-original-imahhy6arnvr6eab.jpeg?q=90",
@@ -2633,6 +2660,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:wash",
+   "water:unstated",
    "ing:retinol",
    "claim:brightening",
    "claim:dark-spots",
@@ -2834,7 +2862,8 @@ const CTPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type, retinol #14 on INCI; Irritation — panthenol #6 on INCI (matching only — not proof it works)"
+   "concernBasis": "Aging — product type, retinol #14 on INCI; Irritation — panthenol #6 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/b/t/y/30-vita-a-retinol-tightening-lifting-serum-wrinkle-repair-original-imahgj5bn8xszhny.jpeg?q=90",
@@ -2851,6 +2880,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:wash",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:retinol",
@@ -3059,7 +3089,8 @@ const CTPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type, retinol #14 on INCI; Irritation — panthenol #6 on INCI (matching only — not proof it works)"
+   "concernBasis": "Aging — product type, retinol #14 on INCI; Irritation — panthenol #6 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/r/h/s/30-vita-a-retinol-firming-lifting-serum-restore-elasticity-original-imahgxdqn3yaztsx.jpeg?q=90",
@@ -3077,6 +3108,7 @@ const CTPRODUCTS = [
    "format:pack",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:retinol",
    "ing:retinal",
    "ing:peptides",
@@ -3279,7 +3311,8 @@ const CTPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.9★ from 19 ratings",
-   "concernBasis": "Aging — product type, retinol #14 on INCI; Irritation — panthenol #6 on INCI (matching only — not proof it works)"
+   "concernBasis": "Aging — product type, retinol #14 on INCI; Irritation — panthenol #6 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/l/n/h/30-retinol-shot-smooth-firm-serum-for-unisex-celimax-original-imahh2fs6ktcawd8.jpeg?q=90",
@@ -3296,6 +3329,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:wash",
+   "water:unstated",
    "ing:retinol",
    "claim:brightening",
    "claim:dark-spots",
@@ -3492,7 +3526,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/i/g/2/15-the-vita-a-0-1-retinal-tightening-serum-for-pore-care-15ml-original-imahqk36bgapjech.jpeg?q=90",
@@ -3509,6 +3544,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:retinal",
    "claim:brightening",
@@ -3608,7 +3644,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/r/k/c/30-seoul-1988-retinal-liposome-serum-deep-repair-glow-enhancer-original-imahmyz3ycqgyf8y.jpeg?q=90",
@@ -3624,6 +3661,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:retinal",
    "claim:brightening",
    "claim:dark-spots",
@@ -3721,7 +3759,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/n/r/f/30-seoul-1988-retinal-liposome-serum-advanced-retinal-anti-aging-original-imahmyz3rqknbpf5.jpeg?q=90",
@@ -3737,6 +3776,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:retinal",
    "ing:ginseng",
    "claim:brightening",
@@ -3834,7 +3874,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.8★ from 9 ratings",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/t/l/x/30-seoul-1988-retinal-liposome-serum-skin-renewal-hydration-original-imahzf2bqc7cazkt.jpeg?q=90",
@@ -3850,6 +3891,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:retinal",
    "claim:brightening",
    "claim:anti-aging",
@@ -3944,7 +3986,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/h/r/j/30-seoul-1988-retinal-liposome-serum-fine-line-dark-spot-original-imahhzne6k4mcear.jpeg?q=90",
@@ -3960,6 +4003,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:retinal",
    "ing:rice-water",
    "ing:ginseng",
@@ -4166,7 +4210,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/l/o/k/30-seoul-1988-retinal-liposome-serum-anti-aging-skin-repair-original-imahmyqyrufrrbqf.jpeg?q=90",
@@ -4182,6 +4227,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:retinal",
    "ing:rice-water",
    "ing:ginseng",
@@ -4282,7 +4328,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/i/9/o/30-seoul-1988-retinal-liposome-serum-skin-renewal-hydration-original-imahm2zv5kfeka3f.jpeg?q=90",
@@ -4298,6 +4345,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:retinal",
    "ing:ginseng",
    "claim:brightening",
@@ -4711,7 +4759,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/n/u/d/25-seoul-1988-cream-liposome-4-retinal-boost-for-refreshing-and-original-imahhs9yvaghp2ry.jpeg?q=90",
@@ -4726,6 +4775,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:pack",
    "format:wash",
+   "water:unstated",
    "ing:retinal",
    "claim:anti-aging",
    "claim:acne",
@@ -5039,7 +5089,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/v/6/p/30-seoul-1988-retinal-liposome-serum-anti-aging-skin-repair-original-imahm33mphxy4hcg.jpeg?q=90",
@@ -5055,6 +5106,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:retinal",
    "claim:brightening",
    "claim:anti-aging",
@@ -5153,7 +5205,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/y/q/p/30-seoul-1988-retinal-liposome-serum-korean-glass-skin-booster-original-imahmyz4acahhwhh.jpeg?q=90",
@@ -5169,6 +5222,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:retinal",
    "claim:brightening",
    "claim:anti-aging",
@@ -5375,7 +5429,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.8★ from 69 ratings",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/e/v/x/30-seoul-1988-serum-retinal-liposome-2-black-ginseng-30ml-1-01fl-original-imahgdt3hsh7mqpg.jpeg?q=90",
@@ -5391,6 +5446,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:retinal",
    "ing:peptides",
    "ing:glycerin",
@@ -5489,7 +5545,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/j/f/p/30-seoul-1988-retinal-liposome-serum-deep-repair-glow-enhancer-original-imahm3fyseghffzf.jpeg?q=90",
@@ -5505,6 +5562,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:retinal",
    "claim:brightening",
    "claim:dark-spots",
@@ -5703,7 +5761,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/d/k/g/30-seoul-1988-retinal-liposome-serum-skin-renewal-hydration-original-imahz5nmtu4h92kz.jpeg?q=90",
@@ -5718,6 +5777,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:retinal",
    "claim:brightening",
    "claim:anti-aging",
@@ -5813,7 +5873,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.5★ from 6 ratings",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/j/j/f/50-seoul-1988-retinal-cream-advanced-retinal-liposome-1-original-imahgtfy5gg2kj3x.jpeg?q=90",
@@ -5828,6 +5889,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:retinal",
    "ing:rice-water",
    "claim:brightening",
@@ -6371,7 +6433,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Drying alcohol high in the list: alcohol denat (−1)",
    "maker": "L'Oréal Dermatological Beauty — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — niacinamide #5 on INCI; Dark spots — niacinamide #5 on INCI; Aging — product type, retinol #8 on INCI, adenosine #9 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #5 on INCI; Dark spots — niacinamide #5 on INCI; Aging — product type, retinol #8 on INCI, adenosine #9 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/7/p/s/30-retinol-glow-serum-niacinamide-hyaluronic-acid-for-brighter-original-imahpfyc2hh8yanu.jpeg?q=90",
@@ -6386,6 +6449,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:retinol",
    "ing:hyaluronic-acid",
@@ -6552,7 +6616,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Drying alcohol high in the list: alcohol denat (−1)",
    "maker": "L'Oréal Dermatological Beauty — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — niacinamide #5 on INCI; Dark spots — niacinamide #5 on INCI; Aging — product type, retinol #8 on INCI, adenosine #9 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #5 on INCI; Dark spots — niacinamide #5 on INCI; Aging — product type, retinol #8 on INCI, adenosine #9 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/5/d/s/30-retinol-niacinamide-face-serum-hydrating-anti-aging-facial-original-imahpfy5xre66ppr.jpeg?q=90",
@@ -6567,6 +6632,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:retinol",
    "claim:anti-aging",
@@ -6732,7 +6798,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Drying alcohol high in the list: alcohol denat (−1)",
    "maker": "L'Oréal Dermatological Beauty — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — niacinamide #5 on INCI; Dark spots — niacinamide #5 on INCI; Aging — product type, retinol #8 on INCI, adenosine #9 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #5 on INCI; Dark spots — niacinamide #5 on INCI; Aging — product type, retinol #8 on INCI, adenosine #9 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/v/i/5/30-retinol-face-serum-gentle-formula-with-hyaluronic-acid-for-original-imahpfy6rhuxa9vz.jpeg?q=90",
@@ -6747,6 +6814,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:retinol",
    "ing:hyaluronic-acid",
    "skin:all",
@@ -6910,7 +6978,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Drying alcohol high in the list: alcohol denat (−1)",
    "maker": "L'Oréal Dermatological Beauty — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — niacinamide #5 on INCI; Dark spots — niacinamide #5 on INCI; Aging — product type, retinol #8 on INCI, adenosine #9 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #5 on INCI; Dark spots — niacinamide #5 on INCI; Aging — product type, retinol #8 on INCI, adenosine #9 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/e/c/m/30-retinol-repair-face-serum-moisturizing-brightening-anti-aging-original-imahpfygkmp9zjsh.jpeg?q=90",
@@ -6925,6 +6994,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:retinol",
    "claim:brightening",
    "claim:anti-aging",
@@ -7091,7 +7161,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Drying alcohol high in the list: alcohol denat (−1)",
    "maker": "L'Oréal Dermatological Beauty — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — niacinamide #5 on INCI; Dark spots — niacinamide #5 on INCI; Aging — product type, retinol #8 on INCI, adenosine #9 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #5 on INCI; Dark spots — niacinamide #5 on INCI; Aging — product type, retinol #8 on INCI, adenosine #9 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/z/a/d/30-retinol-face-serum-with-niacinamide-hydrating-anti-wrinkle-original-imahpyzxxvzcsuub.jpeg?q=90",
@@ -7106,6 +7177,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:retinol",
    "claim:anti-aging",
@@ -7271,7 +7343,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Drying alcohol high in the list: alcohol denat (−1)",
    "maker": "L'Oréal Dermatological Beauty — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — niacinamide #5 on INCI; Dark spots — niacinamide #5 on INCI; Aging — product type, retinol #8 on INCI, adenosine #9 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #5 on INCI; Dark spots — niacinamide #5 on INCI; Aging — product type, retinol #8 on INCI, adenosine #9 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/h/b/c/30-pure-retinol-skin-serum-helps-improve-elasticity-reduce-original-imahpfyepmqzxpfh.jpeg?q=90",
@@ -7287,6 +7360,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:retinol",
    "claim:anti-aging",
    "skin:all",
@@ -7450,7 +7524,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Drying alcohol high in the list: alcohol denat (−1)",
    "maker": "L'Oréal Dermatological Beauty — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — niacinamide #5 on INCI; Dark spots — niacinamide #5 on INCI; Aging — product type, retinol #8 on INCI, adenosine #9 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #5 on INCI; Dark spots — niacinamide #5 on INCI; Aging — product type, retinol #8 on INCI, adenosine #9 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/i/q/6/30-retinol-face-serum-with-vitamin-b3-hyaluronic-acid-gentle-original-imahpyzumtjktg4g.jpeg?q=90",
@@ -7466,6 +7541,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:retinol",
    "ing:hyaluronic-acid",
@@ -7631,7 +7707,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Drying alcohol high in the list: alcohol denat (−1)",
    "maker": "L'Oréal Dermatological Beauty — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — niacinamide #5 on INCI; Dark spots — niacinamide #5 on INCI; Aging — product type, retinol #8 on INCI, adenosine #9 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #5 on INCI; Dark spots — niacinamide #5 on INCI; Aging — product type, retinol #8 on INCI, adenosine #9 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/t/l/z/30-retinol-anti-aging-face-serum-vitamin-b3-hyaluronic-acid-skin-original-imahpyzwht88yfbt.jpeg?q=90",
@@ -7647,6 +7724,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:retinol",
    "ing:hyaluronic-acid",
@@ -7812,7 +7890,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Drying alcohol high in the list: alcohol denat (−1)",
    "maker": "L'Oréal Dermatological Beauty — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — niacinamide #5 on INCI; Dark spots — niacinamide #5 on INCI; Aging — product type, retinol #8 on INCI, adenosine #9 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #5 on INCI; Dark spots — niacinamide #5 on INCI; Aging — product type, retinol #8 on INCI, adenosine #9 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/s/g/7/30-pure-retinol-serum-for-face-niacinamide-hyaluronic-acid-original-imahpyzvarv6vy3p.jpeg?q=90",
@@ -7828,6 +7907,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:retinol",
    "ing:hyaluronic-acid",
@@ -7993,7 +8073,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Drying alcohol high in the list: alcohol denat (−1)",
    "maker": "L'Oréal Dermatological Beauty — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — niacinamide #5 on INCI; Dark spots — niacinamide #5 on INCI; Aging — product type, retinol #8 on INCI, adenosine #9 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #5 on INCI; Dark spots — niacinamide #5 on INCI; Aging — product type, retinol #8 on INCI, adenosine #9 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/j/z/s/30-retinol-skin-repair-serum-vitamin-b3-hyaluronic-acid-original-imahpfy27cntgtaf.jpeg?q=90",
@@ -8009,6 +8090,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:retinol",
    "ing:hyaluronic-acid",
@@ -8971,7 +9053,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4★ from 47 ratings",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/i/l/z/30-0-3-retinol-anti-aging-face-serum-with-bakuchiol-oil-reduces-original-imahqgqdn6gcrwqa.jpeg?q=90",
@@ -8988,6 +9071,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:oil",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:retinol",
    "ing:bakuchiol",
@@ -9517,7 +9601,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.7★ from 159 ratings",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/s/v/3/30-retinol-face-serum-for-anti-aging-night-serum-to-reduce-fine-original-imahk8esn3nenz7h.jpeg?q=90",
@@ -9533,6 +9618,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:retinol",
    "claim:anti-aging",
    "skin:all",
@@ -10301,7 +10387,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/9/f/q/30-retiglow-night-serum-retinol-skin-repair-glow-serum-retiglow-original-imahmcyt6jjxwj2j.jpeg?q=90",
@@ -10316,6 +10403,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
+   "water:unstated",
    "ing:retinol",
    "ing:rice-water",
    "ing:licorice",
@@ -11189,7 +11277,8 @@ const CTPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.4★ from 7 ratings",
-   "concernBasis": "Aging — product type, retinol #2 on INCI (matching only — not proof it works)"
+   "concernBasis": "Aging — product type, retinol #2 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/g/m/n/30-0-6-retinol-face-serum-with-multi-peptides-for-anti-aging-original-imahfyfydfmz7ywv.jpeg?q=90",
@@ -11205,6 +11294,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:serum",
+   "water:unstated",
    "ing:retinol",
    "ing:peptides",
    "ing:vitamin-e",
@@ -11879,7 +11969,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/a/1/30-retinol-face-serum-anti-aging-serum-with-30-ml-ish-u-serum-original-imahpuhgbajfzv4r.jpeg?q=90",
@@ -11895,6 +11986,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:serum",
+   "water:unstated",
    "ing:retinol",
    "ing:kojic-acid",
    "claim:brightening",
@@ -12845,124 +12937,6 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "zero-the-start-itm8f5b92d8388a1",
-  "brand": "Zero The Start",
-  "model": "0.3% Retinol Night Serum | Fine Line & Wrinkle Car …",
-  "price": 364,
-  "capacityLine": "20 ml",
-  "materialLine": "retinol + peptides + rose",
-  "featureLine": "Serum · Paraben-free · ₹1820/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [
-   "Well-reviewed: 4.7★ from 34 ratings"
-  ],
-  "cons": [
-   "Only 5 ingredients named — formula unscored",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
-   "experience": 6.3
-  },
-  "fullSpec": {
-   "quantity": "20 ml",
-   "pricePer100": "₹1820/100ml",
-   "format": "Serum",
-   "keyIngredients": "retinol, peptides, rose (per listing)",
-   "freeFrom": "Paraben-free, Sulfate/SLS-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening/glow claim, Anti-aging claim, Acne/blemish claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "All Skin Types",
-   "rating": "4.7/5 (34 ratings, Flipkart)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Only 5 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: 0.3% Encapsulated Retinol, Peptides, Rose Hip Oil, Pomegrante Extract, Soy Extract",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.7★ from 34 ratings",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/e/5/z/20-0-3-retinol-night-serum-fine-line-wrinkle-care-zero-the-start-original-imahqr33qpj3pbpy.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/b/i/s/20-0-3-retinol-night-serum-fine-line-wrinkle-care-zero-the-start-original-imahqr33pnjugjzj.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/m/3/p/20-0-3-retinol-night-serum-fine-line-wrinkle-care-zero-the-start-original-imahqr33whfmcyt9.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/e/v/g/20-0-3-retinol-night-serum-fine-line-wrinkle-care-zero-the-start-original-imahqr33zgwbyhcq.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/l/m/q/20-0-3-retinol-night-serum-fine-line-wrinkle-care-zero-the-start-original-imahqr33yakaxgw3.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/zero-start-0-3-retinol-night-serum-fine-line-wrinkle-care/p/itm8f5b92d8388a1",
-  "buyStore": "Flipkart",
-  "title": "Zero The Start 0.3% Retinol Night Serum | Fine Line & Wrinkle Car …",
-  "tags": [
-   "scope:face",
-   "format:serum",
-   "format:oil",
-   "format:pack",
-   "ing:retinol",
-   "ing:peptides",
-   "ing:rose",
-   "claim:brightening",
-   "claim:dark-spots",
-   "claim:anti-aging",
-   "claim:acne",
-   "claim:pores",
-   "claim:scars",
-   "skin:all",
-   "free:paraben",
-   "free:sulfate",
-   "free:vegan",
-   "aud:women",
-   "size:travel",
-   "rating:4.5",
-   "store:flipkart",
-   "target:aging",
-   "inci:partial"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": true,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "partial",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "0.3% Encapsulated Retinol, Peptides, Rose Hip Oil, Pomegrante Extract, Soy Extract",
-   "inciNote": "Only 5 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 1,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.7★ from 34 ratings"
-  }
- },
- {
   "id": "nuerma-science-itm0b514be46567e",
   "brand": "Nuerma Science",
   "model": "Retinol 2% Face Serum + Vitamin C, E, & Hyaluronic …",
@@ -13003,7 +12977,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4★ from 441 ratings",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/fairness/z/e/9/30-2-retinol-serum-for-face-for-anti-aging-30-ml-night-face-original-imah8sjypcktyhjy.jpeg?q=90",
@@ -13018,6 +12993,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:retinol",
    "ing:aha",
@@ -13443,7 +13419,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.1★ from 160 ratings",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/fairness/a/o/e/30-2-retinol-serum-for-face-for-anti-aging-30-ml-night-face-original-imah8y75azkhpvdz.jpeg?q=90",
@@ -13458,6 +13435,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
+   "water:unstated",
    "ing:retinol",
    "claim:brightening",
    "claim:anti-aging",
@@ -13551,7 +13529,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/d/i/j/liposomal-retinol-serum-30ml-liposomal-niacinamide-sunscreen-spf-original-imahq6upzgadgeh5.jpeg?q=90",
@@ -13573,6 +13552,7 @@ const CTPRODUCTS = [
    "format:kit",
    "spf:50+",
    "pa:++++",
+   "water:unstated",
    "ing:niacinamide",
    "ing:retinol",
    "ing:kojic-acid",
@@ -14571,7 +14551,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/4/u/5/50-kaers-retinol-face-serum-kaers-by-healthcrew-serum-original-imahkyznkcgzhhp3.jpeg?q=90",
@@ -14591,6 +14572,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:essence",
    "format:oil",
+   "water:unstated",
    "ing:retinol",
    "ing:hyaluronic-acid",
    "ing:ceramides",
@@ -14908,7 +14890,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "5★ from 4 ratings",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/7/6/f/30-encapsulated-retinol-night-serum-noskip-original-imahzc9rnyugr7cd.jpeg?q=90",
@@ -14924,6 +14907,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:retinol",
    "ing:hyaluronic-acid",
@@ -15980,7 +15964,7 @@ const CTPRODUCTS = [
  {
   "id": "proven-honest-derma-itm9873d81eb4823",
   "brand": "Proven Honest Derma",
-  "model": "/PHD/ 0.3% Pure Retinol Serum with Bakuchiol, …",
+  "model": "/PHD/ 0.3% Pure Retinol Serum with Bakuchiol, Peptides & Hyaluronic Acid",
   "price": 594,
   "capacityLine": "30 ml",
   "materialLine": "retinol + bakuchiol + hyaluronic acid",
@@ -16029,7 +16013,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/proven-honest-derma-phd-0-3-pure-retinol-serum-bakuchiol-peptides-hyaluronic-acid/p/itm9873d81eb4823",
   "buyStore": "Flipkart",
-  "title": "Proven Honest Derma /PHD/ 0.3% Pure Retinol Serum with Bakuchiol, …",
+  "title": "Proven Honest Derma /PHD/ 0.3% Pure Retinol Serum with Bakuchiol, Peptides & Hyaluronic Acid",
   "tags": [
    "scope:face",
    "format:serum",
@@ -16128,7 +16112,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.7★ from 17 ratings",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/h/n/7/30-retinol-serum-0-3-for-anti-aging-reduce-fine-lines-wrinkles-original-imahz2d5uzzcrecu.jpeg?q=90",
@@ -16144,6 +16129,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:retinol",
    "claim:dark-spots",
    "claim:anti-aging",
@@ -16570,7 +16556,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/t/3/j/30-retinol-retinal-bakuchiol-night-serum-for-wrinkles-pack-of-1-original-imahe2dhxsddy58z.jpeg?q=90",
@@ -16587,6 +16574,7 @@ const CTPRODUCTS = [
    "format:pack",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:retinol",
    "ing:retinal",
    "ing:bakuchiol",
@@ -16914,7 +16902,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/j/m/9/retinol-face-pink-lip-serum-under-eye-serum-hair-growth-serum-original-imagxfaymbem48cf.jpeg?q=90",
@@ -16934,6 +16923,7 @@ const CTPRODUCTS = [
    "format:pack",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:retinol",
    "ing:salicylic-acid-bha",
@@ -17029,7 +17019,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/b/d/v/dual-protection-spf-50-sunscreen-100ml-retinol-face-serum-30ml-2-original-imah3bg9hu4n3r9m.jpeg?q=90",
@@ -17054,6 +17045,7 @@ const CTPRODUCTS = [
    "format:wash",
    "format:kit",
    "spf:50+",
+   "water:unstated",
    "ing:retinol",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
@@ -18985,7 +18977,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/1/m/q/retinol-face-serum-give-brighter-clear-skin-beetroot-lip-serum-original-imagxgdgrktekyej.jpeg?q=90",
@@ -19004,6 +18997,7 @@ const CTPRODUCTS = [
    "format:oil",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:retinol",
    "ing:aloe-vera",
    "ing:beetroot",
@@ -19527,7 +19521,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.7★ from 34 ratings",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/k/k/w/60-0-3-retinol-night-serum-anti-aging-reduces-fine-lines-original-imahmpg82kr5cjab.jpeg?q=90",
@@ -19544,6 +19539,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:oil",
    "format:pack",
+   "water:unstated",
    "ing:retinol",
    "ing:peptides",
    "ing:collagen",
@@ -19734,7 +19730,7 @@ const CTPRODUCTS = [
  {
   "id": "park-daniel-itma7cc8de3a1234",
   "brand": "Park Daniel",
-  "model": "Retinol Face Serum & Kukumadi Lip Serum Oil & Under E …",
+  "model": "Retinol Face Serum & Kukumadi Lip Serum Oil & Under Eye Serum (Each, 30ml)",
   "price": 322,
   "capacityLine": "30 ml",
   "materialLine": "retinol",
@@ -19785,7 +19781,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/park-daniel-retinol-face-serum-kukumadi-lip-oil-under-eye-each-30ml/p/itma7cc8de3a1234",
   "buyStore": "Flipkart",
-  "title": "PARK DANIEL Retinol Face Serum & Kukumadi Lip Serum Oil & Under E …",
+  "title": "PARK DANIEL Retinol Face Serum & Kukumadi Lip Serum Oil & Under Eye Serum (Each, 30ml)",
   "tags": [
    "scope:face",
    "format:serum",
@@ -20308,7 +20304,7 @@ const CTPRODUCTS = [
  {
   "id": "twasa-itmabbac8098557f",
   "brand": "Twasa",
-  "model": "Retinol Serum Face Sheet Mask |Sheet Mask for Anti Aging, R …",
+  "model": "Retinol Serum Face Sheet Mask |Sheet Mask for Anti Aging, Reduce fine & wrinkles",
   "price": 326,
   "capacityLine": "500 g (pack of 5)",
   "materialLine": "retinol",
@@ -20359,7 +20355,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/twasa-retinol-serum-face-sheet-mask-sheet-anti-aging-reduce-fine-wrinkles/p/itmabbac8098557f",
   "buyStore": "Flipkart",
-  "title": "Twasa Retinol Serum Face Sheet Mask |Sheet Mask for Anti Aging, R …",
+  "title": "Twasa Retinol Serum Face Sheet Mask |Sheet Mask for Anti Aging, Reduce fine & wrinkles",
   "tags": [
    "scope:face",
    "format:serum",
@@ -20470,7 +20466,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/n/g/c/62-peach-tinted-50g-2-retinol-face-serum-12ml-repair-brighten-original-imahnuhggarcv8dt.jpeg?q=90",
@@ -20490,6 +20487,7 @@ const CTPRODUCTS = [
    "format:balm",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:niacinamide",
    "ing:retinol",
    "ing:kojic-acid",
@@ -20501,6 +20499,7 @@ const CTPRODUCTS = [
    "claim:dark-circles",
    "claim:tinted",
    "claim:spf-claim",
+   "claim:chapped-lips",
    "skin:all",
    "skin:mature",
    "free:paraben",
@@ -20591,7 +20590,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/w/v/o/20-0-retinal-shot-tightening-booster-face-serum-olivanti-original-imahzygudeg8f7mz.jpeg?q=90",
@@ -20608,6 +20608,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:retinol",
    "ing:retinal",
    "ing:matrixyl",
@@ -20703,7 +20704,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "5★ from 14 ratings",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/q/m/h/20-patttra-pro-retinol-brightening-day-cream-spf-30-retinol-original-imahzgmqh78thpzq.jpeg?q=90",
@@ -20722,6 +20724,7 @@ const CTPRODUCTS = [
    "format:wash",
    "format:kit",
    "spf:30",
+   "water:unstated",
    "ing:retinol",
    "claim:brightening",
    "claim:anti-aging",
@@ -22442,7 +22445,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/s/h/j/50-retinol-collagen-hyaluronic-acid-face-cream-daily-original-imahjw4phshxa2my.jpeg?q=90",
@@ -22460,6 +22464,7 @@ const CTPRODUCTS = [
    "format:lotion",
    "format:balm",
    "format:wash",
+   "water:unstated",
    "ing:retinol",
    "ing:collagen",
    "ing:kojic-acid",
@@ -22561,7 +22566,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Marico — Established / listed Indian FMCG house",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/n/h/h/50-the-plant-fix-pomegranate-1-retinol-1-bakuchi-oil-anti-ageing-original-imahqfwmvefs9tzm.jpeg?q=90",
@@ -22578,6 +22584,7 @@ const CTPRODUCTS = [
    "format:oil",
    "format:wash",
    "spf:50",
+   "water:unstated",
    "ing:retinol",
    "claim:brightening",
    "claim:anti-aging",
@@ -23395,7 +23402,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/s/h/j/50-retinol-collagen-hyaluronic-acid-face-cream-daily-original-imahjw4phshxa2my.jpeg?q=90",
@@ -23415,6 +23423,7 @@ const CTPRODUCTS = [
    "format:balm",
    "format:capsule",
    "format:kit",
+   "water:unstated",
    "ing:retinol",
    "ing:collagen",
    "ing:aloe-vera",
@@ -23518,7 +23527,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/4/2/50-vivid-glow-smooth-radiance-face-cream-50ml-mullica-cream-original-imahjz94btngvhrj.jpeg?q=90",
@@ -23535,6 +23545,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:capsule",
    "format:kit",
+   "water:unstated",
    "ing:retinol",
    "ing:rice-water",
    "claim:brightening",
@@ -23635,7 +23646,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/s/h/j/50-retinol-collagen-hyaluronic-acid-face-cream-daily-original-imahjw4phshxa2my.jpeg?q=90",
@@ -23652,6 +23664,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:capsule",
    "format:kit",
+   "water:unstated",
    "ing:retinol",
    "ing:hyaluronic-acid",
    "ing:collagen",
@@ -25046,7 +25059,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "2.2★ from 5 ratings",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/e/2/30-retinol-cream-for-face-anti-aging-retinol-moisturizer-skin-original-imahfnytmhhkwuzz.jpeg?q=90",
@@ -25062,6 +25076,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:scrub",
+   "water:unstated",
    "ing:retinol",
    "claim:anti-aging",
    "claim:hydrating",
@@ -26157,7 +26172,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/1/i/w/100-0-retinol-night-cream-with-vitamin-c-hyaluronic-acid-for-original-imahjn9agupdzxhy.jpeg?q=90",
@@ -26175,6 +26191,7 @@ const CTPRODUCTS = [
    "format:lotion",
    "format:pack",
    "format:scrub",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:retinol",
@@ -26275,7 +26292,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "2.3★ from 3 ratings",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/8/h/h/50-0-retinol-night-cream-with-vitamin-c-hyaluronic-complex-original-imahp58rbgxp9gyf.jpeg?q=90",
@@ -26291,6 +26309,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:scrub",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:retinol",
    "ing:hyaluronic-acid",
@@ -26507,7 +26526,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.9★ from 8 ratings",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/2/a/50-retinol-1-night-moisturizer-face-cream-for-wrinkles-anti-original-imahmqfbzmdfhhhg.jpeg?q=90",
@@ -26522,6 +26542,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:niacinamide",
    "ing:retinol",
    "ing:ceramides",
@@ -26852,7 +26873,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/v/o/15-retinol-shoot0-1-retinol-shot-cream-original-imahpvkpa7cmxy2f.jpeg?q=90",
@@ -26867,6 +26889,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:retinol",
    "ing:retinal",
    "claim:anti-aging",
@@ -27128,7 +27151,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.7★ from 9 ratings",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/r/s/x/50-anti-aging-wrinkle-fine-lines-retinol-collagen-hyaluronic-spf-original-imahf8kvptg4hj9j.jpeg?q=90",
@@ -27145,6 +27169,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:balm",
    "spf:30",
+   "water:unstated",
    "ing:retinol",
    "ing:glycolic-acid",
    "ing:hyaluronic-acid",
@@ -27251,7 +27276,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.3★ from 3 ratings",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/6/u/p/50-night-cream-with-retinol-hyaluronic-acid-skin-repair-cream-original-imahe9yhyvpwhxk9.jpeg?q=90",
@@ -27267,6 +27293,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:oil",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:retinol",
@@ -27374,7 +27401,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.9★ from 8 ratings",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/e/r/50-retinol-1-night-moisturizer-face-cream-for-wrinkles-anti-original-imahjc2keksnzwfz.jpeg?q=90",
@@ -27389,6 +27417,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:niacinamide",
    "ing:retinol",
    "ing:ceramides",
@@ -27492,7 +27521,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.9★ from 8 ratings",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/e/r/50-retinol-1-night-moisturizer-face-cream-for-wrinkles-anti-original-imahjc2keksnzwfz.jpeg?q=90",
@@ -27507,6 +27537,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:niacinamide",
    "ing:retinol",
    "ing:ceramides",
@@ -27608,7 +27639,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.9★ from 19 ratings",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/r/s/x/50-anti-aging-wrinkle-fine-lines-retinol-collagen-hyaluronic-spf-original-imahf8kvptg4hj9j.jpeg?q=90",
@@ -27625,6 +27657,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:balm",
    "spf:30",
+   "water:unstated",
    "ing:retinol",
    "ing:hyaluronic-acid",
    "ing:collagen",
@@ -27724,7 +27757,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.7★ from 13 ratings",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/a/v/u/50-retinol-collagen-boost-anti-ageing-night-face-cream-aging-original-imahf9kxsa2npua8.jpeg?q=90",
@@ -27741,6 +27775,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:oil",
    "format:wash",
+   "water:unstated",
    "ing:niacinamide",
    "ing:retinol",
    "ing:hyaluronic-acid",
@@ -27844,7 +27879,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.8★ from 18 ratings",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/t/r/40-retinol-pro-gel-0-025-vitamin-a-night-gel-for-fine-lines-sun-original-imahq2fhxhgey4ty.jpeg?q=90",
@@ -27860,6 +27896,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:lotion",
+   "water:unstated",
    "ing:retinol",
    "claim:anti-aging",
    "claim:acne",
@@ -27954,7 +27991,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.1★ from 67 ratings",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/b/3/30-retinol-pro-night-cream-0-1-vitamin-a-fine-lines-sun-spots-original-imahq2fsxzt2htgh.jpeg?q=90",
@@ -27969,6 +28007,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:retinol",
    "claim:anti-aging",
    "skin:all",
@@ -28229,7 +28268,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/1/j/e/50-retinol-collagen-hyaluronic-acid-cream-anti-aging-hydrating-original-imahkbhychg8pzea.jpeg?q=90",
@@ -28246,6 +28286,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:retinol",
    "ing:hyaluronic-acid",
    "ing:collagen",
@@ -28352,7 +28393,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.7★ from 11 ratings",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/m/x/q/40-retinol-fusion-cream-0-05-with-bakuchiol-vitamin-a-anti-aging-original-imahq2fayxexd2gy.jpeg?q=90",
@@ -28367,6 +28409,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:retinol",
    "ing:bakuchiol",
    "claim:anti-aging",
@@ -28462,7 +28505,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.6★ from 7 ratings",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/y/s/k/35-retinol-pro-gel-0-05-vitamin-a-fine-lines-sun-spots-anti-original-imahq2f2hmjryy3u.jpeg?q=90",
@@ -28477,6 +28521,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:gel",
+   "water:unstated",
    "ing:retinol",
    "claim:brightening",
    "claim:de-tan",
@@ -28681,7 +28726,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-moisturizer-cream/d/t/c/30-retinol-pro-night-cream-0-1-with-vitamin-a-night-face-cream-original-imahpwvbshxmtvbh.jpeg?q=90",
@@ -28698,6 +28744,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:lotion",
    "format:kit",
+   "water:unstated",
    "ing:retinol",
    "claim:brightening",
    "claim:dark-spots",
@@ -28797,7 +28844,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/7/d/q/60-retinol-pro-night-cream-0-05-with-vitamin-a-for-fine-lines-original-imahp53f8ab8h5dz.jpeg?q=90",
@@ -28813,6 +28861,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:kit",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:retinol",
    "ing:kojic-acid",
@@ -28909,7 +28958,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/d/r/c/60-retinol-pro-night-cream-0-05-vitamin-a-anti-aging-pack-of-2-original-imahp3vzmnsk2an3.jpeg?q=90",
@@ -28926,6 +28976,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:lotion",
    "format:kit",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:retinol",
    "claim:brightening",
@@ -29024,7 +29075,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/0/d/80-retinol-fusion-cream-0-05-with-bakuchiol-vitamin-a-for-anti-original-imahp53gvagafgjk.jpeg?q=90",
@@ -29043,6 +29095,7 @@ const CTPRODUCTS = [
    "format:pack",
    "format:kit",
    "spf:30",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:retinol",
    "ing:bakuchiol",
@@ -29146,7 +29199,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/q/4/t/80-retinol-intense-cream-0-1-with-vitamin-a-for-fine-lines-sun-original-imahqf8j4mbz3hth.jpeg?q=90",
@@ -29162,6 +29216,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:kit",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:retinol",
    "claim:brightening",
@@ -32637,7 +32692,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3★ from 9 ratings",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/n/e/q/15-vita-a-retinal-shot-firming-shot-booster-lifting-care-inawhsa-original-imahhxsfhkwfhygj.jpeg?q=90",
@@ -32653,6 +32709,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:retinal",
    "claim:anti-aging",
    "claim:acne",
@@ -43742,6 +43799,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:cream",
    "ing:retinol",
+   "ing:nad-nmn",
    "claim:brightening",
    "claim:anti-aging",
    "aud:unisex",
@@ -45018,7 +45076,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.5★ from 6 ratings",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/i/m/7/50-advanced-anti-aging-night-cream-hyaluronic-niacinamide-original-imahmzcgpzhmefez.jpeg?q=90",
@@ -45033,6 +45092,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:retinol",
@@ -45241,7 +45301,7 @@ const CTPRODUCTS = [
  {
   "id": "unbranded-itm296261c9d3244",
   "brand": "Unbranded",
-  "model": "Derma Retinoid 7% Advanced Collagen Booster Serum, 3rd Generation …",
+  "model": "Derma Retinoid 7% Advanced Collagen Booster Serum, 3rd Generation",
   "price": 461,
   "capacityLine": "10 ml",
   "materialLine": "niacinamide + retinol + hyaluronic acid",
@@ -45291,7 +45351,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/derma-retinoid-7-advanced-collagen-booster-serum-3rd-generation/p/itm296261c9d3244",
   "buyStore": "Flipkart",
-  "title": "Derma Retinoid 7% Advanced Collagen Booster Serum, 3rd Generation …",
+  "title": "Derma Retinoid 7% Advanced Collagen Booster Serum, 3rd Generation",
   "tags": [
    "scope:unstated",
    "format:serum",
@@ -46080,7 +46140,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/k/l/s/30-retinol-0-1-night-face-serum-fine-lines-wrinkles-anti-aging-original-imahpp3jgchgyp3s.jpeg?q=90",
@@ -46097,6 +46158,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:serum",
    "format:wash",
+   "water:unstated",
    "ing:retinol",
    "ing:kojic-acid",
    "ing:glycerin",
@@ -46540,7 +46602,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.5★ from 4 ratings",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/c/v/o/33-retinol-peptide-serum-smooth-fine-lines-fade-sun-spots-anti-original-imahq2fjqaxqazmd.jpeg?q=90",
@@ -46556,6 +46619,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:serum",
+   "water:unstated",
    "ing:retinol",
    "ing:peptides",
    "claim:anti-aging",
@@ -46869,7 +46933,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/8/h/33-retinol-radiant-revive-vitamin-c-face-serum-fine-lines-sun-original-imahzzhfxc4ugfvb.jpeg?q=90",
@@ -46890,6 +46955,7 @@ const CTPRODUCTS = [
    "format:wash",
    "format:kit",
    "spf:40",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:retinol",
@@ -47128,6 +47194,7 @@ const CTPRODUCTS = [
    "ing:retinol",
    "ing:retinal",
    "ing:peptides",
+   "ing:nad-nmn",
    "claim:brightening",
    "claim:anti-aging",
    "claim:hydrating",
@@ -48895,7 +48962,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/c/u/d/50-dragon-retinol-cream-daily-skin-care-moisture-solution-1pc-original-imahn8754hzs2nyz.jpeg?q=90",
@@ -48915,6 +48983,7 @@ const CTPRODUCTS = [
    "format:essence",
    "format:kit",
    "spf:15",
+   "water:unstated",
    "ing:retinol",
    "ing:collagen",
    "claim:brightening",
@@ -49013,7 +49082,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/e/z/7/50-dragon-retinol-cream-herbal-daily-skin-care-solution-1pc-original-imahn87ymety8j74.jpeg?q=90",
@@ -49033,6 +49103,7 @@ const CTPRODUCTS = [
    "format:balm",
    "format:kit",
    "spf:15",
+   "water:unstated",
    "ing:niacinamide",
    "ing:retinol",
    "ing:hyaluronic-acid",
@@ -49142,7 +49213,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/n/l/d/50-dragon-retinol-cream-daily-hydration-herbal-moisturizer-1pc-original-imahn87yzxz9b7uk.jpeg?q=90",
@@ -49164,6 +49236,7 @@ const CTPRODUCTS = [
    "format:balm",
    "format:kit",
    "spf:15",
+   "water:unstated",
    "ing:niacinamide",
    "ing:retinol",
    "ing:hyaluronic-acid",
@@ -49273,7 +49346,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/y/e/8/50-dragon-retinol-cream-herbal-soft-skin-care-solution-1pc-original-imahn875ub2pvzpu.jpeg?q=90",
@@ -49293,6 +49367,7 @@ const CTPRODUCTS = [
    "format:essence",
    "format:kit",
    "spf:15",
+   "water:unstated",
    "ing:retinol",
    "ing:collagen",
    "claim:brightening",
@@ -49645,6 +49720,7 @@ const CTPRODUCTS = [
    "ing:retinal",
    "ing:caffeine",
    "ing:green-tea",
+   "ing:nad-nmn",
    "claim:whitening-claim",
    "claim:hydrating",
    "claim:dark-circles",
@@ -50318,6 +50394,7 @@ const CTPRODUCTS = [
    "ing:niacinamide",
    "ing:retinol",
    "ing:retinal",
+   "ing:nad-nmn",
    "claim:brightening",
    "claim:anti-aging",
    "claim:hydrating",
@@ -50513,7 +50590,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/c/p/8/30-retinol-serum-kepran-serum-original-imahjghwskzqa7zg.jpeg?q=90",
@@ -50532,6 +50610,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:oil",
    "format:kit",
+   "water:unstated",
    "ing:niacinamide",
    "ing:retinol",
    "ing:salicylic-acid-bha",
@@ -50749,7 +50828,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/a/x/o/50-overnight-bright-repair-face-cream-mullica-cream-original-imahjsxf7kej6hxs.jpeg?q=90",
@@ -50765,6 +50845,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:kit",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:retinol",
    "ing:vitamin-e",
@@ -51103,7 +51184,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/eye-serum/s/6/3/15-retinol-eye-serum-with-caffeine-peptides-dark-circles-eye-original-imahzrnwzvdezzke.jpeg?q=90",
@@ -51120,6 +51202,7 @@ const CTPRODUCTS = [
    "format:gel",
    "format:serum",
    "format:roll-on",
+   "water:unstated",
    "ing:retinol",
    "ing:hyaluronic-acid",
    "ing:peptides",
@@ -51216,7 +51299,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/4/l/w/100-day-night-kit-retinol-night-cream-ceramide-moisturizer-for-original-imahjk38zumknfz2.jpeg?q=90",
@@ -51236,6 +51320,7 @@ const CTPRODUCTS = [
    "format:wash",
    "format:kit",
    "spf:50",
+   "water:unstated",
    "ing:retinol",
    "ing:ceramides",
    "ing:turmeric",
@@ -52847,7 +52932,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/p/e/s/20-better-ageing-serum-with-bakuchiol-ceramides-peptides-original-imahpjzwgnbrumfh.jpeg?q=90",
@@ -52865,6 +52951,7 @@ const CTPRODUCTS = [
    "format:oil",
    "format:pack",
    "sun:mineral",
+   "water:unstated",
    "ing:retinol",
    "ing:bakuchiol",
    "ing:ceramides",
@@ -52964,7 +53051,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/q/j/8/20-better-ageing-face-serum-bakuchiol-anti-ageing-serum-with-original-imahpjqdzm4hdwtx.jpeg?q=90",
@@ -52982,6 +53070,7 @@ const CTPRODUCTS = [
    "format:pack",
    "format:wash",
    "sun:mineral",
+   "water:unstated",
    "ing:niacinamide",
    "ing:bakuchiol",
    "ing:hyaluronic-acid",
@@ -53196,7 +53285,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/x/a/m/30-retinol-serum-with-retinal-bakuchiol-korean-anti-wrinkle-original-imahe2dhg5yntrdu.jpeg?q=90",
@@ -53214,6 +53304,7 @@ const CTPRODUCTS = [
    "format:essence",
    "format:pack",
    "format:wash",
+   "water:unstated",
    "ing:retinol",
    "ing:retinal",
    "ing:bakuchiol",
@@ -53420,7 +53511,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.2★ from 9 ratings",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/2/n/7/30-bakuchiol-oil-for-face-wrinkles-reduction-anti-ageing-skin-original-imahngwke3k9mayt.jpeg?q=90",
@@ -53436,6 +53528,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:oil",
    "format:pack",
+   "water:unstated",
    "ing:bakuchiol",
    "claim:brightening",
    "claim:anti-aging",
@@ -53636,7 +53729,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/l/x/0/30-bakuchiol-vitamin-c-radiance-serum-for-brightening-dark-spot-original-imahmear7zxzbhzj.jpeg?q=90",
@@ -53653,6 +53747,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:retinol",
    "ing:bakuchiol",
@@ -53859,7 +53954,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/v/n/e/30-anti-aging-retinol-serum-retinal-bakuchiol-for-youthful-skin-original-imahderyznztyf6r.jpeg?q=90",
@@ -53877,6 +53973,7 @@ const CTPRODUCTS = [
    "format:pack",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:niacinamide",
    "ing:retinol",
    "ing:retinal",
@@ -53942,7 +54039,7 @@ const CTPRODUCTS = [
  {
   "id": "dr-sheth-s-itmbbbaea3baba63",
   "brand": "Dr. Sheth's",
-  "model": "Bakuchiol & Pdrn Ampoule Serum | Firms & Plumps Skin …",
+  "model": "Bakuchiol & Pdrn Ampoule Serum | Firms & Plumps Skin | Improves Skin Texture",
   "price": 799,
   "capacityLine": "30 ml",
   "materialLine": "bakuchiol",
@@ -53992,12 +54089,13 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/dr-sheths-bakuchiol-pdrn-ampoule-serum-firms-plumps-skin-improves-texture/p/itmbbbaea3baba63",
   "buyStore": "Flipkart",
-  "title": "Dr. Sheth’s Bakuchiol & Pdrn Ampoule Serum | Firms & Plumps Skin …",
+  "title": "Dr. Sheth’s Bakuchiol & Pdrn Ampoule Serum | Firms & Plumps Skin | Improves Skin Texture",
   "tags": [
    "scope:face",
    "format:serum",
    "format:ampoule",
    "ing:bakuchiol",
+   "ing:pdrn-polynucleotide",
    "claim:brightening",
    "claim:dark-spots",
    "claim:anti-aging",
@@ -54325,7 +54423,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.8★ from 4 ratings",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/d/v/f/30-bakuchiol-face-serum-soothing-skin-facial-serum-essence-original-imahmjyvzbc36fgz.jpeg?q=90",
@@ -54342,6 +54441,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:essence",
    "format:pack",
+   "water:unstated",
    "ing:bakuchiol",
    "claim:brightening",
    "claim:dark-spots",
@@ -54443,7 +54543,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.3★ from 7 ratings",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/6/l/m/30-2-bakuchiol-peptide-serum-anti-aging-reduce-fine-line-anti-original-imahjdfgaqzjvggb.jpeg?q=90",
@@ -54461,6 +54562,7 @@ const CTPRODUCTS = [
    "format:oil",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:niacinamide",
    "ing:bakuchiol",
    "ing:hyaluronic-acid",
@@ -54667,7 +54769,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/2/i/0/30-better-ageing-face-serum-bakuchiol-blue-pea-extract-helps-original-imahpvz5ygcw5mgd.jpeg?q=90",
@@ -54682,6 +54785,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:bakuchiol",
    "claim:anti-aging",
    "claim:hydrating",
@@ -54776,7 +54880,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/j/t/l/30-better-ageing-face-serum-bakuchiol-blue-pea-extract-helps-original-imahpvm5neezmmtz.jpeg?q=90",
@@ -54792,6 +54897,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:bakuchiol",
    "claim:anti-aging",
    "claim:hydrating",
@@ -54886,7 +54992,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/u/v/s/30-better-ageing-face-serum-bakuchiol-blue-pea-extract-helps-original-imahpvzfwg5zavxh.jpeg?q=90",
@@ -54901,6 +55008,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:bakuchiol",
    "claim:anti-aging",
    "claim:hydrating",
@@ -55460,7 +55568,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/r/o/a/19-better-ageing-face-serum-bakuchiol-blue-pea-extract-helps-original-imahpdrxc4z6fk33.jpeg?q=90",
@@ -55477,6 +55586,7 @@ const CTPRODUCTS = [
    "format:pack",
    "format:wash",
    "sun:mineral",
+   "water:unstated",
    "ing:bakuchiol",
    "claim:brightening",
    "claim:de-tan",
@@ -56002,7 +56112,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.1★ from 24 ratings",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/fairness/r/j/s/30-c-glow-booster-serum-3-vitamin-c-spf-15-30-ml-pregnancy-safe-original-imagycnzrz3fya2e.jpeg?q=90",
@@ -56019,6 +56130,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:wash",
+   "water:unstated",
    "ing:retinol",
    "ing:bakuchiol",
    "ing:hyaluronic-acid",
@@ -56118,7 +56230,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.3★ from 4 ratings",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/p/w/l/10-age-defying-pure-bakuchiol-oil-smooths-fine-lines-and-original-imahmjyvamggdgfd.jpeg?q=90",
@@ -56135,6 +56248,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:oil",
    "format:pack",
+   "water:unstated",
    "ing:bakuchiol",
    "claim:brightening",
    "claim:anti-aging",
@@ -56346,7 +56460,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/f/h/z/60-0-3-retinol-serum-with-bakuchiol-pro-vitamin-b5-for-glowing-original-imahpbxcmqqdfjby.jpeg?q=90",
@@ -56364,6 +56479,7 @@ const CTPRODUCTS = [
    "format:pack",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:retinol",
    "ing:bakuchiol",
    "ing:vitamin-b5-panthenol",
@@ -56459,7 +56575,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/x/9/0/30-ayurvedic-anti-ageing-face-serum-sadhev-original-imahknsew5vk3t4a.jpeg?q=90",
@@ -56477,6 +56594,8 @@ const CTPRODUCTS = [
    "format:oil",
    "format:sleeping-mask",
    "format:wash",
+   "format:lip-mask",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:retinol",
    "ing:bakuchiol",
@@ -56490,6 +56609,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:exfoliating",
    "claim:ayurvedic",
+   "claim:chapped-lips",
    "skin:all",
    "aud:women",
    "size:travel",
@@ -56694,7 +56814,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/m/f/k/20-better-ageing-overnight-skin-renewal-serum-with-bakuchiol-original-imahpytawqkgykfe.jpeg?q=90",
@@ -56711,6 +56832,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:bakuchiol",
    "ing:ceramides",
    "ing:peptides",
@@ -56930,7 +57052,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/f/b/f/anti-ageing-1-bakuchiol-serum-for-face-serum-to-reduce-fine-original-imagycq9ghxnsjfc.jpeg?q=90",
@@ -56953,6 +57076,7 @@ const CTPRODUCTS = [
    "format:wash",
    "format:kit",
    "spf:50",
+   "water:unstated",
    "ing:bakuchiol",
    "ing:ceramides",
    "ing:peptides",
@@ -57052,7 +57176,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.4★ from 7 ratings",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/j/e/t/30-1-2-bakuchiol-peptide-serum-anti-aging-reduce-fine-line-anti-original-imahjnhpgpyhfwqf.jpeg?q=90",
@@ -57069,6 +57194,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:niacinamide",
    "ing:bakuchiol",
    "ing:peptides",
@@ -57170,7 +57296,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/q/e/a/30-better-ageing-face-serum-bakuchiol-blue-pea-extract-helps-original-imahpvymyhmjasuq.jpeg?q=90",
@@ -57185,6 +57312,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:bakuchiol",
    "claim:anti-aging",
    "claim:hydrating",
@@ -57279,7 +57407,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/c/j/9/30-better-ageing-face-serum-bakuchiol-blue-pea-extract-helps-original-imahpvpdgcvd23xd.jpeg?q=90",
@@ -57294,6 +57423,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:bakuchiol",
    "claim:anti-aging",
    "claim:hydrating",
@@ -57388,7 +57518,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/c/1/w/30-better-ageing-face-serum-bakuchiol-blue-pea-extract-helps-original-imahpvnzgnqvyhj6.jpeg?q=90",
@@ -57403,6 +57534,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:bakuchiol",
    "claim:anti-aging",
    "claim:hydrating",
@@ -57497,7 +57629,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/c/c/h/30-better-ageing-face-serum-bakuchiol-blue-pea-extract-helps-original-imahpvnszn6zhezq.jpeg?q=90",
@@ -57512,6 +57645,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:bakuchiol",
    "claim:anti-aging",
    "claim:hydrating",
@@ -57606,7 +57740,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/y/y/0/30-better-ageing-face-serum-bakuchiol-blue-pea-extract-helps-original-imahq4xacy22fgwc.jpeg?q=90",
@@ -57621,6 +57756,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:bakuchiol",
    "claim:anti-aging",
    "claim:hydrating",
@@ -57715,7 +57851,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/g/d/7/310-better-ageing-face-serum-bakuchiol-blue-pea-extract-helps-original-imahpvnwpyreastz.jpeg?q=90",
@@ -57731,6 +57868,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:bakuchiol",
    "claim:anti-aging",
    "claim:hydrating",
@@ -57825,7 +57963,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/g/f/p/30-better-ageing-face-serum-bakuchiol-blue-pea-extract-helps-original-imahpvyzxsx9bneh.jpeg?q=90",
@@ -57840,6 +57979,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:bakuchiol",
    "claim:anti-aging",
    "claim:hydrating",
@@ -57934,7 +58074,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/l/e/z/30-better-ageing-face-serum-bakuchiol-blue-pea-extract-helps-original-imahpvm9ne77mskv.jpeg?q=90",
@@ -57949,6 +58090,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:bakuchiol",
    "claim:anti-aging",
    "claim:hydrating",
@@ -58043,7 +58185,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/3/k/r/30-better-ageing-face-serum-bakuchiol-blue-pea-extract-helps-original-imahpvf6rzv2sxyz.jpeg?q=90",
@@ -58059,6 +58202,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:bakuchiol",
    "claim:anti-aging",
    "claim:hydrating",
@@ -58153,7 +58297,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/z/i/l/30-better-ageing-face-serum-bakuchiol-blue-pea-extract-helps-original-imahpuunzrgrhzhv.jpeg?q=90",
@@ -58167,6 +58312,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:bakuchiol",
    "claim:anti-aging",
    "claim:hydrating",
@@ -58261,7 +58407,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/4/t/n/30-better-ageing-face-serum-bakuchiol-blue-pea-extract-helps-original-imahpvf9ydddkfkx.jpeg?q=90",
@@ -58277,6 +58424,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:bakuchiol",
    "claim:anti-aging",
    "claim:hydrating",
@@ -58371,7 +58519,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/3/y/g/30-better-ageing-face-serum-bakuchiol-blue-pea-extract-helps-original-imahpvf4p4exf3kq.jpeg?q=90",
@@ -58386,6 +58535,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:bakuchiol",
    "claim:anti-aging",
    "claim:hydrating",
@@ -58480,7 +58630,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/3/r/l/30-better-ageing-face-serum-bakuchiol-blue-pea-extract-helps-original-imahpvm256j2hnuw.jpeg?q=90",
@@ -58496,6 +58647,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:bakuchiol",
    "claim:anti-aging",
    "claim:hydrating",
@@ -58703,7 +58855,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/v/5/e/30-retinol-anti-aging-face-serum-for-wrinkles-fine-lines-skin-original-imahmxfbzuyfdy4z.jpeg?q=90",
@@ -58719,6 +58872,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:oil",
+   "water:unstated",
    "ing:retinol",
    "ing:bakuchiol",
    "ing:kojic-acid",
@@ -58821,7 +58975,8 @@ const CTPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — ascorbic acid #1 on INCI; Aging — product type, ascorbic acid #1 on INCI, retinol #2 on INCI, bakuchiol #3 on INCI; Irritation — aloe barbadensis leaf extract #7 on INCI (matching only — not proof it works)"
+   "concernBasis": "Dark spots — ascorbic acid #1 on INCI; Aging — product type, ascorbic acid #1 on INCI, retinol #2 on INCI, bakuchiol #3 on INCI; Irritation — aloe barbadensis leaf extract #7 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/z/t/q/30-glow-up-serum-fancyperks-original-imahzdg9djqgnjas.jpeg?q=90",
@@ -58836,6 +58991,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:retinol",
    "ing:bakuchiol",
@@ -59218,7 +59374,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.7★ from 3 ratings",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/r/x/f/20-vilvah-better-ageing-face-serum-bakuchiol-blue-pea-extract-original-imahpgdgnhpwfhxb.jpeg?q=90",
@@ -59235,6 +59392,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:wash",
+   "water:unstated",
    "ing:bakuchiol",
    "claim:brightening",
    "claim:anti-aging",
@@ -59331,7 +59489,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.9★ from 7 ratings",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/n/g/o/30-1-retinol-serum-serum-for-face-bakuchiol-reduces-fine-lines-original-imahhm5dseqkf7zd.jpeg?q=90",
@@ -59347,6 +59506,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:retinol",
    "ing:bakuchiol",
    "ing:hyaluronic-acid",
@@ -60022,7 +60182,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/d/l/i/30-0-3-retinol-anti-aging-face-serum-with-bakuchiol-oil-reduces-original-imahz7wudgdsrs6n.jpeg?q=90",
@@ -60039,6 +60200,7 @@ const CTPRODUCTS = [
    "format:oil",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:retinol",
    "ing:bakuchiol",
@@ -60616,7 +60778,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/t/1/4/30-0-3-pure-retinol-serum-with-bakuchiol-peptides-hyaluronic-original-imahzfz5fnfx5wya.jpeg?q=90",
@@ -60632,6 +60795,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:retinol",
    "ing:bakuchiol",
    "ing:hyaluronic-acid",
@@ -60729,7 +60893,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/r/i/i/30-0-3-retinol-face-serum-reduces-wrinkles-fine-lines-dark-spots-original-imahzfrdbpruydta.jpeg?q=90",
@@ -60746,6 +60911,7 @@ const CTPRODUCTS = [
    "format:oil",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:retinol",
    "ing:bakuchiol",
    "claim:dark-spots",
@@ -61382,7 +61548,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/g/u/n/30-better-ageing-face-serum-bakuchiol-blue-pea-extract-helps-original-imahpvffayp4fxh5.jpeg?q=90",
@@ -61397,6 +61564,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:bakuchiol",
    "claim:anti-aging",
    "claim:hydrating",
@@ -61596,7 +61764,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/m/l/x/30-better-ageing-face-serum-bakuchiol-blue-pea-extract-helps-original-imahpvnqpm7hjt9f.jpeg?q=90",
@@ -61612,6 +61781,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:bakuchiol",
    "claim:anti-aging",
    "claim:hydrating",
@@ -61706,7 +61876,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/r/z/x/30-0-3-retinol-anti-aging-face-serum-with-bakuchiol-oil-reduces-original-imahzfrhatz8mkgf.jpeg?q=90",
@@ -61722,6 +61893,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:oil",
    "format:pack",
+   "water:unstated",
    "ing:retinol",
    "ing:bakuchiol",
    "claim:dark-spots",
@@ -61818,7 +61990,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/z/f/k/30-0-3-pro-retinol-0-3-retinol-serum-for-anti-aging-reduces-fine-original-imahzfrahzwgsbrg.jpeg?q=90",
@@ -61834,6 +62007,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:retinol",
    "claim:dark-spots",
    "claim:anti-aging",
@@ -61928,7 +62102,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/r/o/y/30-retinol-serum-0-3-for-anti-aging-to-reduce-fine-lines-original-imahzfkzpzzanfgp.jpeg?q=90",
@@ -61944,6 +62119,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:retinol",
    "claim:dark-spots",
    "claim:anti-aging",
@@ -62038,7 +62214,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/q/h/l/30-0-3-pro-retinol-0-3-retinol-serum-for-anti-aging-reduces-fine-original-imahzfr7gz62yge6.jpeg?q=90",
@@ -62054,6 +62231,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:retinol",
    "claim:dark-spots",
    "claim:anti-aging",
@@ -62148,7 +62326,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/b/s/j/30-0-3-retinol-serum-shot-with-2-hyaluronic-acid-beginner-original-imahzfr9q2dz9xxr.jpeg?q=90",
@@ -62164,6 +62343,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:retinol",
    "ing:hyaluronic-acid",
    "claim:dark-spots",
@@ -62259,7 +62439,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/k/9/c/30-0-3-retinol-serum-for-younger-looking-spotless-skin-acc44-original-imahzfhgqnsjmsmg.jpeg?q=90",
@@ -62275,6 +62456,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:retinol",
    "claim:dark-spots",
    "claim:anti-aging",
@@ -62369,7 +62551,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/m/e/s/30-retinol-face-serum-reduces-fine-lines-wrinkles-promotes-cell-original-imahzfkfgbcpnfzy.jpeg?q=90",
@@ -62385,6 +62568,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:retinol",
    "claim:anti-aging",
    "skin:all",
@@ -62478,7 +62662,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/7/f/a/30-0-3-retinol-face-serum-reduces-wrinkles-fine-lines-dark-spots-original-imahzfrdyfg3jfuv.jpeg?q=90",
@@ -62494,6 +62679,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:retinol",
    "claim:dark-spots",
    "claim:anti-aging",
@@ -62588,7 +62774,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/0/z/3/30-0-3-retinol-anti-aging-face-serum-with-bakuchiol-oil-reduces-original-imahz2nfdk8w74hq.jpeg?q=90",
@@ -62606,6 +62793,7 @@ const CTPRODUCTS = [
    "format:oil",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:retinol",
    "ing:bakuchiol",
@@ -62704,7 +62892,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/w/5/m/30-0-3-retinol-face-serum-best-for-anti-ageing-or-face-glow-ke-original-imahzfqkzpcyhgus.jpeg?q=90",
@@ -62720,6 +62909,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:retinol",
    "claim:brightening",
    "claim:dark-spots",
@@ -62815,7 +63005,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/5/f/8/30-tx2-retinol-face-serum-with-0-3-retinol-bakuchiol-hyaluronic-original-imahzfn4sv9beymv.jpeg?q=90",
@@ -62830,6 +63021,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:retinol",
    "ing:bakuchiol",
    "ing:hyaluronic-acid",
@@ -62927,7 +63119,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/i/e/1/30-xx-0-3-retinol-face-serum-for-fine-lines-wrinkles-blemishes-original-imahzfpzgr4hzxhk.jpeg?q=90",
@@ -62942,6 +63135,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:retinol",
    "claim:brightening",
    "claim:dark-spots",
@@ -63039,7 +63233,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/c/m/x/30-retinol-face-serum-with-0-3-retinol-bakuchiol-hyaluronic-acid-original-imahzfn5ywf7m3hz.jpeg?q=90",
@@ -63054,6 +63249,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:retinol",
    "ing:bakuchiol",
    "ing:hyaluronic-acid",
@@ -63151,7 +63347,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/e/a/h/30-retinol-serum-0-3-ferulic-acid-of-aging-dx1-ondps-original-imahzfz6v3ngtvns.jpeg?q=90",
@@ -63166,6 +63363,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:retinol",
    "ing:ferulic-acid",
    "claim:dark-spots",
@@ -63261,7 +63459,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/r/f/n/30-retinol-serum-0-3-ferulic-acid-of-aging-gx1-ondps-original-imahzfqhkzgw7pmk.jpeg?q=90",
@@ -63276,6 +63475,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:retinol",
    "ing:ferulic-acid",
    "claim:dark-spots",
@@ -63371,7 +63571,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/m/c/w/30-0-3-retinol-face-serum-best-for-anti-ageing-or-face-glow-ke-original-imahzfq8xeggxtah.jpeg?q=90",
@@ -63387,6 +63588,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:retinol",
    "claim:brightening",
    "claim:dark-spots",
@@ -63482,7 +63684,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/m/k/v/30-retinol-0-3-face-serum-encapsulated-anti-aging-ix1-ondps-original-imahzfnyhxdhcn59.jpeg?q=90",
@@ -63497,6 +63700,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:retinol",
    "claim:dark-spots",
    "claim:anti-aging",
@@ -63591,7 +63795,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/v/r/d/30-ucx1-0-3-retinol-face-serum-for-fine-lines-wrinkles-blemishes-original-imahzfq7bmbeznry.jpeg?q=90",
@@ -63606,6 +63811,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:retinol",
    "claim:brightening",
    "claim:dark-spots",
@@ -63703,7 +63909,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/o/s/7/30-retinol-0-3-face-serum-encapsulated-anti-aging-ea1-ondps-original-imahzfz2cefmzzqg.jpeg?q=90",
@@ -63718,6 +63925,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:retinol",
    "claim:dark-spots",
    "claim:anti-aging",
@@ -63812,7 +64020,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/g/3/s/30-0-3-pro-retinol-age-renewal-serum-anti-ageing-face-serum-for-original-imahzfrfggjtsf4h.jpeg?q=90",
@@ -63828,6 +64037,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:retinol",
    "claim:dark-spots",
    "claim:anti-aging",
@@ -64362,7 +64572,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Lotus Herbals — Established / listed Indian FMCG house",
    "buyerEvidence": "4.3★ from 1,064 ratings",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/0/y/h/50-bio-retinol-youth-radiance-ultra-cream-spf-25-pa-anti-ageing-original-imahe5mvgzsurbkh.jpeg?q=90",
@@ -64379,6 +64590,7 @@ const CTPRODUCTS = [
    "format:cream",
    "spf:15",
    "pa:+++",
+   "water:unstated",
    "ing:retinol",
    "claim:brightening",
    "claim:anti-aging",
@@ -64473,7 +64685,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Lotus Herbals — Established / listed Indian FMCG house",
    "buyerEvidence": "4.4★ from 583 ratings",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/7/6/-original-imahzye5yjvcswdg.jpeg?q=90",
@@ -64491,6 +64704,7 @@ const CTPRODUCTS = [
    "format:oil",
    "spf:15",
    "pa:+",
+   "water:unstated",
    "ing:retinol",
    "ing:bakuchiol",
    "claim:brightening",
@@ -65214,6 +65428,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:kit",
    "ing:retinol",
+   "ing:nad-nmn",
    "claim:dark-circles",
    "aud:unisex",
    "rating:4.5",
@@ -65619,7 +65834,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/eye-serum/9/1/8/15-under-eye-formula-retinol-caffeine-for-dark-circles-puffy-original-imahzrz5asyytjz6.jpeg?q=90",
@@ -65636,6 +65852,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:serum",
    "format:roll-on",
+   "water:unstated",
    "ing:retinol",
    "ing:peptides",
    "ing:caffeine",
@@ -65732,7 +65949,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/eye-serum/9/v/q/15-eye-serum-for-dark-circle-retinol-caffeine-fine-lines-serum-original-imahzrz4gcpukynz.jpeg?q=90",
@@ -65749,6 +65967,7 @@ const CTPRODUCTS = [
    "format:gel",
    "format:serum",
    "format:roll-on",
+   "water:unstated",
    "ing:retinol",
    "ing:hyaluronic-acid",
    "ing:peptides",
@@ -65846,7 +66065,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/eye-serum/z/o/r/15-under-eye-treatment-retinol-caffeine-dark-circles-puffiness-original-imahzrnx9xm3qhy5.jpeg?q=90",
@@ -65865,6 +66085,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:oil",
    "format:roll-on",
+   "water:unstated",
    "ing:retinol",
    "ing:hyaluronic-acid",
    "ing:peptides",
@@ -66073,7 +66294,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/eye-serum/b/v/z/15-anti-aging-eye-cream-retinol-eye-serum-with-caffeine-peptides-original-imahzrz5ksr7fvka.jpeg?q=90",
@@ -66091,6 +66313,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:serum",
    "format:roll-on",
+   "water:unstated",
    "ing:retinol",
    "ing:hyaluronic-acid",
    "ing:peptides",
@@ -66188,7 +66411,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/eye-serum/l/w/3/15-under-eye-serum-for-dark-circles-puffiness-retinol-caffeine-original-imahzrzzt6qgawxm.jpeg?q=90",
@@ -66205,6 +66429,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:serum",
    "format:roll-on",
+   "water:unstated",
    "ing:retinol",
    "ing:peptides",
    "ing:caffeine",
@@ -67271,7 +67496,7 @@ const CTPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "retinol + peptides",
   "featureLine": "Sunscreen · ₹7997/100ml",
-  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Celimax official website (www.celimax.com, AU site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Amazon listing. Scored from its published INCI list (Amazon.in listing — Important information › Ingredients): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "retinol high on the INCI list (strong evidence); palmitoyl tripeptide-1 high on the INCI list (moderate evidence)",
    "No fragrance / flagged irritant on the INCI list"
@@ -67299,16 +67524,15 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.2/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
-   "inciSource": "Celimax official website (www.celimax.com, AU site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
-   "inciSourceUrl": "https://www.celimax.com/au/product/cf3a5334-9148-4c9c-9ec5-b30a55ca7532",
-   "inciMatchedName": "The Vita-A Retinol Shot Tightening Serum 30ml (name match 100%)",
-   "inciList": "Water, Methylpropanediol, Glycerin, 1,2-Hexanediol, Caprylic/Capric Triglyceride, Panthenol, Polypropylsilsesquioxane, C14-22 Alcohols, Glyceryl Stearate, Ammonium Acryloyldimethyltaurate/VP Copolymer, Hydrolyzed Sponge, Helianthus Annuus (Sunflower) Seed Oil, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Tocopherol, Retinol, Allantoin, Arginine, Undecane, Xanthan Gum, Ethylhexylglycerin, C12-20 Alkyl Glucoside, Lauryl Glucoside, Polyglyceryl-6 Laurate, Adenosine, Tridecane, Disodium EDTA, Daucus Carota Sativa (Carrot) Root Extract, Myristyl Glucoside, Glyceryl Acrylate/Acrylic Acid Copolymer, PVM/MA Copolymer, Butylene Glycol, Beta-Carotene, Glucose, Tripeptide-1, Palmitoyl Tripeptide-1, Nonapeptide-1, Hexapeptide-9, Dipeptide-2, Copper Tripeptide-1, Acetyl Tetrapeptide-5, Acetyl Hexapeptide-8, Palmitoyl Pentapeptide-4\"}]}]",
+   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Water, Methylpropanediol, Glycerin, 1,2-Hexanediol, Caprylic/Capric Triglyceride, Panthenol, Polypropylsilsesquioxane, C14-22 Alcohols, Glyceryl Stearate, Ammonium Acryloyldimethyltaurate/VP Copolymer, Hydrolyzed Sponge, Helianthus Annuus (Sunflower) Seed Oil, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Tocopherol, Retinol, Allantoin, Arginine, Undecane, Xanthan Gum, Ethylhexylglycerin, C12-20 Alkyl Glucoside, Lauryl Glucoside, Polyglyceryl-6 Laurate, Adenosine, Tridecane, Disodium EDTA, Daucus Carota Sativa (Carrot) Root Extract, Myristyl Glucoside, Glyceryl Acrylate/Acrylic Acid Copolymer, PVM/MA Copolymer, Butylene Glycol, Beta-Carotene, Glucose, Tripeptide-1, Palmitoyl Tripeptide-1, Nonapeptide-1, Hexapeptide-9, Dipeptide-2, Copper Tripeptide-1, Acetyl Tetrapeptide-5, Acetyl Hexapeptide-8, Palmitoyl Pentapeptide-4",
    "evidenceActives": "retinol (#14 on list, strong evidence); palmitoyl tripeptide-1 (#33 on list, moderate evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.2★ from 0 ratings",
-   "concernBasis": "Aging — product type, retinol #14 on INCI; Irritation — panthenol #6 on INCI (matching only — not proof it works)"
+   "concernBasis": "Aging — product type, retinol #14 on INCI; Irritation — panthenol #6 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51cnLgl4AFL._SL1500_.jpg",
@@ -67323,6 +67547,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
+   "water:unstated",
    "ing:retinol",
    "ing:peptides",
    "ing:vitamin-e",
@@ -67341,7 +67566,6 @@ const CTPRODUCTS = [
    "target:aging",
    "target:irritation",
    "inci:full",
-   "inci:brand-site",
    "inci:no-fragrance"
   ],
   "filters": {
@@ -67352,18 +67576,18 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "full",
-   "inciSrc": "brand-site",
+   "inciSrc": "listing",
    "pharma": false
   },
   "evidence": {
    "inci": "full",
-   "inciSource": "Celimax official website (www.celimax.com, AU site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
-   "inciSourceKind": "brand-site",
-   "inciSourceUrl": "https://www.celimax.com/au/product/cf3a5334-9148-4c9c-9ec5-b30a55ca7532",
-   "inciSourceRegion": "AU",
-   "inciMatchedTitle": "The Vita-A Retinol Shot Tightening Serum 30ml",
-   "inciMatchScore": 1,
-   "inciText": "Water, Methylpropanediol, Glycerin, 1,2-Hexanediol, Caprylic/Capric Triglyceride, Panthenol, Polypropylsilsesquioxane, C14-22 Alcohols, Glyceryl Stearate, Ammonium Acryloyldimethyltaurate/VP Copolymer, Hydrolyzed Sponge, Helianthus Annuus (Sunflower) Seed Oil, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Tocopherol, Retinol, Allantoin, Arginine, Undecane, Xanthan Gum, Ethylhexylglycerin, C12-20 Alkyl Glucoside, Lauryl Glucoside, Polyglyceryl-6 Laurate, Adenosine, Tridecane, Disodium EDTA, Daucus Carota Sativa (Carrot) Root Extract, Myristyl Glucoside, Glyceryl Acrylate/Acrylic Acid Copolymer, PVM/MA Copolymer, Butylene Glycol, Beta-Carotene, Glucose, Tripeptide-1, Palmitoyl Tripeptide-1, Nonapeptide-1, Hexapeptide-9, Dipeptide-2, Copper Tripeptide-1, Acetyl Tetrapeptide-5, Acetyl Hexapeptide-8, Palmitoyl Pentapeptide-4\"}]}]",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": "Water, Methylpropanediol, Glycerin, 1,2-Hexanediol, Caprylic/Capric Triglyceride, Panthenol, Polypropylsilsesquioxane, C14-22 Alcohols, Glyceryl Stearate, Ammonium Acryloyldimethyltaurate/VP Copolymer, Hydrolyzed Sponge, Helianthus Annuus (Sunflower) Seed Oil, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Tocopherol, Retinol, Allantoin, Arginine, Undecane, Xanthan Gum, Ethylhexylglycerin, C12-20 Alkyl Glucoside, Lauryl Glucoside, Polyglyceryl-6 Laurate, Adenosine, Tridecane, Disodium EDTA, Daucus Carota Sativa (Carrot) Root Extract, Myristyl Glucoside, Glyceryl Acrylate/Acrylic Acid Copolymer, PVM/MA Copolymer, Butylene Glycol, Beta-Carotene, Glucose, Tripeptide-1, Palmitoyl Tripeptide-1, Nonapeptide-1, Hexapeptide-9, Dipeptide-2, Copper Tripeptide-1, Acetyl Tetrapeptide-5, Acetyl Hexapeptide-8, Palmitoyl Pentapeptide-4",
    "inciUnverified": null,
    "inciNote": null,
    "declarationConfidence": 0.7,
@@ -67509,7 +67733,7 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.2/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
    "inciSource": "Not stated in listing",
    "inciList": "Not stated in listing",
    "evidenceActives": "Unscored — no verified INCI list",
@@ -67915,7 +68139,7 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "3.7/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
    "inciSource": "Not stated in listing",
    "inciList": "Not stated in listing",
    "evidenceActives": "Unscored — no verified INCI list",
@@ -68231,7 +68455,7 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "3.5/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
    "inciSource": "Not stated in listing",
    "inciList": "Not stated in listing",
    "evidenceActives": "Unscored — no verified INCI list",
@@ -68771,14 +68995,15 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.8/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
    "inciSource": "Not stated in listing",
    "inciList": "Not stated in listing",
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.8★ from 0 ratings",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51KpP8RXrUL._AC_UL320_.jpg"
@@ -68789,6 +69014,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:retinal",
    "claim:brightening",
    "claim:anti-aging",
@@ -68884,7 +69110,7 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
    "inciSource": "Not stated in listing",
    "inciList": "Not stated in listing",
    "evidenceActives": "Unscored — no verified INCI list",
@@ -68987,7 +69213,7 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "3.5/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
    "inciSource": "Not stated in listing",
    "inciList": "Not stated in listing",
    "evidenceActives": "Unscored — no verified INCI list",
@@ -69324,7 +69550,7 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "5.0/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
    "inciSource": "Not stated in listing",
    "inciList": "Not stated in listing",
    "evidenceActives": "Unscored — no verified INCI list",
@@ -69557,7 +69783,7 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
    "inciSource": "Not stated in listing",
    "inciList": "Not stated in listing",
    "evidenceActives": "Unscored — no verified INCI list",
@@ -69663,7 +69889,7 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.3/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
    "inciSource": "Not stated in listing",
    "inciList": "Not stated in listing",
    "evidenceActives": "Unscored — no verified INCI list",
@@ -69772,14 +69998,15 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "3.6/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
    "inciSource": "Not stated in listing",
    "inciList": "Not stated in listing",
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.6★ from 0 ratings",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51KpP8RXrUL._AC_UL320_.jpg"
@@ -69790,6 +70017,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:retinal",
    "claim:anti-aging",
    "claim:hydrating",
@@ -69881,7 +70109,7 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.1/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
    "inciSource": "Not stated in listing",
    "inciList": "Not stated in listing",
    "evidenceActives": "Unscored — no verified INCI list",
@@ -69991,14 +70219,15 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.2/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
    "inciSource": "Not stated in listing",
    "inciList": "Not stated in listing",
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.2★ from 0 ratings",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51KpP8RXrUL._AC_UL320_.jpg"
@@ -70009,6 +70238,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:retinal",
    "claim:dark-spots",
    "claim:anti-aging",
@@ -70216,7 +70446,7 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.4/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
    "inciSource": "Not stated in listing",
    "inciList": "Not stated in listing",
    "evidenceActives": "Unscored — no verified INCI list",
@@ -70242,6 +70472,7 @@ const CTPRODUCTS = [
    "ing:niacinamide",
    "ing:retinol",
    "ing:peptides",
+   "ing:pdrn-polynucleotide",
    "claim:anti-aging",
    "claim:hydrating",
    "claim:soothing",
@@ -70507,15 +70738,15 @@ const CTPRODUCTS = [
   "capacityLine": "50 ml",
   "materialLine": "niacinamide + bakuchiol",
   "featureLine": "Serum · ₹1180/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. Scored from its published INCI list (Amazon.in listing — Important information › Ingredients): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 4.3,
+   "skin": 9,
+   "trust": 7,
    "experience": 2.6
   },
   "fullSpec": {
@@ -70532,14 +70763,14 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.2/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Aqua (Water), Coco-Caprylate, Citrus Nobilis Peel (Mandarin) Extract, Glycerin, Propanediol, Niacinamide, Sodium Polyglutamate Crosspolymer, Hippophae Rhamnoides (Sea Buckthorn) Oil, Psoralea Corylifolia (Bakuchiol), Rosa Canina Seed (Rose Hip) Oil, Centella Asiatica Callus Conditioned Media (Cica Stem Cell), Saccharide Isomerate, Sodium Levulinate, p-Anisic Acid, Pentaerythrityl Tetra-di-t-butyl Hydroxyhydrocinnamate, Xanthan Gum, Sodium Gluconate, Sodium Chloride, Citric Acid, Phenoxyethanol, Ethylhexylglycerin. Contains Natural Ingredients. Products with natural ingredients may change color but this does not change their effectiveness.",
+   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Kreative Beauty Pvt Ltd (Hyphen) — Indian D2C brand with its own product company",
    "buyerEvidence": "4.2★ from 0 ratings",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #6 on INCI; Dark spots — niacinamide #6 on INCI; Aging — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/614M7aJAe8L._AC_UL320_.jpg"
@@ -70553,6 +70784,7 @@ const CTPRODUCTS = [
    "ing:niacinamide",
    "ing:bakuchiol",
    "ing:collagen",
+   "ing:polyglutamic-acid",
    "claim:brightening",
    "claim:hydrating",
    "skin:dry",
@@ -70560,8 +70792,11 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
    "target:aging",
-   "inci:none"
+   "inci:full",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -70570,25 +70805,62 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "listing",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
+   "inci": "full",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
-   "inciText": null,
+   "inciText": "Aqua (Water), Coco-Caprylate, Citrus Nobilis Peel (Mandarin) Extract, Glycerin, Propanediol, Niacinamide, Sodium Polyglutamate Crosspolymer, Hippophae Rhamnoides (Sea Buckthorn) Oil, Psoralea Corylifolia (Bakuchiol), Rosa Canina Seed (Rose Hip) Oil, Centella Asiatica Callus Conditioned Media (Cica Stem Cell), Saccharide Isomerate, Sodium Levulinate, p-Anisic Acid, Pentaerythrityl Tetra-di-t-butyl Hydroxyhydrocinnamate, Xanthan Gum, Sodium Gluconate, Sodium Chloride, Citric Acid, Phenoxyethanol, Ethylhexylglycerin. Contains Natural Ingredients. Products with natural ingredients may change color but this does not change their effectiveness.",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 0.9,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 6,
+     "core": false,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 18,
+     "core": false,
+     "trace": false,
+     "src": "aadScrub"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 19,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "propanediol",
+    "niacinamide"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -71266,6 +71538,7 @@ const CTPRODUCTS = [
    "scope:unstated",
    "format:serum",
    "ing:retinal",
+   "ing:polyglutamic-acid",
    "claim:anti-aging",
    "aud:unisex",
    "size:travel",
@@ -72884,15 +73157,15 @@ const CTPRODUCTS = [
   "capacityLine": "50 ml",
   "materialLine": "niacinamide + bakuchiol",
   "featureLine": "Serum · ₹2206/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. Scored from its published INCI list (Amazon.in listing — Important information › Ingredients): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 4.3,
+   "skin": 9,
+   "trust": 7,
    "experience": 2.6
   },
   "fullSpec": {
@@ -72909,14 +73182,14 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.2/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Aqua (Water), Coco-Caprylate, Citrus Nobilis Peel (Mandarin) Extract, Glycerin, Propanediol, Niacinamide, Sodium Polyglutamate Crosspolymer, Hippophae Rhamnoides (Sea Buckthorn) Oil, Psoralea Corylifolia (Bakuchiol), Rosa Canina Seed (Rose Hip) Oil, Centella Asiatica Callus Conditioned Media (Cica Stem Cell), Saccharide Isomerate, Sodium Levulinate, p-Anisic Acid, Pentaerythrityl Tetra-di-t-butyl Hydroxyhydrocinnamate, Xanthan Gum, Sodium Gluconate, Sodium Chloride, Citric Acid, Phenoxyethanol, Ethylhexylglycerin. Contains Natural Ingredients. Products with natural ingredients may change color but this does not change their effectiveness.",
+   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Kreative Beauty Pvt Ltd (Hyphen) — Indian D2C brand with its own product company",
    "buyerEvidence": "4.2★ from 0 ratings",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #6 on INCI; Dark spots — niacinamide #6 on INCI; Aging — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/613QvOP03PL._AC_UL320_.jpg"
@@ -72930,6 +73203,7 @@ const CTPRODUCTS = [
    "ing:niacinamide",
    "ing:bakuchiol",
    "ing:collagen",
+   "ing:polyglutamic-acid",
    "claim:brightening",
    "claim:hydrating",
    "skin:dry",
@@ -72937,8 +73211,11 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
    "target:aging",
-   "inci:none"
+   "inci:full",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -72947,25 +73224,62 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "listing",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
+   "inci": "full",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
-   "inciText": null,
+   "inciText": "Aqua (Water), Coco-Caprylate, Citrus Nobilis Peel (Mandarin) Extract, Glycerin, Propanediol, Niacinamide, Sodium Polyglutamate Crosspolymer, Hippophae Rhamnoides (Sea Buckthorn) Oil, Psoralea Corylifolia (Bakuchiol), Rosa Canina Seed (Rose Hip) Oil, Centella Asiatica Callus Conditioned Media (Cica Stem Cell), Saccharide Isomerate, Sodium Levulinate, p-Anisic Acid, Pentaerythrityl Tetra-di-t-butyl Hydroxyhydrocinnamate, Xanthan Gum, Sodium Gluconate, Sodium Chloride, Citric Acid, Phenoxyethanol, Ethylhexylglycerin. Contains Natural Ingredients. Products with natural ingredients may change color but this does not change their effectiveness.",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 0.9,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 6,
+     "core": false,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 18,
+     "core": false,
+     "trace": false,
+     "src": "aadScrub"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 19,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "propanediol",
+    "niacinamide"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -74876,15 +75190,16 @@ const CTPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "retinol + squalane",
   "featureLine": "Serum · ₹2917/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (The Ordinary official website (theordinary.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "retinol high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 6.1,
+   "skin": 10,
+   "trust": 8.5,
    "experience": 2.6
   },
   "fullSpec": {
@@ -74901,14 +75216,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.2/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "The Ordinary official website (theordinary.com) — product page › Ingredients",
+   "inciSourceUrl": "https://theordinary.com/en-in/retinol-05-in-squalane-serum-100440.html",
+   "inciMatchedName": "Retinol 0.5% in Squalane (name match 100%)",
+   "inciList": "Squalane, Caprylic/Capric Triglyceride, Simmondsia Chinensis (Jojoba) Seed Oil, Retinol, Solanum Lycopersicum (Tomato) Fruit Extract, Rosmarinus Officinalis (Rosemary) Leaf Extract, Hydroxymethoxyphenyl Decanone, BHT",
+   "evidenceActives": "retinol (#4 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Estée Lauder Companies — Global FMCG or beauty group",
    "buyerEvidence": "4.2★ from 0 ratings",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type, retinol #4 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41sDKlEL3IL._SL1240_.jpg",
@@ -74936,7 +75253,9 @@ const CTPRODUCTS = [
    "rating:4.0",
    "store:amazon",
    "target:aging",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -74945,25 +75264,52 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "The Ordinary official website (theordinary.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://theordinary.com/en-in/retinol-05-in-squalane-serum-100440.html",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Retinol 0.5% in Squalane",
+   "inciMatchScore": 1,
+   "inciText": "Squalane, Caprylic/Capric Triglyceride, Simmondsia Chinensis (Jojoba) Seed Oil, Retinol, Solanum Lycopersicum (Tomato) Fruit Extract, Rosmarinus Officinalis (Rosemary) Leaf Extract, Hydroxymethoxyphenyl Decanone, BHT",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "squalane",
+     "grade": "B",
+     "position": 1,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "simmondsia chinensis seed oil",
+     "grade": "B",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "retinol",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "retinoids"
+    }
+   ],
+   "support": [
+    "squalane"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -85664,16 +86010,16 @@ const CTPRODUCTS = [
   "capacityLine": "15 ml",
   "materialLine": "niacinamide + retinol + peptides",
   "featureLine": "Serum · ₹4660/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Amazon listing. Scored from its published INCI list (Amazon.in listing — Important information › Ingredients): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): fragrance",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 3.5,
+   "skin": 5.9,
+   "trust": 5.5,
    "experience": 5
   },
   "fullSpec": {
@@ -85690,14 +86036,14 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "5.0/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Water (Aqua), Hydrolyzed Collagen, Glycerin, Niacinamide, Sodium Hyaluronate (Hyaluronic Acid), Peptide Complex, Adenosine, Butylene Glycol, Propanediol, Betaine, Panthenol (Vitamin B5), Allantoin, Carbomer, Arginine, Disodium EDTA, Phenoxyethanol, Ethylhexylglycerin, Fragrance.",
+   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "5★ from 0 ratings",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI; Aging — product type, adenosine #7 on INCI; Irritation — panthenol #11 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51RfEaEAq9L._AC_UL320_.jpg"
@@ -85712,6 +86058,7 @@ const CTPRODUCTS = [
    "ing:niacinamide",
    "ing:retinol",
    "ing:peptides",
+   "ing:nad-nmn",
    "claim:brightening",
    "claim:anti-aging",
    "claim:hydrating",
@@ -85720,8 +86067,11 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
    "target:aging",
-   "inci:none"
+   "target:irritation",
+   "inci:full"
   ],
   "filters": {
    "actives": true,
@@ -85730,27 +86080,93 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "listing",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
+   "inci": "full",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
-   "inciText": null,
+   "inciText": "Water (Aqua), Hydrolyzed Collagen, Glycerin, Niacinamide, Sodium Hyaluronate (Hyaluronic Acid), Peptide Complex, Adenosine, Butylene Glycol, Propanediol, Betaine, Panthenol (Vitamin B5), Allantoin, Carbomer, Arginine, Disodium EDTA, Phenoxyethanol, Ethylhexylglycerin, Fragrance.",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "adenosine",
+     "grade": "B",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "peptides"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 11,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 12,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "niacinamide",
+    "sodium hyaluronate",
+    "butylene glycol",
+    "propanediol",
+    "panthenol"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -87735,7 +88151,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51kYUx4S4JL._SL1350_.jpg"
@@ -87746,6 +88163,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
+   "water:unstated",
    "ing:retinol",
    "ing:hyaluronic-acid",
    "ing:peptides",
@@ -88168,6 +88586,7 @@ const CTPRODUCTS = [
    "ing:retinol",
    "ing:ceramides",
    "ing:peptides",
+   "ing:nad-nmn",
    "claim:anti-aging",
    "claim:dark-circles",
    "aud:women",
@@ -88271,6 +88690,7 @@ const CTPRODUCTS = [
    "ing:niacinamide",
    "ing:retinol",
    "ing:peptides",
+   "ing:nad-nmn",
    "claim:brightening",
    "claim:anti-aging",
    "claim:dark-circles",
@@ -88788,6 +89208,7 @@ const CTPRODUCTS = [
    "ing:retinol",
    "ing:ceramides",
    "ing:peptides",
+   "ing:nad-nmn",
    "claim:anti-aging",
    "claim:dark-circles",
    "aud:unisex",
@@ -89304,6 +89725,7 @@ const CTPRODUCTS = [
    "ing:niacinamide",
    "ing:retinol",
    "ing:peptides",
+   "ing:nad-nmn",
    "claim:brightening",
    "claim:anti-aging",
    "claim:hydrating",
@@ -89924,6 +90346,7 @@ const CTPRODUCTS = [
    "ing:retinol",
    "ing:ceramides",
    "ing:peptides",
+   "ing:nad-nmn",
    "claim:anti-aging",
    "claim:hydrating",
    "claim:dark-circles",
@@ -90443,6 +90866,7 @@ const CTPRODUCTS = [
    "ing:retinol",
    "ing:ceramides",
    "ing:peptides",
+   "ing:nad-nmn",
    "claim:anti-aging",
    "claim:dark-circles",
    "aud:unisex",
@@ -90602,17 +91026,19 @@ const CTPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "niacinamide + retinol + peptides",
   "featureLine": "Serum",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. Scored from its published INCI list (Amazon.in listing — Important information › Ingredients): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "retinol high on the INCI list (strong evidence); palmitoyl tripeptide-1 high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
    "Maker not verified — no parent company found",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 5.3,
+   "skin": 7,
+   "trust": 5.5,
    "experience": 0
   },
   "fullSpec": {
@@ -90629,14 +91055,14 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Nicotinamide Adenine Dinucleotide (NAD+), Retinol, Niacinamide (4%), Ceramide NP, Adenosine, Hyaluronic Acid. Water, Butylene Glycol, Glycerin, Propanediol, Macadamia Integrifolia Seed Oil, Olea Europaea (Olive) Fruit Oil, Butyrospermum Parkii (Shea) Butter, Caprylic/Capric Triglyceride, Squalane. Hydrogenated Lecithin, Phytosterols, Cholesterol, Ceramide NP, Polyglyceryl-4 Oleate, Sorbitan Stearate, Behenic Acid. Acetyl Tetrapeptide-5, Acetyl Hexapeptide-8, Palmitoyl Tripeptide-1, Palmitoyl Pentapeptide-4, Copper Tripeptide-1, Oligopeptides and additional firming peptide compounds",
+   "evidenceActives": "retinol (#2 on list, strong evidence); palmitoyl tripeptide-1 (#22 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #3 on INCI; Dark spots — niacinamide #3 on INCI; Aging — product type, retinol #2 on INCI, adenosine #5 on INCI, acetyl hexapeptide-8 #21 on INCI, palmitoyl tripeptide-1 #22 on INCI, palmitoyl pentapeptide-4 #23 on INCI, copper tripeptide-1 #24 on INCI; Irritation — ceramide np #4 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51MkUbatC8L._AC_UL320_.jpg"
@@ -90651,14 +91077,19 @@ const CTPRODUCTS = [
    "ing:niacinamide",
    "ing:retinol",
    "ing:peptides",
+   "ing:nad-nmn",
    "claim:anti-aging",
    "claim:hydrating",
    "claim:dark-circles",
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
    "target:aging",
-   "inci:none"
+   "target:irritation",
+   "inci:full",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -90667,25 +91098,122 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "listing",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
+   "inci": "full",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
-   "inciText": null,
+   "inciText": "Nicotinamide Adenine Dinucleotide (NAD+), Retinol, Niacinamide (4%), Ceramide NP, Adenosine, Hyaluronic Acid. Water, Butylene Glycol, Glycerin, Propanediol, Macadamia Integrifolia Seed Oil, Olea Europaea (Olive) Fruit Oil, Butyrospermum Parkii (Shea) Butter, Caprylic/Capric Triglyceride, Squalane. Hydrogenated Lecithin, Phytosterols, Cholesterol, Ceramide NP, Polyglyceryl-4 Oleate, Sorbitan Stearate, Behenic Acid. Acetyl Tetrapeptide-5, Acetyl Hexapeptide-8, Palmitoyl Tripeptide-1, Palmitoyl Pentapeptide-4, Copper Tripeptide-1, Oligopeptides and additional firming peptide compounds",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "retinol",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "retinoids"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "adenosine",
+     "grade": "B",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "peptides"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 12,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "cholesterol",
+     "grade": "B",
+     "position": 16,
+     "core": false,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "acetyl hexapeptide-8",
+     "grade": "B",
+     "position": 21,
+     "core": false,
+     "trace": false,
+     "src": "peptides"
+    },
+    {
+     "name": "palmitoyl tripeptide-1",
+     "grade": "B",
+     "position": 22,
+     "core": true,
+     "trace": false,
+     "src": "peptides"
+    },
+    {
+     "name": "palmitoyl pentapeptide-4",
+     "grade": "B",
+     "position": 23,
+     "core": false,
+     "trace": false,
+     "src": "peptides"
+    },
+    {
+     "name": "copper tripeptide-1",
+     "grade": "B",
+     "position": 24,
+     "core": false,
+     "trace": false,
+     "src": "peptides"
+    }
+   ],
+   "support": [
+    "niacinamide",
+    "ceramide np",
+    "butylene glycol",
+    "glycerin",
+    "propanediol",
+    "butyrospermum parkii butter",
+    "cholesterol"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -90756,6 +91284,7 @@ const CTPRODUCTS = [
    "ing:retinol",
    "ing:ceramides",
    "ing:peptides",
+   "ing:nad-nmn",
    "claim:anti-aging",
    "claim:dark-circles",
    "aud:unisex",
@@ -90963,6 +91492,7 @@ const CTPRODUCTS = [
    "ing:retinol",
    "ing:ceramides",
    "ing:peptides",
+   "ing:nad-nmn",
    "claim:anti-aging",
    "claim:hydrating",
    "claim:dark-circles",
@@ -91225,14 +91755,14 @@ const CTPRODUCTS = [
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "No ingredient list published on the listing",
+   "Only 1 ingredient named — formula unscored",
    "Maker not verified — no parent company found",
    "No buyer ratings yet"
   ],
   "scores": {
    "ingredients": 0,
    "skin": 0,
-   "trust": 3.5,
+   "trust": 3.8,
    "experience": 0
   },
   "fullSpec": {
@@ -91249,9 +91779,9 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: Retinol. 50 Peptides. 4% Niacinamide. NAD+. Ceramides",
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
@@ -91271,6 +91801,7 @@ const CTPRODUCTS = [
    "ing:niacinamide",
    "ing:retinol",
    "ing:peptides",
+   "ing:nad-nmn",
    "claim:brightening",
    "claim:anti-aging",
    "claim:dark-circles",
@@ -91279,7 +91810,7 @@ const CTPRODUCTS = [
    "rating:none",
    "store:amazon",
    "target:aging",
-   "inci:none"
+   "inci:partial"
   ],
   "filters": {
    "actives": true,
@@ -91288,23 +91819,23 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
+   "inci": "partial",
    "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
    "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
+   "inciUnverified": "Retinol. 50 Peptides. 4% Niacinamide. NAD+. Ceramides",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
    "declarationConfidence": null,
-   "recognised": null,
+   "recognised": 1,
    "actives": [],
    "support": [],
    "formulaNotes": [],
@@ -91889,6 +92420,7 @@ const CTPRODUCTS = [
    "ing:retinol",
    "ing:ceramides",
    "ing:peptides",
+   "ing:nad-nmn",
    "claim:brightening",
    "claim:anti-aging",
    "claim:dark-circles",
@@ -93729,7 +94261,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
    "buyerEvidence": "4.3★ from 0 ratings",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51NUdrlMsvL._AC_UL320_.jpg"
@@ -93742,6 +94275,7 @@ const CTPRODUCTS = [
    "format:cream",
    "spf:15",
    "pa:++",
+   "water:unstated",
    "ing:retinol",
    "claim:barrier",
    "claim:spf-claim",
@@ -94737,7 +95271,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
    "buyerEvidence": "4.2★ from 0 ratings",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/5184qJUkfaL._AC_UL320_.jpg"
@@ -94750,6 +95285,7 @@ const CTPRODUCTS = [
    "format:cream",
    "spf:15",
    "pa:++",
+   "water:unstated",
    "ing:retinol",
    "ing:peptides",
    "claim:spf-claim",
@@ -97675,7 +98211,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Lotus Herbals — Established / listed Indian FMCG house",
    "buyerEvidence": "4.1★ from 0 ratings",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/518kkub4UxL._AC_UL320_.jpg"
@@ -97688,6 +98225,7 @@ const CTPRODUCTS = [
    "format:cream",
    "spf:15",
    "pa:+++",
+   "water:unstated",
    "ing:retinol",
    "ing:bakuchiol",
    "claim:anti-aging",
@@ -97795,6 +98333,7 @@ const CTPRODUCTS = [
    "ing:retinol",
    "ing:ceramides",
    "ing:vitamin-b5-panthenol",
+   "ing:pdrn-polynucleotide",
    "claim:anti-aging",
    "claim:pores",
    "claim:hydrating",
@@ -98465,7 +99004,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Lotus Herbals — Established / listed Indian FMCG house",
    "buyerEvidence": "4.3★ from 0 ratings",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61qIYQ2wuBL._AC_UL320_.jpg"
@@ -98478,6 +99018,7 @@ const CTPRODUCTS = [
    "format:cream",
    "spf:15",
    "pa:+++",
+   "water:unstated",
    "ing:retinol",
    "claim:brightening",
    "claim:spf-claim",
@@ -98567,7 +99108,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Lotus Herbals — Established / listed Indian FMCG house",
    "buyerEvidence": "4.2★ from 0 ratings",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51C-mQgXgFL._AC_UL320_.jpg"
@@ -98580,6 +99122,7 @@ const CTPRODUCTS = [
    "format:cream",
    "spf:15",
    "pa:+++",
+   "water:unstated",
    "ing:retinol",
    "ing:bakuchiol",
    "claim:anti-aging",
@@ -99585,7 +100128,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.6★ from 0 ratings",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/6129unDyjUL._AC_UL320_.jpg"
@@ -99598,6 +100142,7 @@ const CTPRODUCTS = [
    "format:cream",
    "spf:30",
    "pa:++",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:retinol",
@@ -101464,6 +102009,7 @@ const CTPRODUCTS = [
    "ing:niacinamide",
    "ing:retinol",
    "ing:peptides",
+   "ing:nad-nmn",
    "claim:anti-aging",
    "claim:hydrating",
    "claim:dark-circles",
@@ -102707,6 +103253,7 @@ const CTPRODUCTS = [
    "ing:niacinamide",
    "ing:retinol",
    "ing:peptides",
+   "ing:nad-nmn",
    "claim:dark-circles",
    "claim:lightweight",
    "aud:unisex",
@@ -103840,6 +104387,7 @@ const CTPRODUCTS = [
    "format:essence",
    "ing:retinol",
    "ing:peptides",
+   "ing:nad-nmn",
    "claim:anti-aging",
    "claim:hydrating",
    "claim:dark-circles",
@@ -104886,6 +105434,7 @@ const CTPRODUCTS = [
    "ing:niacinamide",
    "ing:retinol",
    "ing:peptides",
+   "ing:nad-nmn",
    "claim:brightening",
    "claim:anti-aging",
    "claim:hydrating",
@@ -104992,6 +105541,7 @@ const CTPRODUCTS = [
    "ing:niacinamide",
    "ing:retinol",
    "ing:peptides",
+   "ing:nad-nmn",
    "claim:anti-aging",
    "claim:hydrating",
    "claim:dark-circles",
@@ -105051,14 +105601,14 @@ const CTPRODUCTS = [
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "No ingredient list published on the listing",
+   "Only 1 ingredient named — formula unscored",
    "Maker not verified — no parent company found",
    "No buyer ratings yet"
   ],
   "scores": {
    "ingredients": 0,
    "skin": 0,
-   "trust": 3.5,
+   "trust": 3.8,
    "experience": 0
   },
   "fullSpec": {
@@ -105075,9 +105625,9 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: Dark Circles",
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
@@ -105097,6 +105647,7 @@ const CTPRODUCTS = [
    "ing:niacinamide",
    "ing:retinol",
    "ing:peptides",
+   "ing:nad-nmn",
    "claim:brightening",
    "claim:anti-aging",
    "claim:hydrating",
@@ -105105,7 +105656,7 @@ const CTPRODUCTS = [
    "rating:none",
    "store:amazon",
    "target:aging",
-   "inci:none"
+   "inci:partial"
   ],
   "filters": {
    "actives": true,
@@ -105114,23 +105665,23 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
+   "inci": "partial",
    "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
    "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
+   "inciUnverified": "Dark Circles",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
    "declarationConfidence": null,
-   "recognised": null,
+   "recognised": 0,
    "actives": [],
    "support": [],
    "formulaNotes": [],
@@ -105202,6 +105753,7 @@ const CTPRODUCTS = [
    "ing:niacinamide",
    "ing:retinol",
    "ing:peptides",
+   "ing:nad-nmn",
    "claim:brightening",
    "claim:anti-aging",
    "claim:dark-circles",
@@ -105305,6 +105857,7 @@ const CTPRODUCTS = [
    "format:essence",
    "ing:retinol",
    "ing:peptides",
+   "ing:nad-nmn",
    "claim:anti-aging",
    "claim:hydrating",
    "claim:dark-circles",
@@ -106338,6 +106891,7 @@ const CTPRODUCTS = [
    "ing:niacinamide",
    "ing:retinol",
    "ing:peptides",
+   "ing:nad-nmn",
    "claim:brightening",
    "claim:anti-aging",
    "claim:hydrating",
@@ -106442,6 +106996,7 @@ const CTPRODUCTS = [
    "format:essence",
    "ing:retinol",
    "ing:peptides",
+   "ing:nad-nmn",
    "claim:anti-aging",
    "claim:hydrating",
    "claim:dark-circles",
@@ -106546,6 +107101,7 @@ const CTPRODUCTS = [
    "ing:niacinamide",
    "ing:retinol",
    "ing:peptides",
+   "ing:nad-nmn",
    "claim:brightening",
    "claim:anti-aging",
    "claim:hydrating",
@@ -106912,12 +107468,12 @@ const CTPRODUCTS = [
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "No ingredient list published on the listing"
+   "Only 2 ingredients named — formula unscored"
   ],
   "scores": {
    "ingredients": 0,
    "skin": 0,
-   "trust": 5,
+   "trust": 5.3,
    "experience": 2.2
   },
   "fullSpec": {
@@ -106934,9 +107490,9 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.1/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
+   "inciStatus": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: saffron,white lotus",
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
@@ -106972,7 +107528,7 @@ const CTPRODUCTS = [
    "rating:4.0",
    "store:amazon",
    "target:aging",
-   "inci:none"
+   "inci:partial"
   ],
   "filters": {
    "actives": true,
@@ -106981,23 +107537,23 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
+   "inci": "partial",
    "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
    "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
+   "inciUnverified": "saffron,white lotus",
+   "inciNote": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
    "declarationConfidence": null,
-   "recognised": null,
+   "recognised": 0,
    "actives": [],
    "support": [],
    "formulaNotes": [],
@@ -107175,6 +107731,7 @@ const CTPRODUCTS = [
    "ing:niacinamide",
    "ing:retinol",
    "ing:peptides",
+   "ing:nad-nmn",
    "claim:anti-aging",
    "claim:hydrating",
    "claim:dark-circles",
@@ -107693,6 +108250,7 @@ const CTPRODUCTS = [
    "ing:niacinamide",
    "ing:retinol",
    "ing:peptides",
+   "ing:nad-nmn",
    "claim:brightening",
    "claim:anti-aging",
    "claim:hydrating",
@@ -116117,7 +116675,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Procter & Gamble — Global FMCG or beauty group",
    "buyerEvidence": "4.3★ from 0 ratings",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71BwOyTq7LL._AC_UL320_.jpg"
@@ -116128,6 +116687,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:cream",
+   "water:unstated",
    "ing:retinol",
    "claim:hydrating",
    "aud:unisex",
@@ -117671,7 +118231,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61TnWKBgAPL._AC_UL320_.jpg"
@@ -117685,6 +118246,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:kit",
    "spf:30",
+   "water:unstated",
    "ing:retinol",
    "claim:brightening",
    "claim:hydrating",
@@ -119954,13 +120516,13 @@ const CTPRODUCTS = [
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "No ingredient list published on the listing",
+   "Only 5 ingredients named — formula unscored",
    "Maker not verified — no parent company found"
   ],
   "scores": {
    "ingredients": 0,
    "skin": 0,
-   "trust": 3.5,
+   "trust": 3.8,
    "experience": 2.9
   },
   "fullSpec": {
@@ -119977,9 +120539,9 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.3/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
+   "inciStatus": "Only 5 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: Retinol, Hyaluronic Acid, Vitamin E, Coenzyme q10, Bakuchiol Extract",
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
@@ -120008,7 +120570,7 @@ const CTPRODUCTS = [
    "rating:4.0",
    "store:amazon",
    "target:aging",
-   "inci:none"
+   "inci:partial"
   ],
   "filters": {
    "actives": true,
@@ -120017,23 +120579,23 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
+   "inci": "partial",
    "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
    "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
+   "inciUnverified": "Retinol, Hyaluronic Acid, Vitamin E, Coenzyme q10, Bakuchiol Extract",
+   "inciNote": "Only 5 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
    "declarationConfidence": null,
-   "recognised": null,
+   "recognised": 0.8,
    "actives": [],
    "support": [],
    "formulaNotes": [],
@@ -121648,6 +122210,7 @@ const CTPRODUCTS = [
    "ing:retinol",
    "ing:ceramides",
    "ing:peptides",
+   "ing:polyglutamic-acid",
    "claim:brightening",
    "claim:dark-spots",
    "claim:anti-aging",
@@ -124860,6 +125423,7 @@ const CTPRODUCTS = [
    "scope:unstated",
    "format:serum",
    "ing:retinal",
+   "ing:polyglutamic-acid",
    "claim:anti-aging",
    "aud:unisex",
    "size:travel",
@@ -125994,6 +126558,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:ampoule",
    "ing:bakuchiol",
+   "ing:pdrn-polynucleotide",
    "claim:anti-aging",
    "claim:barrier",
    "aud:unisex",
@@ -127593,7 +128158,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.2★ from 0 ratings",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61IGVGWXQAL._SL1500_.jpg",
@@ -127609,6 +128175,7 @@ const CTPRODUCTS = [
    "scope:unstated",
    "format:serum",
    "spf:30",
+   "water:unstated",
    "ing:retinol",
    "ing:bakuchiol",
    "claim:brightening",
@@ -129974,7 +130541,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51XVAEeOLwL._AC_UL320_.jpg"
@@ -129986,6 +130554,7 @@ const CTPRODUCTS = [
    "scope:unstated",
    "format:serum",
    "spf:30",
+   "water:unstated",
    "ing:bakuchiol",
    "claim:spf-claim",
    "aud:unisex",
@@ -130838,6 +131407,7 @@ const CTPRODUCTS = [
    "ing:retinol",
    "ing:bakuchiol",
    "ing:hyaluronic-acid",
+   "ing:polyglutamic-acid",
    "claim:brightening",
    "claim:dark-spots",
    "claim:anti-aging",
@@ -134606,7 +135176,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71YLfLmmt2L._SL1500_.jpg",
@@ -134623,6 +135194,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:kit",
    "spf:50",
+   "water:unstated",
    "ing:retinol",
    "ing:bakuchiol",
    "ing:vitamin-e",
@@ -137050,6 +137622,7 @@ const CTPRODUCTS = [
    "ing:niacinamide",
    "ing:bakuchiol",
    "ing:rosehip",
+   "ing:polyglutamic-acid",
    "claim:brightening",
    "claim:anti-aging",
    "claim:hydrating",
@@ -138307,6 +138880,7 @@ const CTPRODUCTS = [
    "ing:niacinamide",
    "ing:bakuchiol",
    "ing:collagen",
+   "ing:polyglutamic-acid",
    "claim:brightening",
    "claim:hydrating",
    "skin:dry",
@@ -138396,7 +138970,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "5★ from 0 ratings",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61h8X0JYgXL._SL1500_.jpg",
@@ -138411,6 +138986,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:serum",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:bakuchiol",
@@ -138729,7 +139305,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51E7Ucr8sXL._AC_UL320_.jpg"
@@ -138741,6 +139318,7 @@ const CTPRODUCTS = [
    "scope:unstated",
    "format:serum",
    "spf:30",
+   "water:unstated",
    "ing:bakuchiol",
    "ing:saffron",
    "claim:brightening",
@@ -139139,7 +139717,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71gZ0+IA0pL._AC_UL320_.jpg"
@@ -139151,6 +139730,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "spf:30",
+   "water:unstated",
    "ing:bakuchiol",
    "ing:saffron",
    "claim:brightening",
@@ -140183,7 +140763,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "5★ from 0 ratings",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51orTmNb6lL._AC_UL320_.jpg"
@@ -140195,6 +140776,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:cream",
    "spf:15",
+   "water:unstated",
    "ing:bakuchiol",
    "ing:ceramides",
    "claim:brightening",
@@ -141012,7 +141594,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "L'Oréal — Global FMCG or beauty group",
    "buyerEvidence": "4.5★ from 0 ratings",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71BKUNomKeL._AC_UL320_.jpg"
@@ -141024,6 +141607,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:cream",
    "spf:30",
+   "water:unstated",
    "ing:retinol",
    "claim:anti-aging",
    "claim:hydrating",
@@ -141114,7 +141698,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.7★ from 0 ratings",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61g2I-H8w2L._AC_UL320_.jpg"
@@ -141126,6 +141711,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:cream",
    "spf:30",
+   "water:unstated",
    "ing:retinol",
    "ing:collagen",
    "claim:anti-aging",
@@ -141219,7 +141805,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "L'Oréal — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/512OkvDCA8L._AC_UL320_.jpg"
@@ -141231,6 +141818,7 @@ const CTPRODUCTS = [
    "scope:unstated",
    "format:cream",
    "spf:30",
+   "water:unstated",
    "ing:retinol",
    "claim:anti-aging",
    "claim:spf-claim",
@@ -144951,6 +145539,7 @@ const CTPRODUCTS = [
    "ing:niacinamide",
    "ing:retinol",
    "ing:peptides",
+   "ing:nad-nmn",
    "claim:brightening",
    "claim:anti-aging",
    "claim:hydrating",
@@ -145159,6 +145748,7 @@ const CTPRODUCTS = [
    "ing:niacinamide",
    "ing:retinol",
    "ing:peptides",
+   "ing:nad-nmn",
    "claim:brightening",
    "claim:anti-aging",
    "claim:hydrating",
@@ -148224,7 +148814,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41bZFif-WfL._AC_UL320_.jpg"
@@ -148237,6 +148828,7 @@ const CTPRODUCTS = [
    "format:gel",
    "format:serum",
    "spf:50",
+   "water:unstated",
    "ing:retinol",
    "ing:hyaluronic-acid",
    "ing:caffeine",
@@ -148851,7 +149443,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51cHjaZ14uL._AC_UL320_.jpg"
@@ -148864,6 +149457,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:serum",
    "spf:30",
+   "water:unstated",
    "ing:retinol",
    "ing:collagen",
    "ing:caffeine",
@@ -149164,7 +149758,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61eQUxOcjiL._AC_UL320_.jpg"
@@ -149178,6 +149773,7 @@ const CTPRODUCTS = [
    "format:serum",
    "spf:50",
    "sun:mineral",
+   "water:unstated",
    "ing:retinol",
    "ing:caffeine",
    "claim:anti-aging",
@@ -149273,7 +149869,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61DKwdajlAL._AC_UL320_.jpg"
@@ -149286,6 +149883,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:serum",
    "spf:50",
+   "water:unstated",
    "ing:retinol",
    "ing:hyaluronic-acid",
    "ing:caffeine",
@@ -149396,6 +149994,7 @@ const CTPRODUCTS = [
    "ing:niacinamide",
    "ing:retinol",
    "ing:peptides",
+   "ing:nad-nmn",
    "claim:anti-aging",
    "claim:dark-circles",
    "aud:unisex",
@@ -150776,6 +151375,7 @@ const CTPRODUCTS = [
    "ing:bakuchiol",
    "ing:centella-cica",
    "ing:rosehip",
+   "ing:polyglutamic-acid",
    "claim:brightening",
    "claim:hydrating",
    "aud:unisex",
@@ -151809,7 +152409,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.1★ from 0 ratings",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41B7JxLnZ5L._AC_UL320_.jpg"
@@ -151822,6 +152423,7 @@ const CTPRODUCTS = [
    "format:lotion",
    "format:oil",
    "spf:30",
+   "water:unstated",
    "ing:retinol",
    "ing:vitamin-b5-panthenol",
    "claim:hydrating",
@@ -152238,7 +152840,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51eiZX+lGwL._SL1500_.jpg",
@@ -152255,6 +152858,7 @@ const CTPRODUCTS = [
    "format:cream",
    "spf:30",
    "pa:+++",
+   "water:unstated",
    "ing:retinol",
    "ing:salicylic-acid-bha",
    "ing:ubtan",
@@ -153553,7 +154157,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Beiersdorf — Global FMCG or beauty group",
    "buyerEvidence": "4.1★ from 0 ratings",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/612oK9UEc8L._AC_UL320_.jpg"
@@ -153566,6 +154171,7 @@ const CTPRODUCTS = [
    "format:lotion",
    "format:serum",
    "spf:15",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:retinol",
@@ -153763,7 +154369,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/r/y/200-retinol-b5-alpha-arbutin-body-lotion-night-fancyperks-lotion-original-imahh3kdqnmxmzpg.jpeg?q=90",
@@ -153779,6 +154386,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:lotion",
    "format:balm",
+   "water:unstated",
    "ing:niacinamide",
    "ing:retinol",
    "ing:alpha-arbutin",
@@ -154315,7 +154923,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/4/k/t/50-overnight-bright-repair-face-cream-mullica-cream-original-imahjsxfwytmarn6.jpeg?q=90",
@@ -154331,6 +154940,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:kit",
+   "water:unstated",
    "ing:retinol",
    "claim:brightening",
    "claim:whitening-claim",
@@ -154540,7 +155150,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/4/k/t/50-overnight-bright-repair-face-cream-mullica-cream-original-imahjsxfwytmarn6.jpeg?q=90",
@@ -154558,6 +155169,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:balm",
    "format:kit",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:retinol",
    "ing:neem",
@@ -154873,7 +155485,7 @@ const CTPRODUCTS = [
  {
   "id": "glowriti-itm4f868e4d3fe1a",
   "brand": "Glowriti",
-  "model": "0.5% Retinol Face Serum with Lactic Acid & Ferulic Acid …",
+  "model": "0.5% Retinol Face Serum with Lactic Acid & Ferulic Acid | Anti-Aging Serum for Fine Lines,…",
   "price": 284,
   "capacityLine": "30 ml",
   "materialLine": "retinol + lactic acid + aloe vera",
@@ -154913,7 +155525,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "5★ from 7 ratings",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/u/e/m/30-0-5-retinol-face-serum-with-lactic-acid-ferulic-acid-anti-original-imahpefhp6whpfrt.jpeg?q=90",
@@ -154924,11 +155537,12 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/glowriti-0-5-retinol-face-serum-lactic-acid-ferulic-anti-aging-fine-lines-wrinkles-scars/p/itm4f868e4d3fe1a",
   "buyStore": "Flipkart",
-  "title": "Glowriti 0.5% Retinol Face Serum with Lactic Acid & Ferulic Acid …",
+  "title": "Glowriti 0.5% Retinol Face Serum with Lactic Acid & Ferulic Acid | Anti-Aging Serum for Fine Lines, Wrinkles & Scars",
   "tags": [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:retinol",
    "ing:lactic-acid",
    "ing:aloe-vera",
@@ -155035,7 +155649,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "5★ from 9 ratings",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/i/l/x/30-0-5-retinol-face-serum-with-lactic-acid-ferulic-acid-anti-original-imahzfvzgawg87t7.jpeg?q=90",
@@ -155051,6 +155666,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:retinol",
    "ing:lactic-acid",
    "ing:aloe-vera",
@@ -155152,7 +155768,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/r/5/i/30-0-5-retinol-serum-for-face-anti-aging-formula-for-smoother-original-imahzfvpyrjyhvb9.jpeg?q=90",
@@ -155168,6 +155785,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:retinol",
    "ing:lactic-acid",
@@ -155278,7 +155896,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.4★ from 34 ratings",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/g/5/30-retinol-face-serum-w-hyaluronic-acid-rice-filtrate-vitamin-c-original-imahk5fxkme4j9zb.jpeg?q=90",
@@ -155294,6 +155913,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:serum",
    "format:oil",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:retinol",
    "ing:glycolic-acid",
@@ -155914,7 +156534,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.6★ from 0 ratings",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/81dnu-C32hL._AC_UL320_.jpg"
@@ -155930,6 +156551,7 @@ const CTPRODUCTS = [
    "format:wash",
    "format:kit",
    "spf:60",
+   "water:unstated",
    "ing:retinol",
    "ing:salicylic-acid-bha",
    "ing:pha",
@@ -160169,6 +160791,7 @@ const CTPRODUCTS = [
    "ing:niacinamide",
    "ing:bakuchiol",
    "ing:rosehip",
+   "ing:polyglutamic-acid",
    "claim:brightening",
    "claim:hydrating",
    "aud:unisex",
@@ -161611,6 +162234,125 @@ const CTPRODUCTS = [
     "url": "https://www.fixderma.com/"
    },
    "buyers": "4.1★ from 0 ratings"
+  }
+ },
+ {
+  "id": "claymi-itm6c3ee703a6d2f",
+  "brand": "CLAYMI",
+  "model": "Sunscreen - SPF SPF 30 PA+++ Sunglow Sunscreen Broad Spectrum Protection with Bakuchiol, R…",
+  "price": 787,
+  "capacityLine": "75 g",
+  "materialLine": "vitamin C + bakuchiol + rice water",
+  "featureLine": "Sunscreen · Paraben-free · SPF 30 · ₹1049/100g",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 1 ingredient named — formula unscored",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "75 g",
+   "pricePer100": "₹1049/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin C, bakuchiol, rice water, clay/mud (per listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim, SPF 30",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: rice water",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/0/l/a/100-sunglow-sunscreen-broad-spectrum-protection-with-bakuchiol-original-imahgage3hn5wmxd.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/2/3/g/100-sunglow-sunscreen-broad-spectrum-protection-with-bakuchiol-original-imahgagemgyrzfbh.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/3/w/h/100-sunglow-sunscreen-broad-spectrum-protection-with-bakuchiol-original-imahgagewykskb4g.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/p/7/m/100-sunglow-sunscreen-broad-spectrum-protection-with-bakuchiol-original-imahgagegsqthavy.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/1/p/o/50-sunscreen-ultra-sheer-and-dry-touch-sunblock-water-and-sweat-original-imahpe24xe9qagpe.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/claymi-sunscreen-spf-30-pa-sunglow-broad-spectrum-protection-bakuchiol-rice-water-ginseng/p/itm6c3ee703a6d2f",
+  "buyStore": "Flipkart",
+  "title": "CLAYMI Sunscreen - SPF SPF 30 PA+++ Sunglow Sunscreen Broad Spectrum Protection with Bakuchiol, Rice Water & Ginseng",
+  "tags": [
+   "scope:both",
+   "format:gel",
+   "format:cream",
+   "format:clay-mask",
+   "spf:30",
+   "pa:+++",
+   "water:unstated",
+   "ing:vitamin-c",
+   "ing:bakuchiol",
+   "ing:rice-water",
+   "ing:ginseng",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:broad-spectrum",
+   "claim:spf-claim",
+   "skin:all",
+   "free:paraben",
+   "free:vegan",
+   "aud:women",
+   "size:standard",
+   "rating:none",
+   "store:flipkart",
+   "target:aging",
+   "inci:partial"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "rice water",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  }
 ];

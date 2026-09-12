@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-07.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-12.
 // Unknown fields are honestly marked, never invented.
 const CTPRODUCTS = [
  {
@@ -44,7 +44,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.7★ from 7 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/n/m/k/40-green-tangerine-vitamin-c-serum-for-sensitive-skin-anti-aging-original-imahdnygaypmeckb.jpeg?q=90",
@@ -61,6 +62,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:wash",
+   "water:unstated",
    "ing:vitamin-c",
    "claim:brightening",
    "claim:dark-spots",
@@ -164,7 +166,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/5/p/8/40-green-tangerine-vitamin-c-serum-brightening-dark-spot-care-original-imahds7bbcqnqgmj.jpeg?q=90",
@@ -181,6 +184,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:wash",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "claim:brightening",
@@ -282,7 +286,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/q/z/b/40-vitamin-c-spot-serum-brightening-solution-with-green-original-imahds7zzghqse4h.jpeg?q=90",
@@ -299,6 +304,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:wash",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "claim:brightening",
@@ -403,7 +409,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/z/h/u/40-brightening-green-tangerine-vitamin-c-serum-reduces-original-imahzcazejhvvvrf.jpeg?q=90"
@@ -416,6 +423,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:wash",
+   "water:unstated",
    "ing:vitamin-c",
    "claim:brightening",
    "claim:dark-spots",
@@ -516,7 +524,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/h/7/f/40-green-tangerine-vitamin-c-serum-fades-spots-improves-skin-original-imahds7hsghrghdz.jpeg?q=90",
@@ -534,6 +543,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:wash",
+   "water:unstated",
    "ing:vitamin-c",
    "claim:brightening",
    "claim:dark-spots",
@@ -634,7 +644,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/x/l/h/40-green-tangerine-serum-vitamin-c-niacinamide-for-glowing-skin-original-imahds7kgymee6sh.jpeg?q=90",
@@ -652,6 +663,7 @@ const CTPRODUCTS = [
    "format:mist",
    "format:pack",
    "format:wash",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "claim:brightening",
@@ -757,7 +769,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/q/l/r/40-advanced-vitamin-c-facial-serum-for-sensitive-skin-green-original-imahzcatczfkzsza.jpeg?q=90"
@@ -770,6 +783,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:wash",
+   "water:unstated",
    "ing:vitamin-c",
    "claim:brightening",
    "claim:dark-spots",
@@ -873,7 +887,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/b/w/n/40-tangerine-vitamin-c-face-serum-for-sensitive-skin-anti-aging-original-imahzccsfhyyseeu.jpeg?q=90"
@@ -886,6 +901,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:wash",
+   "water:unstated",
    "ing:vitamin-c",
    "claim:brightening",
    "claim:dark-spots",
@@ -988,7 +1004,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/b/s/5/40-vitamin-c-serum-with-green-tangerine-extract-fine-lines-original-imahzcb2c8rpceqk.jpeg?q=90"
@@ -1001,6 +1018,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:wash",
+   "water:unstated",
    "ing:vitamin-c",
    "claim:brightening",
    "claim:dark-spots",
@@ -1104,7 +1122,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/y/1/o/40-green-tangerine-vitamin-c-serum-pack-of-1-goodal-original-imahzccq7gnzhrfn.jpeg?q=90"
@@ -1118,6 +1137,7 @@ const CTPRODUCTS = [
    "format:pack",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:vitamin-c",
    "claim:brightening",
    "claim:dark-spots",
@@ -1328,7 +1348,8 @@ const CTPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.3★ from 4 ratings",
-   "concernBasis": "Acne — niacinamide #6 on INCI; Dark spots — product type, niacinamide #6 on INCI, arbutin #8 on INCI; Irritation — ceramide np #13 on INCI, panthenol #20 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #6 on INCI; Dark spots — product type, niacinamide #6 on INCI, arbutin #8 on INCI; Irritation — ceramide np #13 on INCI, panthenol #20 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/q/q/j/30-eqqualberry-brightening-vitamin-c-serum-with-niacinamide-original-imahgy5fzr22vdra.jpeg?q=90",
@@ -1345,6 +1366,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "sun:mineral",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
@@ -1658,7 +1680,8 @@ const CTPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — niacinamide #6 on INCI; Dark spots — product type, niacinamide #6 on INCI, arbutin #8 on INCI; Irritation — ceramide np #13 on INCI, panthenol #20 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #6 on INCI; Dark spots — product type, niacinamide #6 on INCI, arbutin #8 on INCI; Irritation — ceramide np #13 on INCI, panthenol #20 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/s/n/g/30-vitamin-c-illuminating-serum-4-niacinamide-hyaluronic-acid-original-imahh82fzmxu9gda.jpeg?q=90",
@@ -1674,6 +1697,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
@@ -1983,7 +2007,8 @@ const CTPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — niacinamide #6 on INCI; Dark spots — product type, niacinamide #6 on INCI, arbutin #8 on INCI; Irritation — ceramide np #13 on INCI, panthenol #20 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #6 on INCI; Dark spots — product type, niacinamide #6 on INCI, arbutin #8 on INCI; Irritation — ceramide np #13 on INCI, panthenol #20 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/q/u/r/30-vitamin-illuminating-serum-with-vitamin-c-for-glowing-even-original-imahgvddycggjkwh.jpeg?q=90",
@@ -2000,6 +2025,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "sun:mineral",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
@@ -4348,6 +4374,7 @@ const CTPRODUCTS = [
    "format:kit",
    "ing:vitamin-c",
    "ing:glycerin",
+   "ing:menthol",
    "claim:brightening",
    "claim:oil-control",
    "claim:odour",
@@ -7375,6 +7402,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:oil",
    "format:wash",
+   "format:cleansing-oil",
    "ing:vitamin-c",
    "claim:brightening",
    "claim:dark-spots",
@@ -15038,7 +15066,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/g/3/f/15-vitamin-c-face-serum-for-glowing-skin-brightening-and-original-imahn3q8vnpzqtxg.jpeg?q=90",
@@ -15055,6 +15084,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:wash",
+   "water:unstated",
    "ing:vitamin-c",
    "claim:brightening",
    "claim:dark-spots",
@@ -15710,7 +15740,8 @@ const CTPRODUCTS = [
    "maker": "Heavenly Secrets — Indian D2C brand with its own product company",
    "declaredManufacturer": "Naturis Cosmetics Pvt. Ltd, 1-EPIP, SIDCO Industrial Complex, Bari Brahmana, Jammu (J&K), India - 181133 (as printed on the Flipkart listing — not scored)",
    "buyerEvidence": "4.1★ from 1,74,008 ratings",
-   "concernBasis": "Acne — niacinamide #2 on INCI; Dark spots — product type, 3-o-ethyl ascorbic acid #1 on INCI, niacinamide #2 on INCI; Aging — 3-o-ethyl ascorbic acid #1 on INCI; Irritation — centella asiatica extract #8 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #2 on INCI; Dark spots — product type, 3-o-ethyl ascorbic acid #1 on INCI, niacinamide #2 on INCI; Aging — 3-o-ethyl ascorbic acid #1 on INCI; Irritation — centella asiatica extract #8 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/1/7/o/10-10-vitamin-c-face-serum-for-oily-skin-men-women-skin-original-imahzpc6vmz7ejgx.jpeg?q=90",
@@ -15727,9 +15758,11 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:wash",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:centella-cica",
+   "ing:polyglutamic-acid",
    "claim:brightening",
    "claim:de-tan",
    "claim:dark-spots",
@@ -16769,7 +16802,7 @@ const CTPRODUCTS = [
  {
   "id": "dr-rashel-itm08538c83efd4a",
   "brand": "Dr. Rashel",
-  "model": "DR.RASHEL Vitamin C Face Serum with Hyaluronic Acid for Glowing S …",
+  "model": "DR.RASHEL Vitamin C Face Serum with Hyaluronic Acid for Glowing Skin & Dark Spots",
   "price": 278,
   "capacityLine": "Quantity not stated",
   "materialLine": "vitamin C + hyaluronic acid",
@@ -16819,13 +16852,14 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/dr-rashel-vitamin-c-face-serum-hyaluronic-acid-glowing-skin-dark-spots/p/itm08538c83efd4a",
   "buyStore": "Flipkart",
-  "title": "DR.RASHEL Vitamin C Face Serum with Hyaluronic Acid for Glowing S …",
+  "title": "DR.RASHEL Vitamin C Face Serum with Hyaluronic Acid for Glowing Skin & Dark Spots",
   "tags": [
    "scope:face",
    "format:serum",
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
    "claim:brightening",
+   "claim:dark-spots",
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
@@ -18993,7 +19027,7 @@ const CTPRODUCTS = [
  {
   "id": "beardmaster-itm4fb7232f9b1b7",
   "brand": "BEARDMASTER",
-  "model": "Vitamin C Serum for face with hyaluronic acid & Aloe …",
+  "model": "Vitamin C Serum for face with hyaluronic acid & Aloe Vera extract",
   "price": 118,
   "capacityLine": "30 ml",
   "materialLine": "vitamin C + hyaluronic acid + aloe vera",
@@ -19042,7 +19076,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/beardmaster-vitamin-c-serum-face-hyaluronic-acid-aloe-vera-extract/p/itm4fb7232f9b1b7",
   "buyStore": "Flipkart",
-  "title": "BEARDMASTER Vitamin C Serum for face with hyaluronic acid & Aloe …",
+  "title": "BEARDMASTER Vitamin C Serum for face with hyaluronic acid & Aloe Vera extract",
   "tags": [
    "scope:face",
    "format:serum",
@@ -19530,7 +19564,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.9★ from 2,774 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/p/k/u/120-vitamin-c-skin-clearing-serum-for-brightening-anti-aging-original-imahkf3gatyeze3c.jpeg?q=90",
@@ -19547,6 +19582,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:vitamin-c",
    "claim:brightening",
    "claim:anti-aging",
@@ -19640,7 +19676,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.7★ from 640 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/n/t/e/60-glow-boost-vitamin-c-face-serum-for-anti-wrinkle-hydrating-original-imahd3hedrngzy2g.jpeg?q=90",
@@ -19657,6 +19694,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:wash",
+   "water:unstated",
    "ing:vitamin-c",
    "claim:brightening",
    "claim:de-tan",
@@ -21636,7 +21674,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.7★ from 13 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/3/y/w/30-vitamin-c-serum-for-skin-brightening-daily-morning-serum-the-original-imahhzr52v9skyav.jpeg?q=90",
@@ -21653,6 +21692,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:wash",
+   "water:unstated",
    "ing:vitamin-c",
    "claim:brightening",
    "claim:anti-aging",
@@ -21857,7 +21897,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): perfume (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.7★ from 2,329 ratings",
-   "concernBasis": "Dark spots — product type, ethyl ascorbic acid #3 on INCI, alpha-arbutin #4 on INCI; Aging — ethyl ascorbic acid #3 on INCI (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type, ethyl ascorbic acid #3 on INCI, alpha-arbutin #4 on INCI; Aging — ethyl ascorbic acid #3 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/y/f/f/60-vitamin-c-skin-clearing-serum-pack-of-2-brightening-anti-original-imahk6czee7xghjj.jpeg?q=90",
@@ -21874,6 +21915,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:colloidal-oatmeal",
    "ing:hyaluronic-acid",
@@ -21962,7 +22004,7 @@ const CTPRODUCTS = [
  {
   "id": "avimee-itmced7f7024a133",
   "brand": "Avimee",
-  "model": "Herbal 10% Vitamin C Serum With Hyaluronic Acid & De-Tan E …",
+  "model": "Herbal 10% Vitamin C Serum With Hyaluronic Acid & De-Tan Extract For Skin Brightening",
   "price": 234,
   "capacityLine": "Quantity not stated",
   "materialLine": "vitamin C + hyaluronic acid",
@@ -21987,7 +22029,7 @@ const CTPRODUCTS = [
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
-   "benefit": "Not stated in listing",
+   "benefit": "Brightening/glow claim",
    "audience": "Unisex / not stated",
    "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
    "skinType": "Not stated in listing",
@@ -22012,12 +22054,13 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/avimee-herbal-10-vitamin-c-serum-hyaluronic-acid-de-tan-extract-skin-brightening/p/itmced7f7024a133",
   "buyStore": "Flipkart",
-  "title": "Avimee Herbal 10% Vitamin C Serum With Hyaluronic Acid & De-Tan E …",
+  "title": "Avimee Herbal 10% Vitamin C Serum With Hyaluronic Acid & De-Tan Extract For Skin Brightening",
   "tags": [
    "scope:unstated",
    "format:serum",
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
+   "claim:brightening",
    "claim:de-tan",
    "claim:ayurvedic",
    "aud:unisex",
@@ -22223,7 +22266,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "5★ from 17 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/n/4/q/30-vitamin-c-serum-for-face-glow-boosting-skin-brightening-daily-original-imahpbxzzfxkh7cc.jpeg?q=90",
@@ -22240,6 +22284,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:wash",
+   "water:unstated",
    "ing:vitamin-c",
    "claim:brightening",
    "claim:hydrating",
@@ -22333,7 +22378,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "5★ from 10 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/k/p/x/30-vitamin-c-brightening-face-serum-blestaaa-essentialss-original-imahpby2q8wgrh9g.jpeg?q=90",
@@ -22350,6 +22396,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:wash",
+   "water:unstated",
    "ing:vitamin-c",
    "claim:brightening",
    "claim:hydrating",
@@ -22908,7 +22955,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.6★ from 31 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/w/g/r/30-advanced-vitamin-c-face-serum-brighten-dull-skin-improve-original-imahk65gkfuya3wt.jpeg?q=90",
@@ -22925,6 +22973,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:wash",
+   "water:unstated",
    "ing:vitamin-c",
    "claim:brightening",
    "claim:anti-aging",
@@ -23020,7 +23069,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.6★ from 51 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/o/w/f/30-vitamin-c-brightening-face-serum-for-repairs-glowing-skin-original-imahkf3vr762s4qv.jpeg?q=90",
@@ -23037,6 +23087,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:wash",
+   "water:unstated",
    "ing:vitamin-c",
    "claim:brightening",
    "claim:anti-aging",
@@ -23135,7 +23186,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.4★ from 12 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/y/g/c/120-vitamin-c-glow-enhancing-serum-for-daily-radiance-recharge-original-imahhhmym7rvyqwt.jpeg?q=90",
@@ -23152,6 +23204,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:wash",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
    "ing:witch-hazel",
@@ -23475,7 +23528,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "L'Oréal Dermatological Beauty — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "4.2★ from 77 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/v/k/6/30-pure-vitamin-c10-serum-la-roche-posay-original-imahem3fgg86xgfs.jpeg?q=90",
@@ -23491,6 +23545,7 @@ const CTPRODUCTS = [
    "scope:body",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:glycerin",
    "claim:brightening",
@@ -23690,7 +23745,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/s/s/g/30-10-vitamin-c-brightening-face-serum-reduces-dark-spot-original-imahq85ffzy7kckh.jpeg?q=90",
@@ -23705,6 +23761,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
+   "water:unstated",
    "ing:vitamin-c",
    "claim:brightening",
    "claim:dark-spots",
@@ -24172,7 +24229,7 @@ const CTPRODUCTS = [
  {
   "id": "the-man-company-itmd2d4979daaa09",
   "brand": "The Man Company",
-  "model": "Vitamin C Face serum with 40% Hyaluronic Acid for …",
+  "model": "Vitamin C Face serum with 40% Hyaluronic Acid for Brightening and AntiAging",
   "price": 329,
   "capacityLine": "Quantity not stated",
   "materialLine": "vitamin C + hyaluronic acid",
@@ -24199,7 +24256,7 @@ const CTPRODUCTS = [
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
-   "benefit": "Not stated in listing",
+   "benefit": "Brightening/glow claim, Anti-aging claim",
    "audience": "Unisex / not stated",
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
@@ -24227,12 +24284,14 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/man-company-vitamin-c-face-serum-40-hyaluronic-acid-brightening-antiaging/p/itmd2d4979daaa09",
   "buyStore": "Flipkart",
-  "title": "THE MAN COMPANY Vitamin C Face serum with 40% Hyaluronic Acid for …",
+  "title": "THE MAN COMPANY Vitamin C Face serum with 40% Hyaluronic Acid for Brightening and AntiAging",
   "tags": [
    "scope:face",
    "format:serum",
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
+   "claim:brightening",
+   "claim:anti-aging",
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
@@ -25231,7 +25290,7 @@ const CTPRODUCTS = [
  {
   "id": "beautiloon-itm9b00c238ea2d8",
   "brand": "beautiloon",
-  "model": "Vitamin C Brightening and Moisturizing Face Serum with …",
+  "model": "Vitamin C Brightening and Moisturizing Face Serum with Vitamin E Collagen and Hyaluronic A…",
   "price": 154,
   "capacityLine": "30 ml",
   "materialLine": "vitamin C + hyaluronic acid + vitamin E",
@@ -25281,7 +25340,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/beautiloon-vitamin-c-serum-face-glow-hyaluronic-acid-e-ferulic-acid-smooth-healthy-radiant-skin/p/itm9b00c238ea2d8",
   "buyStore": "Flipkart",
-  "title": "beautiloon Vitamin C Brightening and Moisturizing Face Serum with …",
+  "title": "beautiloon Vitamin C Brightening and Moisturizing Face Serum with Vitamin E Collagen and Hyaluronic Acid for Daily Healthy Skin Care",
   "tags": [
    "scope:face",
    "format:serum",
@@ -25784,7 +25843,7 @@ const CTPRODUCTS = [
  {
   "id": "the-man-company-itmcd9b76eef31bc",
   "brand": "The Man Company",
-  "model": "Vitamin C Face serum with 40% Hyaluronic Acid for …",
+  "model": "Vitamin C Face serum with 40% Hyaluronic Acid for Brightening and Anti Aging",
   "price": 170,
   "capacityLine": "10 ml",
   "materialLine": "vitamin C + hyaluronic acid + aloe vera",
@@ -25827,7 +25886,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5); EU-declared fragrance allergen: benzyl alcohol (−0.5)",
    "maker": "Emami — Established / listed Indian FMCG house",
    "buyerEvidence": "4.1★ from 15,375 ratings",
-   "concernBasis": "Acne — niacinamide #3 on INCI; Dark spots — product type, niacinamide #3 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #3 on INCI; Dark spots — product type, niacinamide #3 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/f/f/1/10-vitamin-c-face-serum-with-40-hyaluronic-acid-for-brightening-original-imahmkyuwvrwrhfg.jpeg?q=90",
@@ -25838,12 +25898,13 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/man-company-vitamin-c-face-serum-40-hyaluronic-acid-brightening-anti-aging/p/itmcd9b76eef31bc",
   "buyStore": "Flipkart",
-  "title": "THE MAN COMPANY Vitamin C Face serum with 40% Hyaluronic Acid for …",
+  "title": "THE MAN COMPANY Vitamin C Face serum with 40% Hyaluronic Acid for Brightening and Anti Aging",
   "tags": [
    "scope:face",
    "format:serum",
    "format:oil",
    "format:pack",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
    "ing:aloe-vera",
@@ -26097,7 +26158,7 @@ const CTPRODUCTS = [
  {
   "id": "dr-rashel-itmba730eddfa865",
   "brand": "Dr. Rashel",
-  "model": "Vitamin C Face Serum with Hyaluronic Acid for Glowing S …",
+  "model": "Vitamin C Face Serum with Hyaluronic Acid for Glowing Skin & Dark Spots",
   "price": 753,
   "capacityLine": "90 ml",
   "materialLine": "vitamin C + hyaluronic acid",
@@ -26146,7 +26207,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/dr-rashel-vitamin-c-face-serum-hyaluronic-acid-glowing-skin-dark-spots/p/itmba730eddfa865",
   "buyStore": "Flipkart",
-  "title": "DR.RASHEL Vitamin C Face Serum with Hyaluronic Acid for Glowing S …",
+  "title": "DR.RASHEL Vitamin C Face Serum with Hyaluronic Acid for Glowing Skin & Dark Spots",
   "tags": [
    "scope:face",
    "format:serum",
@@ -26315,7 +26376,7 @@ const CTPRODUCTS = [
  {
   "id": "moody-itma6783df098d85",
   "brand": "Moody",
-  "model": "Vitamin C Face Serum Mandarin Orange & Hyaluronic Acid (20 …",
+  "model": "Vitamin C Face Serum Mandarin Orange & Hyaluronic Acid",
   "price": 198,
   "capacityLine": "Quantity not stated",
   "materialLine": "vitamin C + hyaluronic acid",
@@ -26365,7 +26426,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/moody-vitamin-c-face-serum-mandarin-orange-hyaluronic-acid/p/itma6783df098d85",
   "buyStore": "Flipkart",
-  "title": "MOODY Vitamin C Face Serum Mandarin Orange & Hyaluronic Acid (20 …",
+  "title": "MOODY Vitamin C Face Serum Mandarin Orange & Hyaluronic Acid",
   "tags": [
    "scope:face",
    "format:serum",
@@ -27945,7 +28006,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4★ from 816 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/e/p/q/advance-vitamin-c-serum-with-spf-50-sunscreen-for-complete-glow-original-imahq2gb6wkyjr3y.jpeg?q=90",
@@ -27963,6 +28025,7 @@ const CTPRODUCTS = [
    "format:pack",
    "format:kit",
    "spf:50",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:ferulic-acid",
@@ -28727,7 +28790,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/8/u/y/30-natural-vitamin-c-renewal-serum-for-skin-brightening-with-original-imahphs38ufcwbpf.jpeg?q=90",
@@ -28745,6 +28809,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:retinal",
@@ -29273,7 +29338,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Marico (Plix) — Established / listed Indian FMCG house",
    "buyerEvidence": "4★ from 1,670 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/q/r/j/23-vitamin-c-guava-face-serum-50-guava-glow-invisible-sunscreen-original-imahfhx5xzgbyayf.jpeg?q=90",
@@ -29291,6 +29357,7 @@ const CTPRODUCTS = [
    "format:pack",
    "format:kit",
    "pa:+++",
+   "water:unstated",
    "ing:vitamin-c",
    "claim:brightening",
    "claim:no-white-cast",
@@ -29867,7 +29934,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.2★ from 43 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/7/x/v/30-vitamin-c-booster-shot-serum-arencia-original-imahpg7gck7kn3sn.jpeg?q=90",
@@ -29883,6 +29951,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:glutathione",
    "ing:vitamin-b5-panthenol",
@@ -30306,7 +30375,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/w/i/u/vitamin-c-face-serum-with-sunscreen-skin-hydration-and-sun-original-imahmhgb3csrnp7a.jpeg?q=90",
@@ -30326,6 +30396,7 @@ const CTPRODUCTS = [
    "format:wash",
    "format:kit",
    "spf:50+",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:collagen",
    "ing:coffee",
@@ -31049,6 +31120,114 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "n-plus-itmdb3168b5236ef",
+  "brand": "N PLUS",
+  "model": "N+ Professional 20% Vitamin C & Hyaluronic Acid,Paraben Free Face Serum,30ml",
+  "price": 415,
+  "capacityLine": "30 ml",
+  "materialLine": "vitamin C + hyaluronic acid",
+  "featureLine": "Serum · Paraben-free · ₹1383/100ml",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "Well-reviewed: 4.3★ from 146 ratings"
+  ],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 5.9
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹1383/100ml",
+   "format": "Serum",
+   "keyIngredients": "vitamin C, hyaluronic acid (per listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All",
+   "rating": "4.3/5 (146 ratings, Flipkart)",
+   "madeIn": "India",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.3★ from 146 ratings",
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/fairness/o/v/k/30-professional-20-vitamin-c-hyaluronic-acid-paraben-free-face-original-imaghz5wack4pbcm.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/fairness/h/b/g/30-professional-20-vitamin-c-hyaluronic-acid-paraben-free-face-original-imaghz5wwc2h82mh.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/fairness/e/2/j/30-professional-20-vitamin-c-hyaluronic-acid-paraben-free-face-original-imaghz5wyschpg3b.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/fairness/b/k/n/30-professional-20-vitamin-c-hyaluronic-acid-paraben-free-face-original-imaghz5wttbr5qzp.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/fairness/q/o/a/30-professional-20-vitamin-c-hyaluronic-acid-paraben-free-face-original-imaghz5wpegwrtdn.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/n-plus-n-professional-20-vitamin-c-hyaluronic-acid-paraben-free-face-serum-30ml/p/itmdb3168b5236ef",
+  "buyStore": "Flipkart",
+  "title": "N PLUS N+ Professional 20% Vitamin C & Hyaluronic Acid,Paraben Free Face Serum,30ml",
+  "tags": [
+   "scope:face",
+   "format:serum",
+   "format:pack",
+   "ing:vitamin-c",
+   "ing:hyaluronic-acid",
+   "claim:brightening",
+   "free:paraben",
+   "aud:women",
+   "size:travel",
+   "rating:4.0",
+   "store:flipkart",
+   "target:dark-spots",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.3★ from 146 ratings"
+  }
+ },
+ {
   "id": "park-daniel-itm45d3b7812208d",
   "brand": "Park Daniel",
   "model": "Premium Vitamin C Facial Serum, Vitamin B3 Facial Ser …",
@@ -31090,7 +31269,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/ktn9pjk0/combo-kit/x/b/x/premium-vitamin-c-facial-serum-vitamin-b3-facial-serum-nail-original-imag6y3hacf7hkkq.jpeg?q=90",
@@ -31112,6 +31292,7 @@ const CTPRODUCTS = [
    "format:wash",
    "format:kit",
    "spf:50",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:saffron",
@@ -32034,7 +32215,7 @@ const CTPRODUCTS = [
  {
   "id": "7-fox-itma767d0da5ded5",
   "brand": "7 FOX",
-  "model": "Vitamin C 20% Facial Serum with Hyaluronic Acid for Brighte …",
+  "model": "Vitamin C 20% Facial Serum with Hyaluronic Acid for Brightening and Anti-Aging- (30 ml)",
   "price": 118,
   "capacityLine": "30 ml",
   "materialLine": "vitamin C + hyaluronic acid",
@@ -32083,7 +32264,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/7-fox-vitamin-c-20-facial-serum-hyaluronic-acid-brightening-anti-aging-30-ml/p/itma767d0da5ded5",
   "buyStore": "Flipkart",
-  "title": "7 FOX Vitamin C 20% Facial Serum with Hyaluronic Acid for Brighte …",
+  "title": "7 FOX Vitamin C 20% Facial Serum with Hyaluronic Acid for Brightening and Anti-Aging- (30 ml)",
   "tags": [
    "scope:face",
    "format:serum",
@@ -32892,7 +33073,7 @@ const CTPRODUCTS = [
  {
   "id": "7-fox-itmabd1e8b96a2f6",
   "brand": "7 FOX",
-  "model": "Advanced Vitamin C 20% Facial Serum with Hyaluronic Acid fo …",
+  "model": "Advanced Vitamin C 20% Facial Serum with Hyaluronic Acid for Brightening and Anti-Aging- (…",
   "price": 127,
   "capacityLine": "30 ml",
   "materialLine": "vitamin C + hyaluronic acid + aloe vera",
@@ -32941,7 +33122,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/7-fox-advanced-vitamin-c-20-facial-serum-hyaluronic-acid-brightening-anti-aging-30-ml/p/itmabd1e8b96a2f6",
   "buyStore": "Flipkart",
-  "title": "7 FOX Advanced Vitamin C 20% Facial Serum with Hyaluronic Acid fo …",
+  "title": "7 FOX Advanced Vitamin C 20% Facial Serum with Hyaluronic Acid for Brightening and Anti-Aging- (30 ml)",
   "tags": [
    "scope:face",
    "format:serum",
@@ -33043,7 +33224,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.7★ from 832 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/l/h/v/10-vitamin-c-clarifying-face-serum-fades-pigmentation-dark-spots-original-imahnkcyqetwk2ah.jpeg?q=90",
@@ -33060,6 +33242,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:wash",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:glycolic-acid",
@@ -34454,7 +34637,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/eye-serum/n/9/b/30-vitamin-c-face-serun-for-radient-glow-bijlan-cosmetic-original-imahzhkedzbkebvv.jpeg?q=90",
@@ -34468,6 +34652,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:serum",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
    "claim:brightening",
@@ -34561,7 +34746,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/eye-serum/d/f/x/30-daily-glow-booster-vitamin-c-face-serum-bijlan-cosmetic-original-imahzhjujfztagyj.jpeg?q=90",
@@ -34577,6 +34763,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:serum",
    "format:roll-on",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
@@ -34790,7 +34977,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/primer/s/p/r/30-vitamin-c-serum-skin-naturals-face-serum-for-increases-skin-s-original-imagzpg7xzkjpnte.jpeg?q=90",
@@ -34808,6 +34996,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:mist",
    "format:kit",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:aloe-vera",
    "ing:vitamin-e",
@@ -35938,7 +36127,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/j/u/a/glow-crafter-vitamin-c-face-serum-with-sunscreen-spf-50-pa-combo-original-imah9mdzq5pqyusd.jpeg?q=90",
@@ -35958,6 +36148,7 @@ const CTPRODUCTS = [
    "format:kit",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:beetroot",
    "claim:brightening",
@@ -36409,7 +36600,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.6★ from 23 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/l/b/i/30-vitamin-c-glow-serum-10-pure-vitamin-c-brightening-face-serum-original-imahm4a6xvjhe5zp.jpeg?q=90",
@@ -36425,6 +36617,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:glycerin",
    "claim:brightening",
@@ -36775,7 +36968,8 @@ const CTPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "5★ from 3 ratings",
-   "concernBasis": "Dark spots — product type, 3-o-ethyl ascorbic acid #2 on INCI; Aging — 3-o-ethyl ascorbic acid #2 on INCI (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type, 3-o-ethyl ascorbic acid #2 on INCI; Aging — 3-o-ethyl ascorbic acid #2 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/6/7/c/30-super-brithening-vitamin-c-serum-aprilyn-original-imahzn7tsh7cskum.jpeg?q=90",
@@ -36791,6 +36985,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:vitamin-c",
    "claim:brightening",
    "claim:anti-aging",
@@ -36954,7 +37149,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Ethicare Remedies — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/2/h/4/face-wash-with-kojic-acid-vitamin-c-salicylic-acid-70gm-360-original-imahncpsyf9zhjch.jpeg?q=90",
@@ -36975,6 +37171,7 @@ const CTPRODUCTS = [
    "format:wash",
    "format:kit",
    "spf:50+",
+   "water:resistant",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -37990,7 +38187,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/o/3/n/60-brilaanzo-vitamin-c-serum-pack-of-2-coslina-original-imahpm49ev8gznqm.jpeg?q=90"
@@ -38003,6 +38201,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:vitamin-c",
    "claim:brightening",
    "claim:hydrating",
@@ -38096,7 +38295,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/q/1/f/30-brilaanzo-vitamin-c-serum-pack-of-1-coslina-original-imahpm47h5xhfryt.jpeg?q=90"
@@ -38109,6 +38309,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:vitamin-c",
    "claim:brightening",
    "claim:hydrating",
@@ -38204,7 +38405,8 @@ const CTPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type; Irritation — aloe barbadensis leaf extract #3 on INCI (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type; Irritation — aloe barbadensis leaf extract #3 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/v/g/5/10-glosynth-10-vitamin-c-face-serum-for-glowing-skin-dark-spots-original-imahpugfkgphhpnm.jpeg?q=90",
@@ -38219,6 +38421,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
+   "water:unstated",
    "ing:vitamin-c",
    "claim:brightening",
    "claim:dark-spots",
@@ -38803,7 +39006,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "5★ from 13 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/a/n/u/30-10-vitamin-c-serum-face-serum-for-women-men-skin-brightening-original-imahzcfff7cn5fk9.jpeg?q=90",
@@ -38820,6 +39024,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:wash",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:aloe-vera",
@@ -38920,7 +39125,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "5★ from 5 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/4/u/1/30-10-vitamin-c-face-serum-brightening-dark-spot-correction-original-imahzcefm4avqhhp.jpeg?q=90",
@@ -38936,6 +39142,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:aloe-vera",
@@ -38995,11 +39202,11 @@ const CTPRODUCTS = [
  {
   "id": "house-of-common-itm7ce434e659f28",
   "brand": "house of common",
-  "model": "Vitamin C Serum With Hyaluronic Acid & Papaya Ext …",
+  "model": "Vitamin C Serum With Hyaluronic Acid & Papaya Ext For Skin Brightening (3x30ml)",
   "price": 660,
-  "capacityLine": "300 g (pack of 3)",
+  "capacityLine": "90 ml (pack of 3)",
   "materialLine": "vitamin C + hyaluronic acid + rice water",
-  "featureLine": "Serum · Paraben-free · ₹220/100g",
+  "featureLine": "Serum · Paraben-free · ₹733/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -39014,8 +39221,8 @@ const CTPRODUCTS = [
    "experience": 0
   },
   "fullSpec": {
-   "quantity": "100 g × 3 pack",
-   "pricePer100": "₹220/100g",
+   "quantity": "30 ml × 3 pack",
+   "pricePer100": "₹733/100ml",
    "format": "Serum",
    "keyIngredients": "vitamin C, hyaluronic acid, rice water, papaya (per listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -39045,7 +39252,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/house-common-vitamin-c-serum-hyaluronic-acid-papaya-ext-skin-brightening-3x30ml/p/itm7ce434e659f28",
   "buyStore": "Flipkart",
-  "title": "house of common Vitamin C Serum With Hyaluronic Acid & Papaya Ext …",
+  "title": "house of common Vitamin C Serum With Hyaluronic Acid & Papaya Ext For Skin Brightening (3x30ml)",
   "tags": [
    "scope:both",
    "format:serum",
@@ -39062,7 +39269,7 @@ const CTPRODUCTS = [
    "free:paraben",
    "free:vegan",
    "aud:women",
-   "size:xl",
+   "size:standard",
    "rating:none",
    "store:flipkart",
    "target:dark-spots",
@@ -39260,7 +39467,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Ethicare Remedies — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/q/n/v/face-wash-with-kojic-acid-vitamin-c-salicylic-acid-200gm-ac-original-imahncpqzhhhdqpf.jpeg?q=90",
@@ -39282,6 +39490,7 @@ const CTPRODUCTS = [
    "format:wash",
    "format:kit",
    "spf:50+",
+   "water:resistant",
    "ing:vitamin-c",
    "ing:salicylic-acid-bha",
    "ing:kojic-acid",
@@ -39494,7 +39703,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/j/2/b/30-vitamin-c-face-serum-with-ethyl-ascorbic-acid-niacinamide-original-imahz5zvy9wqeudx.jpeg?q=90",
@@ -39511,6 +39721,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:retinol",
@@ -39720,7 +39931,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/u/w/l/2-salicylic-acid-vitamin-c-face-serum-combo-acne-dark-spots-oil-original-imahnxwyafzgszdz.jpeg?q=90",
@@ -39741,6 +39953,7 @@ const CTPRODUCTS = [
    "format:patch",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:salicylic-acid-bha",
    "ing:witch-hazel",
@@ -39951,7 +40164,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/i/x/2/30-vitamin-c-face-serum-30-ml-10-vitamin-c-with-3-o-ethyl-original-imahpg7qu5f7z8ah.jpeg?q=90",
@@ -39968,6 +40182,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:wash",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:aloe-vera",
@@ -40064,7 +40279,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/y/e/e/30-mensbrium-10-vitamin-c-face-serum-mensbrium-original-imahhuerwygyw5ww.jpeg?q=90",
@@ -40081,6 +40297,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:toner",
    "format:pack",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
@@ -40140,6 +40357,231 @@ const CTPRODUCTS = [
     "url": null
    },
    "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "unbranded-itm626ec84c20215",
+  "brand": "Unbranded",
+  "model": "Ultra Elixir Anti Dark Spot & Hyperpigmentation Correcting Serum | 10% Vitamin C, 3% Trane…",
+  "price": 526,
+  "capacityLine": "30 ml",
+  "materialLine": "vitamin C + alpha arbutin + tranexamic acid",
+  "featureLine": "Serum · ₹1753/100ml",
+  "highlight": "Live Flipkart listing. Scored from its published INCI list (Flipkart listing — Specifications › Composition): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "tranexamic acid high on the INCI list (moderate evidence); alpha-arbutin high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list",
+   "Well-reviewed: 4.5★ from 4 ratings"
+  ],
+  "cons": [
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 7,
+   "skin": 7,
+   "trust": 5.5,
+   "experience": 4.5
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹1753/100ml",
+   "format": "Serum",
+   "keyIngredients": "vitamin C, alpha arbutin, tranexamic acid (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Acne/blemish claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.5/5 (4 ratings, Flipkart)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
+   "inciSource": "Flipkart listing — Specifications › Composition",
+   "inciList": "Aqua, 3% Tranexamic Acid, 2% Alpha Arbutin, Niacinamide, 3-O-Ethyl Ascorbic Acid, Phenyl Ethyl Resorcinol, 4-n-Butylresorcinol, Ferulic Acid, Glutathione, Phytosphingosine, Ceramide Complex, Squalane, Polyglutamic Acid, 8D Hyaluronic Acid System, Sodium Hyaluronate, Panthenol, Centella Asiatica Extract, Licorice Root Extract, Beta Glucan, Allantoin, Phenoxyethanol, Ethylhexylglycerin.",
+   "evidenceActives": "tranexamic acid (#2 on list, moderate evidence); alpha-arbutin (#3 on list, moderate evidence); 3-o-ethyl ascorbic acid (#5 on list, moderate evidence); ferulic acid (#8 on list, moderate evidence); sodium hyaluronate (#15 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "declaredManufacturer": "Ultra Elixir Kesvana Industrial Area kotputli Behror Rajasthan 303108 (as printed on the Flipkart listing — not scored)",
+   "buyerEvidence": "4.5★ from 4 ratings",
+   "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — product type, tranexamic acid #2 on INCI, alpha-arbutin #3 on INCI, niacinamide #4 on INCI, 3-o-ethyl ascorbic acid #5 on INCI, 4-butylresorcinol #7 on INCI; Aging — 3-o-ethyl ascorbic acid #5 on INCI; Irritation — panthenol #16 on INCI, centella asiatica extract #17 on INCI, beta-glucan #19 on INCI (matching only — not proof it works)"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/y/a/6/30-anti-dark-spot-hyperpigmentation-correcting-serum-10-vitamin-original-imahzaw5wx88bgau.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/b/e/s/30-anti-dark-spot-hyperpigmentation-correcting-serum-10-vitamin-original-imahzyvs8ztqjfxg.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/k/h/g/30-anti-dark-spot-hyperpigmentation-correcting-serum-10-vitamin-original-imahzyvsjetxmdvw.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/s/o/i/30-anti-dark-spot-hyperpigmentation-correcting-serum-10-vitamin-original-imahzaw5zk7wvr7d.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/s/v/y/30-anti-dark-spot-hyperpigmentation-correcting-serum-10-vitamin-original-imahzaw5khs282jh.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/ultra-elixir-anti-dark-spot-hyperpigmentation-correcting-serum-10-vitamin-c-3-tranexamic-acid-2-alpha-arbutin-0-30-4-n-butylresorcinol-0-50-phenylethyl-resorcinol-melasma-sun-spots-post-acne-marks-30-ml/p/itm626ec84c20215",
+  "buyStore": "Flipkart",
+  "title": "Ultra Elixir Anti Dark Spot & Hyperpigmentation Correcting Serum | 10% Vitamin C, 3% Tranexamic Acid, 2% Alpha Arbutin, 0.30% 4-n-Butylresorcinol & 0.50% Phenylethyl Resorcinol | For Melasma, Sun Spots & Post-Acne Marks | 30 ml",
+  "tags": [
+   "scope:unstated",
+   "format:serum",
+   "ing:vitamin-c",
+   "ing:alpha-arbutin",
+   "ing:tranexamic-acid",
+   "claim:dark-spots",
+   "claim:acne",
+   "claim:scars",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.5",
+   "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:aging",
+   "target:irritation",
+   "inci:full",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "listing",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Flipkart listing — Specifications › Composition",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": "Aqua, 3% Tranexamic Acid, 2% Alpha Arbutin, Niacinamide, 3-O-Ethyl Ascorbic Acid, Phenyl Ethyl Resorcinol, 4-n-Butylresorcinol, Ferulic Acid, Glutathione, Phytosphingosine, Ceramide Complex, Squalane, Polyglutamic Acid, 8D Hyaluronic Acid System, Sodium Hyaluronate, Panthenol, Centella Asiatica Extract, Licorice Root Extract, Beta Glucan, Allantoin, Phenoxyethanol, Ethylhexylglycerin.",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "tranexamic acid",
+     "grade": "B",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "tranexamic"
+    },
+    {
+     "name": "alpha-arbutin",
+     "grade": "B",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "pigment"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "3-o-ethyl ascorbic acid",
+     "grade": "B",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "4-butylresorcinol",
+     "grade": "B",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "pigment"
+    },
+    {
+     "name": "ferulic acid",
+     "grade": "B",
+     "position": 8,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "glutathione",
+     "grade": "C",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "pigment"
+    },
+    {
+     "name": "squalane",
+     "grade": "B",
+     "position": 12,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 15,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 16,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "centella asiatica extract",
+     "grade": "B",
+     "position": 17,
+     "core": false,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "beta-glucan",
+     "grade": "B",
+     "position": 19,
+     "core": false,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 20,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    }
+   ],
+   "support": [
+    "niacinamide",
+    "squalane",
+    "sodium hyaluronate",
+    "panthenol"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.5★ from 4 ratings"
   }
  },
  {
@@ -40300,7 +40742,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/f/p/f/30-10-niacinamide-1-kojic-acid-face-serum-with-vitamin-c-b5-for-original-imahqy97a7ga5am6.jpeg?q=90",
@@ -40318,11 +40761,13 @@ const CTPRODUCTS = [
    "format:pack",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:kojic-acid",
    "ing:vitamin-b5-panthenol",
+   "ing:polyglutamic-acid",
    "claim:brightening",
    "claim:de-tan",
    "claim:dark-spots",
@@ -40527,7 +40972,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.5★ from 78 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/c/t/5/30-hyaluronic-acid-face-serum-with-vitamin-c-e-peptide-for-original-imaggfkga9rmuggw.jpeg?q=90",
@@ -40542,6 +40988,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:serum",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
    "ing:peptides",
@@ -40603,7 +41050,7 @@ const CTPRODUCTS = [
  {
   "id": "bioly-itm008fb3569a02f",
   "brand": "Bioly",
-  "model": "Vitamin C Serum 20% + Hyaluronic Acid + Vitamin E Serum for …",
+  "model": "Vitamin C Serum 20% + Hyaluronic Acid + Vitamin E Serum for Advance Skin Brightening and L…",
   "price": 198,
   "capacityLine": "30 ml",
   "materialLine": "vitamin C + hyaluronic acid + vitamin E",
@@ -40652,7 +41099,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/bioly-vitamin-c-serum-20-hyaluronic-acid-e-advance-skin-brightening-lightening/p/itm008fb3569a02f",
   "buyStore": "Flipkart",
-  "title": "Bioly Vitamin C Serum 20% + Hyaluronic Acid + Vitamin E Serum for …",
+  "title": "Bioly Vitamin C Serum 20% + Hyaluronic Acid + Vitamin E Serum for Advance Skin Brightening and Lightening",
   "tags": [
    "scope:both",
    "format:cream",
@@ -40828,7 +41275,7 @@ const CTPRODUCTS = [
  {
   "id": "beauty-itmcf766e45d4079",
   "brand": "Beauty",
-  "model": "Glazed 10% Vitamin C Serum With Hyaluronic Acid & Papaya E …",
+  "model": "Glazed 10% Vitamin C Serum With Hyaluronic Acid & Papaya Ext For Skin Brightening",
   "price": 499,
   "capacityLine": "Quantity not stated",
   "materialLine": "vitamin C + hyaluronic acid + papaya",
@@ -40853,7 +41300,7 @@ const CTPRODUCTS = [
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
-   "benefit": "Not stated in listing",
+   "benefit": "Brightening/glow claim",
    "audience": "Unisex / not stated",
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
@@ -40877,13 +41324,14 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/beauty-glazed-10-vitamin-c-serum-hyaluronic-acid-papaya-ext-skin-brightening/p/itmcf766e45d4079",
   "buyStore": "Flipkart",
-  "title": "Beauty Glazed 10% Vitamin C Serum With Hyaluronic Acid & Papaya E …",
+  "title": "Beauty Glazed 10% Vitamin C Serum With Hyaluronic Acid & Papaya Ext For Skin Brightening",
   "tags": [
    "scope:unstated",
    "format:serum",
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
    "ing:papaya",
+   "claim:brightening",
    "aud:unisex",
    "rating:3.5",
    "store:flipkart",
@@ -40931,7 +41379,7 @@ const CTPRODUCTS = [
  {
   "id": "beauty-itm89eca28953ede",
   "brand": "Beauty",
-  "model": "Glazed 10% Vitamin C Serum With Hyaluronic Acid & Papaya E …",
+  "model": "Glazed 10% Vitamin C Serum With Hyaluronic Acid & Papaya Ext For Skin Brightening",
   "price": 1947,
   "capacityLine": "Quantity not stated",
   "materialLine": "vitamin C + hyaluronic acid + papaya",
@@ -40956,7 +41404,7 @@ const CTPRODUCTS = [
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
-   "benefit": "Not stated in listing",
+   "benefit": "Brightening/glow claim",
    "audience": "Unisex / not stated",
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
@@ -40980,13 +41428,14 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/beauty-glazed-10-vitamin-c-serum-hyaluronic-acid-papaya-ext-skin-brightening/p/itm89eca28953ede",
   "buyStore": "Flipkart",
-  "title": "Beauty Glazed 10% Vitamin C Serum With Hyaluronic Acid & Papaya E …",
+  "title": "Beauty Glazed 10% Vitamin C Serum With Hyaluronic Acid & Papaya Ext For Skin Brightening",
   "tags": [
    "scope:unstated",
    "format:serum",
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
    "ing:papaya",
+   "claim:brightening",
    "aud:unisex",
    "rating:3.5",
    "store:flipkart",
@@ -41241,7 +41690,7 @@ const CTPRODUCTS = [
  {
   "id": "skiura-itm98d7fbe805915",
   "brand": "Skiura",
-  "model": "Vitamin C Serum with Hyaluronic Acid For Advance Skin Brig …",
+  "model": "Vitamin C Serum with Hyaluronic Acid For Advance Skin Brightening, Anti Ageing, Anti Dark …",
   "price": 200,
   "capacityLine": "30 ml",
   "materialLine": "vitamin C + hyaluronic acid + peptides",
@@ -41281,7 +41730,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.6★ from 16 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/8/y/h/30-vitamin-c-serum-with-hyaluronic-acid-for-advance-skin-original-imahjw4cdsjqdzeh.jpeg?q=90",
@@ -41292,10 +41742,11 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/skiura-vitamin-c-serum-hyaluronic-acid-advance-skin-brightening-anti-ageing-dark-circle-fine-lines-repair-sun-damage-skin-total-face/p/itm98d7fbe805915",
   "buyStore": "Flipkart",
-  "title": "Skiura Vitamin C Serum with Hyaluronic Acid For Advance Skin Brig …",
+  "title": "Skiura Vitamin C Serum with Hyaluronic Acid For Advance Skin Brightening, Anti Ageing, Anti Dark Circle, Fine Lines & Repair Sun Damage Skin, Total Face Serum",
   "tags": [
    "scope:both",
    "format:serum",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
    "ing:peptides",
@@ -42180,6 +42631,130 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "ivachi-itm7854672996c2f",
+  "brand": "Ivachi",
+  "model": "Skin Brightening Serum for Women & Men – Daily Face Serum for Brightening & Even Skin Tone…",
+  "price": 433,
+  "capacityLine": "30 ml",
+  "materialLine": "vitamin C + niacinamide + alpha arbutin",
+  "featureLine": "Serum · Paraben-free · ₹1443/100ml",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "Well-reviewed: 4.3★ from 16 ratings"
+  ],
+  "cons": [
+   "Only headline actives are listed — formula unscored",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹1443/100ml",
+   "format": "Serum",
+   "keyIngredients": "vitamin C, niacinamide, alpha arbutin, tranexamic acid, green tea, turmeric, licorice, vitamin E (per listing)",
+   "freeFrom": "Paraben-free, Sulfate/SLS-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim, Anti-aging claim, Acne/blemish claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "4.3/5 (16 ratings, Flipkart)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only headline actives are listed — no base / preservative ingredients, so this is not a full INCI declaration and formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: Tranexamic Acid, Vitamin C, Alpha-Arbutin, Niacinamide, Alpha Tocopherol (Vitamin E), Green Tea Extract, Hydrolysed Pearl, Mulberry extract, Licorice Extract",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.3★ from 16 ratings",
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/n/h/p/30-skin-brightening-serum-for-women-men-daily-face-serum-for-original-imahm9h2dbpczsdy.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/g/r/n/30-skin-brightening-serum-for-women-men-daily-face-serum-for-original-imahm9h2qjyhydpa.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/z/m/b/30-skin-brightening-serum-for-women-men-daily-face-serum-for-original-imah85bcyh2gsy4z.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/d/f/j/30-skin-brightening-serum-for-women-men-daily-face-serum-for-original-imahn3znnzwzczat.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/c/3/j/30-skin-brightening-serum-for-women-men-daily-face-serum-for-original-imahm9h2hesxsxhe.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/ivachi-skin-brightening-serum-women-men-daily-face-even-tone-reduces-dark-circles-spots-tranexamic-acid-vitamin-c-turmeric-derivatives-alpha-arbutin-niacinamide/p/itm7854672996c2f",
+  "buyStore": "Flipkart",
+  "title": "Ivachi Skin Brightening Serum for Women & Men – Daily Face Serum for Brightening & Even Skin Tone| Reduces dark circles & spots| Tranexamic Acid, Vitamin C & Turmeric Derivatives, Alpha-Arbutin, Niacinamide",
+  "tags": [
+   "scope:face",
+   "format:serum",
+   "ing:vitamin-c",
+   "ing:niacinamide",
+   "ing:alpha-arbutin",
+   "ing:tranexamic-acid",
+   "ing:green-tea",
+   "ing:turmeric",
+   "ing:licorice",
+   "ing:vitamin-e",
+   "ing:pearl",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:anti-aging",
+   "claim:acne",
+   "claim:pores",
+   "claim:hydrating",
+   "claim:dark-circles",
+   "claim:scars",
+   "skin:all",
+   "free:paraben",
+   "free:sulfate",
+   "free:vegan",
+   "aud:women",
+   "size:travel",
+   "rating:4.0",
+   "store:flipkart",
+   "target:dark-spots",
+   "inci:partial"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Tranexamic Acid, Vitamin C, Alpha-Arbutin, Niacinamide, Alpha Tocopherol (Vitamin E), Green Tea Extract, Hydrolysed Pearl, Mulberry extract, Licorice Extract",
+   "inciNote": "Only headline actives are listed — no base / preservative ingredients, so this is not a full INCI declaration and formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.3★ from 16 ratings"
+  }
+ },
+ {
   "id": "krira-peris-itmf9ff0db281901",
   "brand": "Krira Peris",
   "model": "Vitamin C Serum With Niacinamide Face Serum 30ML (30 …",
@@ -42635,7 +43210,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4★ from 470 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/fairness/g/4/d/30-10-niacinamide-serum-with-vitamin-c-e-for-fairness-reducing-original-imahgsxjqv7ugqvv.jpeg?q=90",
@@ -42650,6 +43226,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:serum",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "claim:brightening",
@@ -42746,7 +43323,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/l/j/u/vitamin-c-face-serum-10-ml-niacinamide-face-serum-brightening-original-imahf4a8wjfnxuhr.jpeg?q=90",
@@ -42764,6 +43342,7 @@ const CTPRODUCTS = [
    "format:pack",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -43508,7 +44087,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/z/l/j/30-d-florivana-10-vitamin-c-face-serum-with-alpha-arbutin-original-imahzcdzhqq6qzxc.jpeg?q=90",
@@ -43522,6 +44102,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
@@ -43940,7 +44521,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4★ from 441 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/fairness/z/e/9/30-2-retinol-serum-for-face-for-anti-aging-30-ml-night-face-original-imah8sjypcktyhjy.jpeg?q=90",
@@ -43955,6 +44537,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:retinol",
    "ing:aha",
@@ -44273,7 +44856,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.3★ from 64 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/fairness/g/k/k/30-rosehip-face-serum-for-natural-glowing-skin-pack-of-1-men-original-imagggzyc6pzufbm.jpeg?q=90",
@@ -44288,6 +44872,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:retinol",
    "ing:rosehip",
@@ -44613,7 +45198,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.6★ from 12 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/q/n/o/30-vitamin-c-alpha-arbutin-glowing-skin-whitening-lightening-original-imahkmzgtvkzgez5.jpeg?q=90",
@@ -44629,6 +45215,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
    "ing:alpha-arbutin",
@@ -44729,7 +45316,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.7★ from 3 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/l09w8sw0/fairness/x/y/v/30-vitamin-c-serum-for-face-anti-aging-serum-hydrating-original-imagc2vkq4rujhar.jpeg?q=90",
@@ -44744,6 +45332,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:serum",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:retinol",
    "ing:hyaluronic-acid",
@@ -44863,6 +45452,7 @@ const CTPRODUCTS = [
    "ing:retinol",
    "ing:hyaluronic-acid",
    "ing:aloe-vera",
+   "ing:polyglutamic-acid",
    "claim:brightening",
    "claim:anti-aging",
    "claim:hydrating",
@@ -45173,7 +45763,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "4.1★ from 909 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/fairness/h/i/s/15-vitamin-c-skin-illuminate-serum-for-radiant-glowing-skin-all-original-imah2gaeph7guqpb.jpeg?q=90",
@@ -45189,6 +45780,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:retinol",
    "ing:salicylic-acid-bha",
@@ -45349,7 +45941,7 @@ const CTPRODUCTS = [
  {
   "id": "unbranded-itm9ff4dbff9578f",
   "brand": "Unbranded",
-  "model": "7days natural Vitamin C + Hyaluronic Acid Serum for Radiant Skin, …",
+  "model": "7days natural Vitamin C + Hyaluronic Acid Serum for Radiant Skin, Reduces Dark Spots & Fin…",
   "price": 265,
   "capacityLine": "Quantity not stated",
   "materialLine": "vitamin C + hyaluronic acid",
@@ -45376,7 +45968,7 @@ const CTPRODUCTS = [
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
-   "benefit": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim, Anti-aging claim",
    "audience": "Unisex / not stated",
    "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
    "skinType": "Not stated in listing",
@@ -45401,12 +45993,16 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/7days-natural-vitamin-c-hyaluronic-acid-serum-radiant-skin-reduces-dark-spots-fine-lines-fades-pigmentation-evens-skin-tone-daily-glow-spot-correction-brightens-firms-moisturizes/p/itm9ff4dbff9578f",
   "buyStore": "Flipkart",
-  "title": "7days natural Vitamin C + Hyaluronic Acid Serum for Radiant Skin, …",
+  "title": "7days natural Vitamin C + Hyaluronic Acid Serum for Radiant Skin, Reduces Dark Spots & Fine Lines | Fades Pigmentation & Evens Skin Tone | Daily Glow & Spot Correction | Brightens, Firms & Moisturizes Skin",
   "tags": [
    "scope:unstated",
    "format:serum",
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:anti-aging",
+   "claim:hydrating",
    "aud:unisex",
    "rating:4.5",
    "store:flipkart",
@@ -45951,7 +46547,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/a/i/30-rejuva-c-vitamin-c-face-serum-30-ml-for-men-women-skin-care-original-imahp9rykg4ghzrv.jpeg?q=90",
@@ -45969,6 +46566,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:lotion",
    "format:serum",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:aloe-vera",
    "ing:avocado",
@@ -46291,7 +46889,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/a/x/o/50-overnight-bright-repair-face-cream-mullica-cream-original-imahjsxf7kej6hxs.jpeg?q=90",
@@ -46307,6 +46906,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:kit",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:retinol",
    "ing:vitamin-e",
@@ -46515,7 +47115,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/l/x/0/30-bakuchiol-vitamin-c-radiance-serum-for-brightening-dark-spot-original-imahmear7zxzbhzj.jpeg?q=90",
@@ -46532,6 +47133,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:retinol",
    "ing:bakuchiol",
@@ -46635,7 +47237,8 @@ const CTPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type, ascorbic acid #1 on INCI; Aging — ascorbic acid #1 on INCI, retinol #2 on INCI, bakuchiol #3 on INCI; Irritation — aloe barbadensis leaf extract #7 on INCI (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type, ascorbic acid #1 on INCI; Aging — ascorbic acid #1 on INCI, retinol #2 on INCI, bakuchiol #3 on INCI; Irritation — aloe barbadensis leaf extract #7 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/z/t/q/30-glow-up-serum-fancyperks-original-imahzdg9djqgnjas.jpeg?q=90",
@@ -46650,6 +47253,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:retinol",
    "ing:bakuchiol",
@@ -48198,7 +48802,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/i/c/v/30-vitamin-c-green-tea-face-serum-for-glowing-skin-and-reduces-original-imah4gs43xq3jpkh.jpeg?q=90",
@@ -48213,6 +48818,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:green-tea",
    "claim:brightening",
@@ -48312,7 +48918,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Drying alcohol high in the list: alcohol denat (−1)",
    "maker": "L'Oréal Dermatological Beauty — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — salicylic acid #6 on INCI; Dark spots — product type, ascorbic acid #2 on INCI; Aging — ascorbic acid #2 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — salicylic acid #6 on INCI; Dark spots — product type, ascorbic acid #2 on INCI; Aging — ascorbic acid #2 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/p/h/h/30-vitamin-c-skin-renewal-serum-brightening-formula-with-original-imahpf2tdhdh8xyp.jpeg?q=90",
@@ -48328,6 +48935,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:salicylic-acid-bha",
    "ing:hyaluronic-acid",
@@ -48606,7 +49214,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4★ from 14 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/m/d/d/30-2-salicylic-face-serum-enriched-with-vitamin-c-peptide-to-original-imahkajfadjvefgf.jpeg?q=90",
@@ -48621,6 +49230,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:serum",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
@@ -48830,7 +49440,8 @@ const CTPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/y/o/0/40-vitamin-c-face-serum-herbal-phyto-face-serum-for-face-use-original-imah9axyfxdgr3bs.jpeg?q=90",
@@ -48848,6 +49459,7 @@ const CTPRODUCTS = [
    "format:pack",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:collagen",
    "claim:brightening",
@@ -49811,7 +50423,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/9/t/f/30-vitamin-c-serum-yncos-original-imahzzc4mnkmammg.jpeg?q=90",
@@ -49828,6 +50441,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:collagen",
    "claim:brightening",
@@ -49924,7 +50538,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "5★ from 8 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/g/y/b/30-anti-aging-vitamin-c-serum-with-advanced-brightening-formula-original-imahax47mat47pdf.jpeg?q=90",
@@ -49939,6 +50554,7 @@ const CTPRODUCTS = [
    "scope:body",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:beetroot",
    "claim:brightening",
@@ -50032,7 +50648,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.7★ from 916 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/k65d18w0/moisturizer-cream/4/f/j/30-vitamin-c-serum-with-vitamin-e-vegan-hyaluronic-acid-ferulic-original-imafz3qnpeqgxjgr.jpeg?q=90",
@@ -50049,6 +50666,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:wash",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
    "ing:glutathione",
@@ -50322,6 +50940,190 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "dr-sheth-s-itme795a076b3295",
+  "brand": "Dr. Sheth's",
+  "model": "Ceramide & Vitamin C Oil-Free Moisturizer Fights Dryness, Dullness, Damaged skin",
+  "price": 455,
+  "capacityLine": "100 g",
+  "materialLine": "vitamin C + ceramides",
+  "featureLine": "Oil · Paraben-free · ₹455/100g",
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Dr. Sheth's official website (drsheths.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "tocopheryl acetate high on the INCI list (moderate evidence); 3-o-ethyl ascorbic acid high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list",
+   "Well-reviewed: 4.3★ from 33,151 ratings"
+  ],
+  "cons": [],
+  "scores": {
+   "ingredients": 6.5,
+   "skin": 10,
+   "trust": 8,
+   "experience": 7.9
+  },
+  "fullSpec": {
+   "quantity": "100 g",
+   "pricePer100": "₹455/100g",
+   "format": "Oil",
+   "keyIngredients": "vitamin C, ceramides (per listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Dermatologically tested (seller claim — not scored)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types",
+   "rating": "4.3/5 (33,151 ratings, Flipkart)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Dr. Sheth's official website (drsheths.com) — product page › Ingredients",
+   "inciSourceUrl": "https://drsheths.com/products/ceramide-vitamin-c-oil-free-moisturizer-100g",
+   "inciMatchedName": "Ceramide & Vitamin C Oil-Free Moisturizer - 100g (name match 87%)",
+   "inciList": "Purified Water, Caprylic Capric Triglycerides, Glycerin, Sodium acrylates Copolymer, Coconut alkanes, Dimethicone, Amla extract, Vitamin E Acetate, Terminalia Ferdinandiana Fruit Extract, Laminaria Digitata Extract, 3-O-Ethyl Ascorbic Acid, Phenoxyethanol, Lecithin, Cetyl-PG Hydroxyethyl Palmitamide, Ceramide 1, Ceramide 2, Ceramide 3, Ceramide 4, Ceramide 6II, Ashwagandha extract, Disodium EDTA, Ethylhexylglycerin, Phenoxyethanol",
+   "evidenceActives": "tocopheryl acetate (#8 on list, moderate evidence); 3-o-ethyl ascorbic acid (#11 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
+   "buyerEvidence": "4.3★ from 33,151 ratings",
+   "concernBasis": "Dark spots — product type, 3-o-ethyl ascorbic acid #11 on INCI; Aging — 3-o-ethyl ascorbic acid #11 on INCI (matching only — not proof it works)"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/x/s/y/100-0-ceramide-vitamin-c-oil-free-moisturizer-fights-dryness-enriched-transparent-original-imaheqsfgdhctqaq.png?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/d/j/100-0-ceramide-vitamin-c-oil-free-moisturizer-fights-dryness-original-imaheqsfwdxcqvtc.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/g/0/d/100-0-ceramide-vitamin-c-oil-free-moisturizer-fights-dryness-original-imaheqsfezhhhh3t.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/a/2/100-0-ceramide-vitamin-c-oil-free-moisturizer-fights-dryness-original-imaheqsfcqhz85hp.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/r/c/8/-original-imahpgbnwhgfygsp.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/dr-sheths-ceramide-vitamin-c-oil-free-moisturizer-fights-dryness-dullness-damaged-skin/p/itme795a076b3295",
+  "buyStore": "Flipkart",
+  "title": "Dr. Sheth’s Ceramide & Vitamin C Oil-Free Moisturizer Fights Dryness, Dullness, Damaged skin",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "ing:vitamin-c",
+   "ing:ceramides",
+   "ing:collagen",
+   "claim:brightening",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:lightweight",
+   "claim:dry-skin-relief",
+   "skin:all",
+   "free:paraben",
+   "free:oil-free",
+   "free:derm",
+   "free:vegan",
+   "aud:women",
+   "size:standard",
+   "rating:4.0",
+   "store:flipkart",
+   "target:dark-spots",
+   "target:aging",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": true,
+   "derm": true,
+   "men": false,
+   "women": true,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Dr. Sheth's official website (drsheths.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://drsheths.com/products/ceramide-vitamin-c-oil-free-moisturizer-100g",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Ceramide & Vitamin C Oil-Free Moisturizer - 100g",
+   "inciMatchScore": 0.87,
+   "inciText": "Purified Water, Caprylic Capric Triglycerides, Glycerin, Sodium acrylates Copolymer, Coconut alkanes, Dimethicone, Amla extract, Vitamin E Acetate, Terminalia Ferdinandiana Fruit Extract, Laminaria Digitata Extract, 3-O-Ethyl Ascorbic Acid, Phenoxyethanol, Lecithin, Cetyl-PG Hydroxyethyl Palmitamide, Ceramide 1, Ceramide 2, Ceramide 3, Ceramide 4, Ceramide 6II, Ashwagandha extract, Disodium EDTA, Ethylhexylglycerin, Phenoxyethanol",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 1,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 6,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 8,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "3-o-ethyl ascorbic acid",
+     "grade": "B",
+     "position": 11,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "ceramide eos",
+     "grade": "B",
+     "position": 15,
+     "core": false,
+     "trace": true,
+     "src": "ceramide"
+    },
+    {
+     "name": "ceramide ns",
+     "grade": "B",
+     "position": 16,
+     "core": false,
+     "trace": true,
+     "src": "ceramide"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 17,
+     "core": false,
+     "trace": true,
+     "src": "ceramide"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "dimethicone",
+    "ceramide eos",
+    "ceramide ns",
+    "ceramide np"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Honasa Consumer (listed)",
+    "kind": "india",
+    "label": "Established / listed Indian FMCG house",
+    "pts": 6,
+    "url": "https://honasa.in/brands"
+   },
+   "buyers": "4.3★ from 33,151 ratings"
+  }
+ },
+ {
   "id": "lotus-itmfeabc131759b0",
   "brand": "Lotus",
   "model": "Botanicals Vitamin C Skin Brightening Night Creme|Reduces P …",
@@ -50467,7 +51269,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.8★ from 2,971 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/n/u/v/40-vitamin-c-cream-with-kojic-acid-2-zeelab-cream-original-imahdgxtu3gnczgc.jpeg?q=90",
@@ -50482,6 +51285,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:kojic-acid",
    "ing:glycerin",
@@ -50578,7 +51382,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Lotus Herbals — Established / listed Indian FMCG house",
    "buyerEvidence": "4.3★ from 30,583 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/k/x/n/45-vitamin-c-skin-brightening-day-cream-spf-lotus-botanicals-original-imahpz4yf2zbju2a.jpeg?q=90",
@@ -50594,6 +51399,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:cream",
+   "water:unstated",
    "ing:vitamin-c",
    "claim:brightening",
    "claim:whitening-claim",
@@ -51913,7 +52719,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Lotus Herbals — Established / listed Indian FMCG house",
    "buyerEvidence": "4.3★ from 4,216 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/3/x/h/45-vitamin-c-skin-brightening-face-moisturiser-45g-lotus-original-imahd2fhv4egcg3j.jpeg?q=90",
@@ -51929,6 +52736,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:scrub",
+   "water:unstated",
    "ing:vitamin-c",
    "claim:brightening",
    "claim:dark-spots",
@@ -52123,7 +52931,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Blossom Kochhar Aroma Magic — Indian D2C brand with its own product company",
    "buyerEvidence": "4.2★ from 3,525 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/5/y/q/100-vitamin-c-skin-brightening-gel-100-gm-aroma-magic-gel-original-imah9h8hztem2ndy.jpeg?q=90",
@@ -52139,6 +52948,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:gel",
    "spf:30",
+   "water:unstated",
    "ing:vitamin-c",
    "claim:brightening",
    "claim:korean",
@@ -52512,7 +53322,8 @@ const CTPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "declaredManufacturer": "VA Lifesciences LLP, plot No. 9D, Sector - 2, Parwanoo, Himachal Pradesh, India - 173220. M. : HIM/COS/20/305 (as printed on the Flipkart listing — not scored)",
    "buyerEvidence": "4.2★ from 1,035 ratings",
-   "concernBasis": "Acne — niacinamide #6 on INCI; Dark spots — product type, niacinamide #6 on INCI, sodium ascorbyl phosphate #12 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #6 on INCI; Dark spots — product type, niacinamide #6 on INCI, sodium ascorbyl phosphate #12 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/g/z/f/200-vitamin-c-daily-glow-light-gel-moisturizer-with-vit-c-original-imah9zjmkwzuxzsy.jpeg?q=90",
@@ -52530,6 +53341,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:oil",
    "spf:50",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:turmeric",
    "ing:glycerin",
@@ -53401,6 +54213,112 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "mamaearth-itm354c696ab5676",
+  "brand": "Mamaearth",
+  "model": "Vitamin C Moisturizing Lotion Soap with Vitamin C & Honey for Skin Illumination",
+  "price": 79,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "vitamin C + honey",
+  "featureLine": "Lotion",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "Well-reviewed: 4.3★ from 8,705 ratings"
+  ],
+  "cons": [
+   "No ingredient list published on the listing"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6,
+   "experience": 7.9
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Lotion",
+   "keyIngredients": "vitamin C, honey (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.3/5 (8,705 ratings, Flipkart)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
+   "declaredManufacturer": "VVF (India) Limited (as printed on the Flipkart listing — not scored)",
+   "buyerEvidence": "4.3★ from 8,705 ratings",
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-soap/s/p/i/8-1000-vitamin-c-moisturizing-lotion-soap-with-vitamin-c-honey-original-imah5vmggmznjzgc.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-soap/j/d/d/8-1000-vitamin-c-moisturizing-lotion-soap-with-vitamin-c-honey-original-imah5vmg6a29gfch.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-soap/y/u/r/8-1000-vitamin-c-moisturizing-lotion-soap-with-vitamin-c-honey-original-imah5vmgkwssyvh5.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-soap/j/q/d/8-1000-vitamin-c-moisturizing-lotion-soap-with-vitamin-c-honey-original-imah5vmgqzznpfme.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/b/z/j/34-daily-glow-sunscreen-vitamin-c-turmeric-for-sun-tan-original-imahnnu3t8mpjg3y.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/mamaearth-vitamin-c-moisturizing-lotion-soap-honey-skin-illumination/p/itm354c696ab5676",
+  "buyStore": "Flipkart",
+  "title": "Mamaearth Vitamin C Moisturizing Lotion Soap with Vitamin C & Honey for Skin Illumination",
+  "tags": [
+   "scope:unstated",
+   "format:lotion",
+   "format:bar",
+   "ing:vitamin-c",
+   "ing:honey",
+   "claim:hydrating",
+   "aud:unisex",
+   "rating:4.0",
+   "store:flipkart",
+   "target:dark-spots",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Honasa Consumer (listed)",
+    "kind": "india",
+    "label": "Established / listed Indian FMCG house",
+    "pts": 6,
+    "url": "https://honasa.in/brands"
+   },
+   "buyers": "4.3★ from 8,705 ratings"
+  }
+ },
+ {
   "id": "mamaearth-itmdcffa7410eb67",
   "brand": "Mamaearth",
   "model": "Vitamin C Nourishing Cold Cream for Face & Body with Vi …",
@@ -54248,7 +55166,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.1★ from 2,096 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/r/w/100-vitamin-c-day-cream-for-brightening-anti-aging-with-deep-original-imahmc32rjecjhpj.jpeg?q=90",
@@ -54263,6 +55182,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:glycerin",
@@ -54361,7 +55281,8 @@ const CTPRODUCTS = [
    "maker": "VLCC Health Care — Established / listed Indian FMCG house",
    "declaredManufacturer": "VLCC Personal Care Ltd, Industrial Growth Center, Matiya, Mornoi, Goalpara, Assam - 783101 , Plot No. 11 & 12, Sec. 6A, Sidcul, IIE, Haridwar, Uttarakhand - 249403, India. (as printed on the Flipkart listing — not scored)",
    "buyerEvidence": "4.2★ from 682 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/f/e/a/-original-imah5jnbfs6pp7zy.jpeg?q=90",
@@ -54377,6 +55298,7 @@ const CTPRODUCTS = [
    "scope:unstated",
    "format:cream",
    "spf:30",
+   "water:unstated",
    "ing:vitamin-c",
    "claim:brightening",
    "claim:spf-claim",
@@ -54467,7 +55389,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/3/u/p/-original-imahdzs4rf3ezeqa.jpeg?q=90",
@@ -54483,6 +55406,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "spf:15",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:saffron",
    "ing:ubtan",
@@ -54586,7 +55510,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Blossom Kochhar Aroma Magic — Indian D2C brand with its own product company",
    "buyerEvidence": "4.3★ from 2,241 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/u/i/50-vitamin-c-day-cream-50-gm-aroma-magic-cream-original-imaha785gamv8jsb.jpeg?q=90",
@@ -54602,6 +55527,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "spf:15",
+   "water:unstated",
    "ing:vitamin-c",
    "claim:hydrating",
    "claim:korean",
@@ -55807,7 +56733,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/i/f/0/vitamin-c20-whitening-facial-serum-caffeine-lip-serum-under-eye-original-imagxgdghbvrzkef.jpeg?q=90",
@@ -55826,6 +56753,7 @@ const CTPRODUCTS = [
    "format:oil",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:niacinamide",
    "ing:caffeine",
    "ing:aloe-vera",
@@ -56356,7 +57284,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/w/l/50-vitamin-c-face-whitening-cream-bright-glow-even-look-armm-original-imahjn5nzuuesrhh.jpeg?q=90",
@@ -56373,6 +57302,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:lotion",
    "format:kit",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:rice-water",
    "ing:saffron",
@@ -56578,7 +57508,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/v/c/j/50-vitamin-c-face-whitening-cream-bright-glow-even-look-armm-original-imahjn5nmzgsmffj.jpeg?q=90",
@@ -56594,6 +57525,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:kit",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:rice-water",
    "ing:squalane",
@@ -56696,7 +57628,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/v/c/j/50-vitamin-c-face-whitening-cream-bright-glow-even-look-armm-original-imahjn5nmzgsmffj.jpeg?q=90",
@@ -56713,6 +57646,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:scrub",
    "format:kit",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:saffron",
    "ing:squalane",
@@ -57109,7 +58043,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4★ from 557 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/7/l/g/75-vitamin-c-face-moisturizer-cream-for-women-and-men-dr-rashel-original-imahkjhngfbxzkzg.jpeg?q=90",
@@ -57125,6 +58060,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:oil",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:glycerin",
@@ -57628,7 +58564,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/f/2/n/300-10-vitamin-c-brightening-body-lotion-for-even-skin-tone-skin-original-imahpyhzbxxstprv.jpeg?q=90",
@@ -57645,6 +58582,7 @@ const CTPRODUCTS = [
    "format:lotion",
    "format:serum",
    "spf:30",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:salicylic-acid-bha",
    "ing:aha",
@@ -57742,7 +58680,7 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.2/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
    "inciSource": "Not stated in listing",
    "inciList": "Not stated in listing",
    "evidenceActives": "Unscored — no verified INCI list",
@@ -60014,6 +60952,14 @@ const CTPRODUCTS = [
      "core": true,
      "trace": false,
      "src": "vitc"
+    },
+    {
+     "name": "cera alba",
+     "grade": "B",
+     "position": 20,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
     }
    ],
    "support": [
@@ -62092,6 +63038,7 @@ const CTPRODUCTS = [
    "format:wash",
    "ing:vitamin-c",
    "ing:charcoal",
+   "ing:menthol",
    "claim:ayurvedic",
    "skin:all",
    "aud:men",
@@ -67067,6 +68014,7 @@ const CTPRODUCTS = [
    "claim:oil-control",
    "claim:water-resistant",
    "claim:makeup",
+   "claim:waterproof-makeup",
    "skin:sensitive",
    "free:sensitive-safe",
    "aud:unisex",
@@ -74951,7 +75899,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.3★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61VxYmySw-L._SL1500_.jpg",
@@ -74970,6 +75919,7 @@ const CTPRODUCTS = [
    "format:mist",
    "format:bar",
    "format:wash",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:vitamin-b5-panthenol",
    "ing:witch-hazel",
@@ -74981,6 +75931,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:ayurvedic",
    "claim:makeup",
+   "claim:waterproof-makeup",
    "skin:oily",
    "skin:dry",
    "skin:sensitive",
@@ -76063,16 +77014,18 @@ const CTPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "vitamin C + hyaluronic acid + centella/cica",
   "featureLine": "Serum · ₹2503/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. Scored from its published INCI list (Amazon.in listing — Important information › Ingredients): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "3-o-ethyl ascorbic acid high on the INCI list (moderate evidence); sodium hyaluronate high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 5.1,
+   "skin": 7,
+   "trust": 5.5,
    "experience": 1.3
   },
   "fullSpec": {
@@ -76089,14 +77042,14 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "3.8/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Aqua, 3-O-Ethyl Ascorbic Acid, Pentylene Glycol, Ethoxydiglycol, Propanediol, Glycerine, Sodium Hyaluronate, Bifida Ferment Lysate, Gluconolactone, Sodium Benzoate, Ferulic Acid, Inulin, Centella Asiatica Extract, Cyclodextrin",
+   "evidenceActives": "3-o-ethyl ascorbic acid (#2 on list, moderate evidence); sodium hyaluronate (#7 on list, moderate evidence); ferulic acid (#11 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.8★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type, 3-o-ethyl ascorbic acid #2 on INCI; Aging — 3-o-ethyl ascorbic acid #2 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51zTKxy5zbL._AC_UL320_.jpg"
@@ -76121,7 +77074,9 @@ const CTPRODUCTS = [
    "rating:3.5",
    "store:amazon",
    "target:dark-spots",
-   "inci:none"
+   "target:aging",
+   "inci:full",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -76130,25 +77085,78 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "listing",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
+   "inci": "full",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
-   "inciText": null,
+   "inciText": "Aqua, 3-O-Ethyl Ascorbic Acid, Pentylene Glycol, Ethoxydiglycol, Propanediol, Glycerine, Sodium Hyaluronate, Bifida Ferment Lysate, Gluconolactone, Sodium Benzoate, Ferulic Acid, Inulin, Centella Asiatica Extract, Cyclodextrin",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 0.93,
+   "actives": [
+    {
+     "name": "3-o-ethyl ascorbic acid",
+     "grade": "B",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 6,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "gluconolactone",
+     "grade": "B",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "ferulic acid",
+     "grade": "B",
+     "position": 11,
+     "core": true,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "centella asiatica extract",
+     "grade": "B",
+     "position": 13,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "glycerin",
+    "sodium hyaluronate"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -79352,7 +80360,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "COSIQ — Indian D2C brand with its own product company",
    "buyerEvidence": "3.9★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61te-whP08L._AC_UL320_.jpg"
@@ -79363,6 +80372,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:collagen",
    "claim:brightening",
@@ -82305,16 +83315,18 @@ const CTPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "vitamin C + hyaluronic acid",
   "featureLine": "Serum · ₹8300/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. Scored from its published INCI list (Amazon.in listing — Important information › Ingredients): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "sodium ascorbyl phosphate high on the INCI list (moderate evidence); ferulic acid high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 3.6,
+   "skin": 7,
+   "trust": 5.5,
    "experience": 2.9
   },
   "fullSpec": {
@@ -82331,14 +83343,14 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.3/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "(98% Naturally Derived /72% Organic) Ingredients: Deionized Aqua (Water), Organic Aloe Barbadensis Leaf (Aloe), Sodium Ascorbyl Phosphate (Vitamin C), Methylsulfonylmethane (MSM), Cassia Angustifolia Seed Polysaccharide (plant-derived hyaluronic acid), Hamamelis Virginiana (Witch Hazel), d-Alpha Tocopheryl Acetate (Vitamin E), Carbomer, Arginine, Ferulic Acid, Citrus Stem Cells, Kosher Vegetable Glycerin, Organic Simmondsia Chinensis (Jojoba Oil), Phenoxyethanol, Ethyl Hexyl Glycerin, Organic Centella Asiatica (Gotu Kola Extract), Organic Equisetum Arvense (Horsetail Plant Extract), Organic Pelargonium Graveolens (Geranium Extract), Organic Taraxacum Officinale (Dandelion Extract).",
+   "evidenceActives": "sodium ascorbyl phosphate (#3 on list, moderate evidence); ferulic acid (#10 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.3★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type, sodium ascorbyl phosphate #3 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/81ofNgqKRUL._AC_UL320_.jpg"
@@ -82360,7 +83372,8 @@ const CTPRODUCTS = [
    "rating:4.0",
    "store:amazon",
    "target:dark-spots",
-   "inci:none"
+   "inci:full",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -82369,24 +83382,41 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "listing",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
+   "inci": "full",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
-   "inciText": null,
+   "inciText": "(98% Naturally Derived /72% Organic) Ingredients: Deionized Aqua (Water), Organic Aloe Barbadensis Leaf (Aloe), Sodium Ascorbyl Phosphate (Vitamin C), Methylsulfonylmethane (MSM), Cassia Angustifolia Seed Polysaccharide (plant-derived hyaluronic acid), Hamamelis Virginiana (Witch Hazel), d-Alpha Tocopheryl Acetate (Vitamin E), Carbomer, Arginine, Ferulic Acid, Citrus Stem Cells, Kosher Vegetable Glycerin, Organic Simmondsia Chinensis (Jojoba Oil), Phenoxyethanol, Ethyl Hexyl Glycerin, Organic Centella Asiatica (Gotu Kola Extract), Organic Equisetum Arvense (Horsetail Plant Extract), Organic Pelargonium Graveolens (Geranium Extract), Organic Taraxacum Officinale (Dandelion Extract).",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
+   "declarationConfidence": 0.7,
+   "recognised": 0.84,
+   "actives": [
+    {
+     "name": "sodium ascorbyl phosphate",
+     "grade": "B",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "ferulic acid",
+     "grade": "B",
+     "position": 10,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    }
+   ],
    "support": [],
    "formulaNotes": [],
    "flags": [],
@@ -84780,13 +85810,13 @@ const CTPRODUCTS = [
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "No ingredient list published on the listing",
+   "Only 1 ingredient named — formula unscored",
    "Maker not verified — no parent company found"
   ],
   "scores": {
    "ingredients": 0,
    "skin": 0,
-   "trust": 3.5,
+   "trust": 3.8,
    "experience": 0
   },
   "fullSpec": {
@@ -84803,9 +85833,9 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "3.2/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: Nicotinamide. Ceramide 3",
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
@@ -84836,7 +85866,7 @@ const CTPRODUCTS = [
    "rating:low",
    "store:amazon",
    "target:dark-spots",
-   "inci:none"
+   "inci:partial"
   ],
   "filters": {
    "actives": true,
@@ -84845,23 +85875,23 @@ const CTPRODUCTS = [
    "derm": true,
    "men": false,
    "women": false,
-   "inci": "none",
+   "inci": "partial",
    "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
    "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
+   "inciUnverified": "Nicotinamide. Ceramide 3",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
    "declarationConfidence": null,
-   "recognised": null,
+   "recognised": 1,
    "actives": [],
    "support": [],
    "formulaNotes": [],
@@ -86713,14 +87743,14 @@ const CTPRODUCTS = [
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "No ingredient list published on the listing",
+   "Only 1 ingredient named — formula unscored",
    "Maker not verified — no parent company found",
    "No buyer ratings yet"
   ],
   "scores": {
    "ingredients": 0,
    "skin": 0,
-   "trust": 3.5,
+   "trust": 3.8,
    "experience": 0
   },
   "fullSpec": {
@@ -86737,9 +87767,9 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: Nicotinamide. Ceramide 3",
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
@@ -86770,7 +87800,7 @@ const CTPRODUCTS = [
    "rating:none",
    "store:amazon",
    "target:dark-spots",
-   "inci:none"
+   "inci:partial"
   ],
   "filters": {
    "actives": true,
@@ -86779,23 +87809,23 @@ const CTPRODUCTS = [
    "derm": true,
    "men": false,
    "women": false,
-   "inci": "none",
+   "inci": "partial",
    "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
    "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
+   "inciUnverified": "Nicotinamide. Ceramide 3",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
    "declarationConfidence": null,
-   "recognised": null,
+   "recognised": 1,
    "actives": [],
    "support": [],
    "formulaNotes": [],
@@ -88676,14 +89706,14 @@ const CTPRODUCTS = [
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "No ingredient list published on the listing",
+   "Only 1 ingredient named — formula unscored",
    "Maker not verified — no parent company found",
    "No buyer ratings yet"
   ],
   "scores": {
    "ingredients": 0,
    "skin": 0,
-   "trust": 3.5,
+   "trust": 3.8,
    "experience": 0
   },
   "fullSpec": {
@@ -88700,9 +89730,9 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: Niacinamide (Vitamin B3)",
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
@@ -88733,7 +89763,7 @@ const CTPRODUCTS = [
    "rating:none",
    "store:amazon",
    "target:dark-spots",
-   "inci:none"
+   "inci:partial"
   ],
   "filters": {
    "actives": true,
@@ -88742,23 +89772,23 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
+   "inci": "partial",
    "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
    "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
+   "inciUnverified": "Niacinamide (Vitamin B3)",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
    "declarationConfidence": null,
-   "recognised": null,
+   "recognised": 1,
    "actives": [],
    "support": [],
    "formulaNotes": [],
@@ -97280,7 +98310,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Heavenly Secrets — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61k4B3PiyvL._AC_UL320_.jpg"
@@ -97293,6 +98324,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:kit",
    "spf:50+",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:glutathione",
@@ -98734,7 +99766,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "COSIQ — Indian D2C brand with its own product company",
    "buyerEvidence": "3.9★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61Bpdj0-gXL._AC_UL320_.jpg"
@@ -98745,6 +99778,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:vitamin-e",
    "ing:ferulic-acid",
@@ -103227,7 +104261,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.3★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61I1DNjFANL._SL1500_.jpg",
@@ -103242,6 +104277,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:serum",
+   "water:unstated",
    "ing:vitamin-c",
    "claim:brightening",
    "claim:de-tan",
@@ -104336,14 +105372,14 @@ const CTPRODUCTS = [
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "No ingredient list published on the listing",
+   "Only 1 ingredient named — formula unscored",
    "Maker not verified — no parent company found",
    "No buyer ratings yet"
   ],
   "scores": {
    "ingredients": 0,
    "skin": 0,
-   "trust": 3.5,
+   "trust": 3.8,
    "experience": 0
   },
   "fullSpec": {
@@ -104360,9 +105396,9 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: Vitamin E",
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
@@ -104390,7 +105426,7 @@ const CTPRODUCTS = [
    "rating:none",
    "store:amazon",
    "target:dark-spots",
-   "inci:none"
+   "inci:partial"
   ],
   "filters": {
    "actives": true,
@@ -104399,23 +105435,23 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
+   "inci": "partial",
    "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
    "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
+   "inciUnverified": "Vitamin E",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
    "declarationConfidence": null,
-   "recognised": null,
+   "recognised": 1,
    "actives": [],
    "support": [],
    "formulaNotes": [],
@@ -106826,15 +107862,16 @@ const CTPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "vitamin C + centella/cica",
   "featureLine": "Serum",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. Scored from its published INCI list (Amazon.in listing — Important information › Ingredients): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "3-o-ethyl ascorbic acid high on the INCI list (moderate evidence); sodium ascorbyl phosphate high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6,
+   "ingredients": 7.8,
+   "skin": 10,
+   "trust": 8,
    "experience": 2.9
   },
   "fullSpec": {
@@ -106851,14 +107888,14 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.3/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Purified water, Niacinamide, Pentylene Glycol, PEG-40 Hydrogenated Caster Oil, Trideceth-9, Glycerin, Phenylethyl Resorcinol, Propylene Glycol, Sclareolide, 3-O-Ethyl Ascorbic Acid, Propendiol, Diethylene glycol monoethyl ether, sh-Oligopeptide-1, Sodium Ascorbyl Phosphate, Phosphatidylcholine, Xanthan Gum, Citric Acid, Potassium Sorbate, Sodium Benzoate, sh-Oligopeptide-2, Tocopheryl Acetate, Alpha Arbutin, Tranexamic acid, Centella Asiatica Leaf Vesicles, Licorice extract, Phenoxyethanol, Ethylhexylglycerin, , Panthenol, Laminaria Digitata Extract, Hydrogenated Lecithin, Cetyl-PG Hydroxyethyl Palmitamide, Ceramide 1, Ceramide 2,Ceramide 3, Ceramide 4, Ceramide 6 II, Cholesterol, Sodium Phytate, Hydroxyethyl cellulose, Allantoin, Tris(Tetramethylhydroxypiperidinol) Citrate, Sodium metabisulphite.",
+   "evidenceActives": "3-o-ethyl ascorbic acid (#10 on list, moderate evidence); sodium ascorbyl phosphate (#14 on list, moderate evidence); tocopheryl acetate (#21 on list, moderate evidence); alpha-arbutin (#22 on list, moderate evidence); tranexamic acid (#23 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "4.3★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #2 on INCI; Dark spots — product type, niacinamide #2 on INCI, 3-o-ethyl ascorbic acid #10 on INCI, sodium ascorbyl phosphate #14 on INCI; Aging — 3-o-ethyl ascorbic acid #10 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61Rtb5QKS1L._AC_UL320_.jpg"
@@ -106871,14 +107908,18 @@ const CTPRODUCTS = [
    "format:serum",
    "ing:vitamin-c",
    "ing:centella-cica",
+   "ing:exosomes",
    "claim:brightening",
    "claim:lightweight",
    "skin:all",
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "target:dark-spots",
-   "inci:none"
+   "target:aging",
+   "inci:full",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -106887,25 +107928,155 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "listing",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
+   "inci": "full",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
-   "inciText": null,
+   "inciText": "Purified water, Niacinamide, Pentylene Glycol, PEG-40 Hydrogenated Caster Oil, Trideceth-9, Glycerin, Phenylethyl Resorcinol, Propylene Glycol, Sclareolide, 3-O-Ethyl Ascorbic Acid, Propendiol, Diethylene glycol monoethyl ether, sh-Oligopeptide-1, Sodium Ascorbyl Phosphate, Phosphatidylcholine, Xanthan Gum, Citric Acid, Potassium Sorbate, Sodium Benzoate, sh-Oligopeptide-2, Tocopheryl Acetate, Alpha Arbutin, Tranexamic acid, Centella Asiatica Leaf Vesicles, Licorice extract, Phenoxyethanol, Ethylhexylglycerin, , Panthenol, Laminaria Digitata Extract, Hydrogenated Lecithin, Cetyl-PG Hydroxyethyl Palmitamide, Ceramide 1, Ceramide 2,Ceramide 3, Ceramide 4, Ceramide 6 II, Cholesterol, Sodium Phytate, Hydroxyethyl cellulose, Allantoin, Tris(Tetramethylhydroxypiperidinol) Citrate, Sodium metabisulphite.",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.9,
+   "actives": [
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 6,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "3-o-ethyl ascorbic acid",
+     "grade": "B",
+     "position": 10,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "sodium ascorbyl phosphate",
+     "grade": "B",
+     "position": 14,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 17,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 21,
+     "core": true,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "alpha-arbutin",
+     "grade": "B",
+     "position": 22,
+     "core": true,
+     "trace": true,
+     "src": "pigment"
+    },
+    {
+     "name": "tranexamic acid",
+     "grade": "B",
+     "position": 23,
+     "core": true,
+     "trace": true,
+     "src": "tranexamic"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 28,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "ceramide eos",
+     "grade": "B",
+     "position": 32,
+     "core": false,
+     "trace": true,
+     "src": "ceramide"
+    },
+    {
+     "name": "ceramide ns",
+     "grade": "B",
+     "position": 33,
+     "core": false,
+     "trace": true,
+     "src": "ceramide"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 34,
+     "core": false,
+     "trace": true,
+     "src": "ceramide"
+    },
+    {
+     "name": "ceramide ap",
+     "grade": "B",
+     "position": 36,
+     "core": false,
+     "trace": true,
+     "src": "ceramide"
+    },
+    {
+     "name": "cholesterol",
+     "grade": "B",
+     "position": 37,
+     "core": false,
+     "trace": true,
+     "src": "ceramide"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 40,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    }
+   ],
+   "support": [
+    "niacinamide",
+    "glycerin",
+    "panthenol",
+    "ceramide eos",
+    "ceramide ns",
+    "ceramide np",
+    "ceramide ap",
+    "cholesterol"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -108697,7 +109868,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.1★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51OiNAZd-YL._AC_UL320_.jpg"
@@ -108709,6 +109881,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "spf:15",
+   "water:unstated",
    "ing:vitamin-c",
    "claim:brightening",
    "claim:hydrating",
@@ -110545,7 +111718,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.2★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61ptITXYlbL._SL1024_.jpg",
@@ -110560,6 +111734,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
@@ -111998,7 +113173,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "3.9★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/416NKHvrD1L._AC_UL320_.jpg"
@@ -112010,6 +113186,7 @@ const CTPRODUCTS = [
    "scope:unstated",
    "format:serum",
    "spf:30",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
    "claim:brightening",
@@ -113846,7 +115023,8 @@ const CTPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61h2P0XEXvL._AC_UL320_.jpg"
@@ -113859,6 +115037,7 @@ const CTPRODUCTS = [
    "format:serum",
    "spf:60",
    "pa:++++",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
    "claim:brightening",
@@ -114505,7 +115684,7 @@ const CTPRODUCTS = [
   "capacityLine": "10 g",
   "materialLine": "vitamin C + hyaluronic acid",
   "featureLine": "Serum · ₹9890/100g",
-  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (The Derma Co official website (thedermaco.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Amazon listing. Scored from its published INCI list (Amazon.in listing — Important information › Ingredients): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "3-o-ethyl ascorbic acid high on the INCI list (moderate evidence); sodium hyaluronate high on the INCI list (moderate evidence)",
    "No fragrance / flagged irritant on the INCI list"
@@ -114531,11 +115710,9 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "3.8/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
-   "inciSource": "The Derma Co official website (thedermaco.com) — product page › Ingredients",
-   "inciSourceUrl": "https://thedermaco.com/products/50000-ppm-vitamin-c-microneedle-serum-shot-10-g",
-   "inciMatchedName": "50000 PPM Vitamin C Microneedle Serum Shot with Glutathione, Panthenol & Hyaluronic Acid for Bright & Revitalized Skin - 10 g (name match 78%)",
-   "inciList": "Aqua, Propylene Glycol, 3-O-Ethyl Ascorbic Acid, Glycerin, Butylene Glycol, 1,2-Hexanediol, Glutathione, Sodium Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Spicule, Ethylhexyl Palmitate, Ethylhexylglycerin, Caprylyl Glycol, Sodium Polyacrylate, Sorbitan Oleate, Xanthan Gum, Panthenol, Hydrogenated Polyisobutene, Adenosine, Sodium Hyaluronate, Centella Asiatica Extract, Caprylic Capric Triglycerides, Water (and) Butylene Glycol (and) Lysine (and) Histidine (and) Arginine (and) Aspartic Acid (and) Threonine (and) Serine (and) Glutamic Acid (and) Proline (and) Glycine (and) Alanine (and) Valine (and) Isoleucine (and) Leucine (and) Tyrosine (and) Phenylalanine, Allantoin, Bisabolol",
+   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Aqua, Propylene Glycol, 3-O-Ethyl Ascorbic Acid, Glycerin, Butylene Glycol, 1,2-Hexanediol, Glutathione, Sodium Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Spicule, Ethylhexyl Palmitate, Ethylhexylglycerin, Caprylyl Glycol, Sodium Polyacrylate, Sorbitan Oleate, Xanthan Gum, Panthenol, Hydrogenated Polyisobutene, Adenosine, Sodium Hyaluronate, Centella Asiatica Extract, Caprylic Capric Triglycerides, Water (and) Butylene Glycol (and) Lysine (and) Histidine (and) Arginine (and) Aspartic Acid (and) Threonine (and) Serine (and) Glutamic Acid (and) Proline (and) Glycine (and) Alanine (and) Valine (and) Isoleucine (and) Leucine (and) Tyrosine (and) Phenylalanine, Allantoin, Bisabolol.",
    "evidenceActives": "3-o-ethyl ascorbic acid (#3 on list, moderate evidence); sodium hyaluronate (#19 on list, moderate evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
@@ -114565,7 +115742,6 @@ const CTPRODUCTS = [
    "target:dark-spots",
    "target:aging",
    "inci:full",
-   "inci:brand-site",
    "inci:no-fragrance"
   ],
   "filters": {
@@ -114576,18 +115752,18 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "full",
-   "inciSrc": "brand-site",
+   "inciSrc": "listing",
    "pharma": false
   },
   "evidence": {
    "inci": "full",
-   "inciSource": "The Derma Co official website (thedermaco.com) — product page › Ingredients",
-   "inciSourceKind": "brand-site",
-   "inciSourceUrl": "https://thedermaco.com/products/50000-ppm-vitamin-c-microneedle-serum-shot-10-g",
-   "inciSourceRegion": "IN",
-   "inciMatchedTitle": "50000 PPM Vitamin C Microneedle Serum Shot with Glutathione, Panthenol & Hyaluronic Acid for Bright & Revitalized Skin - 10 g",
-   "inciMatchScore": 0.78,
-   "inciText": "Aqua, Propylene Glycol, 3-O-Ethyl Ascorbic Acid, Glycerin, Butylene Glycol, 1,2-Hexanediol, Glutathione, Sodium Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Spicule, Ethylhexyl Palmitate, Ethylhexylglycerin, Caprylyl Glycol, Sodium Polyacrylate, Sorbitan Oleate, Xanthan Gum, Panthenol, Hydrogenated Polyisobutene, Adenosine, Sodium Hyaluronate, Centella Asiatica Extract, Caprylic Capric Triglycerides, Water (and) Butylene Glycol (and) Lysine (and) Histidine (and) Arginine (and) Aspartic Acid (and) Threonine (and) Serine (and) Glutamic Acid (and) Proline (and) Glycine (and) Alanine (and) Valine (and) Isoleucine (and) Leucine (and) Tyrosine (and) Phenylalanine, Allantoin, Bisabolol",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": "Aqua, Propylene Glycol, 3-O-Ethyl Ascorbic Acid, Glycerin, Butylene Glycol, 1,2-Hexanediol, Glutathione, Sodium Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Spicule, Ethylhexyl Palmitate, Ethylhexylglycerin, Caprylyl Glycol, Sodium Polyacrylate, Sorbitan Oleate, Xanthan Gum, Panthenol, Hydrogenated Polyisobutene, Adenosine, Sodium Hyaluronate, Centella Asiatica Extract, Caprylic Capric Triglycerides, Water (and) Butylene Glycol (and) Lysine (and) Histidine (and) Arginine (and) Aspartic Acid (and) Threonine (and) Serine (and) Glutamic Acid (and) Proline (and) Glycine (and) Alanine (and) Valine (and) Isoleucine (and) Leucine (and) Tyrosine (and) Phenylalanine, Allantoin, Bisabolol.",
    "inciUnverified": null,
    "inciNote": null,
    "declarationConfidence": 1,
@@ -126523,6 +127699,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:kit",
+   "format:lip-mask",
    "ing:vitamin-c",
    "claim:brightening",
    "claim:dark-spots",
@@ -132942,7 +134119,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Heavenly Secrets — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71EWQIK4XfL._AC_UL320_.jpg"
@@ -132957,6 +134135,7 @@ const CTPRODUCTS = [
    "format:kit",
    "spf:50+",
    "pa:++++",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:rice-water",
@@ -136072,7 +137251,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.6★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/6129unDyjUL._AC_UL320_.jpg"
@@ -136085,6 +137265,7 @@ const CTPRODUCTS = [
    "format:cream",
    "spf:30",
    "pa:++",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:retinol",
@@ -140478,7 +141659,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "5★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61h8X0JYgXL._SL1500_.jpg",
@@ -140493,6 +141675,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:serum",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:bakuchiol",
@@ -147822,6 +149005,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:wash",
+   "format:cleansing-oil",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -147930,6 +149114,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:wash",
+   "format:cleansing-oil",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -148261,6 +149446,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:wash",
+   "format:cleansing-oil",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -148478,6 +149664,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:wash",
+   "format:cleansing-oil",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -148586,6 +149773,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:wash",
+   "format:cleansing-oil",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -148694,6 +149882,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:wash",
+   "format:cleansing-oil",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -148802,6 +149991,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:wash",
+   "format:cleansing-oil",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -149231,6 +150421,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:wash",
+   "format:cleansing-oil",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -155216,7 +156407,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Lotus Herbals — Established / listed Indian FMCG house",
    "buyerEvidence": "4.1★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61IqARnMxRL._AC_UL320_.jpg"
@@ -155229,6 +156421,7 @@ const CTPRODUCTS = [
    "format:cream",
    "spf:15",
    "pa:+++",
+   "water:unstated",
    "ing:vitamin-c",
    "claim:brightening",
    "claim:hydrating",
@@ -155422,7 +156615,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "4.1★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41Bztd-SjmL._AC_UL320_.jpg"
@@ -155434,6 +156628,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:cream",
    "spf:15",
+   "water:unstated",
    "ing:vitamin-c",
    "claim:spf-claim",
    "aud:unisex",
@@ -155620,7 +156815,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Forest Essentials (Mountain Valley Springs) — Established / listed Indian FMCG house",
    "buyerEvidence": "4.4★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61mNSEOhpuL._AC_UL320_.jpg"
@@ -155632,6 +156828,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:cream",
    "spf:30",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:zinc",
@@ -156229,7 +157426,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "VLCC Health Care — Established / listed Indian FMCG house",
    "buyerEvidence": "4.1★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61tqqqz16-L._AC_UL320_.jpg"
@@ -156241,6 +157439,7 @@ const CTPRODUCTS = [
    "scope:unstated",
    "format:cream",
    "spf:30",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:collagen",
    "ing:green-tea",
@@ -156332,7 +157531,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Heavenly Secrets — Indian D2C brand with its own product company",
    "buyerEvidence": "4.1★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/514QFenfNdL._AC_UL320_.jpg"
@@ -156345,6 +157545,7 @@ const CTPRODUCTS = [
    "format:oil",
    "spf:30",
    "pa:+++",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:rosehip",
    "claim:brightening",
@@ -158683,6 +159884,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:sleeping-mask",
+   "format:lip-mask",
    "ing:vitamin-c",
    "claim:hydrating",
    "claim:korean",
@@ -164304,7 +165506,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
    "buyerEvidence": "4.4★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51+J0o-QWtL._AC_UL320_.jpg"
@@ -164317,6 +165520,7 @@ const CTPRODUCTS = [
    "format:lotion",
    "spf:50",
    "pa:++++",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "claim:oil-control",
@@ -164926,7 +166130,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Pep Technologies — Indian D2C brand with its own product company",
    "buyerEvidence": "4★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61vAjEQWbZL._SL1100_.jpg",
@@ -164944,6 +166149,7 @@ const CTPRODUCTS = [
    "format:balm",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:caffeine",
@@ -165046,7 +166252,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Lotus Herbals — Established / listed Indian FMCG house",
    "buyerEvidence": "4.1★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61f7cXNS1KL._AC_UL320_.jpg"
@@ -165057,6 +166264,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:body",
    "spf:15",
+   "water:unstated",
    "ing:vitamin-c",
    "claim:oil-control",
    "claim:ayurvedic",
@@ -165459,7 +166667,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.8★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61mQTRgpn5L._AC_UL320_.jpg"
@@ -165471,6 +166680,7 @@ const CTPRODUCTS = [
    "scope:body",
    "format:lotion",
    "spf:15",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:glutathione",
    "ing:vitamin-e",
@@ -165670,7 +166880,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Beiersdorf — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51yBU+9xQBL._AC_UL320_.jpg"
@@ -165683,6 +166894,7 @@ const CTPRODUCTS = [
    "format:lotion",
    "format:serum",
    "spf:50",
+   "water:unstated",
    "ing:vitamin-c",
    "claim:brightening",
    "claim:hydrating",
@@ -165775,7 +166987,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Beiersdorf — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/419O8GL9umL._SL1001_.jpg"
@@ -165790,6 +167003,7 @@ const CTPRODUCTS = [
    "format:oil",
    "spf:15",
    "sun:mineral",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:almond",
    "ing:vitamin-e",
@@ -165886,7 +167100,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Beiersdorf — Global FMCG or beauty group",
    "buyerEvidence": "5★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51X1e55lUqL._AC_UL320_.jpg"
@@ -165898,6 +167113,7 @@ const CTPRODUCTS = [
    "scope:body",
    "format:lotion",
    "spf:15",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:cocoa-butter",
    "claim:brightening",
@@ -166320,7 +167536,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Heavenly Secrets — Indian D2C brand with its own product company",
    "buyerEvidence": "4.1★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61WBM0R6vTL._AC_UL320_.jpg"
@@ -166333,6 +167550,7 @@ const CTPRODUCTS = [
    "format:serum",
    "spf:50+",
    "pa:++++",
+   "water:unstated",
    "ing:vitamin-c",
    "claim:brightening",
    "claim:spf-claim",
@@ -166420,7 +167638,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Deconstruct Skincare — Indian D2C brand with its own product company",
    "buyerEvidence": "4.6★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41wWZyCWZDL._AC_UL320_.jpg"
@@ -166433,6 +167652,7 @@ const CTPRODUCTS = [
    "format:gel",
    "spf:50",
    "pa:++++",
+   "water:unstated",
    "ing:vitamin-c",
    "claim:brightening",
    "claim:oil-control",
@@ -166525,7 +167745,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.3★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61ymQGsSpwL._AC_UL320_.jpg"
@@ -166537,6 +167758,7 @@ const CTPRODUCTS = [
    "scope:unstated",
    "format:gel",
    "spf:50+",
+   "water:unstated",
    "ing:vitamin-c",
    "claim:de-tan",
    "claim:oil-control",
@@ -166630,7 +167852,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "VLCC Health Care — Established / listed Indian FMCG house",
    "buyerEvidence": "4.2★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "sweat resistant (per listing — not tested here, not scored)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51bnUNnoCXL._SL1200_.jpg",
@@ -166647,6 +167870,7 @@ const CTPRODUCTS = [
    "format:gel",
    "spf:60",
    "pa:++++",
+   "water:sweat",
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
    "claim:brightening",
@@ -167574,7 +168798,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Brinton Pharmaceuticals — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "4.2★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61XZGZmH7yL._AC_UL320_.jpg"
@@ -167587,6 +168812,7 @@ const CTPRODUCTS = [
    "format:lotion",
    "spf:50",
    "pa:++++",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
@@ -167685,7 +168911,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Beiersdorf — Global FMCG or beauty group",
    "buyerEvidence": "4.3★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51cDad5zzqL._AC_UL320_.jpg"
@@ -167697,6 +168924,7 @@ const CTPRODUCTS = [
    "scope:body",
    "format:lotion",
    "spf:15",
+   "water:unstated",
    "ing:vitamin-c",
    "claim:brightening",
    "claim:oil-control",
@@ -167791,7 +169019,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Beiersdorf — Global FMCG or beauty group",
    "buyerEvidence": "4.2★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61KETe6W0kL._SL1500_.jpg",
@@ -167809,6 +169038,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:oil",
    "spf:15",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:licorice",
@@ -168265,7 +169495,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Beiersdorf — Global FMCG or beauty group",
    "buyerEvidence": "4.2★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41AK7f11BGL._AC_UL320_.jpg"
@@ -168277,6 +169508,7 @@ const CTPRODUCTS = [
    "scope:body",
    "format:lotion",
    "spf:15",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:cherry-acerola",
    "claim:brightening",
@@ -168369,7 +169601,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Beiersdorf — Global FMCG or beauty group",
    "buyerEvidence": "4.1★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/612oK9UEc8L._AC_UL320_.jpg"
@@ -168382,6 +169615,7 @@ const CTPRODUCTS = [
    "format:lotion",
    "format:serum",
    "spf:15",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:retinol",
@@ -168578,7 +169812,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Beiersdorf — Global FMCG or beauty group",
    "buyerEvidence": "4.1★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51GoHSIQSlL._AC_UL320_.jpg"
@@ -168590,6 +169825,7 @@ const CTPRODUCTS = [
    "scope:body",
    "format:lotion",
    "spf:15",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:milk",
    "claim:brightening",
@@ -169213,7 +170449,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.3★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71gGL5Tz90L._AC_UL320_.jpg"
@@ -169226,6 +170463,7 @@ const CTPRODUCTS = [
    "format:gel",
    "spf:60",
    "pa:+++",
+   "water:resistant",
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
    "ing:zinc",
@@ -169649,7 +170887,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.9★ from 433 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/3/6/4/60-kojic-acid-2-and-vitamin-c-cream-pack-of-3-zeelab-original-imahffumryznnznf.jpeg?q=90",
@@ -169667,6 +170906,7 @@ const CTPRODUCTS = [
    "format:pack",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:kojic-acid",
    "claim:brightening",
@@ -169872,7 +171112,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.4★ from 49 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/v/5/c/120-kojic-acid-2-and-vitamin-c-cream-pack-of-6-zeelab-original-imahdt75hfgdxyjm.jpeg?q=90",
@@ -169889,6 +171130,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:kojic-acid",
    "claim:brightening",
@@ -169985,7 +171227,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/j/f/i/50-antifungal-cream-for-ringworm-itching-fungal-infections-cream-original-imahnhgqx2wzhk6d.jpeg?q=90",
@@ -170003,6 +171246,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:oil",
    "spf:30",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
    "ing:jojoba",
@@ -170328,7 +171572,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/5/j/g/150-vitamin-c-face-cream-alpha-arbutin-dark-spot-remover-cream-original-imahpy6jz4eqj4z6.jpeg?q=90",
@@ -170343,6 +171588,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:kit",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:alpha-arbutin",
    "ing:licorice",
@@ -170684,7 +171930,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/5/p/n/200-body-lotion-almond-oil-vitamin-c-skin-brightening-non-sticky-original-imahkfzpfv9rgkmy.jpeg?q=90",
@@ -170709,6 +171956,7 @@ const CTPRODUCTS = [
    "format:kit",
    "spf:15",
    "pa:++",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:almond",
    "ing:shea-butter",
@@ -170809,7 +172057,8 @@ const CTPRODUCTS = [
    "maker": "Lotus Herbals — Established / listed Indian FMCG house",
    "declaredManufacturer": "Lotus Herbals Color Cosmetics, 80-B & 80-C, Jharmajri, Baddi, Disst Solan - 173205 (HP) (as printed on the Flipkart listing — not scored)",
    "buyerEvidence": "4.1★ from 10,211 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/i/l/45-vitamin-c-skin-brightening-face-moisturiser-45g-lotus-original-imahd2fhygwkcujn.jpeg?q=90"
@@ -170821,6 +172070,7 @@ const CTPRODUCTS = [
    "scope:unstated",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:vitamin-c",
    "claim:brightening",
    "claim:spf-claim",
@@ -170910,7 +172160,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/l/m/v/120-0-vitamin-c-e-sunscreen-daily-sun-protection-cream-smooth-original-imahhb9yfbarym6r.jpeg?q=90",
@@ -170928,6 +172179,7 @@ const CTPRODUCTS = [
    "format:lotion",
    "spf:50",
    "pa:+++",
+   "water:resistant",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
@@ -171024,7 +172276,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "4.2★ from 20,399 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/u/c/d/50-ubtan-detan-sunscreen-with-turmeric-saffron-removes-tan-original-imah43f2hysufyyq.jpeg?q=90"
@@ -171036,6 +172289,7 @@ const CTPRODUCTS = [
    "scope:unstated",
    "spf:50",
    "pa:++++",
+   "water:unstated",
    "ing:vitamin-c",
    "claim:brightening",
    "claim:spf-claim",
@@ -171127,7 +172381,8 @@ const CTPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "declaredManufacturer": "A G Industries (as printed on the Flipkart listing — not scored)",
    "buyerEvidence": "4.2★ from 7,368 ratings",
-   "concernBasis": "Dark spots — product type, ethyl ascorbic acid #16 on INCI; Aging — ethyl ascorbic acid #16 on INCI (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type, ethyl ascorbic acid #16 on INCI; Aging — ethyl ascorbic acid #16 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/4/x/p/600-vitamin-c-sunscreen-body-lotion-spf-30-300-ml-pack-of-2-original-imagemn2gfez74zp.jpeg?q=90",
@@ -171142,6 +172397,7 @@ const CTPRODUCTS = [
    "scope:body",
    "format:lotion",
    "spf:30",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:honey",
    "claim:hydrating",
@@ -173337,7 +174593,7 @@ const CTPRODUCTS = [
  {
   "id": "abh-itmf760e9d116225",
   "brand": "ABH",
-  "model": "Vitamin C & Hyaluronic Acid Face Serum – Skin smoothning & Sk …",
+  "model": "Vitamin C & Hyaluronic Acid Face Serum – Skin smoothning & Skin Brighter Men & Women",
   "price": 248,
   "capacityLine": "100 g",
   "materialLine": "vitamin C + salicylic acid (BHA) + glycolic acid",
@@ -173387,7 +174643,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/abh-vitamin-c-hyaluronic-acid-face-serum-skin-smoothning-brighter-men-women/p/itmf760e9d116225",
   "buyStore": "Flipkart",
-  "title": "ABH Vitamin C & Hyaluronic Acid Face Serum – Skin smoothning & Sk …",
+  "title": "ABH Vitamin C & Hyaluronic Acid Face Serum – Skin smoothning & Skin Brighter Men & Women",
   "tags": [
    "scope:face",
    "format:gel",
@@ -173465,7 +174721,7 @@ const CTPRODUCTS = [
  {
   "id": "saltspire-itm50423cb3597d0",
   "brand": "SALTSPIRE",
-  "model": "Lactic Acid Renewal Serum | Lactic Acid + Vitamin C + F …",
+  "model": "Lactic Acid Renewal Serum | Lactic Acid + Vitamin C + Ferulic Acid + Vitamin E | Glow & Sm…",
   "price": 243,
   "capacityLine": "30 ml",
   "materialLine": "vitamin C + lactic acid + vitamin E",
@@ -173515,7 +174771,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/saltspire-lactic-acid-renewal-serum-vitamin-c-ferulic-e-glow-smooth-skin-21-days-exfoliating-brightening-collagen-support-face-30ml/p/itm50423cb3597d0",
   "buyStore": "Flipkart",
-  "title": "SALTSPIRE Lactic Acid Renewal Serum | Lactic Acid + Vitamin C + F …",
+  "title": "SALTSPIRE Lactic Acid Renewal Serum | Lactic Acid + Vitamin C + Ferulic Acid + Vitamin E | Glow & Smooth Skin in 21 Days | Exfoliating, Brightening & Collagen Support Face Serum | 30ml",
   "tags": [
    "scope:face",
    "format:serum",
@@ -173918,9 +175174,190 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "pattaya-itm32b433b8fa360",
+  "brand": "PATTAYA",
+  "model": "PATTAYA Thailand Formulation Tanning & Sun Damage Face Serum - 30ml | With Alpha Arbutin, …",
+  "price": 427,
+  "capacityLine": "30 ml",
+  "materialLine": "vitamin C + alpha arbutin + tranexamic acid",
+  "featureLine": "Serum · Paraben-free · ₹1423/100ml",
+  "highlight": "Live Flipkart listing. Scored from its published INCI list (Flipkart listing — Composition field): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "ascorbic acid high on the INCI list (strong evidence); alpha-arbutin high on the INCI list (moderate evidence)"
+  ],
+  "cons": [
+   "Added fragrance (parfum): fragrance",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 3.9,
+   "skin": 5.9,
+   "trust": 5.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹1423/100ml",
+   "format": "Serum",
+   "keyIngredients": "vitamin C, alpha arbutin, tranexamic acid, aloe vera, squalane (per listing)",
+   "freeFrom": "Paraben-free, Sulfate/SLS-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Aqua, Edta, Phenoxyethanol, Hydroxyethyl Cellulose, Glycerin, Propylene Glycol, Aloe Barbadensis Leaf Extract, Vitamin C, Alpha Arbutin, TRANEXAMIC ACID, Carrot Extract, Squalane, Fragrance.",
+   "evidenceActives": "ascorbic acid (#8 on list, strong evidence); alpha-arbutin (#9 on list, moderate evidence); tranexamic acid (#10 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/k/5/m/30-pattaya-thailand-formulation-tanning-sun-damage-face-serum-original-imahpg3z44ber9dm.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/p/4/5/30-pattaya-thailand-formulation-tanning-sun-damage-face-serum-original-imahpg3zggqwhbqq.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/l/k/y/30-pattaya-thailand-formulation-tanning-sun-damage-face-serum-original-imahpg3zzupfwfth.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/l/v/d/30-pattaya-thailand-formulation-tanning-sun-damage-face-serum-original-imahpg3zfdfzbhbe.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/pattaya-thailand-formulation-tanning-sun-damage-face-serum-30ml-alpha-arbutin-vitamin-c-tranexamic-acid-skin-brightening-dark-spots-de-tanning-made-every-type/p/itm32b433b8fa360",
+  "buyStore": "Flipkart",
+  "title": "PATTAYA PATTAYA Thailand Formulation Tanning & Sun Damage Face Serum - 30ml | With Alpha Arbutin, Vitamin C & Tranexamic Acid for Skin Brightening, Dark Spots & De-Tanning | Made For Every Skin Type",
+  "tags": [
+   "scope:face",
+   "format:serum",
+   "format:pack",
+   "water:unstated",
+   "ing:vitamin-c",
+   "ing:alpha-arbutin",
+   "ing:tranexamic-acid",
+   "ing:aloe-vera",
+   "ing:squalane",
+   "ing:glycerin",
+   "claim:brightening",
+   "claim:de-tan",
+   "claim:dark-spots",
+   "skin:all",
+   "free:paraben",
+   "free:sulfate",
+   "free:vegan",
+   "aud:women",
+   "size:travel",
+   "rating:none",
+   "store:flipkart",
+   "target:dark-spots",
+   "inci:full"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "full",
+   "inciSrc": "listing",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": "Aqua, Edta, Phenoxyethanol, Hydroxyethyl Cellulose, Glycerin, Propylene Glycol, Aloe Barbadensis Leaf Extract, Vitamin C, Alpha Arbutin, TRANEXAMIC ACID, Carrot Extract, Squalane, Fragrance.",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 5,
+     "core": false,
+     "trace": true,
+     "src": "glycerin"
+    },
+    {
+     "name": "aloe barbadensis leaf extract",
+     "grade": "B",
+     "position": 7,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "ascorbic acid",
+     "grade": "A",
+     "position": 8,
+     "core": true,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "alpha-arbutin",
+     "grade": "B",
+     "position": 9,
+     "core": true,
+     "trace": true,
+     "src": "pigment"
+    },
+    {
+     "name": "tranexamic acid",
+     "grade": "B",
+     "position": 10,
+     "core": true,
+     "trace": true,
+     "src": "tranexamic"
+    },
+    {
+     "name": "squalane",
+     "grade": "B",
+     "position": 12,
+     "core": false,
+     "trace": true,
+     "src": "squalane"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "squalane"
+   ],
+   "formulaNotes": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
   "id": "manarya-itm8a1cf84f32a58",
   "brand": "Manarya",
-  "model": "Sun’s Heart 3% Tranexamic Acid Vitamin C Face Serum for M …",
+  "model": "Sun’s Heart 3% Tranexamic Acid Vitamin C Face Serum for Melasma & Hyperpigmentation | Brig…",
   "price": 259,
   "capacityLine": "30 ml",
   "materialLine": "vitamin C + tranexamic acid",
@@ -173966,7 +175403,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/manarya-suns-heart-3-tranexamic-acid-vitamin-c-face-serum-melasma-hyperpigmentation-brightening-dark-spots-reduction-even-skin-tone/p/itm8a1cf84f32a58",
   "buyStore": "Flipkart",
-  "title": "Manarya Sun’s Heart 3% Tranexamic Acid Vitamin C Face Serum for M …",
+  "title": "Manarya Sun’s Heart 3% Tranexamic Acid Vitamin C Face Serum for Melasma & Hyperpigmentation | Brightening, Dark Spots Reduction & Even Skin Tone",
   "tags": [
    "scope:face",
    "format:serum",
@@ -174029,7 +175466,7 @@ const CTPRODUCTS = [
  {
   "id": "sensorial-itmefd8f6e8d6817",
   "brand": "sensorial",
-  "model": "Vitamin C (10%) Face Serum with Tranexamic Acid (3%) & …",
+  "model": "Vitamin C (10%) Face Serum with Tranexamic Acid (3%) & Niacinamide (5%) | Brightening Glow…",
   "price": 414,
   "capacityLine": "30 ml",
   "materialLine": "vitamin C + niacinamide + tranexamic acid",
@@ -174079,7 +175516,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/sensorial-vitamin-c-10-face-serum-tranexamic-acid-3-niacinamide-5-brightening-glow-radiant-skin-lightweight-fast-absorbing-30-ml-suitable-men-women/p/itmefd8f6e8d6817",
   "buyStore": "Flipkart",
-  "title": "sensorial Vitamin C (10%) Face Serum with Tranexamic Acid (3%) & …",
+  "title": "sensorial Vitamin C (10%) Face Serum with Tranexamic Acid (3%) & Niacinamide (5%) | Brightening Glow Serum for Radiant Skin| Lightweight, Fast Absorbing | 30 ml | Suitable for Men and Women",
   "tags": [
    "scope:face",
    "format:gel",
@@ -174143,9 +175580,133 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "serenite-itmecabf293fcb0d",
+  "brand": "serenite",
+  "model": "Pigment Perfect Toner with Tranexamic Acid & Vitamin C For Brightening Face Mist Men & Wom…",
+  "price": 270,
+  "capacityLine": "50 g",
+  "materialLine": "vitamin C + PHA + hyaluronic acid",
+  "featureLine": "Scrub / exfoliant · Paraben-free · ₹540/100g",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 4 ingredients named — formula unscored",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹540/100g",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "vitamin C, PHA, hyaluronic acid, tranexamic acid, rose (per listing)",
+   "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: Tranexamic Acid, Vitamin C, Zinc PCA, and mineral salts",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/6/l/9/100-pigment-perfect-toner-with-tranexamic-acid-vitamin-c-for-original-imahh3msygupjwyw.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/x/t/p/100-pigment-perfect-toner-with-tranexamic-acid-vitamin-c-for-original-imahkr4fznx6dqeh.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/y/t/p/100-pigment-perfect-toner-with-tranexamic-acid-vitamin-c-for-original-imahkr4y9q7zn9yq.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/d/w/5/100-pigment-perfect-toner-with-tranexamic-acid-vitamin-c-for-original-imahkr4fqxfdjczd.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/t/p/i/100-pigment-perfect-toner-with-tranexamic-acid-vitamin-c-for-original-imahkr4ydcrztxmz.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/serenite-pigment-perfect-toner-tranexamic-acid-vitamin-c-brightening-face-mist-men-women/p/itmecabf293fcb0d",
+  "buyStore": "Flipkart",
+  "title": "serenite Pigment Perfect Toner with Tranexamic Acid & Vitamin C For Brightening Face Mist Men & Women",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:toner",
+   "format:mist",
+   "format:oil",
+   "format:pack",
+   "format:capsule",
+   "format:kit",
+   "ing:vitamin-c",
+   "ing:pha",
+   "ing:hyaluronic-acid",
+   "ing:tranexamic-acid",
+   "ing:rose",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:whitening-claim",
+   "claim:pores",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "skin:dry",
+   "skin:all",
+   "free:paraben",
+   "free:alcohol",
+   "free:vegan",
+   "aud:women",
+   "size:travel",
+   "rating:none",
+   "store:flipkart",
+   "target:dark-spots",
+   "inci:partial"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Tranexamic Acid, Vitamin C, Zinc PCA, and mineral salts",
+   "inciNote": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 0.75,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
   "id": "nuerma-science-itmce1bc8ec18b13",
   "brand": "Nuerma Science",
-  "model": "2% Hyaluronic Acid Face Serum with Vitamin C & E f …",
+  "model": "2% Hyaluronic Acid Face Serum with Vitamin C & E for Intense Cell Moisturization",
   "price": 225,
   "capacityLine": "30 ml",
   "materialLine": "vitamin C + hyaluronic acid",
@@ -174185,7 +175746,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.4★ from 123 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/g/b/y/30-2-hyaluronic-acid-face-serum-with-vitamin-c-e-for-intense-original-imaggg5hzwgd4jgb.jpeg?q=90",
@@ -174196,10 +175758,11 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/nuerma-science-2-hyaluronic-acid-face-serum-vitamin-c-e-intense-cell-moisturization/p/itmce1bc8ec18b13",
   "buyStore": "Flipkart",
-  "title": "Nuerma Science 2% Hyaluronic Acid Face Serum with Vitamin C & E f …",
+  "title": "Nuerma Science 2% Hyaluronic Acid Face Serum with Vitamin C & E for Intense Cell Moisturization",
   "tags": [
    "scope:both",
    "format:serum",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
    "claim:brightening",
@@ -174260,6 +175823,236 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "koto-itm9bf3f2f443aea",
+  "brand": "Koto",
+  "model": "Korean Pigmentation Serum for Dark Spots, Hyperpigmentation & Uneven Skin Tone | 3% Tranex…",
+  "price": 724,
+  "capacityLine": "30 ml",
+  "materialLine": "vitamin C + niacinamide + alpha arbutin",
+  "featureLine": "Serum · ₹2413/100ml",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Seller “key ingredients” line — formula unscored",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹2413/100ml",
+   "format": "Serum",
+   "keyIngredients": "vitamin C, niacinamide, alpha arbutin, tranexamic acid (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Seller “key ingredients” line — no preservative or formulation excipients declared, so this is not a full INCI declaration and formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: Aqua, Tranexamic Acid, Niacinamide, Alpha-Arbutin, Propylene Glycol, 3-O-Ethyl Ascorbic Acid, Ginseng Root Extract,",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/j/x/5/30-korean-pigmentation-serum-for-dark-spots-hyperpigmentation-original-imahqfpxtktu2s6h.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/w/8/5/30-korean-pigmentation-serum-for-dark-spots-hyperpigmentation-original-imahqfpxy37dehsh.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/g/e/3/30-korean-pigmentation-serum-for-dark-spots-hyperpigmentation-original-imahqfpxmxzzynsz.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/g/p/j/30-korean-pigmentation-serum-for-dark-spots-hyperpigmentation-original-imahqfpxmfhx6gnt.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/3/s/0/30-korean-pigmentation-serum-for-dark-spots-hyperpigmentation-original-imahqfpxskrpf4ts.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/koto-korean-pigmentation-serum-dark-spots-hyperpigmentation-uneven-skin-tone-3-tranexamic-acid-niacinamide-2-alpha-arbutin-vitamin-c-face-all-types/p/itm9bf3f2f443aea",
+  "buyStore": "Flipkart",
+  "title": "Koto Korean Pigmentation Serum for Dark Spots, Hyperpigmentation & Uneven Skin Tone | 3% Tranexamic Acid + 3% Niacinamide + 2% Alpha Arbutin & Vitamin C | Face Serum for All Skin Types",
+  "tags": [
+   "scope:face",
+   "format:serum",
+   "format:pack",
+   "ing:vitamin-c",
+   "ing:niacinamide",
+   "ing:alpha-arbutin",
+   "ing:tranexamic-acid",
+   "ing:ginseng",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:korean",
+   "skin:all",
+   "aud:women",
+   "size:travel",
+   "rating:none",
+   "store:flipkart",
+   "target:dark-spots",
+   "inci:partial"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Aqua, Tranexamic Acid, Niacinamide, Alpha-Arbutin, Propylene Glycol, 3-O-Ethyl Ascorbic Acid, Ginseng Root Extract,",
+   "inciNote": "Seller “key ingredients” line — no preservative or formulation excipients declared, so this is not a full INCI declaration and formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "dr-optimalist-itma74c02e430e24",
+  "brand": "Dr. Optimalist",
+  "model": "Derma Optimist | Dark Spot & Pigmentation Reduction Face Serum | Glycolic Acid 5% + Vitami…",
+  "price": 450,
+  "capacityLine": "30 ml",
+  "materialLine": "vitamin C + niacinamide + salicylic acid (BHA)",
+  "featureLine": "Serum · ₹1500/100ml",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No water phase or preservative declared — formula unscored",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹1500/100ml",
+   "format": "Serum",
+   "keyIngredients": "vitamin C, niacinamide, salicylic acid (BHA), glycolic acid, lactic acid, hyaluronic acid, kojic acid, alpha arbutin, tranexamic acid (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim, Acne/blemish claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No water phase or preservative declared — a seller “key ingredients” line, not a full INCI declaration, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Specifications › Composition",
+   "inciList": "Unverified seller line: Centella Asiatica Leaf Water, Retinol – 1%, Alpha Arbutin – 1%, Kojic Acid – 2%, Niacinamide – 2%, Licorice Extract – 2%, Hyaluronic Acid – 2%, Tranexamic Acid – 2%, Vitamin C – 5%, Glycolic Acid – 5%",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "declaredManufacturer": "JANKI HERBALS PVT. LTD. (as printed on the Flipkart listing — not scored)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/h/x/v/30-derma-optimist-dark-spot-pigmentation-reduction-face-serum-original-imahnzdm3w25yqrw.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/i/1/b/30-derma-optimist-dark-spot-pigmentation-reduction-face-serum-original-imahnzdm4jdtu5ng.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/e/r/2/30-derma-optimist-dark-spot-pigmentation-reduction-face-serum-original-imahnzdmdghsksn3.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/5/b/k/30-derma-optimist-dark-spot-pigmentation-reduction-face-serum-original-imahnzdm3hfctu8s.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/e/p/d/30-derma-optimist-dark-spot-pigmentation-reduction-face-serum-original-imahnzdmaqqkfnr3.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/dr-optimalist-derma-optimist-dark-spot-pigmentation-reduction-face-serum-glycolic-acid-5-vitamin-c-tranexamic-2-kojic/p/itma74c02e430e24",
+  "buyStore": "Flipkart",
+  "title": "Dr. Optimalist | Derma Optimist | Dark Spot & Pigmentation Reduction Face Serum | Glycolic Acid 5% + Vitamin C 5% + Tranexamic Acid 2% + Kojic Acid 2%",
+  "tags": [
+   "scope:face",
+   "format:serum",
+   "ing:vitamin-c",
+   "ing:niacinamide",
+   "ing:salicylic-acid-bha",
+   "ing:glycolic-acid",
+   "ing:lactic-acid",
+   "ing:azelaic-acid",
+   "ing:hyaluronic-acid",
+   "ing:kojic-acid",
+   "ing:alpha-arbutin",
+   "ing:tranexamic-acid",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:whitening-claim",
+   "claim:acne",
+   "claim:scars",
+   "aud:unisex",
+   "size:travel",
+   "rating:none",
+   "store:flipkart",
+   "target:dark-spots",
+   "inci:partial"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Specifications › Composition",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Centella Asiatica Leaf Water, Retinol – 1%, Alpha Arbutin – 1%, Kojic Acid – 2%, Niacinamide – 2%, Licorice Extract – 2%, Hyaluronic Acid – 2%, Tranexamic Acid – 2%, Vitamin C – 5%, Glycolic Acid – 5%",
+   "inciNote": "No water phase or preservative declared — a seller “key ingredients” line, not a full INCI declaration, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
   "id": "erbali-itm5d5096f08d6d4",
   "brand": "Erbali",
   "model": "Vitamin C Face Serum for Glowing Skin | Reduces Dark Spots …",
@@ -174300,7 +176093,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.9★ from 156 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/e/w/g/30-vitamin-c-face-serum-for-glowing-skin-reduces-dark-spots-original-imahm57m4upbfsrz.jpeg?q=90",
@@ -174317,6 +176111,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:wash",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:ferulic-acid",
    "claim:brightening",
@@ -174639,7 +176434,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/r/c/x/30-vitamin-c-serum-brightens-skin-tone-boosts-glow-30ml-bkf-original-imahgy2uvewdt2rh.jpeg?q=90",
@@ -174654,6 +176450,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
+   "water:unstated",
    "ing:vitamin-c",
    "claim:brightening",
    "claim:ayurvedic",
@@ -174746,7 +176543,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/v/z/z/60-vitamin-c-serum-for-face-with-vitamin-e-brightening-face-original-imahpfzntgr35xs5.jpeg?q=90",
@@ -174763,6 +176561,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:vitamin-e",
    "claim:brightening",
@@ -175482,7 +177281,7 @@ const CTPRODUCTS = [
  {
   "id": "dermatreat-essentials-itmededc75765a82",
   "brand": "DermaTreat Essentials",
-  "model": "DermaTreat Essentials 10% Vitamin C Face Se …",
+  "model": "DermaTreat Essentials 10% Vitamin C Face Serum with Niacinamide & Hyaluronic Acid | Reduce…",
   "price": 180,
   "capacityLine": "5 ml",
   "materialLine": "vitamin C + niacinamide + hyaluronic acid",
@@ -175531,7 +177330,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/dermatreat-essentials-10-vitamin-c-face-serum-niacinamide-hyaluronic-acid-reduces-dark-spots-treats-pigmentation-glowing-skin/p/itmededc75765a82",
   "buyStore": "Flipkart",
-  "title": "DermaTreat Essentials DermaTreat Essentials 10% Vitamin C Face Se …",
+  "title": "DermaTreat Essentials DermaTreat Essentials 10% Vitamin C Face Serum with Niacinamide & Hyaluronic Acid | Reduces Dark Spots & Treats Pigmentation | For Glowing Skin",
   "tags": [
    "scope:face",
    "format:serum",
@@ -175854,7 +177653,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "5★ from 52 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/n/a/3/30-0-natural-vitamin-c-face-serum-for-pigmentation-anti-aging-original-imahp7b8ezdtekwc.jpeg?q=90",
@@ -175870,6 +177670,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:rosehip",
    "ing:sea-buckthorn",
@@ -175967,7 +177768,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/g/x/v/30-vitamin-c-face-serum-supports-even-skin-tone-anti-ageing-w17-original-imahn2rcr4asgkvr.jpeg?q=90",
@@ -175983,6 +177785,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
    "ing:turmeric",
@@ -176082,7 +177885,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.4★ from 35 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/6/n/l/30-vitamin-c-face-serum-30ml-hydrating-brightening-serum-for-original-imahkz8dzgczmm2f.jpeg?q=90",
@@ -176098,6 +177902,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:glycerin",
    "claim:brightening",
@@ -176192,7 +177997,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4★ from 27 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/l/9/a/30-vitamin-c-serum-with-hyaluronic-acid-for-radiant-and-glowing-original-imahkf3kmzgmq9gw.jpeg?q=90",
@@ -176208,6 +178014,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
    "claim:brightening",
@@ -176300,7 +178107,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.8★ from 16 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/w/p/c/30-advance-vitamin-c-face-serum-for-dark-spots-pigmentation-glow-original-imahghfgqez9prza.jpeg?q=90",
@@ -176316,6 +178124,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:wash",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
    "ing:vitamin-e",
@@ -179367,7 +181176,7 @@ const CTPRODUCTS = [
  {
   "id": "nuerma-science-itmeda2896ae0761",
   "brand": "Nuerma Science",
-  "model": "Vitamin C Serum with hyaluronic acid For face Anti …",
+  "model": "Vitamin C Serum with hyaluronic acid For face Anti Ageing, Brightening and Whitening Serum",
   "price": 130,
   "capacityLine": "30 ml",
   "materialLine": "vitamin C + hyaluronic acid",
@@ -179416,7 +181225,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/nuerma-science-vitamin-c-serum-hyaluronic-acid-face-anti-ageing-brightening-whitening/p/itmeda2896ae0761",
   "buyStore": "Flipkart",
-  "title": "Nuerma Science Vitamin C Serum with hyaluronic acid For face Anti …",
+  "title": "Nuerma Science Vitamin C Serum with hyaluronic acid For face Anti Ageing, Brightening and Whitening Serum",
   "tags": [
    "scope:face",
    "format:serum",
@@ -179513,7 +181322,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.8★ from 25 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/fairness/t/o/g/30-vitamin-c-serum-for-face-anti-aging-serum-hydrating-original-imah972uuysvhfzb.jpeg?q=90",
@@ -179528,6 +181338,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
+   "water:unstated",
    "ing:vitamin-c",
    "claim:brightening",
    "claim:dark-spots",
@@ -179621,7 +181432,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/v/p/y/vitamin-c-serum-10-and-ferulic-acid-0-5-skin-brightening-uv-original-imahjgyee5r7w2th.jpeg?q=90",
@@ -179643,6 +181455,7 @@ const CTPRODUCTS = [
    "format:peel",
    "format:powder",
    "format:kit",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:kojic-acid",
@@ -179969,7 +181782,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.5★ from 15 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/y/m/x/60-10-vitamin-c-face-serum-with-niacinamide-glutathione-pack-of-original-imahz4uvcbvvxcbz.jpeg?q=90",
@@ -179986,6 +181800,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
@@ -180601,7 +182416,7 @@ const CTPRODUCTS = [
  {
   "id": "blue-nectar-itm00be099322aff",
   "brand": "Blue Nectar",
-  "model": "Natural Vitamin C Face Serum with Hyaluronic Acid for …",
+  "model": "Natural Vitamin C Face Serum with Hyaluronic Acid for Glowing Skin",
   "price": 720,
   "capacityLine": "Quantity not stated",
   "materialLine": "vitamin C + hyaluronic acid",
@@ -180626,7 +182441,7 @@ const CTPRODUCTS = [
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
-   "benefit": "Not stated in listing",
+   "benefit": "Brightening/glow claim",
    "audience": "Unisex / not stated",
    "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
    "skinType": "Not stated in listing",
@@ -180651,12 +182466,13 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/blue-nectar-natural-vitamin-c-face-serum-hyaluronic-acid-glowing-skin/p/itm00be099322aff",
   "buyStore": "Flipkart",
-  "title": "Blue Nectar Natural Vitamin C Face Serum with Hyaluronic Acid for …",
+  "title": "Blue Nectar Natural Vitamin C Face Serum with Hyaluronic Acid for Glowing Skin",
   "tags": [
    "scope:face",
    "format:serum",
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
+   "claim:brightening",
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
@@ -180744,7 +182560,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "5★ from 23 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/c/g/l/30-10-vitamin-c-face-serum-for-skin-brightening-hyaluronic-acid-original-imahqyfydpkrcczh.jpeg?q=90",
@@ -180760,6 +182577,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
    "ing:glutathione",
@@ -181409,7 +183227,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/x/f/i/30-vitamin-c-face-serum-natural-glow-enhancer-for-skin-care-bkf-original-imahgy2u92a34gdk.jpeg?q=90",
@@ -181424,6 +183243,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
+   "water:unstated",
    "ing:vitamin-c",
    "claim:brightening",
    "claim:ayurvedic",
@@ -181515,7 +183335,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.7★ from 1,189 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/8/r/0/30-vitamin-c-face-serum-for-brightening-anti-aging-spotless-skin-original-imahf8kf3jwr6unn.jpeg?q=90",
@@ -181531,6 +183352,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:vitamin-c",
    "claim:brightening",
    "claim:anti-aging",
@@ -181730,7 +183552,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/c/1/c/90-triple-pack-vitamin-c-serum-daily-brightening-skincare-30ml-original-imahgy2va7xz6sfq.jpeg?q=90",
@@ -181746,6 +183569,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:vitamin-c",
    "claim:brightening",
    "claim:ayurvedic",
@@ -181906,7 +183730,7 @@ const CTPRODUCTS = [
  {
   "id": "thriveco-itm3b408c823b07d",
   "brand": "ThriveCo",
-  "model": "10% Vitamin C Serum with Hyaluronic Acid | Reduces Dark …",
+  "model": "10% Vitamin C Serum with Hyaluronic Acid | Reduces Dark Spots, Dull & Aging Skin",
   "price": 359,
   "capacityLine": "Quantity not stated",
   "materialLine": "vitamin C + hyaluronic acid",
@@ -181942,6 +183766,7 @@ const CTPRODUCTS = [
    "inciSource": "ThriveCo official website (thriveco.in) — product page › Ingredients",
    "inciSourceUrl": "https://thriveco.in/products/vitamin-c-serum-with-hyaluronic-acid",
    "inciMatchedName": "10% Vitamin C Serum with Hyaluronic Acid, 30ml (name match 100%)",
+   "listingIngredientLine": "Vitamin C 10%, Hyaluronic Acid (as printed on the Flipkart listing — incomplete, not scored)",
    "inciList": "Aqua, Niacinamide, Propanediol, Dimethyl Isosorbide, Polyalkylene Glycol Mono Butyl Ether, Zinc PCA, Xanthan Gum, Phenoxyethanol, Ethylhexylglycerin,Tetrasodium EDTA",
    "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
@@ -181959,14 +183784,16 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/thriveco-10-vitamin-c-serum-hyaluronic-acid-reduces-dark-spots-dull-aging-skin/p/itm3b408c823b07d",
   "buyStore": "Flipkart",
-  "title": "ThriveCo 10% Vitamin C Serum with Hyaluronic Acid | Reduces Dark …",
+  "title": "ThriveCo 10% Vitamin C Serum with Hyaluronic Acid | Reduces Dark Spots, Dull & Aging Skin",
   "tags": [
    "scope:unstated",
    "format:serum",
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
+   "claim:dark-spots",
    "claim:hydrating",
    "claim:korean",
+   "skin:mature",
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
@@ -182182,7 +184009,8 @@ const CTPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.3★ from 81 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/i/i/v/30-10-vitamin-c-serum-fades-dark-spots-wrinkles-brightens-clariv-original-imahz4s3zwbeypr7.jpeg?q=90",
@@ -182198,6 +184026,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:vitamin-c",
    "claim:brightening",
    "claim:dark-spots",
@@ -182431,6 +184260,117 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "rosebrite-itmaffe15934f506",
+  "brand": "RoseBrite",
+  "model": "Vitamin C Dark Spot Corrector – Reduces Pigmentation, Evens Tone & Enhances Glow for Brigh…",
+  "price": 149,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "vitamin C",
+  "featureLine": "Serum",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only headline actives are listed — formula unscored",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 5.3
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Serum",
+   "keyIngredients": "vitamin C (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim, Acne/blemish claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "3.9/5 (423 ratings, Flipkart)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only headline actives are listed — no base / preservative ingredients, so this is not a full INCI declaration and formula and safety are unscored",
+   "inciSource": "Flipkart listing — Specifications › Composition",
+   "inciList": "Unverified seller line: Vitamin C, Niacinamide, Hyaluronic Acid, Ferulic Acid, Vitamin E, Tri Collagen",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "declaredManufacturer": "AARNA LIFE CARE (as printed on the Flipkart listing — not scored)",
+   "buyerEvidence": "3.9★ from 423 ratings",
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/s/1/b/30-vitamin-c-10-brightening-face-serum-with-niacinamide-5-for-original-imahavmt3qrvugqb.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/d/i/o/30-vitamin-c-10-brightening-face-serum-with-niacinamide-5-for-original-imahavmtydtgbsnv.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/x/h/x/30-vitamin-c-10-brightening-face-serum-with-niacinamide-5-for-original-imahavmtgfhbtdyg.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/p/f/z/30-vitamin-c-10-face-serum-with-niacinamide-5-hyaluronic-acid-original-imahaxtxutywy4fk.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/s/x/m/30-vitamin-c-serum-for-skin-brightening-and-hydration-with-original-imahmhpsr5pee29f.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/rosebrite-vitamin-c-dark-spot-corrector-reduces-pigmentation-evens-tone-enhances-glow-brighter-clearer-skin/p/itmaffe15934f506",
+  "buyStore": "Flipkart",
+  "title": "RoseBrite Vitamin C Dark Spot Corrector – Reduces Pigmentation, Evens Tone & Enhances Glow for Brighter, Clearer Skin",
+  "tags": [
+   "scope:both",
+   "format:serum",
+   "ing:vitamin-c",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:acne",
+   "claim:hydrating",
+   "skin:oily",
+   "skin:combination",
+   "skin:sensitive",
+   "skin:acne-prone",
+   "skin:all",
+   "aud:unisex",
+   "rating:3.5",
+   "store:flipkart",
+   "target:dark-spots",
+   "inci:partial"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Specifications › Composition",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Vitamin C, Niacinamide, Hyaluronic Acid, Ferulic Acid, Vitamin E, Tri Collagen",
+   "inciNote": "Only headline actives are listed — no base / preservative ingredients, so this is not a full INCI declaration and formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.9★ from 423 ratings"
+  }
+ },
+ {
   "id": "unbranded-itmf2d92fdcb89cf",
   "brand": "Unbranded",
   "model": "7 Days Ubtan Vitamin C Serum For Natural Glowing Beauty Pigmentat …",
@@ -182577,7 +184517,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.9★ from 35 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/i/q/t/30-20-vitamin-c-e-and-10-niacinamide-face-serum-for-age-defying-original-imahgknyk6gxxqgg.jpeg?q=90",
@@ -182593,6 +184534,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
@@ -182654,30 +184596,30 @@ const CTPRODUCTS = [
  {
   "id": "skinlure-itmc7d633e2e26f9",
   "brand": "Skinlure",
-  "model": "Brightening & Hydrating Face Serum with Vitamin C, Niaci …",
+  "model": "Brightening & Hydrating Face Serum with Vitamin C, Niacinamide & Hyaluronic Acid",
   "price": 338,
   "capacityLine": "Quantity not stated",
-  "materialLine": "vitamin C",
+  "materialLine": "vitamin C + niacinamide + hyaluronic acid",
   "featureLine": "Serum",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "Well-reviewed: 4.9★ from 7 ratings"
   ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Only 5 ingredients named — formula unscored",
    "Maker not verified — no parent company found"
   ],
   "scores": {
    "ingredients": 0,
    "skin": 0,
-   "trust": 3.5,
+   "trust": 3.8,
    "experience": 6.1
   },
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
    "format": "Serum",
-   "keyIngredients": "vitamin C (per listing)",
+   "keyIngredients": "vitamin C, niacinamide, hyaluronic acid (per listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
@@ -182687,12 +184629,13 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.9/5 (7 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
+   "inciStatus": "Only 5 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Specifications › Composition",
+   "inciList": "Unverified seller line: Vitamin C, Vitamin B3, Hyaluronic Acid, D-Panthenol, Glycerin",
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
+   "declaredManufacturer": "The Drona Cosmetics, Gujarat (as printed on the Flipkart listing — not scored)",
    "buyerEvidence": "4.9★ from 7 ratings",
    "concernBasis": "Dark spots — product type (matching only — not proof it works)"
   },
@@ -182705,18 +184648,20 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/skinlure-brightening-hydrating-face-serum-vitamin-c-niacinamide-hyaluronic-acid/p/itmc7d633e2e26f9",
   "buyStore": "Flipkart",
-  "title": "Skinlure Brightening & Hydrating Face Serum with Vitamin C, Niaci …",
+  "title": "Skinlure Brightening & Hydrating Face Serum with Vitamin C, Niacinamide & Hyaluronic Acid",
   "tags": [
    "scope:face",
    "format:serum",
    "ing:vitamin-c",
+   "ing:niacinamide",
+   "ing:hyaluronic-acid",
    "claim:brightening",
    "claim:hydrating",
    "aud:unisex",
    "rating:4.5",
    "store:flipkart",
    "target:dark-spots",
-   "inci:none"
+   "inci:partial"
   ],
   "filters": {
    "actives": true,
@@ -182725,23 +184670,23 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
+   "inci": "partial",
    "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Specifications › Composition",
+   "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
    "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
+   "inciUnverified": "Vitamin C, Vitamin B3, Hyaluronic Acid, D-Panthenol, Glycerin",
+   "inciNote": "Only 5 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
    "declarationConfidence": null,
-   "recognised": null,
+   "recognised": 1,
    "actives": [],
    "support": [],
    "formulaNotes": [],
@@ -182798,7 +184743,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/z/p/m/30-vitamin-c-s3-daily-glow-face-serum-ondps-original-imahhube8jvzbqfk.jpeg?q=90",
@@ -182816,6 +184762,7 @@ const CTPRODUCTS = [
    "format:pack",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:collagen",
    "claim:brightening",
@@ -183136,7 +185083,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-body-skin-treatment/q/8/8/30-10-vitamin-c-serum-2xs-face-serum-for-women-men-brightens-original-imahzfqjaqgu92ft.jpeg?q=90",
@@ -183152,6 +185100,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:vitamin-c",
    "claim:brightening",
    "claim:dark-spots",
@@ -183251,7 +185200,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.7★ from 5,137 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/n/u/r/30-vitamin-c-face-serum-for-clear-and-brighter-skin-reduces-dark-original-imahf8jybmxpktxj.jpeg?q=90",
@@ -183267,6 +185217,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:vitamin-c",
    "claim:brightening",
    "claim:dark-spots",
@@ -183360,7 +185311,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/g/t/h/30-20-vitamin-c-10-niacinamide-day-serum-noskip-original-imahzc9zmbwe86ha.jpeg?q=90",
@@ -183376,6 +185328,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:lactic-acid",
@@ -183584,7 +185537,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/o/n/s/30-ax60-face-serum-for-glowing-skin-vitamin-c-ondps-original-imahhubuztqmvabu.jpeg?q=90",
@@ -183601,6 +185555,7 @@ const CTPRODUCTS = [
    "format:pack",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:collagen",
    "claim:brightening",
@@ -183811,7 +185766,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/1/h/g/30-vitamin-c-face-serum-for-brightening-and-anti-aging-xxc99-original-imahhud7qubwm2zh.jpeg?q=90",
@@ -183829,6 +185785,7 @@ const CTPRODUCTS = [
    "format:pack",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:collagen",
    "claim:brightening",
@@ -184144,7 +186101,8 @@ const CTPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — niacinamide #3 on INCI; Dark spots — product type, ascorbic acid #1 on INCI, niacinamide #3 on INCI; Aging — ascorbic acid #1 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #3 on INCI; Dark spots — product type, ascorbic acid #1 on INCI, niacinamide #3 on INCI; Aging — ascorbic acid #1 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/b/z/q/30-vitamin-c-and-niacinamide-serum-for-dull-skin-korean-skincare-original-imahzbk69mybvjvj.jpeg?q=90",
@@ -184161,6 +186119,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
@@ -184314,7 +186273,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/6/t/u/30-vitamin-c-face-serum-with-vitamin-c-fades-dark-spots-reduces-original-imahht3cyjy3smzm.jpeg?q=90",
@@ -184332,6 +186292,7 @@ const CTPRODUCTS = [
    "format:pack",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:collagen",
    "claim:brightening",
@@ -184430,7 +186391,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/k/n/a/30-brightening-vitamin-c-orange-face-serum-x10-10x-niacinamide-original-imahhubf86hmjmez.jpeg?q=90",
@@ -184448,6 +186410,7 @@ const CTPRODUCTS = [
    "format:pack",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:collagen",
@@ -184547,7 +186510,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/k/9/u/30-vitamin-c-face-serum-for-brightening-and-anti-aging-ondps-original-imahhud73q2gnju6.jpeg?q=90",
@@ -184564,6 +186528,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:wash",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:collagen",
    "claim:brightening",
@@ -184623,7 +186588,7 @@ const CTPRODUCTS = [
  {
   "id": "vitawave-itmf25cf814a0f0b",
   "brand": "vitawave",
-  "model": "15%Vita C+E Glow Serum Vitamin C + Hyaluronic Acid & Tri …",
+  "model": "15%Vita C+E Glow Serum Vitamin C + Hyaluronic Acid & Tri-Collagen | Brightening & Anti-Agi…",
   "price": 202,
   "capacityLine": "30 ml",
   "materialLine": "vitamin C + hyaluronic acid + vitamin E",
@@ -184663,7 +186628,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.3★ from 12 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/g/t/g/30-15-vita-c-e-glow-serum-vitamin-c-hyaluronic-acid-tri-collagen-original-imahgt8s355fg9cf.jpeg?q=90",
@@ -184674,12 +186640,13 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/vitawave-15-vita-c-e-glow-serum-vitamin-c-hyaluronic-acid-tri-collagen-brightening-anti-aging-formula/p/itmf25cf814a0f0b",
   "buyStore": "Flipkart",
-  "title": "vitawave 15%Vita C+E Glow Serum Vitamin C + Hyaluronic Acid & Tri …",
+  "title": "vitawave 15%Vita C+E Glow Serum Vitamin C + Hyaluronic Acid & Tri-Collagen | Brightening & Anti-Aging Formula",
   "tags": [
    "scope:face",
    "format:serum",
    "format:pack",
    "sun:mineral",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
    "ing:collagen",
@@ -185031,7 +186998,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/5/y/s/30-korean-glutathione-vitamin-concentrated-serum-no-5-rejuveol-original-imahp8guxt58xyyh.jpeg?q=90",
@@ -185043,6 +187011,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
+   "water:unstated",
    "ing:glutathione",
    "claim:brightening",
    "claim:dark-spots",
@@ -185083,6 +187052,131 @@ const CTPRODUCTS = [
    "inciNote": null,
    "declarationConfidence": null,
    "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "rosebrite-itm4f953a593fb53",
+  "brand": "RoseBrite",
+  "model": "Anti-Aging Hyaluronic Acid 2% Face Serum with Ferulic Acid & Vitamin C - Reduces Wrinkles,…",
+  "price": 145,
+  "capacityLine": "30 ml",
+  "materialLine": "vitamin C + niacinamide + hyaluronic acid",
+  "featureLine": "Serum · ₹483/100ml",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 5 ingredients named — formula unscored",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹483/100ml",
+   "format": "Serum",
+   "keyIngredients": "vitamin C, niacinamide, hyaluronic acid, vitamin E, zinc (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim, Anti-aging claim, Acne/blemish claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 5 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: Hyaluronic Acid, Vitamin C, Niacinamide, Vitamin E, Ferulic acid",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/o/w/g/30-anti-aging-hyaluronic-acid-2-face-serum-with-ferulic-acid-original-imahn2pq5pfdcdxu.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/i/n/p/30-hydrating-face-serum-with-2-hyaluronic-acid-smooth-plump-original-imahn2p6w8sfushs.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/z/c/y/30-hydrating-face-serum-with-2-hyaluronic-acid-smooth-plump-original-imahn2p69ajfe5pk.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/4/b/9/30-hydrating-face-serum-with-2-hyaluronic-acid-smooth-plump-original-imahn2p6gzaprqhg.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/r/n/o/30-hydrating-face-serum-with-2-hyaluronic-acid-smooth-plump-original-imahn2p6ecnyhbwf.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/rosebrite-anti-aging-hyaluronic-acid-2-face-serum-ferulic-vitamin-c-reduces-wrinkles-protects-against-environmental-damage-restores-firm-youthful-appearance/p/itm4f953a593fb53",
+  "buyStore": "Flipkart",
+  "title": "RoseBrite Anti-Aging Hyaluronic Acid 2% Face Serum with Ferulic Acid & Vitamin C - Reduces Wrinkles, Protects Against Environmental Damage & Restores Firm Youthful Appearance",
+  "tags": [
+   "scope:face",
+   "format:serum",
+   "format:pack",
+   "format:kit",
+   "water:unstated",
+   "ing:vitamin-c",
+   "ing:niacinamide",
+   "ing:hyaluronic-acid",
+   "ing:vitamin-e",
+   "ing:zinc",
+   "ing:ferulic-acid",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:anti-aging",
+   "claim:acne",
+   "claim:pores",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:scars",
+   "skin:oily",
+   "skin:acne-prone",
+   "skin:all",
+   "free:vegan",
+   "aud:women",
+   "size:travel",
+   "rating:none",
+   "store:flipkart",
+   "target:dark-spots",
+   "inci:partial"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Hyaluronic Acid, Vitamin C, Niacinamide, Vitamin E, Ferulic acid",
+   "inciNote": "Only 5 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
    "actives": [],
    "support": [],
    "formulaNotes": [],
@@ -185259,7 +187353,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.3★ from 30 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/z/o/m/15-10-vitamin-c-face-serum-with-glutathione-alpha-arbutin-skin-original-imahpja9aygdzjfm.jpeg?q=90",
@@ -185275,6 +187370,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:alpha-arbutin",
@@ -185821,7 +187917,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4★ from 21 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/w/p/i/30-15-vitamin-c-serum-brighten-glowing-skin-remove-darkspots-original-imahhph2rbbguguu.jpeg?q=90",
@@ -185838,6 +187935,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:vitamin-c",
    "claim:brightening",
    "claim:dark-spots",
@@ -186930,7 +189028,7 @@ const CTPRODUCTS = [
  {
   "id": "7-days-itm20b01d88901cc",
   "brand": "7 Days",
-  "model": "Vitamin C Serum 10% With Hyaluronic Acid For Skin Brighten …",
+  "model": "Vitamin C Serum 10% With Hyaluronic Acid For Skin Brightening Acne Dark Spot",
   "price": 260,
   "capacityLine": "30 ml",
   "materialLine": "vitamin C + hyaluronic acid",
@@ -186981,7 +189079,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/7-days-vitamin-c-serum-10-hyaluronic-acid-skin-brightening-acne-dark-spot/p/itm20b01d88901cc",
   "buyStore": "Flipkart",
-  "title": "7 Days Vitamin C Serum 10% With Hyaluronic Acid For Skin Brighten …",
+  "title": "7 Days Vitamin C Serum 10% With Hyaluronic Acid For Skin Brightening Acne Dark Spot",
   "tags": [
    "scope:both",
    "format:serum",
@@ -187193,7 +189291,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.8★ from 20 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/9/u/k/30-vitamin-c-daily-glow-face-serum-reduces-dark-spots-turmeric-original-imah9ppfghe5jfj3.jpeg?q=90",
@@ -187209,6 +189308,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
    "ing:turmeric",
@@ -187523,7 +189623,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.7★ from 4,208 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/n/m/5/30-skin-illuminate-vitamin-c-face-serum-ideal-for-brightening-original-imahk6bkp6qbyf6z.jpeg?q=90",
@@ -187540,6 +189641,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:wash",
+   "water:unstated",
    "ing:vitamin-c",
    "claim:brightening",
    "claim:dark-spots",
@@ -188387,7 +190489,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3★ from 6 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/ki6bgcw0-0/body-skin-treatment/o/g/2/60-vitamin-c-20-facial-serum-for-skin-whitening-anti-aging-original-imafyyqukbwf4gsb.jpeg?q=90",
@@ -188400,6 +190503,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:vitamin-c",
    "claim:brightening",
    "claim:whitening-claim",
@@ -188492,7 +190596,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4★ from 6 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/9/i/x/250-vitamin-c-niacinamide-whitening-cream-pack-of-2-louis-original-imahh3s82rxne4rg.jpeg?q=90",
@@ -188508,6 +190613,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:kit",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "claim:brightening",
@@ -188604,7 +190710,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/a/b/b/30-10-vitamin-c-face-serum-with-niacinamide-hyaluronic-acid-original-imahpnt2hfxtn7gp.jpeg?q=90",
@@ -188620,6 +190727,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
@@ -188801,7 +190909,7 @@ const CTPRODUCTS = [
  {
   "id": "minimalist-itm78d21777b6371",
   "brand": "Minimalist",
-  "model": "8% L-Ascorbic Acid Lip Balm with Vitamin E, Radianskin …",
+  "model": "8% L-Ascorbic Acid Lip Balm with Vitamin E, Radianskin & Glycerine Fragrance free",
   "price": 355,
   "capacityLine": "12 g",
   "materialLine": "vitamin C + vitamin E",
@@ -188851,7 +190959,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/minimalist-8-l-ascorbic-acid-lip-balm-vitamin-e-radianskin-glycerine-fragrance-free/p/itm78d21777b6371",
   "buyStore": "Flipkart",
-  "title": "Minimalist 8% L-Ascorbic Acid Lip Balm with Vitamin E, Radianskin …",
+  "title": "Minimalist 8% L-Ascorbic Acid Lip Balm with Vitamin E, Radianskin & Glycerine Fragrance free",
   "tags": [
    "scope:face",
    "format:balm",
@@ -188861,6 +190969,7 @@ const CTPRODUCTS = [
    "ing:glycerin",
    "claim:dark-spots",
    "claim:hydrating",
+   "claim:chapped-lips",
    "free:paraben",
    "free:fragrance",
    "free:oil-free",
@@ -188981,7 +191090,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Beiersdorf — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/k/q/u/300-body-serum-extra-bright-vitamin-c-aha-skin-renewal-gluta-original-imahhy56epy3fhsz.jpeg?q=90",
@@ -188999,6 +191109,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:kit",
    "spf:30",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:aha",
    "ing:milk",
@@ -189212,7 +191323,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.8★ from 52 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/ktyp8cw0/shopsy-moisturizer-cream/s/t/a/caret-organic-vitamin-c-with-vitamin-e-daily-radiance-cream-with-original-imag76x6bx5bvp6m.jpeg?q=90",
@@ -189230,6 +191342,7 @@ const CTPRODUCTS = [
    "format:oil",
    "spf:15",
    "sun:mineral",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:vitamin-e",
    "ing:mineral-oil",
@@ -189644,7 +191757,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "5★ from 70 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/m/8/z/60-0-sun-allergy-protection-niacinamide-vitamin-c-sunscreen-spf-original-imahzqzankfhksxu.jpeg?q=90",
@@ -189662,6 +191776,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:oil",
    "spf:30",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "claim:dark-spots",
@@ -189758,7 +191873,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "5★ from 56 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/i/z/i/60-0-sunscreen-spf-50-with-niacinamide-vitamin-c-for-face-body-original-imahpyq2wgmgbg2s.jpeg?q=90",
@@ -189774,6 +191890,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "spf:30",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:aloe-vera",
@@ -189872,7 +191989,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "5★ from 143 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/2/y/p/120-0-vitamin-c-niacinamide-sun-cream-gel-spf-50-for-all-skin-original-imahpynftsnuw63v.jpeg?q=90",
@@ -189889,6 +192007,7 @@ const CTPRODUCTS = [
    "format:gel",
    "format:cream",
    "spf:30",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:aloe-vera",
@@ -189986,7 +192105,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/a/i/b/50-spf-50-sunscreen-with-vitamin-c-hyaluronic-acid-uva-uvb-original-imahh3gt7yamqaqh.jpeg?q=90",
@@ -190004,6 +192124,7 @@ const CTPRODUCTS = [
    "format:cream",
    "spf:30",
    "pa:+++",
+   "water:unstated",
    "ing:vitamin-c",
    "claim:whitening-claim",
    "claim:anti-aging",
@@ -190097,7 +192218,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/c/w/w/100-vitamin-c-e-super-glow-lightweight-sunscreen-16-50-women-original-imahm6daynyqadu7.jpeg?q=90",
@@ -190115,6 +192237,7 @@ const CTPRODUCTS = [
    "format:lotion",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
    "ing:collagen",
@@ -190212,7 +192335,8 @@ const CTPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "declaredManufacturer": "Alaina Healthcare Pvt. Ltd., Kharsa, No. 127-132, 707/133 & 685/608/32, Village Jharmajri, Baddi, Distt.- Solan, (H.P), - 174103 (as printed on the Flipkart listing — not scored)",
    "buyerEvidence": "4.1★ from 14,319 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/m/p/n/-original-imagyqfmutaxf4wn.jpeg?q=90",
@@ -190228,6 +192352,7 @@ const CTPRODUCTS = [
    "scope:unstated",
    "spf:50",
    "pa:++++",
+   "water:unstated",
    "ing:vitamin-c",
    "claim:brightening",
    "claim:spf-claim",
@@ -190321,7 +192446,8 @@ const CTPRODUCTS = [
    "maker": "WishCare — Indian D2C brand with its own product company",
    "declaredManufacturer": "WishCare, 28, B.T. Road, Kolkata- 700002 (as printed on the Flipkart listing — not scored)",
    "buyerEvidence": "4.3★ from 5,241 ratings",
-   "concernBasis": "Acne — niacinamide #22 on INCI; Dark spots — product type, 3-o-ethyl ascorbic acid #19 on INCI, niacinamide #22 on INCI, kojic acid #23 on INCI; Aging — 3-o-ethyl ascorbic acid #19 on INCI; Irritation — panthenol #18 on INCI, ceramide ap #27 on INCI, ceramide np #28 on INCI, ceramide eos #29 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #22 on INCI; Dark spots — product type, 3-o-ethyl ascorbic acid #19 on INCI, niacinamide #22 on INCI, kojic acid #23 on INCI; Aging — 3-o-ethyl ascorbic acid #19 on INCI; Irritation — panthenol #18 on INCI, ceramide ap #27 on INCI, ceramide np #28 on INCI, ceramide eos #29 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/7/v/j/-original-imahmsghnsnwzhag.jpeg?q=90",
@@ -190337,6 +192463,7 @@ const CTPRODUCTS = [
    "scope:unstated",
    "spf:50+",
    "pa:++++",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:milk",
    "claim:brightening",
@@ -190580,7 +192707,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.3★ from 362 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/5/f/m/-original-imahgk8jdy4tzeq2.jpeg?q=90",
@@ -190596,6 +192724,7 @@ const CTPRODUCTS = [
    "scope:unstated",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:vitamin-c",
    "claim:brightening",
    "claim:spf-claim",
@@ -190686,7 +192815,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.3★ from 26 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/d/h/0/35-vitamin-c-foot-peel-mask-dead-skin-remover-for-cracked-heels-original-imahhfyvg8h7u7fg.jpeg?q=90",
@@ -190703,6 +192833,7 @@ const CTPRODUCTS = [
    "format:pack",
    "format:peel",
    "format:foot-peel",
+   "water:unstated",
    "ing:vitamin-c",
    "claim:brightening",
    "claim:hydrating",
@@ -190802,7 +192933,8 @@ const CTPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type, ascorbyl glucoside #3 on INCI, alpha-arbutin #8 on INCI; Aging — ascorbyl glucoside #3 on INCI (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type, ascorbyl glucoside #3 on INCI, alpha-arbutin #8 on INCI; Aging — ascorbyl glucoside #3 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/k/y/p/30-vitamin-c-10-face-serum-brightening-glow-enhancing-daily-original-imahhfzmu73e34e4.jpeg?q=90",
@@ -190819,6 +192951,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:powder",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:alpha-arbutin",
    "ing:aloe-vera",
@@ -190947,7 +193080,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.3★ from 44 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/k/6/a/30-20-vitamin-c-face-serum-with-peptide-hyaluronic-acid-for-skin-original-imahjvavyf7hxahy.jpeg?q=90",
@@ -190963,6 +193097,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:serum",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
    "ing:peptides",
@@ -191145,6 +193280,242 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "rosebrite-itm36066d094704a",
+  "brand": "RoseBrite",
+  "model": "Anti-Aging Hydrating Serum with Hyaluronic Acid 2%, Vitamin C & Ferulic Acid - Combats Wri…",
+  "price": 133,
+  "capacityLine": "30 ml",
+  "materialLine": "vitamin C + niacinamide + hyaluronic acid",
+  "featureLine": "Serum · ₹443/100ml",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "Well-reviewed: 4.8★ from 4 ratings"
+  ],
+  "cons": [
+   "Only 5 ingredients named — formula unscored",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 5.5
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹443/100ml",
+   "format": "Serum",
+   "keyIngredients": "vitamin C, niacinamide, hyaluronic acid, vitamin E (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim, Anti-aging claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types",
+   "rating": "4.8/5 (4 ratings, Flipkart)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 5 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: Hyaluronic Acid, Vitamin C, Niacinamide, Vitamin E, Ferulic acid",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.8★ from 4 ratings",
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/e/2/w/30-anti-aging-hydrating-serum-with-hyaluronic-acid-2-vitamin-c-original-imahn2pr7zfnxsgm.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/i/n/p/30-hydrating-face-serum-with-2-hyaluronic-acid-smooth-plump-original-imahn2p6w8sfushs.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/z/c/y/30-hydrating-face-serum-with-2-hyaluronic-acid-smooth-plump-original-imahn2p69ajfe5pk.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/4/b/9/30-hydrating-face-serum-with-2-hyaluronic-acid-smooth-plump-original-imahn2p6gzaprqhg.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/r/n/o/30-hydrating-face-serum-with-2-hyaluronic-acid-smooth-plump-original-imahn2p6ecnyhbwf.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/rosebrite-anti-aging-hydrating-serum-hyaluronic-acid-2-vitamin-c-ferulic-combats-wrinkles-dehydration-dullness-delivers-complete-skin-rejuvenation/p/itm36066d094704a",
+  "buyStore": "Flipkart",
+  "title": "RoseBrite Anti-Aging Hydrating Serum with Hyaluronic Acid 2%, Vitamin C & Ferulic Acid - Combats Wrinkles, Dehydration, Dullness & Delivers Complete Skin Rejuvenation",
+  "tags": [
+   "scope:face",
+   "format:serum",
+   "format:pack",
+   "water:unstated",
+   "ing:vitamin-c",
+   "ing:niacinamide",
+   "ing:hyaluronic-acid",
+   "ing:vitamin-e",
+   "ing:ferulic-acid",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:anti-aging",
+   "claim:pores",
+   "claim:oil-control",
+   "claim:hydrating",
+   "skin:all",
+   "free:vegan",
+   "aud:women",
+   "size:travel",
+   "rating:4.5",
+   "store:flipkart",
+   "target:dark-spots",
+   "inci:partial"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Hyaluronic Acid, Vitamin C, Niacinamide, Vitamin E, Ferulic acid",
+   "inciNote": "Only 5 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.8★ from 4 ratings"
+  }
+ },
+ {
+  "id": "rosebrite-itmce2d64a29456d",
+  "brand": "RoseBrite",
+  "model": "Hyaluronic Acid 2% Serum to Fade Dark Spots & Improve Texture - Vitamin C, Ferulic Acid & …",
+  "price": 146,
+  "capacityLine": "30 ml",
+  "materialLine": "vitamin C + niacinamide + hyaluronic acid",
+  "featureLine": "Serum · ₹487/100ml",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 5 ingredients named — formula unscored",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹487/100ml",
+   "format": "Serum",
+   "keyIngredients": "vitamin C, niacinamide, hyaluronic acid, vitamin E (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim, Anti-aging claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 5 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: Hyaluronic Acid, Vitamin C, Niacinamide, Vitamin E, Ferulic acid",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/4/b/9/30-hydrating-face-serum-with-2-hyaluronic-acid-smooth-plump-original-imahn2p6gzaprqhg.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/z/c/y/30-hydrating-face-serum-with-2-hyaluronic-acid-smooth-plump-original-imahn2p69ajfe5pk.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/r/n/o/30-hydrating-face-serum-with-2-hyaluronic-acid-smooth-plump-original-imahn2p6ecnyhbwf.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/rosebrite-hyaluronic-acid-2-serum-fade-dark-spots-improve-texture-vitamin-c-ferulic-niacinamide-radiant-even-skin/p/itmce2d64a29456d",
+  "buyStore": "Flipkart",
+  "title": "RoseBrite Hyaluronic Acid 2% Serum to Fade Dark Spots & Improve Texture - Vitamin C, Ferulic Acid & Niacinamide for Radiant Even Skin",
+  "tags": [
+   "scope:face",
+   "format:serum",
+   "format:pack",
+   "water:unstated",
+   "ing:vitamin-c",
+   "ing:niacinamide",
+   "ing:hyaluronic-acid",
+   "ing:vitamin-e",
+   "ing:ferulic-acid",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:anti-aging",
+   "claim:pores",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "skin:all",
+   "free:vegan",
+   "aud:women",
+   "size:travel",
+   "rating:none",
+   "store:flipkart",
+   "target:dark-spots",
+   "inci:partial"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Hyaluronic Acid, Vitamin C, Niacinamide, Vitamin E, Ferulic acid",
+   "inciNote": "Only 5 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
   "id": "medimagrow-itmb88ca7a1f8643",
   "brand": "Medimagrow",
   "model": "Glycolic Acid Toner , Vitamin C Serum , Vitamin C Mois …",
@@ -191254,7 +193625,7 @@ const CTPRODUCTS = [
  {
   "id": "rosebrite-itm60b18b18c0fe7",
   "brand": "RoseBrite",
-  "model": "Moisture Boost Serum with Hyaluronic Acid 2%, Vitamin C …",
+  "model": "Moisture Boost Serum with Hyaluronic Acid 2%, Vitamin C & Ferulic Acid | Hydrates & Revive…",
   "price": 146,
   "capacityLine": "30 ml",
   "materialLine": "vitamin C + niacinamide + hyaluronic acid",
@@ -191293,7 +193664,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/9/u/n/30-moisture-boost-serum-with-hyaluronic-acid-2-vitamin-c-ferulic-original-imahn2pcgwaan93f.jpeg?q=90",
@@ -191304,11 +193676,12 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/rosebrite-moisture-boost-serum-hyaluronic-acid-2-vitamin-c-ferulic-hydrates-revives-dull-skin/p/itm60b18b18c0fe7",
   "buyStore": "Flipkart",
-  "title": "RoseBrite Moisture Boost Serum with Hyaluronic Acid 2%, Vitamin C …",
+  "title": "RoseBrite Moisture Boost Serum with Hyaluronic Acid 2%, Vitamin C & Ferulic Acid | Hydrates & Revives Dull Skin",
   "tags": [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
@@ -191411,7 +193784,8 @@ const CTPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type, 3-o-ethyl ascorbic acid #2 on INCI; Aging — 3-o-ethyl ascorbic acid #2 on INCI (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type, 3-o-ethyl ascorbic acid #2 on INCI; Aging — 3-o-ethyl ascorbic acid #2 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/o/h/a/30-15-vitamin-c-face-serum-with-vitamin-e-collagen-ferulic-acid-original-imahb688ejxrbduq.jpeg?q=90",
@@ -191427,6 +193801,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
    "ing:collagen",
@@ -191577,7 +193952,8 @@ const CTPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type, 3-o-ethyl ascorbic acid #2 on INCI; Aging — 3-o-ethyl ascorbic acid #2 on INCI (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type, 3-o-ethyl ascorbic acid #2 on INCI; Aging — 3-o-ethyl ascorbic acid #2 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/l/7/f/30-15-vitamin-c-serum-brighten-repair-glow-naturally-lumicure-original-imahbg4pzapkqmq7.jpeg?q=90",
@@ -191594,6 +193970,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:glycolic-acid",
@@ -191752,7 +194129,8 @@ const CTPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type, 3-o-ethyl ascorbic acid #2 on INCI; Aging — 3-o-ethyl ascorbic acid #2 on INCI (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type, 3-o-ethyl ascorbic acid #2 on INCI; Aging — 3-o-ethyl ascorbic acid #2 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/z/b/h/30-vitamin-c-15-face-serum-glowing-brightening-skin-vitamin-e-original-imahazy23y7ydx2g.jpeg?q=90",
@@ -191768,6 +194146,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:retinol",
@@ -191926,7 +194305,8 @@ const CTPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type, 3-o-ethyl ascorbic acid #2 on INCI; Aging — 3-o-ethyl ascorbic acid #2 on INCI (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type, 3-o-ethyl ascorbic acid #2 on INCI; Aging — 3-o-ethyl ascorbic acid #2 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/c/r/g/30-face-serum-with-15-vitamin-c-collagen-hyaluronic-acid-vitamin-original-imahb52kvub7kuku.jpeg?q=90",
@@ -191942,6 +194322,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
@@ -192095,7 +194476,8 @@ const CTPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type, 3-o-ethyl ascorbic acid #2 on INCI; Aging — 3-o-ethyl ascorbic acid #2 on INCI (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type, 3-o-ethyl ascorbic acid #2 on INCI; Aging — 3-o-ethyl ascorbic acid #2 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/t/b/w/30-face-serum-with-15-vitamin-c-vitamin-e-collagen-skin-repair-original-imahb686vfnzwzhg.jpeg?q=90",
@@ -192113,6 +194495,7 @@ const CTPRODUCTS = [
    "format:pack",
    "format:scrub",
    "format:kit",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:glycolic-acid",
@@ -192501,7 +194884,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/t/u/w/30-dark-spot-remover-face-serum-with-niacinamide-4-azelaic-acid-original-imahhc7tkn2gfhqt.jpeg?q=90",
@@ -192516,6 +194900,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -192583,7 +194968,7 @@ const CTPRODUCTS = [
  {
   "id": "xeona-itm0b2512bf1da90",
   "brand": "Xeona",
-  "model": "10% Vitamin C Face Serum for Skin Brightening with 1 % Niac …",
+  "model": "10% Vitamin C Face Serum for Skin Brightening with 1 % Niacinemide, Mandelic Acid & Hyalur…",
   "price": 342,
   "capacityLine": "30 ml",
   "materialLine": "vitamin C + lactic acid + mandelic acid",
@@ -192623,7 +195008,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.8★ from 29 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/q/t/c/30-10-vitamin-c-face-serum-for-skin-brightening-with-1-original-imahjgfqqx9msnvx.jpeg?q=90",
@@ -192634,12 +195020,13 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/xeona-10-vitamin-c-face-serum-skin-brightening-1-niacinemide-mandelic-acid-hyaluronic-all-type/p/itm0b2512bf1da90",
   "buyStore": "Flipkart",
-  "title": "Xeona 10% Vitamin C Face Serum for Skin Brightening with 1 % Niac …",
+  "title": "Xeona 10% Vitamin C Face Serum for Skin Brightening with 1 % Niacinemide, Mandelic Acid & Hyaluronic Acid | All Skin Type",
   "tags": [
    "scope:face",
    "format:serum",
    "format:pack",
    "format:wash",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:lactic-acid",
    "ing:mandelic-acid",
@@ -192699,7 +195086,7 @@ const CTPRODUCTS = [
  {
   "id": "house-of-common-itm986c7e603d925",
   "brand": "house of common",
-  "model": "Vitamin C Serum With Hyaluronic Acid & Papaya Ext …",
+  "model": "Vitamin C Serum With Hyaluronic Acid & Papaya Ext For Skin Brightening (30ml)",
   "price": 660,
   "capacityLine": "120 ml (pack of 4)",
   "materialLine": "vitamin C + hyaluronic acid + papaya",
@@ -192749,7 +195136,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/house-common-vitamin-c-serum-hyaluronic-acid-papaya-ext-skin-brightening-30ml/p/itm986c7e603d925",
   "buyStore": "Flipkart",
-  "title": "house of common Vitamin C Serum With Hyaluronic Acid & Papaya Ext …",
+  "title": "house of common Vitamin C Serum With Hyaluronic Acid & Papaya Ext For Skin Brightening (30ml)",
   "tags": [
    "scope:both",
    "format:cream",
@@ -192818,11 +195205,11 @@ const CTPRODUCTS = [
  {
   "id": "house-of-common-itm06b00fe641938",
   "brand": "house of common",
-  "model": "Vitamin C Serum With Hyaluronic Acid & Papaya Ext …",
+  "model": "Vitamin C Serum With Hyaluronic Acid & Papaya Ext For Skin Brightening (2x30ml)",
   "price": 660,
-  "capacityLine": "540 g (pack of 2)",
+  "capacityLine": "60 ml (pack of 2)",
   "materialLine": "vitamin C + hyaluronic acid + honey",
-  "featureLine": "Serum · Paraben-free · ₹122/100g",
+  "featureLine": "Serum · Paraben-free · ₹1100/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -192837,8 +195224,8 @@ const CTPRODUCTS = [
    "experience": 0
   },
   "fullSpec": {
-   "quantity": "270 g × 2 pack",
-   "pricePer100": "₹122/100g",
+   "quantity": "30 ml × 2 pack",
+   "pricePer100": "₹1100/100ml",
    "format": "Serum",
    "keyIngredients": "vitamin C, hyaluronic acid, honey, papaya, almond (per listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -192868,7 +195255,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/house-common-vitamin-c-serum-hyaluronic-acid-papaya-ext-skin-brightening-2x30ml/p/itm06b00fe641938",
   "buyStore": "Flipkart",
-  "title": "house of common Vitamin C Serum With Hyaluronic Acid & Papaya Ext …",
+  "title": "house of common Vitamin C Serum With Hyaluronic Acid & Papaya Ext For Skin Brightening (2x30ml)",
   "tags": [
    "scope:both",
    "format:cream",
@@ -192895,7 +195282,7 @@ const CTPRODUCTS = [
    "free:paraben",
    "free:vegan",
    "aud:women",
-   "size:xl",
+   "size:standard",
    "rating:none",
    "store:flipkart",
    "target:dark-spots",
@@ -193049,11 +195436,11 @@ const CTPRODUCTS = [
  {
   "id": "house-of-common-itm3dffce0ad39ba",
   "brand": "house of common",
-  "model": "Vitamin C Serum With Hyaluronic Acid & Papaya Ext …",
+  "model": "Vitamin C Serum With Hyaluronic Acid & Papaya Ext For Skin Brightening (4x30ml)",
   "price": 660,
-  "capacityLine": "30 g",
+  "capacityLine": "30 ml",
   "materialLine": "vitamin C + hyaluronic acid + rose",
-  "featureLine": "Serum · Paraben-free · ₹2200/100g",
+  "featureLine": "Serum · Paraben-free · ₹2200/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -193068,8 +195455,8 @@ const CTPRODUCTS = [
    "experience": 0
   },
   "fullSpec": {
-   "quantity": "30 g",
-   "pricePer100": "₹2200/100g",
+   "quantity": "30 ml",
+   "pricePer100": "₹2200/100ml",
    "format": "Serum",
    "keyIngredients": "vitamin C, hyaluronic acid, rose, honey, papaya, almond (per listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -193099,7 +195486,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/house-common-vitamin-c-serum-hyaluronic-acid-papaya-ext-skin-brightening-4x30ml/p/itm3dffce0ad39ba",
   "buyStore": "Flipkart",
-  "title": "house of common Vitamin C Serum With Hyaluronic Acid & Papaya Ext …",
+  "title": "house of common Vitamin C Serum With Hyaluronic Acid & Papaya Ext For Skin Brightening (4x30ml)",
   "tags": [
    "scope:both",
    "format:cream",
@@ -193389,6 +195776,129 @@ const CTPRODUCTS = [
     "url": null
    },
    "buyers": "4.4★ from 20 ratings"
+  }
+ },
+ {
+  "id": "earth-science-ayurveda-itm1a16c59ef1cfe",
+  "brand": "Earth Science Ayurveda",
+  "model": "2% Hyaluronic Acid Face Serum with Vitamin C, E Oil & Peptide for Clear Face",
+  "price": 223,
+  "capacityLine": "30 ml",
+  "materialLine": "vitamin C + retinol + glycolic acid",
+  "featureLine": "Serum · Paraben-free · ₹743/100ml",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "Well-reviewed: 4.4★ from 50 ratings"
+  ],
+  "cons": [
+   "Too few ingredients are recognisable INCI names to treat this as the declared list, so formula and safety are unscored — formula unscored",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 5.6
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹743/100ml",
+   "format": "Serum",
+   "keyIngredients": "vitamin C, retinol, glycolic acid, hyaluronic acid, peptides, aloe vera (per listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Dermatologically tested (seller claim — not scored)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim, Anti-aging claim, Acne/blemish claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types",
+   "rating": "4.4/5 (50 ratings, Flipkart)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Too few ingredients are recognisable INCI names to treat this as the declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: Folic Acid, Glycolic Acid, Retinol, Peptide, Hyaluronic Acid, Vitamin C, Aloe Vera",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.4★ from 50 ratings",
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/anti-ageing/h/9/z/30-2-hyaluronic-acid-face-serum-with-vitamin-c-e-oil-peptide-for-original-imahhd7gwk2ufvgp.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/anti-ageing/9/4/y/30-2-hyaluronic-acid-face-serum-with-vitamin-c-e-oil-peptide-for-original-imahhd7g2kkyygpt.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/anti-ageing/v/v/y/30-2-hyaluronic-acid-face-serum-with-vitamin-c-e-oil-peptide-for-original-imahhd7gfzgdppy5.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/anti-ageing/q/m/h/30-2-hyaluronic-acid-face-serum-with-vitamin-c-e-oil-peptide-for-original-imahhd7gyn2gfzdm.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/anti-ageing/y/d/t/30-2-hyaluronic-acid-face-serum-with-vitamin-c-e-oil-peptide-for-original-imahhd7ggzj5eypd.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/earth-science-ayurveda-2-hyaluronic-acid-face-serum-vitamin-c-e-oil-peptide-clear/p/itm1a16c59ef1cfe",
+  "buyStore": "Flipkart",
+  "title": "Earth Science Ayurveda 2% Hyaluronic Acid Face Serum with Vitamin C, E Oil & Peptide for Clear Face",
+  "tags": [
+   "scope:both",
+   "format:serum",
+   "format:oil",
+   "water:unstated",
+   "ing:vitamin-c",
+   "ing:retinol",
+   "ing:glycolic-acid",
+   "ing:hyaluronic-acid",
+   "ing:peptides",
+   "ing:aloe-vera",
+   "claim:brightening",
+   "claim:anti-aging",
+   "claim:acne",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:ayurvedic",
+   "claim:stretch-marks",
+   "skin:all",
+   "free:paraben",
+   "free:derm",
+   "free:vegan",
+   "aud:women",
+   "size:travel",
+   "rating:4.0",
+   "store:flipkart",
+   "target:dark-spots",
+   "inci:partial"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": true,
+   "derm": true,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Folic Acid, Glycolic Acid, Retinol, Peptide, Hyaluronic Acid, Vitamin C, Aloe Vera",
+   "inciNote": "Too few ingredients are recognisable INCI names to treat this as the declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.4★ from 50 ratings"
   }
  },
  {
@@ -193890,7 +196400,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.3★ from 3 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/u/8/h/aha-bha-face-wash-20-vitamin-c-serum-1-hyaluronic-sunscreen-1-original-imahjd7jqfz9ncuc.jpeg?q=90",
@@ -193907,6 +196418,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:salicylic-acid-bha",
    "ing:aha",
@@ -194465,7 +196977,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Essential oil / volatile sensitiser: citrus aurantium dulcis peel oil (−0.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type, ascorbic acid #5 on INCI; Aging — ascorbic acid #5 on INCI; Irritation — aloe barbadensis leaf juice #1 on INCI (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type, ascorbic acid #5 on INCI; Aging — ascorbic acid #5 on INCI; Irritation — aloe barbadensis leaf juice #1 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/s/v/s/30-vitamin-c-face-serum-with-vitamin-c-orange-peel-oil-original-imahmz8egahwqn7z.jpeg?q=90",
@@ -194483,6 +196996,7 @@ const CTPRODUCTS = [
    "format:oil",
    "format:peel",
    "spf:15",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:retinol",
@@ -194965,7 +197479,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/n/g/v/50-shield-spf-50-vitamin-c-e-lightweight-brightening-sunscreen-original-imahmcvuywphwzfz.jpeg?q=90",
@@ -194983,6 +197498,7 @@ const CTPRODUCTS = [
    "spf:50+",
    "pa:++++",
    "sun:mineral",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
@@ -195201,7 +197717,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "WishCare — Indian D2C brand with its own product company",
    "buyerEvidence": "3.9★ from 9 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/e/3/o/30-vitamin-c-pure-glow-face-sunscreen-broad-spectum-ultra-light-original-imahh3n8merk5v9n.jpeg?q=90",
@@ -195218,6 +197735,7 @@ const CTPRODUCTS = [
    "format:cream",
    "spf:50",
    "pa:++++",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:peptides",
@@ -195327,7 +197845,8 @@ const CTPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "WishCare — Indian D2C brand with its own product company",
    "buyerEvidence": "4.3★ from 5,260 ratings",
-   "concernBasis": "Acne — niacinamide #22 on INCI; Dark spots — product type, 3-o-ethyl ascorbic acid #19 on INCI, niacinamide #22 on INCI, kojic acid #23 on INCI; Aging — 3-o-ethyl ascorbic acid #19 on INCI; Irritation — panthenol #18 on INCI, ceramide ap #27 on INCI, ceramide np #28 on INCI, ceramide eos #29 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #22 on INCI; Dark spots — product type, 3-o-ethyl ascorbic acid #19 on INCI, niacinamide #22 on INCI, kojic acid #23 on INCI; Aging — 3-o-ethyl ascorbic acid #19 on INCI; Irritation — panthenol #18 on INCI, ceramide ap #27 on INCI, ceramide np #28 on INCI, ceramide eos #29 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/v/z/v/-original-imahmsghwyhhrz3r.jpeg?q=90",
@@ -195344,6 +197863,7 @@ const CTPRODUCTS = [
    "format:cream",
    "spf:50+",
    "pa:++++",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:peptides",
@@ -195601,7 +198121,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "WishCare — Indian D2C brand with its own product company",
    "buyerEvidence": "4.1★ from 19 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/combo-kit/j/l/p/tinted-lip-balm-spf-50-pa-vitamin-c-pure-glow-milk-sunscreen-spf-original-imahk69wjbhkbwqh.jpeg?q=90",
@@ -195619,6 +198140,7 @@ const CTPRODUCTS = [
    "format:kit",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:milk",
    "claim:brightening",
@@ -195710,7 +198232,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/t/a/2/180-0-sunscreen-spf-50-for-face-and-body-with-antioxidants-and-original-imahh2jvjjdfzyhj.jpeg?q=90",
@@ -195728,6 +198251,7 @@ const CTPRODUCTS = [
    "format:lotion",
    "spf:50",
    "pa:+",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:collagen",
    "ing:rose",
@@ -195828,7 +198352,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/shopsy-sunscreen/v/r/d/180-vitamin-c-niacinamide-sunscreen-spf-50-broad-spectrum-daily-original-imahmf4hkxtdjhvv.jpeg?q=90",
@@ -195847,6 +198372,7 @@ const CTPRODUCTS = [
    "spf:50",
    "pa:+++",
    "sun:mineral",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "claim:brightening",
@@ -195946,7 +198472,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistant / waterproof (duration not stated), sweat resistant (per listing — not tested here, not scored)"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/g/m/m/120-sunscreen-lotion-spf-50-for-body-face-with-vitamin-c-50-original-imahmhkfxjuyvvwn.jpeg?q=90",
@@ -195964,6 +198491,8 @@ const CTPRODUCTS = [
    "format:lotion",
    "spf:50",
    "pa:+++",
+   "water:resistant",
+   "water:sweat",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:ceramides",
@@ -204107,7 +206636,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61aKnmbT0zL._AC_UL320_.jpg"
@@ -204120,6 +206650,7 @@ const CTPRODUCTS = [
    "format:cream",
    "spf:30",
    "pa:++",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:glycolic-acid",
    "ing:kojic-acid",
@@ -204214,7 +206745,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "4.2★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61ckTgN44WL._AC_UL320_.jpg"
@@ -204228,6 +206760,7 @@ const CTPRODUCTS = [
    "format:kit",
    "spf:50+",
    "pa:++++",
+   "water:unstated",
    "ing:vitamin-c",
    "claim:brightening",
    "claim:dark-spots",
@@ -204318,7 +206851,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Foxtale Consumer — Indian D2C brand with its own product company",
    "buyerEvidence": "4.2★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61ksUlFtRQL._AC_UL320_.jpg"
@@ -204330,6 +206864,7 @@ const CTPRODUCTS = [
    "scope:unstated",
    "spf:50",
    "pa:++++",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "claim:brightening",
@@ -204428,7 +206963,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): parfum/fragrance (−1.5); EU-declared fragrance allergen: limonene, linalool, benzyl salicylate, benzyl alcohol, geraniol, citral (−2); Drying alcohol high in the list: alcohol denat (−1)",
    "maker": "L'Oréal — Global FMCG or beauty group",
    "buyerEvidence": "4★ from 0 ratings",
-   "concernBasis": "Dark spots — product type, ascorbyl glucoside #14 on INCI; Aging — ascorbyl glucoside #14 on INCI, adenosine #19 on INCI (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type, ascorbyl glucoside #14 on INCI; Aging — ascorbyl glucoside #14 on INCI, adenosine #19 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71azyrAHKyL._AC_UL320_.jpg"
@@ -204441,6 +206977,7 @@ const CTPRODUCTS = [
    "format:serum",
    "spf:50",
    "pa:++++",
+   "water:unstated",
    "ing:vitamin-c",
    "claim:no-white-cast",
    "claim:broad-spectrum",
@@ -204643,7 +207180,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "4.2★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61XqnCYshOL._AC_UL320_.jpg"
@@ -204655,6 +207193,7 @@ const CTPRODUCTS = [
    "scope:unstated",
    "spf:50+",
    "pa:++++",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:ceramides",
    "claim:brightening",
@@ -204747,7 +207286,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Lotus Herbals — Established / listed Indian FMCG house",
    "buyerEvidence": "3.9★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71y3Wu8a3rL._AC_UL320_.jpg"
@@ -204759,6 +207299,7 @@ const CTPRODUCTS = [
    "scope:unstated",
    "spf:50",
    "pa:+++",
+   "water:resistant",
    "ing:vitamin-c",
    "claim:brightening",
    "claim:water-resistant",
@@ -204850,7 +207391,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Foxtale Consumer — Indian D2C brand with its own product company",
    "buyerEvidence": "4.2★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51-09kCx3GL._AC_UL320_.jpg"
@@ -204863,6 +207405,7 @@ const CTPRODUCTS = [
    "format:kit",
    "spf:50",
    "pa:++++",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "claim:brightening",
@@ -204957,7 +207500,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "4.2★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51YCIj1eyFL._AC_UL320_.jpg"
@@ -204970,6 +207514,7 @@ const CTPRODUCTS = [
    "format:gel",
    "spf:50",
    "pa:++++",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "claim:brightening",
@@ -205065,7 +207610,8 @@ const CTPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "4.2★ from 0 ratings",
-   "concernBasis": "Dark spots — product type; Irritation — ceramide eop #19 on INCI, ceramide np #21 on INCI, ceramide ap #23 on INCI (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type; Irritation — ceramide eop #19 on INCI, ceramide np #21 on INCI, ceramide ap #23 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61IbP+Jom8L._AC_UL320_.jpg"
@@ -205077,6 +207623,7 @@ const CTPRODUCTS = [
    "scope:unstated",
    "spf:50+",
    "pa:++++",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:ceramides",
    "claim:lightweight",
@@ -205317,7 +207864,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Forest Essentials (Mountain Valley Springs) — Established / listed Indian FMCG house",
    "buyerEvidence": "4.3★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61iYWuoa4DL._AC_UL320_.jpg"
@@ -205330,6 +207878,7 @@ const CTPRODUCTS = [
    "spf:50",
    "pa:++++",
    "sun:mineral",
+   "water:unstated",
    "ing:vitamin-c",
    "claim:hydrating",
    "claim:no-white-cast",
@@ -205423,7 +207972,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.6★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51K5SQNGbeL._AC_UL320_.jpg"
@@ -205436,6 +207986,7 @@ const CTPRODUCTS = [
    "format:emulsion",
    "spf:50",
    "pa:++++",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:milk",
@@ -205535,7 +208086,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.8★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51cuRuCye+L._AC_UL320_.jpg"
@@ -205548,6 +208100,7 @@ const CTPRODUCTS = [
    "format:gel",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
    "claim:brightening",
@@ -205642,7 +208195,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Lotus Herbals — Established / listed Indian FMCG house",
    "buyerEvidence": "4.1★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51gWgmRSNuL._AC_UL320_.jpg"
@@ -205655,6 +208209,7 @@ const CTPRODUCTS = [
    "format:gel",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:vitamin-c",
    "claim:oil-control",
    "claim:ayurvedic",
@@ -205748,7 +208303,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.1★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61jX9ctDJKL._AC_UL320_.jpg"
@@ -205761,6 +208317,7 @@ const CTPRODUCTS = [
    "format:gel",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "claim:oil-control",
@@ -205854,7 +208411,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.7★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61hp1xjd3vL._AC_UL320_.jpg"
@@ -205867,6 +208425,7 @@ const CTPRODUCTS = [
    "format:gel",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
@@ -205961,7 +208520,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.1★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61pgvFI+rWL._AC_UL320_.jpg"
@@ -205974,6 +208534,7 @@ const CTPRODUCTS = [
    "format:gel",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
    "ing:green-tea",
@@ -206074,7 +208635,8 @@ const CTPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.9★ from 0 ratings",
-   "concernBasis": "Acne — niacinamide #16 on INCI; Dark spots — product type, niacinamide #16 on INCI, 3-o-ethyl ascorbic acid #20 on INCI; Aging — 3-o-ethyl ascorbic acid #20 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #16 on INCI; Dark spots — product type, niacinamide #16 on INCI, 3-o-ethyl ascorbic acid #20 on INCI; Aging — 3-o-ethyl ascorbic acid #20 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/81Y0FKMMcKL._AC_UL320_.jpg"
@@ -206087,6 +208649,7 @@ const CTPRODUCTS = [
    "format:gel",
    "spf:50",
    "pa:++++",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "claim:broad-spectrum",
@@ -206261,7 +208824,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.4★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61OhVbNe2YL._AC_UL320_.jpg"
@@ -206275,6 +208839,7 @@ const CTPRODUCTS = [
    "format:kit",
    "spf:50+",
    "pa:+++",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "claim:broad-spectrum",
@@ -206367,7 +208932,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61XUWeRNMhL._AC_UL320_.jpg"
@@ -206381,6 +208947,7 @@ const CTPRODUCTS = [
    "format:pack",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "claim:spf-claim",
@@ -206473,7 +209040,8 @@ const CTPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "4★ from 0 ratings",
-   "concernBasis": "Dark spots — product type, ethyl ascorbic acid #16 on INCI; Aging — ethyl ascorbic acid #16 on INCI (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type, ethyl ascorbic acid #16 on INCI; Aging — ethyl ascorbic acid #16 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61lk1DGI++L._AC_UL320_.jpg"
@@ -206486,6 +209054,7 @@ const CTPRODUCTS = [
    "format:lotion",
    "format:kit",
    "spf:30",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:honey",
    "claim:spf-claim",
@@ -206656,7 +209225,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.7★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistant / waterproof (duration not stated), sweat resistant (per listing — not tested here, not scored)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61eRdtuY-PL._AC_UL320_.jpg"
@@ -206669,6 +209239,8 @@ const CTPRODUCTS = [
    "format:cream",
    "format:lotion",
    "pa:+++",
+   "water:resistant",
+   "water:sweat",
    "ing:vitamin-c",
    "ing:caffeine",
    "ing:probiotics",
@@ -206769,7 +209341,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "4.2★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/615w2fmaPHL._AC_UL320_.jpg"
@@ -206782,6 +209355,7 @@ const CTPRODUCTS = [
    "format:lotion",
    "format:balm",
    "spf:50",
+   "water:unstated",
    "ing:vitamin-c",
    "claim:oil-control",
    "claim:broad-spectrum",
@@ -206874,7 +209448,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/31mW8dAsFNL._AC_UL320_.jpg"
@@ -206887,6 +209462,7 @@ const CTPRODUCTS = [
    "format:lotion",
    "spf:50",
    "pa:++++",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:glutathione",
    "ing:vitamin-e",
@@ -206979,7 +209555,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61BW3bGnl4L._AC_UL320_.jpg"
@@ -206993,6 +209570,7 @@ const CTPRODUCTS = [
    "format:kit",
    "spf:50+",
    "pa:+++",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "claim:exfoliating",
@@ -207086,7 +209664,8 @@ const CTPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "3.7★ from 0 ratings",
-   "concernBasis": "Dark spots — product type, ascorbyl glucoside #26 on INCI; Aging — ascorbyl glucoside #26 on INCI (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type, ascorbyl glucoside #26 on INCI; Aging — ascorbyl glucoside #26 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61QUKXgnpaL._AC_UL320_.jpg"
@@ -207100,6 +209679,7 @@ const CTPRODUCTS = [
    "spf:50+",
    "pa:++++",
    "sun:mineral",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:zinc",
    "ing:titanium-dioxide",
@@ -207266,7 +209846,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.1★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61PGO4ULh5L._AC_UL320_.jpg"
@@ -207278,6 +209859,7 @@ const CTPRODUCTS = [
    "scope:unstated",
    "spf:50+",
    "sun:mineral",
+   "water:resistant",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
@@ -207373,7 +209955,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistant / waterproof (duration not stated), sweat resistant (per listing — not tested here, not scored)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/412DgWP0SEL._SL1200_.jpg",
@@ -207390,6 +209973,8 @@ const CTPRODUCTS = [
    "spf:50",
    "pa:+++",
    "sun:mineral",
+   "water:resistant",
+   "water:sweat",
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
    "ing:cucumber",
@@ -216130,13 +218715,13 @@ const CTPRODUCTS = [
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "No ingredient list published on the listing",
+   "Only 1 ingredient named — formula unscored",
    "Maker not verified — no parent company found"
   ],
   "scores": {
    "ingredients": 0,
    "skin": 0,
-   "trust": 3.5,
+   "trust": 3.8,
    "experience": 3.2
   },
   "fullSpec": {
@@ -216153,9 +218738,9 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.4/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: Vitamin C",
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
@@ -216179,7 +218764,7 @@ const CTPRODUCTS = [
    "rating:4.0",
    "store:amazon",
    "target:dark-spots",
-   "inci:none"
+   "inci:partial"
   ],
   "filters": {
    "actives": true,
@@ -216188,23 +218773,23 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
+   "inci": "partial",
    "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
    "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
+   "inciUnverified": "Vitamin C",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
    "declarationConfidence": null,
-   "recognised": null,
+   "recognised": 1,
    "actives": [],
    "support": [],
    "formulaNotes": [],
@@ -231506,7 +234091,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61NohjmvirL._AC_UL320_.jpg"
@@ -231520,6 +234106,7 @@ const CTPRODUCTS = [
    "format:kit",
    "spf:50",
    "pa:++++",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
@@ -235780,7 +238367,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.1★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/512TtItmuJL._AC_UL320_.jpg"
@@ -235792,6 +238380,7 @@ const CTPRODUCTS = [
    "scope:unstated",
    "spf:50",
    "pa:++++",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:vitamin-e",
    "claim:broad-spectrum",
@@ -235885,7 +238474,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "4.2★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51u-N9gSl7L._AC_UL320_.jpg"
@@ -235898,6 +238488,7 @@ const CTPRODUCTS = [
    "format:gel",
    "spf:50+",
    "pa:++++",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:papaya",
    "claim:brightening",
@@ -235994,7 +238585,8 @@ const CTPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "4★ from 0 ratings",
-   "concernBasis": "Dark spots — product type, ethyl ascorbic acid #16 on INCI; Aging — ethyl ascorbic acid #16 on INCI (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type, ethyl ascorbic acid #16 on INCI; Aging — ethyl ascorbic acid #16 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51Giawfr6bL._AC_UL320_.jpg"
@@ -236006,6 +238598,7 @@ const CTPRODUCTS = [
    "scope:body",
    "format:lotion",
    "spf:30",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:honey",
    "claim:spf-claim",
@@ -236176,7 +238769,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "5★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71+4ue8a4SL._AC_UL320_.jpg"
@@ -236189,6 +238783,7 @@ const CTPRODUCTS = [
    "format:gel",
    "spf:30",
    "pa:++",
+   "water:unstated",
    "ing:vitamin-c",
    "claim:oil-control",
    "claim:hydrating",
@@ -236281,7 +238876,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61rYouVw1pL._AC_UL320_.jpg"
@@ -236294,6 +238890,7 @@ const CTPRODUCTS = [
    "format:lotion",
    "format:serum",
    "spf:50",
+   "water:unstated",
    "ing:vitamin-c",
    "claim:oil-control",
    "claim:tinted",
@@ -236383,7 +238980,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "4.2★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61T1BvdVqnL._AC_UL320_.jpg"
@@ -236397,6 +238995,7 @@ const CTPRODUCTS = [
    "format:kit",
    "spf:50+",
    "pa:++++",
+   "water:unstated",
    "ing:vitamin-c",
    "claim:brightening",
    "claim:dark-spots",
@@ -236488,7 +239087,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "5★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61l3sLR+f-L._AC_UL320_.jpg"
@@ -236501,6 +239101,7 @@ const CTPRODUCTS = [
    "spf:50",
    "pa:++++",
    "sun:hybrid",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:vitamin-e",
    "ing:ferulic-acid",
@@ -236595,7 +239196,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Kreative Beauty Pvt Ltd (Hyphen) — Indian D2C brand with its own product company",
    "buyerEvidence": "3.9★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51jCq8pHi6L._AC_UL320_.jpg"
@@ -236607,6 +239209,7 @@ const CTPRODUCTS = [
    "scope:unstated",
    "spf:50",
    "pa:++++",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:peptides",
    "claim:brightening",
@@ -236702,7 +239305,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.9★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41Dcuu3SrJL._AC_UL320_.jpg"
@@ -236714,6 +239318,7 @@ const CTPRODUCTS = [
    "scope:unstated",
    "spf:40",
    "pa:+++",
+   "water:unstated",
    "ing:vitamin-c",
    "claim:de-tan",
    "claim:acne",
@@ -236811,7 +239416,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.3★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61wri3RKv2L._AC_UL320_.jpg"
@@ -236824,6 +239430,7 @@ const CTPRODUCTS = [
    "format:gel",
    "spf:40",
    "pa:+++",
+   "water:unstated",
    "ing:vitamin-c",
    "claim:oil-control",
    "claim:hydrating",
@@ -236916,7 +239523,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51UahrToR7L._AC_UL320_.jpg"
@@ -236929,6 +239537,7 @@ const CTPRODUCTS = [
    "format:cream",
    "spf:40",
    "pa:++",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
    "claim:brightening",
@@ -237018,7 +239627,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Incnut Digital (SkinKraft) — Indian D2C brand with its own product company",
    "buyerEvidence": "3.9★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51KxTBw6LcL._AC_UL320_.jpg"
@@ -237029,6 +239639,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "spf:40",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:aloe-vera",
    "claim:oil-control",
@@ -237122,7 +239733,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.9★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61j+utU1CVL._AC_UL320_.jpg"
@@ -237135,6 +239747,7 @@ const CTPRODUCTS = [
    "format:gel",
    "spf:40",
    "pa:+++",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
    "claim:acne",
@@ -237229,7 +239842,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.3★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71eKaF4WRfL._AC_UL320_.jpg"
@@ -237241,6 +239855,7 @@ const CTPRODUCTS = [
    "scope:face",
    "spf:50",
    "pa:++++",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
    "ing:aloe-vera",
@@ -237335,7 +239950,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Conscious Chemist — Indian D2C brand with its own product company",
    "buyerEvidence": "3.9★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51xBgCf0BBL._AC_UL320_.jpg"
@@ -237349,6 +239965,7 @@ const CTPRODUCTS = [
    "spf:50",
    "pa:++++",
    "sun:hybrid",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:rice-water",
    "claim:lightweight",
@@ -237440,7 +240057,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "3.6★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61BrncoMvLL._AC_UL320_.jpg"
@@ -237453,6 +240071,7 @@ const CTPRODUCTS = [
    "format:kit",
    "spf:50+",
    "pa:++++",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:papaya",
    "claim:brightening",
@@ -237545,7 +240164,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.1★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51iepuZFfFL._AC_UL320_.jpg"
@@ -237558,6 +240178,7 @@ const CTPRODUCTS = [
    "format:cream",
    "spf:50",
    "pa:++++",
+   "water:resistant",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
@@ -237622,16 +240243,18 @@ const CTPRODUCTS = [
   "capacityLine": "100 g",
   "materialLine": "vitamin C + niacinamide + hyaluronic acid",
   "featureLine": "Sunscreen · SPF 50 · ₹465/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Orgatre official website (orgatre.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "tocopheryl acetate high on the INCI list (moderate evidence); ascorbyl palmitate high on the INCI list (limited evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 4.3,
+   "skin": 7,
+   "trust": 5.5,
    "experience": 2.2
   },
   "fullSpec": {
@@ -237648,14 +240271,17 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.1/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Orgatre official website (orgatre.com) — product page › Ingredients",
+   "inciSourceUrl": "https://orgatre.com/products/tinted-sunscreen-spf-50-pa-broad-spectrum-sun-protection-for-all-skin-types",
+   "inciMatchedName": "Niacinamide + Hyaluronic Acid | Tinted Sun Shield Sunscreen SPF 50 PA++++ (name match 92%)",
+   "inciList": "Aqua, Octyl Methoxycinnamate, Cyclopentasiloxane, Caprylic/Capric Triglyceride, Cyclopentasiloxane and PEG/PPG-18/18 Dimeticone, Talc, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Isononyl Isononanoate, Butylene Glycol, Panthenol, Titanium Dioxide, Niacinamide, Ethylhexyloxyphenol Methoxyphenyl Triazine, Dimethicone, Cetearyl Alcohol & Cetearyl Glucoside, VP/Acrylates/Lauryl Methacrylate Copolymer, Allantoin, Caprylyl Methicone, Phenyl Trimethicone, Tocopheryl Acetate, Polyacrylate-13 & Polyisobutene & Polysorbate 20, Glyceryl Monostearate, Stearic Acid, Ceto-Stearyl Alcohol, Disodium EDTA, Ascorbyl Palmitate, Hyaluronic Acid, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Simmondsia Chinensis (Jojoba) Seed Oil, Persea Gratissima (Avocado) Oil, Olea Europaea (Olive) Fruit Oil, Helianthus Annuus (Sunflower) Seed Oil, Linoleic Acid (and) Linolenic Acid",
+   "evidenceActives": "tocopheryl acetate (#21 on list, moderate evidence); ascorbyl palmitate (#27 on list, limited evidence); hyaluronic acid (#28 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.1★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #13 on INCI; Dark spots — product type, niacinamide #13 on INCI; Irritation — panthenol #11 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51ftM0ynFbL._AC_UL320_.jpg"
@@ -237667,6 +240293,7 @@ const CTPRODUCTS = [
    "scope:face",
    "spf:50",
    "pa:++++",
+   "water:resistant",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
@@ -237683,8 +240310,12 @@ const CTPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "target:dark-spots",
-   "inci:none"
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -237693,25 +240324,136 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Orgatre official website (orgatre.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://orgatre.com/products/tinted-sunscreen-spf-50-pa-broad-spectrum-sun-protection-for-all-skin-types",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Niacinamide + Hyaluronic Acid | Tinted Sun Shield Sunscreen SPF 50 PA++++",
+   "inciMatchScore": 0.92,
+   "inciText": "Aqua, Octyl Methoxycinnamate, Cyclopentasiloxane, Caprylic/Capric Triglyceride, Cyclopentasiloxane and PEG/PPG-18/18 Dimeticone, Talc, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Isononyl Isononanoate, Butylene Glycol, Panthenol, Titanium Dioxide, Niacinamide, Ethylhexyloxyphenol Methoxyphenyl Triazine, Dimethicone, Cetearyl Alcohol & Cetearyl Glucoside, VP/Acrylates/Lauryl Methacrylate Copolymer, Allantoin, Caprylyl Methicone, Phenyl Trimethicone, Tocopheryl Acetate, Polyacrylate-13 & Polyisobutene & Polysorbate 20, Glyceryl Monostearate, Stearic Acid, Ceto-Stearyl Alcohol, Disodium EDTA, Ascorbyl Palmitate, Hyaluronic Acid, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Simmondsia Chinensis (Jojoba) Seed Oil, Persea Gratissima (Avocado) Oil, Olea Europaea (Olive) Fruit Oil, Helianthus Annuus (Sunflower) Seed Oil, Linoleic Acid (and) Linolenic Acid",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "ethylhexyl methoxycinnamate",
+     "grade": "A",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "diethylamino hydroxybenzoyl hexyl benzoate",
+     "grade": "A",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 11,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "titanium dioxide",
+     "grade": "A",
+     "position": 12,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 13,
+     "core": false,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 15,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 18,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 21,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "ascorbyl palmitate",
+     "grade": "C",
+     "position": 27,
+     "core": true,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "hyaluronic acid",
+     "grade": "B",
+     "position": 28,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "prunus amygdalus dulcis oil",
+     "grade": "B",
+     "position": 29,
+     "core": false,
+     "trace": true,
+     "src": "squalane"
+    },
+    {
+     "name": "simmondsia chinensis seed oil",
+     "grade": "B",
+     "position": 30,
+     "core": false,
+     "trace": true,
+     "src": "squalane"
+    },
+    {
+     "name": "helianthus annuus seed oil",
+     "grade": "B",
+     "position": 33,
+     "core": false,
+     "trace": true,
+     "src": "squalane"
+    }
+   ],
+   "support": [
+    "butylene glycol",
+    "panthenol",
+    "niacinamide",
+    "dimethicone",
+    "hyaluronic acid"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -237765,7 +240507,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.2★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/614vY4tQI1L._AC_UL320_.jpg"
@@ -237778,6 +240521,7 @@ const CTPRODUCTS = [
    "format:serum",
    "spf:40",
    "pa:+++",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
    "claim:dark-spots",
@@ -237870,7 +240614,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.7★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/31rBO4uxkwL._AC_UL320_.jpg"
@@ -237883,6 +240628,7 @@ const CTPRODUCTS = [
    "format:stick",
    "spf:50",
    "pa:++++",
+   "water:unstated",
    "ing:vitamin-c",
    "claim:oil-control",
    "claim:lightweight",
@@ -237973,7 +240719,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "4.2★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61KRXpuiC7L._AC_UL320_.jpg"
@@ -237986,6 +240733,7 @@ const CTPRODUCTS = [
    "format:emulsion",
    "spf:50+",
    "pa:++++",
+   "water:unstated",
    "ing:vitamin-c",
    "claim:brightening",
    "claim:dark-spots",
@@ -238076,7 +240824,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "4.2★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61ad1n7V7fL._AC_UL320_.jpg"
@@ -238089,6 +240838,7 @@ const CTPRODUCTS = [
    "format:gel",
    "spf:50+",
    "pa:++++",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:papaya",
    "claim:brightening",
@@ -238150,16 +240900,18 @@ const CTPRODUCTS = [
   "capacityLine": "100 ml",
   "materialLine": "vitamin C + hyaluronic acid",
   "featureLine": "Sunscreen · Paraben-free · SPF 50 · ₹389/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (FACESCANADA official website (facescanada.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "hyaluronic acid high on the INCI list (moderate evidence); 3-o-ethyl ascorbic acid high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): fragrance",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 4.2,
+   "skin": 5.9,
+   "trust": 5.5,
    "experience": 1.9
   },
   "fullSpec": {
@@ -238176,14 +240928,17 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.0/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "FACESCANADA official website (facescanada.com) — product page › Ingredients",
+   "inciSourceUrl": "https://facescanada.com/products/sunscreen-lotion",
+   "inciMatchedName": "Sunscreen Lotion (name match 100%)",
+   "inciList": "Aqua, Methoxydibenzoylmethane, Octocrylene, Ethylhexyl Methoxycinnamate, Phospholipids, Butylene Glycol, Octocrylene, Cyclopentasiloxane, Ethylhexyl Methoxycinnamate, Titanium Dioxide, Cetearyl Alcohol, Cetyl Alcohol, Glycerin, Propanediol, Dimethicone, Hyaluronic Acid, Aloe barbadensis Extract, Fucus vesiculosus Extract, Phenoxyethanol, Triethylene Glycol, Heptyl Undecylenate, Capric/Caprallic Triglyceride, Fragrance, Aloe barbadensis Leaf Juice, Butyrospermum parkii (Shea) Butter, Prunus amygdalus dulcis (Sweet Almond) Oil, Dicaprylyl Carbonate, Carbomer, Butylated Hydroxytoluene, Disodium EDTA, Triethanolamine, Sodium Polyacrylate (and) C13-14 Isoparaffin (and) Laureth-7, 3-O Ethyl Ascorbic Acid",
+   "evidenceActives": "hyaluronic acid (#16 on list, moderate evidence); 3-o-ethyl ascorbic acid (#34 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51HT-xNC3ZL._AC_UL320_.jpg"
@@ -238196,6 +240951,7 @@ const CTPRODUCTS = [
    "format:lotion",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
    "claim:brightening",
@@ -238211,7 +240967,8 @@ const CTPRODUCTS = [
    "rating:4.0",
    "store:amazon",
    "target:dark-spots",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "actives": true,
@@ -238220,27 +240977,125 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "FACESCANADA official website (facescanada.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://facescanada.com/products/sunscreen-lotion",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Sunscreen Lotion",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Methoxydibenzoylmethane, Octocrylene, Ethylhexyl Methoxycinnamate, Phospholipids, Butylene Glycol, Octocrylene, Cyclopentasiloxane, Ethylhexyl Methoxycinnamate, Titanium Dioxide, Cetearyl Alcohol, Cetyl Alcohol, Glycerin, Propanediol, Dimethicone, Hyaluronic Acid, Aloe barbadensis Extract, Fucus vesiculosus Extract, Phenoxyethanol, Triethylene Glycol, Heptyl Undecylenate, Capric/Caprallic Triglyceride, Fragrance, Aloe barbadensis Leaf Juice, Butyrospermum parkii (Shea) Butter, Prunus amygdalus dulcis (Sweet Almond) Oil, Dicaprylyl Carbonate, Carbomer, Butylated Hydroxytoluene, Disodium EDTA, Triethanolamine, Sodium Polyacrylate (and) C13-14 Isoparaffin (and) Laureth-7, 3-O Ethyl Ascorbic Acid",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "octocrylene",
+     "grade": "A",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "ethylhexyl methoxycinnamate",
+     "grade": "A",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "titanium dioxide",
+     "grade": "A",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 13,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 15,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "hyaluronic acid",
+     "grade": "B",
+     "position": 16,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "aloe barbadensis leaf juice",
+     "grade": "B",
+     "position": 24,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 25,
+     "core": false,
+     "trace": true,
+     "src": "petrolatum"
+    },
+    {
+     "name": "prunus amygdalus dulcis oil",
+     "grade": "B",
+     "position": 26,
+     "core": false,
+     "trace": true,
+     "src": "squalane"
+    },
+    {
+     "name": "3-o-ethyl ascorbic acid",
+     "grade": "B",
+     "position": 34,
+     "core": true,
+     "trace": true,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "butylene glycol",
+    "glycerin",
+    "propanediol",
+    "dimethicone",
+    "hyaluronic acid",
+    "butyrospermum parkii butter"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -238293,7 +241148,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51Ag839MnjL._AC_UL320_.jpg"
@@ -238305,6 +241161,7 @@ const CTPRODUCTS = [
    "scope:face",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "claim:oil-control",
@@ -238399,7 +241256,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61enQ6BhrOL._AC_UL320_.jpg"
@@ -238411,6 +241269,7 @@ const CTPRODUCTS = [
    "scope:unstated",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "claim:oil-control",
@@ -238506,7 +241365,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61au-IbENWL._AC_UL320_.jpg"
@@ -238518,6 +241378,7 @@ const CTPRODUCTS = [
    "scope:unstated",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:avocado",
@@ -238613,7 +241474,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.1★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51dbNrBhpqL._AC_UL320_.jpg"
@@ -238625,6 +241487,7 @@ const CTPRODUCTS = [
    "scope:unstated",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:vitamin-c",
    "claim:brightening",
    "claim:oil-control",
@@ -238720,7 +241583,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51pdgX1Et+L._AC_UL320_.jpg"
@@ -238731,6 +241595,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "spf:50+",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "claim:broad-spectrum",
@@ -238822,7 +241687,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.6★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistant / waterproof (duration not stated), sweat resistant (per listing — not tested here, not scored)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61mi3pasDOL._AC_UL320_.jpg"
@@ -238834,6 +241700,8 @@ const CTPRODUCTS = [
    "scope:unstated",
    "format:mist",
    "pa:+++",
+   "water:resistant",
+   "water:sweat",
    "ing:vitamin-c",
    "ing:caffeine",
    "ing:probiotics",
@@ -238939,7 +241807,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4★ from 0 ratings",
-   "concernBasis": "Acne — niacinamide #12 on INCI; Dark spots — product type, niacinamide #12 on INCI, ascorbic acid #14 on INCI; Aging — ascorbic acid #14 on INCI; Irritation — aloe barbadensis leaf extract #16 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #12 on INCI; Dark spots — product type, niacinamide #12 on INCI, ascorbic acid #14 on INCI; Aging — ascorbic acid #14 on INCI; Irritation — aloe barbadensis leaf extract #16 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61yDvC3RnhL._AC_UL320_.jpg"
@@ -238952,6 +241821,7 @@ const CTPRODUCTS = [
    "format:cream",
    "spf:50",
    "pa:++++",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
    "claim:brightening",
@@ -239156,7 +242026,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Fixderma India (dermatology company) — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "4.6★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41Hab+5aNDL._SL1200_.jpg",
@@ -239174,6 +242045,7 @@ const CTPRODUCTS = [
    "spf:50+",
    "pa:+++",
    "sun:chemical",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
    "claim:brightening",
@@ -239272,7 +242144,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/613HDPR-VML._AC_UL320_.jpg"
@@ -239284,6 +242157,7 @@ const CTPRODUCTS = [
    "scope:unstated",
    "format:gel",
    "spf:50+",
+   "water:resistant",
    "ing:vitamin-c",
    "ing:zinc",
    "claim:oil-control",
@@ -239377,7 +242251,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51qsyTH-aGL._AC_UL320_.jpg"
@@ -239391,6 +242266,7 @@ const CTPRODUCTS = [
    "spf:50+",
    "pa:+++",
    "sun:mineral",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
    "ing:ceramides",
@@ -239821,7 +242697,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.1★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61KMB0zb6-L._AC_UL320_.jpg"
@@ -239832,6 +242709,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
    "ing:alpha-arbutin",
@@ -253342,6 +256220,9726 @@ const CTPRODUCTS = [
     "url": null
    },
    "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "pilgrim-itm8cfa5f60c51b1",
+  "brand": "Pilgrim",
+  "model": "Sunscreen - SPF 50+ PA++++ 5% Vitamin C Sunscreen For Women And Men | Non Sticky & Deliver…",
+  "price": 396,
+  "capacityLine": "50 ml",
+  "materialLine": "vitamin C + niacinamide",
+  "featureLine": "Sunscreen · Paraben-free · SPF 50 · ₹792/100ml",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 3 ingredients named — formula unscored"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 5.3,
+   "experience": 7.6
+  },
+  "fullSpec": {
+   "quantity": "50 ml",
+   "pricePer100": "₹792/100ml",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin C, niacinamide (per listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim, SPF 50",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types, Combination Skin, Dry Skin, Normal Skin, Oily Skin, Sensitive Skin",
+   "rating": "4.2/5 (25,362 ratings, Flipkart)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 3 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: Vitamin C (3-O-Ethyl Ascorbic Acid), 5% Niacinamide, Glutathione",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Heavenly Secrets — Indian D2C brand with its own product company",
+   "buyerEvidence": "4.2★ from 25,362 ratings",
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/minutes_enrichment_original/-enriched-original-SNRH89D3MFAMYNXU_0.jpg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/r/3/6/-original-imahqhjj9zspzcvh.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/7/v/h/-original-imahqhjkdz4ug3ca.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/t/8/y/-original-imahqhjhrts5xvys.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/z/x/g/-original-imahq95jvhjy9pqy.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/pilgrim-sunscreen-spf-50-pa-5-vitamin-c-women-men-non-sticky-deliver-triple-glow/p/itm8cfa5f60c51b1",
+  "buyStore": "Flipkart",
+  "title": "Pilgrim Sunscreen - SPF 50+ PA++++ 5% Vitamin C Sunscreen For Women And Men | Non Sticky & Deliver Triple Glow",
+  "tags": [
+   "scope:both",
+   "format:gel",
+   "format:emulsion",
+   "spf:50+",
+   "pa:++++",
+   "water:unstated",
+   "ing:vitamin-c",
+   "ing:niacinamide",
+   "ing:glutathione",
+   "claim:brightening",
+   "claim:oil-control",
+   "claim:no-white-cast",
+   "claim:broad-spectrum",
+   "claim:spf-claim",
+   "skin:oily",
+   "skin:dry",
+   "skin:combination",
+   "skin:sensitive",
+   "skin:normal",
+   "skin:all",
+   "free:paraben",
+   "free:vegan",
+   "free:sensitive-safe",
+   "aud:women",
+   "size:travel",
+   "rating:4.0",
+   "store:flipkart",
+   "target:dark-spots",
+   "inci:partial"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Vitamin C (3-O-Ethyl Ascorbic Acid), 5% Niacinamide, Glutathione",
+   "inciNote": "Only 3 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Heavenly Secrets",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://discoverpilgrim.com/"
+   },
+   "buyers": "4.2★ from 25,362 ratings"
+  }
+ },
+ {
+  "id": "lotus-itm578c86e2ec76b",
+  "brand": "Lotus",
+  "model": "Botanicals Sunscreen - SPF spf 50 PA+++ Vitamin C Skin Brightening MatteFluid Sunscreen|SP…",
+  "price": 209,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "vitamin C",
+  "featureLine": "Sunscreen · SPF 50",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 2 ingredients named — formula unscored"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6.3,
+   "experience": 7.1
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin C (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim, SPF 50",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.1/5 (3,084 ratings, Flipkart)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Specifications › Composition",
+   "inciList": "Unverified seller line: Vitamin C, Grapefruit",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Lotus Herbals — Established / listed Indian FMCG house",
+   "declaredManufacturer": "Lotus Herbals Pvt Ltd (as printed on the Flipkart listing — not scored)",
+   "buyerEvidence": "4.1★ from 3,084 ratings",
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/y/r/u/50-vitamin-c-skin-brightening-mattefluid-sunscreen-spf-50-pa-no-original-imahgfr7zx26s2z3.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/h/d/y/50-vitamin-c-skin-brightening-mattefluid-sunscreen-spf-50-pa-no-original-imahgfr76vfzswgn.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/l/7/9/50-vitamin-c-skin-brightening-mattefluid-sunscreen-spf-50-pa-no-original-imahgfr78xndzq4z.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/a/f/w/50-vitamin-c-skin-brightening-mattefluid-sunscreen-spf-50-pa-no-original-imahgfr7s9cx556q.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/cms-rpd-img/b553fac6739f4d3f8827682a948c5b99_18e178e9e8f_01.jpg.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/lotus-botanicals-sunscreen-spf-50-pa-vitamin-c-skin-brightening-mattefluid-sunscreen-spf-pa-no-white-cast/p/itm578c86e2ec76b",
+  "buyStore": "Flipkart",
+  "title": "Lotus Botanicals Sunscreen - SPF spf 50 PA+++ Vitamin C Skin Brightening MatteFluid Sunscreen|SPF 50 PA+++, No White Cast",
+  "tags": [
+   "scope:unstated",
+   "spf:50",
+   "pa:+++",
+   "water:unstated",
+   "ing:vitamin-c",
+   "claim:brightening",
+   "claim:no-white-cast",
+   "claim:spf-claim",
+   "aud:unisex",
+   "rating:4.0",
+   "store:flipkart",
+   "target:dark-spots",
+   "inci:partial"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Specifications › Composition",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Vitamin C, Grapefruit",
+   "inciNote": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Lotus Herbals",
+    "kind": "india",
+    "label": "Established / listed Indian FMCG house",
+    "pts": 6,
+    "url": "https://www.lotusherbals.com/pages/about-us"
+   },
+   "buyers": "4.1★ from 3,084 ratings"
+  }
+ },
+ {
+  "id": "deconstruct-itm3ab2b39bee4f9",
+  "brand": "Deconstruct",
+  "model": "Sunscreen - SPF 50 PA++++ 5% Vitamin C Sunscreen for Oily Skin| Glow sunscreen for women &…",
+  "price": 404,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "vitamin C",
+  "featureLine": "Sunscreen · SPF 50",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 5 ingredients named — formula unscored"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 5.3,
+   "experience": 7.1
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin C (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim, SPF 50",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.2/5 (1,789 ratings, Flipkart)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 5 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Specifications › Composition",
+   "inciList": "Unverified seller line: 5% Vitamin C, Powered by new Gen UV filters like MBBT, DHHB, BEMT, EHT",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Deconstruct Skincare — Indian D2C brand with its own product company",
+   "declaredManufacturer": "Kapco International Limited, Plot no. 10-11, Sector-3, Parwanoo, Himachal pradesh - 173220 (as printed on the Flipkart listing — not scored)",
+   "buyerEvidence": "4.2★ from 1,789 ratings",
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/q/i/j/30-5-vitamin-c-gel-sunscreen-brightens-new-gen-oily-skin-for-men-original-imahz2ngdkaagsgc.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/5/m/7/50-5-vitamin-c-gel-sunscreen-brightens-new-gen-oily-skin-for-men-original-imahz2nbjbwanrag.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/6/i/f/50-5-vitamin-c-gel-sunscreen-brightens-new-gen-oily-skin-for-men-original-imahz2n9g6qxagp4.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/z/h/g/50-5-vitamin-c-gel-sunscreen-brightens-new-gen-oily-skin-for-men-original-imahz2z4sprfmdm5.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/icons/original-SNRHJMZFNBV32F3G_1.jpg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/deconstruct-sunscreen-spf-50-pa-5-vitamin-c-oily-skin-glow-women-men/p/itm3ab2b39bee4f9",
+  "buyStore": "Flipkart",
+  "title": "Deconstruct Sunscreen - SPF 50 PA++++ 5% Vitamin C Sunscreen for Oily Skin| Glow sunscreen for women & men",
+  "tags": [
+   "scope:unstated",
+   "spf:50",
+   "pa:++++",
+   "water:unstated",
+   "ing:vitamin-c",
+   "claim:brightening",
+   "claim:spf-claim",
+   "skin:oily",
+   "aud:women",
+   "rating:4.0",
+   "store:flipkart",
+   "target:dark-spots",
+   "inci:partial"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Specifications › Composition",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "5% Vitamin C, Powered by new Gen UV filters like MBBT, DHHB, BEMT, EHT",
+   "inciNote": "Only 5 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 0.2,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Deconstruct Skincare",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://deconstruct.in/"
+   },
+   "buyers": "4.2★ from 1,789 ratings"
+  }
+ },
+ {
+  "id": "deconstruct-itm526d5dff5a98a",
+  "brand": "Deconstruct",
+  "model": "Sunscreen - SPF 50 PA++++ 5% Vitamin C Gel Sunscreen Brightens New Gen Oily Skin For Men &…",
+  "price": 269,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "vitamin C",
+  "featureLine": "Sunscreen · SPF 50",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 5 ingredients named — formula unscored"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 5.3,
+   "experience": 6.3
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin C (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim, SPF 50",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.2/5 (447 ratings, Flipkart)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 5 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Specifications › Composition",
+   "inciList": "Unverified seller line: 5% Vitamin C, Powered by new Gen UV filters like MBBT, DHHB, BEMT, EHT",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Deconstruct Skincare — Indian D2C brand with its own product company",
+   "declaredManufacturer": "Kapco International Limited, Plot no. 10-11, Sector-3, Parwanoo, Himachal pradesh - 173220 (as printed on the Flipkart listing — not scored)",
+   "buyerEvidence": "4.2★ from 447 ratings",
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/l/w/p/30-5-vitamin-c-gel-sunscreen-brightens-new-gen-oily-skin-for-men-original-imahz2nfgwupmqyc.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/q/i/j/30-5-vitamin-c-gel-sunscreen-brightens-new-gen-oily-skin-for-men-original-imahz2ngdkaagsgc.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/5/m/7/50-5-vitamin-c-gel-sunscreen-brightens-new-gen-oily-skin-for-men-original-imahz2nbjbwanrag.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/6/i/f/50-5-vitamin-c-gel-sunscreen-brightens-new-gen-oily-skin-for-men-original-imahz2n9g6qxagp4.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/y/g/x/30-5-vitamin-c-gel-sunscreen-brightens-new-gen-oily-skin-for-men-original-imahz2nmyqnsa9he.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/deconstruct-sunscreen-spf-50-pa-5-vitamin-c-gel-brightens-new-gen-oily-skin-men-women/p/itm526d5dff5a98a",
+  "buyStore": "Flipkart",
+  "title": "Deconstruct Sunscreen - SPF 50 PA++++ 5% Vitamin C Gel Sunscreen Brightens New Gen Oily Skin For Men & Women",
+  "tags": [
+   "scope:unstated",
+   "format:gel",
+   "spf:50",
+   "pa:++++",
+   "water:unstated",
+   "ing:vitamin-c",
+   "claim:brightening",
+   "claim:spf-claim",
+   "skin:oily",
+   "aud:women",
+   "rating:4.0",
+   "store:flipkart",
+   "target:dark-spots",
+   "inci:partial"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Specifications › Composition",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "5% Vitamin C, Powered by new Gen UV filters like MBBT, DHHB, BEMT, EHT",
+   "inciNote": "Only 5 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 0.2,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Deconstruct Skincare",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://deconstruct.in/"
+   },
+   "buyers": "4.2★ from 447 ratings"
+  }
+ },
+ {
+  "id": "dr-rashel-itm6109dd060720b",
+  "brand": "Dr. Rashel",
+  "model": "Sunscreen - SPF 50 PA+++ Vitamin C Ultra Hydrating Sunscreen SPF 50 PA+++ Protects Your Sk…",
+  "price": 494,
+  "capacityLine": "50 ml",
+  "materialLine": "vitamin C",
+  "featureLine": "Sunscreen · Paraben-free · SPF 50 · ₹988/100ml",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 5.5
+  },
+  "fullSpec": {
+   "quantity": "50 ml",
+   "pricePer100": "₹988/100ml",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin C (per listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim, SPF 50",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types",
+   "rating": "4/5 (340 ratings, Flipkart)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4★ from 340 ratings",
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/c/o/f/50-vitamin-c-ultra-hydrating-sunscreen-spf-50-pa-protects-your-original-imahmsj5qxhz5jws.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/w/e/i/50-vitamin-c-ultra-hydrating-sunscreen-spf-50-pa-protects-your-original-imahmsj53zwanyss.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/l/x/l/50-vitamin-c-ultra-hydrating-sunscreen-spf-50-pa-protects-your-original-imahmsj5pkyr6nhd.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/b/2/w/50-vitamin-c-spf-40-pa-ultra-hydrating-gel-sunscreen-40-dr-original-imahmhsjshjzngvf.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/s/b/e/50-protects-your-skin-from-uv-ray-with-matte-look-oil-control-original-imahheu7dcmgbkxk.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/dr-rashel-sunscreen-spf-50-pa-vitamin-c-ultra-hydrating-protects-your-skin-uv-ray/p/itm6109dd060720b",
+  "buyStore": "Flipkart",
+  "title": "DR.RASHEL Sunscreen - SPF 50 PA+++ Vitamin C Ultra Hydrating Sunscreen SPF 50 PA+++ Protects Your Skin From UV Ray",
+  "tags": [
+   "scope:body",
+   "format:gel",
+   "spf:50",
+   "pa:+++",
+   "water:unstated",
+   "ing:vitamin-c",
+   "claim:brightening",
+   "claim:hydrating",
+   "claim:soothing",
+   "claim:broad-spectrum",
+   "claim:spf-claim",
+   "skin:all",
+   "free:paraben",
+   "free:vegan",
+   "aud:women",
+   "size:travel",
+   "rating:4.0",
+   "store:flipkart",
+   "target:dark-spots",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4★ from 340 ratings"
+  }
+ },
+ {
+  "id": "proskire-itmeea3433682269",
+  "brand": "Proskire",
+  "model": "Sunscreen - SPF 50 PA+++ Broad Spectrum Sunscreen With Vitamin C, Niacinamide & Lumiskin",
+  "price": 251,
+  "capacityLine": "50 g",
+  "materialLine": "vitamin C + niacinamide",
+  "featureLine": "Sunscreen · Paraben-free · SPF 50 · ₹502/100g",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 5 ingredients named — formula unscored",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 5.3
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹502/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin C, niacinamide (per listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "SPF 50",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types",
+   "rating": "4/5 (275 ratings, Flipkart)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 5 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: Vitamin C, Niacinamide, Lumiskin™, Antioxidants, UV Filters.",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4★ from 275 ratings",
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/g/y/2/50-broad-spectrum-sunscreen-with-vitamin-c-niacinamide-lumiskin-original-imahhhzhkgykqqb7.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/2/l/i/50-broad-spectrum-sunscreen-with-vitamin-c-niacinamide-lumiskin-original-imahhhzhydnzzr46.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/7/h/z/50-broad-spectrum-sunscreen-with-vitamin-c-niacinamide-lumiskin-original-imahhhzhybzrxypy.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/u/h/a/50-broad-spectrum-sunscreen-with-vitamin-c-niacinamide-lumiskin-original-imahhhzhdykrxhzy.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/y/p/d/50-broad-spectrum-sunscreen-with-vitamin-c-niacinamide-lumiskin-original-imahhhzhznwwacsz.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/proskire-sunscreen-spf-50-pa-broad-spectrum-vitamin-c-niacinamide-lumiskin/p/itmeea3433682269",
+  "buyStore": "Flipkart",
+  "title": "Proskire Sunscreen - SPF 50 PA+++ Broad Spectrum Sunscreen With Vitamin C, Niacinamide & Lumiskin",
+  "tags": [
+   "scope:face",
+   "format:gel",
+   "spf:50",
+   "pa:+++",
+   "water:unstated",
+   "ing:vitamin-c",
+   "ing:niacinamide",
+   "claim:broad-spectrum",
+   "claim:spf-claim",
+   "skin:all",
+   "free:paraben",
+   "free:vegan",
+   "aud:women",
+   "size:travel",
+   "rating:4.0",
+   "store:flipkart",
+   "target:dark-spots",
+   "inci:partial"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Vitamin C, Niacinamide, Lumiskin™, Antioxidants, UV Filters.",
+   "inciNote": "Only 5 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 0.4,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4★ from 275 ratings"
+  }
+ },
+ {
+  "id": "smartdrops-itm688c21837438b",
+  "brand": "smartdrops",
+  "model": "Sunscreen - SPF 50 PA+++ Vitamin C & Niacinamide Sunscreen SPF 50 Maintain Skin Health and…",
+  "price": 213,
+  "capacityLine": "180 ml",
+  "materialLine": "vitamin C + niacinamide",
+  "featureLine": "Sunscreen · Paraben-free · SPF 50 · ₹118/100ml",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "Well-reviewed: 4.3★ from 170 ratings"
+  ],
+  "cons": [
+   "Only 1 ingredient named — formula unscored",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 6
+  },
+  "fullSpec": {
+   "quantity": "180 ml",
+   "pricePer100": "₹118/100ml",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin C, niacinamide (per listing)",
+   "freeFrom": "Paraben-free, Fragrance-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim, SPF 50",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "4.3/5 (170 ratings, Flipkart)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: Vitamin C",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.3★ from 170 ratings",
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/w/m/a/180-0-vitamin-c-niacinamide-sunscreen-spf-50-maintain-skin-original-imahhfetcashwkve.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/w/i/o/180-0-sunscreen-spf-50-with-vitamin-c-for-body-face-protection-original-imahhfcfwsdg2bua.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/p/w/u/180-0-sunscreen-spf-50-with-vitamin-c-for-body-face-protection-original-imahhfcfyt5hkz7m.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/j/m/m/120-0-sunscreen-spf-50-with-vitamin-c-for-body-face-protection-original-imahhfcf5yuejbch.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/u/d/m/180-0-sunscreen-spf-50-with-vitamin-c-for-body-face-protection-original-imahhfcfjxyheu6y.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/smartdrops-sunscreen-spf-50-pa-vitamin-c-niacinamide-maintain-skin-health-sun-protection/p/itm688c21837438b",
+  "buyStore": "Flipkart",
+  "title": "smartdrops Sunscreen - SPF 50 PA+++ Vitamin C & Niacinamide Sunscreen SPF 50 Maintain Skin Health and Sun Protection",
+  "tags": [
+   "scope:unstated",
+   "format:cream",
+   "spf:50",
+   "pa:+++",
+   "water:unstated",
+   "ing:vitamin-c",
+   "ing:niacinamide",
+   "claim:brightening",
+   "claim:hydrating",
+   "claim:spf-claim",
+   "skin:sensitive",
+   "skin:all",
+   "free:paraben",
+   "free:fragrance",
+   "free:sensitive-safe",
+   "aud:women",
+   "size:large",
+   "rating:4.0",
+   "store:flipkart",
+   "target:dark-spots",
+   "inci:partial"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Vitamin C",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.3★ from 170 ratings"
+  }
+ },
+ {
+  "id": "smartdrops-itmf027bac68d191",
+  "brand": "smartdrops",
+  "model": "Sunscreen - SPF 50 PA+++ Face Cream Sunscreen SPF 50 | Vitamin C Lotion | PA+++",
+  "price": 183,
+  "capacityLine": "120 g",
+  "materialLine": "vitamin C + hyaluronic acid + vitamin E",
+  "featureLine": "Sunscreen · SPF 50 · ₹153/100g",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 2 ingredients named — formula unscored",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "120 g",
+   "pricePer100": "₹153/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin C, hyaluronic acid, vitamin E (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim, SPF 50",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: Vitamin C, Vitamin E",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-sunscreen/y/z/n/100-face-sunscreen-cream-spf-50-vitamin-c-e-lotion-niacinamide-original-imahhvfpdygd6szx.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/u/u/p/200-0-vitamin-c-sunscreen-spf-50-niacinamide-face-cream-pa-50-original-imahhv5mdd6hz4pm.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/n/f/8/300-0-vitamin-c-sunscreen-spf-50-niacinamide-face-cream-pa-50-original-imahhv5mgprvhzpk.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/7/z/w/300-0-vitamin-c-sunscreen-spf-50-niacinamide-face-cream-pa-50-original-imahhv5m7cshgz4g.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/g/n/p/200-0-vitamin-c-sunscreen-spf-50-niacinamide-face-cream-pa-50-original-imahhv5mfwhjasxj.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/smartdrops-sunscreen-spf-50-pa-niacinamide-cream-lotion-vitamin-c-e/p/itmf027bac68d191",
+  "buyStore": "Flipkart",
+  "title": "smartdrops Sunscreen - SPF 50 PA+++ Face Cream Sunscreen SPF 50 | Vitamin C Lotion | PA+++",
+  "tags": [
+   "scope:both",
+   "format:gel",
+   "format:cream",
+   "format:lotion",
+   "spf:50",
+   "pa:+++",
+   "water:unstated",
+   "ing:vitamin-c",
+   "ing:hyaluronic-acid",
+   "ing:collagen",
+   "ing:vitamin-e",
+   "claim:brightening",
+   "claim:anti-aging",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:broad-spectrum",
+   "claim:spf-claim",
+   "skin:all",
+   "aud:women",
+   "size:standard",
+   "rating:none",
+   "store:flipkart",
+   "target:dark-spots",
+   "inci:partial"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Vitamin C, Vitamin E",
+   "inciNote": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "sonavi-itm85b4ff707252c",
+  "brand": "Sonavi",
+  "model": "Sunscreen - SPF 50 PA++ Daily Glow Sunscreen with Vitamin C+E For Dry&Sensitive Skin",
+  "price": 139,
+  "capacityLine": "120 ml",
+  "materialLine": "vitamin C",
+  "featureLine": "Sunscreen · Paraben-free · SPF 50 · ₹116/100ml",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 4.5
+  },
+  "fullSpec": {
+   "quantity": "120 ml",
+   "pricePer100": "₹116/100ml",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin C (per listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim, SPF 50",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types, Combination Skin, Dry Skin, Normal Skin, Oily Skin, Sensitive Skin",
+   "rating": "4.1/5 (39 ratings, Flipkart)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.1★ from 39 ratings",
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/l/9/u/120-daily-glow-sunscreen-with-vitamin-c-e-for-dry-sensitive-skin-original-imah9xgfy5agqfkm.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/h/u/m/120-water-light-for-even-toned-glowing-skin-sunscreen-lotion-50-original-imah9xfhqg7tptdu.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/r/i/6/60-sunblock-lotion-for-lightweight-oil-free-sunscreen-50-sonavi-original-imah8gyhashphq3u.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/z/o/f/60-sunblock-lotion-for-lightweight-oil-free-sunscreen-50-sonavi-original-imah8gyhj7hzfjzn.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/i/r/g/180-lightweight-sunscreen-no-white-cast-for-men-women-50-sonavi-original-imah9xfknmefdjns.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/sonavi-sunscreen-spf-50-pa-daily-glow-vitamin-c-e-dry-sensitive-skin/p/itm85b4ff707252c",
+  "buyStore": "Flipkart",
+  "title": "Sonavi Sunscreen - SPF 50 PA++ Daily Glow Sunscreen with Vitamin C+E For Dry&Sensitive Skin",
+  "tags": [
+   "scope:face",
+   "format:cream",
+   "spf:50",
+   "pa:++",
+   "water:unstated",
+   "ing:vitamin-c",
+   "claim:brightening",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:spf-claim",
+   "skin:oily",
+   "skin:dry",
+   "skin:combination",
+   "skin:sensitive",
+   "skin:normal",
+   "skin:all",
+   "free:paraben",
+   "free:sensitive-safe",
+   "aud:women",
+   "size:standard",
+   "rating:4.0",
+   "store:flipkart",
+   "target:dark-spots",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.1★ from 39 ratings"
+  }
+ },
+ {
+  "id": "sonavi-itm9f9b2a344c50a",
+  "brand": "Sonavi",
+  "model": "Sunscreen - SPF 50 Multivitamin C+E Daily Glow Sunscreen|Watermelon Hyaluronic Sunscreen S…",
+  "price": 170,
+  "capacityLine": "120 g",
+  "materialLine": "vitamin C + hyaluronic acid",
+  "featureLine": "Sunscreen · Paraben-free · SPF 50 · ₹142/100g",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 4
+  },
+  "fullSpec": {
+   "quantity": "120 g",
+   "pricePer100": "₹142/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin C, hyaluronic acid (per listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim, SPF 50",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types, Combination Skin, Dry Skin, Normal Skin, Oily Skin, Sensitive Skin",
+   "rating": "4/5 (32 ratings, Flipkart)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4★ from 32 ratings",
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/l/c/i/120-non-greasy-sunscreen-for-daily-face-body-protection-70-original-imah9swyhpdp833y.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/t/e/g/120-non-greasy-sunscreen-for-daily-face-body-protection-70-original-imah9swy2kecqjva.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/1/l/x/120-non-greasy-sunscreen-for-daily-face-body-protection-70-original-imah9swyazz6hejs.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/n/t/l/-original-imahqzwfbpucggby.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/l/d/5/180-brightening-whiting-multivitamin-sunscreen-spf-70-niacin-original-imah9uxffhatgpd9.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/sonavi-sunscreen-spf-50-multivitamin-c-e-daily-glow-sunscreen-watermelon-hyaluronic-70/p/itm9f9b2a344c50a",
+  "buyStore": "Flipkart",
+  "title": "Sonavi Sunscreen - SPF 50 Multivitamin C+E Daily Glow Sunscreen|Watermelon Hyaluronic Sunscreen SPF 70+++",
+  "tags": [
+   "scope:face",
+   "format:lotion",
+   "spf:50",
+   "water:unstated",
+   "ing:vitamin-c",
+   "ing:hyaluronic-acid",
+   "ing:watermelon",
+   "claim:brightening",
+   "claim:whitening-claim",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:spf-claim",
+   "skin:oily",
+   "skin:dry",
+   "skin:combination",
+   "skin:sensitive",
+   "skin:normal",
+   "skin:all",
+   "free:paraben",
+   "free:sensitive-safe",
+   "aud:women",
+   "size:standard",
+   "rating:4.0",
+   "store:flipkart",
+   "target:dark-spots",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4★ from 32 ratings"
+  }
+ },
+ {
+  "id": "smartdrops-itm5dee09e757285",
+  "brand": "smartdrops",
+  "model": "Sunscreen - SPF 50 PA+++ Sunscreen with Niacinamide and Vitamin C for Brightening and Skin…",
+  "price": 220,
+  "capacityLine": "120 g",
+  "materialLine": "vitamin C + niacinamide",
+  "featureLine": "Sunscreen · SPF 50 · ₹183/100g",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 4.3
+  },
+  "fullSpec": {
+   "quantity": "120 g",
+   "pricePer100": "₹183/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin C, niacinamide (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim, SPF 50",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types, Combination Skin, Dry Skin, Normal Skin, Oily Skin, Sensitive Skin",
+   "rating": "4.1/5 (30 ratings, Flipkart)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.1★ from 30 ratings",
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/9/9/m/120-sunscreen-with-niacinamide-and-vitamin-c-for-brightening-and-original-imahmghrgzx6bvde.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-sunscreen/8/o/g/60-niacinamide-vitamin-c-sunscreen-spf-50-for-skin-care-and-uv-original-imahmhjumst9y4t9.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/u/s/0/120-sunscreen-lotion-spf-50-for-body-face-with-vitamin-c-50-original-imahmhkf5jg35a9f.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-sunscreen/l/p/o/60-niacinamide-vitamin-c-sunscreen-spf-50-for-skin-care-and-uv-original-imahmhju9adsnaqm.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/w/m/a/180-0-vitamin-c-niacinamide-sunscreen-spf-50-maintain-skin-original-imahhfetcashwkve.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/smartdrops-sunscreen-spf-50-pa-niacinamide-vitamin-c-brightening-skin-protection/p/itm5dee09e757285",
+  "buyStore": "Flipkart",
+  "title": "smartdrops Sunscreen - SPF 50 PA+++ Sunscreen with Niacinamide and Vitamin C for Brightening and Skin Protection",
+  "tags": [
+   "scope:face",
+   "format:cream",
+   "spf:50",
+   "pa:+++",
+   "water:unstated",
+   "ing:vitamin-c",
+   "ing:niacinamide",
+   "claim:brightening",
+   "claim:spf-claim",
+   "skin:oily",
+   "skin:dry",
+   "skin:combination",
+   "skin:sensitive",
+   "skin:normal",
+   "skin:all",
+   "free:sensitive-safe",
+   "aud:women",
+   "size:standard",
+   "rating:4.0",
+   "store:flipkart",
+   "target:dark-spots",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.1★ from 30 ratings"
+  }
+ },
+ {
+  "id": "sonavi-itm6b54bc45a17a8",
+  "brand": "Sonavi",
+  "model": "Sunscreen - SPF 50 PA+++ Vitamin C+E Super Bright,Water Light Sunscreen Cream For Deeply H…",
+  "price": 282,
+  "capacityLine": "120 ml",
+  "materialLine": "vitamin C",
+  "featureLine": "Sunscreen · SPF 50 · ₹235/100ml",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 4.1
+  },
+  "fullSpec": {
+   "quantity": "120 ml",
+   "pricePer100": "₹235/100ml",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin C (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, SPF 50",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types, Combination Skin, Dry Skin, Normal Skin, Oily Skin, Sensitive Skin",
+   "rating": "4.1/5 (22 ratings, Flipkart)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.1★ from 22 ratings",
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/n/b/c/120-vitamin-c-e-super-bright-water-light-sunscreen-cream-for-original-imah5zytzdqaku3u.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/m/d/s/60-super-bright-waterlight-for-even-toned-glowing-skin-50-sonavi-original-imah5xtswhmshwh5.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/i/h/w/180-vitamin-c-e-for-women-men-ideal-for-oily-dry-sensitive-skin-original-imah5yvkabtj7knc.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/v/y/c/60-super-bright-waterlight-for-even-toned-glowing-skin-50-sonavi-original-imah5yvpdphngrvg.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/u/9/u/100-spf-50-pa-sunscreen-cream-daily-glow-with-vitamin-c-e-for-original-imah9rnqpcmvgq83.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/sonavi-sunscreen-spf-50-pa-vitamin-c-e-super-bright-water-light-cream-deeply-hydrating/p/itm6b54bc45a17a8",
+  "buyStore": "Flipkart",
+  "title": "Sonavi Sunscreen - SPF 50 PA+++ Vitamin C+E Super Bright,Water Light Sunscreen Cream For Deeply Hydrating",
+  "tags": [
+   "scope:face",
+   "format:cream",
+   "spf:50",
+   "pa:+++",
+   "water:unstated",
+   "ing:vitamin-c",
+   "claim:hydrating",
+   "claim:spf-claim",
+   "skin:oily",
+   "skin:dry",
+   "skin:combination",
+   "skin:sensitive",
+   "skin:normal",
+   "skin:all",
+   "free:sensitive-safe",
+   "aud:women",
+   "size:standard",
+   "rating:4.0",
+   "store:flipkart",
+   "target:dark-spots",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.1★ from 22 ratings"
+  }
+ },
+ {
+  "id": "volamena-itm2cc3dcf999b5d",
+  "brand": "Volamena",
+  "model": "Sunscreen - SPF 50 PA++++ Super Glow With VItamin C For Bright & Glowing Skin No White Cas…",
+  "price": 278,
+  "capacityLine": "50 ml",
+  "materialLine": "vitamin C",
+  "featureLine": "Sunscreen · Paraben-free · SPF 50 · ₹556/100ml",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 3.6
+  },
+  "fullSpec": {
+   "quantity": "50 ml",
+   "pricePer100": "₹556/100ml",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin C (per listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim, SPF 50",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types, Combination Skin, Dry Skin, Normal Skin, Oily Skin, Sensitive Skin",
+   "rating": "4/5 (14 ratings, Flipkart)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4★ from 14 ratings",
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/f/w/y/50-super-glow-with-vitamin-c-for-bright-glowing-skin-no-white-original-imahcuparjj45nt5.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/d/h/a/50-super-glow-with-vitamin-c-for-bright-glowing-skin-no-white-original-imahcupaphdvhj69.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/l/x/d/50-super-glow-with-vitamin-c-for-bright-glowing-skin-no-white-original-imahcupawjngjf9n.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/4/n/y/50-super-glow-with-vitamin-c-for-bright-glowing-skin-no-white-original-imahcupaw4ftkegt.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/b/p/q/100-sunscreen-gel-with-spf50-uva-uvb-protection-matte-finish-original-imahcre5g2n3we2t.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/volamena-sunscreen-spf-50-pa-super-glow-vitamin-c-bright-glowing-skin-no-white-cast/p/itm2cc3dcf999b5d",
+  "buyStore": "Flipkart",
+  "title": "Volamena Sunscreen - SPF 50 PA++++ Super Glow With VItamin C For Bright & Glowing Skin No White Cast",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "spf:50",
+   "pa:++++",
+   "water:unstated",
+   "ing:vitamin-c",
+   "claim:brightening",
+   "claim:no-white-cast",
+   "claim:broad-spectrum",
+   "claim:spf-claim",
+   "skin:oily",
+   "skin:dry",
+   "skin:combination",
+   "skin:sensitive",
+   "skin:normal",
+   "skin:all",
+   "free:paraben",
+   "free:vegan",
+   "free:sensitive-safe",
+   "aud:women",
+   "size:travel",
+   "rating:4.0",
+   "store:flipkart",
+   "target:dark-spots",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4★ from 14 ratings"
+  }
+ },
+ {
+  "id": "sonavi-itmdeeb96d79723e",
+  "brand": "Sonavi",
+  "model": "Sunscreen - SPF 60+++ PA++ With Aloevera & Vitamin C Sun Cream | Protects from Harmful UV …",
+  "price": 126,
+  "capacityLine": "60 g",
+  "materialLine": "vitamin C + aloe vera",
+  "featureLine": "Sunscreen · SPF 60 · ₹210/100g",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 3.3
+  },
+  "fullSpec": {
+   "quantity": "60 g",
+   "pricePer100": "₹210/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin C, aloe vera (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "SPF 60",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "4/5 (9 ratings, Flipkart)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4★ from 9 ratings",
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/f/s/3/60-with-aloevera-vitamin-c-sun-cream-protects-from-harmful-uv-original-imahaxsrgkqxaumg.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/y/y/m/60-aqua-surge-sunscreen-for-dry-normal-skin-60-sonavi-original-imahavwdjkse9gxq.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/y/f/p/60-aqua-surge-sunscreen-for-dry-normal-skin-60-sonavi-original-imahavwdyzqe3n6u.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/t/m/n/60-aqua-surge-sunscreen-for-dry-normal-skin-60-sonavi-original-imahavwdk6mjqhyp.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/j/s/z/60-aqua-surge-sunscreen-for-dry-normal-skin-60-sonavi-original-imahavwdsxj4njzz.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/sonavi-sunscreen-spf-60-pa-aloevera-vitamin-c-sun-cream-protects-harmful-uv-rays/p/itmdeeb96d79723e",
+  "buyStore": "Flipkart",
+  "title": "Sonavi Sunscreen - SPF 60+++ PA++ With Aloevera & Vitamin C Sun Cream | Protects from Harmful UV Rays",
+  "tags": [
+   "scope:unstated",
+   "format:cream",
+   "spf:60",
+   "pa:++",
+   "water:unstated",
+   "ing:vitamin-c",
+   "claim:whitening-claim",
+   "claim:barrier",
+   "claim:spf-claim",
+   "skin:oily",
+   "skin:sensitive",
+   "skin:all",
+   "free:sensitive-safe",
+   "aud:women",
+   "size:standard",
+   "rating:4.0",
+   "store:flipkart",
+   "target:dark-spots",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4★ from 9 ratings"
+  }
+ },
+ {
+  "id": "sonavi-itm3487f2b601fe9",
+  "brand": "Sonavi",
+  "model": "Sunscreen - SPF 50 PA+ Non-Greasy Sunscreen Lotion SPF 50, Shields Skin from UV Rays with …",
+  "price": 230,
+  "capacityLine": "60 ml",
+  "materialLine": "vitamin C + aloe vera + vitamin E",
+  "featureLine": "Sunscreen · Paraben-free · SPF 50 · ₹383/100ml",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 2 ingredients named — formula unscored",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 1.4
+  },
+  "fullSpec": {
+   "quantity": "60 ml",
+   "pricePer100": "₹383/100ml",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin C, aloe vera, vitamin E (per listing)",
+   "freeFrom": "Paraben-free, Fragrance-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, SPF 50",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "3.2/5 (9 ratings, Flipkart)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: Vitamin E, Aloevera",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.2★ from 9 ratings",
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/l/g/l/60-0-sunscreen-lotion-spf-50-protects-skin-from-uva-uvb-damage-original-imahh7fczzphjmj7.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/9/x/5/60-0-sunscreen-lotion-spf-50-for-face-body-with-uva-uvb-original-imahh2brfnjzhpv9.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/n/t/l/-original-imahqzwfbpucggby.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/1/o/w/-original-imahqzwfmnwvwxsw.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/5/u/v/60-spf-50-sunscreen-lotion-with-vitamin-c-for-radiant-smooth-original-imahh6njtmszv7a7.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/sonavi-sunscreen-spf-50-pa-lotion-50-protects-skin-uva-uvb-damage-all-type/p/itm3487f2b601fe9",
+  "buyStore": "Flipkart",
+  "title": "Sonavi Sunscreen - SPF 50 PA+ Non-Greasy Sunscreen Lotion SPF 50, Shields Skin from UV Rays with Vitamin C",
+  "tags": [
+   "scope:both",
+   "format:lotion",
+   "spf:50",
+   "pa:+",
+   "water:unstated",
+   "ing:vitamin-c",
+   "ing:vitamin-e",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:broad-spectrum",
+   "claim:spf-claim",
+   "skin:sensitive",
+   "skin:all",
+   "free:paraben",
+   "free:fragrance",
+   "free:vegan",
+   "free:sensitive-safe",
+   "aud:women",
+   "size:standard",
+   "rating:low",
+   "store:flipkart",
+   "target:dark-spots",
+   "inci:partial"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Vitamin E, Aloevera",
+   "inciNote": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.2★ from 9 ratings"
+  }
+ },
+ {
+  "id": "smartdrops-itm80c9ab41c2441",
+  "brand": "smartdrops",
+  "model": "Sunscreen - SPF 50 PA+++ SPF 50 Lotion | Vitamin C Sunscreen Cream | Niacinamide",
+  "price": 173,
+  "capacityLine": "300 ml",
+  "materialLine": "vitamin C + niacinamide + vitamin E",
+  "featureLine": "Sunscreen · SPF 50 · ₹58/100ml",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "Well-reviewed: 4.6★ from 5 ratings"
+  ],
+  "cons": [
+   "Only 2 ingredients named — formula unscored",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "300 ml",
+   "pricePer100": "₹58/100ml",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin C, niacinamide, vitamin E (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "SPF 50",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "4.6/5 (5 ratings, Flipkart)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: Vitamin C, Vitamin E",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.6★ from 5 ratings",
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/u/u/p/200-0-vitamin-c-sunscreen-spf-50-niacinamide-face-cream-pa-50-original-imahhv5mdd6hz4pm.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/q/b/i/300-0-face-sunscreen-spf-50-vitamin-c-e-lotion-broad-spectrum-50-original-imahhv6nxgzxz24y.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/n/f/8/300-0-vitamin-c-sunscreen-spf-50-niacinamide-face-cream-pa-50-original-imahhv5mgprvhzpk.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/g/n/p/200-0-vitamin-c-sunscreen-spf-50-niacinamide-face-cream-pa-50-original-imahhv5mfwhjasxj.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/f/v/y/240-0-collagen-sunscreen-spf-50-with-hyaluronic-acid-for-firming-original-imahnr3fywhjgpyg.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/smartdrops-sunscreen-spf-50-pa-lotion-vitamin-c-cream-niacinamide/p/itm80c9ab41c2441",
+  "buyStore": "Flipkart",
+  "title": "smartdrops Sunscreen - SPF 50 PA+++ SPF 50 Lotion | Vitamin C Sunscreen Cream | Niacinamide",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:lotion",
+   "spf:50",
+   "pa:+++",
+   "water:unstated",
+   "ing:vitamin-c",
+   "ing:niacinamide",
+   "ing:vitamin-e",
+   "claim:spf-claim",
+   "skin:all",
+   "aud:women",
+   "size:xl",
+   "rating:4.5",
+   "store:flipkart",
+   "target:dark-spots",
+   "inci:partial"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Vitamin C, Vitamin E",
+   "inciNote": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.6★ from 5 ratings"
+  }
+ },
+ {
+  "id": "luvyh-itmd8f190124474b",
+  "brand": "LUVYH",
+  "model": "Sunscreen - SPF 50 PA+ Daily Brightening UV Cream SPF50 PA+ Vitamin C Daily Glow Sun Prote…",
+  "price": 165,
+  "capacityLine": "100 ml",
+  "materialLine": "vitamin C",
+  "featureLine": "Sunscreen · Paraben-free · SPF 50 · ₹165/100ml",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 1 ingredient named — formula unscored",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 1.3
+  },
+  "fullSpec": {
+   "quantity": "100 ml",
+   "pricePer100": "₹165/100ml",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin C (per listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim, SPF 50",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types",
+   "rating": "3.5/5 (4 ratings, Flipkart)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: Naturally Ingredients",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.5★ from 4 ratings",
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/3/v/u/100-vitamin-c-daily-glow-sunscreen-spf-50-protects-from-uv-rays-original-imahjfk4wun2eg9j.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/p/e/c/100-vitamin-c-daily-glow-sunscreen-spf-50-protects-from-uv-rays-original-imahjfk4mqkhbzkp.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/l/8/1/100-vitamin-c-daily-glow-sunscreen-spf-50-protects-from-uv-rays-original-imahjfk4ecvzfgqj.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/j/r/5/100-vitamin-c-daily-glow-sunscreen-spf-50-protects-from-uv-rays-original-imahjfk4rhdhvhf2.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/o/6/l/60-spf-50-pa-vitamin-c-e-super-bright-sunscreen-k4-white-50-miss-original-imahz6mhrggxxdhv.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/luvyh-sunscreen-spf-50-pa-daily-brightening-uv-cream-spf50-vitamin-c-glow-sun-protection-skin/p/itmd8f190124474b",
+  "buyStore": "Flipkart",
+  "title": "LUVYH Sunscreen - SPF 50 PA+ Daily Brightening UV Cream SPF50 PA+ Vitamin C Daily Glow Sun Protection Skin",
+  "tags": [
+   "scope:face",
+   "format:gel",
+   "format:cream",
+   "spf:50",
+   "pa:+",
+   "water:unstated",
+   "ing:vitamin-c",
+   "claim:brightening",
+   "claim:spf-claim",
+   "skin:all",
+   "free:paraben",
+   "free:vegan",
+   "aud:women",
+   "size:standard",
+   "rating:3.5",
+   "store:flipkart",
+   "target:dark-spots",
+   "inci:partial"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Naturally Ingredients",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 0,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.5★ from 4 ratings"
+  }
+ },
+ {
+  "id": "smartdrops-itm6a624fa0b656f",
+  "brand": "smartdrops",
+  "model": "Sunscreen - SPF 50 PA+++ Vitamin C and Niacinamide Sunscreen SPF 50 for All Skin Types",
+  "price": 220,
+  "capacityLine": "120 ml",
+  "materialLine": "vitamin C + niacinamide",
+  "featureLine": "Sunscreen · Paraben-free · SPF 50 · ₹183/100ml",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0.8
+  },
+  "fullSpec": {
+   "quantity": "120 ml",
+   "pricePer100": "₹183/100ml",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin C, niacinamide (per listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "SPF 50",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "3/5 (3 ratings, Flipkart)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3★ from 3 ratings",
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/x/q/d/120-vitamin-c-and-niacinamide-sunscreen-spf-50-for-all-skin-original-imahmgk3y2pvsqz9.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-sunscreen/l/p/2/180-vitamin-c-niacinamide-sunscreen-spf-50-broad-spectrum-daily-original-imahmf4hvc8fzvd8.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-sunscreen/u/6/n/180-vitamin-c-niacinamide-sunscreen-spf-50-broad-spectrum-daily-original-imahmf4hyrrhytjh.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/w/m/a/180-0-vitamin-c-niacinamide-sunscreen-spf-50-maintain-skin-original-imahhfetcashwkve.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/q/9/l/300-0-spf-50-sunscreen-face-uv-shield-cream-lightweight-texture-original-imahhvahrfbagphz.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/smartdrops-sunscreen-spf-50-pa-vitamin-c-niacinamide-all-skin-types/p/itm6a624fa0b656f",
+  "buyStore": "Flipkart",
+  "title": "smartdrops Sunscreen - SPF 50 PA+++ Vitamin C and Niacinamide Sunscreen SPF 50 for All Skin Types",
+  "tags": [
+   "scope:unstated",
+   "format:cream",
+   "spf:50",
+   "pa:+++",
+   "water:unstated",
+   "ing:vitamin-c",
+   "ing:niacinamide",
+   "claim:spf-claim",
+   "skin:all",
+   "free:paraben",
+   "free:vegan",
+   "aud:women",
+   "size:standard",
+   "rating:low",
+   "store:flipkart",
+   "target:dark-spots",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3★ from 3 ratings"
+  }
+ },
+ {
+  "id": "sonavi-itm0fae576ed7f61",
+  "brand": "Sonavi",
+  "model": "Sunscreen - SPF 50 Daily Glow with Vitamin C + E & Watermelon for Sun Protection Cream",
+  "price": 198,
+  "capacityLine": "180 g",
+  "materialLine": "vitamin C",
+  "featureLine": "Sunscreen · Paraben-free · SPF 50 · ₹110/100g",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0.8
+  },
+  "fullSpec": {
+   "quantity": "180 g",
+   "pricePer100": "₹110/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin C (per listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim, SPF 50",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types, Combination Skin, Dry Skin, Normal Skin, Oily Skin, Sensitive Skin",
+   "rating": "3.3/5 (3 ratings, Flipkart)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.3★ from 3 ratings",
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/b/c/g/180-daily-glow-with-vitamin-c-e-watermelon-for-sun-protection-original-imah9v2mmnvvhweg.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/t/e/g/120-non-greasy-sunscreen-for-daily-face-body-protection-70-original-imah9swy2kecqjva.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/1/l/x/120-non-greasy-sunscreen-for-daily-face-body-protection-70-original-imah9swyazz6hejs.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/n/t/l/-original-imahqzwfbpucggby.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/9/c/j/180-sunscreen-cream-daily-glow-with-vitamin-c-e-for-sun-original-imah6yfgks4a9hhc.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/sonavi-sunscreen-spf-50-daily-glow-vitamin-c-e-watermelon-sun-protection-cream/p/itm0fae576ed7f61",
+  "buyStore": "Flipkart",
+  "title": "Sonavi Sunscreen - SPF 50 Daily Glow with Vitamin C + E & Watermelon for Sun Protection Cream",
+  "tags": [
+   "scope:face",
+   "format:cream",
+   "format:wash",
+   "spf:50",
+   "water:unstated",
+   "ing:vitamin-c",
+   "ing:watermelon",
+   "claim:brightening",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:spf-claim",
+   "skin:oily",
+   "skin:dry",
+   "skin:combination",
+   "skin:sensitive",
+   "skin:normal",
+   "skin:all",
+   "free:paraben",
+   "free:sensitive-safe",
+   "aud:women",
+   "size:large",
+   "rating:low",
+   "store:flipkart",
+   "target:dark-spots",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.3★ from 3 ratings"
+  }
+ },
+ {
+  "id": "sonavi-itm0ea569afb3996",
+  "brand": "Sonavi",
+  "model": "Sunscreen - SPF 50 PA+++ Vitamin C+E Daily Glow Sunscreen For Even Toned & Glowing Skin",
+  "price": 228,
+  "capacityLine": "180 ml",
+  "materialLine": "vitamin C",
+  "featureLine": "Sunscreen · SPF 50 · ₹127/100ml",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0.8
+  },
+  "fullSpec": {
+   "quantity": "180 ml",
+   "pricePer100": "₹127/100ml",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin C (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim, SPF 50",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types, Combination Skin, Dry Skin, Normal Skin, Oily Skin, Sensitive Skin",
+   "rating": "3/5 (3 ratings, Flipkart)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3★ from 3 ratings",
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/m/d/s/60-super-bright-waterlight-for-even-toned-glowing-skin-50-sonavi-original-imah5xtswhmshwh5.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/i/h/w/180-vitamin-c-e-for-women-men-ideal-for-oily-dry-sensitive-skin-original-imah5yvkabtj7knc.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/v/y/c/60-super-bright-waterlight-for-even-toned-glowing-skin-50-sonavi-original-imah5yvpdphngrvg.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/5/1/o/180-vitamin-c-e-super-bright-sunscreen-spf-50-pa-set-of-df13-50-original-imahng9mpsy6zcdf.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/j/b/r/120-vitamin-c-e-super-bright-water-light-for-deeply-hydrating-50-original-imah5y67pqgg68tr.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/sonavi-sunscreen-spf-50-pa-vitamin-c-e-daily-glow-even-toned-glowing-skin/p/itm0ea569afb3996",
+  "buyStore": "Flipkart",
+  "title": "Sonavi Sunscreen - SPF 50 PA+++ Vitamin C+E Daily Glow Sunscreen For Even Toned & Glowing Skin",
+  "tags": [
+   "scope:face",
+   "format:cream",
+   "spf:50",
+   "pa:+++",
+   "water:unstated",
+   "ing:vitamin-c",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:spf-claim",
+   "skin:oily",
+   "skin:dry",
+   "skin:combination",
+   "skin:sensitive",
+   "skin:normal",
+   "skin:all",
+   "free:sensitive-safe",
+   "aud:women",
+   "size:large",
+   "rating:low",
+   "store:flipkart",
+   "target:dark-spots",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3★ from 3 ratings"
+  }
+ },
+ {
+  "id": "sonavi-itm5ff4185c7fb15",
+  "brand": "Sonavi",
+  "model": "Sunscreen - SPF 50 PA+++ Vitamin C+E Super Bright,WaterLight Sunscreen Cream For Deeply Hy…",
+  "price": 182,
+  "capacityLine": "120 g",
+  "materialLine": "vitamin C",
+  "featureLine": "Sunscreen · SPF 50 · ₹152/100g",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "120 g",
+   "pricePer100": "₹152/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin C (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim, SPF 50",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types, Combination Skin, Dry Skin, Normal Skin, Oily Skin, Sensitive Skin",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/x/7/i/60-vitamin-c-e-super-bright-waterlight-sunscreen-cream-for-original-imah5yvqfzyuxznz.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/v/f/n/180-vitamin-c-e-brightening-sunscreen-with-vitamin-c-niacinamide-original-imah5yvpyg3takpn.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/i/h/w/180-vitamin-c-e-for-women-men-ideal-for-oily-dry-sensitive-skin-original-imah5yvkabtj7knc.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/v/y/c/60-super-bright-waterlight-for-even-toned-glowing-skin-50-sonavi-original-imah5yvpdphngrvg.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/2/1/f/60-vitamin-c-e-super-bright-water-light-sunscreen-cream-for-original-imah5zymzactncvd.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/sonavi-sunscreen-spf-50-pa-vitamin-c-e-super-bright-waterlight-cream-deeply-hydrating/p/itm5ff4185c7fb15",
+  "buyStore": "Flipkart",
+  "title": "Sonavi Sunscreen - SPF 50 PA+++ Vitamin C+E Super Bright,WaterLight Sunscreen Cream For Deeply Hydrating",
+  "tags": [
+   "scope:face",
+   "format:cream",
+   "format:lotion",
+   "spf:50",
+   "pa:+++",
+   "water:unstated",
+   "ing:vitamin-c",
+   "claim:brightening",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:no-white-cast",
+   "claim:broad-spectrum",
+   "claim:lightweight",
+   "claim:spf-claim",
+   "skin:oily",
+   "skin:dry",
+   "skin:combination",
+   "skin:sensitive",
+   "skin:normal",
+   "skin:all",
+   "free:sensitive-safe",
+   "aud:women",
+   "size:standard",
+   "rating:none",
+   "store:flipkart",
+   "target:dark-spots",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "smartdrops-itmb9ba3eef8a3cd",
+  "brand": "smartdrops",
+  "model": "Sunscreen - SPF 50 PA+++ SPF 50 PA+++ Face Sunscreen | Vitamin C Lotion | Skin Care",
+  "price": 185,
+  "capacityLine": "60 g",
+  "materialLine": "vitamin C + hyaluronic acid + vitamin E",
+  "featureLine": "Sunscreen · SPF 50 · ₹308/100g",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 2 ingredients named — formula unscored",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "60 g",
+   "pricePer100": "₹308/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin C, hyaluronic acid, vitamin E (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "SPF 50",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: Vitamin C, Vitamin E",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/4/j/t/300-0-spf-50-pa-face-sunscreen-vitamin-c-lotion-skin-care-50-original-imahhvfexsvfhytv.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/u/u/p/200-0-vitamin-c-sunscreen-spf-50-niacinamide-face-cream-pa-50-original-imahhv5mdd6hz4pm.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/q/b/i/300-0-face-sunscreen-spf-50-vitamin-c-e-lotion-broad-spectrum-50-original-imahhv6nxgzxz24y.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/n/f/8/300-0-vitamin-c-sunscreen-spf-50-niacinamide-face-cream-pa-50-original-imahhv5mgprvhzpk.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/g/n/p/200-0-vitamin-c-sunscreen-spf-50-niacinamide-face-cream-pa-50-original-imahhv5mfwhjasxj.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/smartdrops-sunscreen-spf-50-pa-face-vitamin-c-lotion-skin-care/p/itmb9ba3eef8a3cd",
+  "buyStore": "Flipkart",
+  "title": "smartdrops Sunscreen - SPF 50 PA+++ SPF 50 PA+++ Face Sunscreen | Vitamin C Lotion | Skin Care",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:lotion",
+   "spf:50",
+   "pa:+++",
+   "water:unstated",
+   "ing:vitamin-c",
+   "ing:hyaluronic-acid",
+   "ing:collagen",
+   "ing:vitamin-e",
+   "claim:anti-aging",
+   "claim:exfoliating",
+   "claim:lightweight",
+   "claim:spf-claim",
+   "skin:all",
+   "aud:women",
+   "size:standard",
+   "rating:none",
+   "store:flipkart",
+   "target:dark-spots",
+   "inci:partial"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Vitamin C, Vitamin E",
+   "inciNote": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "smartdrops-itm40e34fde5de74",
+  "brand": "smartdrops",
+  "model": "Sunscreen - SPF 50 PA+++ Niacinamide Sunscreen SPF 50 | Vitamin C Face Lotion | PA+++",
+  "price": 185,
+  "capacityLine": "150 g",
+  "materialLine": "vitamin C + niacinamide + ceramides",
+  "featureLine": "Sunscreen · SPF 50 · ₹123/100g",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 2 ingredients named — formula unscored",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "150 g",
+   "pricePer100": "₹123/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin C, niacinamide, ceramides, vitamin E (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim, SPF 50",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: Vitamin C, Vitamin E",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/r/c/i/100-0-niacinamide-sunscreen-spf-50-vitamin-c-face-lotion-pa-50-original-imahhv78ph5npnmh.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/u/u/p/200-0-vitamin-c-sunscreen-spf-50-niacinamide-face-cream-pa-50-original-imahhv5mdd6hz4pm.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/q/b/i/300-0-face-sunscreen-spf-50-vitamin-c-e-lotion-broad-spectrum-50-original-imahhv6nxgzxz24y.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/7/z/w/300-0-vitamin-c-sunscreen-spf-50-niacinamide-face-cream-pa-50-original-imahhv5m7cshgz4g.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/g/n/p/200-0-vitamin-c-sunscreen-spf-50-niacinamide-face-cream-pa-50-original-imahhv5mfwhjasxj.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/smartdrops-sunscreen-spf-50-pa-niacinamide-vitamin-c-face-lotion/p/itm40e34fde5de74",
+  "buyStore": "Flipkart",
+  "title": "smartdrops Sunscreen - SPF 50 PA+++ Niacinamide Sunscreen SPF 50 | Vitamin C Face Lotion | PA+++",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:lotion",
+   "spf:50",
+   "pa:+++",
+   "water:unstated",
+   "ing:vitamin-c",
+   "ing:niacinamide",
+   "ing:ceramides",
+   "ing:collagen",
+   "ing:vitamin-e",
+   "claim:brightening",
+   "claim:spf-claim",
+   "skin:all",
+   "aud:women",
+   "size:large",
+   "rating:none",
+   "store:flipkart",
+   "target:dark-spots",
+   "inci:partial"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Vitamin C, Vitamin E",
+   "inciNote": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "smartdrops-itma59d3edfea0b0",
+  "brand": "smartdrops",
+  "model": "Sunscreen - SPF 50 PA+++ Vitamin C Sunscreen SPF 50 | Niacinamide Face Cream | PA+++",
+  "price": 185,
+  "capacityLine": "200 ml",
+  "materialLine": "vitamin C + niacinamide + vitamin E",
+  "featureLine": "Sunscreen · SPF 50 · ₹93/100ml",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 2 ingredients named — formula unscored",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 0.8
+  },
+  "fullSpec": {
+   "quantity": "200 ml",
+   "pricePer100": "₹93/100ml",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin C, niacinamide, vitamin E (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "SPF 50",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "3.3/5 (3 ratings, Flipkart)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: Vitamin C, Vitamin E",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.3★ from 3 ratings",
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/a/y/f/200-0-niacinamide-face-sunscreen-spf-50-pa-lotion-daily-care-50-original-imahhveftdn4dmfg.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/u/u/p/200-0-vitamin-c-sunscreen-spf-50-niacinamide-face-cream-pa-50-original-imahhv5mdd6hz4pm.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/q/b/i/300-0-face-sunscreen-spf-50-vitamin-c-e-lotion-broad-spectrum-50-original-imahhv6nxgzxz24y.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/7/z/w/300-0-vitamin-c-sunscreen-spf-50-niacinamide-face-cream-pa-50-original-imahhv5m7cshgz4g.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/q/3/s/240-collagen-sunscreen-for-dark-sun-burn-skin-solution-skin-glow-original-imahnz3rbp3jtq3x.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/smartdrops-sunscreen-spf-50-pa-vitamin-c-niacinamide-face-cream/p/itma59d3edfea0b0",
+  "buyStore": "Flipkart",
+  "title": "smartdrops Sunscreen - SPF 50 PA+++ Vitamin C Sunscreen SPF 50 | Niacinamide Face Cream | PA+++",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:lotion",
+   "spf:50",
+   "pa:+++",
+   "water:unstated",
+   "ing:vitamin-c",
+   "ing:niacinamide",
+   "ing:vitamin-e",
+   "claim:spf-claim",
+   "skin:all",
+   "aud:women",
+   "size:large",
+   "rating:low",
+   "store:flipkart",
+   "target:dark-spots",
+   "inci:partial"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Vitamin C, Vitamin E",
+   "inciNote": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.3★ from 3 ratings"
+  }
+ },
+ {
+  "id": "smartdrops-itm21b4b93ea2ea9",
+  "brand": "smartdrops",
+  "model": "Sunscreen - SPF 50 PA+++ SPF 50 PA+++ Sunscreen | Vitamin C E Face Cream | Daily Use",
+  "price": 185,
+  "capacityLine": "50 g",
+  "materialLine": "vitamin C + niacinamide + aloe vera",
+  "featureLine": "Sunscreen · SPF 50 · ₹370/100g",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 2 ingredients named — formula unscored",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹370/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin C, niacinamide, aloe vera, vitamin E (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "SPF 50",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: Vitamin C, Vitamin E",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/i/5/y/300-0-spf-50-pa-sunscreen-vitamin-c-e-face-cream-daily-use-50-original-imahhv7n6cqtfxb6.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/u/u/p/200-0-vitamin-c-sunscreen-spf-50-niacinamide-face-cream-pa-50-original-imahhv5mdd6hz4pm.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/q/b/i/300-0-face-sunscreen-spf-50-vitamin-c-e-lotion-broad-spectrum-50-original-imahhv6nxgzxz24y.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/7/z/w/300-0-vitamin-c-sunscreen-spf-50-niacinamide-face-cream-pa-50-original-imahhv5m7cshgz4g.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/g/n/p/200-0-vitamin-c-sunscreen-spf-50-niacinamide-face-cream-pa-50-original-imahhv5mfwhjasxj.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/smartdrops-sunscreen-spf-50-pa-vitamin-c-e-face-cream-daily-use/p/itm21b4b93ea2ea9",
+  "buyStore": "Flipkart",
+  "title": "smartdrops Sunscreen - SPF 50 PA+++ SPF 50 PA+++ Sunscreen | Vitamin C E Face Cream | Daily Use",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:lotion",
+   "spf:50",
+   "pa:+++",
+   "water:unstated",
+   "ing:vitamin-c",
+   "ing:niacinamide",
+   "ing:aloe-vera",
+   "ing:vitamin-e",
+   "claim:broad-spectrum",
+   "claim:spf-claim",
+   "skin:all",
+   "aud:women",
+   "size:travel",
+   "rating:none",
+   "store:flipkart",
+   "target:dark-spots",
+   "inci:partial"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Vitamin C, Vitamin E",
+   "inciNote": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "smartdrops-itm3a9d92ca4387c",
+  "brand": "smartdrops",
+  "model": "Sunscreen - SPF 50 PA+++ SPF 50 PA+++ Lotion | Vitamin C E Sunscreen | Face Use Cream",
+  "price": 186,
+  "capacityLine": "60 g",
+  "materialLine": "vitamin C + niacinamide + vitamin E",
+  "featureLine": "Sunscreen · SPF 50 · ₹310/100g",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 2 ingredients named — formula unscored",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "60 g",
+   "pricePer100": "₹310/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin C, niacinamide, vitamin E (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim, Anti-aging claim, SPF 50",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: Vitamin C, Vitamin E",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-sunscreen/c/i/t/100-vitamin-c-sunscreen-cream-spf-50-face-care-niacinamide-50-original-imahhveywxkqytte.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/u/u/p/200-0-vitamin-c-sunscreen-spf-50-niacinamide-face-cream-pa-50-original-imahhv5mdd6hz4pm.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/q/b/i/300-0-face-sunscreen-spf-50-vitamin-c-e-lotion-broad-spectrum-50-original-imahhv6nxgzxz24y.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/n/f/8/300-0-vitamin-c-sunscreen-spf-50-niacinamide-face-cream-pa-50-original-imahhv5mgprvhzpk.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/g/n/p/200-0-vitamin-c-sunscreen-spf-50-niacinamide-face-cream-pa-50-original-imahhv5mfwhjasxj.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/smartdrops-sunscreen-spf-50-pa-lotion-vitamin-c-e-face-use-cream/p/itm3a9d92ca4387c",
+  "buyStore": "Flipkart",
+  "title": "smartdrops Sunscreen - SPF 50 PA+++ SPF 50 PA+++ Lotion | Vitamin C E Sunscreen | Face Use Cream",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:lotion",
+   "spf:50",
+   "pa:+++",
+   "water:unstated",
+   "ing:vitamin-c",
+   "ing:niacinamide",
+   "ing:collagen",
+   "ing:vitamin-e",
+   "claim:brightening",
+   "claim:whitening-claim",
+   "claim:anti-aging",
+   "claim:spf-claim",
+   "skin:all",
+   "aud:women",
+   "size:standard",
+   "rating:none",
+   "store:flipkart",
+   "target:dark-spots",
+   "inci:partial"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Vitamin C, Vitamin E",
+   "inciNote": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "smartdrops-itmda6a6e65dc8a6",
+  "brand": "smartdrops",
+  "model": "Sunscreen - SPF 50+++ PA+ Vitamin C+E Sun Damage Protection,Sunscreen,For Even Toned & Glo…",
+  "price": 178,
+  "capacityLine": "50 g",
+  "materialLine": "vitamin C + niacinamide",
+  "featureLine": "Sunscreen · Paraben-free · SPF 50 · ₹356/100g",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹356/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin C, niacinamide (per listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim, SPF 50",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistant / waterproof (duration not stated), marketed for swim / sport / outdoors (per listing — not tested here, not scored)"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/4/c/9/60-vitamin-c-e-sun-damage-protection-sunscreen-for-even-toned-original-imahb7wnnuksgyuq.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/w/z/e/60-sunscreen-sun-damage-protection-and-suits-all-skin-type-original-imahb2avwdzccz6n.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/e/s/z/60-sunscreen-sun-damage-protection-and-suits-all-skin-type-original-imahb2avxrgvjvkz.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/d/j/f/60-sunscreen-cream-sun-damage-protection-sunscreen-cream-50-original-imahb3hqrbbbucwt.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/o/n/8/60-sunscreen-vitamin-c-e-super-bright-sunscreen-spf-50-pa-all-original-imahbfbfhtzv9tsj.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/smartdrops-sunscreen-spf-50-pa-vitamin-c-e-sun-damage-protection-sunscreen-for-even-toned-glowing-skin/p/itmda6a6e65dc8a6",
+  "buyStore": "Flipkart",
+  "title": "smartdrops Sunscreen - SPF 50+++ PA+ Vitamin C+E Sun Damage Protection,Sunscreen,For Even Toned & Glowing Skin",
+  "tags": [
+   "scope:both",
+   "format:gel",
+   "format:cream",
+   "format:lotion",
+   "spf:50+",
+   "pa:+",
+   "water:resistant",
+   "water:sport",
+   "ing:vitamin-c",
+   "ing:niacinamide",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:soothing",
+   "claim:water-resistant",
+   "claim:broad-spectrum",
+   "claim:spf-claim",
+   "skin:oily",
+   "skin:combination",
+   "skin:sensitive",
+   "skin:all",
+   "free:paraben",
+   "free:sensitive-safe",
+   "aud:women",
+   "size:travel",
+   "rating:none",
+   "store:flipkart",
+   "target:dark-spots",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "smartdrops-itm2de012b3ae900",
+  "brand": "smartdrops",
+  "model": "Sunscreen - SPF 50 PA+++ SPF 50 Sunscreen with Vitamin C for Sun Protection and Radiant Sk…",
+  "price": 220,
+  "capacityLine": "240 g",
+  "materialLine": "vitamin C + hyaluronic acid",
+  "featureLine": "Sunscreen · Paraben-free · SPF 50 · ₹92/100g",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 1 ingredient named — formula unscored",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "240 g",
+   "pricePer100": "₹92/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin C, hyaluronic acid (per listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim, SPF 50",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: Vitamin C",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-sunscreen/s/o/u/120-vitamin-c-niacinamide-spf-50-sunscreen-for-face-body-daily-original-imahmggesmwytwt5.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-sunscreen/l/p/2/180-vitamin-c-niacinamide-sunscreen-spf-50-broad-spectrum-daily-original-imahmf4hvc8fzvd8.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-sunscreen/r/j/1/180-spf-50-niacinamide-vitamin-c-sunscreen-for-face-body-skin-original-imahmf4xvzgjsmdz.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-sunscreen/u/6/n/180-vitamin-c-niacinamide-sunscreen-spf-50-broad-spectrum-daily-original-imahmf4hyrrhytjh.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/q/9/l/300-0-spf-50-sunscreen-face-uv-shield-cream-lightweight-texture-original-imahhvahrfbagphz.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/smartdrops-sunscreen-spf-50-pa-vitamin-c-sun-protection-radiant-skin/p/itm2de012b3ae900",
+  "buyStore": "Flipkart",
+  "title": "smartdrops Sunscreen - SPF 50 PA+++ SPF 50 Sunscreen with Vitamin C for Sun Protection and Radiant Skin",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:lotion",
+   "spf:50",
+   "pa:+++",
+   "water:unstated",
+   "ing:vitamin-c",
+   "ing:hyaluronic-acid",
+   "ing:collagen",
+   "claim:brightening",
+   "claim:anti-aging",
+   "claim:spf-claim",
+   "skin:all",
+   "free:paraben",
+   "aud:women",
+   "size:large",
+   "rating:none",
+   "store:flipkart",
+   "target:dark-spots",
+   "inci:partial"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Vitamin C",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "sonavi-itm08517bcc51cbd",
+  "brand": "Sonavi",
+  "model": "Sunscreen - SPF 50 Sunscreen with Multivitamin C + E | for Even Toned & Glowing Skin",
+  "price": 145,
+  "capacityLine": "120 g",
+  "materialLine": "vitamin C",
+  "featureLine": "Sunscreen · Paraben-free · SPF 50 · ₹121/100g",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "120 g",
+   "pricePer100": "₹121/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin C (per listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim, SPF 50",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types, Combination Skin, Dry Skin, Normal Skin, Oily Skin, Sensitive Skin",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/y/p/f/120-sunscreen-with-multivitamin-c-e-for-even-toned-glowing-skin-original-imah9syhwhspqkz6.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/l/c/i/120-non-greasy-sunscreen-for-daily-face-body-protection-70-original-imah9swyhpdp833y.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/t/e/g/120-non-greasy-sunscreen-for-daily-face-body-protection-70-original-imah9swy2kecqjva.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/1/l/x/120-non-greasy-sunscreen-for-daily-face-body-protection-70-original-imah9swyazz6hejs.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/y/h/r/50-sunscreen-ultra-sheer-and-dry-touch-sunblock-clear-50-original-imahpby52qzr884p.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/sonavi-sunscreen-spf-50-multivitamin-c-e-even-toned-glowing-skin/p/itm08517bcc51cbd",
+  "buyStore": "Flipkart",
+  "title": "Sonavi Sunscreen - SPF 50 Sunscreen with Multivitamin C + E | for Even Toned & Glowing Skin",
+  "tags": [
+   "scope:face",
+   "format:cream",
+   "format:lotion",
+   "spf:50",
+   "water:unstated",
+   "ing:vitamin-c",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:spf-claim",
+   "skin:oily",
+   "skin:dry",
+   "skin:combination",
+   "skin:sensitive",
+   "skin:normal",
+   "skin:all",
+   "free:paraben",
+   "free:sensitive-safe",
+   "aud:women",
+   "size:standard",
+   "rating:none",
+   "store:flipkart",
+   "target:dark-spots",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "sonavi-itm72fb1193d81c5",
+  "brand": "Sonavi",
+  "model": "Sunscreen - SPF 50 PA+ Daily Use Sunscreen Lotion with SPF 50, Vitamin C, and Antioxidants…",
+  "price": 213,
+  "capacityLine": "180 g",
+  "materialLine": "vitamin C + centella/cica + aloe vera",
+  "featureLine": "Sunscreen · Paraben-free · SPF 50 · ₹118/100g",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 2 ingredients named — formula unscored",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "180 g",
+   "pricePer100": "₹118/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin C, centella/cica, aloe vera (per listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim, SPF 50",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: Aloe Vera, Orange Extract",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-sunscreen/0/u/n/120-sunscreen-lotion-spf-50-for-skin-protection-and-hydration-50-original-imahhf8szkhy7mqh.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/9/x/5/60-0-sunscreen-lotion-spf-50-for-face-body-with-uva-uvb-original-imahh2brfnjzhpv9.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/a/c/n/60-0-sunscreen-lotion-spf-50-for-face-body-with-uva-uvb-original-imahh2brrkfytg6a.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/0/u/e/120-0-sunscreen-lotion-spf-50-for-face-body-with-uva-uvb-original-imahh2brffvuz2uh.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/c/g/y/50-ultra-light-gel-sunscreen-non-greasy-uv-protection-for-men-original-imahpcfumtphzd23.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/sonavi-sunscreen-spf-50-pa-daily-use-lotion-50-vitamin-c-antioxidants-skin/p/itm72fb1193d81c5",
+  "buyStore": "Flipkart",
+  "title": "Sonavi Sunscreen - SPF 50 PA+ Daily Use Sunscreen Lotion with SPF 50, Vitamin C, and Antioxidants for Skin",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:lotion",
+   "spf:50",
+   "pa:+",
+   "water:unstated",
+   "ing:vitamin-c",
+   "ing:centella-cica",
+   "ing:aloe-vera",
+   "claim:brightening",
+   "claim:broad-spectrum",
+   "claim:spf-claim",
+   "skin:all",
+   "free:paraben",
+   "aud:women",
+   "size:large",
+   "rating:none",
+   "store:flipkart",
+   "target:dark-spots",
+   "inci:partial"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Aloe Vera, Orange Extract",
+   "inciNote": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "latibule-itm589fb52ae3fa1",
+  "brand": "Latibule",
+  "model": "Sunscreen - SPF 30 Vitamin C Niacinamide Sunscreen SPF 50+++ Face & Body Sun Cream",
+  "price": 128,
+  "capacityLine": "240 g",
+  "materialLine": "vitamin C + niacinamide",
+  "featureLine": "Sunscreen · Paraben-free · SPF 30 · ₹53/100g",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 2 ingredients named — formula unscored",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "240 g",
+   "pricePer100": "₹53/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin C, niacinamide (per listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim, SPF 30",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: Niacinamide,Vitamin C",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/2/j/q/240-0-sun-allergy-protection-niacinamide-vitamin-c-sunscreen-spf-original-imahzqza2wcuxy2t.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/m/r/0/60-0-niacinamide-vitamin-c-sunscreen-spf-50-pa-for-face-body-50-original-imahm8re27ggehfg.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/w/i/r/180-0-niacinamide-vitamin-c-sunscreen-spf-50-pa-for-face-body-50-original-imahm8redxa4tpbz.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/q/t/e/240-0-hydrating-sunscreen-spf-50-pa-collagen-firming-skin-original-imahz4hw9huatv5y.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/i/z/i/60-0-sunscreen-spf-50-with-niacinamide-vitamin-c-for-face-body-original-imahpyq2wgmgbg2s.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/latibule-sunscreen-spf-30-sun-allergy-protection-niacinamide-vitamin-c-50/p/itm589fb52ae3fa1",
+  "buyStore": "Flipkart",
+  "title": "Latibule Sunscreen - SPF 30 Vitamin C Niacinamide Sunscreen SPF 50+++ Face & Body Sun Cream",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:oil",
+   "spf:30",
+   "pa:++++",
+   "water:unstated",
+   "ing:vitamin-c",
+   "ing:niacinamide",
+   "ing:collagen",
+   "ing:vitamin-b5-panthenol",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:whitening-claim",
+   "claim:anti-aging",
+   "claim:pores",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:lightweight",
+   "claim:spf-claim",
+   "skin:oily",
+   "skin:all",
+   "free:paraben",
+   "aud:women",
+   "size:large",
+   "rating:none",
+   "store:flipkart",
+   "target:dark-spots",
+   "inci:partial"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Niacinamide,Vitamin C",
+   "inciNote": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "smartdrops-itmef73268372a6c",
+  "brand": "smartdrops",
+  "model": "Sunscreen - SPF 50 PA+++ Vitamin C Sunscreen SPF 50 with Niacinamide for Even Skin Tone",
+  "price": 220,
+  "capacityLine": "50 g",
+  "materialLine": "vitamin C + niacinamide + ceramides",
+  "featureLine": "Sunscreen · Paraben-free · SPF 50 · ₹440/100g",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 1 ingredient named — formula unscored",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹440/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin C, niacinamide, ceramides, kojic acid, turmeric, vitamin E (per listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, SPF 50",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: Vitamin C",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-sunscreen/s/8/l/180-niacinamide-vitamin-c-sunscreen-spf-50-for-healthy-skin-uv-original-imahmgh9trm4vbxd.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-sunscreen/l/p/2/180-vitamin-c-niacinamide-sunscreen-spf-50-broad-spectrum-daily-original-imahmf4hvc8fzvd8.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-sunscreen/u/6/n/180-vitamin-c-niacinamide-sunscreen-spf-50-broad-spectrum-daily-original-imahmf4hyrrhytjh.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/w/m/a/180-0-vitamin-c-niacinamide-sunscreen-spf-50-maintain-skin-original-imahhfetcashwkve.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/c/8/i/50-broad-spectrum-spf-50-pa-sunscreen-for-daily-use-pack-1-original-imahzgz2rmzkxxay.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/smartdrops-sunscreen-spf-50-pa-vitamin-c-niacinamide-even-skin-tone/p/itmef73268372a6c",
+  "buyStore": "Flipkart",
+  "title": "smartdrops Sunscreen - SPF 50 PA+++ Vitamin C Sunscreen SPF 50 with Niacinamide for Even Skin Tone",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:lotion",
+   "format:pack",
+   "spf:50",
+   "pa:+++",
+   "water:unstated",
+   "ing:vitamin-c",
+   "ing:niacinamide",
+   "ing:ceramides",
+   "ing:kojic-acid",
+   "ing:turmeric",
+   "ing:vitamin-e",
+   "claim:hydrating",
+   "claim:broad-spectrum",
+   "claim:korean",
+   "claim:spf-claim",
+   "skin:all",
+   "free:paraben",
+   "free:vegan",
+   "aud:women",
+   "size:travel",
+   "rating:none",
+   "store:flipkart",
+   "target:dark-spots",
+   "inci:partial"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Vitamin C",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "sonavi-itmee49440872a35",
+  "brand": "Sonavi",
+  "model": "Sunscreen - SPF 50 PA+++ Vitamin C Daily Glow Sunscreen For Even Toned & Glowing Skin",
+  "price": 163,
+  "capacityLine": "50 g",
+  "materialLine": "vitamin C",
+  "featureLine": "Sunscreen · SPF 50 · ₹326/100g",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹326/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin C (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim, SPF 50",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types, Combination Skin, Dry Skin, Normal Skin, Oily Skin, Sensitive Skin",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/b/7/y/60-vitamin-c-daily-glow-sunscreen-for-even-toned-glowing-skin-50-original-imah5xwf9szqsgmz.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/m/d/s/60-super-bright-waterlight-for-even-toned-glowing-skin-50-sonavi-original-imah5xtswhmshwh5.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/c/8/i/50-broad-spectrum-spf-50-pa-sunscreen-for-daily-use-pack-1-original-imahzgz2rmzkxxay.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/q/5/s/60-sun-protection-sunscreen-lotion-50-sonavi-original-imah9xgfbkygekp9.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/u/5/u/120-spf-50-sunblock-cream-uva-uvb-protection-non-greasy-men-original-imahpws45j9spchh.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/sonavi-sunscreen-spf-50-pa-vitamin-c-daily-glow-even-toned-glowing-skin/p/itmee49440872a35",
+  "buyStore": "Flipkart",
+  "title": "Sonavi Sunscreen - SPF 50 PA+++ Vitamin C Daily Glow Sunscreen For Even Toned & Glowing Skin",
+  "tags": [
+   "scope:face",
+   "format:cream",
+   "format:pack",
+   "spf:50",
+   "pa:+++",
+   "sun:mineral",
+   "water:unstated",
+   "ing:vitamin-c",
+   "ing:watermelon",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:hydrating",
+   "claim:broad-spectrum",
+   "claim:spf-claim",
+   "skin:oily",
+   "skin:dry",
+   "skin:combination",
+   "skin:sensitive",
+   "skin:normal",
+   "skin:all",
+   "free:sensitive-safe",
+   "aud:women",
+   "size:travel",
+   "rating:none",
+   "store:flipkart",
+   "target:dark-spots",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "ondps-itm3a52652687070",
+  "brand": "ONDPS",
+  "model": "Sunscreen - SPF 50 PA+++ X Niacinamide 2% Vitamin C Sunscreen for glowing skin | SPF 50+ P…",
+  "price": 160,
+  "capacityLine": "50 g",
+  "materialLine": "vitamin C + niacinamide + vitamin E",
+  "featureLine": "Sunscreen · Paraben-free · SPF 50 · ₹320/100g",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 1 ingredient named — formula unscored",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹320/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin C, niacinamide, vitamin E (per listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim, Acne/blemish claim, SPF 50",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types, Dry Skin, Normal Skin, Oily Skin",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: Vitamin C + vitamin E",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/m/i/4/50-x-niacinamide-2-vitamin-c-sunscreen-for-glowing-skin-spf-50-original-imahhdhdsbvkmjjd.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/e/f/1/50-spf-50-pa-vitamin-c-e-super-bright-sunscreen-all-skin-dx2-50-original-imahhfd9nyzksewa.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/w/c/8/50-sunscreen-water-based-hydrating-sunscreen-50-ondps-original-imahhfevksgsm8yy.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/o/r/b/50-vitamin-c-e-sunscreen-50-ondps-original-imahhfdfdmzenwu4.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/h/c/p/50-vitamin-c-e-sunscreen-50-ondps-original-imahhfdfnxf8d5gy.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/ondps-sunscreen-spf-50-pa-x-niacinamide-2-vitamin-c-glowing-skin-50-pa-ac5/p/itm3a52652687070",
+  "buyStore": "Flipkart",
+  "title": "ONDPS Sunscreen - SPF 50 PA+++ X Niacinamide 2% Vitamin C Sunscreen for glowing skin | SPF 50+ PA ++++ AC5",
+  "tags": [
+   "scope:face",
+   "format:cream",
+   "format:pack",
+   "spf:50",
+   "pa:+++",
+   "water:unstated",
+   "ing:vitamin-c",
+   "ing:niacinamide",
+   "ing:vitamin-e",
+   "claim:brightening",
+   "claim:acne",
+   "claim:no-white-cast",
+   "claim:broad-spectrum",
+   "claim:lightweight",
+   "claim:spf-claim",
+   "skin:oily",
+   "skin:dry",
+   "skin:normal",
+   "skin:acne-prone",
+   "skin:all",
+   "free:paraben",
+   "free:vegan",
+   "aud:women",
+   "size:travel",
+   "rating:none",
+   "store:flipkart",
+   "target:dark-spots",
+   "inci:partial"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Vitamin C + vitamin E",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 0,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "ondps-itm9735759f4ab4c",
+  "brand": "ONDPS",
+  "model": "Sunscreen - SPF 50 PA+++ face sunscreen vitamin c",
+  "price": 160,
+  "capacityLine": "50 g",
+  "materialLine": "vitamin C + vitamin E",
+  "featureLine": "Sunscreen · Paraben-free · SPF 50 · ₹320/100g",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 1 ingredient named — formula unscored",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹320/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin C, vitamin E (per listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim, Acne/blemish claim, SPF 50",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types, Dry Skin, Normal Skin, Oily Skin",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: Vitamin C + vitamin E",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/v/p/z/50-face-sunscreen-vitamin-c-50-ondps-original-imahhdmyyfwr5rxg.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/i/9/s/50-sunscreen-spf-50-pa-vitamin-c-e-super-bright-sunscreen-all-original-imahhfcqhyx8tj6n.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/g/y/o/50-vitamin-c-e-sunscreen-50-ondps-original-imahhfdfwb6fthxk.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/r/n/r/50-sunscreen-spf-50-pa-vitamin-c-e-super-bright-sunscreen-all-original-imahhfd7znfgrfvp.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/x/q/d/50-sunscreen-spf-50-pa-vitamin-c-e-super-bright-sunscreen-all-original-imahhfd7qy94zseq.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/ondps-sunscreen-spf-50-pa-face-vitamin-c/p/itm9735759f4ab4c",
+  "buyStore": "Flipkart",
+  "title": "ONDPS Sunscreen - SPF 50 PA+++ face sunscreen vitamin c",
+  "tags": [
+   "scope:face",
+   "format:cream",
+   "spf:50",
+   "pa:+++",
+   "water:unstated",
+   "ing:vitamin-c",
+   "ing:vitamin-e",
+   "claim:brightening",
+   "claim:acne",
+   "claim:no-white-cast",
+   "claim:lightweight",
+   "claim:spf-claim",
+   "skin:oily",
+   "skin:dry",
+   "skin:normal",
+   "skin:acne-prone",
+   "skin:all",
+   "free:paraben",
+   "free:vegan",
+   "aud:women",
+   "size:travel",
+   "rating:none",
+   "store:flipkart",
+   "target:dark-spots",
+   "inci:partial"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Vitamin C + vitamin E",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 0,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "smartdrops-itm5b5ad7b7d79c0",
+  "brand": "smartdrops",
+  "model": "Sunscreen - SPF 50 PA+++ Face Sunscreen SPF 50 | Vitamin C E Lotion | Broad Spectrum",
+  "price": 185,
+  "capacityLine": "150 g",
+  "materialLine": "vitamin C + niacinamide + vitamin E",
+  "featureLine": "Sunscreen · SPF 50 · ₹123/100g",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 2 ingredients named — formula unscored",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "150 g",
+   "pricePer100": "₹123/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin C, niacinamide, vitamin E (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim, SPF 50",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: Vitamin C, Vitamin E",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/u/u/p/200-0-vitamin-c-sunscreen-spf-50-niacinamide-face-cream-pa-50-original-imahhv5mdd6hz4pm.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/q/b/i/300-0-face-sunscreen-spf-50-vitamin-c-e-lotion-broad-spectrum-50-original-imahhv6nxgzxz24y.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/n/f/8/300-0-vitamin-c-sunscreen-spf-50-niacinamide-face-cream-pa-50-original-imahhv5mgprvhzpk.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/g/n/p/200-0-vitamin-c-sunscreen-spf-50-niacinamide-face-cream-pa-50-original-imahhv5mfwhjasxj.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/9/n/o/200-0-uv-protection-sunscreen-spf-50-pa-cream-smooth-finish-original-imahhv6gyzqwqm4e.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/smartdrops-sunscreen-spf-50-pa-face-vitamin-c-e-lotion-broad-spectrum/p/itm5b5ad7b7d79c0",
+  "buyStore": "Flipkart",
+  "title": "smartdrops Sunscreen - SPF 50 PA+++ Face Sunscreen SPF 50 | Vitamin C E Lotion | Broad Spectrum",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:lotion",
+   "spf:50",
+   "pa:+++",
+   "water:unstated",
+   "ing:vitamin-c",
+   "ing:niacinamide",
+   "ing:vitamin-e",
+   "claim:brightening",
+   "claim:exfoliating",
+   "claim:broad-spectrum",
+   "claim:lightweight",
+   "claim:spf-claim",
+   "skin:all",
+   "aud:women",
+   "size:large",
+   "rating:none",
+   "store:flipkart",
+   "target:dark-spots",
+   "inci:partial"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Vitamin C, Vitamin E",
+   "inciNote": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "smartdrops-itm69d489df6017b",
+  "brand": "smartdrops",
+  "model": "Sunscreen - SPF 50 PA+++ Face Sunscreen Cream | SPF 50 Lotion | Vitamin C E | Daily Use",
+  "price": 185,
+  "capacityLine": "180 g",
+  "materialLine": "vitamin C + niacinamide + ceramides",
+  "featureLine": "Sunscreen · SPF 50 · ₹103/100g",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 2 ingredients named — formula unscored",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "180 g",
+   "pricePer100": "₹103/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin C, niacinamide, ceramides, vitamin E (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "SPF 50",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: Vitamin C, Vitamin E",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-sunscreen/m/d/b/300-sunscreen-cream-spf-50-vitamin-c-e-face-care-niacinamide-50-original-imahhvgkyum4phzy.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/u/u/p/200-0-vitamin-c-sunscreen-spf-50-niacinamide-face-cream-pa-50-original-imahhv5mdd6hz4pm.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/7/z/w/300-0-vitamin-c-sunscreen-spf-50-niacinamide-face-cream-pa-50-original-imahhv5m7cshgz4g.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/n/f/8/300-0-vitamin-c-sunscreen-spf-50-niacinamide-face-cream-pa-50-original-imahhv5mgprvhzpk.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/g/n/p/200-0-vitamin-c-sunscreen-spf-50-niacinamide-face-cream-pa-50-original-imahhv5mfwhjasxj.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/smartdrops-sunscreen-spf-50-pa-face-cream-lotion-vitamin-c-e-daily-use/p/itm69d489df6017b",
+  "buyStore": "Flipkart",
+  "title": "smartdrops Sunscreen - SPF 50 PA+++ Face Sunscreen Cream | SPF 50 Lotion | Vitamin C E | Daily Use",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:lotion",
+   "spf:50",
+   "pa:+++",
+   "water:unstated",
+   "ing:vitamin-c",
+   "ing:niacinamide",
+   "ing:ceramides",
+   "ing:vitamin-e",
+   "claim:spf-claim",
+   "skin:all",
+   "aud:women",
+   "size:large",
+   "rating:none",
+   "store:flipkart",
+   "target:dark-spots",
+   "inci:partial"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Vitamin C, Vitamin E",
+   "inciNote": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "luzimaisa-itme4d3a09bf6819",
+  "brand": "Luzimaisa",
+  "model": "Sunscreen - SPF 50 PA+++ Gel Sunscreen SPF 50 Vitamin C for All Skin Cream",
+  "price": 607,
+  "capacityLine": "75 g",
+  "materialLine": "vitamin C + salicylic acid (BHA) + rice water",
+  "featureLine": "Sunscreen · Paraben-free · SPF 50 · ₹809/100g",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "75 g",
+   "pricePer100": "₹809/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin C, salicylic acid (BHA), rice water, vitamin E (per listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim, SPF 50",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/o/j/a/75-gel-sunscreen-spf-50-vitamin-c-for-all-skin-cream-50-original-imahn95mxeyzuans.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/q/w/o/essence-sun-ban-spf-30-pa-sunscreen-tan-block-lotion-black-white-original-imah5p8fhh54fcn6.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/7/g/r/100-perfect-skin-care-sunscreen-face-body-sunscreen-oil-free-original-imah9n3yndg5qmjf.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/f/1/u/120-elegant-uveelite-sunscreen-cream-for-summer-pack-of-2-50-original-imahywv7d7t862hp.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/c/c/e/-original-imahqzwgntzx3fdz.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/luzimaisa-sunscreen-spf-50-pa-gel-vitamin-c-all-skin-cream/p/itme4d3a09bf6819",
+  "buyStore": "Flipkart",
+  "title": "Luzimaisa Sunscreen - SPF 50 PA+++ Gel Sunscreen SPF 50 Vitamin C for All Skin Cream",
+  "tags": [
+   "scope:both",
+   "format:gel",
+   "format:cream",
+   "spf:50",
+   "pa:+++",
+   "water:unstated",
+   "ing:vitamin-c",
+   "ing:salicylic-acid-bha",
+   "ing:rice-water",
+   "ing:vitamin-e",
+   "claim:brightening",
+   "claim:oil-control",
+   "claim:no-white-cast",
+   "claim:broad-spectrum",
+   "claim:lightweight",
+   "claim:spf-claim",
+   "skin:all",
+   "free:paraben",
+   "free:vegan",
+   "aud:women",
+   "size:standard",
+   "rating:none",
+   "store:flipkart",
+   "target:dark-spots",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "smartdrops-itmdef1c531945ff",
+  "brand": "smartdrops",
+  "model": "Sunscreen - SPF 50 PA+++ SPF 50 Face Sunscreen Lotion | Vitamin C E Cream | PA+++",
+  "price": 191,
+  "capacityLine": "150 g",
+  "materialLine": "vitamin C + niacinamide + vitamin E",
+  "featureLine": "Sunscreen · SPF 50 · ₹127/100g",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 2 ingredients named — formula unscored",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "150 g",
+   "pricePer100": "₹127/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin C, niacinamide, vitamin E (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim, SPF 50",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: Vitamin C, Vitamin E",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/u/u/p/200-0-vitamin-c-sunscreen-spf-50-niacinamide-face-cream-pa-50-original-imahhv5mdd6hz4pm.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/q/b/i/300-0-face-sunscreen-spf-50-vitamin-c-e-lotion-broad-spectrum-50-original-imahhv6nxgzxz24y.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/7/z/w/300-0-vitamin-c-sunscreen-spf-50-niacinamide-face-cream-pa-50-original-imahhv5m7cshgz4g.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/g/n/p/200-0-vitamin-c-sunscreen-spf-50-niacinamide-face-cream-pa-50-original-imahhv5mfwhjasxj.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-sunscreen/f/w/g/30-c-defense-uv-glow-fluid-lightweight-daily-sunscreen-for-anti-original-imahng3mbkxpvtfu.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/smartdrops-sunscreen-spf-50-pa-face-lotion-vitamin-c-e-cream/p/itmdef1c531945ff",
+  "buyStore": "Flipkart",
+  "title": "smartdrops Sunscreen - SPF 50 PA+++ SPF 50 Face Sunscreen Lotion | Vitamin C E Cream | PA+++",
+  "tags": [
+   "scope:both",
+   "format:gel",
+   "format:cream",
+   "format:lotion",
+   "spf:50",
+   "pa:+++",
+   "water:unstated",
+   "ing:vitamin-c",
+   "ing:niacinamide",
+   "ing:collagen",
+   "ing:vitamin-e",
+   "claim:brightening",
+   "claim:exfoliating",
+   "claim:lightweight",
+   "claim:spf-claim",
+   "skin:all",
+   "aud:women",
+   "size:large",
+   "rating:none",
+   "store:flipkart",
+   "target:dark-spots",
+   "inci:partial"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Vitamin C, Vitamin E",
+   "inciNote": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "beautiloon-itm0342ebfd60bf8",
+  "brand": "beautiloon",
+  "model": "Sunscreen - SPF 50 PA++++ SPF 50+ Sunscreen PA++++ Glow Boost Vitamin C Skin Cream",
+  "price": 182,
+  "capacityLine": "50 g",
+  "materialLine": "vitamin C",
+  "featureLine": "Sunscreen · SPF 50 · ₹364/100g",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹364/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin C (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim, SPF 50",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/8/b/h/50-spf-50-sunscreen-pa-oil-control-matte-finish-cream-50-original-imahm3yhg2hwqsyn.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/x/p/l/50-spf-50-sunscreen-pa-even-glow-protection-face-cream-50-original-imahm3ykx6rr8nkz.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/c/3/n/50-spf-50-sunscreen-pa-even-glow-protection-face-cream-50-original-imahm3ykggfgqfwd.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/1/7/l/50-spf-50-sunscreen-pa-even-glow-protection-face-cream-50-original-imahm3ykv6455cmt.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/f/y/7/50-spf-50-sunscreen-pa-even-glow-protection-face-cream-50-original-imahm3yk2gnmqbpv.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/beautiloon-sunscreen-spf-50-pa-water-resistant-uv-protection-face-lotion/p/itm0342ebfd60bf8",
+  "buyStore": "Flipkart",
+  "title": "beautiloon Sunscreen - SPF 50 PA++++ SPF 50+ Sunscreen PA++++ Glow Boost Vitamin C Skin Cream",
+  "tags": [
+   "scope:face",
+   "format:cream",
+   "format:lotion",
+   "spf:50",
+   "pa:++++",
+   "water:unstated",
+   "ing:vitamin-c",
+   "claim:brightening",
+   "claim:oil-control",
+   "claim:spf-claim",
+   "skin:all",
+   "aud:women",
+   "size:travel",
+   "rating:none",
+   "store:flipkart",
+   "target:dark-spots",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "vi-john-itm7fb548d410f75",
+  "brand": "VI-JOHN",
+  "model": "Sunscreen - SPF 50 PA+++ Sun Defence 1% Hyaluronic & Vitamin C for All skin type",
+  "price": 89,
+  "capacityLine": "60 g",
+  "materialLine": "vitamin C + hyaluronic acid",
+  "featureLine": "Sunscreen · Paraben-free · SPF 50 · ₹148/100g",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 2 ingredients named — formula unscored",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "60 g",
+   "pricePer100": "₹148/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin C, hyaluronic acid (per listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "SPF 50",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types, Combination Skin, Dry Skin, Normal Skin, Oily Skin, Sensitive Skin",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: Vitamin C, 1 Hyaluronic",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/t/2/2/22-sun-defence-1-hyaluronic-vitamin-c-for-all-skin-type-white-50-original-imahpmtuqcgz8saz.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/w/6/d/22-sun-defence-1-hyaluronic-vitamin-c-for-all-skin-type-white-50-original-imahpmtuh57gryp5.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/r/i/j/22-sun-defence-1-hyaluronic-vitamin-c-for-all-skin-type-white-50-original-imahpmtuh3hffzpr.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/3/j/f/22-sun-defence-1-hyaluronic-vitamin-c-for-all-skin-type-white-50-original-imahpmtu3hynvzav.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/x/z/q/22-sun-defence-1-hyaluronic-vitamin-c-for-all-skin-type-white-50-original-imahpmtu66h5zfmx.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/vi-john-sunscreen-spf-50-pa-sun-defence-1-hyaluronic-vitamin-c-all-skin-type/p/itm7fb548d410f75",
+  "buyStore": "Flipkart",
+  "title": "VI-JOHN Sunscreen - SPF 50 PA+++ Sun Defence 1% Hyaluronic & Vitamin C for All skin type",
+  "tags": [
+   "scope:both",
+   "format:gel",
+   "format:lotion",
+   "format:kit",
+   "spf:50",
+   "pa:+++",
+   "water:unstated",
+   "ing:vitamin-c",
+   "ing:hyaluronic-acid",
+   "claim:broad-spectrum",
+   "claim:spf-claim",
+   "skin:oily",
+   "skin:dry",
+   "skin:combination",
+   "skin:sensitive",
+   "skin:normal",
+   "skin:all",
+   "free:paraben",
+   "free:vegan",
+   "free:sensitive-safe",
+   "aud:women",
+   "size:standard",
+   "rating:none",
+   "store:flipkart",
+   "target:dark-spots",
+   "inci:partial"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Vitamin C, 1 Hyaluronic",
+   "inciNote": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "velocius-enterprise-itmbe16f89e832b4",
+  "brand": "Velocius Enterprise",
+  "model": "Sunscreen - SPF 15 PA+ Sunscreen - SPF 15 PA+ Vitamin C+E Super Bright,For Even Toned & Gl…",
+  "price": 188,
+  "capacityLine": "180 g",
+  "materialLine": "vitamin C + vitamin E",
+  "featureLine": "Sunscreen · Paraben-free · SPF 15 · ₹104/100g",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 1 ingredient named — formula unscored",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "180 g",
+   "pricePer100": "₹104/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin C, vitamin E (per listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim, SPF 15",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: Vitamin E",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/n/l/s/100-sunscreen-spf-15-pa-vitamin-c-e-super-bright-for-even-toned-original-imah9sw6nza9pg5t.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/5/j/c/180-3-sunscreen-spf-50-pa-vitamin-c-e-super-bright-sunscreen-original-imahnnuughbfknqa.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/w/0/3/150-kojic-turmeric-sunscreen-cream-for-face-and-body-use-light-original-imahq6n7x4hggbhj.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/0/u/c/300-sun-screen-lotion-with-almonds-oil-wheatgerm-oil-i-pack-3-ml-original-imah8nrevrh2udwm.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/1/a/o/75-smart-broad-spectrum-spf-50-pa-sunscreen-gel-75g-white-50-pa-original-imahzebz4hhh9szy.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/velocius-enterprise-sunscreen-spf-15-pa-vitamin-c-e-super-bright-for-even-toned-glowing-skin/p/itmbe16f89e832b4",
+  "buyStore": "Flipkart",
+  "title": "Velocius Enterprise Sunscreen - SPF 15 PA+ Sunscreen - SPF 15 PA+ Vitamin C+E Super Bright,For Even Toned & Glowing Skin",
+  "tags": [
+   "scope:both",
+   "format:gel",
+   "format:lotion",
+   "spf:15",
+   "pa:+",
+   "water:resistant",
+   "ing:vitamin-c",
+   "ing:vitamin-e",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:water-resistant",
+   "claim:broad-spectrum",
+   "claim:spf-claim",
+   "skin:all",
+   "free:paraben",
+   "aud:women",
+   "size:large",
+   "rating:none",
+   "store:flipkart",
+   "target:dark-spots",
+   "inci:partial"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Vitamin E",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "myeong-itm38615cb55d28a",
+  "brand": "MYEONG",
+  "model": "Sunscreen - SPF 90 PA++++ Sunscreen - SPF 90 PA++++ Vitamin C For Even Toned & Glowing Ski…",
+  "price": 342,
+  "capacityLine": "60 g",
+  "materialLine": "vitamin C + niacinamide + rice water",
+  "featureLine": "Sunscreen · Paraben-free · SPF 90 · ₹570/100g",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "60 g",
+   "pricePer100": "₹570/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin C, niacinamide, rice water (per listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim, SPF 90",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/4/s/7/60-sunscreen-spf-90-pa-vitamin-c-for-even-toned-glowing-skin-90-original-imahfczddhgzfggk.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/6/s/z/40-sunscreen-spf-50-pa-face-gel-sunscreen-lightweight-spectrum-original-imahfcmrhujtdwyu.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/w/x/h/40-sunscreen-spf-50-pa-lightweight-non-sticky-glowing-skin-original-imahfcmsgzhukmfz.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/n/t/l/-original-imahqzwfbpucggby.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/x/y/3/200-spf-90-pa-collagen-sunscreen-cream-with-broad-spectrum-uva-original-imahk7dtsaz7vddd.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/myeong-sunscreen-spf-90-pa-vitamin-c-even-toned-glowing-skin/p/itm38615cb55d28a",
+  "buyStore": "Flipkart",
+  "title": "MYEONG Sunscreen - SPF 90 PA++++ Sunscreen - SPF 90 PA++++ Vitamin C For Even Toned & Glowing Skin",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "spf:60",
+   "pa:++++",
+   "water:unstated",
+   "ing:vitamin-c",
+   "ing:niacinamide",
+   "ing:collagen",
+   "ing:rice-water",
+   "ing:probiotics",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:broad-spectrum",
+   "claim:lightweight",
+   "claim:spf-claim",
+   "skin:oily",
+   "skin:all",
+   "free:paraben",
+   "free:oil-free",
+   "free:vegan",
+   "aud:women",
+   "size:standard",
+   "rating:none",
+   "store:flipkart",
+   "target:dark-spots",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "ondps-itmad879795a7ff6",
+  "brand": "ONDPS",
+  "model": "Sunscreen - SPF 50 PA+++ Vitamin C Daily Glow Sunscreen",
+  "price": 160,
+  "capacityLine": "50 g",
+  "materialLine": "vitamin C",
+  "featureLine": "Sunscreen · Paraben-free · SPF 50 · ₹320/100g",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹320/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin C (per listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim, SPF 50",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types, Dry Skin, Normal Skin, Oily Skin",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/y/h/o/50-vitamin-c-daily-glow-sunscreen-50-ondps-original-imahh96kznrerugc.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/i/9/s/50-sunscreen-spf-50-pa-vitamin-c-e-super-bright-sunscreen-all-original-imahhfcqhyx8tj6n.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/r/n/r/50-sunscreen-spf-50-pa-vitamin-c-e-super-bright-sunscreen-all-original-imahhfd7znfgrfvp.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/x/q/d/50-sunscreen-spf-50-pa-vitamin-c-e-super-bright-sunscreen-all-original-imahhfd7qy94zseq.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/v/j/q/50-sunscreen-brightening-50g-50-ondps-original-imahh94rfjkpg6tw.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/ondps-sunscreen-spf-50-pa-vitamin-c-daily-glow/p/itmad879795a7ff6",
+  "buyStore": "Flipkart",
+  "title": "ONDPS Sunscreen - SPF 50 PA+++ Vitamin C Daily Glow Sunscreen",
+  "tags": [
+   "scope:face",
+   "format:gel",
+   "spf:50",
+   "pa:+++",
+   "water:unstated",
+   "ing:vitamin-c",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:broad-spectrum",
+   "claim:blue-light",
+   "claim:spf-claim",
+   "skin:oily",
+   "skin:dry",
+   "skin:combination",
+   "skin:normal",
+   "skin:all",
+   "free:paraben",
+   "free:vegan",
+   "aud:women",
+   "size:travel",
+   "rating:none",
+   "store:flipkart",
+   "target:dark-spots",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "beautiloon-itm2c0b42e5b0bfe",
+  "brand": "beautiloon",
+  "model": "Sunscreen - SPF 50 PA++++ Dynamic Skin Defense SPF50 PA+++ Vitamin C Glow Finish",
+  "price": 176,
+  "capacityLine": "50 g",
+  "materialLine": "vitamin C",
+  "featureLine": "Sunscreen · SPF 50 · ₹352/100g",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹352/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin C (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim, SPF 50",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/e/j/d/30-spf-50-sunscreen-soft-glow-hydrating-formula-50-beautiloon-original-imahhue2ye4gjsv3.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/n/o/x/50-radiant-dew-sunscreen-spf-50-pa-hydrating-glow-cream-50-original-imahm3cxpnzgjjpb.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/m/r/7/50-radiant-dew-sunscreen-spf-50-pa-hydrating-glow-cream-50-original-imahm3cxkgwee8gc.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/f/2/y/50-radiant-dew-sunscreen-spf-50-pa-hydrating-glow-cream-50-original-imahm3cxj7n7cgct.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/6/3/x/50-radiant-dew-sunscreen-spf-50-pa-hydrating-glow-cream-50-original-imahm3cx5cs9q3nh.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/beautiloon-sunscreen-spf-50-pa-dynamic-skin-defense-spf50-pa-vitamin-c-glow-finish/p/itm2c0b42e5b0bfe",
+  "buyStore": "Flipkart",
+  "title": "beautiloon Sunscreen - SPF 50 PA++++ Dynamic Skin Defense SPF50 PA+++ Vitamin C Glow Finish",
+  "tags": [
+   "scope:face",
+   "format:gel",
+   "format:cream",
+   "spf:50",
+   "pa:++++",
+   "water:unstated",
+   "ing:vitamin-c",
+   "claim:brightening",
+   "claim:broad-spectrum",
+   "claim:spf-claim",
+   "skin:all",
+   "aud:women",
+   "size:travel",
+   "rating:none",
+   "store:flipkart",
+   "target:dark-spots",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "doomsday-itmc4f87b3c5f38e",
+  "brand": "DOOMSDAY",
+  "model": "Sunscreen - SPF SPF 50 CLESNSTA VITAMIN C DAILY GLOW SUNSCREEN GEL",
+  "price": 988,
+  "capacityLine": "500 g (pack of 5)",
+  "materialLine": "vitamin C + rice water",
+  "featureLine": "Sunscreen · SPF 50 · ₹198/100g",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "100 g × 5 pack",
+   "pricePer100": "₹198/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin C, rice water (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim, SPF 50",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/m/m/o/100-clesnsta-vitamin-c-daily-glow-sunscreen-gel-1-spf-50-original-imahqt7y2vskghcg.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/2/a/q/40-sunscreen-bronze-spf-50-pa-spf-50-solasafe-tinted-original-imahnhgfynmessyy.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/l/a/c/10-uv-broad-ls-tinted-sunscreen-50-uvbroad-ls-original-imahjgwztgmqydzb.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/r/x/f/50-dermina-tinted-plus-spf-50-sunscreen-pack-of-1-natural-50-original-imahq8yavvjtfbze.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-sunscreen/i/z/m/50-hydrating-uv-defense-cream-with-rice-probiotics-50-subhmun-original-imahnnsawwqcmqk7.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/doomsday-sunscreen-spf-50-clesnsta-vitamin-c-daily-glow-gel/p/itmc4f87b3c5f38e",
+  "buyStore": "Flipkart",
+  "title": "DOOMSDAY Sunscreen - SPF SPF 50 CLESNSTA VITAMIN C DAILY GLOW SUNSCREEN GEL",
+  "tags": [
+   "scope:face",
+   "format:gel",
+   "format:cream",
+   "format:kit",
+   "spf:50",
+   "pa:++",
+   "water:unstated",
+   "ing:vitamin-c",
+   "ing:rice-water",
+   "ing:probiotics",
+   "claim:brightening",
+   "claim:hydrating",
+   "claim:spf-claim",
+   "skin:all",
+   "aud:women",
+   "size:xl",
+   "rating:none",
+   "store:flipkart",
+   "target:dark-spots",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "latibule-itmbbe1a88c810e3",
+  "brand": "Latibule",
+  "model": "Sunscreen - SPF 30 Sunscreen SPF 50+++ with Niacinamide & Vitamin C for Face & Body",
+  "price": 130,
+  "capacityLine": "240 g",
+  "materialLine": "vitamin C + niacinamide + aloe vera",
+  "featureLine": "Sunscreen · Paraben-free · SPF 30 · ₹54/100g",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 5 ingredients named — formula unscored",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "240 g",
+   "pricePer100": "₹54/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin C, niacinamide, aloe vera, vitamin E (per listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, SPF 30",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 5 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: Niacinamide,Vitamin E,Allantoin, Aloe Vera, and Glycerin.",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/6/b/t/240-0-niacinamide-vitamin-c-sunscreen-spf-50-for-face-body-white-original-imahpypupx6gwzfz.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/m/r/0/60-0-niacinamide-vitamin-c-sunscreen-spf-50-pa-for-face-body-50-original-imahm8re27ggehfg.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/w/i/r/180-0-niacinamide-vitamin-c-sunscreen-spf-50-pa-for-face-body-50-original-imahm8redxa4tpbz.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/e/6/u/240-0-spf-50-pa-broad-spectrum-sunscreen-gentle-lotion-with-original-imahnkg4jyhfrkrn.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/b/q/h/100-broad-spectrum-uva-uvb-protection-light-weight-non-greasy-original-imahjgs2tyfjs7a7.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/latibule-sunscreen-spf-30-gel-based-vitamin-c-niacinamide-50/p/itmbbe1a88c810e3",
+  "buyStore": "Flipkart",
+  "title": "Latibule Sunscreen - SPF 30 Sunscreen SPF 50+++ with Niacinamide & Vitamin C for Face & Body",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:lotion",
+   "spf:30",
+   "pa:+++",
+   "water:unstated",
+   "ing:vitamin-c",
+   "ing:niacinamide",
+   "ing:aloe-vera",
+   "ing:vitamin-e",
+   "ing:allantoin",
+   "ing:glycerin",
+   "claim:de-tan",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:broad-spectrum",
+   "claim:spf-claim",
+   "skin:all",
+   "free:paraben",
+   "aud:women",
+   "size:large",
+   "rating:none",
+   "store:flipkart",
+   "target:dark-spots",
+   "inci:partial"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Niacinamide,Vitamin E,Allantoin, Aloe Vera, and Glycerin.",
+   "inciNote": "Only 5 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "smartdrops-itm587f4affa377a",
+  "brand": "smartdrops",
+  "model": "Sunscreen - SPF 50+++ PA+ Sunscreen Vitamin C Skin Brightening Matte Fluid Sunscreen",
+  "price": 148,
+  "capacityLine": "180 g",
+  "materialLine": "vitamin C + hyaluronic acid",
+  "featureLine": "Sunscreen · Paraben-free · SPF 50 · ₹82/100g",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "180 g",
+   "pricePer100": "₹82/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin C, hyaluronic acid (per listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim, SPF 50",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistant / waterproof (duration not stated), sweat resistant (per listing — not tested here, not scored)"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/n/m/y/60-sunscreen-vitamin-c-skin-brightening-matte-fluid-sunscreen-50-original-imahbh9k23zcvp9f.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/n/x/c/60-sunscreen-vitamin-c-skin-brightening-matte-fluid-sunscreen-50-original-imahbh9krhh3hmfq.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/x/w/t/60-sunscreen-vitamin-c-skin-brightening-matte-fluid-sunscreen-50-original-imahbh9kyxpvbz6j.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/d/x/i/60-sunscreen-vitamin-c-skin-brightening-matte-fluid-sunscreen-50-original-imahbh9kefgbqfmt.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/a/i/w/300-sunscreen-spf-50-pa-vitamin-c-e-lotion-face-protection-50-original-imahhvb6atkhdvmc.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/smartdrops-sunscreen-spf-50-pa-vitamin-c-skin-brightening-matte-fluid/p/itm587f4affa377a",
+  "buyStore": "Flipkart",
+  "title": "smartdrops Sunscreen - SPF 50+++ PA+ Sunscreen Vitamin C Skin Brightening Matte Fluid Sunscreen",
+  "tags": [
+   "scope:face",
+   "format:gel",
+   "format:cream",
+   "format:emulsion",
+   "spf:50+",
+   "pa:+",
+   "water:resistant",
+   "water:sweat",
+   "ing:vitamin-c",
+   "ing:hyaluronic-acid",
+   "ing:collagen",
+   "claim:brightening",
+   "claim:anti-aging",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:water-resistant",
+   "claim:spf-claim",
+   "skin:all",
+   "free:paraben",
+   "aud:women",
+   "size:large",
+   "rating:none",
+   "store:flipkart",
+   "target:dark-spots",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "smartdrops-itm07e6f4c5b13c0",
+  "brand": "smartdrops",
+  "model": "Sunscreen - SPF 50 PA+++ Vitamin C E Lotion | SPF 50 Sunscreen | Niacinamide Cream",
+  "price": 189,
+  "capacityLine": "120 g",
+  "materialLine": "vitamin C + niacinamide + vitamin E",
+  "featureLine": "Sunscreen · SPF 50 · ₹158/100g",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 2 ingredients named — formula unscored",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "120 g",
+   "pricePer100": "₹158/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin C, niacinamide, vitamin E (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim, SPF 50",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: Vitamin C, Vitamin E",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-sunscreen/v/n/n/300-vitamin-c-face-sunscreen-cream-spf-50-pa-niacinamide-50-original-imahhvcuh2pn4afx.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/u/u/p/200-0-vitamin-c-sunscreen-spf-50-niacinamide-face-cream-pa-50-original-imahhv5mdd6hz4pm.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/q/b/i/300-0-face-sunscreen-spf-50-vitamin-c-e-lotion-broad-spectrum-50-original-imahhv6nxgzxz24y.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/n/f/8/300-0-vitamin-c-sunscreen-spf-50-niacinamide-face-cream-pa-50-original-imahhv5mgprvhzpk.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/g/n/p/200-0-vitamin-c-sunscreen-spf-50-niacinamide-face-cream-pa-50-original-imahhv5mfwhjasxj.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/smartdrops-sunscreen-spf-50-pa-vitamin-c-e-lotion-niacinamide-cream/p/itm07e6f4c5b13c0",
+  "buyStore": "Flipkart",
+  "title": "smartdrops Sunscreen - SPF 50 PA+++ Vitamin C E Lotion | SPF 50 Sunscreen | Niacinamide Cream",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:lotion",
+   "spf:50",
+   "pa:+++",
+   "water:unstated",
+   "ing:vitamin-c",
+   "ing:niacinamide",
+   "ing:collagen",
+   "ing:vitamin-e",
+   "claim:brightening",
+   "claim:whitening-claim",
+   "claim:anti-aging",
+   "claim:broad-spectrum",
+   "claim:korean",
+   "claim:spf-claim",
+   "skin:all",
+   "aud:women",
+   "size:standard",
+   "rating:none",
+   "store:flipkart",
+   "target:dark-spots",
+   "inci:partial"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Vitamin C, Vitamin E",
+   "inciNote": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "phillauri-itm6660f3bea582d",
+  "brand": "Phillauri",
+  "model": "Sunscreen - SPF 50 PA+++ SPF 50 PA+++ Outdoor Sunscreen Cream with Vitamin C & E | Skin Ca…",
+  "price": 213,
+  "capacityLine": "180 ml",
+  "materialLine": "vitamin C + vitamin E",
+  "featureLine": "Sunscreen · SPF 50 · ₹118/100ml",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 2 ingredients named — formula unscored",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "180 ml",
+   "pricePer100": "₹118/100ml",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin C, vitamin E (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, SPF 50",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: Vitamin C, Vitamin E",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/g/c/0/180-0-spf-50-pa-outdoor-sunscreen-cream-with-vitamin-c-e-skin-original-imahhbdyh54tmtpg.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/l/m/v/120-0-vitamin-c-e-sunscreen-daily-sun-protection-cream-smooth-original-imahhb9yfbarym6r.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/n/j/m/60-0-vitamin-c-e-sunscreen-daily-sun-protection-cream-smooth-original-imahhb9yyhkxhvkc.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/c/g/1/120-0-vitamin-c-e-sunscreen-daily-sun-protection-cream-smooth-original-imahhb9yzy2cyffe.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/e/o/e/180-0-vitamin-c-e-sunscreen-daily-sun-protection-cream-smooth-original-imahhb9yezynesvh.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/phillauri-sunscreen-spf-50-pa-outdoor-cream-vitamin-c-e-skin-care/p/itm6660f3bea582d",
+  "buyStore": "Flipkart",
+  "title": "Phillauri Sunscreen - SPF 50 PA+++ SPF 50 PA+++ Outdoor Sunscreen Cream with Vitamin C & E | Skin Care Cream",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:lotion",
+   "spf:50",
+   "pa:+++",
+   "water:unstated",
+   "ing:vitamin-c",
+   "ing:vitamin-e",
+   "claim:whitening-claim",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:broad-spectrum",
+   "claim:lightweight",
+   "claim:spf-claim",
+   "skin:all",
+   "aud:women",
+   "size:large",
+   "rating:none",
+   "store:flipkart",
+   "target:dark-spots",
+   "inci:partial"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Vitamin C, Vitamin E",
+   "inciNote": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "glow-vedda-itm828724d34c7b7",
+  "brand": "GLOW VEDDA",
+  "model": "Sunscreen - SPF 50+ PA++++ Glow Sunscreen Vitamin C & All Skin With Niacinamide",
+  "price": 654,
+  "capacityLine": "200 g (pack of 2)",
+  "materialLine": "vitamin C + niacinamide + rice water",
+  "featureLine": "Sunscreen · Paraben-free · SPF 50 · ₹327/100g",
+  "highlight": "Live Flipkart listing. Scored from its published INCI list (Flipkart listing — Composition field): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "ethyl ascorbic acid high on the INCI list (moderate evidence); hyaluronic acid high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 4.3,
+   "skin": 7,
+   "trust": 5.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "100 g × 2 pack",
+   "pricePer100": "₹327/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin C, niacinamide, rice water, vitamin E (per listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim, Acne/blemish claim, SPF 50",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "water, Olive Oil, Octyl Methoxycin-namate, Avebenzone, Octocrylene, Benzophenone 4, Sepiplus 400, Glycerin, Peptide, Zinc Oxide, Niac-inamide, Aloe Vera Extract, Shea Butter, Ethyl Ascorbic Acid, Ceramide, Squalene, Allantoin, Papaya Extract, Hyaluronic Acid, Disodium EDTA, Phynoxyethanol (and) Ethylhexylglycerin (and) Octenidine HCL",
+   "evidenceActives": "ethyl ascorbic acid (#14 on list, moderate evidence); hyaluronic acid (#19 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — niacinamide #11 on INCI; Dark spots — product type, niacinamide #11 on INCI, ethyl ascorbic acid #14 on INCI; Aging — ethyl ascorbic acid #14 on INCI; Irritation — aloe barbadensis leaf extract #12 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/n/g/r/2-glow-sunscreen-vitamin-c-all-skin-with-niacinamide-no-shade-50-original-imahzffunbrkxhpy.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/5/d/g/01-glow-sunscreen-vitamin-c-all-skin-with-niacinamide-no-shade-original-imahzy2agcwbgg6n.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/2/f/w/01-glow-sunscreen-vitamin-c-all-skin-with-niacinamide-no-shade-original-imahzyfh2ma5zaqp.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/h/r/t/1-glow-sunscreen-vitamin-c-all-skin-with-niacinamide-no-shade-50-original-imahzffydg2jtznn.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/z/q/g/01-glow-sunscreen-vitamin-c-all-skin-with-niacinamide-no-shade-original-imahzyyzanagmyzu.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/glow-vedda-sunscreen-spf-50-pa-vitamin-c-all-skin-niacinamide/p/itm828724d34c7b7",
+  "buyStore": "Flipkart",
+  "title": "GLOW VEDDA Sunscreen - SPF 50+ PA++++ Glow Sunscreen Vitamin C & All Skin With Niacinamide",
+  "tags": [
+   "scope:face",
+   "format:gel",
+   "format:cream",
+   "format:kit",
+   "spf:50+",
+   "pa:++++",
+   "water:unstated",
+   "ing:vitamin-c",
+   "ing:niacinamide",
+   "ing:rice-water",
+   "ing:vitamin-e",
+   "claim:brightening",
+   "claim:acne",
+   "claim:oil-control",
+   "claim:no-white-cast",
+   "claim:broad-spectrum",
+   "claim:lightweight",
+   "claim:spf-claim",
+   "skin:oily",
+   "skin:acne-prone",
+   "skin:all",
+   "free:paraben",
+   "free:oil-free",
+   "free:vegan",
+   "aud:women",
+   "size:large",
+   "rating:none",
+   "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:aging",
+   "target:irritation",
+   "inci:full",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "full",
+   "inciSrc": "listing",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": "water, Olive Oil, Octyl Methoxycin-namate, Avebenzone, Octocrylene, Benzophenone 4, Sepiplus 400, Glycerin, Peptide, Zinc Oxide, Niac-inamide, Aloe Vera Extract, Shea Butter, Ethyl Ascorbic Acid, Ceramide, Squalene, Allantoin, Papaya Extract, Hyaluronic Acid, Disodium EDTA, Phynoxyethanol (and) Ethylhexylglycerin (and) Octenidine HCL",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 0.91,
+   "actives": [
+    {
+     "name": "avobenzone",
+     "grade": "A",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "octocrylene",
+     "grade": "A",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "benzophenone-4",
+     "grade": "A",
+     "position": 6,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "zinc oxide",
+     "grade": "A",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 11,
+     "core": false,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "aloe barbadensis leaf extract",
+     "grade": "B",
+     "position": 12,
+     "core": false,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "shea butter",
+     "grade": "B",
+     "position": 13,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "ethyl ascorbic acid",
+     "grade": "B",
+     "position": 14,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 17,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "hyaluronic acid",
+     "grade": "B",
+     "position": 19,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "niacinamide",
+    "shea butter",
+    "hyaluronic acid"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "sonavi-itmb3e54bd879d89",
+  "brand": "Sonavi",
+  "model": "Sunscreen - SPF 50 PA+ SPF 50 Sunscreen Lotion with Vitamin C for Radiant & Smooth Skin fo…",
+  "price": 220,
+  "capacityLine": "60 g",
+  "materialLine": "vitamin C + niacinamide + aloe vera",
+  "featureLine": "Sunscreen · Paraben-free · SPF 50 · ₹367/100g",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 2 ingredients named — formula unscored",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "60 g",
+   "pricePer100": "₹367/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin C, niacinamide, aloe vera, vitamin E (per listing)",
+   "freeFrom": "Paraben-free, Fragrance-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, SPF 50",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: Vitamin E, Aloevera",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/5/o/w/120-spf-50-sunscreen-lotion-with-vitamin-c-for-radiant-smooth-original-imahzehhqzkz9zay.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/w/w/s/180-spf-50-sunscreen-lotion-with-vitamin-c-for-radiant-smooth-original-imahzeh5zhkahx5u.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/b/u/x/180-spf-50-sunscreen-lotion-with-vitamin-c-for-radiant-smooth-original-imahzeh5ufkwuxkb.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/v/e/7/120-spf-50-sunscreen-lotion-with-vitamin-c-for-radiant-smooth-original-imahzehhmmtzfsgg.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/s/d/y/180-spf-50-sunscreen-lotion-with-vitamin-c-for-radiant-smooth-original-imahzehyjzjuvjrs.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/sonavi-sunscreen-spf-50-pa-lotion-vitamin-c-radiant-smooth-skin-men-women/p/itmb3e54bd879d89",
+  "buyStore": "Flipkart",
+  "title": "Sonavi Sunscreen - SPF 50 PA+ SPF 50 Sunscreen Lotion with Vitamin C for Radiant & Smooth Skin for Men & Women",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:lotion",
+   "spf:50",
+   "pa:+",
+   "water:unstated",
+   "ing:vitamin-c",
+   "ing:niacinamide",
+   "ing:vitamin-e",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "claim:no-white-cast",
+   "claim:broad-spectrum",
+   "claim:lightweight",
+   "claim:spf-claim",
+   "skin:sensitive",
+   "skin:all",
+   "free:paraben",
+   "free:fragrance",
+   "free:vegan",
+   "free:sensitive-safe",
+   "aud:women",
+   "size:standard",
+   "rating:none",
+   "store:flipkart",
+   "target:dark-spots",
+   "inci:partial"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Vitamin E, Aloevera",
+   "inciNote": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "unbranded-b0fl2d5bf4",
+  "brand": "Unbranded",
+  "model": "The Formularx Hydrashield Sunscreen SPF 50 PA++++ with Vitamin C & Peptide | For Oily, Acn…",
+  "price": 594,
+  "capacityLine": "50 g",
+  "materialLine": "vitamin C + hyaluronic acid + peptides",
+  "featureLine": "Sunscreen · SPF 50 · ₹1188/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.6
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹1188/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin C, hyaluronic acid, peptides (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Non-comedogenic (seller claim — not scored)",
+   "benefit": "Hydrating, Brightening/glow claim, Acne/blemish claim, SPF 50",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.2/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistant / waterproof (duration not stated), sweat resistant (per listing — not tested here, not scored)"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71vta2EKKwL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/51VjjdeqQaL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61WrN+SUB-L._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61huGE1ZXnL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61U+585XnJL._SL1080_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0FL2D5BF4",
+  "buyStore": "Amazon",
+  "title": "The Formularx Hydrashield Sunscreen SPF 50 PA++++ with Vitamin C & Peptide | For Oily, Acne, & Fungal Acne Prone Skin | Broad Spectrum UV & Blue Light Protection | Lightweight, No White Cast, Water & Sweat Resistant | Oil Free, Non-comedogenic, Sensitive Skin Friendly | Men & Women | 50g",
+  "tags": [
+   "scope:unstated",
+   "spf:50",
+   "pa:++++",
+   "water:resistant",
+   "water:sweat",
+   "ing:vitamin-c",
+   "ing:hyaluronic-acid",
+   "ing:peptides",
+   "ing:vitamin-b5-panthenol",
+   "ing:gold",
+   "claim:brightening",
+   "claim:acne",
+   "claim:pores",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:soothing",
+   "claim:exfoliating",
+   "claim:water-resistant",
+   "claim:no-white-cast",
+   "claim:broad-spectrum",
+   "claim:blue-light",
+   "claim:lightweight",
+   "claim:spf-claim",
+   "skin:oily",
+   "skin:sensitive",
+   "skin:acne-prone",
+   "free:oil-free",
+   "free:non-comedogenic",
+   "free:sensitive-safe",
+   "aud:women",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon",
+   "target:dark-spots",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.2★ from 0 ratings"
+  }
+ },
+ {
+  "id": "dr-sheth-s-b0fcfzqsvw",
+  "brand": "Dr. Sheth's",
+  "model": "Ceramide & Vitamin C Oil-Free Sunscreen SPF 50+ PA++++ |In-Vivo Tested | For Healthy & Bri…",
+  "price": 269,
+  "capacityLine": "30 g",
+  "materialLine": "vitamin C + ceramides",
+  "featureLine": "Sunscreen · SPF 50 · ₹897/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6,
+   "experience": 2.9
+  },
+  "fullSpec": {
+   "quantity": "30 g",
+   "pricePer100": "₹897/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin C, ceramides (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Non-comedogenic (seller claim — not scored)",
+   "benefit": "Hydrating, Brightening/glow claim, SPF 50",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.3/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/618EnwwUJBL._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/61ZNGPnCAlL._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/71LJhgvMXVL._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/61L8wpshmsL._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/61InAKaWFNL._SL1200_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0FCFZQSVW",
+  "buyStore": "Amazon",
+  "title": "Dr. Sheth's Ceramide & Vitamin C Oil-Free Sunscreen SPF 50+ PA++++ |In-Vivo Tested | For Healthy & Bright Skin | Lightweight & Non Greasy | For UVA/UVB & Blue Light & IR Protection | No white cast | For Oily Skin | For Men & Women | 30 g",
+  "tags": [
+   "scope:unstated",
+   "format:pack",
+   "spf:50+",
+   "pa:++++",
+   "water:resistant",
+   "ing:vitamin-c",
+   "ing:ceramides",
+   "claim:brightening",
+   "claim:de-tan",
+   "claim:pores",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:water-resistant",
+   "claim:no-white-cast",
+   "claim:broad-spectrum",
+   "claim:blue-light",
+   "claim:lightweight",
+   "claim:spf-claim",
+   "skin:oily",
+   "free:oil-free",
+   "free:non-comedogenic",
+   "aud:women",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon",
+   "target:dark-spots",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Honasa Consumer (listed)",
+    "kind": "india",
+    "label": "Established / listed Indian FMCG house",
+    "pts": 6,
+    "url": "https://honasa.in/brands"
+   },
+   "buyers": "4.3★ from 0 ratings"
+  }
+ },
+ {
+  "id": "unbranded-b0bwjl7njk",
+  "brand": "Unbranded",
+  "model": "Sunscreen SPF-60 Spray PA++++ For UVA/B & Blue Light Protection | No White Cast | Hyaluron…",
+  "price": 172,
+  "capacityLine": "100 ml",
+  "materialLine": "vitamin C + hyaluronic acid",
+  "featureLine": "Sunscreen · ₹172/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0.6
+  },
+  "fullSpec": {
+   "quantity": "100 ml",
+   "pricePer100": "₹172/100ml",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin C, hyaluronic acid (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "3.6/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.6★ from 0 ratings",
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistant / waterproof (duration not stated), sweat resistant (per listing — not tested here, not scored)"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61r4RDtuN5L._SL1098_.jpg",
+   "https://m.media-amazon.com/images/I/81Rlt08CG1L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71kOCH4+McL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81UMENG9lGL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71NFVtWrpDL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0BWJL7NJK",
+  "buyStore": "Amazon",
+  "title": "Sunscreen SPF-60 Spray PA++++ For UVA/B & Blue Light Protection | No White Cast | Hyaluronic Cooling Sunscreen | Broad Spectrum | Ultra light & Non sticky with Probiotics & Vitamin C | Sweat & Water Resistant | Women & Men | All Skin Types | 100ml",
+  "tags": [
+   "scope:unstated",
+   "format:mist",
+   "pa:++++",
+   "water:resistant",
+   "water:sweat",
+   "ing:vitamin-c",
+   "ing:hyaluronic-acid",
+   "ing:probiotics",
+   "claim:brightening",
+   "claim:oil-control",
+   "claim:water-resistant",
+   "claim:no-white-cast",
+   "claim:broad-spectrum",
+   "claim:blue-light",
+   "claim:cooling",
+   "skin:all",
+   "aud:women",
+   "size:standard",
+   "rating:3.5",
+   "store:amazon",
+   "target:dark-spots",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.6★ from 0 ratings"
+  }
+ },
+ {
+  "id": "foxtale-b0fxx81f45",
+  "brand": "Foxtale",
+  "model": "Glow Sunscreen SPF 50 PA++++ with Vitamin C & Niacinamide, In-Vivo Tested, Sensitive-Skin …",
+  "price": 198,
+  "capacityLine": "30 ml",
+  "materialLine": "vitamin C + niacinamide",
+  "featureLine": "Sunscreen · Paraben-free · SPF 50 · ₹660/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 5,
+   "experience": 2.6
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹660/100ml",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin C, niacinamide (per listing)",
+   "freeFrom": "Paraben-free, Fragrance-free (seller claim — not scored)",
+   "dermTested": "Dermatologically tested (seller claim — not scored)",
+   "nonComedogenic": "Non-comedogenic (seller claim — not scored)",
+   "benefit": "Brightening/glow claim, SPF 50",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "4.2/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Foxtale Consumer — Indian D2C brand with its own product company",
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/41CRz9wnt6L._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61xRHFu+TSL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61WSfWn10DL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/6194EegVOzL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61vU7jC+uTL._SL1080_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0FXX81F45",
+  "buyStore": "Amazon",
+  "title": "Foxtale Glow Sunscreen SPF 50 PA++++ with Vitamin C & Niacinamide, In-Vivo Tested, Sensitive-Skin Friendly, Made with 100% New-Gen Filters, Lightweight, Non-Greasy, No White Cast |For Men & Women| All Skin Types - 30 Ml",
+  "tags": [
+   "scope:unstated",
+   "spf:50",
+   "pa:++++",
+   "water:unstated",
+   "ing:vitamin-c",
+   "ing:niacinamide",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:oil-control",
+   "claim:exfoliating",
+   "claim:no-white-cast",
+   "claim:broad-spectrum",
+   "claim:blue-light",
+   "claim:lightweight",
+   "claim:spf-claim",
+   "skin:oily",
+   "skin:combination",
+   "skin:sensitive",
+   "skin:all",
+   "free:paraben",
+   "free:fragrance",
+   "free:derm",
+   "free:non-comedogenic",
+   "free:sensitive-safe",
+   "aud:women",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon",
+   "target:dark-spots",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": true,
+   "derm": true,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Foxtale Consumer",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://foxtale.in/"
+   },
+   "buyers": "4.2★ from 0 ratings"
+  }
+ },
+ {
+  "id": "dermina-b0gm7s3gd9",
+  "brand": "Dermina",
+  "model": "Niacinamide 5% Fluid Sunscreen SPF 50 PA+++ | Broad Spectrum UVA/UVB & Blue Light Protecti…",
+  "price": 450,
+  "capacityLine": "50 g",
+  "materialLine": "vitamin C + niacinamide + hyaluronic acid",
+  "featureLine": "Sunscreen · SPF 50 · ₹900/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 5
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹900/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin C, niacinamide, hyaluronic acid (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim, SPF 50",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "5★ from 0 ratings",
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/5129ziFUPxL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71s7btB5MXL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61lrr31CZcL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71RteW0fUgL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71w1GylTg9L._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GM7S3GD9",
+  "buyStore": "Amazon",
+  "title": "Dermina Niacinamide 5% Fluid Sunscreen SPF 50 PA+++ | Broad Spectrum UVA/UVB & Blue Light Protection | Strengthens Skin Barrier | With Vitamin C & Hyaluronic Acid - 50g",
+  "tags": [
+   "scope:unstated",
+   "format:emulsion",
+   "spf:50",
+   "pa:+++",
+   "water:unstated",
+   "ing:vitamin-c",
+   "ing:niacinamide",
+   "ing:hyaluronic-acid",
+   "claim:brightening",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:exfoliating",
+   "claim:broad-spectrum",
+   "claim:blue-light",
+   "claim:lightweight",
+   "claim:spf-claim",
+   "claim:makeup",
+   "skin:all",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.5",
+   "store:amazon",
+   "target:dark-spots",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "5★ from 0 ratings"
+  }
+ },
+ {
+  "id": "vlado-s-b0gzpjbn9x",
+  "brand": "Vlado's",
+  "model": "Himalayan Organics Sunscreen SPF 50 PA+++ With Hyaluronic Acid, Niacinamide, Glutathione, …",
+  "price": 399,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "vitamin C + niacinamide + hyaluronic acid",
+  "featureLine": "Sunscreen · SPF 50",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 1.9
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin C, niacinamide, hyaluronic acid, ceramides, kojic acid (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim, SPF 50",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "4.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71Gn572YtJL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/819IIsctdJL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/810LUAZf+cL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81mEyQ+hVKL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81mSl-Bnp7L._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GZPJBN9X",
+  "buyStore": "Amazon",
+  "title": "Vlado's Himalayan Organics Sunscreen SPF 50 PA+++ With Hyaluronic Acid, Niacinamide, Glutathione, Vitamin C & E, Kojic Acid, Kakadu Plum & Ceramide | No White Cast, Lightweight, 12H Long Lasting | For Oily, Dry, Sensitive & Combination Skin | Broad Spectrum UVA/UVB Protection | Men & Women",
+  "tags": [
+   "scope:unstated",
+   "spf:50",
+   "pa:+++",
+   "water:unstated",
+   "ing:vitamin-c",
+   "ing:niacinamide",
+   "ing:hyaluronic-acid",
+   "ing:ceramides",
+   "ing:kojic-acid",
+   "ing:glutathione",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:soothing",
+   "claim:exfoliating",
+   "claim:no-white-cast",
+   "claim:broad-spectrum",
+   "claim:lightweight",
+   "claim:spf-claim",
+   "claim:makeup",
+   "skin:oily",
+   "skin:combination",
+   "skin:sensitive",
+   "aud:women",
+   "rating:4.0",
+   "store:amazon",
+   "target:dark-spots",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "dermatouch-b0dpg68vcd",
+  "brand": "Dermatouch",
+  "model": "Niacinamide 2% Vitamin C SPF 50 PA++++ Sunscreen Gel – Broad Spectrum UVA/UVB Protection |…",
+  "price": 299,
+  "capacityLine": "50 g",
+  "materialLine": "vitamin C + niacinamide",
+  "featureLine": "Sunscreen · Fragrance-free · SPF 50 · ₹598/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 1.6
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹598/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin C, niacinamide (per listing)",
+   "freeFrom": "Fragrance-free (seller claim — not scored)",
+   "dermTested": "Dermatologically tested (seller claim — not scored)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim, SPF 50",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "3.9/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.9★ from 0 ratings",
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/81b5rwnz72L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71TIc2fyjdL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/715DguMSnoL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/717ieEYnLOL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/7164AEHzfZL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0DPG68VCD",
+  "buyStore": "Amazon",
+  "title": "DERMATOUCH Niacinamide 2% Vitamin C SPF 50 PA++++ Sunscreen Gel – Broad Spectrum UVA/UVB Protection | Less White Cast | Fragrance-Free | For All Skin Types | 50g",
+  "tags": [
+   "scope:unstated",
+   "format:gel",
+   "spf:50",
+   "pa:++++",
+   "water:unstated",
+   "ing:vitamin-c",
+   "ing:niacinamide",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:barrier",
+   "claim:soothing",
+   "claim:exfoliating",
+   "claim:broad-spectrum",
+   "claim:lightweight",
+   "claim:spf-claim",
+   "skin:oily",
+   "skin:combination",
+   "skin:sensitive",
+   "skin:all",
+   "free:fragrance",
+   "free:derm",
+   "free:sensitive-safe",
+   "aud:women",
+   "size:travel",
+   "rating:3.5",
+   "store:amazon",
+   "target:dark-spots",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": false,
+   "derm": true,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.9★ from 0 ratings"
+  }
+ },
+ {
+  "id": "mamaearth-b0bry7ypfk",
+  "brand": "Mamaearth",
+  "model": "Vitamin C Daily Glow Sunscreen with Vitamin C & Turmeric | For Sun Protection, Tan Protect…",
+  "price": 319,
+  "capacityLine": "50 g",
+  "materialLine": "vitamin C + turmeric",
+  "featureLine": "Sunscreen · SPF 50 · ₹638/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6,
+   "experience": 2.9
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹638/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin C, turmeric (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim, SPF 50",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "4.3/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51Xu7zlNc9L._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/61g2eXpZMaL._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/61hiqJwQ-KL._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/61aaAZmXC+L._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/61LSJua0X9L._SL1200_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0BRY7YPFK",
+  "buyStore": "Amazon",
+  "title": "Mamaearth Vitamin C Daily Glow Sunscreen with Vitamin C & Turmeric | For Sun Protection, Tan Protection & Glow | SPF 50 & PA++++ Protection | No White Cast | Lightweight & Non-Sticky | Brightens Skin | In-Vivo Tested | For All Skin Types | 50 g",
+  "tags": [
+   "scope:unstated",
+   "spf:50",
+   "pa:++++",
+   "water:unstated",
+   "ing:vitamin-c",
+   "ing:turmeric",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:oil-control",
+   "claim:soothing",
+   "claim:no-white-cast",
+   "claim:broad-spectrum",
+   "claim:lightweight",
+   "claim:spf-claim",
+   "skin:all",
+   "free:toxin-free",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon",
+   "target:dark-spots",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Honasa Consumer (listed)",
+    "kind": "india",
+    "label": "Established / listed Indian FMCG house",
+    "pts": 6,
+    "url": "https://honasa.in/brands"
+   },
+   "buyers": "4.3★ from 0 ratings"
+  }
+ },
+ {
+  "id": "wishcare-b0gl89r9f7",
+  "brand": "Wishcare",
+  "model": "Vitamin C Pure Glow Milk Sunscreen with SPF 50 PA++++ In-Vivo Tested | Glowing Skin with B…",
+  "price": 299,
+  "capacityLine": "30 ml",
+  "materialLine": "vitamin C",
+  "featureLine": "Sunscreen · Fragrance-free · SPF 50 · ₹997/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 5,
+   "experience": 3.2
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹997/100ml",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin C (per listing)",
+   "freeFrom": "Fragrance-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim, SPF 50",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "4.4/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "WishCare — Indian D2C brand with its own product company",
+   "buyerEvidence": "4.4★ from 0 ratings",
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/41q3jueaLmL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/51thL5JUUML._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/51i+dCF2b6L._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/51EJVqXVptL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/51VHe6PphXL._SL1080_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GL89R9F7",
+  "buyStore": "Amazon",
+  "title": "WishCare Vitamin C Pure Glow Milk Sunscreen with SPF 50 PA++++ In-Vivo Tested | Glowing Skin with Broad Spectrum Protection | Ultra Lightweight, Oil Free & No White Cast | For All Skin Types | 30ml",
+  "tags": [
+   "scope:both",
+   "spf:50",
+   "pa:++++",
+   "water:unstated",
+   "ing:vitamin-c",
+   "ing:milk",
+   "claim:brightening",
+   "claim:oil-control",
+   "claim:exfoliating",
+   "claim:no-white-cast",
+   "claim:broad-spectrum",
+   "claim:lightweight",
+   "claim:spf-claim",
+   "skin:sensitive",
+   "skin:all",
+   "free:fragrance",
+   "free:oil-free",
+   "free:sensitive-safe",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon",
+   "target:dark-spots",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "WishCare",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://www.wishcare.in/"
+   },
+   "buyers": "4.4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "unbranded-b0gfxn51nh",
+  "brand": "Unbranded",
+  "model": "Advanced Shield Sunscreen Gel SPF 50+ PA++++ | Broad Spectrum UVA UVB Protection | Zero Wh…",
+  "price": 449,
+  "capacityLine": "50 g",
+  "materialLine": "vitamin C + niacinamide + hyaluronic acid",
+  "featureLine": "Sunscreen · Paraben-free · SPF 50 · ₹898/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.9
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹898/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin C, niacinamide, hyaluronic acid, ceramides, zinc (per listing)",
+   "freeFrom": "Paraben-free, Sulfate/SLS-free, Fragrance-free (seller claim — not scored)",
+   "dermTested": "Dermatologically tested (seller claim — not scored)",
+   "nonComedogenic": "Non-comedogenic (seller claim — not scored)",
+   "benefit": "SPF 50",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.3/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistant — 40 minutes, sweat resistant (per listing — not tested here, not scored)"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51XecUXV7wL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71w3DLtuVcL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71hyDcAd8rL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/718cUP5pOdL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/719-hwsH9fL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GFXN51NH",
+  "buyStore": "Amazon",
+  "title": "Advanced Shield Sunscreen Gel SPF 50+ PA++++ | Broad Spectrum UVA UVB Protection | Zero White Cast | Water Resistant | Vitamin C & Niacinamide | Lightweight Gel for Oily & All Skin Types | Lab Tested | Unisex | 50g",
+  "tags": [
+   "scope:unstated",
+   "format:gel",
+   "spf:50+",
+   "pa:++++",
+   "sun:mineral",
+   "water:40",
+   "water:sweat",
+   "ing:vitamin-c",
+   "ing:niacinamide",
+   "ing:hyaluronic-acid",
+   "ing:ceramides",
+   "ing:zinc",
+   "ing:titanium-dioxide",
+   "claim:pores",
+   "claim:oil-control",
+   "claim:exfoliating",
+   "claim:water-resistant",
+   "claim:broad-spectrum",
+   "claim:lightweight",
+   "claim:spf-claim",
+   "claim:makeup",
+   "skin:oily",
+   "skin:sensitive",
+   "skin:all",
+   "free:paraben",
+   "free:sulfate",
+   "free:fragrance",
+   "free:mineral-oil",
+   "free:oil-free",
+   "free:derm",
+   "free:non-comedogenic",
+   "free:sensitive-safe",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon",
+   "target:dark-spots",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": false,
+   "derm": true,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.3★ from 0 ratings"
+  }
+ },
+ {
+  "id": "unbranded-b0gytkr8zd",
+  "brand": "Unbranded",
+  "model": "The Graceful Glamourr™ Svanna Colors Cactus Carefree Protection Spray SPF 20 | UVA & UVB S…",
+  "price": 999,
+  "capacityLine": "150 ml",
+  "materialLine": "vitamin C + hyaluronic acid",
+  "featureLine": "Sunscreen · SPF 20 · ₹666/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "150 ml",
+   "pricePer100": "₹666/100ml",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin C, hyaluronic acid (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim, SPF 20",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61hIL4ILpnL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/711s1xzaXDL._SL1323_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GYTKR8ZD",
+  "buyStore": "Amazon",
+  "title": "The Graceful Glamourr™ Svanna Colors Cactus Carefree Protection Spray SPF 20 | UVA & UVB Sunscreen Mist | With Vitamin C & E, Hyaluronic Acid & Cactus Extract | Lightweight, Water Resistant Sun Protection Spray for All Skin Types (150ml)",
+  "tags": [
+   "scope:unstated",
+   "format:mist",
+   "spf:15",
+   "water:resistant",
+   "ing:vitamin-c",
+   "ing:hyaluronic-acid",
+   "claim:brightening",
+   "claim:de-tan",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "claim:water-resistant",
+   "claim:broad-spectrum",
+   "claim:lightweight",
+   "claim:spf-claim",
+   "claim:cooling",
+   "skin:oily",
+   "skin:dry",
+   "skin:all",
+   "aud:unisex",
+   "size:large",
+   "rating:none",
+   "store:amazon",
+   "target:dark-spots",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "orgatre-b0fc2nzg5h",
+  "brand": "Orgatre",
+  "model": "Sun Shield SPF 50 PA++++ Sunscreen for Women & Girls, Vitamin C, Niacinamide & Hyaluronic …",
+  "price": 166,
+  "capacityLine": "50 g",
+  "materialLine": "vitamin C + niacinamide + hyaluronic acid",
+  "featureLine": "Sunscreen · SPF 50 · ₹332/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 1
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹332/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin C, niacinamide, hyaluronic acid (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim, Acne/blemish claim, SPF 50",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "3.7/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.7★ from 0 ratings",
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61eA5Vw5pjL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0FC2NZG5H",
+  "buyStore": "Amazon",
+  "title": "ORGATRE Sun Shield SPF 50 PA++++ Sunscreen for Women & Girls, Vitamin C, Niacinamide & Hyaluronic Acid, Non-Greasy, No White Cast, Water Resistant, Face Cream for Glowing Skin & Acne Prone Skin 50gm",
+  "tags": [
+   "scope:face",
+   "format:cream",
+   "format:kit",
+   "spf:50",
+   "pa:++++",
+   "water:resistant",
+   "ing:vitamin-c",
+   "ing:niacinamide",
+   "ing:hyaluronic-acid",
+   "claim:brightening",
+   "claim:acne",
+   "claim:oil-control",
+   "claim:water-resistant",
+   "claim:no-white-cast",
+   "claim:spf-claim",
+   "skin:acne-prone",
+   "aud:women",
+   "size:travel",
+   "rating:3.5",
+   "store:amazon",
+   "target:dark-spots",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.7★ from 0 ratings"
+  }
+ },
+ {
+  "id": "unbranded-b0fv2wtrjr",
+  "brand": "Unbranded",
+  "model": "Vitamin C Sun Cream SPF 90 PA+++ | UV Protection Hydrating Sunscreen | Non-Greasy, Waterpr…",
+  "price": 249,
+  "capacityLine": "50 ml",
+  "materialLine": "vitamin C + rose",
+  "featureLine": "Sunscreen · SPF 90 · ₹498/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only headline actives are listed — formula unscored",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 2.6
+  },
+  "fullSpec": {
+   "quantity": "50 ml",
+   "pricePer100": "₹498/100ml",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin C, rose (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim, SPF 90",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.2/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only headline actives are listed — no base / preservative ingredients, so this is not a full INCI declaration and formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: Diphenyl ketone,Ethyl salicylate,humolysate,sinoxate,phenyl dibenzimidazolium tetraxanthate disodium, butylmethoxydibenzoyl methane, ethyl hexy methoxycinnamate, licorice brass, plant extract, vitamin c.",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistant / waterproof (duration not stated), sweat resistant (per listing — not tested here, not scored)"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/318r8nH+hBL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0FV2WTRJR",
+  "buyStore": "Amazon",
+  "title": "Vitamin C Sun Cream SPF 90 PA+++ | UV Protection Hydrating Sunscreen | Non-Greasy, Waterproof & Quick Absorbing Face Cream | Brightening & Nourishing Formula (50ml) (Rose)",
+  "tags": [
+   "scope:face",
+   "format:cream",
+   "spf:60",
+   "pa:+++",
+   "water:resistant",
+   "water:sweat",
+   "ing:vitamin-c",
+   "ing:rose",
+   "claim:brightening",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "claim:water-resistant",
+   "claim:broad-spectrum",
+   "claim:lightweight",
+   "claim:spf-claim",
+   "claim:makeup",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon",
+   "target:dark-spots",
+   "inci:partial"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Diphenyl ketone,Ethyl salicylate,humolysate,sinoxate,phenyl dibenzimidazolium tetraxanthate disodium, butylmethoxydibenzoyl methane, ethyl hexy methoxycinnamate, licorice brass, plant extract, vitamin c.",
+   "inciNote": "Only headline actives are listed — no base / preservative ingredients, so this is not a full INCI declaration and formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 0.8,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.2★ from 0 ratings"
+  }
+ },
+ {
+  "id": "wishcare-b0cw1yzkpd",
+  "brand": "Wishcare",
+  "model": "Vitamin C Pure Glow Milk Sunscreen with SPF 50 PA++++ In-Vivo Tested | Glowing Skin with B…",
+  "price": 392,
+  "capacityLine": "50 ml",
+  "materialLine": "vitamin C",
+  "featureLine": "Sunscreen · Fragrance-free · SPF 50 · ₹784/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 5,
+   "experience": 3.2
+  },
+  "fullSpec": {
+   "quantity": "50 ml",
+   "pricePer100": "₹784/100ml",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin C (per listing)",
+   "freeFrom": "Fragrance-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim, SPF 50",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "4.4/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "WishCare — Indian D2C brand with its own product company",
+   "buyerEvidence": "4.4★ from 0 ratings",
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/41C3pQnKbVL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0CW1YZKPD",
+  "buyStore": "Amazon",
+  "title": "WishCare Vitamin C Pure Glow Milk Sunscreen with SPF 50 PA++++ In-Vivo Tested | Glowing Skin with Broad Spectrum Protection | Ultra Lightweight, Oil Free & No White Cast | For All Skin Types | 50ml",
+  "tags": [
+   "scope:both",
+   "format:kit",
+   "spf:50",
+   "pa:++++",
+   "water:unstated",
+   "ing:vitamin-c",
+   "ing:milk",
+   "claim:brightening",
+   "claim:oil-control",
+   "claim:exfoliating",
+   "claim:no-white-cast",
+   "claim:broad-spectrum",
+   "claim:lightweight",
+   "claim:spf-claim",
+   "skin:sensitive",
+   "skin:all",
+   "free:fragrance",
+   "free:oil-free",
+   "free:sensitive-safe",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon",
+   "target:dark-spots",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "WishCare",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://www.wishcare.in/"
+   },
+   "buyers": "4.4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "unbranded-b0bwjrlldb",
+  "brand": "Unbranded",
+  "model": "Sunscreen Spray SPF-30 PA+++ 100 ml | For UVA & UVB Protection | No White Cast | Broad Spe…",
+  "price": 113,
+  "capacityLine": "100 ml",
+  "materialLine": "vitamin C + caffeine",
+  "featureLine": "Sunscreen · Paraben-free · ₹113/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0.6
+  },
+  "fullSpec": {
+   "quantity": "100 ml",
+   "pricePer100": "₹113/100ml",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin C, caffeine (per listing)",
+   "freeFrom": "Paraben-free, Sulfate/SLS-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "3.6/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.6★ from 0 ratings",
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistant / waterproof (duration not stated), sweat resistant (per listing — not tested here, not scored)"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61XUE1bJF-L._SL1098_.jpg",
+   "https://m.media-amazon.com/images/I/71q94KDhvuL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/711QzRhV5tL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81DrEZR4EcL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/710dt1Yrs+L._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0BWJRLLDB",
+  "buyStore": "Amazon",
+  "title": "Sunscreen Spray SPF-30 PA+++ 100 ml | For UVA & UVB Protection | No White Cast | Broad Spectrum | Blue Light Protection | Brightens & Hydrates Skin | Skin Sun Protection Spray | with Probiotics | Vitamin C & Caffeine | Water & Sweat Resistant | Non-sticky | Oil Free | Transparent & Lightweight | No Parabens | No Sulphates | Women & Men | All Skin Types | 100ml",
+  "tags": [
+   "scope:unstated",
+   "format:mist",
+   "pa:+++",
+   "water:resistant",
+   "water:sweat",
+   "ing:vitamin-c",
+   "ing:caffeine",
+   "ing:probiotics",
+   "claim:brightening",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:water-resistant",
+   "claim:no-white-cast",
+   "claim:broad-spectrum",
+   "claim:blue-light",
+   "claim:lightweight",
+   "skin:all",
+   "free:paraben",
+   "free:sulfate",
+   "free:oil-free",
+   "aud:women",
+   "size:standard",
+   "rating:3.5",
+   "store:amazon",
+   "target:dark-spots",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.6★ from 0 ratings"
+  }
+ },
+ {
+  "id": "uv-doux-b0gxbxktvs",
+  "brand": "Uv Doux",
+  "model": "D-Tan Aqua Sunscreen Lotion SPF 50 PA++++ | With Niacinamide Vitamin C Hyaluronic Acid Cer…",
+  "price": 919,
+  "capacityLine": "50 ml",
+  "materialLine": "vitamin C + niacinamide + hyaluronic acid",
+  "featureLine": "Sunscreen · SPF 50 · ₹1838/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "Made by Brinton Pharmaceuticals (dermatology / pharma maker)"
+  ],
+  "cons": [
+   "No ingredient list published on the listing"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 8,
+   "experience": 0.3
+  },
+  "fullSpec": {
+   "quantity": "50 ml",
+   "pricePer100": "₹1838/100ml",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin C, niacinamide, hyaluronic acid, ceramides, aloe vera, vitamin E (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Non-comedogenic (seller claim — not scored)",
+   "benefit": "Hydrating, SPF 50",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "3.5/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Brinton Pharmaceuticals — Dermatology / pharmaceutical manufacturer",
+   "buyerEvidence": "3.5★ from 0 ratings",
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61uitCmg3cL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GXBXKTVS",
+  "buyStore": "Amazon",
+  "title": "UV Doux D-Tan Aqua Sunscreen Lotion SPF 50 PA++++ | With Niacinamide Vitamin C Hyaluronic Acid Ceramide Aloe Vera & Vitamin E | Broad Spectrum | Benzene-Free | For Dry & Sensitive Skin | 50 ml",
+  "tags": [
+   "scope:unstated",
+   "format:lotion",
+   "spf:50",
+   "pa:++++",
+   "water:unstated",
+   "ing:vitamin-c",
+   "ing:niacinamide",
+   "ing:hyaluronic-acid",
+   "ing:ceramides",
+   "ing:aloe-vera",
+   "ing:vitamin-e",
+   "claim:de-tan",
+   "claim:dark-spots",
+   "claim:pores",
+   "claim:hydrating",
+   "claim:soothing",
+   "claim:broad-spectrum",
+   "claim:lightweight",
+   "claim:spf-claim",
+   "claim:dry-skin-relief",
+   "skin:dry",
+   "skin:sensitive",
+   "free:oil-free",
+   "free:non-comedogenic",
+   "free:sensitive-safe",
+   "aud:unisex",
+   "size:travel",
+   "rating:3.5",
+   "store:amazon",
+   "target:dark-spots",
+   "inci:none",
+   "inci:pharma-maker"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": true
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Brinton Pharmaceuticals",
+    "kind": "pharma",
+    "label": "Dermatology / pharmaceutical manufacturer",
+    "pts": 8,
+    "url": "https://www.brintonpharma.com/"
+   },
+   "buyers": "3.5★ from 0 ratings"
+  }
+ },
+ {
+  "id": "unbranded-b0h9fl33ch",
+  "brand": "Unbranded",
+  "model": "Ultra Light Sunscreen Cream SPF 50 PA++++ | 80g Face Sunscreen with Vitamin C & Niacinamid…",
+  "price": 149,
+  "capacityLine": "80 g",
+  "materialLine": "vitamin C + niacinamide",
+  "featureLine": "Sunscreen · SPF 50 · ₹186/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "80 g",
+   "pricePer100": "₹186/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin C, niacinamide (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "SPF 50",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/610feAwZ84L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71hr+jtuk7L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71Ezp5LfrGL._SL1254_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H9FL33CH",
+  "buyStore": "Amazon",
+  "title": "Ultra Light Sunscreen Cream SPF 50 PA++++ | 80g Face Sunscreen with Vitamin C & Niacinamide | Broad Spectrum UV Protection | Fast Absorbing Formula",
+  "tags": [
+   "scope:face",
+   "format:cream",
+   "format:pack",
+   "spf:50",
+   "pa:++++",
+   "water:unstated",
+   "ing:vitamin-c",
+   "ing:niacinamide",
+   "claim:oil-control",
+   "claim:exfoliating",
+   "claim:broad-spectrum",
+   "claim:lightweight",
+   "claim:spf-claim",
+   "claim:makeup",
+   "aud:unisex",
+   "size:standard",
+   "rating:none",
+   "store:amazon",
+   "target:dark-spots",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "sammmm-b0fl7xqxqw",
+  "brand": "Sammmm",
+  "model": "SUNNYSIDE Sunscreen SPF 50 PA++++(45g) For Young Skin | UVA/UVB, Blue Light & Pollution De…",
+  "price": 504,
+  "capacityLine": "45 g",
+  "materialLine": "vitamin C",
+  "featureLine": "Sunscreen · SPF 50 · ₹1120/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 3.5
+  },
+  "fullSpec": {
+   "quantity": "45 g",
+   "pricePer100": "₹1120/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin C (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim, Acne/blemish claim, SPF 50",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "4.5/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.5★ from 0 ratings",
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61J2FZhQtaL._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/61GkTbyweAL._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/61VIxXxhHoL._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/61t-KW2XZuL._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/61MdcV2Z7EL._SL1200_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0FL7XQXQW",
+  "buyStore": "Amazon",
+  "title": "Sammmm SUNNYSIDE Sunscreen SPF 50 PA++++(45g) For Young Skin | UVA/UVB, Blue Light & Pollution Defense | Light Weight, Non-Greasy Sunscreen SPF50 Gel with Vitamin C | No White Cast| For All Skin Types",
+  "tags": [
+   "scope:unstated",
+   "format:gel",
+   "spf:50",
+   "pa:++++",
+   "water:unstated",
+   "ing:vitamin-c",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:acne",
+   "claim:pores",
+   "claim:oil-control",
+   "claim:soothing",
+   "claim:exfoliating",
+   "claim:no-white-cast",
+   "claim:broad-spectrum",
+   "claim:blue-light",
+   "claim:lightweight",
+   "claim:spf-claim",
+   "claim:makeup",
+   "skin:oily",
+   "skin:dry",
+   "skin:acne-prone",
+   "skin:all",
+   "free:oil-free",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.5",
+   "store:amazon",
+   "target:dark-spots",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.5★ from 0 ratings"
+  }
+ },
+ {
+  "id": "skinq-b08kh7qh7n",
+  "brand": "SKINQ",
+  "model": "SPF 50+ Detan Sunscreen Gel | Tan Reduction, No White Cast | 97.5% UVB Protection | With V…",
+  "price": 612,
+  "capacityLine": "50 ml",
+  "materialLine": "vitamin C",
+  "featureLine": "Sunscreen · SPF 50 · ₹1224/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.9
+  },
+  "fullSpec": {
+   "quantity": "50 ml",
+   "pricePer100": "₹1224/100ml",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin C (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim, SPF 50",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.3/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61jXtqxjhaL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71gbTrZwtxL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61038EJVOML._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71r4Qk4cKpL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71KI4RjYzEL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B08KH7QH7N",
+  "buyStore": "Amazon",
+  "title": "SKINQ SPF 50+ Detan Sunscreen Gel | Tan Reduction, No White Cast | 97.5% UVB Protection | With Vitamin C | Lightweight, Non-Greasy | Normal, Dry & Sensitive Skin | Made by Dermat | 50ml",
+  "tags": [
+   "scope:unstated",
+   "format:gel",
+   "spf:50+",
+   "pa:++++",
+   "water:unstated",
+   "ing:vitamin-c",
+   "claim:brightening",
+   "claim:de-tan",
+   "claim:dark-spots",
+   "claim:oil-control",
+   "claim:exfoliating",
+   "claim:no-white-cast",
+   "claim:broad-spectrum",
+   "claim:blue-light",
+   "claim:lightweight",
+   "claim:spf-claim",
+   "skin:dry",
+   "skin:sensitive",
+   "free:sensitive-safe",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon",
+   "target:dark-spots",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.3★ from 0 ratings"
+  }
+ },
+ {
+  "id": "nivea-b0grh5dsyf",
+  "brand": "Nivea",
+  "model": "Sun Extra Protect Daily Glow Essence Body Serum Sunscreen SPF50 PA+++ with Vitamin C & Vit…",
+  "price": 1197,
+  "capacityLine": "180 ml",
+  "materialLine": "vitamin C + vitamin E",
+  "featureLine": "Sunscreen · SPF 50 · ₹665/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6.5,
+   "experience": 5
+  },
+  "fullSpec": {
+   "quantity": "180 ml",
+   "pricePer100": "₹665/100ml",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin C, vitamin E (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim, SPF 50",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Beiersdorf — Global FMCG or beauty group",
+   "buyerEvidence": "5★ from 0 ratings",
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/41gTZwe5xGL.jpg",
+   "https://m.media-amazon.com/images/I/618k0T6wSfL.jpg",
+   "https://m.media-amazon.com/images/I/51m6YusYJgL.jpg",
+   "https://m.media-amazon.com/images/I/41+Q2B8JdtL.jpg",
+   "https://m.media-amazon.com/images/I/51sMnSTk-gL.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GRH5DSYF",
+  "buyStore": "Amazon",
+  "title": "NIVEA Sun Extra Protect Daily Glow Essence Body Serum Sunscreen SPF50 PA+++ with Vitamin C & Vitamin E, UVA UVB Protection, Anti Pollution, Fast Absorbing Non Sticky Sunscreen for Moisturized Glowing Skin, 180ml",
+  "tags": [
+   "scope:body",
+   "format:serum",
+   "format:essence",
+   "spf:50",
+   "pa:+++",
+   "water:unstated",
+   "ing:vitamin-c",
+   "ing:vitamin-e",
+   "claim:brightening",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "claim:broad-spectrum",
+   "claim:lightweight",
+   "claim:spf-claim",
+   "aud:unisex",
+   "size:large",
+   "rating:4.5",
+   "store:amazon",
+   "target:dark-spots",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Beiersdorf",
+    "kind": "global",
+    "label": "Global FMCG or beauty group",
+    "pts": 6.5,
+    "url": "https://www.beiersdorf.com/brands/nivea"
+   },
+   "buyers": "5★ from 0 ratings"
+  }
+ },
+ {
+  "id": "key-b0gz9xvvcc",
+  "brand": "Key",
+  "model": "Soul Sunscreen SPF 50+ PA+++ 50g | Broad Spectrum UVA & UVB Protection | With Vitamin C, N…",
+  "price": 475,
+  "capacityLine": "100 g (pack of 2)",
+  "materialLine": "vitamin C + niacinamide + hyaluronic acid",
+  "featureLine": "Sunscreen · SPF 50 · ₹475/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.9
+  },
+  "fullSpec": {
+   "quantity": "50 g × 2 pack",
+   "pricePer100": "₹475/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin C, niacinamide, hyaluronic acid, ceramides (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "SPF 50",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.3/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistant / waterproof (duration not stated), sweat resistant (per listing — not tested here, not scored)"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/716mzDuL9BL._SL1036_.jpg",
+   "https://m.media-amazon.com/images/I/51cBJdszVHL._SL1152_.jpg",
+   "https://m.media-amazon.com/images/I/517cV79mH3L._SL1105_.jpg",
+   "https://m.media-amazon.com/images/I/51dEa5mIiuL._SL1152_.jpg",
+   "https://m.media-amazon.com/images/I/51iT5z-z9lL._SL1220_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GZ9XVVCC",
+  "buyStore": "Amazon",
+  "title": "Key Soul Sunscreen SPF 50+ PA+++ 50g | Broad Spectrum UVA & UVB Protection | With Vitamin C, Niacinamide (B3), Hyaluronic Acid, Ceramide & Allantoin | Water & Sweat Resistant | Ultra Light Daily Sunscreen cream (Pack of 2)",
+  "tags": [
+   "scope:unstated",
+   "format:gel",
+   "format:cream",
+   "format:pack",
+   "format:kit",
+   "spf:50+",
+   "pa:+++",
+   "water:resistant",
+   "water:sweat",
+   "ing:vitamin-c",
+   "ing:niacinamide",
+   "ing:hyaluronic-acid",
+   "ing:ceramides",
+   "ing:allantoin",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "claim:water-resistant",
+   "claim:broad-spectrum",
+   "claim:lightweight",
+   "claim:spf-claim",
+   "aud:unisex",
+   "size:standard",
+   "rating:4.0",
+   "store:amazon",
+   "target:dark-spots",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.3★ from 0 ratings"
+  }
+ },
+ {
+  "id": "ayumcure-b0fj9fy3p9",
+  "brand": "Ayumcure",
+  "model": "Vitamin C + E Ultra Light Gel Sunscreen With Niacinamide SPF 50+++ | Broad-Spectrum UVA/UV…",
+  "price": 499,
+  "capacityLine": "50 ml",
+  "materialLine": "vitamin C + niacinamide + hyaluronic acid",
+  "featureLine": "Sunscreen · SPF 50 · ₹998/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.9
+  },
+  "fullSpec": {
+   "quantity": "50 ml",
+   "pricePer100": "₹998/100ml",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin C, niacinamide, hyaluronic acid, aloe vera, vitamin E (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim, Acne/blemish claim, SPF 50",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.3/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/713ppyi+DCL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0FJ9FY3P9",
+  "buyStore": "Amazon",
+  "title": "Ayumcure Vitamin C + E Ultra Light Gel Sunscreen With Niacinamide SPF 50+++ | Broad-Spectrum UVA/UVB & Blue Light Protection | Water-Resistant, No White Cast | All Skin Types | 50 ML",
+  "tags": [
+   "scope:face",
+   "format:gel",
+   "format:cream",
+   "format:serum",
+   "format:kit",
+   "spf:50+",
+   "pa:++++",
+   "water:resistant",
+   "ing:vitamin-c",
+   "ing:niacinamide",
+   "ing:hyaluronic-acid",
+   "ing:glutathione",
+   "ing:aloe-vera",
+   "ing:vitamin-e",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:acne",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:soothing",
+   "claim:water-resistant",
+   "claim:no-white-cast",
+   "claim:broad-spectrum",
+   "claim:blue-light",
+   "claim:lightweight",
+   "claim:spf-claim",
+   "skin:all",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon",
+   "target:dark-spots",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.3★ from 0 ratings"
+  }
+ },
+ {
+  "id": "wow-b0dz2lv7xn",
+  "brand": "Wow",
+  "model": "Skin Science Japanese Yuzu + Vitamin C with 5 Ceramides Dewy Bright Sunscreen Gel | SPF 70…",
+  "price": 419,
+  "capacityLine": "80 ml",
+  "materialLine": "vitamin C + ceramides",
+  "featureLine": "Sunscreen · SPF 70 · ₹524/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 5,
+   "experience": 2.2
+  },
+  "fullSpec": {
+   "quantity": "80 ml",
+   "pricePer100": "₹524/100ml",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin C, ceramides (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Dermatologically tested (seller claim — not scored)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim, SPF 70",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.1/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Body Cupid — Indian D2C brand with its own product company",
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61fU9YMT-0L._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0DZ2LV7XN",
+  "buyStore": "Amazon",
+  "title": "WOW Skin Science Japanese Yuzu + Vitamin C with 5 Ceramides Dewy Bright Sunscreen Gel | SPF 70 PA++++ 500x Vitamin C | Quick Absorption | No White Cast | Water Resistant | UVA + UVB Protection | 80ml",
+  "tags": [
+   "scope:unstated",
+   "format:gel",
+   "format:oil",
+   "format:kit",
+   "spf:60",
+   "pa:++++",
+   "sun:mineral",
+   "water:resistant",
+   "ing:vitamin-c",
+   "ing:ceramides",
+   "ing:lemon",
+   "ing:yuja-yuzu",
+   "ing:mineral-oil",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:oil-control",
+   "claim:barrier",
+   "claim:water-resistant",
+   "claim:no-white-cast",
+   "claim:broad-spectrum",
+   "claim:lightweight",
+   "claim:spf-claim",
+   "claim:dry-skin-relief",
+   "skin:sensitive",
+   "skin:all",
+   "free:derm",
+   "free:sensitive-safe",
+   "aud:unisex",
+   "size:standard",
+   "rating:4.0",
+   "store:amazon",
+   "target:dark-spots",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": true,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Body Cupid",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://www.buywow.in/"
+   },
+   "buyers": "4.1★ from 0 ratings"
+  }
+ },
+ {
+  "id": "mineral-b0gkztf5vh",
+  "brand": "Mineral",
+  "model": "Sunscreen SPF 50 PA+++, Enriched with Vitamin C, Water Resistant, 100% Natural, UVA & UVB …",
+  "price": 239,
+  "capacityLine": "200 ml",
+  "materialLine": "vitamin C",
+  "featureLine": "Sunscreen · SPF 50 · ₹120/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0.3
+  },
+  "fullSpec": {
+   "quantity": "200 ml",
+   "pricePer100": "₹120/100ml",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin C (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, SPF 50",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "3.5/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.5★ from 0 ratings",
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61149wI-8YL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GKZTF5VH",
+  "buyStore": "Amazon",
+  "title": "Mineral Sunscreen SPF 50 PA+++, Enriched with Vitamin C, Water Resistant, 100% Natural, UVA & UVB Protection for Men & Women, All Skin Types 200ml",
+  "tags": [
+   "scope:unstated",
+   "spf:50",
+   "pa:+++",
+   "sun:mineral",
+   "water:resistant",
+   "ing:vitamin-c",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "claim:water-resistant",
+   "claim:broad-spectrum",
+   "claim:lightweight",
+   "claim:spf-claim",
+   "skin:all",
+   "aud:women",
+   "size:large",
+   "rating:3.5",
+   "store:amazon",
+   "target:dark-spots",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.5★ from 0 ratings"
+  }
+ },
+ {
+  "id": "akua-b0f13tnmg6",
+  "brand": "AKUA",
+  "model": "Invisible Sunscreen with Vitamin C - SPF 50, Matt Finish, Non-Comedogenic, Resists Tanning…",
+  "price": 664,
+  "capacityLine": "45 g",
+  "materialLine": "vitamin C",
+  "featureLine": "Sunscreen · SPF 50 · ₹1476/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 4.8
+  },
+  "fullSpec": {
+   "quantity": "45 g",
+   "pricePer100": "₹1476/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin C (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Non-comedogenic (seller claim — not scored)",
+   "benefit": "SPF 50",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.9/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.9★ from 0 ratings",
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/618uIoV1jCL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0F13TNMG6",
+  "buyStore": "Amazon",
+  "title": "AKUA Invisible Sunscreen with Vitamin C - SPF 50, Matt Finish, Non-Comedogenic, Resists Tanning, Waterproof, For All Skin Types, 45g / 1.58 oz",
+  "tags": [
+   "scope:unstated",
+   "spf:50",
+   "water:resistant",
+   "ing:vitamin-c",
+   "claim:oil-control",
+   "claim:water-resistant",
+   "claim:no-white-cast",
+   "claim:spf-claim",
+   "skin:sensitive",
+   "skin:all",
+   "free:non-comedogenic",
+   "free:sensitive-safe",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.5",
+   "store:amazon",
+   "target:dark-spots",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.9★ from 0 ratings"
+  }
+ },
+ {
+  "id": "unbranded-b0hblp21cw",
+  "brand": "Unbranded",
+  "model": "Skin Defence SPF 50 Sunscreen Lotion with Vitamin C, 50 ml",
+  "price": 630,
+  "capacityLine": "50 ml",
+  "materialLine": "vitamin C",
+  "featureLine": "Sunscreen · SPF 50 · ₹1260/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "50 ml",
+   "pricePer100": "₹1260/100ml",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin C (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim, SPF 50",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistant / waterproof (duration not stated), sweat resistant (per listing — not tested here, not scored)"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61QCcDaaceL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/610DVBeV68L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61kPGsc-1tL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0HBLP21CW",
+  "buyStore": "Amazon",
+  "title": "Skin Defence SPF 50 Sunscreen Lotion with Vitamin C, 50 ml",
+  "tags": [
+   "scope:unstated",
+   "format:lotion",
+   "format:emulsion",
+   "spf:50",
+   "water:resistant",
+   "water:sweat",
+   "ing:vitamin-c",
+   "claim:brightening",
+   "claim:oil-control",
+   "claim:water-resistant",
+   "claim:broad-spectrum",
+   "claim:blue-light",
+   "claim:spf-claim",
+   "claim:makeup",
+   "aud:unisex",
+   "size:travel",
+   "rating:none",
+   "store:amazon",
+   "target:dark-spots",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "lilium-b0fccbnc6x",
+  "brand": "LILIUM",
+  "model": "Sun Protect SPF-60 PA+++ Sunscreen Cream | Vitamin C & Cucumber | Anti-Tanning & Ultra Soo…",
+  "price": 322,
+  "capacityLine": "100 g",
+  "materialLine": "vitamin C + hyaluronic acid + cucumber",
+  "featureLine": "Sunscreen · Paraben-free · ₹322/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.6
+  },
+  "fullSpec": {
+   "quantity": "100 g",
+   "pricePer100": "₹322/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin C, hyaluronic acid, cucumber (per listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.2/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61-p7J6WsvL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61+KNo0717L._SL1100_.jpg",
+   "https://m.media-amazon.com/images/I/71spgYh7e6L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71a-Z-JmkRL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71j4FkSSAqL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0FCCBNC6X",
+  "buyStore": "Amazon",
+  "title": "LILIUM Sun Protect SPF-60 PA+++ Sunscreen Cream | Vitamin C & Cucumber | Anti-Tanning & Ultra Soothing | Paraben-Free | Water Resistant | All Skin Types | 100g",
+  "tags": [
+   "scope:unstated",
+   "format:cream",
+   "pa:+++",
+   "water:resistant",
+   "ing:vitamin-c",
+   "ing:hyaluronic-acid",
+   "ing:cucumber",
+   "claim:de-tan",
+   "claim:oil-control",
+   "claim:soothing",
+   "claim:water-resistant",
+   "claim:broad-spectrum",
+   "skin:all",
+   "free:paraben",
+   "aud:unisex",
+   "size:standard",
+   "rating:4.0",
+   "store:amazon",
+   "target:dark-spots",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.2★ from 0 ratings"
+  }
+ },
+ {
+  "id": "allail-b0gnhf9lv9",
+  "brand": "ALLAIL",
+  "model": "\"Sun Glow\" Sunscreen SPF 50+ | 100g | UVA & UVB Protection | Vitamin C & E | Titanium Diox…",
+  "price": 129,
+  "capacityLine": "100 g",
+  "materialLine": "vitamin C + shea butter",
+  "featureLine": "Sunscreen · SPF 50 · ₹129/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 5
+  },
+  "fullSpec": {
+   "quantity": "100 g",
+   "pricePer100": "₹129/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin C, shea butter (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim, SPF 50",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "5★ from 0 ratings",
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/613EDM466vL._SL1268_.jpg",
+   "https://m.media-amazon.com/images/I/71Nr2ZoF+AL._SL1374_.jpg",
+   "https://m.media-amazon.com/images/I/71Cw+81FcwL._SL1374_.jpg",
+   "https://m.media-amazon.com/images/I/71TIW6T+9GL._SL1374_.jpg",
+   "https://m.media-amazon.com/images/I/713yohlSz8L._SL1374_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GNHF9LV9",
+  "buyStore": "Amazon",
+  "title": "ALLAIL \"Sun Glow\" Sunscreen SPF 50+ | 100g | UVA & UVB Protection | Vitamin C & E | Titanium Dioxide | No White Cast | Lightweight, Non-Sticky | All Skin Types",
+  "tags": [
+   "scope:unstated",
+   "format:balm",
+   "format:pack",
+   "spf:50+",
+   "pa:+++",
+   "sun:mineral",
+   "water:unstated",
+   "ing:vitamin-c",
+   "ing:shea-butter",
+   "ing:cocoa-butter",
+   "ing:titanium-dioxide",
+   "claim:brightening",
+   "claim:oil-control",
+   "claim:no-white-cast",
+   "claim:broad-spectrum",
+   "claim:lightweight",
+   "claim:spf-claim",
+   "skin:all",
+   "aud:unisex",
+   "size:standard",
+   "rating:4.5",
+   "store:amazon",
+   "target:dark-spots",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "5★ from 0 ratings"
+  }
+ },
+ {
+  "id": "dr-sheth-s-b0c6kbhpzw",
+  "brand": "Dr. Sheth's",
+  "model": "Ceramide & Vitamin C Sunscreen SPF 50+ PA++++ |In-Vivo Tested | For Healthy & Bright Skin …",
+  "price": 524,
+  "capacityLine": "80 g",
+  "materialLine": "vitamin C + hyaluronic acid + ceramides",
+  "featureLine": "Sunscreen · SPF 50 · ₹655/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6,
+   "experience": 2.9
+  },
+  "fullSpec": {
+   "quantity": "80 g",
+   "pricePer100": "₹655/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin C, hyaluronic acid, ceramides (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim, SPF 50",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "4.3/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/613U1ufRKIL._SL1254_.jpg",
+   "https://m.media-amazon.com/images/I/71fbSgPmT6L._SL1254_.jpg",
+   "https://m.media-amazon.com/images/I/61ZbOXV8geL._SL1254_.jpg",
+   "https://m.media-amazon.com/images/I/71jNfOiGz4L._SL1254_.jpg",
+   "https://m.media-amazon.com/images/I/61JbtoDwE1L._SL1200_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0C6KBHPZW",
+  "buyStore": "Amazon",
+  "title": "Dr. Sheth's Ceramide & Vitamin C Sunscreen SPF 50+ PA++++ |In-Vivo Tested | For Healthy & Bright Skin | Lightweight & Non Greasy | For UVA/UVB & Blue Light & IR Protection | No white cast | For All Skin Types | For Men & Women | 80 g",
+  "tags": [
+   "scope:unstated",
+   "spf:50+",
+   "pa:++++",
+   "water:unstated",
+   "ing:vitamin-c",
+   "ing:hyaluronic-acid",
+   "ing:ceramides",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:no-white-cast",
+   "claim:broad-spectrum",
+   "claim:blue-light",
+   "claim:lightweight",
+   "claim:spf-claim",
+   "skin:all",
+   "aud:women",
+   "size:standard",
+   "rating:4.0",
+   "store:amazon",
+   "target:dark-spots",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Honasa Consumer (listed)",
+    "kind": "india",
+    "label": "Established / listed Indian FMCG house",
+    "pts": 6,
+    "url": "https://honasa.in/brands"
+   },
+   "buyers": "4.3★ from 0 ratings"
+  }
+ },
+ {
+  "id": "lotus-b0f8hpklxz",
+  "brand": "Lotus",
+  "model": "Dermabotanics 3% Vitamin C Complex + Ceramide Complex UV Aqua Sunscreen Spray SPF 50 and P…",
+  "price": 437,
+  "capacityLine": "50 ml",
+  "materialLine": "vitamin C + ceramides",
+  "featureLine": "Sunscreen · SPF 50 · ₹874/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6,
+   "experience": 2.9
+  },
+  "fullSpec": {
+   "quantity": "50 ml",
+   "pricePer100": "₹874/100ml",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin C, ceramides (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "SPF 50",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.3/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Lotus Herbals — Established / listed Indian FMCG house",
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51PSKRdeyaL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71YDD4z+dhL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61htVWfIkrL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61Rss8SufeL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61L4ErgMXRL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0F8HPKLXZ",
+  "buyStore": "Amazon",
+  "title": "Lotus Dermabotanics 3% Vitamin C Complex + Ceramide Complex UV Aqua Sunscreen Spray SPF 50 and PA++++ | Fast Absorbing | Water Texture | Light Weight | Broad Spectrum UV Protection | Made With Dermatologists | All Skin Types | 50ml",
+  "tags": [
+   "scope:unstated",
+   "format:mist",
+   "spf:50",
+   "pa:++++",
+   "water:unstated",
+   "ing:vitamin-c",
+   "ing:ceramides",
+   "claim:dark-spots",
+   "claim:exfoliating",
+   "claim:no-white-cast",
+   "claim:broad-spectrum",
+   "claim:lightweight",
+   "claim:spf-claim",
+   "skin:all",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon",
+   "target:dark-spots",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Lotus Herbals",
+    "kind": "india",
+    "label": "Established / listed Indian FMCG house",
+    "pts": 6,
+    "url": "https://www.lotusherbals.com/pages/about-us"
+   },
+   "buyers": "4.3★ from 0 ratings"
   }
  }
 ];

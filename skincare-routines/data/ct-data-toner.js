@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-07.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-12.
 // Unknown fields are honestly marked, never invented.
 const CTPRODUCTS = [
  {
@@ -974,7 +974,7 @@ const CTPRODUCTS = [
  {
   "id": "anua-itm2e99e9952dafd",
   "brand": "Anua",
-  "model": "Rice 70+ ceramides milky toner 250 ml+ 100 PDRN + HAYALURON …",
+  "model": "Rice 70+ ceramides milky toner 250 ml+ 100 PDRN + HAYALURON",
   "price": 915,
   "capacityLine": "250 ml",
   "materialLine": "hyaluronic acid + ceramides + rice water",
@@ -1019,7 +1019,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/anua-rice-70-ceramides-milky-toner-250-ml-100-pdrn-hayaluron/p/itm2e99e9952dafd",
   "buyStore": "Flipkart",
-  "title": "ANUA Rice 70+ ceramides milky toner 250 ml+ 100 PDRN + HAYALURON …",
+  "title": "ANUA Rice 70+ ceramides milky toner 250 ml+ 100 PDRN + HAYALURON",
   "tags": [
    "scope:face",
    "format:serum",
@@ -1030,6 +1030,7 @@ const CTPRODUCTS = [
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "ing:rice-water",
+   "ing:pdrn-polynucleotide",
    "claim:brightening",
    "claim:hydrating",
    "claim:soothing",
@@ -1120,7 +1121,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/o/m/1/400-rice-70-ceramides-milky-toner-250ml-succinic-acid-peel-150ml-original-imahpp9vgwhgkgyg.jpeg?q=90"
@@ -1136,6 +1138,8 @@ const CTPRODUCTS = [
    "format:pack",
    "format:wash",
    "format:kit",
+   "format:cleansing-oil",
+   "water:unstated",
    "ing:ceramides",
    "ing:rice-water",
    "ing:heartleaf",
@@ -1235,7 +1239,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/m/4/a/400-rice-70-ceramides-milky-toner-250ml-hyaluronic-acid-8-original-imahpp9xvrpse8cx.jpeg?q=90"
@@ -1251,6 +1256,8 @@ const CTPRODUCTS = [
    "format:pack",
    "format:wash",
    "format:kit",
+   "format:cleansing-oil",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "ing:rice-water",
@@ -1313,7 +1320,7 @@ const CTPRODUCTS = [
  {
   "id": "anua-itmadfb6328d51d9",
   "brand": "Anua",
-  "model": "rice 70+ ceramide glow milky toner 250 ml + Niacinamide 10%+ …",
+  "model": "rice 70+ ceramide glow milky toner 250 ml + Niacinamide 10%+ TXA 4 serum 30 ml = 280 ml",
   "price": 915,
   "capacityLine": "250 ml",
   "materialLine": "niacinamide + hyaluronic acid + ceramides",
@@ -1358,7 +1365,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/anua-rice-70-ceramide-glow-milky-toner-250-ml-niacinamide-10-txa-4-serum-30-280/p/itmadfb6328d51d9",
   "buyStore": "Flipkart",
-  "title": "ANUA rice 70+ ceramide glow milky toner 250 ml + Niacinamide 10%+ …",
+  "title": "ANUA rice 70+ ceramide glow milky toner 250 ml + Niacinamide 10%+ TXA 4 serum 30 ml = 280 ml",
   "tags": [
    "scope:face",
    "format:serum",
@@ -1529,7 +1536,7 @@ const CTPRODUCTS = [
  {
   "id": "anua-itme577320b0f160",
   "brand": "Anua",
-  "model": "Rice 70+ ceramides milky toner 250 ml+ Niacinamide 10%+ TXA …",
+  "model": "Rice 70+ ceramides milky toner 250 ml+ Niacinamide 10%+ TXA for serum 30 ml =280 ml",
   "price": 915,
   "capacityLine": "250 ml",
   "materialLine": "niacinamide + ceramides + rice water",
@@ -1574,7 +1581,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/anua-rice-70-ceramides-milky-toner-250-ml-niacinamide-10-txa-serum-30-ml-280/p/itme577320b0f160",
   "buyStore": "Flipkart",
-  "title": "ANUA Rice 70+ ceramides milky toner 250 ml+ Niacinamide 10%+ TXA …",
+  "title": "ANUA Rice 70+ ceramides milky toner 250 ml+ Niacinamide 10%+ TXA for serum 30 ml =280 ml",
   "tags": [
    "scope:face",
    "format:serum",
@@ -2681,7 +2688,7 @@ const CTPRODUCTS = [
  {
   "id": "the-plant-fix-plix-itmb7d8532d225fe",
   "brand": "The Plant Fix Plix",
-  "model": "Pineapple PHA 3% Alcohol Free Face Toner for P …",
+  "model": "Pineapple PHA 3% Alcohol Free Face Toner for Pore Tightening & Mild Exfoliation Men & Wome…",
   "price": 348,
   "capacityLine": "Quantity not stated",
   "materialLine": "PHA",
@@ -2708,7 +2715,7 @@ const CTPRODUCTS = [
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
    "benefit": "Not stated in listing",
-   "audience": "Unisex / not stated",
+   "audience": "Marketed for women",
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "4.4/5 (2,110 ratings, Flipkart)",
@@ -2731,14 +2738,15 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/plant-fix-plix-pineapple-pha-3-alcohol-free-face-toner-pore-tightening-mild-exfoliation-men-women/p/itmb7d8532d225fe",
   "buyStore": "Flipkart",
-  "title": "The Plant Fix Plix Pineapple PHA 3% Alcohol Free Face Toner for P …",
+  "title": "The Plant Fix Plix Pineapple PHA 3% Alcohol Free Face Toner for Pore Tightening & Mild Exfoliation Men & Women",
   "tags": [
    "scope:face",
    "format:toner",
    "ing:pha",
+   "claim:pores",
    "claim:exfoliating",
    "free:alcohol",
-   "aud:unisex",
+   "aud:women",
    "rating:4.0",
    "store:flipkart",
    "inci:none"
@@ -2749,7 +2757,7 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false,
+   "women": true,
    "inci": "none",
    "inciSrc": null,
    "pharma": false
@@ -6933,7 +6941,7 @@ const CTPRODUCTS = [
  {
   "id": "minimalist-itm370e7bdc4c208",
   "brand": "Minimalist",
-  "model": "3% PHA Alcohol Free Face Toner for Women & Men | Oily …",
+  "model": "3% PHA Alcohol Free Face Toner for Women & Men | Oily Skin Men & Women",
   "price": 379,
   "capacityLine": "Quantity not stated",
   "materialLine": "PHA",
@@ -6983,7 +6991,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/minimalist-3-pha-alcohol-free-face-toner-women-men-oily-skin/p/itm370e7bdc4c208",
   "buyStore": "Flipkart",
-  "title": "Minimalist 3% PHA Alcohol Free Face Toner for Women & Men | Oily …",
+  "title": "Minimalist 3% PHA Alcohol Free Face Toner for Women & Men | Oily Skin Men & Women",
   "tags": [
    "scope:face",
    "format:toner",
@@ -15679,7 +15687,7 @@ const CTPRODUCTS = [
  {
   "id": "modicare-itmbbda13f1277a8",
   "brand": "Modicare",
-  "model": "Schloka 3 in 1 Cleanser, Toner & Makeup Remover | Green …",
+  "model": "Schloka 3 in 1 Cleanser, Toner & Makeup Remover | Green Tea & Chamomile Extract Men & Wome…",
   "price": 308,
   "capacityLine": "200 ml",
   "materialLine": "green tea",
@@ -15729,7 +15737,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/modicare-schloka-3-1-cleanser-toner-makeup-remover-green-tea-chamomile-extract-men-women/p/itmbbda13f1277a8",
   "buyStore": "Flipkart",
-  "title": "Modicare Schloka 3 in 1 Cleanser, Toner & Makeup Remover | Green …",
+  "title": "Modicare Schloka 3 in 1 Cleanser, Toner & Makeup Remover | Green Tea & Chamomile Extract Men & Women",
   "tags": [
    "scope:face",
    "format:toner",
@@ -48229,7 +48237,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/3/o/w/100-facial-hydrating-pore-tightening-refreshing-toner-mist-50ml-original-imahmjpjhsgh5pgb.jpeg?q=90",
@@ -48247,6 +48256,7 @@ const CTPRODUCTS = [
    "format:mist",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:rose",
    "claim:pores",
    "claim:hydrating",
@@ -50695,7 +50705,7 @@ const CTPRODUCTS = [
  {
   "id": "tnw-itm80c9faee85a15",
   "brand": "TNW",
-  "model": "The Natural Wash Cucumber Toner & Makeup Remover | Hydratin …",
+  "model": "The Natural Wash Cucumber Toner & Makeup Remover | Hydrating Men & Women",
   "price": 212,
   "capacityLine": "Quantity not stated",
   "materialLine": "cucumber",
@@ -50721,7 +50731,7 @@ const CTPRODUCTS = [
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
    "benefit": "Hydrating",
-   "audience": "Unisex / not stated",
+   "audience": "Marketed for women",
    "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
    "skinType": "Not stated in listing",
    "rating": "4.2/5 (5,198 ratings, Flipkart)",
@@ -50744,7 +50754,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/tnw-natural-wash-cucumber-toner-makeup-remover-hydrating-men-women/p/itm80c9faee85a15",
   "buyStore": "Flipkart",
-  "title": "TNW - The Natural Wash Cucumber Toner & Makeup Remover | Hydratin …",
+  "title": "TNW - The Natural Wash Cucumber Toner & Makeup Remover | Hydrating Men & Women",
   "tags": [
    "scope:unstated",
    "format:toner",
@@ -50753,7 +50763,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:korean",
    "claim:makeup",
-   "aud:unisex",
+   "aud:women",
    "rating:4.0",
    "store:flipkart",
    "inci:partial"
@@ -50764,7 +50774,7 @@ const CTPRODUCTS = [
    "natural": true,
    "derm": false,
    "men": false,
-   "women": false,
+   "women": true,
    "inci": "partial",
    "inciSrc": null,
    "pharma": false
@@ -56094,7 +56104,7 @@ const CTPRODUCTS = [
  {
   "id": "seasoul-itmaae923261d295",
   "brand": "SeaSoul",
-  "model": "PHA Face Toner with Dead Sea Minerals & Niacinamide Men & …",
+  "model": "PHA Face Toner with Dead Sea Minerals & Niacinamide Men & Women",
   "price": 320,
   "capacityLine": "100 ml",
   "materialLine": "niacinamide + PHA",
@@ -56147,7 +56157,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/seasoul-pha-face-toner-dead-sea-minerals-niacinamide-men-women/p/itmaae923261d295",
   "buyStore": "Flipkart",
-  "title": "SEASOUL PHA Face Toner with Dead Sea Minerals & Niacinamide Men & …",
+  "title": "SEASOUL PHA Face Toner with Dead Sea Minerals & Niacinamide Men & Women",
   "tags": [
    "scope:face",
    "format:toner",
@@ -63957,6 +63967,7 @@ const CTPRODUCTS = [
    "format:mist",
    "format:oil",
    "format:kit",
+   "format:cleansing-oil",
    "ing:pha",
    "ing:aloe-vera",
    "ing:rose",
@@ -65520,6 +65531,7 @@ const CTPRODUCTS = [
    "format:mist",
    "format:oil",
    "format:kit",
+   "format:cleansing-oil",
    "ing:niacinamide",
    "ing:rose",
    "ing:witch-hazel",
@@ -72489,7 +72501,7 @@ const CTPRODUCTS = [
  {
   "id": "qerinkle-itm03bd40917f6ca",
   "brand": "QERINKLE",
-  "model": "6X Peptide Skin Booster Toner Serum Niacinamide & Hyalur …",
+  "model": "6X Peptide Skin Booster Toner Serum Niacinamide & Hyaluronic Acid Facial Essence Women",
   "price": 254,
   "capacityLine": "150 ml",
   "materialLine": "niacinamide + hyaluronic acid + peptides",
@@ -72539,7 +72551,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/qerinkle-6x-peptide-skin-booster-toner-serum-niacinamide-hyaluronic-acid-facial-essence-women/p/itm03bd40917f6ca",
   "buyStore": "Flipkart",
-  "title": "QERINKLE 6X Peptide Skin Booster Toner Serum Niacinamide & Hyalur …",
+  "title": "QERINKLE 6X Peptide Skin Booster Toner Serum Niacinamide & Hyaluronic Acid Facial Essence Women",
   "tags": [
    "scope:face",
    "format:serum",
@@ -72710,7 +72722,7 @@ const CTPRODUCTS = [
  {
   "id": "anua-itmec56e7a10e0d5",
   "brand": "Anua",
-  "model": "RICE 70+ CERAMIDES MILKY TONER 250ML+NIACINAMIDE 10+TXA 4 SE …",
+  "model": "RICE 70+ CERAMIDES MILKY TONER 250ML+NIACINAMIDE 10+TXA 4 SERUM 30ML Men & Women",
   "price": 1999,
   "capacityLine": "250 ml",
   "materialLine": "niacinamide + ceramides + rice water",
@@ -72737,7 +72749,7 @@ const CTPRODUCTS = [
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
    "benefit": "Not stated in listing",
-   "audience": "Unisex / not stated",
+   "audience": "Marketed for women",
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
@@ -72759,14 +72771,15 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/anua-rice-70-ceramides-milky-toner-250ml-niacinamide-10-txa-4-serum-30ml-men-women/p/itmec56e7a10e0d5",
   "buyStore": "Flipkart",
-  "title": "ANUA RICE 70+ CERAMIDES MILKY TONER 250ML+NIACINAMIDE 10+TXA 4 SE …",
+  "title": "ANUA RICE 70+ CERAMIDES MILKY TONER 250ML+NIACINAMIDE 10+TXA 4 SERUM 30ML Men & Women",
   "tags": [
    "scope:unstated",
+   "format:serum",
    "format:toner",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:rice-water",
-   "aud:unisex",
+   "aud:women",
    "size:large",
    "rating:none",
    "store:flipkart",
@@ -72778,7 +72791,7 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false,
+   "women": true,
    "inci": "none",
    "inciSrc": null,
    "pharma": false
@@ -72813,7 +72826,7 @@ const CTPRODUCTS = [
  {
   "id": "anua-itm54dd8959faa8f",
   "brand": "Anua",
-  "model": "Heartleaf 77% Soothing toner 250ml+ NIacinamide 10+TXA 4 ser …",
+  "model": "Heartleaf 77% Soothing toner 250ml+ NIacinamide 10+TXA 4 serum 30ml Men & Women",
   "price": 849,
   "capacityLine": "250 ml",
   "materialLine": "niacinamide",
@@ -72862,7 +72875,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/anua-heartleaf-77-soothing-toner-250ml-niacinamide-10-txa-4-serum-30ml-men-women/p/itm54dd8959faa8f",
   "buyStore": "Flipkart",
-  "title": "ANUA Heartleaf 77% Soothing toner 250ml+ NIacinamide 10+TXA 4 ser …",
+  "title": "ANUA Heartleaf 77% Soothing toner 250ml+ NIacinamide 10+TXA 4 serum 30ml Men & Women",
   "tags": [
    "scope:both",
    "format:serum",
@@ -72939,7 +72952,7 @@ const CTPRODUCTS = [
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 5.9,
+   "ingredients": 6.1,
    "skin": 3.5,
    "trust": 5.5,
    "experience": 0
@@ -72984,6 +72997,7 @@ const CTPRODUCTS = [
    "ing:niacinamide",
    "ing:glycolic-acid",
    "ing:rice-water",
+   "ing:pdrn-polynucleotide",
    "claim:brightening",
    "claim:hydrating",
    "claim:soothing",
@@ -73046,6 +73060,14 @@ const CTPRODUCTS = [
      "core": true,
      "trace": false,
      "src": "aha"
+    },
+    {
+     "name": "sodium dna",
+     "grade": "B",
+     "position": 14,
+     "core": false,
+     "trace": false,
+     "src": "pdrn"
     }
    ],
    "support": [
@@ -76109,15 +76131,16 @@ const CTPRODUCTS = [
   "capacityLine": "150 ml",
   "materialLine": "PHA",
   "featureLine": "Scrub / exfoliant · Alcohol-free · ₹253/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. Scored from its published INCI list (Amazon.in listing — Important information › Ingredients): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "gluconolactone high on the INCI list (moderate evidence); niacinamide high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 9,
+   "skin": 10,
+   "trust": 8.5,
    "experience": 2.6
   },
   "fullSpec": {
@@ -76134,13 +76157,14 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.2/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Aqua (Water); Gluconolactone (3%); Niacinamide; Butylene Glycol; Methylpropanediol; Inulin; Lactococcus Ferment Lysate; Saccharide Isomerate; Cucumis Sativus (Cucumber) Fruit Extract; Xylitylglucoside; Anhydroxylitol; Xylitol; Salicylic Acid; Allantoin; Trehalose; Glycerin; Sodium Polyglutamate; Sodium Hyaluronate; Panthenol (Vitamin B5); Lysine; Histidine; Arginine; Aspartic Acid; Threonine; Serine; Glutamic Acid; Proline; Glycine; Alanine; Valine; Methionine; Isoleucine; Leucine; Tyrosine; Phenylalanine; Cysteine; Ethoxydiglycol; Trisodium Ethylenediamine Disuccinate; Phenoxyethanol; Ethylhexylglycerin; 1,2-Hexanediol; Citric Acid; Sodium Citrate",
+   "evidenceActives": "gluconolactone (#2 on list, moderate evidence); niacinamide (#3 on list, strong evidence); salicylic acid (#13 on list, strong evidence); allantoin (#14 on list, limited evidence); glycerin (#16 on list, strong evidence); sodium hyaluronate (#18 on list, moderate evidence); panthenol (#19 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #3 on INCI, salicylic acid #13 on INCI; Dark spots — niacinamide #3 on INCI; Irritation — panthenol #19 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/511npQ5KXaL._AC_UL320_.jpg"
@@ -76163,7 +76187,11 @@ const CTPRODUCTS = [
    "size:large",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
+   "inci:full",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -76172,25 +76200,96 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "listing",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
+   "inci": "full",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
-   "inciText": null,
+   "inciText": "Aqua (Water); Gluconolactone (3%); Niacinamide; Butylene Glycol; Methylpropanediol; Inulin; Lactococcus Ferment Lysate; Saccharide Isomerate; Cucumis Sativus (Cucumber) Fruit Extract; Xylitylglucoside; Anhydroxylitol; Xylitol; Salicylic Acid; Allantoin; Trehalose; Glycerin; Sodium Polyglutamate; Sodium Hyaluronate; Panthenol (Vitamin B5); Lysine; Histidine; Arginine; Aspartic Acid; Threonine; Serine; Glutamic Acid; Proline; Glycine; Alanine; Valine; Methionine; Isoleucine; Leucine; Tyrosine; Phenylalanine; Cysteine; Ethoxydiglycol; Trisodium Ethylenediamine Disuccinate; Phenoxyethanol; Ethylhexylglycerin; 1,2-Hexanediol; Citric Acid; Sodium Citrate",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.88,
+   "actives": [
+    {
+     "name": "gluconolactone",
+     "grade": "B",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 13,
+     "core": true,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 14,
+     "core": true,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 16,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 18,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 19,
+     "core": true,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 42,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    }
+   ],
+   "support": [
+    "niacinamide",
+    "butylene glycol",
+    "glycerin",
+    "sodium hyaluronate",
+    "panthenol"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -77651,15 +77750,16 @@ const CTPRODUCTS = [
   "capacityLine": "100 ml",
   "materialLine": "glycolic acid",
   "featureLine": "Scrub / exfoliant · ₹900/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (The Ordinary official website (theordinary.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycolic acid high on the INCI list (strong evidence); glycerin high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 8,
+   "skin": 10,
+   "trust": 8.5,
    "experience": 3.2
   },
   "fullSpec": {
@@ -77676,11 +77776,13 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.4/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "The Ordinary official website (theordinary.com) — product page › Ingredients",
+   "inciSourceUrl": "https://theordinary.com/en-in/glycolic-acid-7-exfoliating-toner-100418.html",
+   "inciMatchedName": "Glycolic Acid 7% Exfoliating Toner (name match 100%)",
+   "inciList": "Aqua (Water), Glycolic Acid, Rosa Damascena Flower Water, Centaurea Cyanus Flower Water, Aloe Barbadensis Leaf Water, Propanediol, Glycerin, Triethanolamine, Aminomethyl Propanol, Panax Ginseng Root Extract, Tasmannia Lanceolata Fruit/Leaf Extract, Aspartic Acid, Alanine, Glycine, Serine, Valine, Isoleucine, Proline, Threonine, Histidine, Phenylalanine, Glutamic Acid, Arginine, Pca, Sodium Pca, Sodium Lactate, Fructose, Glucose, Sucrose, Urea, Hexyl Nicotinate, Dextrin, Citric Acid, Polysorbate 20, Gellan Gum, Trisodium Ethylenediamine Disuccinate, Sodium Chloride, Hexylene Glycol, Potassium Sorbate, Sodium Benzoate, 1,2-Hexanediol, Caprylyl Glycol",
+   "evidenceActives": "glycolic acid (#2 on list, strong evidence); glycerin (#7 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Estée Lauder Companies — Global FMCG or beauty group",
    "buyerEvidence": "4.4★ from 0 ratings"
   },
@@ -77700,7 +77802,9 @@ const CTPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -77709,25 +77813,79 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "The Ordinary official website (theordinary.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://theordinary.com/en-in/glycolic-acid-7-exfoliating-toner-100418.html",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Glycolic Acid 7% Exfoliating Toner",
+   "inciMatchScore": 1,
+   "inciText": "Aqua (Water), Glycolic Acid, Rosa Damascena Flower Water, Centaurea Cyanus Flower Water, Aloe Barbadensis Leaf Water, Propanediol, Glycerin, Triethanolamine, Aminomethyl Propanol, Panax Ginseng Root Extract, Tasmannia Lanceolata Fruit/Leaf Extract, Aspartic Acid, Alanine, Glycine, Serine, Valine, Isoleucine, Proline, Threonine, Histidine, Phenylalanine, Glutamic Acid, Arginine, Pca, Sodium Pca, Sodium Lactate, Fructose, Glucose, Sucrose, Urea, Hexyl Nicotinate, Dextrin, Citric Acid, Polysorbate 20, Gellan Gum, Trisodium Ethylenediamine Disuccinate, Sodium Chloride, Hexylene Glycol, Potassium Sorbate, Sodium Benzoate, 1,2-Hexanediol, Caprylyl Glycol",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycolic acid",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "sucrose",
+     "grade": "C",
+     "position": 29,
+     "core": false,
+     "trace": false,
+     "src": "aadScrub"
+    },
+    {
+     "name": "urea",
+     "grade": "A",
+     "position": 30,
+     "core": false,
+     "trace": false,
+     "src": "urea"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 33,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 37,
+     "core": false,
+     "trace": true,
+     "src": "aadScrub"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "glycerin",
+    "sodium pca",
+    "urea"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -79613,15 +79771,16 @@ const CTPRODUCTS = [
   "capacityLine": "240 ml",
   "materialLine": "glycolic acid",
   "featureLine": "Scrub / exfoliant · ₹473/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (The Ordinary official website (theordinary.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycolic acid high on the INCI list (strong evidence); glycerin high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 8,
+   "skin": 10,
+   "trust": 8.5,
    "experience": 3.2
   },
   "fullSpec": {
@@ -79638,11 +79797,13 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.4/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "The Ordinary official website (theordinary.com) — product page › Ingredients",
+   "inciSourceUrl": "https://theordinary.com/en-in/glycolic-acid-7-exfoliating-toner-100418.html",
+   "inciMatchedName": "Glycolic Acid 7% Exfoliating Toner (name match 100%)",
+   "inciList": "Aqua (Water), Glycolic Acid, Rosa Damascena Flower Water, Centaurea Cyanus Flower Water, Aloe Barbadensis Leaf Water, Propanediol, Glycerin, Triethanolamine, Aminomethyl Propanol, Panax Ginseng Root Extract, Tasmannia Lanceolata Fruit/Leaf Extract, Aspartic Acid, Alanine, Glycine, Serine, Valine, Isoleucine, Proline, Threonine, Histidine, Phenylalanine, Glutamic Acid, Arginine, Pca, Sodium Pca, Sodium Lactate, Fructose, Glucose, Sucrose, Urea, Hexyl Nicotinate, Dextrin, Citric Acid, Polysorbate 20, Gellan Gum, Trisodium Ethylenediamine Disuccinate, Sodium Chloride, Hexylene Glycol, Potassium Sorbate, Sodium Benzoate, 1,2-Hexanediol, Caprylyl Glycol",
+   "evidenceActives": "glycolic acid (#2 on list, strong evidence); glycerin (#7 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Estée Lauder Companies — Global FMCG or beauty group",
    "buyerEvidence": "4.4★ from 0 ratings"
   },
@@ -79662,7 +79823,9 @@ const CTPRODUCTS = [
    "size:large",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -79671,25 +79834,79 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "The Ordinary official website (theordinary.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://theordinary.com/en-in/glycolic-acid-7-exfoliating-toner-100418.html",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Glycolic Acid 7% Exfoliating Toner",
+   "inciMatchScore": 1,
+   "inciText": "Aqua (Water), Glycolic Acid, Rosa Damascena Flower Water, Centaurea Cyanus Flower Water, Aloe Barbadensis Leaf Water, Propanediol, Glycerin, Triethanolamine, Aminomethyl Propanol, Panax Ginseng Root Extract, Tasmannia Lanceolata Fruit/Leaf Extract, Aspartic Acid, Alanine, Glycine, Serine, Valine, Isoleucine, Proline, Threonine, Histidine, Phenylalanine, Glutamic Acid, Arginine, Pca, Sodium Pca, Sodium Lactate, Fructose, Glucose, Sucrose, Urea, Hexyl Nicotinate, Dextrin, Citric Acid, Polysorbate 20, Gellan Gum, Trisodium Ethylenediamine Disuccinate, Sodium Chloride, Hexylene Glycol, Potassium Sorbate, Sodium Benzoate, 1,2-Hexanediol, Caprylyl Glycol",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycolic acid",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "sucrose",
+     "grade": "C",
+     "position": 29,
+     "core": false,
+     "trace": false,
+     "src": "aadScrub"
+    },
+    {
+     "name": "urea",
+     "grade": "A",
+     "position": 30,
+     "core": false,
+     "trace": false,
+     "src": "urea"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 33,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 37,
+     "core": false,
+     "trace": true,
+     "src": "aadScrub"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "glycerin",
+    "sodium pca",
+    "urea"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -91225,6 +91442,8 @@ const CTPRODUCTS = [
    "format:serum",
    "format:essence",
    "format:toner",
+   "ing:nad-nmn",
+   "ing:pdrn-polynucleotide",
    "claim:brightening",
    "claim:anti-aging",
    "claim:korean",
@@ -119034,7 +119253,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/611X04lyicL._AC_UL320_.jpg"
@@ -119047,6 +119267,7 @@ const CTPRODUCTS = [
    "format:toner",
    "format:mist",
    "spf:40",
+   "water:unstated",
    "ing:green-tea",
    "claim:hydrating",
    "claim:soothing",
@@ -121839,6 +122060,7 @@ const CTPRODUCTS = [
    "format:mist",
    "ing:niacinamide",
    "ing:green-tea",
+   "ing:polyglutamic-acid",
    "claim:pores",
    "claim:hydrating",
    "claim:soothing",
@@ -125876,15 +126098,15 @@ const CTPRODUCTS = [
   "capacityLine": "100 ml",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Scrub / exfoliant · ₹1500/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (The Ordinary official website (theordinary.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 3.7,
+   "skin": 10,
+   "trust": 8.5,
    "experience": 3.8
   },
   "fullSpec": {
@@ -125901,11 +126123,13 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.6/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "The Ordinary official website (theordinary.com) — product page › Ingredients",
+   "inciSourceUrl": "https://theordinary.com/en-in/saccharomyces-ferment-30-milky-toner-100647.html",
+   "inciMatchedName": "Saccharomyces Ferment 30% Milky Toner (name match 100%)",
+   "inciList": "Aqua (Water), Yeast Extract, Squalane, Lauryl Glucoside, Myristyl Glucoside, Polyglyceryl-6 Laurate, Isoceteth-20, Trisodium Ethylenediamine Disuccinate, Citric Acid, Sodium Citrate, Sodium Hydroxide, Phenoxyethanol, Chlorphenesin",
+   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Estée Lauder Companies — Global FMCG or beauty group",
    "buyerEvidence": "4.6★ from 0 ratings"
   },
@@ -125924,7 +126148,9 @@ const CTPRODUCTS = [
    "size:standard",
    "rating:4.5",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": false,
@@ -125933,25 +126159,44 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "The Ordinary official website (theordinary.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://theordinary.com/en-in/saccharomyces-ferment-30-milky-toner-100647.html",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Saccharomyces Ferment 30% Milky Toner",
+   "inciMatchScore": 1,
+   "inciText": "Aqua (Water), Yeast Extract, Squalane, Lauryl Glucoside, Myristyl Glucoside, Polyglyceryl-6 Laurate, Isoceteth-20, Trisodium Ethylenediamine Disuccinate, Citric Acid, Sodium Citrate, Sodium Hydroxide, Phenoxyethanol, Chlorphenesin",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.92,
+   "actives": [
+    {
+     "name": "squalane",
+     "grade": "B",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 9,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    }
+   ],
+   "support": [
+    "squalane"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -132746,6 +132991,8 @@ const CTPRODUCTS = [
    "scope:unstated",
    "format:toner",
    "ing:peptides",
+   "ing:nad-nmn",
+   "ing:pdrn-polynucleotide",
    "claim:brightening",
    "claim:anti-aging",
    "claim:hydrating",
@@ -133999,6 +134246,7 @@ const CTPRODUCTS = [
    "format:toner",
    "ing:glycolic-acid",
    "ing:centella-cica",
+   "ing:exosomes",
    "claim:pores",
    "aud:women",
    "size:travel",
@@ -152380,7 +152628,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61VxYmySw-L._SL1500_.jpg",
@@ -152399,6 +152648,7 @@ const CTPRODUCTS = [
    "format:mist",
    "format:bar",
    "format:wash",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:vitamin-b5-panthenol",
    "ing:witch-hazel",
@@ -152410,6 +152660,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:ayurvedic",
    "claim:makeup",
+   "claim:waterproof-makeup",
    "skin:oily",
    "skin:dry",
    "skin:sensitive",
@@ -154244,6 +154495,7 @@ const CTPRODUCTS = [
    "format:toner",
    "ing:glycolic-acid",
    "ing:centella-cica",
+   "ing:exosomes",
    "claim:pores",
    "aud:women",
    "size:large",
@@ -155454,6 +155706,8 @@ const CTPRODUCTS = [
    "scope:unstated",
    "format:essence",
    "format:toner",
+   "ing:nad-nmn",
+   "ing:pdrn-polynucleotide",
    "claim:brightening",
    "claim:anti-aging",
    "claim:hydrating",
@@ -155554,6 +155808,8 @@ const CTPRODUCTS = [
    "scope:unstated",
    "format:essence",
    "format:toner",
+   "ing:nad-nmn",
+   "ing:pdrn-polynucleotide",
    "claim:brightening",
    "claim:anti-aging",
    "claim:hydrating",
@@ -155863,6 +156119,8 @@ const CTPRODUCTS = [
    "format:serum",
    "format:essence",
    "format:toner",
+   "ing:nad-nmn",
+   "ing:pdrn-polynucleotide",
    "claim:brightening",
    "claim:anti-aging",
    "claim:korean",
@@ -155964,6 +156222,8 @@ const CTPRODUCTS = [
    "format:serum",
    "format:essence",
    "format:toner",
+   "ing:nad-nmn",
+   "ing:pdrn-polynucleotide",
    "claim:brightening",
    "claim:anti-aging",
    "claim:korean",
@@ -156167,6 +156427,8 @@ const CTPRODUCTS = [
    "format:serum",
    "format:essence",
    "format:toner",
+   "ing:nad-nmn",
+   "ing:pdrn-polynucleotide",
    "claim:brightening",
    "claim:anti-aging",
    "claim:korean",
@@ -161176,7 +161438,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71AviNPGCDL._AC_UL320_.jpg"
@@ -161188,6 +161451,7 @@ const CTPRODUCTS = [
    "scope:unstated",
    "format:cream",
    "spf:15",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:rose",
    "claim:anti-aging",
@@ -162426,7 +162690,7 @@ const CTPRODUCTS = [
  {
   "id": "dravida-organics-itm69c93d0bb5efd",
   "brand": "Dravida Organics",
-  "model": "3% PHA Face Toner for Oily Skin, Pore Tightening …",
+  "model": "3% PHA Face Toner for Oily Skin, Pore Tightening, Mild Exfoliating for Women",
   "price": 86,
   "capacityLine": "100 ml",
   "materialLine": "PHA",
@@ -162471,7 +162735,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/dravida-organics-3-pha-face-toner-oily-skin-pore-tightening-mild-exfoliating-women/p/itm69c93d0bb5efd",
   "buyStore": "Flipkart",
-  "title": "Dravida Organics 3% PHA Face Toner for Oily Skin, Pore Tightening …",
+  "title": "Dravida Organics 3% PHA Face Toner for Oily Skin, Pore Tightening, Mild Exfoliating for Women",
   "tags": [
    "scope:both",
    "format:toner",
@@ -163313,7 +163577,7 @@ const CTPRODUCTS = [
  {
   "id": "the-true-therapy-itm44fe2f08329e3",
   "brand": "The True Therapy",
-  "model": "Gluconolactone Face Toner for Gentle Skin Exfoli …",
+  "model": "Gluconolactone Face Toner for Gentle Skin Exfoliator with PHA 10% for Men & Women",
   "price": 160,
   "capacityLine": "200 g",
   "materialLine": "niacinamide + salicylic acid (BHA) + glycolic acid",
@@ -163358,7 +163622,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/true-therapy-gluconolactone-face-toner-gentle-skin-exfoliator-pha-10-men-women/p/itm44fe2f08329e3",
   "buyStore": "Flipkart",
-  "title": "The True Therapy Gluconolactone Face Toner for Gentle Skin Exfoli …",
+  "title": "The True Therapy Gluconolactone Face Toner for Gentle Skin Exfoliator with PHA 10% for Men & Women",
   "tags": [
    "scope:both",
    "format:serum",
@@ -163881,7 +164145,7 @@ const CTPRODUCTS = [
  {
   "id": "love-earth-itm3c87d28d0d468",
   "brand": "Love Earth",
-  "model": "Exfoliation Toner For Infused With Glycolic Acid, Mand …",
+  "model": "Exfoliation Toner For Infused With Glycolic Acid, Mandelic Acid , Lactic Acid Women",
   "price": 385,
   "capacityLine": "50 ml",
   "materialLine": "glycolic acid + lactic acid + mandelic acid",
@@ -163933,7 +164197,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/love-earth-exfoliation-toner-infused-glycolic-acid-mandelic-acid-lactic-women/p/itm3c87d28d0d468",
   "buyStore": "Flipkart",
-  "title": "LOVE EARTH Exfoliation Toner For Infused With Glycolic Acid, Mand …",
+  "title": "LOVE EARTH Exfoliation Toner For Infused With Glycolic Acid, Mandelic Acid , Lactic Acid Women",
   "tags": [
    "scope:both",
    "format:essence",
@@ -167610,7 +167874,7 @@ const CTPRODUCTS = [
  {
   "id": "dr-g-itmde722c46abc4f",
   "brand": "DR G",
-  "model": "Avo Glow Mist, Alcohol-Free, Toner, Dermatologically Tested …",
+  "model": "Avo Glow Mist, Alcohol-Free, Toner, Dermatologically Tested for Men & Women",
   "price": 1066,
   "capacityLine": "100 g",
   "materialLine": "Key ingredients not stated",
@@ -167659,7 +167923,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/g-avo-glow-mist-alcohol-free-toner-dermatologically-tested-men-women/p/itmde722c46abc4f",
   "buyStore": "Flipkart",
-  "title": "DR G Avo Glow Mist, Alcohol-Free, Toner, Dermatologically Tested …",
+  "title": "DR G Avo Glow Mist, Alcohol-Free, Toner, Dermatologically Tested for Men & Women",
   "tags": [
    "scope:both",
    "format:toner",
@@ -168678,7 +168942,7 @@ const CTPRODUCTS = [
  {
   "id": "anua-itmcc6b8832993fd",
   "brand": "Anua",
-  "model": "heartleaf soohing toner 77% 250 ml+ Niacinamide 10%+ TXA for …",
+  "model": "heartleaf soohing toner 77% 250 ml+ Niacinamide 10%+ TXA for serum 30 ml =280 ml Men & Wom…",
   "price": 849,
   "capacityLine": "250 ml",
   "materialLine": "niacinamide",
@@ -168723,7 +168987,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/anua-heartleaf-soohing-toner-77-250-ml-niacinamide-10-txa-serum-30-ml-280-men-women/p/itmcc6b8832993fd",
   "buyStore": "Flipkart",
-  "title": "ANUA heartleaf soohing toner 77% 250 ml+ Niacinamide 10%+ TXA for …",
+  "title": "ANUA heartleaf soohing toner 77% 250 ml+ Niacinamide 10%+ TXA for serum 30 ml =280 ml Men & Women",
   "tags": [
    "scope:face",
    "format:serum",
@@ -168768,118 +169032,6 @@ const CTPRODUCTS = [
    "inciNote": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
    "declarationConfidence": null,
    "recognised": 0.75,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "anua-itm35f0e4365c182",
-  "brand": "Anua",
-  "model": "Hearleaf 77% Soothing toner 250 ml+ PDRN Hyaluronic acid cap …",
-  "price": 303,
-  "capacityLine": "250 ml",
-  "materialLine": "niacinamide + hyaluronic acid",
-  "featureLine": "Toner · Paraben-free · ₹121/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "Only 1 ingredient named — formula unscored",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "250 ml",
-   "pricePer100": "₹121/100ml",
-   "format": "Toner",
-   "keyIngredients": "niacinamide, hyaluronic acid (per listing)",
-   "freeFrom": "Paraben-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: Natural",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/j/0/5/281-0-hearleaf-77-soothing-toner-250-ml-pdrn-hyaluronic-acid-original-imahp9rbhxzhu99w.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/d/w/n/250-peach-77-niacin-essence-toner-anua-original-imahhdfbgmns4zdh.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/w/s/h/280-heartleaf-77-hyaluron-toner-250ml-niacinamide-10-txa-4-serum-original-imahpfaqkqsktfwy.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/s/j/t/280-heartleaf-77-soothing-toner-250ml-azelic-acid-10-hyaluron-original-imahp9zjh2gzg7vh.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/x/3/b/250-heartleaf-70-rice-glow-milky-toner-250ml-anua-original-imahd2yjeyqtgym2.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/anua-hearleaf-77-soothing-toner-250-ml-pdrn-hyaluronic-acid-capsule-serum-30ml-men-women/p/itm35f0e4365c182",
-  "buyStore": "Flipkart",
-  "title": "ANUA Hearleaf 77% Soothing toner 250 ml+ PDRN Hyaluronic acid cap …",
-  "tags": [
-   "scope:both",
-   "format:serum",
-   "format:toner",
-   "format:pack",
-   "format:capsule",
-   "ing:niacinamide",
-   "ing:hyaluronic-acid",
-   "ing:heartleaf",
-   "claim:hydrating",
-   "claim:soothing",
-   "skin:all",
-   "free:paraben",
-   "free:vegan",
-   "free:ph-balanced",
-   "aud:women",
-   "size:large",
-   "rating:none",
-   "store:flipkart",
-   "inci:partial"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": true,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "partial",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Natural",
-   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 0,
    "actives": [],
    "support": [],
    "formulaNotes": [],
@@ -171456,7 +171608,7 @@ const CTPRODUCTS = [
  {
   "id": "ryllz-essentials-itm76b267c3953c4",
   "brand": "RYLLZ ESSENTIALS",
-  "model": "AHA PHA BHA Face Toner | Mild Exfoliation, Acne …",
+  "model": "AHA PHA BHA Face Toner | Mild Exfoliation, Acne Control Men & Women",
   "price": 234,
   "capacityLine": "200 ml",
   "materialLine": "salicylic acid (BHA) + PHA",
@@ -171506,7 +171658,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/ryllz-essentials-aha-pha-bha-face-toner-mild-exfoliation-acne-control-men-women/p/itm76b267c3953c4",
   "buyStore": "Flipkart",
-  "title": "RYLLZ ESSENTIALS AHA PHA BHA Face Toner | Mild Exfoliation, Acne …",
+  "title": "RYLLZ ESSENTIALS AHA PHA BHA Face Toner | Mild Exfoliation, Acne Control Men & Women",
   "tags": [
    "scope:face",
    "format:toner",
@@ -172036,7 +172188,7 @@ const CTPRODUCTS = [
  {
   "id": "veqix-itm560b0bd62a5c5",
   "brand": "veqix",
-  "model": "Pineapple PHA 3% Alcohol Free Face Toner for Pore Tightenin …",
+  "model": "Pineapple PHA 3% Alcohol Free Face Toner for Pore Tightening & Mild Exfoliation Men & Wome…",
   "price": 121,
   "capacityLine": "100 ml",
   "materialLine": "PHA",
@@ -172084,7 +172236,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/veqix-pineapple-pha-3-alcohol-free-face-toner-pore-tightening-mild-exfoliation-men-women/p/itm560b0bd62a5c5",
   "buyStore": "Flipkart",
-  "title": "veqix Pineapple PHA 3% Alcohol Free Face Toner for Pore Tightenin …",
+  "title": "veqix Pineapple PHA 3% Alcohol Free Face Toner for Pore Tightening & Mild Exfoliation Men & Women",
   "tags": [
    "scope:face",
    "format:toner",
@@ -185241,7 +185393,7 @@ const CTPRODUCTS = [
  {
   "id": "serenite-itmecabf293fcb0d",
   "brand": "serenite",
-  "model": "Pigment Perfect Toner with Tranexamic Acid & Vitamin C F …",
+  "model": "Pigment Perfect Toner with Tranexamic Acid & Vitamin C For Brightening Face Mist Men & Wom…",
   "price": 270,
   "capacityLine": "50 g",
   "materialLine": "vitamin C + PHA + hyaluronic acid",
@@ -185290,7 +185442,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/serenite-pigment-perfect-toner-tranexamic-acid-vitamin-c-brightening-face-mist-men-women/p/itmecabf293fcb0d",
   "buyStore": "Flipkart",
-  "title": "serenite Pigment Perfect Toner with Tranexamic Acid & Vitamin C F …",
+  "title": "serenite Pigment Perfect Toner with Tranexamic Acid & Vitamin C For Brightening Face Mist Men & Women",
   "tags": [
    "scope:both",
    "format:cream",
@@ -185737,7 +185889,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.5★ from 238 ratings"
+   "buyerEvidence": "4.5★ from 238 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/u/2/t/50-rose-water-sun-mist-50-52-sundaze-original-imahdwjeppnggvhm.jpeg?q=90",
@@ -185754,6 +185907,7 @@ const CTPRODUCTS = [
    "format:mist",
    "spf:50",
    "pa:++++",
+   "water:unstated",
    "ing:rose",
    "claim:spf-claim",
    "aud:unisex",
@@ -185841,7 +185995,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/e/x/t/neem-aloe-vera-face-wash-rose-toner-with-glycerin-rose-water-original-imahmanqgyby368d.jpeg?q=90",
@@ -185860,6 +186015,7 @@ const CTPRODUCTS = [
    "format:mist",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:aloe-vera",
    "ing:rose",
@@ -186277,7 +186433,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/x/o/h/kojic-acid-face-serum-rose-water-brightening-hydration-combo-2-original-imahf52zhumbjjgz.jpeg?q=90",
@@ -186295,6 +186452,7 @@ const CTPRODUCTS = [
    "format:balm",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:salicylic-acid-bha",
    "ing:kojic-acid",
@@ -205263,6 +205421,7 @@ const CTPRODUCTS = [
    "ing:aloe-vera",
    "ing:glycerin",
    "ing:chamomile",
+   "ing:pdrn-polynucleotide",
    "claim:brightening",
    "claim:dark-spots",
    "claim:acne",
@@ -210426,7 +210585,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41OA5P-okqL._AC_UL320_.jpg"
@@ -210440,6 +210600,7 @@ const CTPRODUCTS = [
    "format:balm",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:kojic-acid",
@@ -213305,7 +213466,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.8★ from 0 ratings"
+   "buyerEvidence": "3.8★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51GPDXLAApL._AC_UL320_.jpg"
@@ -213320,6 +213482,7 @@ const CTPRODUCTS = [
    "format:mist",
    "format:pads",
    "format:kit",
+   "water:unstated",
    "ing:niacinamide",
    "ing:pha",
    "ing:hyaluronic-acid",
@@ -215699,6 +215862,7 @@ const CTPRODUCTS = [
    "format:wash",
    "format:kit",
    "ing:pha",
+   "ing:polyglutamic-acid",
    "claim:pores",
    "claim:hydrating",
    "claim:exfoliating",
@@ -216434,7 +216598,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "2.9★ from 0 ratings"
+   "buyerEvidence": "2.9★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71p6CUr-FJL._AC_UL320_.jpg"
@@ -216450,6 +216615,7 @@ const CTPRODUCTS = [
    "format:wash",
    "format:kit",
    "spf:60",
+   "water:unstated",
    "ing:pha",
    "ing:hyaluronic-acid",
    "ing:alpha-lipoic-acid",
@@ -216543,7 +216709,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.6★ from 0 ratings"
+   "buyerEvidence": "3.6★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/81dnu-C32hL._AC_UL320_.jpg"
@@ -216559,6 +216726,7 @@ const CTPRODUCTS = [
    "format:wash",
    "format:kit",
    "spf:60",
+   "water:unstated",
    "ing:retinol",
    "ing:salicylic-acid-bha",
    "ing:pha",
@@ -216653,7 +216821,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71eAAdc0-9L._AC_UL320_.jpg"
@@ -216668,6 +216837,7 @@ const CTPRODUCTS = [
    "format:wash",
    "format:kit",
    "spf:50",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:pha",
@@ -216761,7 +216931,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.5★ from 0 ratings"
+   "buyerEvidence": "3.5★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/81+73Fu2AhL._AC_UL320_.jpg"
@@ -216776,6 +216947,7 @@ const CTPRODUCTS = [
    "format:wash",
    "format:kit",
    "spf:50",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:pha",
    "ing:vitamin-b5-panthenol",
@@ -217427,6 +217599,7 @@ const CTPRODUCTS = [
    "format:toner",
    "format:oil",
    "format:wash",
+   "format:cleansing-oil",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
    "ing:aha",
@@ -218597,7 +218770,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 0 ratings"
+   "buyerEvidence": "4.4★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61K62VqL1fL._AC_UL320_.jpg"
@@ -218610,6 +218784,7 @@ const CTPRODUCTS = [
    "format:mist",
    "spf:50",
    "pa:++++",
+   "water:unstated",
    "ing:rose",
    "claim:brightening",
    "claim:no-white-cast",
@@ -218701,7 +218876,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61OwQURN7DL._AC_UL320_.jpg"
@@ -218715,6 +218891,7 @@ const CTPRODUCTS = [
    "format:mist",
    "spf:30",
    "pa:++++",
+   "water:unstated",
    "ing:rice-water",
    "ing:rose",
    "claim:brightening",
@@ -220837,6 +221014,244 @@ const CTPRODUCTS = [
     "url": null
    },
    "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "unbranded-b0dkmt6sbr",
+  "brand": "Unbranded",
+  "model": "52 Sundaze SPF50 Rosewater Sunscreen Mist | SPF 50+ PA++++ Sunscreen Spray | Invisible Sun…",
+  "price": 399,
+  "capacityLine": "50 ml",
+  "materialLine": "rose + clay/mud",
+  "featureLine": "Sunscreen · Fragrance-free · SPF 50 · ₹798/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.6
+  },
+  "fullSpec": {
+   "quantity": "50 ml",
+   "pricePer100": "₹798/100ml",
+   "format": "Sunscreen",
+   "keyIngredients": "rose, clay/mud (per listing)",
+   "freeFrom": "Fragrance-free (seller claim — not scored)",
+   "dermTested": "Dermatologically tested (seller claim — not scored)",
+   "nonComedogenic": "Non-comedogenic (seller claim — not scored)",
+   "benefit": "Hydrating, Brightening/glow claim, Acne/blemish claim, SPF 50",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "4.2/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/41Syc54-4SL._SL1280_.jpg",
+   "https://m.media-amazon.com/images/I/71qAL58KNtL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/915kojvA4bL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/816BBKblEfL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81VlaJuFuoL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0DKMT6SBR",
+  "buyStore": "Amazon",
+  "title": "52 Sundaze SPF50 Rosewater Sunscreen Mist | SPF 50+ PA++++ Sunscreen Spray | Invisible Sun Screen | Clear Glow Rose Sun Mist | UVA/B Broad Spectrum | Oily & Dry Skin | No White Cast | Easy Reapplication | Men & Women | 50 ml",
+  "tags": [
+   "scope:unstated",
+   "format:mist",
+   "spf:50",
+   "pa:++++",
+   "water:unstated",
+   "ing:rose",
+   "claim:brightening",
+   "claim:acne",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:soothing",
+   "claim:no-white-cast",
+   "claim:broad-spectrum",
+   "claim:lightweight",
+   "claim:spf-claim",
+   "claim:cooling",
+   "claim:makeup",
+   "skin:oily",
+   "skin:dry",
+   "skin:combination",
+   "skin:sensitive",
+   "skin:acne-prone",
+   "free:fragrance",
+   "free:derm",
+   "free:non-comedogenic",
+   "free:vegan",
+   "aud:women",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": true,
+   "natural": true,
+   "derm": true,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.2★ from 0 ratings"
+  }
+ },
+ {
+  "id": "solved-b0g1mg7g4v",
+  "brand": "Solved",
+  "model": "Labs Rose Veil Sunscreen Spray/Mist | SPF50 PA++++ | Rose Water & PDRN, Niacinamide & Brig…",
+  "price": 599,
+  "capacityLine": "100 ml",
+  "materialLine": "niacinamide + peptides + rose",
+  "featureLine": "Sunscreen · SPF 50 · ₹599/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.9
+  },
+  "fullSpec": {
+   "quantity": "100 ml",
+   "pricePer100": "₹599/100ml",
+   "format": "Sunscreen",
+   "keyIngredients": "niacinamide, peptides, rose (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim, SPF 50",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.3/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/41INHgITCkL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/71hywj1TOBL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71WOmZJlPSL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61tGg5d3ugL._SL1420_.jpg",
+   "https://m.media-amazon.com/images/I/81cpG9IYffL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0G1MG7G4V",
+  "buyStore": "Amazon",
+  "title": "Solved Labs Rose Veil Sunscreen Spray/Mist | SPF50 PA++++ | Rose Water & PDRN, Niacinamide & Brightening Peptides | Lightweight UV Protection Spray Sunscreen | For All Skin Types | 100ml",
+  "tags": [
+   "scope:unstated",
+   "format:mist",
+   "spf:50",
+   "pa:++++",
+   "water:unstated",
+   "ing:niacinamide",
+   "ing:peptides",
+   "ing:rose",
+   "ing:pdrn-polynucleotide",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:barrier",
+   "claim:broad-spectrum",
+   "claim:lightweight",
+   "claim:spf-claim",
+   "skin:all",
+   "aud:unisex",
+   "size:standard",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.3★ from 0 ratings"
   }
  }
 ];

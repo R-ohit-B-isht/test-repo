@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-11.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-12.
 // Unknown fields are honestly marked, never invented.
 const NXPRODUCTS = [
  {
@@ -64087,7 +64087,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Marico — Established / listed Indian FMCG house",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/u/u/f/ball-safe-hair-removal-cream-quick-skin-soothing-aloe-vera-100-original-imahzqq3yujbqn6p.jpeg?q=90",
@@ -64115,6 +64116,7 @@ const NXPRODUCTS = [
    "format:aerosol",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:charcoal",
    "claim:brightening",
@@ -233205,7 +233207,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/g/b/i/30-turmeric-facial-wax-powder-30g-natural-painless-hair-removal-original-imahc8fs6xz3bzfz.jpeg?q=90",
@@ -233225,6 +233228,7 @@ const NXPRODUCTS = [
    "format:peel",
    "format:powder",
    "format:body-wax",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:turmeric",
    "ing:rose",
@@ -244080,7 +244084,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/b/q/x/sunscreen-spf-50-pa-spray-50ml-with-hair-removing-cream-for-original-imahmz3xh8qpwvdy.jpeg?q=90",
@@ -244102,6 +244107,7 @@ const NXPRODUCTS = [
    "format:depilatory",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:papaya",
    "claim:acne",
    "claim:hydrating",

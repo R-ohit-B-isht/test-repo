@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-11.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-12.
 // Unknown fields are honestly marked, never invented.
 const NXPRODUCTS = [
  {
@@ -15819,7 +15819,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shaving-cream/n/p/c/120-classic-shaving-cream-with-menthol-jojoba-oil-tea-tree-oil-original-imahmpdcr3tbkd8g.jpeg?q=90",
@@ -15837,6 +15838,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:kit",
    "format:shave-cream",
+   "water:unstated",
    "ing:tea-tree",
    "ing:charcoal",
    "ing:neem",

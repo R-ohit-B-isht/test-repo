@@ -17,6 +17,7 @@ const GROUPS = {
   spf: { label: 'SPF', hint: 'Sun protection factor stated', mode: 'or' },
   pa: { label: 'PA rating', hint: 'UVA rating stated', mode: 'or' },
   sun: { label: 'Sunscreen type', hint: 'Mineral / chemical / hybrid', mode: 'or' },
+  water: { label: 'Water resistance', hint: "As labelled by the seller (40 / 80 min, sweat) — a filter, not part of the score", mode: 'or' },
   ing: { label: 'Ingredients & actives', hint: 'Named in the listing', mode: 'and' },
   claim: { label: 'Benefit claims', hint: "Seller's own claims, not tested", mode: 'or' },
   free: { label: 'Free-from & safety', hint: 'Claims stated in the listing', mode: 'and' },
@@ -304,6 +305,58 @@ function spfTags(t, out) {
   else if (/chemical\s*sunscreen|avobenzone|octinoxate|octocrylene|homosalate|tinosorb|uvinul|mexoryl/.test(t)) out.push('sun:chemical');
 }
 
+// Water resistance as the label states it. Only on sun-protection listings (a "waterproof mascara remover" is not a
+// water-resistant sunscreen). Duration wins over the bare claim; sweat / swim-sport can stack on top of any of them.
+// The standard tests are 40 and 80 minutes, so a stated duration lands in the bucket it reaches ("180 minutes" → 80+,
+// "60 minutes" → 40) and the exact figure the seller printed is kept for the spec sheet.
+const SUN = /sunscreen|sun\s*screen|sun\s*block|\bspf\b/;
+const WR = '(?:water|sweat)[\\s-]*(?:\\/\\s*)?(?:\\w+\\s*)?(?:resistant|resistance|proof)';
+const MINS = new RegExp(`${WR}[^.]{0,40}?\\b(\\d{2,3})\\s*(?:mins?|minutes?)\\b|\\b(\\d{2,3})\\s*(?:mins?|minutes?)\\b[^.]{0,40}?${WR}`, 'g');
+/** Longest water/sweat-resistance duration (minutes) the text states next to the claim, or null. */
+function waterMinutes(t) {
+  if (!SUN.test(t)) return null;
+  let best = null;
+  for (const m of t.matchAll(MINS)) {
+    const n = Number(m[1] || m[2]);
+    if (n >= 20 && n <= 480 && (best === null || n > best)) best = n;
+  }
+  return best;
+}
+const CONJ = '(?:(?:&|and|,|\\/)\\s*\\w+\\s*)?';
+const WATER = new RegExp(`water[\\s-]*${CONJ}(?:resistant|resistance|proof|repellent)|waterproof`);
+const SWEAT = new RegExp(`sweat[\\s-]*${CONJ}(?:resistant|resistance|proof)|sweatproof|anti[\\s-]*sweat`);
+function waterTags(t, out) {
+  if (!SUN.test(t)) return;
+  const mins = waterMinutes(t);
+  const min80 = /very\s*water[\s-]*resistant/.test(t) || (mins !== null && mins >= 80);
+  const min40 = !min80 && mins !== null && mins >= 40;
+  const water = WATER.test(t);
+  const sweat = SWEAT.test(t);
+  const sport = /\bswim(?:ming|mers?)?\b|\bsports?\b|\bathletes?\b|\brunn(?:ers?|ing)\b|\bbeach\b|\bsurf(?:ing|ers?)?\b|\bcycl(?:ing|ists?)\b|\bgym\b|\btrek(?:king)?\b/.test(t);
+  if (min80) out.push('water:80');
+  else if (min40) out.push('water:40');
+  else if (water) out.push('water:resistant');
+  else if (!sweat) out.push('water:unstated');
+  if (sweat) out.push('water:sweat');
+  if (sport) out.push('water:sport');
+}
+
+/** Spec-sheet sentence for the water:* tags a listing carries (null when it is not a sun-protection listing).
+ *  `mins` is the duration the seller printed (waterMinutes), quoted as-is when it is not one of the standard 40 / 80. */
+function waterLineOf(tags, mins = null) {
+  const w = new Set(tags.filter((x) => x.startsWith('water:')).map((x) => x.slice(6)));
+  if (!w.size) return null;
+  const parts = [];
+  const stated = mins && mins !== 40 && mins !== 80 ? ` (seller states ${mins} minutes — standard tests are 40 / 80 min)` : '';
+  if (w.has('80')) parts.push(`Water resistant — 80 minutes or more (very water resistant)${stated}`);
+  else if (w.has('40')) parts.push(`Water resistant — 40 minutes${stated}`);
+  else if (w.has('resistant')) parts.push('Water resistant / waterproof (duration not stated)');
+  if (w.has('sweat')) parts.push('sweat resistant');
+  if (w.has('sport')) parts.push('marketed for swim / sport / outdoors');
+  if (!parts.length) return 'Water resistance not stated in listing';
+  return parts.join(', ') + ' (per listing — not tested here, not scored)';
+}
+
 function sizeTag(qtyMl) {
   if (!qtyMl) return null;
   if (qtyMl <= 50) return 'size:travel';
@@ -326,6 +379,7 @@ const LABELS = { scope: {
   inci: { full: 'Full INCI list published', partial: 'Key-ingredients line only', none: 'No ingredient list', 'brand-site': 'INCI read from brand website', secondary: 'INCI from third-party database', 'no-fragrance': 'No fragrance / allergen on INCI', 'pharma-maker': 'Dermatology / pharma maker' },
   spf: { 15: 'SPF 15–29', 30: 'SPF 30–39', 40: 'SPF 40–49', 50: 'SPF 50', '50+': 'SPF 50+', 60: 'SPF 60–99', 100: 'SPF 100+' },
   sun: { mineral: 'Mineral / physical', chemical: 'Chemical', hybrid: 'Hybrid' },
+  water: { 80: 'Water resistant · 80 min+', 40: 'Water resistant · 40 min', resistant: 'Water resistant · no duration', sweat: 'Sweat resistant', sport: 'Swim / sport / outdoor', unstated: 'Water resistance not stated' },
   size: { travel: 'Travel (≤50 ml/g)', standard: 'Standard (51–120)', large: 'Large (121–250)', xl: 'XL (250+)' },
   rating: { 4.5: '4.5★ and up', 4.0: '4.0–4.4★', 3.5: '3.5–3.9★', low: 'Below 3.5★', none: 'No rating yet' },
   aud: { men: 'Men', women: 'Women', kids: 'Kids / baby', unisex: 'Unisex / not stated' },
@@ -366,6 +420,7 @@ function tagsOf({ title, blob = '', qty = null, rating = null, store = null, ste
   for (const [id, , re] of FORMATS) if (re.test(t) && !(hair && SKIN_ONLY_FORMATS.has(id))) out.push('format:' + id);
   if (hair) for (const [id, , re] of HAIR_FORMATS) if (re.test(t)) out.push('format:' + id);
   spfTags(t, out);
+  if (!hair) waterTags(t, out);
   for (const [name, re] of INGREDIENTS) if (re.test(t) && !(hair && SKIN_ONLY_INGREDIENTS.has(slug(name)))) out.push('ing:' + slug(name));
   if (hair) for (const [name, re] of HAIR_INGREDIENTS) if (re.test(t)) out.push('ing:' + slug(name));
   if (hair) {
@@ -395,4 +450,4 @@ function labelFor(tag) {
   return (LABELS[g] && LABELS[g][id]) || id;
 }
 
-module.exports = { GROUPS, LABELS, tagsOf, labelFor, slug };
+module.exports = { GROUPS, LABELS, tagsOf, labelFor, waterMinutes, waterLineOf, slug };

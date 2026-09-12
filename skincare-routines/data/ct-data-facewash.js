@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-07.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-12.
 // Unknown fields are honestly marked, never invented.
 const CTPRODUCTS = [
  {
@@ -2081,6 +2081,7 @@ const CTPRODUCTS = [
    "format:gel",
    "format:oil",
    "format:wash",
+   "format:cleansing-oil",
    "ing:vitamin-e",
    "ing:argan-oil",
    "claim:brightening",
@@ -9898,6 +9899,7 @@ const CTPRODUCTS = [
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:licorice",
+   "ing:menthol",
    "claim:brightening",
    "claim:acne",
    "claim:oil-control",
@@ -10168,7 +10170,7 @@ const CTPRODUCTS = [
   ],
   "cons": [],
   "scores": {
-   "ingredients": 7.8,
+   "ingredients": 8,
    "skin": 10,
    "trust": 8.5,
    "experience": 7.4
@@ -10295,6 +10297,14 @@ const CTPRODUCTS = [
      "core": false,
      "trace": false,
      "src": "vitc"
+    },
+    {
+     "name": "cera alba",
+     "grade": "B",
+     "position": 20,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
     }
    ],
    "support": [
@@ -10976,6 +10986,7 @@ const CTPRODUCTS = [
    "format:kit",
    "ing:vitamin-c",
    "ing:glycerin",
+   "ing:menthol",
    "claim:brightening",
    "claim:oil-control",
    "claim:odour",
@@ -11398,7 +11409,7 @@ const CTPRODUCTS = [
    "Added fragrance (parfum): perfume"
   ],
   "scores": {
-   "ingredients": 7,
+   "ingredients": 7.2,
    "skin": 8.3,
    "trust": 7.5,
    "experience": 4.4
@@ -11526,6 +11537,14 @@ const CTPRODUCTS = [
      "core": false,
      "trace": false,
      "src": "vitc"
+    },
+    {
+     "name": "cera alba",
+     "grade": "B",
+     "position": 20,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
     }
    ],
    "support": [
@@ -12143,6 +12162,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:wash",
    "ing:licorice",
+   "ing:menthol",
    "claim:brightening",
    "claim:acne",
    "claim:oil-control",
@@ -12725,7 +12745,7 @@ const CTPRODUCTS = [
  {
   "id": "the-derma-co-itmc798568920a9c",
   "brand": "The Derma Co",
-  "model": "2.5% Benzoyl Peroxide Gel Face Wash (100 ml)",
+  "model": "2.5% Benzoyl Peroxide Gel Face Wash",
   "price": 210,
   "capacityLine": "100 ml",
   "materialLine": "Key ingredients not stated",
@@ -12774,7 +12794,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/derma-co-2-5-benzoyl-peroxide-gel-face-wash/p/itmc798568920a9c",
   "buyStore": "Flipkart",
-  "title": "The Derma Co 2.5% Benzoyl Peroxide Gel Face Wash (100 ml)",
+  "title": "The Derma Co 2.5% Benzoyl Peroxide Gel Face Wash",
   "tags": [
    "scope:face",
    "format:gel",
@@ -12843,7 +12863,7 @@ const CTPRODUCTS = [
      "position": 9,
      "core": true,
      "trace": false,
-     "src": "bha"
+     "src": "bpo"
     },
     {
      "name": "ceramide eos",
@@ -22824,6 +22844,110 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "foxtale-itm880d7707feabd",
+  "brand": "Foxtale",
+  "model": "Gentle Hydrating & Makeup Remover with Hyaluronic Acid, Deep Hydration & Dryness Face Wash",
+  "price": 657,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "hyaluronic acid",
+  "featureLine": "Wash / cleanser",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "Well-reviewed: 4.4★ from 9,274 ratings"
+  ],
+  "cons": [
+   "No ingredient list published on the listing"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 5,
+   "experience": 8.2
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Wash / cleanser",
+   "keyIngredients": "hyaluronic acid (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.4/5 (9,274 ratings, Flipkart)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Foxtale Consumer — Indian D2C brand with its own product company",
+   "declaredManufacturer": "Harshvin Kare Products (as printed on the Flipkart listing — not scored)",
+   "buyerEvidence": "4.4★ from 9,274 ratings"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-face-wash/g/6/b/liquid-200-the-daily-duet-gentle-hydrating-cleanser-foxtale-original-imahkewzf435fbny.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-face-wash/k/z/w/liquid-200-the-daily-duet-gentle-hydrating-cleanser-foxtale-original-imahkewzpgkeyygh.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-moisturizer-cream/k/r/z/130-big-pores-no-more-retinol-night-serum-cleanser-hydrating-original-imahhx7jzzwzge4y.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-moisturizer-cream/d/t/m/130-big-pores-no-more-retinol-night-serum-cleanser-hydrating-original-imahhx7j4edgxhh2.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-face-wash/t/s/v/liquid-200-the-daily-duet-gentle-hydrating-cleanser-foxtale-original-imahkewzyyhkznz9.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/foxtale-gentle-hydrating-makeup-remover-hyaluronic-acid-deep-hydration-dryness-face-wash/p/itm880d7707feabd",
+  "buyStore": "Flipkart",
+  "title": "Foxtale Gentle Hydrating & Makeup Remover with Hyaluronic Acid, Deep Hydration & Dryness Face Wash",
+  "tags": [
+   "scope:face",
+   "format:wash",
+   "ing:hyaluronic-acid",
+   "claim:hydrating",
+   "claim:dry-skin-relief",
+   "claim:makeup",
+   "aud:unisex",
+   "rating:4.0",
+   "store:flipkart",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Foxtale Consumer",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://foxtale.in/"
+   },
+   "buyers": "4.4★ from 9,274 ratings"
+  }
+ },
+ {
   "id": "yes-itm6df1c32c9db1a",
   "brand": "Yes",
   "model": "! Face Cardio Cleanser Face Wash (100 g)",
@@ -23374,119 +23498,6 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "be-neude-itmfc97fea3c5517",
-  "brand": "Be Neude",
-  "model": "Face Cleansing Milk with Peptides, Whipped Cream & Yogur …",
-  "price": 358,
-  "capacityLine": "100 ml",
-  "materialLine": "niacinamide + peptides",
-  "featureLine": "Wash / cleanser · Paraben-free · ₹358/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [
-   "Well-reviewed: 4.4★ from 164 ratings"
-  ],
-  "cons": [
-   "Only 4 ingredients named — formula unscored",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
-   "experience": 6.3
-  },
-  "fullSpec": {
-   "quantity": "100 ml",
-   "pricePer100": "₹358/100ml",
-   "format": "Wash / cleanser",
-   "keyIngredients": "niacinamide, peptides (per listing)",
-   "freeFrom": "Paraben-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "All Skin Types",
-   "rating": "4.4/5 (164 ratings, Flipkart)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: Cream, Yogurt, Peptides, Niacinamide",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 164 ratings"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/face-wash/m/u/p/100-face-cleansing-milk-with-peptides-whipped-cream-yogurt-milk-original-imahpp7yq9mra4c5.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/face-wash/c/n/k/200-face-cleansing-milk-with-peptides-whipped-cream-yogurt-milk-original-imahpp6qb5ygvqg9.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/face-wash/v/v/w/200-face-cleansing-milk-with-peptides-whipped-cream-yogurt-milk-original-imahpp6qzdrmprq4.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/face-wash/f/n/w/200-face-cleansing-milk-with-peptides-whipped-cream-yogurt-milk-original-imahpp6qbphmyq96.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/face-wash/r/v/9/200-face-cleansing-milk-with-peptides-whipped-cream-yogurt-milk-original-imahpp6qgtzdsvge.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/neude-face-cleansing-milk-peptides-whipped-cream-yogurt-muse-wash/p/itmfc97fea3c5517",
-  "buyStore": "Flipkart",
-  "title": "Be Neude Face Cleansing Milk with Peptides, Whipped Cream & Yogur …",
-  "tags": [
-   "scope:face",
-   "format:cream",
-   "format:foam",
-   "format:oil",
-   "format:wash",
-   "ing:niacinamide",
-   "ing:peptides",
-   "ing:milk",
-   "claim:de-tan",
-   "claim:dark-spots",
-   "skin:all",
-   "free:paraben",
-   "free:fragrance",
-   "free:vegan",
-   "aud:women",
-   "size:standard",
-   "rating:4.0",
-   "store:flipkart",
-   "inci:partial"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": true,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "partial",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Cream, Yogurt, Peptides, Niacinamide",
-   "inciNote": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 0.5,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.4★ from 164 ratings"
-  }
- },
- {
   "id": "vlcc-itm9e760e4ac6d4e",
   "brand": "Vlcc",
   "model": "Sandal Cleansing Milk - Deep Cleanses,Soothes Skin & Even Sk …",
@@ -23857,6 +23868,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:oil",
    "format:wash",
+   "format:cleansing-oil",
    "ing:vitamin-c",
    "claim:brightening",
    "claim:dark-spots",
@@ -24302,6 +24314,7 @@ const CTPRODUCTS = [
    "format:oil",
    "format:wash",
    "format:kit",
+   "format:cleansing-oil",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:green-tea",
@@ -25277,6 +25290,7 @@ const CTPRODUCTS = [
    "format:foam",
    "format:oil",
    "format:wash",
+   "format:cleansing-oil",
    "ing:neem",
    "ing:almond",
    "claim:ayurvedic",
@@ -26574,6 +26588,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:oil",
    "format:wash",
+   "format:cleansing-oil",
    "ing:milk",
    "claim:pores",
    "claim:ayurvedic",
@@ -27425,6 +27440,7 @@ const CTPRODUCTS = [
    "format:gel",
    "format:oil",
    "format:wash",
+   "format:cleansing-oil",
    "claim:brightening",
    "claim:de-tan",
    "claim:acne",
@@ -30113,6 +30129,7 @@ const CTPRODUCTS = [
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:licorice",
+   "ing:menthol",
    "claim:hydrating",
    "claim:cooling",
    "skin:all",
@@ -30164,7 +30181,7 @@ const CTPRODUCTS = [
  {
   "id": "acnestar-itm50e5b31ba5a69",
   "brand": "acnestar",
-  "model": "Acne star facewash,Anti pigmantation,acne clear,oil cont …",
+  "model": "Acne star facewash,Anti pigmantation,acne clear,oil control,dark spot control pack-2 Face …",
   "price": 171,
   "capacityLine": "Quantity not stated",
   "materialLine": "almond",
@@ -30215,14 +30232,16 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/acnestar-acne-star-facewash-anti-pigmantation-acne-clear-oil-control-dark-spot-control-pack-2-face-wash/p/itm50e5b31ba5a69",
   "buyStore": "Flipkart",
-  "title": "acnestar Acne star facewash,Anti pigmantation,acne clear,oil cont …",
+  "title": "acnestar Acne star facewash,Anti pigmantation,acne clear,oil control,dark spot control pack-2 Face Wash",
   "tags": [
    "scope:face",
-   "format:oil",
+   "format:pack",
    "format:wash",
    "format:kit",
    "ing:almond",
+   "claim:dark-spots",
    "claim:acne",
+   "claim:oil-control",
    "claim:hydrating",
    "skin:all",
    "aud:unisex",
@@ -30272,7 +30291,7 @@ const CTPRODUCTS = [
  {
   "id": "yawi-itm822d07af1ecbe",
   "brand": "YAWI",
-  "model": "Moisturizing Aloe Vera Micellar Water Makeup Remover Makeup …",
+  "model": "Moisturizing Aloe Vera Micellar Water Makeup Remover Makeup Remover",
   "price": 432,
   "capacityLine": "60 ml",
   "materialLine": "aloe vera",
@@ -30321,7 +30340,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/yawi-moisturizing-aloe-vera-micellar-water-makeup-remover/p/itm822d07af1ecbe",
   "buyStore": "Flipkart",
-  "title": "YAWI Moisturizing Aloe Vera Micellar Water Makeup Remover Makeup …",
+  "title": "YAWI Moisturizing Aloe Vera Micellar Water Makeup Remover Makeup Remover",
   "tags": [
    "scope:face",
    "format:gel",
@@ -30380,7 +30399,7 @@ const CTPRODUCTS = [
  {
   "id": "yawi-itm882e4a2fa9c27",
   "brand": "YAWI",
-  "model": "best Moisturizing Aloe Vera Micellar Water Makeup Remover sk …",
+  "model": "best Moisturizing Aloe Vera Micellar Water Makeup Remover skin Makeup Remover",
   "price": 492,
   "capacityLine": "60 ml",
   "materialLine": "vitamin C + aloe vera",
@@ -30428,7 +30447,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/yawi-best-moisturizing-aloe-vera-micellar-water-makeup-remover-skin/p/itm882e4a2fa9c27",
   "buyStore": "Flipkart",
-  "title": "YAWI best Moisturizing Aloe Vera Micellar Water Makeup Remover sk …",
+  "title": "YAWI best Moisturizing Aloe Vera Micellar Water Makeup Remover skin Makeup Remover",
   "tags": [
    "scope:unstated",
    "format:gel",
@@ -30485,7 +30504,7 @@ const CTPRODUCTS = [
  {
   "id": "yc-itmc1c2009506ba2",
   "brand": "YC",
-  "model": "Micellar Cleansing Water with Aloe Vera (400 ml)",
+  "model": "Micellar Cleansing Water with Aloe Vera",
   "price": 286,
   "capacityLine": "400 ml",
   "materialLine": "aloe vera",
@@ -30533,7 +30552,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/yc-micellar-cleansing-water-aloe-vera/p/itmc1c2009506ba2",
   "buyStore": "Flipkart",
-  "title": "YC Micellar Cleansing Water with Aloe Vera (400 ml)",
+  "title": "YC Micellar Cleansing Water with Aloe Vera",
   "tags": [
    "scope:face",
    "format:oil",
@@ -30599,7 +30618,7 @@ const CTPRODUCTS = [
  {
   "id": "yawi-itmed06e8be34844",
   "brand": "YAWI",
-  "model": "All Skin Naturals, Micellar Cleansing Water Makeup Remover M …",
+  "model": "All Skin Naturals, Micellar Cleansing Water Makeup Remover Makeup Remover",
   "price": 483,
   "capacityLine": "60 ml",
   "materialLine": "aloe vera + cucumber + vitamin E",
@@ -30647,7 +30666,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/yawi-all-skin-naturals-micellar-cleansing-water-makeup-remover/p/itmed06e8be34844",
   "buyStore": "Flipkart",
-  "title": "YAWI All Skin Naturals, Micellar Cleansing Water Makeup Remover M …",
+  "title": "YAWI All Skin Naturals, Micellar Cleansing Water Makeup Remover Makeup Remover",
   "tags": [
    "scope:unstated",
    "format:gel",
@@ -30661,6 +30680,7 @@ const CTPRODUCTS = [
    "ing:calamine",
    "claim:water-resistant",
    "claim:makeup",
+   "claim:waterproof-makeup",
    "skin:sensitive",
    "skin:all",
    "free:alcohol",
@@ -30712,7 +30732,7 @@ const CTPRODUCTS = [
  {
   "id": "yawi-itm24ec7888794f4",
   "brand": "YAWI",
-  "model": "best Moisturizing Aloe Vera Micellar Water Makeup Remover Ma …",
+  "model": "best Moisturizing Aloe Vera Micellar Water Makeup Remover Makeup Remover",
   "price": 437,
   "capacityLine": "60 ml",
   "materialLine": "aloe vera + cucumber + vitamin E",
@@ -30761,7 +30781,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/yawi-best-moisturizing-aloe-vera-micellar-water-makeup-remover/p/itm24ec7888794f4",
   "buyStore": "Flipkart",
-  "title": "YAWI best Moisturizing Aloe Vera Micellar Water Makeup Remover Ma …",
+  "title": "YAWI best Moisturizing Aloe Vera Micellar Water Makeup Remover Makeup Remover",
   "tags": [
    "scope:unstated",
    "format:gel",
@@ -30776,6 +30796,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:water-resistant",
    "claim:makeup",
+   "claim:waterproof-makeup",
    "skin:all",
    "free:alcohol",
    "free:vegan",
@@ -30826,7 +30847,7 @@ const CTPRODUCTS = [
  {
   "id": "mallade-itm70326d7f0dbe2",
   "brand": "Mallade",
-  "model": "Micellar Water with Panthenol B5 (100 ml)",
+  "model": "Micellar Water for Soft Smooth Skin",
   "price": 240,
   "capacityLine": "100 ml",
   "materialLine": "Key ingredients not stated",
@@ -30874,7 +30895,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/mallade-micellar-water-vitamin-e-care/p/itm70326d7f0dbe2",
   "buyStore": "Flipkart",
-  "title": "Mallade Micellar Water with Panthenol B5 (100 ml)",
+  "title": "Mallade Micellar Water for Soft Smooth Skin",
   "tags": [
    "scope:face",
    "format:wash",
@@ -30928,7 +30949,7 @@ const CTPRODUCTS = [
  {
   "id": "mallade-itmc3668210c22a9",
   "brand": "Mallade",
-  "model": "Gentle Micellar Water for Daily Cleansing (100 ml)",
+  "model": "Gentle Micellar Water for Daily Cleansing",
   "price": 240,
   "capacityLine": "100 ml",
   "materialLine": "Key ingredients not stated",
@@ -30976,7 +30997,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/mallade-gentle-micellar-water-daily-cleansing/p/itmc3668210c22a9",
   "buyStore": "Flipkart",
-  "title": "Mallade Gentle Micellar Water for Daily Cleansing (100 ml)",
+  "title": "Mallade Gentle Micellar Water for Daily Cleansing",
   "tags": [
    "scope:face",
    "format:wash",
@@ -31140,7 +31161,7 @@ const CTPRODUCTS = [
  {
   "id": "desi-crew-itm3eea7980a467d",
   "brand": "Desi Crew",
-  "model": "Micellar Water Makeup Remover Cleanser Get 100% Clean R …",
+  "model": "Micellar Water Makeup Remover Cleanser Get 100% Clean Removes Waterproof Makeup Remover",
   "price": 118,
   "capacityLine": "100 ml",
   "materialLine": "Key ingredients not stated",
@@ -31188,7 +31209,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/desi-crew-micellar-water-makeup-remover-cleanser-get-100-clean-removes-waterproof/p/itm3eea7980a467d",
   "buyStore": "Flipkart",
-  "title": "Desi Crew Micellar Water Makeup Remover Cleanser Get 100% Clean R …",
+  "title": "Desi Crew Micellar Water Makeup Remover Cleanser Get 100% Clean Removes Waterproof Makeup Remover",
   "tags": [
    "scope:unstated",
    "format:mist",
@@ -31197,6 +31218,7 @@ const CTPRODUCTS = [
    "format:micellar",
    "claim:water-resistant",
    "claim:makeup",
+   "claim:waterproof-makeup",
    "free:vegan",
    "aud:unisex",
    "size:standard",
@@ -31245,11 +31267,11 @@ const CTPRODUCTS = [
  {
   "id": "adjd-itmc1fd6618fc776",
   "brand": "ADJD",
-  "model": "Micellar Water for Makeup Removal Makeup Remover (100 ml)",
+  "model": "Micellar Water for Makeup Removal Makeup Remover",
   "price": 204,
-  "capacityLine": "100 ml",
+  "capacityLine": "125 ml",
   "materialLine": "vitamin C + aloe vera + cucumber",
-  "featureLine": "Micellar water · Alcohol-free · ₹204/100ml",
+  "featureLine": "Micellar water · Alcohol-free · ₹163/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -31264,8 +31286,8 @@ const CTPRODUCTS = [
    "experience": 0
   },
   "fullSpec": {
-   "quantity": "100 ml",
-   "pricePer100": "₹204/100ml",
+   "quantity": "125 ml",
+   "pricePer100": "₹163/100ml",
    "format": "Micellar water",
    "keyIngredients": "vitamin C, aloe vera, cucumber, vitamin E (per listing)",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
@@ -31294,7 +31316,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/adjd-micellar-water-makeup-removal-remover/p/itmc1fd6618fc776",
   "buyStore": "Flipkart",
-  "title": "ADJD Micellar Water for Makeup Removal Makeup Remover (100 ml)",
+  "title": "ADJD Micellar Water for Makeup Removal Makeup Remover",
   "tags": [
    "scope:unstated",
    "format:pads",
@@ -31307,11 +31329,12 @@ const CTPRODUCTS = [
    "ing:calamine",
    "claim:water-resistant",
    "claim:makeup",
+   "claim:waterproof-makeup",
    "skin:sensitive",
    "free:alcohol",
    "free:sensitive-safe",
    "aud:unisex",
-   "size:standard",
+   "size:large",
    "rating:none",
    "store:flipkart",
    "inci:none"
@@ -31357,7 +31380,7 @@ const CTPRODUCTS = [
  {
   "id": "adjd-itm807320dc558e8",
   "brand": "ADJD",
-  "model": "Micellar Water Sensitive Skin Makeup Remover Makeup Remover …",
+  "model": "Micellar Water Sensitive Skin Makeup Remover Makeup Remover",
   "price": 199,
   "capacityLine": "400 ml",
   "materialLine": "Key ingredients not stated",
@@ -31406,7 +31429,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/adjd-micellar-water-sensitive-skin-makeup-remover/p/itm807320dc558e8",
   "buyStore": "Flipkart",
-  "title": "ADJD Micellar Water Sensitive Skin Makeup Remover Makeup Remover …",
+  "title": "ADJD Micellar Water Sensitive Skin Makeup Remover Makeup Remover",
   "tags": [
    "scope:face",
    "format:oil",
@@ -31416,6 +31439,7 @@ const CTPRODUCTS = [
    "claim:water-resistant",
    "claim:cooling",
    "claim:makeup",
+   "claim:waterproof-makeup",
    "skin:sensitive",
    "skin:all",
    "free:sensitive-safe",
@@ -31466,7 +31490,7 @@ const CTPRODUCTS = [
  {
   "id": "adjd-itme55c274f61557",
   "brand": "ADJD",
-  "model": "Oil Free Eye Makeup Remover | Micellar Cleansing Water Makeu …",
+  "model": "Oil Free Eye Makeup Remover | Micellar Cleansing Water Makeup Remover",
   "price": 199,
   "capacityLine": "400 ml",
   "materialLine": "Key ingredients not stated",
@@ -31515,7 +31539,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/adjd-oil-free-eye-makeup-remover-micellar-cleansing-water/p/itme55c274f61557",
   "buyStore": "Flipkart",
-  "title": "ADJD Oil Free Eye Makeup Remover | Micellar Cleansing Water Makeu …",
+  "title": "ADJD Oil Free Eye Makeup Remover | Micellar Cleansing Water Makeup Remover",
   "tags": [
    "scope:face",
    "format:oil",
@@ -31524,6 +31548,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:water-resistant",
    "claim:makeup",
+   "claim:waterproof-makeup",
    "skin:all",
    "free:oil-free",
    "aud:unisex",
@@ -31927,7 +31952,7 @@ const CTPRODUCTS = [
  {
   "id": "buttr-itme4cbfcfa7186c",
   "brand": "Buttr",
-  "model": "Micellar Water Cucumber infused Makeup Remover & Hydrates M …",
+  "model": "Micellar Water Cucumber infused Makeup Remover & Hydrates Makeup Remover",
   "price": 98,
   "capacityLine": "200 g",
   "materialLine": "cucumber",
@@ -31976,7 +32001,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/buttr-micellar-water-cucumber-infused-makeup-remover-hydrates/p/itme4cbfcfa7186c",
   "buyStore": "Flipkart",
-  "title": "Buttr Micellar Water Cucumber infused Makeup Remover & Hydrates M …",
+  "title": "Buttr Micellar Water Cucumber infused Makeup Remover & Hydrates Makeup Remover",
   "tags": [
    "scope:face",
    "format:mist",
@@ -32037,7 +32062,7 @@ const CTPRODUCTS = [
  {
   "id": "neyah-itm91ea15d4a3352",
   "brand": "Neyah",
-  "model": "Micellar Water Makeup Removing Solution for All Skin Type M …",
+  "model": "Micellar Water Makeup Removing Solution for All Skin Type Makeup Remover",
   "price": 217,
   "capacityLine": "120 g",
   "materialLine": "Key ingredients not stated",
@@ -32086,7 +32111,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/neyah-micellar-water-makeup-removing-solution-all-skin-type-remover/p/itm91ea15d4a3352",
   "buyStore": "Flipkart",
-  "title": "Neyah Micellar Water Makeup Removing Solution for All Skin Type M …",
+  "title": "Neyah Micellar Water Makeup Removing Solution for All Skin Type Makeup Remover",
   "tags": [
    "scope:unstated",
    "format:micellar",
@@ -32141,7 +32166,7 @@ const CTPRODUCTS = [
  {
   "id": "winry-itm7566381f26c0e",
   "brand": "winry",
-  "model": "Crystal Glow Micellar Water for Deep Cleansing & Hydration …",
+  "model": "Crystal Glow Micellar Water for Deep Cleansing & Hydration Face Wash",
   "price": 122,
   "capacityLine": "300 g",
   "materialLine": "salicylic acid (BHA) + aloe vera + turmeric",
@@ -32190,7 +32215,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/winry-crystal-glow-micellar-water-deep-cleansing-hydration-face-wash/p/itm7566381f26c0e",
   "buyStore": "Flipkart",
-  "title": "winry Crystal Glow Micellar Water for Deep Cleansing & Hydration …",
+  "title": "winry Crystal Glow Micellar Water for Deep Cleansing & Hydration Face Wash",
   "tags": [
    "scope:face",
    "format:foam",
@@ -32259,7 +32284,7 @@ const CTPRODUCTS = [
  {
   "id": "luzimaisa-itm9429096f6f363",
   "brand": "Luzimaisa",
-  "model": "Best Micellar Water Sensitive Skin Makeup Remover Makeu …",
+  "model": "Best Micellar Water Sensitive Skin Makeup Remover Makeup Remover",
   "price": 500,
   "capacityLine": "60 ml",
   "materialLine": "Key ingredients not stated",
@@ -32308,7 +32333,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/luzimaisa-best-micellar-water-sensitive-skin-makeup-remover/p/itm9429096f6f363",
   "buyStore": "Flipkart",
-  "title": "Luzimaisa Best Micellar Water Sensitive Skin Makeup Remover Makeu …",
+  "title": "Luzimaisa Best Micellar Water Sensitive Skin Makeup Remover Makeup Remover",
   "tags": [
    "scope:face",
    "format:foam",
@@ -32319,6 +32344,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:water-resistant",
    "claim:makeup",
+   "claim:waterproof-makeup",
    "skin:sensitive",
    "skin:all",
    "free:vegan",
@@ -32370,7 +32396,7 @@ const CTPRODUCTS = [
  {
   "id": "winry-itm120f9f3ae61f3",
   "brand": "winry",
-  "model": "Crystal Glow Micellar Water | Gentle Face Cleanser | 100 ml …",
+  "model": "Crystal Glow Micellar Water | Gentle Face Cleanser | 100 ml Men & Women",
   "price": 123,
   "capacityLine": "100 ml",
   "materialLine": "rice water + rose + witch hazel",
@@ -32419,7 +32445,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/winry-crystal-glow-micellar-water-gentle-face-cleanser-100-ml-men-women/p/itm120f9f3ae61f3",
   "buyStore": "Flipkart",
-  "title": "winry Crystal Glow Micellar Water | Gentle Face Cleanser | 100 ml …",
+  "title": "winry Crystal Glow Micellar Water | Gentle Face Cleanser | 100 ml Men & Women",
   "tags": [
    "scope:both",
    "format:cream",
@@ -32485,7 +32511,7 @@ const CTPRODUCTS = [
  {
   "id": "winry-itm377cec5edf390",
   "brand": "winry",
-  "model": "Micellar Water Facial Cleanser | Cleanses, Hydrates & Refre …",
+  "model": "Micellar Water Facial Cleanser | Cleanses, Hydrates & Refreshes Skin Men & Women",
   "price": 129,
   "capacityLine": "660 g",
   "materialLine": "aloe vera + rose",
@@ -32534,7 +32560,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/winry-micellar-water-facial-cleanser-cleanses-hydrates-refreshes-skin-men-women/p/itm377cec5edf390",
   "buyStore": "Flipkart",
-  "title": "winry Micellar Water Facial Cleanser | Cleanses, Hydrates & Refre …",
+  "title": "winry Micellar Water Facial Cleanser | Cleanses, Hydrates & Refreshes Skin Men & Women",
   "tags": [
    "scope:both",
    "format:gel",
@@ -32596,7 +32622,7 @@ const CTPRODUCTS = [
  {
   "id": "winry-itm081bf741e146a",
   "brand": "winry",
-  "model": "Hydrating Micellar Water | Removes Impurities & Waterproof …",
+  "model": "Hydrating Micellar Water | Removes Impurities & Waterproof Makeup Men & Women",
   "price": 129,
   "capacityLine": "200 ml (pack of 2)",
   "materialLine": "rose",
@@ -32645,7 +32671,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/winry-hydrating-micellar-water-removes-impurities-waterproof-makeup-men-women/p/itm081bf741e146a",
   "buyStore": "Flipkart",
-  "title": "winry Hydrating Micellar Water | Removes Impurities & Waterproof …",
+  "title": "winry Hydrating Micellar Water | Removes Impurities & Waterproof Makeup Men & Women",
   "tags": [
    "scope:both",
    "format:toner",
@@ -32657,6 +32683,7 @@ const CTPRODUCTS = [
    "claim:water-resistant",
    "claim:cooling",
    "claim:makeup",
+   "claim:waterproof-makeup",
    "skin:oily",
    "skin:dry",
    "free:paraben",
@@ -32708,7 +32735,7 @@ const CTPRODUCTS = [
  {
   "id": "winry-itm9eb21abd8cecb",
   "brand": "winry",
-  "model": "Lightweight Micellar Water for Gentle Face Cleansing & Hydr …",
+  "model": "Lightweight Micellar Water for Gentle Face Cleansing & Hydration Men & Women",
   "price": 132,
   "capacityLine": "400 ml (pack of 2)",
   "materialLine": "rose",
@@ -32757,7 +32784,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/winry-lightweight-micellar-water-gentle-face-cleansing-hydration-men-women/p/itm9eb21abd8cecb",
   "buyStore": "Flipkart",
-  "title": "winry Lightweight Micellar Water for Gentle Face Cleansing & Hydr …",
+  "title": "winry Lightweight Micellar Water for Gentle Face Cleansing & Hydration Men & Women",
   "tags": [
    "scope:both",
    "format:toner",
@@ -32819,7 +32846,7 @@ const CTPRODUCTS = [
  {
   "id": "winry-itm3572671b8b2e7",
   "brand": "winry",
-  "model": "Makeup Remover Micellar Water | Deep Cleansing | Suitable f …",
+  "model": "Makeup Remover Micellar Water | Deep Cleansing | Suitable for All Skin Types Men & Women",
   "price": 127,
   "capacityLine": "200 ml (pack of 2)",
   "materialLine": "rose",
@@ -32868,7 +32895,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/winry-makeup-remover-micellar-water-deep-cleansing-suitable-all-skin-types-men-women/p/itm3572671b8b2e7",
   "buyStore": "Flipkart",
-  "title": "winry Makeup Remover Micellar Water | Deep Cleansing | Suitable f …",
+  "title": "winry Makeup Remover Micellar Water | Deep Cleansing | Suitable for All Skin Types Men & Women",
   "tags": [
    "scope:both",
    "format:toner",
@@ -32931,7 +32958,7 @@ const CTPRODUCTS = [
  {
   "id": "winry-itm3f79b1e1a6bde",
   "brand": "winry",
-  "model": "Gentle Micellar Cleansing Water | Refreshes & Hydrates Skin …",
+  "model": "Gentle Micellar Cleansing Water | Refreshes & Hydrates Skin Men & Women",
   "price": 117,
   "capacityLine": "100 ml",
   "materialLine": "vitamin C + salicylic acid (BHA) + rice water",
@@ -32980,7 +33007,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/winry-gentle-micellar-cleansing-water-refreshes-hydrates-skin-men-women/p/itm3f79b1e1a6bde",
   "buyStore": "Flipkart",
-  "title": "winry Gentle Micellar Cleansing Water | Refreshes & Hydrates Skin …",
+  "title": "winry Gentle Micellar Cleansing Water | Refreshes & Hydrates Skin Men & Women",
   "tags": [
    "scope:both",
    "format:toner",
@@ -33050,7 +33077,7 @@ const CTPRODUCTS = [
  {
   "id": "lacto-calamine-itmc66f1ccf943f8",
   "brand": "Lacto Calamine",
-  "model": "Micellar Cleansing Water with Aloe Vera, Green Tea …",
+  "model": "Micellar Cleansing Water with Aloe Vera, Green Tea and Niacinamide | Pack of 2 Makeup Remo…",
   "price": 149,
   "capacityLine": "400 ml (pack of 2)",
   "materialLine": "niacinamide + green tea + aloe vera",
@@ -33098,7 +33125,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/lacto-calamine-micellar-cleansing-water-aloe-vera-green-tea-niacinamide-pack-2-makeup-remover/p/itmc66f1ccf943f8",
   "buyStore": "Flipkart",
-  "title": "Lacto Calamine Micellar Cleansing Water with Aloe Vera, Green Tea …",
+  "title": "Lacto Calamine Micellar Cleansing Water with Aloe Vera, Green Tea and Niacinamide | Pack of 2 Makeup Remover",
   "tags": [
    "scope:unstated",
    "format:wash",
@@ -33161,7 +33188,7 @@ const CTPRODUCTS = [
  {
   "id": "winry-itm95d80eff5649c",
   "brand": "winry",
-  "model": "Crystal Glow Micellar Water with No-Rinse Formula for All S …",
+  "model": "Crystal Glow Micellar Water with No-Rinse Formula for All Skin Types Men & Women",
   "price": 132,
   "capacityLine": "200 ml",
   "materialLine": "rose",
@@ -33210,7 +33237,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/winry-crystal-glow-micellar-water-no-rinse-formula-all-skin-types-men-women/p/itm95d80eff5649c",
   "buyStore": "Flipkart",
-  "title": "winry Crystal Glow Micellar Water with No-Rinse Formula for All S …",
+  "title": "winry Crystal Glow Micellar Water with No-Rinse Formula for All Skin Types Men & Women",
   "tags": [
    "scope:both",
    "format:cream",
@@ -33274,7 +33301,7 @@ const CTPRODUCTS = [
  {
   "id": "winry-itm56673fca301de",
   "brand": "winry",
-  "model": "Hydrating Micellar Water for Face Cleansing & Makeup Remova …",
+  "model": "Hydrating Micellar Water for Face Cleansing & Makeup Removal Men & Women",
   "price": 132,
   "capacityLine": "200 ml",
   "materialLine": "aloe vera + rose",
@@ -33323,7 +33350,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/winry-hydrating-micellar-water-face-cleansing-makeup-removal-men-women/p/itm56673fca301de",
   "buyStore": "Flipkart",
-  "title": "winry Hydrating Micellar Water for Face Cleansing & Makeup Remova …",
+  "title": "winry Hydrating Micellar Water for Face Cleansing & Makeup Removal Men & Women",
   "tags": [
    "scope:both",
    "format:toner",
@@ -33384,7 +33411,7 @@ const CTPRODUCTS = [
  {
   "id": "colorflix-itm54fc1bf152e3b",
   "brand": "ColorFlix",
-  "model": "Hydrating & Gentle Micellar Water with Pomegranate & Ci …",
+  "model": "Hydrating & Gentle Micellar Water with Pomegranate & Citrus Extract Makeup Remover",
   "price": 137,
   "capacityLine": "100 ml",
   "materialLine": "Key ingredients not stated",
@@ -33434,11 +33461,12 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/colorflix-hydrating-gentle-micellar-water-pomegranate-citrus-extract-makeup-remover/p/itm54fc1bf152e3b",
   "buyStore": "Flipkart",
-  "title": "ColorFlix Hydrating & Gentle Micellar Water with Pomegranate & Ci …",
+  "title": "ColorFlix Hydrating & Gentle Micellar Water with Pomegranate & Citrus Extract Makeup Remover",
   "tags": [
    "scope:unstated",
    "format:micellar",
    "claim:hydrating",
+   "claim:makeup",
    "skin:all",
    "free:vegan",
    "aud:unisex",
@@ -33488,7 +33516,7 @@ const CTPRODUCTS = [
  {
   "id": "gabbu-itmc771a29246c7b",
   "brand": "GABBU",
-  "model": "Micellar Cleansing Water, Gentle Cleanser For Everyday Use …",
+  "model": "Micellar Cleansing Water, Gentle Cleanser For Everyday Use Makeup Remover",
   "price": 202,
   "capacityLine": "100 ml",
   "materialLine": "Key ingredients not stated",
@@ -33537,7 +33565,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/gabbu-micellar-cleansing-water-gentle-cleanser-everyday-use-makeup-remover/p/itmc771a29246c7b",
   "buyStore": "Flipkart",
-  "title": "GABBU Micellar Cleansing Water, Gentle Cleanser For Everyday Use …",
+  "title": "GABBU Micellar Cleansing Water, Gentle Cleanser For Everyday Use Makeup Remover",
   "tags": [
    "scope:face",
    "format:oil",
@@ -33547,6 +33575,7 @@ const CTPRODUCTS = [
    "claim:water-resistant",
    "claim:cooling",
    "claim:makeup",
+   "claim:waterproof-makeup",
    "skin:sensitive",
    "skin:all",
    "free:paraben",
@@ -33598,7 +33627,7 @@ const CTPRODUCTS = [
  {
   "id": "gabbu-itmf967c930f6827",
   "brand": "GABBU",
-  "model": "Micellar Water Sensitive Skin Makeup Remover Makeup Remover …",
+  "model": "Micellar Water Sensitive Skin Makeup Remover Makeup Remover",
   "price": 202,
   "capacityLine": "100 ml",
   "materialLine": "aloe vera + cucumber + vitamin E",
@@ -33647,7 +33676,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/gabbu-micellar-water-sensitive-skin-makeup-remover/p/itmf967c930f6827",
   "buyStore": "Flipkart",
-  "title": "GABBU Micellar Water Sensitive Skin Makeup Remover Makeup Remover …",
+  "title": "GABBU Micellar Water Sensitive Skin Makeup Remover Makeup Remover",
   "tags": [
    "scope:unstated",
    "format:oil",
@@ -33662,6 +33691,7 @@ const CTPRODUCTS = [
    "claim:water-resistant",
    "claim:cooling",
    "claim:makeup",
+   "claim:waterproof-makeup",
    "skin:sensitive",
    "skin:all",
    "free:paraben",
@@ -33715,7 +33745,7 @@ const CTPRODUCTS = [
  {
   "id": "gabbu-itmd45a454ab78ca",
   "brand": "GABBU",
-  "model": "Lip & Eye Makeup Remover Oil Free Micellar Water Makeup Rem …",
+  "model": "Lip & Eye Makeup Remover Oil Free Micellar Water Makeup Remover Makeup Remover",
   "price": 189,
   "capacityLine": "100 ml",
   "materialLine": "vitamin C",
@@ -33764,11 +33794,12 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/gabbu-lip-eye-makeup-remover-oil-free-micellar-water/p/itmd45a454ab78ca",
   "buyStore": "Flipkart",
-  "title": "GABBU Lip & Eye Makeup Remover Oil Free Micellar Water Makeup Rem …",
+  "title": "GABBU Lip & Eye Makeup Remover Oil Free Micellar Water Makeup Remover Makeup Remover",
   "tags": [
    "scope:face",
    "format:wash",
    "format:micellar",
+   "format:cleansing-oil",
    "ing:vitamin-c",
    "claim:hydrating",
    "claim:makeup",
@@ -33823,7 +33854,7 @@ const CTPRODUCTS = [
  {
   "id": "yawi-itm19e7777a7d288",
   "brand": "YAWI",
-  "model": "Daily Liquid Makeup Remover, Soap Free Micellar Cleansing Wa …",
+  "model": "Daily Liquid Makeup Remover, Soap Free Micellar Cleansing Water Face Wash",
   "price": 239,
   "capacityLine": "100 ml",
   "materialLine": "vitamin C",
@@ -33872,7 +33903,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/yawi-daily-liquid-makeup-remover-soap-free-micellar-cleansing-water-face-wash/p/itm19e7777a7d288",
   "buyStore": "Flipkart",
-  "title": "YAWI Daily Liquid Makeup Remover, Soap Free Micellar Cleansing Wa …",
+  "title": "YAWI Daily Liquid Makeup Remover, Soap Free Micellar Cleansing Water Face Wash",
   "tags": [
    "scope:face",
    "format:bar",
@@ -33937,7 +33968,7 @@ const CTPRODUCTS = [
  {
   "id": "wecharmerz-itmcc0fb9bae0714",
   "brand": "WECHARMERZ",
-  "model": "Demaquillant Makeup Remover For Micellar Cleaning Wate …",
+  "model": "Demaquillant Makeup Remover For Micellar Cleaning Water With Makeup Remover",
   "price": 217,
   "capacityLine": "100 ml",
   "materialLine": "ubtan",
@@ -33986,7 +34017,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/wecharmerz-demaquillant-makeup-remover-micellar-cleaning-water/p/itmcc0fb9bae0714",
   "buyStore": "Flipkart",
-  "title": "WECHARMERZ Demaquillant Makeup Remover For Micellar Cleaning Wate …",
+  "title": "WECHARMERZ Demaquillant Makeup Remover For Micellar Cleaning Water With Makeup Remover",
   "tags": [
    "scope:face",
    "format:pads",
@@ -34047,7 +34078,7 @@ const CTPRODUCTS = [
  {
   "id": "rare-chemistry-itmed3e48bd6a695",
   "brand": "rare chemistry",
-  "model": "Dewy Glow Micellar Water Makeup Remover (100 ml)",
+  "model": "Dewy Glow Micellar Water Makeup Remover",
   "price": 450,
   "capacityLine": "100 ml",
   "materialLine": "Key ingredients not stated",
@@ -34096,13 +34127,14 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/rare-chemistry-dewy-glow-micellar-water-makeup-remover/p/itmed3e48bd6a695",
   "buyStore": "Flipkart",
-  "title": "rare chemistry Dewy Glow Micellar Water Makeup Remover (100 ml)",
+  "title": "rare chemistry Dewy Glow Micellar Water Makeup Remover",
   "tags": [
    "scope:unstated",
    "format:micellar",
    "claim:brightening",
    "claim:water-resistant",
    "claim:makeup",
+   "claim:waterproof-makeup",
    "aud:unisex",
    "size:standard",
    "rating:none",
@@ -34150,7 +34182,7 @@ const CTPRODUCTS = [
  {
   "id": "jaquline-usa-itm9655973c1847f",
   "brand": "JAQULINE USA",
-  "model": "Goodbye Makeup Micellar Cleansing Water Removes All …",
+  "model": "Goodbye Makeup Micellar Cleansing Water Removes All Makeup with Almond Oil Makeup Remover",
   "price": 135,
   "capacityLine": "40 g",
   "materialLine": "almond",
@@ -34199,7 +34231,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/jaquline-usa-goodbye-makeup-micellar-cleansing-water-removes-all-almond-oil-remover/p/itm9655973c1847f",
   "buyStore": "Flipkart",
-  "title": "JAQULINE USA Goodbye Makeup Micellar Cleansing Water Removes All …",
+  "title": "JAQULINE USA Goodbye Makeup Micellar Cleansing Water Removes All Makeup with Almond Oil Makeup Remover",
   "tags": [
    "scope:face",
    "format:oil",
@@ -34260,7 +34292,7 @@ const CTPRODUCTS = [
  {
   "id": "luzimaisa-itm75f2d9d02d6ad",
   "brand": "Luzimaisa",
-  "model": "Cleansing Water, Hydrating & Soothing, Micellar Cleansi …",
+  "model": "Cleansing Water, Hydrating & Soothing, Micellar Cleansing Water Makeup Remover",
   "price": 234,
   "capacityLine": "100 ml",
   "materialLine": "Key ingredients not stated",
@@ -34309,17 +34341,19 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/luzimaisa-cleansing-water-hydrating-soothing-micellar-water-makeup-remover/p/itm75f2d9d02d6ad",
   "buyStore": "Flipkart",
-  "title": "Luzimaisa Cleansing Water, Hydrating & Soothing, Micellar Cleansi …",
+  "title": "Luzimaisa Cleansing Water, Hydrating & Soothing, Micellar Cleansing Water Makeup Remover",
   "tags": [
    "scope:unstated",
    "format:mist",
    "format:oil",
    "format:wash",
    "format:micellar",
+   "format:cleansing-oil",
    "claim:hydrating",
    "claim:soothing",
    "claim:water-resistant",
    "claim:makeup",
+   "claim:waterproof-makeup",
    "skin:all",
    "free:vegan",
    "aud:unisex",
@@ -34369,7 +34403,7 @@ const CTPRODUCTS = [
  {
   "id": "lakyou-itmab5e5309b6db4",
   "brand": "Lakyou",
-  "model": "Beauty Makeup Remover Spray, Micellar Water, Eye, Face, Li …",
+  "model": "Beauty Makeup Remover Spray, Micellar Water, Eye, Face, Lips, Smooth & Gentle Remover Make…",
   "price": 324,
   "capacityLine": "100 ml",
   "materialLine": "Key ingredients not stated",
@@ -34418,13 +34452,14 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/lakyou-beauty-makeup-remover-spray-micellar-water-eye-face-lips-smooth-gentle/p/itmab5e5309b6db4",
   "buyStore": "Flipkart",
-  "title": "Lakyou Beauty Makeup Remover Spray, Micellar Water, Eye, Face, Li …",
+  "title": "Lakyou Beauty Makeup Remover Spray, Micellar Water, Eye, Face, Lips, Smooth & Gentle Remover Makeup Remover",
   "tags": [
    "scope:face",
    "format:mist",
    "format:micellar",
    "claim:water-resistant",
    "claim:makeup",
+   "claim:waterproof-makeup",
    "aud:unisex",
    "size:standard",
    "rating:none",
@@ -34472,7 +34507,7 @@ const CTPRODUCTS = [
  {
   "id": "colorflix-itmf33afb0c34292",
   "brand": "ColorFlix",
-  "model": "Purifying & Refreshing Micellar Water with Blueberry & …",
+  "model": "Purifying & Refreshing Micellar Water with Blueberry & Tea Tree Extract Makeup Remover",
   "price": 134,
   "capacityLine": "100 ml",
   "materialLine": "tea tree",
@@ -34522,12 +34557,13 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/colorflix-purifying-refreshing-micellar-water-blueberry-tea-tree-extract-makeup-remover/p/itmf33afb0c34292",
   "buyStore": "Flipkart",
-  "title": "ColorFlix Purifying & Refreshing Micellar Water with Blueberry & …",
+  "title": "ColorFlix Purifying & Refreshing Micellar Water with Blueberry & Tea Tree Extract Makeup Remover",
   "tags": [
    "scope:unstated",
    "format:micellar",
    "ing:tea-tree",
    "claim:cooling",
+   "claim:makeup",
    "skin:all",
    "free:vegan",
    "aud:unisex",
@@ -34577,7 +34613,7 @@ const CTPRODUCTS = [
  {
   "id": "ecoberry-itmaf45d565f7a51",
   "brand": "ecoberry",
-  "model": "Moringa Chamomile Micellar Water For Daily Cleansing | R …",
+  "model": "Moringa Chamomile Micellar Water For Daily Cleansing | Removes Makeup & Dirt Makeup Remove…",
   "price": 307,
   "capacityLine": "100 ml",
   "materialLine": "niacinamide + green tea + aloe vera",
@@ -34626,7 +34662,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/ecoberry-moringa-chamomile-micellar-water-daily-cleansing-removes-makeup-dirt-remover/p/itmaf45d565f7a51",
   "buyStore": "Flipkart",
-  "title": "ecoberry Moringa Chamomile Micellar Water For Daily Cleansing | R …",
+  "title": "ecoberry Moringa Chamomile Micellar Water For Daily Cleansing | Removes Makeup & Dirt Makeup Remover",
   "tags": [
    "scope:face",
    "format:oil",
@@ -34644,6 +34680,7 @@ const CTPRODUCTS = [
    "claim:lightweight",
    "claim:cooling",
    "claim:makeup",
+   "claim:waterproof-makeup",
    "skin:oily",
    "skin:sensitive",
    "free:sensitive-safe",
@@ -34694,7 +34731,7 @@ const CTPRODUCTS = [
  {
   "id": "cosmo-itm295a47ae11cdf",
   "brand": "Cosmo",
-  "model": "Soothing Micellar Water With Calming Panthenol Pro Vitamin …",
+  "model": "Soothing Micellar Water With Calming Panthenol Pro Vitamin B5, All Skin Types Makeup Remov…",
   "price": 134,
   "capacityLine": "200 g",
   "materialLine": "Key ingredients not stated",
@@ -34731,7 +34768,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "CavinKare — Established / listed Indian FMCG house",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/make-up-remover/r/w/q/200-soothing-micellar-water-with-calming-panthenol-pro-vitamin-original-imahjpdsd9xyggdp.jpeg?q=90",
@@ -34742,13 +34780,15 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/cosmo-soothing-micellar-water-calming-panthenol-pro-vitamin-b5-all-skin-types-makeup-remover/p/itm295a47ae11cdf",
   "buyStore": "Flipkart",
-  "title": "COSMO Soothing Micellar Water With Calming Panthenol Pro Vitamin …",
+  "title": "COSMO Soothing Micellar Water With Calming Panthenol Pro Vitamin B5, All Skin Types Makeup Remover",
   "tags": [
    "scope:face",
    "format:oil",
    "format:pads",
    "format:wash",
    "format:micellar",
+   "format:cleansing-oil",
+   "water:unstated",
    "ing:vitamin-b5-panthenol",
    "claim:soothing",
    "claim:cooling",
@@ -34802,7 +34842,7 @@ const CTPRODUCTS = [
  {
   "id": "sheny-itm144c032f87982",
   "brand": "Sheny",
-  "model": "Micellar Water - Gentle Cleanser For Sensitive Skin, Makeup …",
+  "model": "Micellar Water - Gentle Cleanser For Sensitive Skin, Makeup Remover pack of 2 Makeup Remov…",
   "price": 126,
   "capacityLine": "400 ml (pack of 2)",
   "materialLine": "Key ingredients not stated",
@@ -34851,7 +34891,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/sheny-micellar-water-gentle-cleanser-sensitive-skin-makeup-remover-pack-2/p/itm144c032f87982",
   "buyStore": "Flipkart",
-  "title": "Sheny Micellar Water - Gentle Cleanser For Sensitive Skin, Makeup …",
+  "title": "Sheny Micellar Water - Gentle Cleanser For Sensitive Skin, Makeup Remover pack of 2 Makeup Remover",
   "tags": [
    "scope:face",
    "format:mist",
@@ -34861,6 +34901,7 @@ const CTPRODUCTS = [
    "format:kit",
    "claim:water-resistant",
    "claim:makeup",
+   "claim:waterproof-makeup",
    "skin:sensitive",
    "free:sensitive-safe",
    "aud:women",
@@ -34910,7 +34951,7 @@ const CTPRODUCTS = [
  {
   "id": "winry-itm5ef370d06445c",
   "brand": "winry",
-  "model": "Gentle Micellar Water for Face Cleansing, Makeup Removal & …",
+  "model": "Gentle Micellar Water for Face Cleansing, Makeup Removal & Fresh Skin Men & Women",
   "price": 132,
   "capacityLine": "200 ml",
   "materialLine": "rose",
@@ -34959,7 +35000,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/winry-gentle-micellar-water-face-cleansing-makeup-removal-fresh-skin-men-women/p/itm5ef370d06445c",
   "buyStore": "Flipkart",
-  "title": "winry Gentle Micellar Water for Face Cleansing, Makeup Removal & …",
+  "title": "winry Gentle Micellar Water for Face Cleansing, Makeup Removal & Fresh Skin Men & Women",
   "tags": [
    "scope:both",
    "format:toner",
@@ -35023,7 +35064,7 @@ const CTPRODUCTS = [
  {
   "id": "wecharmerz-itmd4daf9705efe9",
   "brand": "WECHARMERZ",
-  "model": "Demaquillant Makeup Remover For All Skin Type Micellar …",
+  "model": "Demaquillant Makeup Remover For All Skin Type Micellar Cleaning Water Makeup Remover",
   "price": 161,
   "capacityLine": "100 ml",
   "materialLine": "niacinamide",
@@ -35071,7 +35112,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/wecharmerz-demaquillant-makeup-remover-all-skin-type-micellar-cleaning-water/p/itmd4daf9705efe9",
   "buyStore": "Flipkart",
-  "title": "WECHARMERZ Demaquillant Makeup Remover For All Skin Type Micellar …",
+  "title": "WECHARMERZ Demaquillant Makeup Remover For All Skin Type Micellar Cleaning Water Makeup Remover",
   "tags": [
    "scope:unstated",
    "format:oil",
@@ -35079,6 +35120,7 @@ const CTPRODUCTS = [
    "format:wash",
    "format:micellar",
    "format:kit",
+   "format:cleansing-oil",
    "ing:niacinamide",
    "ing:strawberry",
    "claim:hydrating",
@@ -35132,7 +35174,7 @@ const CTPRODUCTS = [
  {
   "id": "kinded-itma67d6569783d9",
   "brand": "KINDED",
-  "model": "Mint Green Oil Based Dual Phase Cleanser Micellar Water fo …",
+  "model": "Mint Green Oil Based Dual Phase Cleanser Micellar Water for Face Eyes Kajal Makeup Remover",
   "price": 337,
   "capacityLine": "60 g",
   "materialLine": "vitamin C + aloe vera + cucumber",
@@ -35181,7 +35223,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/kinded-mint-green-oil-based-dual-phase-cleanser-micellar-water-face-eyes-kajal-makeup-remover/p/itma67d6569783d9",
   "buyStore": "Flipkart",
-  "title": "KINDED Mint Green Oil Based Dual Phase Cleanser Micellar Water fo …",
+  "title": "KINDED Mint Green Oil Based Dual Phase Cleanser Micellar Water for Face Eyes Kajal Makeup Remover",
   "tags": [
    "scope:face",
    "format:mist",
@@ -35247,7 +35289,7 @@ const CTPRODUCTS = [
  {
   "id": "oriflame-sweden-itm2379eeb01aff0",
   "brand": "Oriflame Sweden",
-  "model": "OPTIMALS Soothing Micellar Cleansing Water 150ml …",
+  "model": "OPTIMALS Soothing Micellar Cleansing Water 150ml",
   "price": 382,
   "capacityLine": "150 ml",
   "materialLine": "Key ingredients not stated",
@@ -35283,7 +35325,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Oriflame Cosmetics — Global FMCG or beauty group",
-   "buyerEvidence": "4.2★ from 12 ratings"
+   "buyerEvidence": "4.2★ from 12 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/7/d/v/150-optimals-soothing-micellar-cleansing-water-150ml-oriflame-original-imahgwhfcxf7czmq.jpeg?q=90",
@@ -35294,12 +35337,13 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/oriflame-sweden-optimals-soothing-micellar-cleansing-water-150ml/p/itm2379eeb01aff0",
   "buyStore": "Flipkart",
-  "title": "Oriflame Sweden OPTIMALS Soothing Micellar Cleansing Water 150ml …",
+  "title": "Oriflame Sweden OPTIMALS Soothing Micellar Cleansing Water 150ml",
   "tags": [
    "scope:both",
    "format:pack",
    "format:wash",
    "format:micellar",
+   "water:unstated",
    "claim:brightening",
    "claim:pores",
    "claim:hydrating",
@@ -35356,7 +35400,7 @@ const CTPRODUCTS = [
  {
   "id": "st-ives-itm32fd9166f2c3f",
   "brand": "St. Ives",
-  "model": "Rosy Glow Rose Micellar Water Makeup Remover (400 ml)",
+  "model": "Rosy Glow Rose Micellar Water Makeup Remover",
   "price": 98,
   "capacityLine": "400 ml",
   "materialLine": "rose",
@@ -35404,7 +35448,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/st-ives-rosy-glow-rose-micellar-water-makeup-remover/p/itm32fd9166f2c3f",
   "buyStore": "Flipkart",
-  "title": "ST.IVES Rosy Glow Rose Micellar Water Makeup Remover (400 ml)",
+  "title": "ST.IVES Rosy Glow Rose Micellar Water Makeup Remover",
   "tags": [
    "scope:unstated",
    "format:micellar",
@@ -35458,7 +35502,7 @@ const CTPRODUCTS = [
  {
   "id": "huzurlu-itm6217b2bd2b16b",
   "brand": "HUZURLU",
-  "model": "Micellar cleansing Water All in 1 Makeup Remover Makeup R …",
+  "model": "Micellar cleansing Water All in 1 Makeup Remover Makeup Remover",
   "price": 487,
   "capacityLine": "60 ml",
   "materialLine": "Key ingredients not stated",
@@ -35507,7 +35551,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/huzurlu-micellar-cleansing-water-all-1-makeup-remover/p/itm6217b2bd2b16b",
   "buyStore": "Flipkart",
-  "title": "HUZURLU Micellar cleansing Water All in 1 Makeup Remover Makeup R …",
+  "title": "HUZURLU Micellar cleansing Water All in 1 Makeup Remover Makeup Remover",
   "tags": [
    "scope:face",
    "format:gel",
@@ -35564,7 +35608,7 @@ const CTPRODUCTS = [
  {
   "id": "agley-itm64d05ff78d690",
   "brand": "AGLEY",
-  "model": "Hydrating & Gentle Micellar Water For eye makeup remover Ma …",
+  "model": "Hydrating & Gentle Micellar Water For eye makeup remover Makeup Remover",
   "price": 81,
   "capacityLine": "200 ml",
   "materialLine": "Key ingredients not stated",
@@ -35613,7 +35657,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/agley-hydrating-gentle-micellar-water-eye-makeup-remover/p/itm64d05ff78d690",
   "buyStore": "Flipkart",
-  "title": "AGLEY Hydrating & Gentle Micellar Water For eye makeup remover Ma …",
+  "title": "AGLEY Hydrating & Gentle Micellar Water For eye makeup remover Makeup Remover",
   "tags": [
    "scope:face",
    "format:mist",
@@ -35671,7 +35715,7 @@ const CTPRODUCTS = [
  {
   "id": "agley-itmc53bc7956ecce",
   "brand": "AGLEY",
-  "model": "Micellar Water - Gentle Cleanser For Sensitive Skin, Get 10 …",
+  "model": "Micellar Water - Gentle Cleanser For Sensitive Skin, Get 100% Clean Skin Makeup Remover",
   "price": 82,
   "capacityLine": "200 ml",
   "materialLine": "aloe vera + cucumber + vitamin E",
@@ -35720,7 +35764,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/agley-micellar-water-gentle-cleanser-sensitive-skin-get-100-clean-skin-makeup-remover/p/itmc53bc7956ecce",
   "buyStore": "Flipkart",
-  "title": "AGLEY Micellar Water - Gentle Cleanser For Sensitive Skin, Get 10 …",
+  "title": "AGLEY Micellar Water - Gentle Cleanser For Sensitive Skin, Get 100% Clean Skin Makeup Remover",
   "tags": [
    "scope:face",
    "format:mist",
@@ -35784,7 +35828,7 @@ const CTPRODUCTS = [
  {
   "id": "beauty-relay-london-itm69010ea717275",
   "brand": "Beauty Relay London",
-  "model": "C Files Vitamin-C Detox Micellar Water Face W …",
+  "model": "C Files Vitamin-C Detox Micellar Water Face Wash",
   "price": 539,
   "capacityLine": "180 g (pack of 3)",
   "materialLine": "vitamin C + kojic acid + vitamin E",
@@ -35833,7 +35877,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/beauty-relay-london-c-files-vitamin-c-detox-micellar-water-face-wash/p/itm69010ea717275",
   "buyStore": "Flipkart",
-  "title": "Beauty Relay London C Files Vitamin-C Detox Micellar Water Face W …",
+  "title": "Beauty Relay London C Files Vitamin-C Detox Micellar Water Face Wash",
   "tags": [
    "scope:face",
    "format:oil",
@@ -35841,6 +35885,7 @@ const CTPRODUCTS = [
    "format:wash",
    "format:micellar",
    "format:kit",
+   "format:cleansing-oil",
    "ing:vitamin-c",
    "ing:kojic-acid",
    "ing:glutathione",
@@ -35901,7 +35946,7 @@ const CTPRODUCTS = [
  {
   "id": "lacto-calamine-itm8393ab22876c7",
   "brand": "Lacto Calamine",
-  "model": "Micellar Cleansing Water with Aloe Vera, Green Tea …",
+  "model": "Micellar Cleansing Water with Aloe Vera, Green Tea and Niacinamide | Pack of 1 Makeup Remo…",
   "price": 98,
   "capacityLine": "100 ml",
   "materialLine": "niacinamide + green tea + aloe vera",
@@ -35948,7 +35993,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/lacto-calamine-micellar-cleansing-water-aloe-vera-green-tea-niacinamide-pack-1-makeup-remover/p/itm8393ab22876c7",
   "buyStore": "Flipkart",
-  "title": "Lacto Calamine Micellar Cleansing Water with Aloe Vera, Green Tea …",
+  "title": "Lacto Calamine Micellar Cleansing Water with Aloe Vera, Green Tea and Niacinamide | Pack of 1 Makeup Remover",
   "tags": [
    "scope:unstated",
    "format:wash",
@@ -35958,6 +36003,7 @@ const CTPRODUCTS = [
    "ing:green-tea",
    "ing:aloe-vera",
    "ing:calamine",
+   "claim:makeup",
    "aud:unisex",
    "size:standard",
    "rating:4.0",
@@ -36006,7 +36052,7 @@ const CTPRODUCTS = [
  {
   "id": "winry-itmced71c32604d3",
   "brand": "winry",
-  "model": "Refresh Your Skin Anytime with Micellar Water Makeup Remove …",
+  "model": "Refresh Your Skin Anytime with Micellar Water Makeup Remover",
   "price": 129,
   "capacityLine": "10 g",
   "materialLine": "aloe vera + cucumber + vitamin E",
@@ -36055,7 +36101,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/winry-refresh-your-skin-anytime-micellar-water-makeup-remover/p/itmced71c32604d3",
   "buyStore": "Flipkart",
-  "title": "winry Refresh Your Skin Anytime with Micellar Water Makeup Remove …",
+  "title": "winry Refresh Your Skin Anytime with Micellar Water Makeup Remover",
   "tags": [
    "scope:unstated",
    "format:mist",
@@ -36063,6 +36109,7 @@ const CTPRODUCTS = [
    "format:pads",
    "format:wash",
    "format:micellar",
+   "format:cleansing-oil",
    "ing:aloe-vera",
    "ing:cucumber",
    "ing:vitamin-e",
@@ -36117,7 +36164,7 @@ const CTPRODUCTS = [
  {
   "id": "winry-itmdd9cd1a7fca6a",
   "brand": "winry",
-  "model": "Skin Refreshing Micellar Water for Smooth Complexion Makeup …",
+  "model": "Skin Refreshing Micellar Water for Smooth Complexion Makeup Remover",
   "price": 124,
   "capacityLine": "100 ml",
   "materialLine": "aloe vera + cucumber + vitamin E",
@@ -36166,7 +36213,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/winry-skin-refreshing-micellar-water-smooth-complexion-makeup-remover/p/itmdd9cd1a7fca6a",
   "buyStore": "Flipkart",
-  "title": "winry Skin Refreshing Micellar Water for Smooth Complexion Makeup …",
+  "title": "winry Skin Refreshing Micellar Water for Smooth Complexion Makeup Remover",
   "tags": [
    "scope:face",
    "format:mist",
@@ -36228,7 +36275,7 @@ const CTPRODUCTS = [
  {
   "id": "cosmo-itm0849f42a66aaf",
   "brand": "Cosmo",
-  "model": "Hydrating Micellar Water With Hyaluronic Acid, Removes Make …",
+  "model": "Hydrating Micellar Water With Hyaluronic Acid, Removes Makeup, All Skin Types Makeup Remov…",
   "price": 134,
   "capacityLine": "200 g",
   "materialLine": "hyaluronic acid",
@@ -36276,7 +36323,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/cosmo-hydrating-micellar-water-hyaluronic-acid-removes-makeup-all-skin-types-makeup-remover/p/itm0849f42a66aaf",
   "buyStore": "Flipkart",
-  "title": "COSMO Hydrating Micellar Water With Hyaluronic Acid, Removes Make …",
+  "title": "COSMO Hydrating Micellar Water With Hyaluronic Acid, Removes Makeup, All Skin Types Makeup Remover",
   "tags": [
    "scope:unstated",
    "format:wash",
@@ -36335,7 +36382,7 @@ const CTPRODUCTS = [
  {
   "id": "cosmo-itm4de10235020b3",
   "brand": "Cosmo",
-  "model": "Brightening Micellar Water With Niacinamide Vitamin B3, Cle …",
+  "model": "Brightening Micellar Water With Niacinamide Vitamin B3, Cleanser All Skin Types Makeup Rem…",
   "price": 134,
   "capacityLine": "200 g",
   "materialLine": "niacinamide",
@@ -36372,7 +36419,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "CavinKare — Established / listed Indian FMCG house",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/make-up-remover/v/b/q/200-brightening-micellar-water-with-niacinamide-vitamin-b3-original-imahjpdskq3cwhnn.jpeg?q=90",
@@ -36383,7 +36431,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/cosmo-brightening-micellar-water-niacinamide-vitamin-b3-cleanser-all-skin-types-makeup-remover/p/itm4de10235020b3",
   "buyStore": "Flipkart",
-  "title": "COSMO Brightening Micellar Water With Niacinamide Vitamin B3, Cle …",
+  "title": "COSMO Brightening Micellar Water With Niacinamide Vitamin B3, Cleanser All Skin Types Makeup Remover",
   "tags": [
    "scope:face",
    "format:mist",
@@ -36391,6 +36439,8 @@ const CTPRODUCTS = [
    "format:pads",
    "format:wash",
    "format:micellar",
+   "format:cleansing-oil",
+   "water:unstated",
    "ing:niacinamide",
    "claim:brightening",
    "claim:cooling",
@@ -36444,7 +36494,7 @@ const CTPRODUCTS = [
  {
   "id": "cosmo-itm57480ce1b80ac",
   "brand": "Cosmo",
-  "model": "2 In 1 Micellar Face Cleansing Gel Makeup Remover, All Skin …",
+  "model": "2 In 1 Micellar Face Cleansing Gel Makeup Remover, All Skin Types Makeup Remover",
   "price": 108,
   "capacityLine": "500 g",
   "materialLine": "niacinamide + aloe vera + cucumber",
@@ -36492,7 +36542,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/cosmo-2-1-micellar-face-cleansing-gel-makeup-remover-all-skin-types-remover/p/itm57480ce1b80ac",
   "buyStore": "Flipkart",
-  "title": "COSMO 2 In 1 Micellar Face Cleansing Gel Makeup Remover, All Skin …",
+  "title": "COSMO 2 In 1 Micellar Face Cleansing Gel Makeup Remover, All Skin Types Makeup Remover",
   "tags": [
    "scope:face",
    "format:gel",
@@ -36559,7 +36609,7 @@ const CTPRODUCTS = [
  {
   "id": "cosmo-itm48a44007e6b48",
   "brand": "Cosmo",
-  "model": "Purifying Micellar Water 200ml With Aloe Vera, Makeup Remov …",
+  "model": "Purifying Micellar Water 200ml With Aloe Vera, Makeup Remover All Skin Types Makeup Remove…",
   "price": 134,
   "capacityLine": "200 ml",
   "materialLine": "niacinamide + aloe vera + cucumber",
@@ -36607,7 +36657,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/cosmo-purifying-micellar-water-200ml-aloe-vera-makeup-remover-all-skin-types/p/itm48a44007e6b48",
   "buyStore": "Flipkart",
-  "title": "COSMO Purifying Micellar Water 200ml With Aloe Vera, Makeup Remov …",
+  "title": "COSMO Purifying Micellar Water 200ml With Aloe Vera, Makeup Remover All Skin Types Makeup Remover",
   "tags": [
    "scope:unstated",
    "format:pads",
@@ -36671,7 +36721,7 @@ const CTPRODUCTS = [
  {
   "id": "myeong-itm132f12106db0b",
   "brand": "MYEONG",
-  "model": "Makeup Remover Oil-Free Micellar Water Make Up Remover Fac …",
+  "model": "Makeup Remover Oil-Free Micellar Water Make Up Remover Face Removes Make-Up Makeup Remover",
   "price": 211,
   "capacityLine": "100 ml",
   "materialLine": "Key ingredients not stated",
@@ -36720,15 +36770,17 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/myeong-makeup-remover-oil-free-micellar-water-make-up-face-removes-make-up/p/itm132f12106db0b",
   "buyStore": "Flipkart",
-  "title": "MYEONG Makeup Remover Oil-Free Micellar Water Make Up Remover Fac …",
+  "title": "MYEONG Makeup Remover Oil-Free Micellar Water Make Up Remover Face Removes Make-Up Makeup Remover",
   "tags": [
    "scope:face",
    "format:oil",
    "format:wash",
    "format:micellar",
+   "format:cleansing-oil",
    "claim:oil-control",
    "claim:water-resistant",
    "claim:makeup",
+   "claim:waterproof-makeup",
    "skin:all",
    "free:oil-free",
    "free:vegan",
@@ -36779,7 +36831,7 @@ const CTPRODUCTS = [
  {
   "id": "myeong-itm6337addbcb746",
   "brand": "MYEONG",
-  "model": "Micellar Water Foam Makeup Remover Liquid Makeup Remover f …",
+  "model": "Micellar Water Foam Makeup Remover Liquid Makeup Remover for All Skin Types Makeup Remover",
   "price": 500,
   "capacityLine": "60 ml",
   "materialLine": "aloe vera + cucumber + vitamin E",
@@ -36828,7 +36880,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/myeong-micellar-water-foam-makeup-remover-liquid-all-skin-types/p/itm6337addbcb746",
   "buyStore": "Flipkart",
-  "title": "MYEONG Micellar Water Foam Makeup Remover Liquid Makeup Remover f …",
+  "title": "MYEONG Micellar Water Foam Makeup Remover Liquid Makeup Remover for All Skin Types Makeup Remover",
   "tags": [
    "scope:unstated",
    "format:foam",
@@ -36893,7 +36945,7 @@ const CTPRODUCTS = [
  {
   "id": "myeong-itm02046bc1669b7",
   "brand": "MYEONG",
-  "model": "Makeup Remover Oil-Free Liquid Eye Makeup Remover Micellar …",
+  "model": "Makeup Remover Oil-Free Liquid Eye Makeup Remover Micellar Water Makeup Remover",
   "price": 211,
   "capacityLine": "10 g",
   "materialLine": "niacinamide + rose",
@@ -36939,13 +36991,14 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/myeong-makeup-remover-oil-free-liquid-eye-micellar-water/p/itm02046bc1669b7",
   "buyStore": "Flipkart",
-  "title": "MYEONG Makeup Remover Oil-Free Liquid Eye Makeup Remover Micellar …",
+  "title": "MYEONG Makeup Remover Oil-Free Liquid Eye Makeup Remover Micellar Water Makeup Remover",
   "tags": [
    "scope:face",
    "format:pads",
    "format:wash",
    "format:micellar",
    "format:kit",
+   "format:cleansing-oil",
    "ing:niacinamide",
    "ing:rose",
    "claim:oil-control",
@@ -37000,7 +37053,7 @@ const CTPRODUCTS = [
  {
   "id": "kinded-itm0b7d28dd06e5e",
   "brand": "KINDED",
-  "model": "Lilac Purple Oil Based Dual Phase Cleanser Micellar Water …",
+  "model": "Lilac Purple Oil Based Dual Phase Cleanser Micellar Water for Face Eyes Kajal Makeup Remov…",
   "price": 340,
   "capacityLine": "60 g",
   "materialLine": "Key ingredients not stated",
@@ -37049,7 +37102,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/kinded-lilac-purple-oil-based-dual-phase-cleanser-micellar-water-face-eyes-kajal-makeup-remover/p/itm0b7d28dd06e5e",
   "buyStore": "Flipkart",
-  "title": "KINDED Lilac Purple Oil Based Dual Phase Cleanser Micellar Water …",
+  "title": "KINDED Lilac Purple Oil Based Dual Phase Cleanser Micellar Water for Face Eyes Kajal Makeup Remover",
   "tags": [
    "scope:face",
    "format:mist",
@@ -37108,9 +37161,124 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "myeong-itm041d17dce4996",
+  "brand": "MYEONG",
+  "model": "Makeup Remover Quick Makeup Remover, Fresh Fragrance Liquid Micellar Water Makeup Remover",
+  "price": 218,
+  "capacityLine": "100 ml",
+  "materialLine": "aloe vera + cucumber + vitamin E",
+  "featureLine": "Micellar water · Alcohol-free · ₹218/100ml",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "100 ml",
+   "pricePer100": "₹218/100ml",
+   "format": "Micellar water",
+   "keyIngredients": "aloe vera, cucumber, vitamin E (per listing)",
+   "freeFrom": "Alcohol-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/make-up-remover/k/i/x/100-makeup-remover-oil-free-micellar-water-make-up-remover-face-original-imahg6z3rvcmkxa9.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/make-up-remover/i/u/a/100-cleansing-and-make-oil-free-formula-waterproof-myeong-original-imagp6hbznfyztpf.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/make-up-remover/j/6/u/100-makeup-remover-suitable-men-women-lip-and-eye-make-up-original-imahzppysyktfwqg.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/make-up-remover/k/p/m/125-0-micellar-cleansing-water-vitamin-c-duplicate-garnier-enriched-transparent-original-imahewjyaqefahxf.png?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/make-up-remover/1/l/p/50-daily-cleansing-wipe-with-aloe-cucumber-vitamin-e-paraben-original-imahcqfvxkkw5pmp.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/myeong-makeup-remover-quick-remover-fresh-fragrance-liquid-micellar-water/p/itm041d17dce4996",
+  "buyStore": "Flipkart",
+  "title": "MYEONG Makeup Remover Quick Makeup Remover, Fresh Fragrance Liquid Micellar Water Makeup Remover",
+  "tags": [
+   "scope:unstated",
+   "format:oil",
+   "format:pads",
+   "format:wash",
+   "format:micellar",
+   "format:kit",
+   "ing:aloe-vera",
+   "ing:cucumber",
+   "ing:vitamin-e",
+   "ing:calamine",
+   "claim:water-resistant",
+   "claim:makeup",
+   "claim:waterproof-makeup",
+   "skin:sensitive",
+   "skin:all",
+   "free:alcohol",
+   "free:sensitive-safe",
+   "aud:unisex",
+   "size:standard",
+   "rating:none",
+   "store:flipkart",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": true,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
   "id": "sheny-colors-itm8fa95a06f14b3",
   "brand": "SHENY COLORS",
-  "model": "Micellar Makeup Remover Water | Cleanses Dirt, Oil & …",
+  "model": "Micellar Makeup Remover Water | Cleanses Dirt, Oil & Makeup Makeup Remover",
   "price": 84,
   "capacityLine": "200 ml",
   "materialLine": "turmeric + sandalwood + rose",
@@ -37159,13 +37327,14 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/sheny-colors-micellar-makeup-remover-water-cleanses-dirt-oil/p/itm8fa95a06f14b3",
   "buyStore": "Flipkart",
-  "title": "SHENY COLORS Micellar Makeup Remover Water | Cleanses Dirt, Oil & …",
+  "title": "SHENY COLORS Micellar Makeup Remover Water | Cleanses Dirt, Oil & Makeup Makeup Remover",
   "tags": [
    "scope:face",
    "format:oil",
    "format:pads",
    "format:wash",
    "format:micellar",
+   "format:cleansing-oil",
    "ing:turmeric",
    "ing:sandalwood",
    "ing:rose",
@@ -37174,6 +37343,7 @@ const CTPRODUCTS = [
    "claim:water-resistant",
    "claim:cooling",
    "claim:makeup",
+   "claim:waterproof-makeup",
    "skin:all",
    "free:alcohol",
    "free:vegan",
@@ -37225,7 +37395,7 @@ const CTPRODUCTS = [
  {
   "id": "evererin-itm35a882de61d42",
   "brand": "EVERERIN",
-  "model": "Purifying Micellar Cleansing Water and Makeup Removing S …",
+  "model": "Purifying Micellar Cleansing Water and Makeup Removing Solution for All Skin Makeup Remove…",
   "price": 268,
   "capacityLine": "100 ml",
   "materialLine": "aloe vera + cucumber + vitamin E",
@@ -37263,7 +37433,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/make-up-remover/h/g/e/100-purifying-micellar-cleansing-water-and-makeup-removing-original-imahzf58hzg8z68g.jpeg?q=90",
@@ -37274,7 +37445,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/evererin-purifying-micellar-cleansing-water-makeup-removing-solution-all-skin-remover/p/itm35a882de61d42",
   "buyStore": "Flipkart",
-  "title": "EVERERIN Purifying Micellar Cleansing Water and Makeup Removing S …",
+  "title": "EVERERIN Purifying Micellar Cleansing Water and Makeup Removing Solution for All Skin Makeup Remover",
   "tags": [
    "scope:face",
    "format:foam",
@@ -37283,6 +37454,7 @@ const CTPRODUCTS = [
    "format:pads",
    "format:wash",
    "format:micellar",
+   "water:resistant",
    "ing:aloe-vera",
    "ing:cucumber",
    "ing:vitamin-e",
@@ -37291,6 +37463,7 @@ const CTPRODUCTS = [
    "claim:kp",
    "claim:water-resistant",
    "claim:makeup",
+   "claim:waterproof-makeup",
    "skin:combination",
    "skin:all",
    "free:alcohol",
@@ -37401,6 +37574,7 @@ const CTPRODUCTS = [
    "claim:water-resistant",
    "claim:korean",
    "claim:makeup",
+   "claim:waterproof-makeup",
    "skin:all",
    "free:vegan",
    "aud:unisex",
@@ -37450,7 +37624,7 @@ const CTPRODUCTS = [
  {
   "id": "fraileno-itma92eaaa0bbffd",
   "brand": "FRAILENO",
-  "model": "Gentle Makeup Removing Micellar Water for Sensitive and …",
+  "model": "Gentle Makeup Removing Micellar Water for Sensitive and Normal Skin Makeup Remover",
   "price": 122,
   "capacityLine": "100 g",
   "materialLine": "aloe vera + cucumber + vitamin E",
@@ -37499,7 +37673,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/fraileno-gentle-makeup-removing-micellar-water-sensitive-normal-skin-remover/p/itma92eaaa0bbffd",
   "buyStore": "Flipkart",
-  "title": "FRAILENO Gentle Makeup Removing Micellar Water for Sensitive and …",
+  "title": "FRAILENO Gentle Makeup Removing Micellar Water for Sensitive and Normal Skin Makeup Remover",
   "tags": [
    "scope:face",
    "format:mist",
@@ -37564,7 +37738,7 @@ const CTPRODUCTS = [
  {
   "id": "fraileno-itmfc692507d54a5",
   "brand": "FRAILENO",
-  "model": "Advanced Micellar Water Face Cleanser for Makeup Removal …",
+  "model": "Advanced Micellar Water Face Cleanser for Makeup Removal and Daily Skin Care Makeup Remove…",
   "price": 79,
   "capacityLine": "200 g",
   "materialLine": "rose",
@@ -37613,7 +37787,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/fraileno-advanced-micellar-water-face-cleanser-makeup-removal-daily-skin-care-remover/p/itmfc692507d54a5",
   "buyStore": "Flipkart",
-  "title": "FRAILENO Advanced Micellar Water Face Cleanser for Makeup Removal …",
+  "title": "FRAILENO Advanced Micellar Water Face Cleanser for Makeup Removal and Daily Skin Care Makeup Remover",
   "tags": [
    "scope:face",
    "format:toner",
@@ -37626,6 +37800,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:water-resistant",
    "claim:makeup",
+   "claim:waterproof-makeup",
    "skin:oily",
    "skin:all",
    "free:vegan",
@@ -37732,6 +37907,7 @@ const CTPRODUCTS = [
    "format:pads",
    "format:wash",
    "format:micellar",
+   "format:cleansing-oil",
    "ing:aloe-vera",
    "ing:cucumber",
    "ing:vitamin-e",
@@ -37740,6 +37916,7 @@ const CTPRODUCTS = [
    "claim:water-resistant",
    "claim:cooling",
    "claim:makeup",
+   "claim:waterproof-makeup",
    "skin:all",
    "free:alcohol",
    "free:oil-free",
@@ -37850,6 +38027,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:water-resistant",
    "claim:makeup",
+   "claim:waterproof-makeup",
    "skin:all",
    "free:vegan",
    "aud:unisex",
@@ -37899,7 +38077,7 @@ const CTPRODUCTS = [
  {
   "id": "fraileno-itmd5ffa96a02df9",
   "brand": "FRAILENO",
-  "model": "Gentle Daily Micellar Cleansing Water for Refreshing and …",
+  "model": "Gentle Daily Micellar Cleansing Water for Refreshing and Revitalizing Skin Makeup Remover",
   "price": 70,
   "capacityLine": "300 g",
   "materialLine": "niacinamide + aloe vera + cucumber",
@@ -37948,13 +38126,14 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/fraileno-gentle-daily-micellar-cleansing-water-refreshing-revitalizing-skin-makeup-remover/p/itmd5ffa96a02df9",
   "buyStore": "Flipkart",
-  "title": "FRAILENO Gentle Daily Micellar Cleansing Water for Refreshing and …",
+  "title": "FRAILENO Gentle Daily Micellar Cleansing Water for Refreshing and Revitalizing Skin Makeup Remover",
   "tags": [
    "scope:face",
    "format:oil",
    "format:pads",
    "format:wash",
    "format:micellar",
+   "format:cleansing-oil",
    "ing:niacinamide",
    "ing:aloe-vera",
    "ing:cucumber",
@@ -38014,7 +38193,7 @@ const CTPRODUCTS = [
  {
   "id": "fraileno-itm20cec04e5d6c4",
   "brand": "FRAILENO",
-  "model": "Deep Cleansing Micellar Water with Gentle Hydrating for …",
+  "model": "Deep Cleansing Micellar Water with Gentle Hydrating for All Skin PACK OF-2 Makeup Remover",
   "price": 78,
   "capacityLine": "200 g",
   "materialLine": "green tea + rose",
@@ -38063,7 +38242,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/fraileno-deep-cleansing-micellar-water-gentle-hydrating-all-skin-pack-of-2-makeup-remover/p/itm20cec04e5d6c4",
   "buyStore": "Flipkart",
-  "title": "FRAILENO Deep Cleansing Micellar Water with Gentle Hydrating for …",
+  "title": "FRAILENO Deep Cleansing Micellar Water with Gentle Hydrating for All Skin PACK OF-2 Makeup Remover",
   "tags": [
    "scope:face",
    "format:pads",
@@ -38121,7 +38300,7 @@ const CTPRODUCTS = [
  {
   "id": "fraileno-itm931a8ed7dc68b",
   "brand": "FRAILENO",
-  "model": "Refreshing Micellar Cleansing Water for Dirt Oil and Mak …",
+  "model": "Refreshing Micellar Cleansing Water for Dirt Oil and Makeup Removal PACK OF-2 Makeup Remov…",
   "price": 79,
   "capacityLine": "200 g",
   "materialLine": "Key ingredients not stated",
@@ -38170,7 +38349,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/fraileno-refreshing-micellar-cleansing-water-dirt-oil-makeup-removal-pack-of-2-remover/p/itm931a8ed7dc68b",
   "buyStore": "Flipkart",
-  "title": "FRAILENO Refreshing Micellar Cleansing Water for Dirt Oil and Mak …",
+  "title": "FRAILENO Refreshing Micellar Cleansing Water for Dirt Oil and Makeup Removal PACK OF-2 Makeup Remover",
   "tags": [
    "scope:face",
    "format:oil",
@@ -38228,7 +38407,7 @@ const CTPRODUCTS = [
  {
   "id": "fraileno-itmc183ad0825730",
   "brand": "FRAILENO",
-  "model": "2 Crystal Glow Hydrating Micellar Cleansing Water for Da …",
+  "model": "2 Crystal Glow Hydrating Micellar Cleansing Water for Daily Face Cleansing Makeup Remover",
   "price": 79,
   "capacityLine": "200 g",
   "materialLine": "Key ingredients not stated",
@@ -38277,7 +38456,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/fraileno-2-crystal-glow-hydrating-micellar-cleansing-water-daily-face-makeup-remover/p/itmc183ad0825730",
   "buyStore": "Flipkart",
-  "title": "FRAILENO 2 Crystal Glow Hydrating Micellar Cleansing Water for Da …",
+  "title": "FRAILENO 2 Crystal Glow Hydrating Micellar Cleansing Water for Daily Face Cleansing Makeup Remover",
   "tags": [
    "scope:face",
    "format:pads",
@@ -38334,7 +38513,7 @@ const CTPRODUCTS = [
  {
   "id": "fraileno-itm6dfdcf7cafb26",
   "brand": "FRAILENO",
-  "model": "Gentle Facial Micellar Cleansing Water with Hydration an …",
+  "model": "Gentle Facial Micellar Cleansing Water with Hydration and Skin Refresh Formula Makeup Remo…",
   "price": 79,
   "capacityLine": "200 g",
   "materialLine": "aloe vera + cucumber + vitamin E",
@@ -38383,7 +38562,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/fraileno-gentle-facial-micellar-cleansing-water-hydration-skin-refresh-formula-makeup-remover/p/itm6dfdcf7cafb26",
   "buyStore": "Flipkart",
-  "title": "FRAILENO Gentle Facial Micellar Cleansing Water with Hydration an …",
+  "title": "FRAILENO Gentle Facial Micellar Cleansing Water with Hydration and Skin Refresh Formula Makeup Remover",
   "tags": [
    "scope:face",
    "format:pads",
@@ -38397,6 +38576,7 @@ const CTPRODUCTS = [
    "claim:water-resistant",
    "claim:cooling",
    "claim:makeup",
+   "claim:waterproof-makeup",
    "skin:sensitive",
    "free:alcohol",
    "free:vegan",
@@ -38504,6 +38684,7 @@ const CTPRODUCTS = [
    "format:pads",
    "format:wash",
    "format:micellar",
+   "format:cleansing-oil",
    "ing:niacinamide",
    "ing:aloe-vera",
    "ing:cucumber",
@@ -38512,6 +38693,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:water-resistant",
    "claim:makeup",
+   "claim:waterproof-makeup",
    "skin:all",
    "free:alcohol",
    "free:vegan",
@@ -38562,7 +38744,7 @@ const CTPRODUCTS = [
  {
   "id": "fraileno-itm06ad67279cdf1",
   "brand": "FRAILENO",
-  "model": "No Rinse Micellar Cleansing Water for Makeup Removal and …",
+  "model": "No Rinse Micellar Cleansing Water for Makeup Removal and Skin Hydration Makeup Remover",
   "price": 122,
   "capacityLine": "100 g",
   "materialLine": "Key ingredients not stated",
@@ -38611,7 +38793,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/fraileno-no-rinse-micellar-cleansing-water-makeup-removal-skin-hydration-remover/p/itm06ad67279cdf1",
   "buyStore": "Flipkart",
-  "title": "FRAILENO No Rinse Micellar Cleansing Water for Makeup Removal and …",
+  "title": "FRAILENO No Rinse Micellar Cleansing Water for Makeup Removal and Skin Hydration Makeup Remover",
   "tags": [
    "scope:face",
    "format:oil",
@@ -38621,6 +38803,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:water-resistant",
    "claim:makeup",
+   "claim:waterproof-makeup",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -38670,7 +38853,7 @@ const CTPRODUCTS = [
  {
   "id": "fraileno-itma83ae2046f85e",
   "brand": "FRAILENO",
-  "model": "Skin Purifying Micellar Cleansing Water for Removing Mak …",
+  "model": "Skin Purifying Micellar Cleansing Water for Removing Makeup and Impurities Makeup Remover",
   "price": 69,
   "capacityLine": "300 g",
   "materialLine": "Key ingredients not stated",
@@ -38719,7 +38902,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/fraileno-skin-purifying-micellar-cleansing-water-removing-makeup-impurities-remover/p/itma83ae2046f85e",
   "buyStore": "Flipkart",
-  "title": "FRAILENO Skin Purifying Micellar Cleansing Water for Removing Mak …",
+  "title": "FRAILENO Skin Purifying Micellar Cleansing Water for Removing Makeup and Impurities Makeup Remover",
   "tags": [
    "scope:face",
    "format:oil",
@@ -38727,6 +38910,7 @@ const CTPRODUCTS = [
    "format:micellar",
    "claim:water-resistant",
    "claim:makeup",
+   "claim:waterproof-makeup",
    "skin:all",
    "free:vegan",
    "aud:unisex",
@@ -38833,6 +39017,7 @@ const CTPRODUCTS = [
    "format:micellar",
    "claim:water-resistant",
    "claim:makeup",
+   "claim:waterproof-makeup",
    "skin:all",
    "free:vegan",
    "aud:unisex",
@@ -38882,7 +39067,7 @@ const CTPRODUCTS = [
  {
   "id": "bioderma-itmda43831b09b81",
   "brand": "Bioderma",
-  "model": "Sensibio H2O Micellar Water Sensitive Skin Makeup Remove …",
+  "model": "Sensibio H2O Micellar Water Sensitive Skin Makeup Remover",
   "price": 494,
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
@@ -38932,7 +39117,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/bioderma-sensibio-h2o-micellar-water-sensitive-skin-makeup-remover/p/itmda43831b09b81",
   "buyStore": "Flipkart",
-  "title": "BIODERMA Sensibio H2O Micellar Water Sensitive Skin Makeup Remove …",
+  "title": "BIODERMA Sensibio H2O Micellar Water Sensitive Skin Makeup Remover",
   "tags": [
    "scope:unstated",
    "format:micellar",
@@ -38986,7 +39171,7 @@ const CTPRODUCTS = [
  {
   "id": "the-bath-and-care-itm02caa7b5a94e7",
   "brand": "The bath and care",
-  "model": "Micellar Water Gentle Makeup Remover Removes Di …",
+  "model": "Micellar Water Gentle Makeup Remover Removes Dirt Oil Leaves Skin Fresh Clean Makeup Remov…",
   "price": 1324,
   "capacityLine": "100 ml",
   "materialLine": "rose",
@@ -39035,7 +39220,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/bath-care-micellar-water-gentle-makeup-remover-removes-dirt-oil-leaves-skin-fresh-clean/p/itm02caa7b5a94e7",
   "buyStore": "Flipkart",
-  "title": "The bath and care Micellar Water Gentle Makeup Remover Removes Di …",
+  "title": "The bath and care Micellar Water Gentle Makeup Remover Removes Dirt Oil Leaves Skin Fresh Clean Makeup Remover",
   "tags": [
    "scope:face",
    "format:oil",
@@ -39098,7 +39283,7 @@ const CTPRODUCTS = [
  {
   "id": "hiphop-itm9b47c5413467f",
   "brand": "HipHop",
-  "model": "Skincare Skincare Hydrated & Instant Micellar Water Formul …",
+  "model": "Skincare Skincare Hydrated & Instant Micellar Water Formulation Makeup Remover",
   "price": 134,
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
@@ -39147,7 +39332,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/hiphop-skincare-hydrated-instant-micellar-water-formulation-makeup-remover/p/itm9b47c5413467f",
   "buyStore": "Flipkart",
-  "title": "HipHop Skincare Skincare Hydrated & Instant Micellar Water Formul …",
+  "title": "HipHop Skincare Skincare Hydrated & Instant Micellar Water Formulation Makeup Remover",
   "tags": [
    "scope:unstated",
    "format:pads",
@@ -39200,7 +39385,7 @@ const CTPRODUCTS = [
  {
   "id": "colorflix-itm88b1b87500da4",
   "brand": "ColorFlix",
-  "model": "Nourishing & Soothing Micellar Water with Aloe Vera, Ch …",
+  "model": "Nourishing & Soothing Micellar Water with Aloe Vera, Chamomile & Honey Makeup Remover",
   "price": 134,
   "capacityLine": "100 ml",
   "materialLine": "niacinamide + green tea + aloe vera",
@@ -39248,7 +39433,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/colorflix-nourishing-soothing-micellar-water-aloe-vera-chamomile-honey-makeup-remover/p/itm88b1b87500da4",
   "buyStore": "Flipkart",
-  "title": "ColorFlix Nourishing & Soothing Micellar Water with Aloe Vera, Ch …",
+  "title": "ColorFlix Nourishing & Soothing Micellar Water with Aloe Vera, Chamomile & Honey Makeup Remover",
   "tags": [
    "scope:unstated",
    "format:wash",
@@ -39312,7 +39497,7 @@ const CTPRODUCTS = [
  {
   "id": "simple-face-itm6d5deac7d803f",
   "brand": "SIMPLE FACE",
-  "model": "Kind to Skin Cleansing Water, Micellar Face Wash (200 …",
+  "model": "Kind to Skin Cleansing Water, Micellar Face Wash",
   "price": 1330,
   "capacityLine": "280 g (pack of 2)",
   "materialLine": "vitamin C",
@@ -39360,7 +39545,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/simple-face-kind-skin-cleansing-water-micellar-wash/p/itm6d5deac7d803f",
   "buyStore": "Flipkart",
-  "title": "SIMPLE FACE Kind to Skin Cleansing Water, Micellar Face Wash (200 …",
+  "title": "SIMPLE FACE Kind to Skin Cleansing Water, Micellar Face Wash",
   "tags": [
    "scope:face",
    "format:bar",
@@ -39423,7 +39608,7 @@ const CTPRODUCTS = [
  {
   "id": "volamena-itma5ca517640c10",
   "brand": "Volamena",
-  "model": "Rose and Jasmine Micellar water Cleanse & Sothes for Lip …",
+  "model": "Rose and Jasmine Micellar water Cleanse & Sothes for Lips & Face Women",
   "price": 168,
   "capacityLine": "200 ml",
   "materialLine": "rose",
@@ -39473,7 +39658,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/volamena-rose-jasmine-micellar-water-cleanse-sothes-lips-face-women/p/itma5ca517640c10",
   "buyStore": "Flipkart",
-  "title": "Volamena Rose and Jasmine Micellar water Cleanse & Sothes for Lip …",
+  "title": "Volamena Rose and Jasmine Micellar water Cleanse & Sothes for Lips & Face Women",
   "tags": [
    "scope:both",
    "format:toner",
@@ -39530,7 +39715,7 @@ const CTPRODUCTS = [
  {
   "id": "tulips-itm1950b6f762f13",
   "brand": "Tulips",
-  "model": "Premium Micellar Water I For Eyes, Face, Lips Waterproof M …",
+  "model": "Premium Micellar Water I For Eyes, Face, Lips Waterproof Makeup Remover",
   "price": 112,
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
@@ -39579,7 +39764,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/tulips-premium-micellar-water-eyes-face-lips-waterproof-makeup-remover/p/itm1950b6f762f13",
   "buyStore": "Flipkart",
-  "title": "Tulips Premium Micellar Water I For Eyes, Face, Lips Waterproof M …",
+  "title": "Tulips Premium Micellar Water I For Eyes, Face, Lips Waterproof Makeup Remover",
   "tags": [
    "scope:face",
    "format:wash",
@@ -39588,6 +39773,7 @@ const CTPRODUCTS = [
    "claim:soothing",
    "claim:water-resistant",
    "claim:makeup",
+   "claim:waterproof-makeup",
    "skin:sensitive",
    "free:sensitive-safe",
    "aud:unisex",
@@ -39636,7 +39822,7 @@ const CTPRODUCTS = [
  {
   "id": "myeong-itm2b0ee1311f884",
   "brand": "MYEONG",
-  "model": "Micellar Water for Makeup Removal Makeup Remover Makeup Re …",
+  "model": "Micellar Water for Makeup Removal Makeup Remover Makeup Remover",
   "price": 303,
   "capacityLine": "100 g",
   "materialLine": "niacinamide",
@@ -39685,7 +39871,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/myeong-micellar-water-makeup-removal-remover/p/itm2b0ee1311f884",
   "buyStore": "Flipkart",
-  "title": "MYEONG Micellar Water for Makeup Removal Makeup Remover Makeup Re …",
+  "title": "MYEONG Micellar Water for Makeup Removal Makeup Remover Makeup Remover",
   "tags": [
    "scope:unstated",
    "format:gel",
@@ -39698,6 +39884,7 @@ const CTPRODUCTS = [
    "claim:soothing",
    "claim:water-resistant",
    "claim:makeup",
+   "claim:waterproof-makeup",
    "skin:oily",
    "skin:all",
    "free:vegan",
@@ -39748,7 +39935,7 @@ const CTPRODUCTS = [
  {
   "id": "myeong-itmf42569e015590",
   "brand": "MYEONG",
-  "model": "Makeup Remover Micellar Cleansing Water Makeup Remover Mak …",
+  "model": "Makeup Remover Micellar Cleansing Water Makeup Remover Makeup Remover",
   "price": 592,
   "capacityLine": "60 ml",
   "materialLine": "Key ingredients not stated",
@@ -39797,7 +39984,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/myeong-makeup-remover-micellar-cleansing-water/p/itmf42569e015590",
   "buyStore": "Flipkart",
-  "title": "MYEONG Makeup Remover Micellar Cleansing Water Makeup Remover Mak …",
+  "title": "MYEONG Makeup Remover Micellar Cleansing Water Makeup Remover Makeup Remover",
   "tags": [
    "scope:face",
    "format:cream",
@@ -39859,7 +40046,7 @@ const CTPRODUCTS = [
  {
   "id": "myeong-itmbbdda795140a6",
   "brand": "MYEONG",
-  "model": "Micellar Water Makeup Remover Micellar Cleansing Water Mak …",
+  "model": "Micellar Water Makeup Remover Micellar Cleansing Water Makeup Remover Makeup Remover",
   "price": 623,
   "capacityLine": "60 ml",
   "materialLine": "aloe vera + cucumber + vitamin E",
@@ -39908,7 +40095,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/myeong-micellar-water-makeup-remover-cleansing/p/itmbbdda795140a6",
   "buyStore": "Flipkart",
-  "title": "MYEONG Micellar Water Makeup Remover Micellar Cleansing Water Mak …",
+  "title": "MYEONG Micellar Water Makeup Remover Micellar Cleansing Water Makeup Remover Makeup Remover",
   "tags": [
    "scope:unstated",
    "format:cream",
@@ -39969,7 +40156,7 @@ const CTPRODUCTS = [
  {
   "id": "emijun-itm88485bf173e40",
   "brand": "Emijun",
-  "model": "Micellar Water Makeup Removal |Hydrating Makeup Remover |F …",
+  "model": "Micellar Water Makeup Removal |Hydrating Makeup Remover |For All Skin Types Makeup Remover",
   "price": 206,
   "capacityLine": "100 ml",
   "materialLine": "aloe vera + cucumber + vitamin E",
@@ -40018,13 +40205,14 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/emijun-micellar-water-makeup-removal-hydrating-remover-for-all-skin-types/p/itm88485bf173e40",
   "buyStore": "Flipkart",
-  "title": "Emijun Micellar Water Makeup Removal |Hydrating Makeup Remover |F …",
+  "title": "Emijun Micellar Water Makeup Removal |Hydrating Makeup Remover |For All Skin Types Makeup Remover",
   "tags": [
    "scope:unstated",
    "format:oil",
    "format:pads",
    "format:wash",
    "format:micellar",
+   "format:cleansing-oil",
    "ing:aloe-vera",
    "ing:cucumber",
    "ing:vitamin-e",
@@ -40032,6 +40220,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:water-resistant",
    "claim:makeup",
+   "claim:waterproof-makeup",
    "skin:sensitive",
    "skin:all",
    "free:alcohol",
@@ -40083,7 +40272,7 @@ const CTPRODUCTS = [
  {
   "id": "sheny-colors-itmfb5132deada49",
   "brand": "SHENY COLORS",
-  "model": "Comforting Micellar Eye Makeup Cleansing Water with …",
+  "model": "Comforting Micellar Eye Makeup Cleansing Water with Ceramides Makeup Remover",
   "price": 80,
   "capacityLine": "200 g",
   "materialLine": "ceramides",
@@ -40132,7 +40321,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/sheny-colors-comforting-micellar-eye-makeup-cleansing-water-ceramides-remover/p/itmfb5132deada49",
   "buyStore": "Flipkart",
-  "title": "SHENY COLORS Comforting Micellar Eye Makeup Cleansing Water with …",
+  "title": "SHENY COLORS Comforting Micellar Eye Makeup Cleansing Water with Ceramides Makeup Remover",
   "tags": [
    "scope:face",
    "format:wash",
@@ -40143,6 +40332,7 @@ const CTPRODUCTS = [
    "claim:water-resistant",
    "claim:lightweight",
    "claim:makeup",
+   "claim:waterproof-makeup",
    "skin:all",
    "free:vegan",
    "aud:unisex",
@@ -40192,11 +40382,11 @@ const CTPRODUCTS = [
  {
   "id": "dr-algar-itm07b2c1a6a8cfa",
   "brand": "Dr. Algar",
-  "model": "Micellar water Makeup Remover (100 ml)",
+  "model": "Micellar water Makeup Remover",
   "price": 135,
-  "capacityLine": "100 ml",
+  "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Micellar water · ₹135/100ml",
+  "featureLine": "Micellar water",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -40210,8 +40400,8 @@ const CTPRODUCTS = [
    "experience": 1.7
   },
   "fullSpec": {
-   "quantity": "100 ml",
-   "pricePer100": "₹135/100ml",
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
    "format": "Micellar water",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -40229,6 +40419,7 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
+   "declaredManufacturer": "janki herbals pvt ltd (as printed on the Flipkart listing — not scored)",
    "buyerEvidence": "3.5★ from 8 ratings"
   },
   "images": [
@@ -40240,13 +40431,12 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/dr-algar-micellar-water-makeup-remover/p/itm07b2c1a6a8cfa",
   "buyStore": "Flipkart",
-  "title": "Dr. Algar Micellar water Makeup Remover (100 ml)",
+  "title": "Dr. Algar Micellar water Makeup Remover",
   "tags": [
    "scope:unstated",
    "format:micellar",
    "claim:makeup",
    "aud:unisex",
-   "size:standard",
    "rating:3.5",
    "store:flipkart",
    "inci:none"
@@ -40462,7 +40652,7 @@ const CTPRODUCTS = [
  {
   "id": "fraileno-itme68ec8f8c553b",
   "brand": "FRAILENO",
-  "model": "Crystal Glow Micellar Cleansing Water for Makeup Removal …",
+  "model": "Crystal Glow Micellar Cleansing Water for Makeup Removal and Daily Face Makeup Remover",
   "price": 122,
   "capacityLine": "100 g",
   "materialLine": "Key ingredients not stated",
@@ -40511,7 +40701,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/fraileno-crystal-glow-micellar-cleansing-water-makeup-removal-daily-face-remover/p/itme68ec8f8c553b",
   "buyStore": "Flipkart",
-  "title": "FRAILENO Crystal Glow Micellar Cleansing Water for Makeup Removal …",
+  "title": "FRAILENO Crystal Glow Micellar Cleansing Water for Makeup Removal and Daily Face Makeup Remover",
   "tags": [
    "scope:face",
    "format:mist",
@@ -40524,6 +40714,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:water-resistant",
    "claim:makeup",
+   "claim:waterproof-makeup",
    "skin:oily",
    "skin:all",
    "free:oil-free",
@@ -40677,7 +40868,7 @@ const CTPRODUCTS = [
  {
   "id": "atulya-itm3c58a3f5c53ab",
   "brand": "Atulya",
-  "model": "Coconut Micellar Water that removes makeup and refreshes M …",
+  "model": "Coconut Micellar Water that removes makeup and refreshes Makeup Remover",
   "price": 222,
   "capacityLine": "100 ml",
   "materialLine": "Key ingredients not stated",
@@ -40726,7 +40917,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/atulya-coconut-micellar-water-removes-makeup-refreshes-remover/p/itm3c58a3f5c53ab",
   "buyStore": "Flipkart",
-  "title": "Atulya Coconut Micellar Water that removes makeup and refreshes M …",
+  "title": "Atulya Coconut Micellar Water that removes makeup and refreshes Makeup Remover",
   "tags": [
    "scope:face",
    "format:wash",
@@ -40783,7 +40974,7 @@ const CTPRODUCTS = [
  {
   "id": "inatur-itm3f26b596d831c",
   "brand": "inatur",
-  "model": "Micellar Cleansing Water| Gentle & Hydrating Cleanser with …",
+  "model": "Micellar Cleansing Water| Gentle & Hydrating Cleanser with Jojoba Oil Face Wash",
   "price": 160,
   "capacityLine": "100 ml",
   "materialLine": "Key ingredients not stated",
@@ -40831,12 +41022,13 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/inatur-micellar-cleansing-water-gentle-hydrating-cleanser-jojoba-oil-face-wash/p/itm3f26b596d831c",
   "buyStore": "Flipkart",
-  "title": "inatur Micellar Cleansing Water| Gentle & Hydrating Cleanser with …",
+  "title": "inatur Micellar Cleansing Water| Gentle & Hydrating Cleanser with Jojoba Oil Face Wash",
   "tags": [
    "scope:face",
    "format:oil",
    "format:wash",
    "format:micellar",
+   "format:cleansing-oil",
    "ing:jojoba",
    "ing:calendula",
    "claim:hydrating",
@@ -40890,11 +41082,11 @@ const CTPRODUCTS = [
  {
   "id": "dermafique-itm9540a93827eb7",
   "brand": "Dermafique",
-  "model": "Micellar Water Makeup Cleanser Makeup Remover (150 ml)",
+  "model": "Micellar Water Makeup Cleanser Makeup Remover",
   "price": 228,
-  "capacityLine": "150 ml",
+  "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Micellar water · ₹152/100ml",
+  "featureLine": "Micellar water",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "Well-reviewed: 4.4★ from 78 ratings"
@@ -40909,8 +41101,8 @@ const CTPRODUCTS = [
    "experience": 5.9
   },
   "fullSpec": {
-   "quantity": "150 ml",
-   "pricePer100": "₹152/100ml",
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
    "format": "Micellar water",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -40940,14 +41132,13 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/dermafique-micellar-water-makeup-cleanser-remover/p/itm9540a93827eb7",
   "buyStore": "Flipkart",
-  "title": "Dermafique Micellar Water Makeup Cleanser Makeup Remover (150 ml)",
+  "title": "Dermafique Micellar Water Makeup Cleanser Makeup Remover",
   "tags": [
    "scope:unstated",
    "format:wash",
    "format:micellar",
    "claim:makeup",
    "aud:unisex",
-   "size:large",
    "rating:4.0",
    "store:flipkart",
    "inci:none"
@@ -40993,7 +41184,7 @@ const CTPRODUCTS = [
  {
   "id": "dr-algar-itm8cf2f14ec5b00",
   "brand": "Dr. Algar",
-  "model": "Micellar Cleansing Water with Aloe Vera, Green Tea and …",
+  "model": "Micellar Cleansing Water with Aloe Vera, Green Tea and Niacinamide | Pack of 3 Makeup Remo…",
   "price": 86,
   "capacityLine": "300 g (pack of 3)",
   "materialLine": "niacinamide + green tea + aloe vera",
@@ -41042,7 +41233,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/dr-algar-micellar-cleansing-water-aloe-vera-green-tea-niacinamide-pack-3-makeup-remover/p/itm8cf2f14ec5b00",
   "buyStore": "Flipkart",
-  "title": "Dr. Algar Micellar Cleansing Water with Aloe Vera, Green Tea and …",
+  "title": "Dr. Algar Micellar Cleansing Water with Aloe Vera, Green Tea and Niacinamide | Pack of 3 Makeup Remover",
   "tags": [
    "scope:unstated",
    "format:pads",
@@ -41103,7 +41294,7 @@ const CTPRODUCTS = [
  {
   "id": "oriflame-itm6c2ab887746c7",
   "brand": "Oriflame",
-  "model": "Love Nature Calming Micellar Water with Chia & Organic H …",
+  "model": "Love Nature Calming Micellar Water with Chia & Organic Honey Men & Women",
   "price": 321,
   "capacityLine": "150 ml",
   "materialLine": "aloe vera + honey",
@@ -41151,7 +41342,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/oriflame-love-nature-calming-micellar-water-chia-organic-honey-men-women/p/itm6c2ab887746c7",
   "buyStore": "Flipkart",
-  "title": "Oriflame Love Nature Calming Micellar Water with Chia & Organic H …",
+  "title": "Oriflame Love Nature Calming Micellar Water with Chia & Organic Honey Men & Women",
   "tags": [
    "scope:face",
    "format:toner",
@@ -41215,7 +41406,7 @@ const CTPRODUCTS = [
  {
   "id": "winry-itm2380c0864529a",
   "brand": "winry",
-  "model": "Micellar Face Cleanser with Refreshing Formula for Daily Us …",
+  "model": "Micellar Face Cleanser with Refreshing Formula for Daily Use Men & Women",
   "price": 138,
   "capacityLine": "660 g",
   "materialLine": "aloe vera + rose",
@@ -41264,7 +41455,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/winry-micellar-face-cleanser-refreshing-formula-daily-use-men-women/p/itm2380c0864529a",
   "buyStore": "Flipkart",
-  "title": "winry Micellar Face Cleanser with Refreshing Formula for Daily Us …",
+  "title": "winry Micellar Face Cleanser with Refreshing Formula for Daily Use Men & Women",
   "tags": [
    "scope:both",
    "format:gel",
@@ -41327,7 +41518,7 @@ const CTPRODUCTS = [
  {
   "id": "winry-itma7988cab92a53",
   "brand": "winry",
-  "model": "Face Cleansing Micellar Water | No-Rinse Formula | Daily Sk …",
+  "model": "Face Cleansing Micellar Water | No-Rinse Formula | Daily Skin Care Men & Women",
   "price": 123,
   "capacityLine": "100 g",
   "materialLine": "rose",
@@ -41376,7 +41567,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/winry-face-cleansing-micellar-water-no-rinse-formula-daily-skin-care-men-women/p/itma7988cab92a53",
   "buyStore": "Flipkart",
-  "title": "winry Face Cleansing Micellar Water | No-Rinse Formula | Daily Sk …",
+  "title": "winry Face Cleansing Micellar Water | No-Rinse Formula | Daily Skin Care Men & Women",
   "tags": [
    "scope:both",
    "format:cream",
@@ -41499,6 +41690,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:water-resistant",
    "claim:makeup",
+   "claim:waterproof-makeup",
    "skin:all",
    "free:vegan",
    "aud:unisex",
@@ -41652,7 +41844,7 @@ const CTPRODUCTS = [
  {
   "id": "colorbar-itm5cabc2742c117",
   "brand": "Colorbar",
-  "model": "Ultimate Micellar Cleansing Water 150ml Makeup Remover ( …",
+  "model": "Ultimate Micellar Cleansing Water 150ml Makeup Remover",
   "price": 173,
   "capacityLine": "150 ml",
   "materialLine": "Key ingredients not stated",
@@ -41704,7 +41896,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/colorbar-ultimate-micellar-cleansing-water-150ml-makeup-remover/p/itm5cabc2742c117",
   "buyStore": "Flipkart",
-  "title": "COLORBAR Ultimate Micellar Cleansing Water 150ml Makeup Remover ( …",
+  "title": "COLORBAR Ultimate Micellar Cleansing Water 150ml Makeup Remover",
   "tags": [
    "scope:unstated",
    "format:wash",
@@ -41799,7 +41991,7 @@ const CTPRODUCTS = [
  {
   "id": "oriflame-sweden-itm34685ed99971b",
   "brand": "Oriflame Sweden",
-  "model": "Love Nature Calming Micellar Water with chia & or …",
+  "model": "Love Nature Calming Micellar Water with chia & organic honey-150ml.",
   "price": 594,
   "capacityLine": "150 ml",
   "materialLine": "niacinamide + honey",
@@ -41847,7 +42039,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/oriflame-sweden-love-nature-calming-micellar-water-chia-organic-honey-150ml/p/itm34685ed99971b",
   "buyStore": "Flipkart",
-  "title": "Oriflame Sweden Love Nature Calming Micellar Water with chia & or …",
+  "title": "Oriflame Sweden Love Nature Calming Micellar Water with chia & organic honey-150ml.",
   "tags": [
    "scope:face",
    "format:serum",
@@ -41907,7 +42099,7 @@ const CTPRODUCTS = [
  {
   "id": "frilwing-itma4caa2a8816c6",
   "brand": "FRILWING",
-  "model": "Oil Free Micellar Water Makeup Remover For Face Makeup R …",
+  "model": "Oil Free Micellar Water Makeup Remover For Face Makeup Remover",
   "price": 290,
   "capacityLine": "80 ml",
   "materialLine": "Key ingredients not stated",
@@ -41956,7 +42148,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/frilwing-oil-free-micellar-water-makeup-remover-face/p/itma4caa2a8816c6",
   "buyStore": "Flipkart",
-  "title": "FRILWING Oil Free Micellar Water Makeup Remover For Face Makeup R …",
+  "title": "FRILWING Oil Free Micellar Water Makeup Remover For Face Makeup Remover",
   "tags": [
    "scope:face",
    "format:wash",
@@ -42012,7 +42204,7 @@ const CTPRODUCTS = [
  {
   "id": "fraileno-itm609cd3f3a50bc",
   "brand": "FRAILENO",
-  "model": "SET -3 Gentle Daily Micellar Cleansing Water for Refresh …",
+  "model": "SET -3 Gentle Daily Micellar Cleansing Water for Refreshing and Revitalizing Makeup Remove…",
   "price": 70,
   "capacityLine": "300 g",
   "materialLine": "Key ingredients not stated",
@@ -42061,7 +42253,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/fraileno-set-3-gentle-daily-micellar-cleansing-water-refreshing-revitalizing-makeup-remover/p/itm609cd3f3a50bc",
   "buyStore": "Flipkart",
-  "title": "FRAILENO SET -3 Gentle Daily Micellar Cleansing Water for Refresh …",
+  "title": "FRAILENO SET -3 Gentle Daily Micellar Cleansing Water for Refreshing and Revitalizing Makeup Remover",
   "tags": [
    "scope:face",
    "format:oil",
@@ -42072,6 +42264,7 @@ const CTPRODUCTS = [
    "claim:water-resistant",
    "claim:cooling",
    "claim:makeup",
+   "claim:waterproof-makeup",
    "skin:all",
    "free:vegan",
    "aud:unisex",
@@ -42121,7 +42314,7 @@ const CTPRODUCTS = [
  {
   "id": "fraileno-itma4a6058e23ca5",
   "brand": "FRAILENO",
-  "model": "Daily Hydrating Micellar Water Face Cleanser with Refres …",
+  "model": "Daily Hydrating Micellar Water Face Cleanser with Refreshing Formula Makeup Remover",
   "price": 122,
   "capacityLine": "100 g",
   "materialLine": "Key ingredients not stated",
@@ -42170,7 +42363,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/fraileno-daily-hydrating-micellar-water-face-cleanser-refreshing-formula-makeup-remover/p/itma4a6058e23ca5",
   "buyStore": "Flipkart",
-  "title": "FRAILENO Daily Hydrating Micellar Water Face Cleanser with Refres …",
+  "title": "FRAILENO Daily Hydrating Micellar Water Face Cleanser with Refreshing Formula Makeup Remover",
   "tags": [
    "scope:face",
    "format:mist",
@@ -42228,7 +42421,7 @@ const CTPRODUCTS = [
  {
   "id": "oriflame-sweden-itm2c2bb40c3587d",
   "brand": "Oriflame Sweden",
-  "model": "Optimals Soothing Micellar Cleansing Water and Co …",
+  "model": "Optimals Soothing Micellar Cleansing Water and Comforting Facial Tomer",
   "price": 761,
   "capacityLine": "75 g",
   "materialLine": "hyaluronic acid + tea tree + vitamin E",
@@ -42276,7 +42469,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/oriflame-sweden-optimals-soothing-micellar-cleansing-water-comforting-facial-tomer/p/itm2c2bb40c3587d",
   "buyStore": "Flipkart",
-  "title": "Oriflame Sweden Optimals Soothing Micellar Cleansing Water and Co …",
+  "title": "Oriflame Sweden Optimals Soothing Micellar Cleansing Water and Comforting Facial Tomer",
   "tags": [
    "scope:face",
    "format:gel",
@@ -42494,7 +42687,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/3/p/f/brightening-knee-roll-on-micellar-water-knee-care-gentle-original-imahf4a7gh482597.jpeg?q=90",
@@ -42514,6 +42708,7 @@ const CTPRODUCTS = [
    "format:micellar",
    "format:roll-on",
    "format:kit",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -42792,7 +42987,7 @@ const CTPRODUCTS = [
  {
   "id": "myeong-itma2daacfba860a",
   "brand": "MYEONG",
-  "model": "Micellar Water - Gentle Cleanser For All Skin Type, Get 10 …",
+  "model": "Micellar Water - Gentle Cleanser For All Skin Type, Get 100% Clean Skin Face Wash",
   "price": 256,
   "capacityLine": "250 g",
   "materialLine": "rose + neem",
@@ -42841,7 +43036,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/myeong-micellar-water-gentle-cleanser-all-skin-type-get-100-clean-face-wash/p/itma2daacfba860a",
   "buyStore": "Flipkart",
-  "title": "MYEONG Micellar Water - Gentle Cleanser For All Skin Type, Get 10 …",
+  "title": "MYEONG Micellar Water - Gentle Cleanser For All Skin Type, Get 100% Clean Skin Face Wash",
   "tags": [
    "scope:face",
    "format:foam",
@@ -42902,7 +43097,7 @@ const CTPRODUCTS = [
  {
   "id": "fraileno-itm7750eb2567d63",
   "brand": "FRAILENO",
-  "model": "Crystal Glow Deep Cleansing Micellar Water for Fresh and …",
+  "model": "Crystal Glow Deep Cleansing Micellar Water for Fresh and Clean Skin Makeup Remover",
   "price": 122,
   "capacityLine": "100 g",
   "materialLine": "green tea + aloe vera + rose",
@@ -42951,7 +43146,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/fraileno-crystal-glow-deep-cleansing-micellar-water-fresh-clean-skin-makeup-remover/p/itm7750eb2567d63",
   "buyStore": "Flipkart",
-  "title": "FRAILENO Crystal Glow Deep Cleansing Micellar Water for Fresh and …",
+  "title": "FRAILENO Crystal Glow Deep Cleansing Micellar Water for Fresh and Clean Skin Makeup Remover",
   "tags": [
    "scope:face",
    "format:pads",
@@ -51593,7 +51788,7 @@ const CTPRODUCTS = [
    "Added fragrance (parfum): fragrance"
   ],
   "scores": {
-   "ingredients": 5,
+   "ingredients": 5.2,
    "skin": 8.3,
    "trust": 7,
    "experience": 8.2
@@ -51688,6 +51883,14 @@ const CTPRODUCTS = [
      "core": false,
      "trace": false,
      "src": "squalane"
+    },
+    {
+     "name": "beeswax",
+     "grade": "B",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
     },
     {
      "name": "glycerin",
@@ -52274,7 +52477,7 @@ const CTPRODUCTS = [
  {
   "id": "acnestar-itm69c210426fa7d",
   "brand": "acnestar",
-  "model": "MANKIND FACEWASH & GEL PACK OF 1 Face Wash (95 g)",
+  "model": "MANKIND FACEWASH & GEL PACK OF 1 Face Wash",
   "price": 169,
   "capacityLine": "95 g",
   "materialLine": "Key ingredients not stated",
@@ -52323,7 +52526,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/acnestar-mankind-facewash-gel-pack-1-face-wash/p/itm69c210426fa7d",
   "buyStore": "Flipkart",
-  "title": "acnestar MANKIND FACEWASH & GEL PACK OF 1 Face Wash (95 g)",
+  "title": "acnestar MANKIND FACEWASH & GEL PACK OF 1 Face Wash",
   "tags": [
    "scope:face",
    "format:gel",
@@ -56830,7 +57033,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Ethicare Remedies — Dermatology / pharmaceutical manufacturer",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/2/h/4/face-wash-with-kojic-acid-vitamin-c-salicylic-acid-70gm-360-original-imahncpsyf9zhjch.jpeg?q=90",
@@ -56851,6 +57055,7 @@ const CTPRODUCTS = [
    "format:wash",
    "format:kit",
    "spf:50+",
+   "water:resistant",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -56952,7 +57157,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/7/i/k/anti-acne-combo-2-salicylic-acid-face-wash-100ml-niacinamide-10-original-imahzah93mhd7qfv.jpeg?q=90",
@@ -56974,6 +57180,7 @@ const CTPRODUCTS = [
    "format:patch",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -57513,7 +57720,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Ethicare Remedies — Dermatology / pharmaceutical manufacturer",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/q/n/v/face-wash-with-kojic-acid-vitamin-c-salicylic-acid-200gm-ac-original-imahncpqzhhhdqpf.jpeg?q=90",
@@ -57535,6 +57743,7 @@ const CTPRODUCTS = [
    "format:wash",
    "format:kit",
    "spf:50+",
+   "water:resistant",
    "ing:vitamin-c",
    "ing:salicylic-acid-bha",
    "ing:kojic-acid",
@@ -57638,7 +57847,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−0.8)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.1★ from 48 ratings",
-   "concernBasis": "Acne — niacinamide #6 on INCI, salicylic acid #13 on INCI; Dark spots — kojic acid #5 on INCI, niacinamide #6 on INCI, alpha-arbutin #7 on INCI, ascorbic acid #16 on INCI; Aging — ascorbic acid #16 on INCI; Irritation — panthenol #18 on INCI, ceramide np #26 on INCI, ceramide ap #27 on INCI, ceramide eop #28 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #6 on INCI, salicylic acid #13 on INCI; Dark spots — kojic acid #5 on INCI, niacinamide #6 on INCI, alpha-arbutin #7 on INCI, ascorbic acid #16 on INCI; Aging — ascorbic acid #16 on INCI; Irritation — panthenol #18 on INCI, ceramide np #26 on INCI, ceramide ap #27 on INCI, ceramide eop #28 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-combo-kit/z/x/r/bright-even-tone-kit-face-wash-kojic-acid-serum-sunscreen-pa-po3-original-imahz36eegytefz7.jpeg?q=90",
@@ -57657,6 +57867,7 @@ const CTPRODUCTS = [
    "format:wash",
    "format:kit",
    "pa:++++",
+   "water:unstated",
    "ing:kojic-acid",
    "claim:brightening",
    "claim:dark-spots",
@@ -58995,6 +59206,7 @@ const CTPRODUCTS = [
    "ing:zinc",
    "ing:pearl",
    "ing:lavender",
+   "ing:menthol",
    "claim:brightening",
    "claim:dark-spots",
    "claim:acne",
@@ -59278,7 +59490,7 @@ const CTPRODUCTS = [
  {
   "id": "underrated-itm9127a4538e17a",
   "brand": "Underrated",
-  "model": "2% Salicylic Acid Face Cleanser | Deep Pore Cleansing, …",
+  "model": "2% Salicylic Acid Face Cleanser | Deep Pore Cleansing, Oil Control & Blemish Care | With N…",
   "price": 215,
   "capacityLine": "100 ml",
   "materialLine": "niacinamide + salicylic acid (BHA) + zinc",
@@ -59328,7 +59540,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/underrated-2-salicylic-acid-face-cleanser-deep-pore-cleansing-oil-control-blemish-care-niacinamide-zinc-wash/p/itm9127a4538e17a",
   "buyStore": "Flipkart",
-  "title": "Underrated 2% Salicylic Acid Face Cleanser | Deep Pore Cleansing, …",
+  "title": "Underrated 2% Salicylic Acid Face Cleanser | Deep Pore Cleansing, Oil Control & Blemish Care | With Niacinamide & Zinc Face Wash",
   "tags": [
    "scope:face",
    "format:foam",
@@ -61309,7 +61521,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/u/z/a/aloevita-multipurpose-gel-fresh-glow-face-wash-and-gentle-care-original-imahbnh2c83nsmgj.jpeg?q=90",
@@ -61330,6 +61543,7 @@ const CTPRODUCTS = [
    "format:scrub",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:saffron",
    "claim:brightening",
    "claim:de-tan",
@@ -61539,7 +61753,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/5/8/u/skincare-set-aha-bha-foaming-face-wash-100ml-gentle-cleanser-original-imahcn47ugpeywsu.jpeg?q=90",
@@ -61559,6 +61774,7 @@ const CTPRODUCTS = [
    "format:wash",
    "format:kit",
    "sun:mineral",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
@@ -62143,6 +62359,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:wash",
+   "format:cleansing-oil",
    "ing:vitamin-c",
    "ing:salicylic-acid-bha",
    "ing:aloe-vera",
@@ -69096,7 +69313,7 @@ const CTPRODUCTS = [
  {
   "id": "leaste-itm23e9e30c26c7d",
   "brand": "leaste",
-  "model": "Deep Cleansing Oil for Makeup, Dirt, and Oil Removal (60 m …",
+  "model": "Deep Cleansing Oil for Makeup, Dirt, and Oil Removal",
   "price": 865,
   "capacityLine": "60 ml",
   "materialLine": "Key ingredients not stated",
@@ -69145,11 +69362,12 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/leaste-deep-cleansing-oil-makeup-dirt-removal/p/itm23e9e30c26c7d",
   "buyStore": "Flipkart",
-  "title": "leaste Deep Cleansing Oil for Makeup, Dirt, and Oil Removal (60 m …",
+  "title": "leaste Deep Cleansing Oil for Makeup, Dirt, and Oil Removal",
   "tags": [
    "scope:face",
    "format:oil",
    "format:wash",
+   "format:cleansing-oil",
    "claim:makeup",
    "skin:all",
    "aud:women",
@@ -69199,7 +69417,7 @@ const CTPRODUCTS = [
  {
   "id": "leaste-itm6d1c8194bab5b",
   "brand": "leaste",
-  "model": "Deep Cleansing Oil for Smooth Makeup Removal (60 ml)",
+  "model": "Deep Cleansing Oil for Smooth Makeup Removal",
   "price": 865,
   "capacityLine": "60 ml",
   "materialLine": "Key ingredients not stated",
@@ -69248,11 +69466,12 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/leaste-deep-cleansing-oil-smooth-makeup-removal/p/itm6d1c8194bab5b",
   "buyStore": "Flipkart",
-  "title": "leaste Deep Cleansing Oil for Smooth Makeup Removal (60 ml)",
+  "title": "leaste Deep Cleansing Oil for Smooth Makeup Removal",
   "tags": [
    "scope:face",
    "format:oil",
    "format:wash",
+   "format:cleansing-oil",
    "claim:lightweight",
    "claim:makeup",
    "skin:all",
@@ -69797,6 +70016,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:oil",
    "format:wash",
+   "format:cleansing-oil",
    "ing:coffee",
    "ing:aloe-vera",
    "ing:milk",
@@ -70115,7 +70335,8 @@ const CTPRODUCTS = [
    "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
-   "buyerEvidence": "4.4★ from 12 ratings"
+   "buyerEvidence": "4.4★ from 12 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/t/x/q/100-marula-oil-05-cleansing-oil-minimalist-original-imahzzdgdzb32wxn.jpeg?q=90",
@@ -70132,6 +70353,8 @@ const CTPRODUCTS = [
    "format:oil",
    "format:pack",
    "format:wash",
+   "format:cleansing-oil",
+   "water:unstated",
    "ing:vitamin-e",
    "claim:hydrating",
    "skin:all",
@@ -70699,7 +70922,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Laboratoires Noreva — Dermatology / pharmaceutical manufacturer",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/skin-treatment/q/o/7/200-soothing-cleansing-gel-for-sensitive-skin-gentle-soap-free-original-imahnvh3gsjk4bjv.jpeg?q=90",
@@ -70714,6 +70938,7 @@ const CTPRODUCTS = [
    "format:gel",
    "format:bar",
    "format:wash",
+   "water:unstated",
    "ing:glycerin",
    "claim:soothing",
    "skin:sensitive",
@@ -71285,6 +71510,7 @@ const CTPRODUCTS = [
    "format:kit",
    "ing:licorice",
    "ing:chamomile",
+   "ing:menthol",
    "claim:brightening",
    "claim:acne",
    "claim:oil-control",
@@ -78009,7 +78235,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−0.8)",
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
    "buyerEvidence": "4.2★ from 0 ratings",
-   "concernBasis": "Acne — niacinamide #7 on INCI; Dark spots — niacinamide #7 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #7 on INCI; Dark spots — niacinamide #7 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41UOZOZKBOL._AC_UL320_.jpg"
@@ -78022,6 +78249,7 @@ const CTPRODUCTS = [
    "format:toner",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:niacinamide",
    "ing:rice-water",
    "claim:brightening",
@@ -79965,7 +80193,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−0.8)",
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
    "buyerEvidence": "4.4★ from 0 ratings",
-   "concernBasis": "Acne — niacinamide #7 on INCI; Dark spots — niacinamide #7 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #7 on INCI; Dark spots — niacinamide #7 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51J-onR1XtL._AC_UL320_.jpg"
@@ -79978,6 +80207,7 @@ const CTPRODUCTS = [
    "format:toner",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:niacinamide",
    "ing:rice-water",
    "claim:brightening",
@@ -82328,7 +82558,8 @@ const CTPRODUCTS = [
    "evidenceActives": "glycerin (#6 on list, strong evidence); niacinamide (#16 on list, strong evidence); panthenol (#18 on list, moderate evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−0.8)",
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51E6O27XUSL._AC_UL320_.jpg"
@@ -82344,6 +82575,7 @@ const CTPRODUCTS = [
    "format:oil",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:saffron",
    "ing:papaya",
    "ing:vitamin-b5-panthenol",
@@ -82494,6 +82726,7 @@ const CTPRODUCTS = [
    "format:oil",
    "format:wash",
    "ing:coffee",
+   "ing:menthol",
    "claim:brightening",
    "claim:cooling",
    "aud:men",
@@ -82915,7 +83148,7 @@ const CTPRODUCTS = [
    "Added fragrance (parfum): perfume"
   ],
   "scores": {
-   "ingredients": 7.8,
+   "ingredients": 8,
    "skin": 9.2,
    "trust": 8.5,
    "experience": 2.6
@@ -83036,6 +83269,14 @@ const CTPRODUCTS = [
      "core": false,
      "trace": false,
      "src": "vitc"
+    },
+    {
+     "name": "cera alba",
+     "grade": "B",
+     "position": 20,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
     }
    ],
    "support": [
@@ -83763,7 +84004,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:oil",
    "format:wash",
-   "format:body-wax",
    "ing:papaya",
    "ing:mineral-oil",
    "claim:brightening",
@@ -84038,6 +84278,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:wash",
    "format:kit",
+   "ing:menthol",
    "claim:brightening",
    "claim:dark-spots",
    "claim:oil-control",
@@ -84188,7 +84429,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.9★ from 0 ratings"
+   "buyerEvidence": "3.9★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41oMZGcj7fL._AC_UL320_.jpg"
@@ -84201,6 +84443,7 @@ const CTPRODUCTS = [
    "format:wash",
    "format:kit",
    "spf:30",
+   "water:unstated",
    "ing:glycolic-acid",
    "claim:whitening-claim",
    "claim:spf-claim",
@@ -85069,7 +85312,8 @@ const CTPRODUCTS = [
    "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
    "safetyFlags": "Added fragrance (parfum): fragrance (−0.8)",
    "maker": "Conscious Chemist — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61jkcwu160L._AC_UL320_.jpg"
@@ -85082,6 +85326,8 @@ const CTPRODUCTS = [
    "format:oil",
    "format:wash",
    "format:kit",
+   "format:cleansing-oil",
+   "water:resistant",
    "ing:collagen",
    "claim:brightening",
    "claim:pores",
@@ -85092,6 +85338,7 @@ const CTPRODUCTS = [
    "claim:water-resistant",
    "claim:cooling",
    "claim:makeup",
+   "claim:waterproof-makeup",
    "skin:oily",
    "aud:women",
    "size:large",
@@ -91771,6 +92018,7 @@ const CTPRODUCTS = [
    "format:wash",
    "ing:licorice",
    "ing:chamomile",
+   "ing:menthol",
    "claim:brightening",
    "claim:acne",
    "claim:pores",
@@ -92077,6 +92325,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:wash",
+   "ing:menthol",
    "claim:acne",
    "claim:pores",
    "claim:oil-control",
@@ -94399,6 +94648,7 @@ const CTPRODUCTS = [
    "format:wash",
    "format:kit",
    "ing:charcoal",
+   "ing:menthol",
    "claim:odour",
    "claim:cooling",
    "aud:unisex",
@@ -96344,7 +96594,7 @@ const CTPRODUCTS = [
      "position": 9,
      "core": true,
      "trace": false,
-     "src": "bha"
+     "src": "bpo"
     },
     {
      "name": "ceramide eos",
@@ -99369,6 +99619,7 @@ const CTPRODUCTS = [
    "format:wash",
    "ing:vitamin-c",
    "ing:charcoal",
+   "ing:menthol",
    "claim:ayurvedic",
    "skin:all",
    "aud:men",
@@ -101129,6 +101380,7 @@ const CTPRODUCTS = [
    "format:wash",
    "ing:tea-tree",
    "ing:aloe-vera",
+   "ing:menthol",
    "claim:cooling",
    "free:sulfate",
    "aud:women",
@@ -101230,6 +101482,7 @@ const CTPRODUCTS = [
    "format:wash",
    "ing:tea-tree",
    "ing:aloe-vera",
+   "ing:menthol",
    "claim:cooling",
    "free:paraben",
    "aud:women",
@@ -102269,6 +102522,7 @@ const CTPRODUCTS = [
    "format:wash",
    "ing:tea-tree",
    "ing:aloe-vera",
+   "ing:menthol",
    "claim:oil-control",
    "claim:cooling",
    "free:paraben",
@@ -102474,6 +102728,7 @@ const CTPRODUCTS = [
    "format:wash",
    "ing:tea-tree",
    "ing:aloe-vera",
+   "ing:menthol",
    "claim:antiperspirant",
    "claim:cooling",
    "free:paraben",
@@ -102575,6 +102830,7 @@ const CTPRODUCTS = [
    "format:wash",
    "ing:niacinamide",
    "ing:licorice",
+   "ing:menthol",
    "claim:brightening",
    "claim:acne",
    "claim:oil-control",
@@ -104052,17 +104308,17 @@ const CTPRODUCTS = [
   "capacityLine": "236 ml",
   "materialLine": "niacinamide + aloe vera",
   "featureLine": "Wash / cleanser · ₹350/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Cetaphil official website (www.cetaphil.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
+   "glycerin high on the INCI list (strong evidence); panthenol high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list",
    "Made by Galderma (dermatology / pharma maker)"
   ],
-  "cons": [
-   "Only 4 ingredients named — formula unscored"
-  ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 8.3,
+   "ingredients": 9.3,
+   "skin": 10,
+   "trust": 10,
    "experience": 2.9
   },
   "fullSpec": {
@@ -104079,13 +104335,17 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.3/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Amazon.in listing — Important information › Ingredients",
-   "inciList": "Unverified seller line: Niacinamide, Pro-vitamin B5, Glycerin, Aloe*",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Cetaphil official website (www.cetaphil.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.cetaphil.in/products/cleansers/gentle-foaming-cleanser/3499320010092.html",
+   "inciMatchedName": "Gentle Foaming Cleanser (name match 85%)",
+   "listingIngredientLine": "Niacinamide, Pro-vitamin B5, Glycerin, Aloe* (as printed on the Amazon listing — incomplete, not scored)",
+   "inciList": "Aqua, Coco-Glucoside, Cocamidopropyl Betaine, Betaine, Glycerin, Citric Acid, Isopropyl Alcohol, Panthenol, Pantolactone, Phenoxyethanol, Polyquaternium-10, Polysorbate 20, Sodium Benzoate, Tocopheryl Acetate",
+   "evidenceActives": "glycerin (#5 on list, strong evidence); panthenol (#8 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Galderma — Dermatology / pharmaceutical manufacturer",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "concernBasis": "Irritation — panthenol #8 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61gmfz7ns+L._AC_UL320_.jpg"
@@ -104106,7 +104366,10 @@ const CTPRODUCTS = [
    "size:large",
    "rating:4.0",
    "store:amazon",
-   "inci:partial",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance",
    "inci:pharma-maker"
   ],
   "filters": {
@@ -104116,25 +104379,63 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "partial",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": true
   },
   "evidence": {
-   "inci": "partial",
-   "inciSource": "Amazon.in listing — Important information › Ingredients",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Niacinamide, Pro-vitamin B5, Glycerin, Aloe*",
-   "inciNote": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
+   "inci": "full",
+   "inciSource": "Cetaphil official website (www.cetaphil.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.cetaphil.in/products/cleansers/gentle-foaming-cleanser/3499320010092.html",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Gentle Foaming Cleanser",
+   "inciMatchScore": 0.85,
+   "inciText": "Aqua, Coco-Glucoside, Cocamidopropyl Betaine, Betaine, Glycerin, Citric Acid, Isopropyl Alcohol, Panthenol, Pantolactone, Phenoxyethanol, Polyquaternium-10, Polysorbate 20, Sodium Benzoate, Tocopheryl Acetate",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 1,
    "recognised": 1,
-   "actives": [],
-   "support": [],
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 6,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 8,
+     "core": true,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 14,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "coco-glucoside",
+    "cocamidopropyl betaine",
+    "glycerin",
+    "panthenol"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -104155,17 +104456,17 @@ const CTPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Wash / cleanser · Paraben-free",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Neutrogena official website (www.neutrogena.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
+   "glycerin high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list",
    "Made by Kenvue (dermatology / pharma maker)"
   ],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 8,
+   "ingredients": 9,
+   "skin": 10,
+   "trust": 10,
    "experience": 2.2
   },
   "fullSpec": {
@@ -104182,11 +104483,13 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.1/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Neutrogena official website (www.neutrogena.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.neutrogena.in/face/ultra-gentle-cleanser",
+   "inciMatchedName": "ultra gentle cleanser (name match 92%)",
+   "inciList": "Water, Glycerin, Cocamidopropyl Betaine, Lauryl Glucoside, Sodium Cocoyl Isethionate, PEG-120 Methyl Glucose Dioleate, Potassium Acrylates Copolymer, Caprylyl Glycol, Sodium Benzoate, Ethylhexylglycerin, Citric Acid, Sodium Hydroxide",
+   "evidenceActives": "glycerin (#2 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Kenvue — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "4.1★ from 0 ratings"
   },
@@ -104208,7 +104511,9 @@ const CTPRODUCTS = [
    "aud:women",
    "rating:4.0",
    "store:amazon",
-   "inci:none",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance",
    "inci:pharma-maker"
   ],
   "filters": {
@@ -104218,25 +104523,47 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": true
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Neutrogena official website (www.neutrogena.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.neutrogena.in/face/ultra-gentle-cleanser",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "ultra gentle cleanser",
+   "inciMatchScore": 0.92,
+   "inciText": "Water, Glycerin, Cocamidopropyl Betaine, Lauryl Glucoside, Sodium Cocoyl Isethionate, PEG-120 Methyl Glucose Dioleate, Potassium Acrylates Copolymer, Caprylyl Glycol, Sodium Benzoate, Ethylhexylglycerin, Citric Acid, Sodium Hydroxide",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 10,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "cocamidopropyl betaine",
+    "lauryl glucoside",
+    "sodium cocoyl isethionate"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -106413,15 +106740,15 @@ const CTPRODUCTS = [
   "capacityLine": "150 ml",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Wash / cleanser · ₹933/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (The Ordinary official website (theordinary.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "No ingredient list published on the listing"
+   "EU-declared fragrance allergen: benzyl alcohol"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 6.3,
+   "skin": 9.7,
+   "trust": 8.5,
    "experience": 3.8
   },
   "fullSpec": {
@@ -106438,11 +106765,13 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.6/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "The Ordinary official website (theordinary.com) — product page › Ingredients",
+   "inciSourceUrl": "https://theordinary.com/en-in/glucoside-foaming-face-cleanser-100616.html",
+   "inciMatchedName": "Glucoside Foaming Cleanser (name match 100%)",
+   "inciList": "Aqua (Water), Decyl Glucoside, Coco Glucoside, Xanthan Gum, Tocopherol, Phytic Acid, Benzyl Alcohol, Ethylhexylglycerin",
+   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
+   "safetyFlags": "EU-declared fragrance allergen: benzyl alcohol (−0.3)",
    "maker": "Estée Lauder Companies — Global FMCG or beauty group",
    "buyerEvidence": "4.6★ from 0 ratings"
   },
@@ -106463,7 +106792,8 @@ const CTPRODUCTS = [
    "size:large",
    "rating:4.5",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "actives": false,
@@ -106472,27 +106802,49 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "The Ordinary official website (theordinary.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://theordinary.com/en-in/glucoside-foaming-face-cleanser-100616.html",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Glucoside Foaming Cleanser",
+   "inciMatchScore": 1,
+   "inciText": "Aqua (Water), Decyl Glucoside, Coco Glucoside, Xanthan Gum, Tocopherol, Phytic Acid, Benzyl Alcohol, Ethylhexylglycerin",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "decyl glucoside",
+    "coco-glucoside"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "euAllergen",
+     "label": "EU-declared fragrance allergen",
+     "names": [
+      "benzyl alcohol"
+     ],
+     "penalty": 0.3,
+     "src": "eu1223"
+    }
+   ],
    "maker": {
     "parent": "Estée Lauder Companies",
     "kind": "global",
@@ -106707,18 +107059,19 @@ const CTPRODUCTS = [
   "capacityLine": "29 ml",
   "materialLine": "niacinamide + aloe vera",
   "featureLine": "Wash / cleanser · ₹555/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Cetaphil official website (www.cetaphil.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
+   "glycerin high on the INCI list (strong evidence); panthenol high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list",
    "Made by Galderma (dermatology / pharma maker)"
   ],
   "cons": [
-   "No ingredient list published on the listing",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 8,
+   "ingredients": 9.3,
+   "skin": 10,
+   "trust": 10,
    "experience": 0
   },
   "fullSpec": {
@@ -106735,13 +107088,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Cetaphil official website (www.cetaphil.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.cetaphil.in/products/cleansers/gentle-foaming-cleanser/3499320010092.html",
+   "inciMatchedName": "Gentle Foaming Cleanser (name match 85%)",
+   "inciList": "Aqua, Coco-Glucoside, Cocamidopropyl Betaine, Betaine, Glycerin, Citric Acid, Isopropyl Alcohol, Panthenol, Pantolactone, Phenoxyethanol, Polyquaternium-10, Polysorbate 20, Sodium Benzoate, Tocopheryl Acetate",
+   "evidenceActives": "glycerin (#5 on list, strong evidence); panthenol (#8 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Galderma — Dermatology / pharmaceutical manufacturer",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Irritation — panthenol #8 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71RIAfL7udL._AC_UL320_.jpg"
@@ -106762,7 +107118,10 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:amazon",
-   "inci:none",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance",
    "inci:pharma-maker"
   ],
   "filters": {
@@ -106772,25 +107131,63 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": true
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Cetaphil official website (www.cetaphil.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.cetaphil.in/products/cleansers/gentle-foaming-cleanser/3499320010092.html",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Gentle Foaming Cleanser",
+   "inciMatchScore": 0.85,
+   "inciText": "Aqua, Coco-Glucoside, Cocamidopropyl Betaine, Betaine, Glycerin, Citric Acid, Isopropyl Alcohol, Panthenol, Pantolactone, Phenoxyethanol, Polyquaternium-10, Polysorbate 20, Sodium Benzoate, Tocopheryl Acetate",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 6,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 8,
+     "core": true,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 14,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "coco-glucoside",
+    "cocamidopropyl betaine",
+    "glycerin",
+    "panthenol"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -113015,6 +113412,7 @@ const CTPRODUCTS = [
    "format:foam",
    "format:wash",
    "ing:aloe-vera",
+   "ing:menthol",
    "claim:hydrating",
    "claim:cooling",
    "skin:all",
@@ -115125,6 +115523,7 @@ const CTPRODUCTS = [
    "format:foam",
    "format:wash",
    "ing:niacinamide",
+   "ing:pdrn-polynucleotide",
    "claim:brightening",
    "claim:pores",
    "claim:hydrating",
@@ -117960,7 +118359,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.8★ from 0 ratings"
+   "buyerEvidence": "3.8★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61X+EzIzJAL._AC_UL320_.jpg"
@@ -117973,6 +118373,7 @@ const CTPRODUCTS = [
    "format:foam",
    "format:bar",
    "format:wash",
+   "water:unstated",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:vitamin-b5-panthenol",
@@ -119646,15 +120047,17 @@ const CTPRODUCTS = [
   "capacityLine": "100 ml",
   "materialLine": "niacinamide",
   "featureLine": "Wash / cleanser · ₹199/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Conscious Chemist official website (consciouschemist.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence); niacinamide high on the INCI list (strong evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): fragrance"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 8.7,
+   "skin": 8.3,
+   "trust": 7,
    "experience": 2.6
   },
   "fullSpec": {
@@ -119671,13 +120074,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.2/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Conscious Chemist official website (consciouschemist.com) — product page › Ingredients",
+   "inciSourceUrl": "https://consciouschemist.com/products/berry-bright-face-wash-100-ml-hp",
+   "inciMatchedName": "Berry Bright face Wash | HP (name match 87%)",
+   "inciList": "Water (Aqua), Coco-Glucoside, Cocamidopropyl Betaine (CAPB), Decyl Glucoside, Glycerin, Xanthan Gum, Propylene Glycol (PG), Olea Europaea (Olive) Leaf Extract, Avena Sativa (Oat) Kernel Extract, Aloe Barbadensis Leaf Juice, Niacinamide, Benzyl Alcohol & Salicylic Acid & Glycerin & Sorbic Acid, Euterpe Oleracea Fruit Extract, Vaccinium Angustifolium (Blueberry) Fruit Extract, Fragrance, Citric Acid and EDTA",
+   "evidenceActives": "glycerin (#5 on list, strong evidence); niacinamide (#11 on list, strong evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−0.8)",
    "maker": "Conscious Chemist — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #11 on INCI; Dark spots — niacinamide #11 on INCI; Irritation — avena sativa kernel extract #9 on INCI, aloe barbadensis leaf juice #10 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51qNGHMmZLL._AC_UL320_.jpg"
@@ -119697,7 +120103,11 @@ const CTPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "actives": true,
@@ -119706,27 +120116,84 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Conscious Chemist official website (consciouschemist.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://consciouschemist.com/products/berry-bright-face-wash-100-ml-hp",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Berry Bright face Wash | HP",
+   "inciMatchScore": 0.87,
+   "inciText": "Water (Aqua), Coco-Glucoside, Cocamidopropyl Betaine (CAPB), Decyl Glucoside, Glycerin, Xanthan Gum, Propylene Glycol (PG), Olea Europaea (Olive) Leaf Extract, Avena Sativa (Oat) Kernel Extract, Aloe Barbadensis Leaf Juice, Niacinamide, Benzyl Alcohol & Salicylic Acid & Glycerin & Sorbic Acid, Euterpe Oleracea Fruit Extract, Vaccinium Angustifolium (Blueberry) Fruit Extract, Fragrance, Citric Acid and EDTA",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "avena sativa kernel extract",
+     "grade": "B",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "oat"
+    },
+    {
+     "name": "aloe barbadensis leaf juice",
+     "grade": "B",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 11,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 16,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    }
+   ],
+   "support": [
+    "coco-glucoside",
+    "cocamidopropyl betaine",
+    "decyl glucoside",
+    "glycerin",
+    "niacinamide"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 0.8,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Conscious Chemist",
     "kind": "d2c",
@@ -125396,6 +125863,7 @@ const CTPRODUCTS = [
    "format:wash",
    "ing:niacinamide",
    "ing:licorice",
+   "ing:menthol",
    "claim:brightening",
    "claim:acne",
    "claim:oil-control",
@@ -125793,6 +126261,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:powder",
    "format:wash",
+   "format:cleansing-oil",
    "ing:salicylic-acid-bha",
    "ing:walnut",
    "claim:acne",
@@ -125883,7 +126352,8 @@ const CTPRODUCTS = [
    "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
    "safetyFlags": "Added fragrance (parfum): parfum (−0.8)",
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
-   "buyerEvidence": "4.5★ from 0 ratings"
+   "buyerEvidence": "4.5★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61V-A2S4K+L._AC_UL320_.jpg"
@@ -125896,6 +126366,8 @@ const CTPRODUCTS = [
    "format:balm",
    "format:scrub",
    "format:wash",
+   "format:cleansing-oil",
+   "water:unstated",
    "ing:strawberry",
    "claim:oil-control",
    "claim:makeup",
@@ -127027,7 +127499,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
-   "buyerEvidence": "4.4★ from 0 ratings"
+   "buyerEvidence": "4.4★ from 0 ratings",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61i4CbsB98L._AC_UL320_.jpg"
@@ -127039,11 +127512,14 @@ const CTPRODUCTS = [
    "scope:unstated",
    "format:oil",
    "format:wash",
+   "format:cleansing-oil",
+   "water:resistant",
    "ing:vitamin-e",
    "claim:hydrating",
    "claim:water-resistant",
    "claim:lightweight",
    "claim:makeup",
+   "claim:waterproof-makeup",
    "skin:all",
    "aud:unisex",
    "size:standard",
@@ -128864,9 +129340,11 @@ const CTPRODUCTS = [
    "format:oil",
    "format:balm",
    "format:wash",
+   "format:cleansing-oil",
    "claim:water-resistant",
    "claim:korean",
    "claim:makeup",
+   "claim:waterproof-makeup",
    "skin:all",
    "free:vegan",
    "aud:unisex",
@@ -130212,6 +130690,7 @@ const CTPRODUCTS = [
    "format:wash",
    "ing:tea-tree",
    "ing:aloe-vera",
+   "ing:menthol",
    "claim:cooling",
    "skin:all",
    "free:paraben",
@@ -131121,6 +131600,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:water-resistant",
    "claim:makeup",
+   "claim:waterproof-makeup",
    "aud:unisex",
    "size:large",
    "rating:4.0",
@@ -131979,6 +132459,7 @@ const CTPRODUCTS = [
    "format:micellar",
    "claim:water-resistant",
    "claim:makeup",
+   "claim:waterproof-makeup",
    "aud:unisex",
    "size:standard",
    "rating:4.0",
@@ -132173,6 +132654,7 @@ const CTPRODUCTS = [
    "format:micellar",
    "claim:water-resistant",
    "claim:makeup",
+   "claim:waterproof-makeup",
    "skin:sensitive",
    "skin:all",
    "free:sensitive-safe",
@@ -132463,7 +132945,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.2★ from 0 ratings"
+   "buyerEvidence": "3.2★ from 0 ratings",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61UtoTuNrhL._AC_UL320_.jpg"
@@ -132475,8 +132958,10 @@ const CTPRODUCTS = [
    "scope:unstated",
    "format:wash",
    "format:micellar",
+   "water:resistant",
    "claim:water-resistant",
    "claim:makeup",
+   "claim:waterproof-makeup",
    "skin:all",
    "aud:unisex",
    "size:standard",
@@ -133043,6 +133528,7 @@ const CTPRODUCTS = [
    "claim:water-resistant",
    "claim:cooling",
    "claim:makeup",
+   "claim:waterproof-makeup",
    "skin:oily",
    "skin:sensitive",
    "skin:normal",
@@ -133154,6 +133640,7 @@ const CTPRODUCTS = [
    "claim:dry-skin-relief",
    "claim:cooling",
    "claim:makeup",
+   "claim:waterproof-makeup",
    "skin:sensitive",
    "skin:normal",
    "skin:all",
@@ -134559,6 +135046,7 @@ const CTPRODUCTS = [
    "format:micellar",
    "claim:water-resistant",
    "claim:makeup",
+   "claim:waterproof-makeup",
    "aud:unisex",
    "rating:4.5",
    "store:amazon",
@@ -135019,6 +135507,7 @@ const CTPRODUCTS = [
    "claim:odour",
    "claim:cooling",
    "claim:makeup",
+   "claim:waterproof-makeup",
    "skin:all",
    "free:paraben",
    "free:alcohol",
@@ -135224,6 +135713,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:water-resistant",
    "claim:makeup",
+   "claim:waterproof-makeup",
    "skin:dry",
    "skin:sensitive",
    "free:toxin-free",
@@ -135312,7 +135802,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61gu9NKiy6L._AC_UL320_.jpg"
@@ -135325,6 +135816,7 @@ const CTPRODUCTS = [
    "format:oil",
    "format:wash",
    "format:micellar",
+   "water:unstated",
    "claim:makeup",
    "skin:all",
    "aud:unisex",
@@ -136616,6 +137108,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:water-resistant",
    "claim:makeup",
+   "claim:waterproof-makeup",
    "skin:all",
    "aud:unisex",
    "rating:3.5",
@@ -136714,6 +137207,7 @@ const CTPRODUCTS = [
    "format:micellar",
    "claim:water-resistant",
    "claim:makeup",
+   "claim:waterproof-makeup",
    "aud:unisex",
    "rating:4.5",
    "store:amazon",
@@ -136910,6 +137404,7 @@ const CTPRODUCTS = [
    "ing:hyaluronic-acid",
    "claim:water-resistant",
    "claim:makeup",
+   "claim:waterproof-makeup",
    "skin:oily",
    "skin:normal",
    "aud:unisex",
@@ -137922,6 +138417,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:water-resistant",
    "claim:makeup",
+   "claim:waterproof-makeup",
    "skin:sensitive",
    "skin:all",
    "free:sensitive-safe",
@@ -138328,6 +138824,7 @@ const CTPRODUCTS = [
    "format:micellar",
    "claim:water-resistant",
    "claim:makeup",
+   "claim:waterproof-makeup",
    "skin:all",
    "aud:unisex",
    "size:standard",
@@ -138834,6 +139331,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:water-resistant",
    "claim:makeup",
+   "claim:waterproof-makeup",
    "skin:all",
    "aud:unisex",
    "size:standard",
@@ -139837,6 +140335,7 @@ const CTPRODUCTS = [
    "claim:oil-control",
    "claim:water-resistant",
    "claim:makeup",
+   "claim:waterproof-makeup",
    "skin:sensitive",
    "free:sensitive-safe",
    "aud:unisex",
@@ -141329,6 +141828,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:water-resistant",
    "claim:makeup",
+   "claim:waterproof-makeup",
    "skin:dry",
    "skin:sensitive",
    "free:sensitive-safe",
@@ -142479,7 +142979,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 0 ratings"
+   "buyerEvidence": "4.4★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51OeNWi6UzL._SL1024_.jpg",
@@ -142495,6 +142996,7 @@ const CTPRODUCTS = [
    "format:oil",
    "format:wash",
    "format:micellar",
+   "water:unstated",
    "ing:ceramides",
    "ing:centella-cica",
    "ing:aloe-vera",
@@ -142903,6 +143405,7 @@ const CTPRODUCTS = [
    "format:micellar",
    "claim:water-resistant",
    "claim:makeup",
+   "claim:waterproof-makeup",
    "skin:all",
    "aud:unisex",
    "size:travel",
@@ -143620,6 +144123,7 @@ const CTPRODUCTS = [
    "ing:chamomile",
    "claim:water-resistant",
    "claim:makeup",
+   "claim:waterproof-makeup",
    "free:alcohol",
    "aud:unisex",
    "rating:4.0",
@@ -144019,6 +144523,7 @@ const CTPRODUCTS = [
    "format:kit",
    "claim:water-resistant",
    "claim:makeup",
+   "claim:waterproof-makeup",
    "aud:unisex",
    "rating:low",
    "store:amazon",
@@ -145852,6 +146357,7 @@ const CTPRODUCTS = [
    "format:wash",
    "format:micellar",
    "format:kit",
+   "format:cleansing-oil",
    "ing:aloe-vera",
    "ing:jojoba",
    "claim:makeup",
@@ -146309,16 +146815,18 @@ const CTPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Micellar water · Fragrance-free",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Almay official website (almay.com, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 3.7,
+   "skin": 7,
+   "trust": 5.5,
    "experience": 3.2
   },
   "fullSpec": {
@@ -146335,11 +146843,13 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.4/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Almay official website (almay.com, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceUrl": "https://almay.com/products/biodegradable-micellar-makeup-remover-cleansing-towelettes",
+   "inciMatchedName": "Micellar Makeup Remover Cleansing Towelettes (name match 100%)",
+   "inciList": "Aqua/Water/Eau, Betaine, Polyglyceryl-4 Caprate, Glycerin, Isopentyldiol, Capryl/Capramidopropyl Betaine, Caprylyl Glycol, Ethylhexylglycerin, Ethyl Lauroyl Arginate HCl, Maris Sal/Sea Salt/Sel Marin, Polyglyceryl-3 Cocoate, Polyglyceryl-6 Caprate, Polyglyceryl-6 Ricinoleate, Sodium Carrageenan, Sodium Chloride, Sodium Citrate, Citric Acid, Iodopropynyl Butylcarbamate, Phenoxyethanol, Sodium Benzoate",
+   "evidenceActives": "glycerin (#4 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.4★ from 0 ratings"
   },
@@ -146363,7 +146873,9 @@ const CTPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": false,
@@ -146372,25 +146884,52 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Almay official website (almay.com, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://almay.com/products/biodegradable-micellar-makeup-remover-cleansing-towelettes",
+   "inciSourceRegion": "US",
+   "inciMatchedTitle": "Micellar Makeup Remover Cleansing Towelettes",
+   "inciMatchScore": 1,
+   "inciText": "Aqua/Water/Eau, Betaine, Polyglyceryl-4 Caprate, Glycerin, Isopentyldiol, Capryl/Capramidopropyl Betaine, Caprylyl Glycol, Ethylhexylglycerin, Ethyl Lauroyl Arginate HCl, Maris Sal/Sea Salt/Sel Marin, Polyglyceryl-3 Cocoate, Polyglyceryl-6 Caprate, Polyglyceryl-6 Ricinoleate, Sodium Carrageenan, Sodium Chloride, Sodium Citrate, Citric Acid, Iodopropynyl Butylcarbamate, Phenoxyethanol, Sodium Benzoate",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 0.9,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 15,
+     "core": false,
+     "trace": true,
+     "src": "aadScrub"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 17,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    }
+   ],
+   "support": [
+    "glycerin"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -146554,6 +147093,7 @@ const CTPRODUCTS = [
    "format:micellar",
    "claim:water-resistant",
    "claim:makeup",
+   "claim:waterproof-makeup",
    "aud:unisex",
    "rating:3.5",
    "store:amazon",
@@ -146849,6 +147389,7 @@ const CTPRODUCTS = [
    "format:wash",
    "claim:hydrating",
    "claim:soothing",
+   "claim:razor-burn",
    "aud:unisex",
    "size:standard",
    "rating:4.5",
@@ -153171,6 +153712,7 @@ const CTPRODUCTS = [
    "scope:unstated",
    "format:wash",
    "ing:ceramides",
+   "ing:polyglutamic-acid",
    "claim:hydrating",
    "claim:barrier",
    "skin:dry",
@@ -154535,8 +155077,10 @@ const CTPRODUCTS = [
    "format:foam",
    "format:oil",
    "format:wash",
+   "format:cleansing-oil",
    "ing:niacinamide",
    "ing:collagen",
+   "ing:pdrn-polynucleotide",
    "claim:dark-spots",
    "claim:pores",
    "claim:hydrating",
@@ -159419,7 +159963,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61VxYmySw-L._SL1500_.jpg",
@@ -159438,6 +159983,7 @@ const CTPRODUCTS = [
    "format:mist",
    "format:bar",
    "format:wash",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:vitamin-b5-panthenol",
    "ing:witch-hazel",
@@ -159449,6 +159995,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:ayurvedic",
    "claim:makeup",
+   "claim:waterproof-makeup",
    "skin:oily",
    "skin:dry",
    "skin:sensitive",
@@ -160721,7 +161268,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Heavenly Secrets — Indian D2C brand with its own product company",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71EWQIK4XfL._AC_UL320_.jpg"
@@ -160736,6 +161284,7 @@ const CTPRODUCTS = [
    "format:kit",
    "spf:50+",
    "pa:++++",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:rice-water",
@@ -171042,6 +171591,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:wash",
+   "format:cleansing-oil",
    "ing:salicylic-acid-bha",
    "ing:green-tea",
    "claim:acne",
@@ -173586,6 +174136,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:wash",
+   "format:cleansing-oil",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -174107,6 +174658,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:wash",
+   "format:cleansing-oil",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -174536,6 +175088,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:wash",
+   "format:cleansing-oil",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -174749,6 +175302,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:wash",
+   "format:cleansing-oil",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -174855,6 +175409,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:wash",
+   "format:cleansing-oil",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -174961,6 +175516,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:wash",
+   "format:cleansing-oil",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -175067,6 +175623,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:wash",
+   "format:cleansing-oil",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -175488,6 +176045,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:wash",
+   "format:cleansing-oil",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -176957,6 +177515,7 @@ const CTPRODUCTS = [
    "format:stick",
    "format:clay-mask",
    "format:wash",
+   "format:cleansing-oil",
    "ing:green-tea",
    "ing:clay",
    "claim:pores",
@@ -177167,6 +177726,7 @@ const CTPRODUCTS = [
    "format:clay-mask",
    "format:powder",
    "format:wash",
+   "format:cleansing-oil",
    "ing:collagen",
    "ing:clay",
    "claim:brightening",
@@ -177271,6 +177831,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:oil",
    "format:wash",
+   "format:cleansing-oil",
    "ing:saffron",
    "ing:sandalwood",
    "ing:rosehip",
@@ -177373,6 +177934,7 @@ const CTPRODUCTS = [
    "scope:unstated",
    "format:oil",
    "format:wash",
+   "format:cleansing-oil",
    "aud:unisex",
    "size:standard",
    "rating:4.0",
@@ -177468,6 +178030,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:oil",
    "format:wash",
+   "format:cleansing-oil",
    "claim:makeup",
    "aud:unisex",
    "rating:4.0",
@@ -178061,7 +178624,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Suganda Skincare — Indian D2C brand with its own product company",
-   "buyerEvidence": "3.9★ from 0 ratings"
+   "buyerEvidence": "3.9★ from 0 ratings",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61pbpGnBiuL._AC_UL320_.jpg"
@@ -178073,12 +178637,15 @@ const CTPRODUCTS = [
    "scope:unstated",
    "format:oil",
    "format:wash",
+   "format:cleansing-oil",
+   "water:resistant",
    "ing:squalane",
    "ing:vitamin-e",
    "claim:acne",
    "claim:pores",
    "claim:water-resistant",
    "claim:makeup",
+   "claim:waterproof-makeup",
    "aud:unisex",
    "size:travel",
    "rating:3.5",
@@ -178163,7 +178730,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.9★ from 0 ratings"
+   "buyerEvidence": "3.9★ from 0 ratings",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61TCbUOMNBL._AC_UL320_.jpg"
@@ -178175,10 +178743,13 @@ const CTPRODUCTS = [
    "scope:face",
    "format:oil",
    "format:wash",
+   "format:cleansing-oil",
+   "water:resistant",
    "ing:heartleaf",
    "claim:pores",
    "claim:water-resistant",
    "claim:makeup",
+   "claim:waterproof-makeup",
    "skin:oily",
    "skin:sensitive",
    "free:sensitive-safe",
@@ -178267,7 +178838,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51BihIZ1LuL._AC_UL320_.jpg"
@@ -178279,6 +178851,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:oil",
    "format:wash",
+   "water:unstated",
    "ing:ceramides",
    "ing:squalane",
    "claim:hydrating",
@@ -179313,7 +179886,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/715zuYjOfkL._AC_UL320_.jpg"
@@ -179328,6 +179902,7 @@ const CTPRODUCTS = [
    "format:kit",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "claim:spf-claim",
    "skin:oily",
@@ -179429,6 +180004,7 @@ const CTPRODUCTS = [
    "scope:unstated",
    "format:balm",
    "format:wash",
+   "format:cleansing-oil",
    "claim:soothing",
    "aud:unisex",
    "rating:4.0",
@@ -184200,7 +184776,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/w/a/j/180-facewash-brightening-serum-combo-brightening-serum-5-vita-10-original-imahetfraharhk9p.jpeg?q=90",
@@ -184221,6 +184798,7 @@ const CTPRODUCTS = [
    "format:stick",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:rice-water",
@@ -184316,7 +184894,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/kn0n6a80/combo-kit/v/s/u/papaya-anti-blemish-pigmentation-face-wash-1-x-100-ml-tea-tree-original-imagfscmfzvhbnvp.jpeg?q=90",
@@ -184339,6 +184918,7 @@ const CTPRODUCTS = [
    "format:kit",
    "spf:50+",
    "pa:++++",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
@@ -185952,7 +186532,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Piramal Pharma (Consumer Products) — Dermatology / pharmaceutical manufacturer",
-   "buyerEvidence": "4.3★ from 1,991 ratings"
+   "buyerEvidence": "4.3★ from 1,991 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/ku5ufm80/combo-kit/b/z/r/jeju-sunrise-ritual-including-face-wash-mist-toner-and-day-cream-original-imag7cffzbahkdvn.jpeg?q=90",
@@ -185970,6 +186551,7 @@ const CTPRODUCTS = [
    "format:toner",
    "format:pads",
    "format:kit",
+   "water:unstated",
    "ing:calamine",
    "claim:brightening",
    "free:oil-free",
@@ -191888,7 +192470,7 @@ const CTPRODUCTS = [
  {
   "id": "acnestar-itm3507e169ad2fb",
   "brand": "acnestar",
-  "model": "Anti-Acne with Aloe Vera & Salicylic Acid Face Wash (50 …",
+  "model": "Anti-Acne with Aloe Vera & Salicylic Acid Face Wash",
   "price": 117,
   "capacityLine": "50 g",
   "materialLine": "salicylic acid (BHA) + aloe vera",
@@ -191937,7 +192519,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/acnestar-anti-acne-aloe-vera-salicylic-acid-face-wash/p/itm3507e169ad2fb",
   "buyStore": "Flipkart",
-  "title": "acnestar Anti-Acne with Aloe Vera & Salicylic Acid Face Wash (50 …",
+  "title": "acnestar Anti-Acne with Aloe Vera & Salicylic Acid Face Wash",
   "tags": [
    "scope:face",
    "format:wash",
@@ -192104,7 +192686,7 @@ const CTPRODUCTS = [
  {
   "id": "acnestar-itmaa892fcd2a8fe",
   "brand": "acnestar",
-  "model": "Acne star Man kind Unisex - (50 g,*2 Pc) Face Wash (100 …",
+  "model": "Acne star Man kind Unisex - (50 g,*2 Pc) Face Wash",
   "price": 214,
   "capacityLine": "50 g",
   "materialLine": "Key ingredients not stated",
@@ -192153,7 +192735,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/acnestar-acne-star-man-kind-unisex-50-g-2-pc-face-wash/p/itmaa892fcd2a8fe",
   "buyStore": "Flipkart",
-  "title": "acnestar Acne star Man kind Unisex - (50 g,*2 Pc) Face Wash (100 …",
+  "title": "acnestar Acne star Man kind Unisex - (50 g,*2 Pc) Face Wash",
   "tags": [
    "scope:face",
    "format:wash",
@@ -193025,7 +193607,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.3★ from 3 ratings"
+   "buyerEvidence": "3.3★ from 3 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/u/8/h/aha-bha-face-wash-20-vitamin-c-serum-1-hyaluronic-sunscreen-1-original-imahjd7jqfz9ncuc.jpeg?q=90",
@@ -193042,6 +193625,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:salicylic-acid-bha",
    "ing:aha",
@@ -193135,7 +193719,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): perfume (−0.8)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "5★ from 6 ratings",
-   "concernBasis": "Acne — salicylic acid #13 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — salicylic acid #13 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-face-wash/f/o/q/gel-100-radiant-glow-aha-bha-exfoliating-face-wash-100g-matives-original-imahj5pyy5kg5m5f.jpeg?q=90",
@@ -193152,6 +193737,7 @@ const CTPRODUCTS = [
    "format:gel",
    "format:pack",
    "format:wash",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:aha",
    "claim:brightening",
@@ -193454,6 +194040,7 @@ const CTPRODUCTS = [
    "format:pack",
    "format:peel",
    "format:wash",
+   "format:cleansing-oil",
    "ing:green-tea",
    "claim:brightening",
    "claim:dark-spots",
@@ -193613,7 +194200,7 @@ const CTPRODUCTS = [
  {
   "id": "docse-itm0076b938fd5d4",
   "brand": "DOCSE+",
-  "model": "Foaming Face Cleaner with 3% AHA, BHA,PHA Face Wash (100 m …",
+  "model": "Foaming Face Cleaner with 3% AHA, BHA,PHA Face Wash",
   "price": 343,
   "capacityLine": "100 ml",
   "materialLine": "salicylic acid (BHA) + PHA + hyaluronic acid",
@@ -193662,7 +194249,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/docse-foaming-face-cleaner-3-aha-bha-pha-wash/p/itm0076b938fd5d4",
   "buyStore": "Flipkart",
-  "title": "DOCSE+ Foaming Face Cleaner with 3% AHA, BHA,PHA Face Wash (100 m …",
+  "title": "DOCSE+ Foaming Face Cleaner with 3% AHA, BHA,PHA Face Wash",
   "tags": [
    "scope:face",
    "format:foam",
@@ -194120,6 +194707,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:oil",
    "format:wash",
+   "format:cleansing-oil",
    "ing:lemon",
    "ing:milk",
    "skin:all",
@@ -197017,6 +197605,7 @@ const CTPRODUCTS = [
    "claim:exfoliating",
    "claim:water-resistant",
    "claim:makeup",
+   "claim:waterproof-makeup",
    "skin:dry",
    "skin:sensitive",
    "free:paraben",
@@ -200802,7 +201391,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61yvbtPfNlL._AC_UL320_.jpg"
@@ -200815,6 +201405,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:kit",
    "spf:30",
+   "water:unstated",
    "ing:turmeric",
    "ing:saffron",
    "ing:kumkumadi",
@@ -207782,7 +208373,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61VD+JtKnsL._SL1254_.jpg",
@@ -207798,6 +208390,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:glycolic-acid",
    "ing:kojic-acid",
    "ing:glutathione",
@@ -209950,6 +210543,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:oil",
    "format:wash",
+   "format:cleansing-oil",
    "ing:glycolic-acid",
    "ing:tea-tree",
    "ing:aloe-vera",

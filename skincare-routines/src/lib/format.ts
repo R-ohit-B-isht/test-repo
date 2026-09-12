@@ -47,6 +47,7 @@ const SPEC_LABELS: Record<string, string> = {
   fragrance: 'Fragrance',
   area: 'Use area',
   concernBasis: 'Skin concern (why it matches)',
+  waterResistance: 'Water / sweat resistance (as labelled)',
 };
 
 /** Human label for a listing spec key; unknown keys are split from camelCase. */

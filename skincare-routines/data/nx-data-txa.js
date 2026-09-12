@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-11.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-12.
 // Unknown fields are honestly marked, never invented.
 const NXPRODUCTS = [
  {
@@ -50,7 +50,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — niacinamide #3 on INCI, betaine salicylate #28 on INCI; Dark spots — product type, niacinamide #3 on INCI, tranexamic acid #4 on INCI, arbutin #8 on INCI, alpha-arbutin #10 on INCI, 3-o-ethyl ascorbic acid #38 on INCI; Aging — 3-o-ethyl ascorbic acid #38 on INCI; Irritation — centella asiatica extract #23 on INCI, panthenol #35 on INCI, ceramide np #39 on INCI, asiaticoside #41 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #3 on INCI, betaine salicylate #28 on INCI; Dark spots — product type, niacinamide #3 on INCI, tranexamic acid #4 on INCI, arbutin #8 on INCI, alpha-arbutin #10 on INCI, 3-o-ethyl ascorbic acid #38 on INCI; Aging — 3-o-ethyl ascorbic acid #38 on INCI; Irritation — centella asiatica extract #23 on INCI, panthenol #35 on INCI, ceramide np #39 on INCI, asiaticoside #41 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/4/l/o/30-niacinamide-10-txa-4-serum-for-skin-care-pack-of-1-anua-original-imaha7cjrnnbzvrq.jpeg?q=90",
@@ -68,6 +69,7 @@ const NXPRODUCTS = [
    "format:pack",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:coffee",
@@ -439,7 +441,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4★ from 4 ratings",
-   "concernBasis": "Acne — niacinamide #1 on INCI; Dark spots — product type, niacinamide #1 on INCI, tranexamic acid #2 on INCI; Irritation — panthenol #7 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #1 on INCI; Dark spots — product type, niacinamide #1 on INCI, tranexamic acid #2 on INCI; Irritation — panthenol #7 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/y/h/r/30-niacinamide-10-txa-4-serum-anua-serum-original-imahq2n7gehtuhha.jpeg?q=90",
@@ -453,6 +456,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:serum",
+   "water:unstated",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:tranexamic-acid",
@@ -618,7 +622,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4★ from 224 ratings",
-   "concernBasis": "Acne — niacinamide #3 on INCI, betaine salicylate #28 on INCI; Dark spots — product type, niacinamide #3 on INCI, tranexamic acid #4 on INCI, arbutin #8 on INCI, alpha-arbutin #10 on INCI, 3-o-ethyl ascorbic acid #38 on INCI; Aging — 3-o-ethyl ascorbic acid #38 on INCI; Irritation — centella asiatica extract #23 on INCI, panthenol #35 on INCI, ceramide np #39 on INCI, asiaticoside #41 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #3 on INCI, betaine salicylate #28 on INCI; Dark spots — product type, niacinamide #3 on INCI, tranexamic acid #4 on INCI, arbutin #8 on INCI, alpha-arbutin #10 on INCI, 3-o-ethyl ascorbic acid #38 on INCI; Aging — 3-o-ethyl ascorbic acid #38 on INCI; Irritation — centella asiatica extract #23 on INCI, panthenol #35 on INCI, ceramide np #39 on INCI, asiaticoside #41 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/o/o/r/30-niacinamide-10-txa-4-dark-spot-correcting-serum-anua-original-imahezq7wdgdvvex.jpeg?q=90",
@@ -634,6 +639,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "claim:brightening",
    "claim:dark-spots",
@@ -1392,7 +1398,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — niacinamide #3 on INCI, betaine salicylate #28 on INCI; Dark spots — product type, niacinamide #3 on INCI, tranexamic acid #4 on INCI, arbutin #8 on INCI, alpha-arbutin #10 on INCI, 3-o-ethyl ascorbic acid #38 on INCI; Aging — 3-o-ethyl ascorbic acid #38 on INCI; Irritation — centella asiatica extract #23 on INCI, panthenol #35 on INCI, ceramide np #39 on INCI, asiaticoside #41 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #3 on INCI, betaine salicylate #28 on INCI; Dark spots — product type, niacinamide #3 on INCI, tranexamic acid #4 on INCI, arbutin #8 on INCI, alpha-arbutin #10 on INCI, 3-o-ethyl ascorbic acid #38 on INCI; Aging — 3-o-ethyl ascorbic acid #38 on INCI; Irritation — centella asiatica extract #23 on INCI, panthenol #35 on INCI, ceramide np #39 on INCI, asiaticoside #41 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/z/g/p/30-niacinamide-10-txa-4-serum-for-dark-spot-care-30ml-anua-original-imahqwj7c7z9fvjb.jpeg?q=90",
@@ -1405,6 +1412,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:ceramides",
@@ -1654,7 +1662,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4★ from 44 ratings",
-   "concernBasis": "Acne — niacinamide #3 on INCI, betaine salicylate #28 on INCI; Dark spots — product type, niacinamide #3 on INCI, tranexamic acid #4 on INCI, arbutin #8 on INCI, alpha-arbutin #10 on INCI, 3-o-ethyl ascorbic acid #38 on INCI; Aging — 3-o-ethyl ascorbic acid #38 on INCI; Irritation — centella asiatica extract #23 on INCI, panthenol #35 on INCI, ceramide np #39 on INCI, asiaticoside #41 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #3 on INCI, betaine salicylate #28 on INCI; Dark spots — product type, niacinamide #3 on INCI, tranexamic acid #4 on INCI, arbutin #8 on INCI, alpha-arbutin #10 on INCI, 3-o-ethyl ascorbic acid #38 on INCI; Aging — 3-o-ethyl ascorbic acid #38 on INCI; Irritation — centella asiatica extract #23 on INCI, panthenol #35 on INCI, ceramide np #39 on INCI, asiaticoside #41 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/v/e/p/30-niacinamide-10-txa-4-serum-for-glowing-skin-care-pack-of-1-original-imaha7ahtc3hqunq.jpeg?q=90",
@@ -1672,6 +1681,7 @@ const NXPRODUCTS = [
    "format:pack",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:niacinamide",
    "claim:brightening",
    "claim:dark-spots",
@@ -2179,7 +2189,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.5★ from 18 ratings",
-   "concernBasis": "Acne — niacinamide #3 on INCI, betaine salicylate #28 on INCI; Dark spots — product type, niacinamide #3 on INCI, tranexamic acid #4 on INCI, arbutin #8 on INCI, alpha-arbutin #10 on INCI, 3-o-ethyl ascorbic acid #38 on INCI; Aging — 3-o-ethyl ascorbic acid #38 on INCI; Irritation — centella asiatica extract #23 on INCI, panthenol #35 on INCI, ceramide np #39 on INCI, asiaticoside #41 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #3 on INCI, betaine salicylate #28 on INCI; Dark spots — product type, niacinamide #3 on INCI, tranexamic acid #4 on INCI, arbutin #8 on INCI, alpha-arbutin #10 on INCI, 3-o-ethyl ascorbic acid #38 on INCI; Aging — 3-o-ethyl ascorbic acid #38 on INCI; Irritation — centella asiatica extract #23 on INCI, panthenol #35 on INCI, ceramide np #39 on INCI, asiaticoside #41 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/9/s/s/30-10-niacinamide-4-txa-serum-for-reducing-dark-spots-uneven-original-imaheu8wywm4rywr.jpeg?q=90",
@@ -2196,6 +2207,7 @@ const NXPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:niacinamide",
    "claim:brightening",
    "claim:dark-spots",
@@ -2441,7 +2453,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.2★ from 105 ratings",
-   "concernBasis": "Acne — niacinamide #3 on INCI, betaine salicylate #28 on INCI; Dark spots — product type, niacinamide #3 on INCI, tranexamic acid #4 on INCI, arbutin #8 on INCI, alpha-arbutin #10 on INCI, 3-o-ethyl ascorbic acid #38 on INCI; Aging — 3-o-ethyl ascorbic acid #38 on INCI; Irritation — centella asiatica extract #23 on INCI, panthenol #35 on INCI, ceramide np #39 on INCI, asiaticoside #41 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #3 on INCI, betaine salicylate #28 on INCI; Dark spots — product type, niacinamide #3 on INCI, tranexamic acid #4 on INCI, arbutin #8 on INCI, alpha-arbutin #10 on INCI, 3-o-ethyl ascorbic acid #38 on INCI; Aging — 3-o-ethyl ascorbic acid #38 on INCI; Irritation — centella asiatica extract #23 on INCI, panthenol #35 on INCI, ceramide np #39 on INCI, asiaticoside #41 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/0/d/f/30-niacinamide-10-txa-4-face-serum-even-skin-tone-pore-care-original-imahaag2zwptk7k7.jpeg?q=90",
@@ -2458,6 +2471,7 @@ const NXPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:wash",
+   "water:unstated",
    "ing:niacinamide",
    "claim:brightening",
    "claim:dark-spots",
@@ -2965,7 +2979,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.9★ from 84 ratings",
-   "concernBasis": "Acne — niacinamide #3 on INCI, betaine salicylate #28 on INCI; Dark spots — product type, niacinamide #3 on INCI, tranexamic acid #4 on INCI, arbutin #8 on INCI, alpha-arbutin #10 on INCI, 3-o-ethyl ascorbic acid #38 on INCI; Aging — 3-o-ethyl ascorbic acid #38 on INCI; Irritation — centella asiatica extract #23 on INCI, panthenol #35 on INCI, ceramide np #39 on INCI, asiaticoside #41 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #3 on INCI, betaine salicylate #28 on INCI; Dark spots — product type, niacinamide #3 on INCI, tranexamic acid #4 on INCI, arbutin #8 on INCI, alpha-arbutin #10 on INCI, 3-o-ethyl ascorbic acid #38 on INCI; Aging — 3-o-ethyl ascorbic acid #38 on INCI; Irritation — centella asiatica extract #23 on INCI, panthenol #35 on INCI, ceramide np #39 on INCI, asiaticoside #41 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/i/x/r/30-niacinamide-10-txa-4-brightening-anti-aging-face-serum-pack-original-imahcy8yhcpfzze5.jpeg?q=90",
@@ -2982,6 +2997,7 @@ const NXPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:niacinamide",
    "ing:tranexamic-acid",
    "claim:brightening",
@@ -3746,7 +3762,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — niacinamide #3 on INCI, betaine salicylate #28 on INCI; Dark spots — product type, niacinamide #3 on INCI, tranexamic acid #4 on INCI, arbutin #8 on INCI, alpha-arbutin #10 on INCI, 3-o-ethyl ascorbic acid #38 on INCI; Aging — 3-o-ethyl ascorbic acid #38 on INCI; Irritation — centella asiatica extract #23 on INCI, panthenol #35 on INCI, ceramide np #39 on INCI, asiaticoside #41 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #3 on INCI, betaine salicylate #28 on INCI; Dark spots — product type, niacinamide #3 on INCI, tranexamic acid #4 on INCI, arbutin #8 on INCI, alpha-arbutin #10 on INCI, 3-o-ethyl ascorbic acid #38 on INCI; Aging — 3-o-ethyl ascorbic acid #38 on INCI; Irritation — centella asiatica extract #23 on INCI, panthenol #35 on INCI, ceramide np #39 on INCI, asiaticoside #41 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/g/u/q/30-niacinamide-10-txa-4-serum-brightening-even-skin-tone-original-imahd6yaadnzw6g5.jpeg?q=90",
@@ -3764,6 +3781,7 @@ const NXPRODUCTS = [
    "format:pack",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:niacinamide",
    "ing:azelaic-acid",
    "ing:hyaluronic-acid",
@@ -4016,7 +4034,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — niacinamide #3 on INCI, betaine salicylate #28 on INCI; Dark spots — product type, niacinamide #3 on INCI, tranexamic acid #4 on INCI, arbutin #8 on INCI, alpha-arbutin #10 on INCI, 3-o-ethyl ascorbic acid #38 on INCI; Aging — 3-o-ethyl ascorbic acid #38 on INCI; Irritation — centella asiatica extract #23 on INCI, panthenol #35 on INCI, ceramide np #39 on INCI, asiaticoside #41 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #3 on INCI, betaine salicylate #28 on INCI; Dark spots — product type, niacinamide #3 on INCI, tranexamic acid #4 on INCI, arbutin #8 on INCI, alpha-arbutin #10 on INCI, 3-o-ethyl ascorbic acid #38 on INCI; Aging — 3-o-ethyl ascorbic acid #38 on INCI; Irritation — centella asiatica extract #23 on INCI, panthenol #35 on INCI, ceramide np #39 on INCI, asiaticoside #41 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/w/v/5/30-niacinamide-10-txa-4-serum-korean-skincare-1-01-fl-oz-dark-original-imahqtc5qp2dzbwp.jpeg?q=90",
@@ -4032,6 +4051,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:tranexamic-acid",
@@ -4538,7 +4558,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.7★ from 3 ratings",
-   "concernBasis": "Acne — niacinamide #3 on INCI, betaine salicylate #28 on INCI; Dark spots — product type, niacinamide #3 on INCI, tranexamic acid #4 on INCI, arbutin #8 on INCI, alpha-arbutin #10 on INCI, 3-o-ethyl ascorbic acid #38 on INCI; Aging — 3-o-ethyl ascorbic acid #38 on INCI; Irritation — centella asiatica extract #23 on INCI, panthenol #35 on INCI, ceramide np #39 on INCI, asiaticoside #41 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #3 on INCI, betaine salicylate #28 on INCI; Dark spots — product type, niacinamide #3 on INCI, tranexamic acid #4 on INCI, arbutin #8 on INCI, alpha-arbutin #10 on INCI, 3-o-ethyl ascorbic acid #38 on INCI; Aging — 3-o-ethyl ascorbic acid #38 on INCI; Irritation — centella asiatica extract #23 on INCI, panthenol #35 on INCI, ceramide np #39 on INCI, asiaticoside #41 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/w/r/l/30-niacinamide-10-txa-4-serum-for-hyperpigmentation-dark-spots-original-imahd2kftfpx6u8c.jpeg?q=90",
@@ -4555,6 +4576,7 @@ const NXPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:niacinamide",
    "claim:brightening",
    "claim:dark-spots",
@@ -4801,7 +4823,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — niacinamide #3 on INCI, betaine salicylate #28 on INCI; Dark spots — product type, niacinamide #3 on INCI, tranexamic acid #4 on INCI, arbutin #8 on INCI, alpha-arbutin #10 on INCI, 3-o-ethyl ascorbic acid #38 on INCI; Aging — 3-o-ethyl ascorbic acid #38 on INCI; Irritation — centella asiatica extract #23 on INCI, panthenol #35 on INCI, ceramide np #39 on INCI, asiaticoside #41 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #3 on INCI, betaine salicylate #28 on INCI; Dark spots — product type, niacinamide #3 on INCI, tranexamic acid #4 on INCI, arbutin #8 on INCI, alpha-arbutin #10 on INCI, 3-o-ethyl ascorbic acid #38 on INCI; Aging — 3-o-ethyl ascorbic acid #38 on INCI; Irritation — centella asiatica extract #23 on INCI, panthenol #35 on INCI, ceramide np #39 on INCI, asiaticoside #41 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/x/c/n/30-niacinamide-10-txa-4-serum-skin-brightening-blemish-dark-spot-original-imahd2k8srwpmpuz.jpeg?q=90",
@@ -4819,6 +4842,7 @@ const NXPRODUCTS = [
    "format:pack",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:niacinamide",
    "ing:azelaic-acid",
    "ing:hyaluronic-acid",
@@ -5171,7 +5195,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.8★ from 25 ratings",
-   "concernBasis": "Acne — niacinamide #2 on INCI; Dark spots — product type, niacinamide #2 on INCI, tranexamic acid #3 on INCI, 3-o-ethyl ascorbic acid #6 on INCI, alpha-arbutin #7 on INCI; Aging — 3-o-ethyl ascorbic acid #6 on INCI, palmitoyl tripeptide-1 #8 on INCI, palmitoyl tetrapeptide-7 #9 on INCI; Irritation — panthenol #18 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #2 on INCI; Dark spots — product type, niacinamide #2 on INCI, tranexamic acid #3 on INCI, 3-o-ethyl ascorbic acid #6 on INCI, alpha-arbutin #7 on INCI; Aging — 3-o-ethyl ascorbic acid #6 on INCI, palmitoyl tripeptide-1 #8 on INCI, palmitoyl tetrapeptide-7 #9 on INCI; Irritation — panthenol #18 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/6/u/j/10-txa-peptide-radiance-serum-with-3-tranexamic-acid-5-peptides-original-imahpdxssmtyfbws.jpeg?q=90",
@@ -5187,6 +5212,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:peptides",
    "ing:tranexamic-acid",
    "claim:brightening",
@@ -5504,7 +5530,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.7★ from 19 ratings",
-   "concernBasis": "Acne — niacinamide #6 on INCI, azelaic acid #8 on INCI; Dark spots — product type, niacinamide #6 on INCI, tranexamic acid #7 on INCI, azelaic acid #8 on INCI, ethyl ascorbic acid #9 on INCI, alpha-arbutin #10 on INCI, kojic dipalmitate #11 on INCI, kojic acid #12 on INCI; Aging — ethyl ascorbic acid #9 on INCI; Irritation — azelaic acid #8 on INCI, aloe barbadensis leaf extract #14 on INCI, panthenol #15 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #6 on INCI, azelaic acid #8 on INCI; Dark spots — product type, niacinamide #6 on INCI, tranexamic acid #7 on INCI, azelaic acid #8 on INCI, ethyl ascorbic acid #9 on INCI, alpha-arbutin #10 on INCI, kojic dipalmitate #11 on INCI, kojic acid #12 on INCI; Aging — ethyl ascorbic acid #9 on INCI; Irritation — azelaic acid #8 on INCI, aloe barbadensis leaf extract #14 on INCI, panthenol #15 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/9/5/9/30-10-azelaic-acid-5-tranexamic-acid-pigmentation-corrector-original-imahncgss8wg7du7.jpeg?q=90",
@@ -5521,6 +5548,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:azelaic-acid",
    "ing:tranexamic-acid",
    "claim:brightening",
@@ -6211,7 +6239,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-body-skin-treatment/w/g/m/30-heartleaf-face-serum-mirava-original-imahzgw7mjgjgn8f.jpeg?q=90",
@@ -6228,6 +6257,7 @@ const NXPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
@@ -6339,7 +6369,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "2.2★ from 5 ratings",
-   "concernBasis": "Acne — niacinamide #3 on INCI, betaine salicylate #28 on INCI; Dark spots — product type, niacinamide #3 on INCI, tranexamic acid #4 on INCI, arbutin #8 on INCI, alpha-arbutin #10 on INCI, 3-o-ethyl ascorbic acid #38 on INCI; Aging — 3-o-ethyl ascorbic acid #38 on INCI; Irritation — centella asiatica extract #23 on INCI, panthenol #35 on INCI, ceramide np #39 on INCI, asiaticoside #41 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #3 on INCI, betaine salicylate #28 on INCI; Dark spots — product type, niacinamide #3 on INCI, tranexamic acid #4 on INCI, arbutin #8 on INCI, alpha-arbutin #10 on INCI, 3-o-ethyl ascorbic acid #38 on INCI; Aging — 3-o-ethyl ascorbic acid #38 on INCI; Irritation — centella asiatica extract #23 on INCI, panthenol #35 on INCI, ceramide np #39 on INCI, asiaticoside #41 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/n/z/p/30-10-niacinamide-4-txa-glow-boosting-serum-for-clear-skin-pack-original-imahd2jzafdhjugg.jpeg?q=90",
@@ -6356,6 +6387,7 @@ const NXPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:niacinamide",
    "claim:brightening",
    "claim:dark-spots",
@@ -6709,7 +6741,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — niacinamide #2 on INCI; Dark spots — product type, niacinamide #2 on INCI, tranexamic acid #5 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #2 on INCI; Dark spots — product type, niacinamide #2 on INCI, tranexamic acid #5 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/b/f/q/40-niacinamide-20-face-serum-brightening-serum-with-tranexamic-original-imahzru8sufafd6v.jpeg?q=90"
@@ -6721,6 +6754,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:tranexamic-acid",
    "ing:glutathione",
@@ -7026,7 +7060,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/4/e/l/40-niacinamide-20-face-serum-dark-spot-uneven-tone-care-txa-original-imahkzww5z7u7esh.jpeg?q=90",
@@ -7043,6 +7078,7 @@ const NXPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:niacinamide",
    "ing:retinol",
    "ing:salicylic-acid-bha",
@@ -7153,7 +7189,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — niacinamide #2 on INCI; Dark spots — product type, niacinamide #2 on INCI, tranexamic acid #5 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #2 on INCI; Dark spots — product type, niacinamide #2 on INCI, tranexamic acid #5 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/j/3/p/40-niacinamide-20-face-serum-dark-spot-uneven-tone-care-txa-original-imahjv9vfkuuhvfq.jpeg?q=90",
@@ -7169,6 +7206,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:glutathione",
    "ing:centella-cica",
@@ -7361,7 +7399,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — niacinamide #2 on INCI; Dark spots — product type, niacinamide #2 on INCI, tranexamic acid #5 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #2 on INCI; Dark spots — product type, niacinamide #2 on INCI, tranexamic acid #5 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/u/t/u/40-niacinamide-20-face-serum-dark-spot-uneven-tone-care-txa-original-imahkzwnhk7r6fzh.jpeg?q=90",
@@ -7378,6 +7417,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:glutathione",
@@ -7800,7 +7840,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/i/a/q/30-niacinamide-10-txa-4-serum-fights-dullness-dark-spots-uneven-original-imahaag39knfmezx.jpeg?q=90",
@@ -7818,6 +7859,7 @@ const NXPRODUCTS = [
    "format:pack",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:niacinamide",
    "claim:brightening",
    "claim:dark-spots",
@@ -7920,7 +7962,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.3★ from 7 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/z/e/a/30-dark-spot-correcting-serum-with-hyaluronic-acid-for-glass-original-imahhnbvgdhuhxka.jpeg?q=90",
@@ -7937,6 +7980,7 @@ const NXPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:wash",
+   "water:unstated",
    "ing:niacinamide",
    "claim:brightening",
    "claim:dark-spots",
@@ -8038,7 +8082,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/u/w/u/30-niacinamide-10-txa-4-serum-brightening-dark-spot-acne-mark-original-imahaagf869dpkkc.jpeg?q=90",
@@ -8056,6 +8101,7 @@ const NXPRODUCTS = [
    "format:pack",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:niacinamide",
    "ing:azelaic-acid",
    "ing:hyaluronic-acid",
@@ -8163,7 +8209,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.4★ from 44 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/0/j/0/30-3-tranexamic-acid-dark-spot-serum-with-niacinamide-hyaluronic-original-imahqf8fhhubfrwh.jpeg?q=90",
@@ -8180,6 +8227,7 @@ const NXPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:wash",
+   "water:unstated",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:tranexamic-acid",
@@ -8396,7 +8444,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/z/i/0/30-10-niacinamide-5-txa-skin-brightening-serum-for-even-skin-original-imahkh42hhgf6tqq.jpeg?q=90",
@@ -8413,6 +8462,7 @@ const NXPRODUCTS = [
    "format:pack",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:niacinamide",
    "claim:brightening",
    "claim:anti-aging",
@@ -8511,7 +8561,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/t/9/q/30-10-niacinamide-4-txa-skin-brightening-serum-for-even-skin-original-imahkg8ansfdtvwv.jpeg?q=90"
@@ -8525,6 +8576,7 @@ const NXPRODUCTS = [
    "format:pack",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:niacinamide",
    "claim:brightening",
    "claim:anti-aging",
@@ -8623,7 +8675,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/8/p/y/30-10-niacinamide-4-txa-skin-rejuvenating-serum-for-skin-glowing-original-imahkh4fc22fhy6b.jpeg?q=90",
@@ -8640,6 +8693,7 @@ const NXPRODUCTS = [
    "format:pack",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:niacinamide",
    "claim:brightening",
    "claim:anti-aging",
@@ -9966,7 +10020,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/p/a/e/30-clarit-lux-2-alpha-arbutin-2-niacinamide-2-tranexamic-acid-original-imahqcpz6xan9psq.jpeg?q=90",
@@ -9981,6 +10036,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:alpha-arbutin",
    "ing:tranexamic-acid",
@@ -10196,7 +10252,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.6★ from 19 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/m/0/h/30-3-tranexamic-acid-serum-for-face-with-niacinamide-hyaluronic-original-imahq95su3eacqzs.jpeg?q=90",
@@ -10211,6 +10268,7 @@ const NXPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:wash",
+   "water:unstated",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:tranexamic-acid",
@@ -10532,7 +10590,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/q/h/t/30-niacinamide-10-tranexamic-acid-4-for-dark-spot-removal-glass-original-imahhmhs2fapuax4.jpeg?q=90",
@@ -10548,6 +10607,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:tranexamic-acid",
    "claim:brightening",
@@ -10872,7 +10932,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.8★ from 16 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "marketed for swim / sport / outdoors (per listing — not tested here, not scored)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/u/m/c/30-vedscience-dark-spot-serum-30-ml-14-actives-with-5-original-imahp9gfzg4hfszh.jpeg?q=90",
@@ -10887,6 +10948,8 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:serum",
+   "water:unstated",
+   "water:sport",
    "ing:niacinamide",
    "ing:kojic-acid",
    "ing:alpha-arbutin",
@@ -11443,7 +11506,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/l/9/1/30-halo-effect-skin-brightening-and-anti-pigmentation-serum-with-original-imahps9w4evrzqyr.jpeg?q=90",
@@ -11461,6 +11525,7 @@ const NXPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:wash",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:retinol",
@@ -11652,7 +11717,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/h/l/1/30-txa-booster-serum-5-tranexamic-acid-peptide-complex-for-original-imahzptk3cxzgreq.jpeg?q=90",
@@ -11668,6 +11734,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:peptides",
    "ing:tranexamic-acid",
    "ing:resveratrol",
@@ -11769,7 +11836,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/m/w/i/25-jelly-face-serum-gel-nudaskin-original-imahqmgnef3aejhp.jpeg?q=90",
@@ -11784,6 +11852,7 @@ const NXPRODUCTS = [
    "format:serum",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:rice-water",
@@ -12002,7 +12071,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/p/4/5/30-pattaya-thailand-formulation-tanning-sun-damage-face-serum-original-imahpg3zggqwhbqq.jpeg?q=90",
@@ -12015,6 +12085,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:alpha-arbutin",
    "ing:tranexamic-acid",
@@ -12178,7 +12249,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/x/r/z/30-hegza-no-pigmentation-face-serum-for-dark-spots-skin-original-imahkjjf2eq7rs7f.jpeg?q=90",
@@ -12195,6 +12267,7 @@ const NXPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:niacinamide",
    "ing:kojic-acid",
    "ing:alpha-arbutin",
@@ -12300,7 +12373,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/w/f/z/30-niacinamide-10-face-serum-with-alpha-arbutin-tranexamic-acid-original-imahncqszurz22tj.jpeg?q=90",
@@ -12317,6 +12391,7 @@ const NXPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:wash",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:alpha-arbutin",
@@ -12534,7 +12609,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type, tranexamic acid #6 on INCI; Irritation — aloe barbadensis leaf juice #3 on INCI (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type, tranexamic acid #6 on INCI; Irritation — aloe barbadensis leaf juice #3 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/f/4/5/30-glutanoor-face-serum-l-brightening-glutathione-tranexamic-original-imahnjkd8pymdyyf.jpeg?q=90",
@@ -12551,6 +12627,7 @@ const NXPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:wash",
+   "water:unstated",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:alpha-arbutin",
@@ -13140,7 +13217,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/h/d/o/30-tranexamic-acid-5-face-serum-with-peptides-dark-spot-original-imahzpt5fwqcnbkk.jpeg?q=90",
@@ -13156,6 +13234,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:peptides",
@@ -13257,7 +13336,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/s/l/p/30-txa-booster-shot-serum-with-5-tranexamic-acid-peptides-original-imahzpt9pznwtyek.jpeg?q=90",
@@ -13273,6 +13353,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:peptides",
    "ing:tranexamic-acid",
    "skin:all",
@@ -13367,7 +13448,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/c/h/e/30-txa-booster-shot-serum-5-tranexamic-acid-peptides-for-skin-original-imahzptc4chg8dqj.jpeg?q=90",
@@ -13384,6 +13466,7 @@ const NXPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:peptides",
    "ing:tranexamic-acid",
    "claim:brightening",
@@ -13696,7 +13779,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/m/v/j/30-10-niacinamide-4-tranexamic-acid-ceramide-30ml-anua-original-imahptmfhzkzfzqy.jpeg?q=90",
@@ -13711,6 +13795,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:tranexamic-acid",
@@ -13811,7 +13896,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/o/v/z/30-txa-booster-shot-serum-with-5-tranexamic-acid-peptides-skin-original-imahzzm47n6wtmsb.jpeg?q=90",
@@ -13827,6 +13913,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:peptides",
    "ing:tranexamic-acid",
@@ -13926,7 +14013,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/h/j/e/30-10-niacinamide-4-tranexamic-acid-hyaluronic-acid-30ml-anua-original-imahptmhsbavhue8.jpeg?q=90",
@@ -13941,6 +14029,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:tranexamic-acid",
@@ -14159,7 +14248,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/v/j/7/30-niacinamide-10-tranexamic-acid-4-ceramide-vitamin-b12-30ml-original-imahptnah9qpckvq.jpeg?q=90",
@@ -14173,6 +14263,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:tranexamic-acid",
@@ -14273,7 +14364,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/o/z/o/30-niacinamide-10-tranexamic-acid-4-for-dark-spots-pigmentation-original-imahhmgqmf7c7qgv.jpeg?q=90",
@@ -14289,6 +14381,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:tranexamic-acid",
    "claim:brightening",
@@ -14624,7 +14717,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.3★ from 8 ratings",
-   "concernBasis": "Acne — niacinamide #3 on INCI, betaine salicylate #28 on INCI; Dark spots — product type, niacinamide #3 on INCI, tranexamic acid #4 on INCI, arbutin #8 on INCI, alpha-arbutin #10 on INCI, 3-o-ethyl ascorbic acid #38 on INCI; Aging — 3-o-ethyl ascorbic acid #38 on INCI; Irritation — centella asiatica extract #23 on INCI, panthenol #35 on INCI, ceramide np #39 on INCI, asiaticoside #41 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #3 on INCI, betaine salicylate #28 on INCI; Dark spots — product type, niacinamide #3 on INCI, tranexamic acid #4 on INCI, arbutin #8 on INCI, alpha-arbutin #10 on INCI, 3-o-ethyl ascorbic acid #38 on INCI; Aging — 3-o-ethyl ascorbic acid #38 on INCI; Irritation — centella asiatica extract #23 on INCI, panthenol #35 on INCI, ceramide np #39 on INCI, asiaticoside #41 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/r/p/3/30-10-niacinamide-4-txa-brightening-skin-tone-serum-for-radiant-original-imahcy8fy6wgcznv.jpeg?q=90",
@@ -14641,6 +14735,7 @@ const NXPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:niacinamide",
    "claim:brightening",
    "claim:dark-spots",
@@ -15342,7 +15437,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.8★ from 4 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/d/p/e/30-niacinamide-10-txa-4-serum-hydrating-skin-perfecting-formula-original-imahd6yevkjasd4z.jpeg?q=90",
@@ -15359,6 +15455,7 @@ const NXPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:wash",
+   "water:unstated",
    "ing:niacinamide",
    "claim:brightening",
    "claim:dark-spots",
@@ -15459,7 +15556,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/f/7/z/30-10-niacinamide-4-txa-anti-acne-skin-tone-correction-serum-original-imahd2jympfxqg9b.jpeg?q=90",
@@ -15476,6 +15574,7 @@ const NXPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:niacinamide",
    "claim:brightening",
    "claim:dark-spots",
@@ -15575,7 +15674,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/v/g/9/30-txa-booster-shot-serum-arencia-original-imahzpswhwxp5sjp.jpeg?q=90",
@@ -15592,6 +15692,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:pdrn-polynucleotide",
    "claim:anti-aging",
    "claim:barrier",
@@ -15688,7 +15789,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/g/u/t/30-10-niacinamide-4-txa-skin-rejuvenating-serum-for-skin-glowing-original-imahnugz9hhpsjvw.jpeg?q=90",
@@ -15703,6 +15805,7 @@ const NXPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:niacinamide",
    "claim:brightening",
    "skin:all",
@@ -15797,7 +15900,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/v/a/a/30-10-niacinamide-4-txa-skin-rejuvenating-serum-for-skin-glowing-original-imahnugwbqa2xqbx.jpeg?q=90",
@@ -15813,6 +15917,7 @@ const NXPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:niacinamide",
    "claim:brightening",
    "skin:all",
@@ -15906,7 +16011,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.6★ from 9 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/l/w/h/30-face-serum-with-3-tyrostat-niacinamide-tranexamic-acid-original-imahknxgwvathe2e.jpeg?q=90",
@@ -15922,6 +16028,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:glycolic-acid",
    "ing:tranexamic-acid",
@@ -16020,7 +16127,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/5/3/g/30-10-niacinamide-4-txa-skin-rejuvenating-serum-ondps-original-imahnuhygxdzgqgx.jpeg?q=90",
@@ -16035,6 +16143,7 @@ const NXPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:niacinamide",
    "skin:all",
    "free:paraben",
@@ -16128,7 +16237,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/2/a/b/30-10-niacinamide-4-txa-skin-rejuvenating-serum-for-skin-glowing-original-imahnuhytqdyyvst.jpeg?q=90",
@@ -16144,6 +16254,7 @@ const NXPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:niacinamide",
    "claim:brightening",
    "skin:all",
@@ -16238,7 +16349,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/s/u/d/30-10-niacinamide-4-txa-skin-rejuvenating-serum-for-skin-glowing-original-imahnugy3yzsfybf.jpeg?q=90",
@@ -16254,6 +16366,7 @@ const NXPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:niacinamide",
    "claim:brightening",
    "skin:all",
@@ -16797,7 +16910,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.5★ from 6 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/o/w/q/30-d-tan-lotion-for-pigmentation-tan-removal-with-glycolic-acid-original-imahf56xhrya3dd2.jpeg?q=90",
@@ -16812,6 +16926,7 @@ const NXPRODUCTS = [
    "scope:body",
    "format:lotion",
    "format:pack",
+   "water:unstated",
    "ing:glycolic-acid",
    "ing:lactic-acid",
    "ing:kojic-acid",
@@ -17027,7 +17142,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.7★ from 3 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/d/o/n/30-niacinamide-10-txa-4-skin-repairing-tone-enhancing-serum-pack-original-imahcy83y7vr3dxd.jpeg?q=90",
@@ -17044,6 +17160,7 @@ const NXPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:niacinamide",
    "claim:brightening",
    "claim:dark-spots",
@@ -17375,7 +17492,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/v/f/j/30-txa-booster-shot-serum-pack-of-1-arencia-original-imahzqfzaxcyay6h.jpeg?q=90",
@@ -17392,6 +17510,7 @@ const NXPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:peptides",
    "ing:pdrn-polynucleotide",
    "claim:brightening",
@@ -17491,7 +17610,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/e/d/q/30-skin-tone-balancing-serum-with-5-txa-peptides-lightweight-original-imahzpt5nxtmchec.jpeg?q=90",
@@ -17508,6 +17628,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:peptides",
    "ing:tranexamic-acid",
    "ing:resveratrol",
@@ -17730,7 +17851,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.8★ from 21 ratings",
-   "concernBasis": "Acne — niacinamide #3 on INCI, betaine salicylate #28 on INCI; Dark spots — product type, niacinamide #3 on INCI, tranexamic acid #4 on INCI, arbutin #8 on INCI, alpha-arbutin #10 on INCI, 3-o-ethyl ascorbic acid #38 on INCI; Aging — 3-o-ethyl ascorbic acid #38 on INCI; Irritation — centella asiatica extract #23 on INCI, panthenol #35 on INCI, ceramide np #39 on INCI, asiaticoside #41 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #3 on INCI, betaine salicylate #28 on INCI; Dark spots — product type, niacinamide #3 on INCI, tranexamic acid #4 on INCI, arbutin #8 on INCI, alpha-arbutin #10 on INCI, 3-o-ethyl ascorbic acid #38 on INCI; Aging — 3-o-ethyl ascorbic acid #38 on INCI; Irritation — centella asiatica extract #23 on INCI, panthenol #35 on INCI, ceramide np #39 on INCI, asiaticoside #41 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/o/s/w/30-10-niacinamide-4-txa-skin-radiance-brightening-serum-pack-of-original-imahd2kfz6gcgunh.jpeg?q=90",
@@ -17747,6 +17869,7 @@ const NXPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:niacinamide",
    "claim:brightening",
    "claim:dark-spots",
@@ -17990,7 +18113,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — niacinamide #2 on INCI; Dark spots — product type, niacinamide #2 on INCI, tranexamic acid #5 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #2 on INCI; Dark spots — product type, niacinamide #2 on INCI, tranexamic acid #5 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/c/d/m/40-niacinamide-20-face-serum-txa-glutathione-serum-for-dark-original-imahzru9qf95dmby.jpeg?q=90"
@@ -18002,6 +18126,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:glutathione",
    "claim:brightening",
@@ -19205,7 +19330,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/b/u/b/30-niacinamide-10-txa-4-serum-for-glass-skin-korean-skin-care-original-imahkh4fvsn8kbbg.jpeg?q=90",
@@ -19223,6 +19349,7 @@ const NXPRODUCTS = [
    "format:pack",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:niacinamide",
    "claim:brightening",
    "claim:anti-aging",
@@ -19322,7 +19449,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/d/x/e/30-10-niacinamide-face-serum-ondps-original-imahjkyvyzrvgxer.jpeg?q=90",
@@ -19338,6 +19466,7 @@ const NXPRODUCTS = [
    "format:pack",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:niacinamide",
    "claim:brightening",
    "claim:anti-aging",
@@ -19546,7 +19675,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/y/l/v/30-niacinamide-10-txa-4-serum-even-skin-tone-hyperpigmentation-original-imahcpk99fttmqr7.jpeg?q=90",
@@ -19564,6 +19694,7 @@ const NXPRODUCTS = [
    "format:pack",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:niacinamide",
    "claim:brightening",
    "claim:dark-spots",
@@ -20346,7 +20477,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.4★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51bfZxOqBsL._SL1280_.jpg",
@@ -20360,6 +20492,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
+   "water:unstated",
    "ing:kojic-acid",
    "ing:alpha-arbutin",
    "ing:tranexamic-acid",
@@ -20559,7 +20692,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "WishCare — Indian D2C brand with its own product company",
    "buyerEvidence": "4.2★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61+TR8PmvbL._SL1500_.jpg",
@@ -20574,6 +20708,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:serum",
+   "water:unstated",
    "ing:niacinamide",
    "ing:alpha-arbutin",
    "ing:tranexamic-acid",
@@ -20894,7 +21029,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Suganda Skincare — Indian D2C brand with its own product company",
    "buyerEvidence": "4.1★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61xj80HUPiL._SL1500_.jpg",
@@ -20909,6 +21045,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
+   "water:unstated",
    "ing:niacinamide",
    "ing:alpha-arbutin",
    "ing:tranexamic-acid",
@@ -21116,7 +21253,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71JGi0MjqqL._SL1500_.jpg",
@@ -21131,6 +21269,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
+   "water:unstated",
    "ing:niacinamide",
    "ing:kojic-acid",
    "ing:alpha-arbutin",
@@ -22579,7 +22718,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "5★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/518o8xSJ9OL._SL1200_.jpg",
@@ -22594,6 +22734,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
+   "water:unstated",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:ceramides",
@@ -24301,7 +24442,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.3★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61OS4KicdzL._SL1500_.jpg",
@@ -24318,6 +24460,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:serum",
    "format:capsule",
+   "water:unstated",
    "ing:niacinamide",
    "ing:tranexamic-acid",
    "claim:brightening",
@@ -25465,7 +25608,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.5★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51FwCWx5Y9L._SL1080_.jpg",
@@ -25481,6 +25625,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:wash",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "claim:brightening",
@@ -25583,7 +25728,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.8★ from 0 ratings",
-   "concernBasis": "Acne — niacinamide #3 on INCI; Dark spots — product type, 3-o-ethyl ascorbic acid #2 on INCI, niacinamide #3 on INCI; Aging — 3-o-ethyl ascorbic acid #2 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #3 on INCI; Dark spots — product type, 3-o-ethyl ascorbic acid #2 on INCI, niacinamide #3 on INCI; Aging — 3-o-ethyl ascorbic acid #2 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/619zLbd+lCL._SL1500_.jpg",
@@ -25598,6 +25744,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
@@ -26245,7 +26392,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "WishCare — Indian D2C brand with its own product company",
    "buyerEvidence": "4.1★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61wE2L5VZxL._SL1500_.jpg",
@@ -26260,6 +26408,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:serum",
+   "water:unstated",
    "ing:niacinamide",
    "ing:alpha-arbutin",
    "ing:tranexamic-acid",
@@ -26911,7 +27060,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "5★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51FuEJ4gfxL._SL1254_.jpg",
@@ -26927,6 +27077,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pads",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:lactic-acid",
@@ -27314,7 +27465,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/611h1s3A3SL._SL1295_.jpg",
@@ -27329,6 +27481,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:tranexamic-acid",
@@ -27420,7 +27573,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.2★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61iW+cD3EsL._SL1500_.jpg",
@@ -27435,6 +27589,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:alpha-arbutin",
@@ -27768,7 +27923,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.3★ from 0 ratings",
-   "concernBasis": "Dark spots — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61I8dHE7gDL._SL1500_.jpg",
@@ -27783,6 +27939,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
+   "water:unstated",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:ceramides",

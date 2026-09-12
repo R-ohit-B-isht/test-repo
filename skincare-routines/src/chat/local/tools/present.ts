@@ -63,7 +63,7 @@ export function detailSummary(detail: ProductDetail): Json {
       maker: ev.maker, buyerEvidence: ev.buyers, supportingIngredientsOnInci: ev.support ?? [],
     },
     listingFacts: pick(spec, ['quantity', 'pricePer100', 'format', 'skinType', 'hairType', 'madeIn', 'rating']),
-    sellerClaimsShownNotScored: pick(spec, ['keyIngredients', 'freeFrom', 'dermTested', 'nonComedogenic', 'benefit', 'naturalClaim']),
+    sellerClaimsShownNotScored: pick(spec, ['keyIngredients', 'freeFrom', 'dermTested', 'nonComedogenic', 'benefit', 'naturalClaim', 'waterResistance']),
   };
 }
 

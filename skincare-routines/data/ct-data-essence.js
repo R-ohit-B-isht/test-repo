@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-07.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-12.
 // Unknown fields are honestly marked, never invented.
 const CTPRODUCTS = [
  {
@@ -1483,7 +1483,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 5 ratings"
+   "buyerEvidence": "5★ from 5 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/o/b/w/30-ginseng-gold-essence-korean-polypeptide-anti-ageing-serum-for-original-imahfza4pp3f6yap.jpeg?q=90",
@@ -1501,6 +1502,7 @@ const CTPRODUCTS = [
    "format:essence",
    "format:pack",
    "format:wash",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:peptides",
    "ing:turmeric",
@@ -1954,6 +1956,8 @@ const CTPRODUCTS = [
    "format:ampoule",
    "format:essence",
    "format:toner",
+   "ing:nad-nmn",
+   "ing:pdrn-polynucleotide",
    "claim:brightening",
    "claim:anti-aging",
    "claim:pores",
@@ -4835,7 +4839,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 2 ratings"
+   "buyerEvidence": "5★ from 2 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/k/s/i/50-seoul-essence-night-cream-rice-water-korean-magic-hydrating-original-imahnsvk3zufyt4w.jpeg?q=90",
@@ -4852,6 +4857,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:essence",
    "format:pack",
+   "water:unstated",
    "ing:rice-water",
    "claim:brightening",
    "claim:hydrating",
@@ -6738,7 +6744,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-sunscreen/3/h/i/50-rice-essence-cooling-uv-defense-gel-60-kumijashi-original-imahnh5s3huy47gd.jpeg?q=90",
@@ -6758,6 +6765,7 @@ const CTPRODUCTS = [
    "format:essence",
    "spf:60",
    "pa:++++",
+   "water:unstated",
    "ing:rice-water",
    "claim:brightening",
    "claim:hydrating",
@@ -6850,7 +6858,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-sunscreen/z/b/l/50-rice-essence-gentle-daily-uv-cream-60-kumijashi-original-imahnh5sk88vzcjk.jpeg?q=90",
@@ -6869,6 +6878,7 @@ const CTPRODUCTS = [
    "format:essence",
    "spf:60",
    "pa:++++",
+   "water:unstated",
    "ing:rice-water",
    "claim:brightening",
    "claim:spf-claim",
@@ -6919,6 +6929,117 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "qerinkle-itm03bd40917f6ca",
+  "brand": "QERINKLE",
+  "model": "6X Peptide Skin Booster Toner Serum Niacinamide & Hyaluronic Acid Facial Essence Women",
+  "price": 254,
+  "capacityLine": "150 ml",
+  "materialLine": "niacinamide + hyaluronic acid + peptides",
+  "featureLine": "Toner · Paraben-free · ₹169/100ml",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "Well-reviewed: 4.4★ from 59 ratings"
+  ],
+  "cons": [
+   "Only 3 ingredients named — formula unscored",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 5.7
+  },
+  "fullSpec": {
+   "quantity": "150 ml",
+   "pricePer100": "₹169/100ml",
+   "format": "Toner",
+   "keyIngredients": "niacinamide, hyaluronic acid, peptides (per listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "4.4/5 (59 ratings, Flipkart)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 3 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: WATER, GLYCERIN, NIAXINAMIDE",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.4★ from 59 ratings"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/m/9/i/150-6x-peptide-skin-booster-toner-serum-niacinamide-hyaluronic-original-imahgfftht4hfh4n.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/j/k/l/150-6x-peptide-skin-booster-toner-serum-niacinamide-hyaluronic-original-imahgfftvvf9n8ba.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/j/n/f/150-6x-peptide-skin-booster-toner-serum-niacinamide-hyaluronic-original-imahgfftq94qj8nz.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/d/y/c/150-6x-peptide-skin-booster-toner-serum-niacinamide-hyaluronic-original-imahgfftphnhjfgj.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/z/z/b/150-6x-peptide-skin-booster-toner-serum-niacinamide-hyaluronic-original-imahgfft4amhhzgd.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/qerinkle-6x-peptide-skin-booster-toner-serum-niacinamide-hyaluronic-acid-facial-essence-women/p/itm03bd40917f6ca",
+  "buyStore": "Flipkart",
+  "title": "QERINKLE 6X Peptide Skin Booster Toner Serum Niacinamide & Hyaluronic Acid Facial Essence Women",
+  "tags": [
+   "scope:face",
+   "format:serum",
+   "format:essence",
+   "format:toner",
+   "format:pack",
+   "ing:niacinamide",
+   "ing:hyaluronic-acid",
+   "ing:peptides",
+   "ing:glycerin",
+   "claim:no-white-cast",
+   "skin:dry",
+   "free:paraben",
+   "aud:women",
+   "size:large",
+   "rating:4.0",
+   "store:flipkart",
+   "inci:partial"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "WATER, GLYCERIN, NIAXINAMIDE",
+   "inciNote": "Only 3 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.4★ from 59 ratings"
+  }
+ },
+ {
   "id": "anmika-itm9ce4f0ee0f40c",
   "brand": "ANMIKA",
   "model": "Gold Micro-Peptide Tallow Essence | Anti-Wrinkle & Skin Firming Face Serum",
@@ -6959,7 +7080,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/n/j/r/200-0-gold-micro-peptide-tallow-essence-anti-wrinkle-skin-original-imahk68ynphy33se.jpeg?q=90",
@@ -6976,6 +7098,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:serum",
    "format:essence",
+   "water:unstated",
    "ing:peptides",
    "ing:gold",
    "claim:anti-aging",
@@ -7069,7 +7192,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/n/j/r/200-0-gold-micro-peptide-tallow-essence-anti-wrinkle-skin-original-imahk68ynphy33se.jpeg?q=90"
@@ -7083,6 +7207,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:essence",
    "format:pack",
+   "water:unstated",
    "ing:peptides",
    "ing:gold",
    "claim:anti-aging",
@@ -7406,7 +7531,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/primer/f/7/k/30-vitamin-e-capsule-whitening-capsule-skin-face-care-na-tanvi27-original-imagzez4hjzucrq7.jpeg?q=90",
@@ -7425,6 +7551,7 @@ const CTPRODUCTS = [
    "format:oil",
    "format:capsule",
    "format:kit",
+   "water:unstated",
    "ing:vitamin-e",
    "claim:brightening",
    "claim:whitening-claim",
@@ -8705,6 +8832,8 @@ const CTPRODUCTS = [
    "format:serum",
    "format:essence",
    "format:toner",
+   "ing:nad-nmn",
+   "ing:pdrn-polynucleotide",
    "claim:brightening",
    "claim:anti-aging",
    "claim:korean",
@@ -12122,6 +12251,7 @@ const CTPRODUCTS = [
    "format:essence",
    "format:mist",
    "format:clay-mask",
+   "ing:pdrn-polynucleotide",
    "claim:brightening",
    "claim:pores",
    "claim:hydrating",
@@ -13881,6 +14011,7 @@ const CTPRODUCTS = [
    "scope:unstated",
    "format:serum",
    "format:essence",
+   "ing:pdrn-polynucleotide",
    "claim:hydrating",
    "claim:exfoliating",
    "claim:lightweight",
@@ -17793,6 +17924,7 @@ const CTPRODUCTS = [
    "format:stick",
    "format:balm",
    "ing:collagen",
+   "ing:pdrn-polynucleotide",
    "claim:brightening",
    "claim:anti-aging",
    "claim:hydrating",
@@ -18195,6 +18327,7 @@ const CTPRODUCTS = [
    "format:essence",
    "format:stick",
    "format:balm",
+   "ing:pdrn-polynucleotide",
    "claim:brightening",
    "skin:sensitive",
    "free:vegan",
@@ -19199,6 +19332,8 @@ const CTPRODUCTS = [
    "scope:unstated",
    "format:essence",
    "format:toner",
+   "ing:nad-nmn",
+   "ing:pdrn-polynucleotide",
    "claim:brightening",
    "claim:anti-aging",
    "claim:hydrating",
@@ -19401,6 +19536,8 @@ const CTPRODUCTS = [
    "scope:unstated",
    "format:essence",
    "format:toner",
+   "ing:nad-nmn",
+   "ing:pdrn-polynucleotide",
    "claim:brightening",
    "claim:anti-aging",
    "claim:hydrating",
@@ -19697,7 +19834,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51bs49S6hhL._SL1500_.jpg",
@@ -19713,6 +19851,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:essence",
+   "water:unstated",
    "ing:rice-water",
    "claim:brightening",
    "claim:oil-control",
@@ -19819,6 +19958,8 @@ const CTPRODUCTS = [
    "format:serum",
    "format:essence",
    "format:toner",
+   "ing:nad-nmn",
+   "ing:pdrn-polynucleotide",
    "claim:brightening",
    "claim:anti-aging",
    "claim:korean",
@@ -20021,6 +20162,8 @@ const CTPRODUCTS = [
    "format:serum",
    "format:essence",
    "format:toner",
+   "ing:nad-nmn",
+   "ing:pdrn-polynucleotide",
    "claim:brightening",
    "claim:anti-aging",
    "claim:korean",
@@ -20122,6 +20265,7 @@ const CTPRODUCTS = [
    "format:essence",
    "format:stick",
    "format:balm",
+   "ing:pdrn-polynucleotide",
    "claim:brightening",
    "claim:hydrating",
    "claim:barrier",
@@ -20621,6 +20765,8 @@ const CTPRODUCTS = [
    "format:serum",
    "format:essence",
    "format:toner",
+   "ing:nad-nmn",
+   "ing:pdrn-polynucleotide",
    "claim:brightening",
    "claim:anti-aging",
    "claim:korean",
@@ -20722,6 +20868,7 @@ const CTPRODUCTS = [
    "format:essence",
    "format:stick",
    "format:balm",
+   "ing:pdrn-polynucleotide",
    "claim:brightening",
    "claim:korean",
    "aud:unisex",
@@ -20925,6 +21072,7 @@ const CTPRODUCTS = [
    "format:essence",
    "format:stick",
    "format:balm",
+   "ing:pdrn-polynucleotide",
    "claim:brightening",
    "claim:korean",
    "aud:unisex",
@@ -21128,6 +21276,7 @@ const CTPRODUCTS = [
    "format:essence",
    "format:stick",
    "format:balm",
+   "ing:pdrn-polynucleotide",
    "claim:brightening",
    "claim:korean",
    "aud:unisex",
@@ -21230,6 +21379,7 @@ const CTPRODUCTS = [
    "format:balm",
    "ing:collagen",
    "ing:ginseng",
+   "ing:pdrn-polynucleotide",
    "claim:brightening",
    "claim:hydrating",
    "claim:korean",
@@ -21331,6 +21481,7 @@ const CTPRODUCTS = [
    "format:essence",
    "format:stick",
    "format:balm",
+   "ing:pdrn-polynucleotide",
    "claim:brightening",
    "claim:anti-aging",
    "claim:hydrating",
@@ -21434,6 +21585,7 @@ const CTPRODUCTS = [
    "format:stick",
    "format:balm",
    "ing:collagen",
+   "ing:pdrn-polynucleotide",
    "claim:brightening",
    "claim:anti-aging",
    "claim:hydrating",
@@ -21948,6 +22100,7 @@ const CTPRODUCTS = [
    "format:stick",
    "format:balm",
    "ing:collagen",
+   "ing:pdrn-polynucleotide",
    "claim:brightening",
    "claim:anti-aging",
    "claim:hydrating",
@@ -22052,6 +22205,7 @@ const CTPRODUCTS = [
    "format:stick",
    "format:balm",
    "ing:collagen",
+   "ing:pdrn-polynucleotide",
    "claim:brightening",
    "claim:anti-aging",
    "claim:hydrating",
@@ -22257,6 +22411,7 @@ const CTPRODUCTS = [
    "format:stick",
    "format:balm",
    "ing:collagen",
+   "ing:pdrn-polynucleotide",
    "claim:brightening",
    "claim:anti-aging",
    "claim:hydrating",
@@ -22362,6 +22517,7 @@ const CTPRODUCTS = [
    "ing:ceramides",
    "ing:collagen",
    "ing:ginseng",
+   "ing:pdrn-polynucleotide",
    "claim:brightening",
    "claim:anti-aging",
    "claim:hydrating",
@@ -25102,7 +25258,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/613raiUUNtL._AC_UL320_.jpg"
@@ -25116,6 +25273,7 @@ const CTPRODUCTS = [
    "format:essence",
    "spf:60",
    "pa:++++",
+   "water:unstated",
    "ing:rice-water",
    "claim:korean",
    "claim:spf-claim",
@@ -25917,7 +26075,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61wITQq+deL._AC_UL320_.jpg"
@@ -25930,6 +26089,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:essence",
    "format:kit",
+   "water:unstated",
    "ing:rice-water",
    "claim:brightening",
    "claim:hydrating",
@@ -27157,6 +27317,7 @@ const CTPRODUCTS = [
    "format:essence",
    "ing:retinol",
    "ing:peptides",
+   "ing:nad-nmn",
    "claim:anti-aging",
    "claim:hydrating",
    "claim:dark-circles",
@@ -27260,6 +27421,7 @@ const CTPRODUCTS = [
    "format:essence",
    "ing:retinol",
    "ing:peptides",
+   "ing:nad-nmn",
    "claim:anti-aging",
    "claim:hydrating",
    "claim:dark-circles",
@@ -27362,6 +27524,7 @@ const CTPRODUCTS = [
    "format:essence",
    "ing:retinol",
    "ing:peptides",
+   "ing:nad-nmn",
    "claim:anti-aging",
    "claim:hydrating",
    "claim:dark-circles",
@@ -28297,6 +28460,7 @@ const CTPRODUCTS = [
    "ing:niacinamide",
    "ing:retinol",
    "ing:peptides",
+   "ing:nad-nmn",
    "claim:brightening",
    "claim:anti-aging",
    "claim:hydrating",
@@ -30882,7 +31046,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/717RZijEpdL._AC_UL320_.jpg"
@@ -30895,6 +31060,7 @@ const CTPRODUCTS = [
    "format:essence",
    "spf:50+",
    "pa:++++",
+   "water:unstated",
    "claim:spf-claim",
    "skin:all",
    "aud:unisex",
@@ -30980,7 +31146,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Nature's Essence — Indian D2C brand with its own product company",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51e56XAGdRL._AC_UL320_.jpg"
@@ -30993,6 +31160,7 @@ const CTPRODUCTS = [
    "format:essence",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "claim:oil-control",
    "claim:no-white-cast",
    "claim:broad-spectrum",
@@ -31083,7 +31251,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61cmvzith6L._AC_UL320_.jpg"
@@ -31096,6 +31265,7 @@ const CTPRODUCTS = [
    "format:essence",
    "spf:50",
    "sun:mineral",
+   "water:unstated",
    "claim:hydrating",
    "claim:spf-claim",
    "aud:unisex",
@@ -31388,7 +31558,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Nature's Essence — Indian D2C brand with its own product company",
-   "buyerEvidence": "3.9★ from 0 ratings"
+   "buyerEvidence": "3.9★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51niUJytafL._AC_UL320_.jpg"
@@ -31401,6 +31572,7 @@ const CTPRODUCTS = [
    "format:essence",
    "spf:30",
    "pa:+++",
+   "water:unstated",
    "claim:oil-control",
    "claim:no-white-cast",
    "claim:broad-spectrum",
@@ -31491,7 +31663,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51Bnr9f9qOL._AC_UL320_.jpg"
@@ -31504,6 +31677,7 @@ const CTPRODUCTS = [
    "format:essence",
    "spf:30",
    "pa:++",
+   "water:unstated",
    "ing:niacinamide",
    "claim:brightening",
    "claim:hydrating",
@@ -31599,7 +31773,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51hzePtQ3CL._AC_UL320_.jpg"
@@ -31612,6 +31787,7 @@ const CTPRODUCTS = [
    "format:essence",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "claim:oil-control",
    "claim:lightweight",
@@ -32189,6 +32365,344 @@ const CTPRODUCTS = [
     "url": null
    },
    "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "aisul-itme18c3f8ae1967",
+  "brand": "Aisul",
+  "model": "Sunscreen - SPF 50 PA+++ Skinoperf Total Tinted Sunscreen - Water Essence",
+  "price": 990,
+  "capacityLine": "50 g",
+  "materialLine": "vitamin C + ceramides",
+  "featureLine": "Sunscreen · Paraben-free · SPF 50 · ₹1980/100g",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 4 ingredients named — formula unscored",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹1980/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin C, ceramides (per listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "SPF 50",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: Aqua, Microencapsulated UV Filters, Ceramide 3, Vitamin C",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/t/b/u/50-skinoperf-total-tinted-sunscreen-water-essence-water-essence-original-imahqmmqvxj9zrwg.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/aisul-sunscreen-spf-50-pa-skinoperf-total-tinted-water-essence/p/itme18c3f8ae1967",
+  "buyStore": "Flipkart",
+  "title": "Aisul Sunscreen - SPF 50 PA+++ Skinoperf Total Tinted Sunscreen - Water Essence",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:essence",
+   "spf:50",
+   "pa:+++",
+   "water:unstated",
+   "ing:vitamin-c",
+   "ing:ceramides",
+   "claim:broad-spectrum",
+   "claim:tinted",
+   "claim:spf-claim",
+   "skin:all",
+   "free:paraben",
+   "free:vegan",
+   "aud:women",
+   "size:travel",
+   "rating:none",
+   "store:flipkart",
+   "inci:partial"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Aqua, Microencapsulated UV Filters, Ceramide 3, Vitamin C",
+   "inciNote": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 0.75,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "thankyou-b0b67z7jgv",
+  "brand": "THANKYOU",
+  "model": "FARMER Sun Project Light Sun Essence SPF50+ PA+++ (120 ML) Korean Sunscreen Essence, Hydra…",
+  "price": 3491,
+  "capacityLine": "120 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Sunscreen · SPF 50 · ₹2909/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 3.5
+  },
+  "fullSpec": {
+   "quantity": "120 ml",
+   "pricePer100": "₹2909/100ml",
+   "format": "Sunscreen",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, SPF 50",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.5/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.5★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/41pgmZgEeXL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/619enoVh7+L._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/517No0ljQ-L._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/51dzaUm2rSL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/51pGSFbSGuL._SL1000_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0B67Z7JGV",
+  "buyStore": "Amazon",
+  "title": "THANKYOU FARMER Sun Project Light Sun Essence SPF50+ PA+++ (120 ML) Korean Sunscreen Essence, Hydrating, Lightweight, No White Cast, UV Protection, Soothes & Moisturises for All Skin Types",
+  "tags": [
+   "scope:unstated",
+   "format:serum",
+   "format:essence",
+   "spf:50+",
+   "pa:+++",
+   "water:unstated",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:soothing",
+   "claim:exfoliating",
+   "claim:no-white-cast",
+   "claim:lightweight",
+   "claim:korean",
+   "claim:spf-claim",
+   "claim:cooling",
+   "claim:makeup",
+   "claim:waterproof-makeup",
+   "skin:oily",
+   "skin:all",
+   "aud:unisex",
+   "size:standard",
+   "rating:4.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.5★ from 0 ratings"
+  }
+ },
+ {
+  "id": "nivea-b0grh5dsyf",
+  "brand": "Nivea",
+  "model": "Sun Extra Protect Daily Glow Essence Body Serum Sunscreen SPF50 PA+++ with Vitamin C & Vit…",
+  "price": 1197,
+  "capacityLine": "180 ml",
+  "materialLine": "vitamin C + vitamin E",
+  "featureLine": "Sunscreen · SPF 50 · ₹665/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6.5,
+   "experience": 5
+  },
+  "fullSpec": {
+   "quantity": "180 ml",
+   "pricePer100": "₹665/100ml",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin C, vitamin E (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim, SPF 50",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Beiersdorf — Global FMCG or beauty group",
+   "buyerEvidence": "5★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/41gTZwe5xGL.jpg",
+   "https://m.media-amazon.com/images/I/618k0T6wSfL.jpg",
+   "https://m.media-amazon.com/images/I/51m6YusYJgL.jpg",
+   "https://m.media-amazon.com/images/I/41+Q2B8JdtL.jpg",
+   "https://m.media-amazon.com/images/I/51sMnSTk-gL.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GRH5DSYF",
+  "buyStore": "Amazon",
+  "title": "NIVEA Sun Extra Protect Daily Glow Essence Body Serum Sunscreen SPF50 PA+++ with Vitamin C & Vitamin E, UVA UVB Protection, Anti Pollution, Fast Absorbing Non Sticky Sunscreen for Moisturized Glowing Skin, 180ml",
+  "tags": [
+   "scope:body",
+   "format:serum",
+   "format:essence",
+   "spf:50",
+   "pa:+++",
+   "water:unstated",
+   "ing:vitamin-c",
+   "ing:vitamin-e",
+   "claim:brightening",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "claim:broad-spectrum",
+   "claim:lightweight",
+   "claim:spf-claim",
+   "aud:unisex",
+   "size:large",
+   "rating:4.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Beiersdorf",
+    "kind": "global",
+    "label": "Global FMCG or beauty group",
+    "pts": 6.5,
+    "url": "https://www.beiersdorf.com/brands/nivea"
+   },
+   "buyers": "5★ from 0 ratings"
   }
  }
 ];

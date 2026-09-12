@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-11.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-12.
 // Unknown fields are honestly marked, never invented.
 const NXPRODUCTS = [
  {
@@ -158,7 +158,8 @@ const NXPRODUCTS = [
    "evidenceActives": "cocos nucifera oil (#3 on list, limited evidence); theobroma cacao seed butter (#7 on list, limited evidence); tocopherol (#15 on list, moderate evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/3/d/w/200-body-lotion-with-cocoa-butter-for-skin-anti-aging-agley-original-imah7rebgqtzrufy.jpeg?q=90",
@@ -178,6 +179,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:pads",
    "spf:15",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:saffron",
    "ing:cucumber",
@@ -326,7 +328,8 @@ const NXPRODUCTS = [
    "evidenceActives": "shea butter (#1 on list, moderate evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/o/y/1/200-whitening-body-lotion-with-shea-butter-deep-moisturizing-original-imahzkcamvq4wsgd.jpeg?q=90",
@@ -346,6 +349,7 @@ const NXPRODUCTS = [
    "format:kit",
    "spf:15",
    "pa:+++",
+   "water:unstated",
    "ing:shea-butter",
    "claim:whitening-claim",
    "claim:hydrating",
@@ -658,7 +662,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/primer/s/z/d/100-makeup-setting-spray-makeup-setting-spray-matte-finish-fixer-original-imaghxeztqvfdrby.jpeg?q=90",
@@ -674,6 +679,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:mist",
    "format:kit",
+   "water:unstated",
    "claim:oil-control",
    "claim:exfoliating",
    "claim:no-white-cast",
@@ -993,7 +999,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/primer/y/m/i/80-long-lasting-waterproof-oil-control-moisturizing-for-dry-oily-original-imaghy39rdyftdjh.jpeg?q=90",
@@ -1010,6 +1017,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:mist",
    "format:kit",
+   "water:resistant",
    "claim:brightening",
    "claim:oil-control",
    "claim:hydrating",
@@ -1500,7 +1508,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/4/1/e/200-moisturizing-lotion-with-ceramides-shea-butter-daily-original-imahp7ffntagjuay.jpeg?q=90",
@@ -1519,6 +1528,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "format:kit",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:aloe-vera",
@@ -1630,7 +1640,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "L'Oréal Dermatological Beauty — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — panthenol #5 on INCI, madecassoside #8 on INCI (matching only — not proof it works)"
+   "concernBasis": "Irritation — panthenol #5 on INCI, madecassoside #8 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/s/r/40-cicaplast-baume-b5-face-body-balm-nourishing-moisturizing-original-imahp2yhrh2pspvh.jpeg?q=90",
@@ -1646,6 +1657,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:balm",
+   "water:unstated",
    "claim:brightening",
    "claim:dark-spots",
    "claim:hydrating",
@@ -2197,7 +2209,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/r/l/m/250-dark-chocolate-cream-with-cocoa-butter-cocoa-powder-orange-original-imahkvk7gbgawfne.jpeg?q=90",
@@ -2216,6 +2229,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:peel",
    "format:powder",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:collagen",
    "ing:cocoa-butter",
@@ -2433,7 +2447,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/x/h/199-payra-care-face-body-moisturizer-cream-with-shea-butter-original-imahp4y6zhtqsghn.jpeg?q=90",
@@ -2451,6 +2466,7 @@ const NXPRODUCTS = [
    "format:lotion",
    "format:balm",
    "format:kit",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:colloidal-oatmeal",
    "ing:aloe-vera",
@@ -2558,7 +2574,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/e/b/3/300-sensitive-dry-skin-calming-shea-kokum-mango-body-butter-original-imahf8krject5qqt.jpeg?q=90",
@@ -2578,6 +2595,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:bar",
    "format:wash",
+   "water:unstated",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:collagen",
@@ -2690,7 +2708,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/9/d/j/100-dry-very-dry-skin-revitalizing-nourishing-shea-mango-kokum-original-imah9n65dcba7vha.jpeg?q=90",
@@ -2707,6 +2726,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:lotion",
    "format:balm",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -2814,7 +2834,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.6★ from 52 ratings"
+   "buyerEvidence": "4.6★ from 52 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/e/s/p/50-sensitive-dry-skin-intense-hydrating-moisturizer-hyaluronic-original-imahcecuevwv6kvy.jpeg?q=90",
@@ -2830,6 +2851,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:balm",
+   "water:unstated",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:shea-butter",
@@ -3051,7 +3073,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/e/b/3/300-sensitive-dry-skin-calming-shea-kokum-mango-body-butter-original-imahf8krject5qqt.jpeg?q=90",
@@ -3070,6 +3093,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "format:kit",
+   "water:unstated",
    "ing:collagen",
    "ing:aloe-vera",
    "ing:shea-butter",
@@ -3404,7 +3428,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/q/2/8/200-hydrilla-ad-moisturizing-lotion-ceramide-shea-butter-skin-original-imahgbsgzk7kzjfg.jpeg?q=90",
@@ -3423,6 +3448,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "format:kit",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:almond",
@@ -6811,7 +6837,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "declaredManufacturer": "PB PHARMA PLOT NO.82, GROUND FLOOR,SIDDHI VINAYAK INDUSTRIAL ESTATE (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/scrub/8/i/g/300-vitamin-c-shea-butter-sugar-scrub-with-collagen-peptides-original-imahnyyh8t4qt7pg.jpeg?q=90",
@@ -6829,6 +6856,7 @@ const NXPRODUCTS = [
    "format:scrub",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:caffeine",
    "ing:coffee",
@@ -17014,7 +17042,8 @@ const NXPRODUCTS = [
    "evidenceActives": "butyrospermum parkii butter (#3 on list, moderate evidence); theobroma cacao seed butter (#4 on list, limited evidence); tocopheryl acetate (#20 on list, moderate evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/s/r/b/200-oudh-body-butter-hydrates-for-soft-smooth-radiant-skin-original-imaha3y9uuumnukm.jpeg?q=90",
@@ -17033,6 +17062,7 @@ const NXPRODUCTS = [
    "format:lotion",
    "format:balm",
    "format:kit",
+   "water:unstated",
    "ing:coffee",
    "ing:honey",
    "ing:almond",
@@ -18072,7 +18102,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/d/a/o/200-akasa-cosmetics-body-butter-with-mango-butter-3-vitamin-e-0-original-imahphdewbvzjzyk.jpeg?q=90",
@@ -18091,6 +18122,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:50+",
    "pa:+++",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:cucumber",
    "ing:vitamin-e",
@@ -18624,7 +18656,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/v/a/c/1000-rose-coconut-body-butter-nature-s-touch-butter-original-imahz6hsrkhhueym.jpeg?q=90",
@@ -18644,6 +18677,7 @@ const NXPRODUCTS = [
    "format:pack",
    "spf:50+",
    "pa:+++",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:rose",
    "ing:coconut",
@@ -18739,7 +18773,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/x/g/100-deep-nourishment-body-butter-with-cocoa-almond-oils-zobha-original-imaheejftgykhynb.jpeg?q=90",
@@ -18760,6 +18795,7 @@ const NXPRODUCTS = [
    "format:powder",
    "spf:30",
    "pa:+",
+   "water:unstated",
    "ing:almond",
    "ing:cocoa-butter",
    "ing:glycerin",
@@ -18977,7 +19013,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/d/e/100-majestic-rose-body-butter-moisturising-cream-shea-butter-original-imah5xcqjh3ncrtf.jpeg?q=90",
@@ -18997,6 +19034,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:scrub",
    "spf:30",
+   "water:unstated",
    "ing:niacinamide",
    "ing:rose",
    "ing:squalane",
@@ -19326,7 +19364,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): parfum (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — aloe barbadensis leaf juice #3 on INCI (matching only — not proof it works)"
+   "concernBasis": "Irritation — aloe barbadensis leaf juice #3 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/g/j/550-kronoklay-body-butter-550ml-deep-moisturizing-nourishing-for-original-imahmanhfjfdzbun.jpeg?q=90",
@@ -19346,6 +19385,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:kit",
    "spf:30",
+   "water:unstated",
    "claim:whitening-claim",
    "claim:oil-control",
    "claim:hydrating",
@@ -20021,7 +20061,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/y/h/9/50-100-natural-triple-body-butter-deeply-hydrating-le-savon-original-imahgwvadq7tcdfz.jpeg?q=90",
@@ -20038,6 +20079,7 @@ const NXPRODUCTS = [
    "format:lotion",
    "format:balm",
    "format:kit",
+   "water:unstated",
    "ing:niacinamide",
    "claim:brightening",
    "claim:anti-aging",
@@ -20251,7 +20293,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 20 ratings"
+   "buyerEvidence": "4.2★ from 20 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/g/q/b/200-cutismoothbody-butter-moisturizing-cream-200gm-pack-ewp-original-imahmdxsbhhz2mzy.jpeg?q=90",
@@ -20268,6 +20311,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:balm",
    "format:pack",
+   "water:unstated",
    "ing:shea-butter",
    "ing:cocoa-butter",
    "claim:hydrating",
@@ -20895,7 +20939,8 @@ const NXPRODUCTS = [
    "evidenceActives": "cocoa butter (#1 on list, limited evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.3★ from 4 ratings"
+   "buyerEvidence": "3.3★ from 4 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/k3j1z0w0/moisturizer-cream/g/n/z/300-100-pure-organic-cocoa-butter-pack-3-jars-of-100-gms-aromine-original-imafmmjszjprpnzh.jpeg?q=90",
@@ -20912,6 +20957,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:balm",
    "format:pack",
+   "water:unstated",
    "ing:cocoa-butter",
    "claim:brightening",
    "claim:hydrating",
@@ -21336,7 +21382,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/x/g/t/200-body-butter-cream-pack-of-4-buttermax-cream-original-imahgzrgdqhcqmgg.jpeg?q=90",
@@ -21355,6 +21402,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:kit",
    "spf:50+",
+   "water:unstated",
    "ing:ceramides",
    "claim:brightening",
    "claim:hydrating",
@@ -21619,7 +21667,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/l3dcl8w0/moisturizer-cream/o/h/w/150-purple-passion-body-butter-kaved-essentials-cream-original-imageg5vxzsvzmgd.jpeg?q=90",
@@ -21638,6 +21687,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:30",
    "pa:+++",
+   "water:unstated",
    "ing:petrolatum",
    "claim:hydrating",
    "claim:barrier",
@@ -21846,7 +21896,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/o/c/d/100-daily-use-after-sun-body-butter-with-natural-ingredients-original-imahza4avzxbespa.jpeg?q=90",
@@ -21864,6 +21915,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:shea-butter",
    "ing:vitamin-e",
@@ -22076,7 +22128,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/j/n/q/200-body-butter-muelle-butter-original-imahjzkxk6agndky.jpeg?q=90",
@@ -22096,6 +22149,7 @@ const NXPRODUCTS = [
    "format:kit",
    "spf:50+",
    "pa:+",
+   "water:unstated",
    "claim:whitening-claim",
    "claim:hydrating",
    "claim:broad-spectrum",
@@ -22190,7 +22244,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/h/e/200-body-butter-cream-pack-of-5-buttermax-cream-original-imahgzrnb3aj2ha8.jpeg?q=90",
@@ -22210,6 +22265,7 @@ const NXPRODUCTS = [
    "format:kit",
    "spf:30",
    "pa:+",
+   "water:unstated",
    "claim:brightening",
    "claim:hydrating",
    "claim:broad-spectrum",
@@ -22545,7 +22601,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/l/s/100-premium-body-butter-for-soft-smooth-and-hydrated-skin-wivzi-original-imahza4j4hyamrzk.jpeg?q=90",
@@ -22564,6 +22621,7 @@ const NXPRODUCTS = [
    "format:lotion",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:aloe-vera",
    "ing:papaya",
@@ -22771,7 +22829,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/n/z/s/100-intensive-hydration-after-sun-body-butter-100g-wivzi-cream-original-imahza4x7zjdgy8z.jpeg?q=90",
@@ -22789,6 +22848,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:aloe-vera",
    "ing:shea-butter",
@@ -22888,7 +22948,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/f/l/r/100-luxurious-after-sun-body-butter-for-all-seasons-wivzi-cream-original-imahza3w8u96pwbm.jpeg?q=90",
@@ -22906,6 +22967,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:aloe-vera",
    "ing:shea-butter",
@@ -23004,7 +23066,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/b/5/100-after-sun-body-butter-100g-for-soft-smooth-glowing-skin-original-imahza6q34t5yf3a.jpeg?q=90",
@@ -23022,6 +23085,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:honey",
    "ing:almond",
@@ -23123,7 +23187,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/i/t/100-deep-nourishing-body-butter-for-dry-skin-100g-wivzi-cream-original-imahza3whcmwukbg.jpeg?q=90",
@@ -23142,6 +23207,7 @@ const NXPRODUCTS = [
    "format:lotion",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:aloe-vera",
    "ing:papaya",
@@ -23242,7 +23308,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/6/a/2/100-shea-butter-after-sun-body-butter-for-long-lasting-moisture-original-imahza4yv2wpk46p.jpeg?q=90",
@@ -23260,6 +23327,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:aloe-vera",
    "ing:honey",
@@ -23362,7 +23430,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/1/f/100-daily-moisturizing-body-butter-with-shea-butter-100g-wivzi-original-imahza45jevmpygh.jpeg?q=90",
@@ -23380,6 +23449,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:aloe-vera",
    "ing:shea-butter",
@@ -23478,7 +23548,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/j/y/x/100-coconut-oil-and-avocado-oil-after-sun-body-butter-wivzi-original-imahza3wqjrhtrjz.jpeg?q=90",
@@ -23496,6 +23567,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:aloe-vera",
    "ing:shea-butter",
@@ -23595,7 +23667,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/x/d/e/100-after-sun-hydrating-body-butter-for-healthy-skin-wivzi-cream-original-imahza458ybg9vhe.jpeg?q=90",
@@ -23615,6 +23688,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "format:kit",
+   "water:unstated",
    "ing:coffee",
    "ing:aloe-vera",
    "ing:shea-butter",
@@ -23715,7 +23789,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/7/c/100-moisture-lock-after-sun-body-butter-for-silky-skin-wivzi-original-imahza55n2wkuzgk.jpeg?q=90",
@@ -23733,6 +23808,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:aloe-vera",
    "ing:shea-butter",
@@ -23833,7 +23909,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/x/x/b/100-luxurious-after-sun-body-butter-for-all-seasons-wivzi-cream-original-imahza3wmn8kebm8.jpeg?q=90",
@@ -23853,6 +23930,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "format:kit",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:shea-butter",
    "ing:cocoa-butter",
@@ -24060,7 +24138,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/g/f/v/100-long-lasting-moisture-body-butter-with-shea-butter-wivzi-original-imahza56z2xwcgqr.jpeg?q=90",
@@ -24079,6 +24158,7 @@ const NXPRODUCTS = [
    "format:lotion",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:aloe-vera",
    "ing:papaya",
@@ -24178,7 +24258,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/g/s/w/100-deep-hydration-after-sun-body-butter-with-natural-oils-100g-original-imahza4awyqzz5xy.jpeg?q=90",
@@ -24196,6 +24277,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:shea-butter",
    "ing:vitamin-e",
@@ -24293,7 +24375,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/e/m/o/100-hydrating-body-butter-for-dry-and-damaged-skin-100g-wivzi-original-imahza3wpuzh4zwr.jpeg?q=90",
@@ -24311,6 +24394,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:honey",
    "ing:almond",
@@ -24413,7 +24497,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/y/r/100-after-sun-body-butter-for-healthy-glowing-skin-100g-wivzi-original-imahza452vvry9fu.jpeg?q=90",
@@ -24432,6 +24517,7 @@ const NXPRODUCTS = [
    "format:lotion",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:papaya",
    "ing:shea-butter",
@@ -24531,7 +24617,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/r/7/p/100-skin-softening-after-sun-body-butter-for-men-and-women-wivzi-original-imahza4yvjy6sjvr.jpeg?q=90",
@@ -24549,6 +24636,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:shea-butter",
    "ing:vitamin-e",
@@ -24646,7 +24734,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/g/u/c/100-rich-after-sun-body-butter-for-daily-skin-care-wivzi-cream-original-imahza4xeqduxpm3.jpeg?q=90",
@@ -24665,6 +24754,7 @@ const NXPRODUCTS = [
    "format:lotion",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:green-tea",
    "ing:aloe-vera",
    "ing:honey",
@@ -24768,7 +24858,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/s/x/o/100-long-lasting-hydration-body-butter-with-natural-oils-wivzi-original-imahza7tcxrpw45c.jpeg?q=90",
@@ -24786,6 +24877,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:aloe-vera",
    "ing:shea-butter",
@@ -24885,7 +24977,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/o/n/4/100-premium-skin-nourishing-body-butter-100g-wivzi-cream-original-imahza3w9dcjdsge.jpeg?q=90",
@@ -24903,6 +24996,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:aloe-vera",
    "ing:shea-butter",
@@ -25001,7 +25095,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/a/o/q/100-after-sun-body-butter-for-extra-dry-skin-care-wivzi-cream-original-imahza6rg34gdkgh.jpeg?q=90",
@@ -25020,6 +25115,7 @@ const NXPRODUCTS = [
    "format:lotion",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:aloe-vera",
    "ing:papaya",
@@ -25121,7 +25217,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/e/x/s/100-after-sun-body-butter-100g-with-shea-butter-coconut-oil-original-imahza4edzpnq5us.jpeg?q=90",
@@ -25140,6 +25237,7 @@ const NXPRODUCTS = [
    "format:lotion",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:aloe-vera",
    "ing:papaya",
@@ -25240,7 +25338,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/q/p/100-moisturizing-body-butter-with-coconut-oil-and-avocado-oil-original-imahza4v2ezgvx5k.jpeg?q=90",
@@ -25258,6 +25357,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:aloe-vera",
    "ing:shea-butter",
@@ -25357,7 +25457,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/a/5/s/100-moisture-rich-body-butter-for-dry-and-rough-skin-wivzi-cream-original-imahza3wxgjbg9c8.jpeg?q=90",
@@ -25375,6 +25476,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:aloe-vera",
    "ing:shea-butter",
@@ -25474,7 +25576,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/h/w/100-after-sun-body-butter-for-men-women-and-all-skin-types-wivzi-original-imahza3w8fhgj4sr.jpeg?q=90",
@@ -25494,6 +25597,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "format:kit",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:shea-butter",
    "ing:cocoa-butter",
@@ -25705,7 +25809,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/n/x/l/100-after-sun-skin-nourishing-body-butter-100g-wivzi-cream-original-imahza45sccd6usz.jpeg?q=90",
@@ -25723,6 +25828,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:aloe-vera",
    "ing:shea-butter",
@@ -25929,7 +26035,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/v/s/q/100-after-sun-moisturizing-body-butter-for-dry-skin-100g-wivzi-original-imahza55v3zdeuhq.jpeg?q=90",
@@ -25947,6 +26054,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:aloe-vera",
    "ing:shea-butter",
@@ -26258,7 +26366,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/z/f/200-shea-body-butter-for-deep-nourishment-inatur-cream-original-imah32qhhfqt6k5g.jpeg?q=90",
@@ -26277,6 +26386,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:30",
    "pa:++++",
+   "water:unstated",
    "ing:kumkumadi",
    "ing:almond",
    "ing:shea-butter",
@@ -26594,7 +26704,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/bath-essential-oil/3/b/w/227-shea-body-butter-majestic-pure-original-imagx8zzbd6wwuzy.jpeg?q=90",
@@ -26612,6 +26723,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:bar",
    "format:kit",
+   "water:unstated",
    "ing:honey",
    "ing:almond",
    "ing:shea-butter",
@@ -27341,7 +27453,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.5★ from 133 ratings",
-   "concernBasis": "Irritation — aloe barbadensis leaf juice #8 on INCI (matching only — not proof it works)"
+   "concernBasis": "Irritation — aloe barbadensis leaf juice #8 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/m/q/9/100-coffee-body-butter-with-vitamin-e-oil-for-intense-original-imahmazs4gfzmnwe.jpeg?q=90",
@@ -27358,6 +27471,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:coffee",
    "ing:aloe-vera",
    "ing:almond",
@@ -27946,7 +28060,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/q/c/l/200-moisturizing-body-butter-shea-butter-cocoa-butter-24-hr-original-imah6he3pfgjym5n.jpeg?q=90",
@@ -27964,6 +28079,7 @@ const NXPRODUCTS = [
    "format:lotion",
    "format:balm",
    "spf:30",
+   "water:unstated",
    "ing:shea-butter",
    "ing:cocoa-butter",
    "ing:watermelon",
@@ -28391,7 +28507,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/v/d/a/100-cocoa-chocolate-body-butter-100g-moisturizing-nourishing-original-imaheeav2wtgvtts.jpeg?q=90",
@@ -28410,6 +28527,7 @@ const NXPRODUCTS = [
    "format:lotion",
    "format:balm",
    "format:kit",
+   "water:unstated",
    "ing:cocoa-butter",
    "claim:hydrating",
    "skin:all",
@@ -28609,7 +28727,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/t/h/p/250-body-butter-nourishing-certified-natural-vedic-valley-cream-original-imah5rcyh3w6wfn6.jpeg?q=90",
@@ -28628,6 +28747,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:30",
    "pa:+",
+   "water:unstated",
    "claim:hydrating",
    "claim:broad-spectrum",
    "claim:spf-claim",
@@ -29046,7 +29166,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 9 ratings"
+   "buyerEvidence": "4.2★ from 9 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/d/g/8/380-cocoa-butter-shea-butter-moisturizing-cocoa-butter-face-body-original-imahhw3qaysyyrwp.jpeg?q=90",
@@ -29063,6 +29184,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:shea-butter",
    "ing:cocoa-butter",
    "ing:vitamin-e",
@@ -29583,7 +29705,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.3★ from 12 ratings"
+   "buyerEvidence": "3.3★ from 12 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/k186fm80/moisturizer-cream/t/9/y/100-100-pure-organic-cocoa-butter-100-gms-aromine-cream-original-imafkurjja7cpxxz.jpeg?q=90",
@@ -29599,6 +29722,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:balm",
+   "water:unstated",
    "ing:cocoa-butter",
    "claim:brightening",
    "claim:de-tan",
@@ -30218,7 +30342,8 @@ const NXPRODUCTS = [
    "evidenceActives": "cocoa butter (#1 on list, limited evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 7 ratings"
+   "buyerEvidence": "4.3★ from 7 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/k3j1z0w0/moisturizer-cream/g/n/z/300-100-pure-organic-cocoa-butter-pack-3-jars-of-100-gms-aromine-original-imaffagvhc7vphp9.jpeg?q=90",
@@ -30234,6 +30359,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:balm",
+   "water:unstated",
    "ing:cocoa-butter",
    "claim:brightening",
    "claim:hydrating",
@@ -40351,7 +40477,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/bath-essential-oil/8/v/a/200-all-day-use-sexy-full-body-massage-oil-for-relieves-stress-original-imah9c4rjhyx9k8k.jpeg?q=90",
@@ -40367,6 +40494,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:oil",
    "format:kit",
+   "water:unstated",
    "ing:rose",
    "ing:honey",
    "ing:almond",
@@ -55219,7 +55347,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/bath-essential-oil/i/b/1/400-massage-oil-for-romance-and-relaxing-body-winry-original-imahm9sra7zcvnv9.jpeg?q=90",
@@ -55234,6 +55363,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:body",
    "format:oil",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:honey",
    "ing:almond",
@@ -57131,7 +57261,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/3/d/w/200-trishglow-shea-butter-moisturising-pack-of1-balaxy-lotion-original-imahgyh6enhhzcvh.jpeg?q=90",
@@ -57150,6 +57281,7 @@ const NXPRODUCTS = [
    "format:kit",
    "spf:30",
    "pa:+++",
+   "water:unstated",
    "ing:shea-butter",
    "claim:hydrating",
    "claim:broad-spectrum",
@@ -58107,7 +58239,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/f/n/l/400-trishglow-shea-butter-moisturising-pack-of2-balaxy-lotion-original-imahgyh9efrqsgyw.jpeg?q=90",
@@ -58127,6 +58260,7 @@ const NXPRODUCTS = [
    "format:kit",
    "spf:30",
    "pa:+++",
+   "water:unstated",
    "ing:shea-butter",
    "claim:brightening",
    "claim:hydrating",
@@ -58222,7 +58356,8 @@ const NXPRODUCTS = [
    "evidenceActives": "shea butter (#1 on list, moderate evidence); cocoa butter (#2 on list, limited evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/a/0/n/100-body-butter-cream-with-shea-butter-cocoa-deep-nourishment-original-imahcjkgzbfysx5t.jpeg?q=90",
@@ -58241,6 +58376,7 @@ const NXPRODUCTS = [
    "format:lotion",
    "format:balm",
    "format:clay-mask",
+   "water:unstated",
    "ing:saffron",
    "ing:clay",
    "ing:almond",
@@ -58364,7 +58500,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/0/v/200-body-butter-200g-with-shea-butter-and-vitamin-e-and-original-imahdh7mhag5wgng.jpeg?q=90",
@@ -58383,6 +58520,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "format:kit",
+   "water:unstated",
    "ing:shea-butter",
    "ing:cocoa-butter",
    "ing:vitamin-e",
@@ -58481,7 +58619,8 @@ const NXPRODUCTS = [
    "evidenceActives": "cocos nucifera oil (#3 on list, limited evidence); theobroma cacao seed butter (#7 on list, limited evidence); tocopherol (#15 on list, moderate evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/a/t/v/200-shea-cocoa-body-winter-cream-deep-nourish-body-lotion-for-original-imah7gmbyhvjtssg.jpeg?q=90",
@@ -58499,6 +58638,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:lotion",
    "format:balm",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:shea-butter",
    "ing:cocoa-butter",
@@ -58636,7 +58776,8 @@ const NXPRODUCTS = [
    "evidenceActives": "cocos nucifera oil (#3 on list, limited evidence); theobroma cacao seed butter (#7 on list, limited evidence); tocopherol (#15 on list, moderate evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/d/g/800-d-tan-moisturizer-nature-s-wind-cream-original-imahgxakuhvtgw3z.jpeg?q=90",
@@ -58652,6 +58793,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:balm",
+   "water:unstated",
    "ing:honey",
    "ing:almond",
    "ing:shea-butter",
@@ -58898,7 +59040,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/a/m/f/200-cocoa-butter-shea-butter-moisturizing-winter-cold-cream-for-original-imah7jhuafac6mna.jpeg?q=90",
@@ -58918,6 +59061,7 @@ const NXPRODUCTS = [
    "format:serum",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:honey",
    "ing:almond",
@@ -59362,7 +59506,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/y/j/b/100-organic-shea-cocoa-butter-moisturizer-with-vitamin-e-non-original-imahgztzj9vkhwfz.jpeg?q=90",
@@ -59382,6 +59527,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "format:kit",
+   "water:unstated",
    "ing:bakuchiol",
    "ing:salicylic-acid-bha",
    "ing:aha",
@@ -59592,7 +59738,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/m/e/200-women-s-shea-body-butter-preventing-dryness-improving-skin-original-imahhx4mzqqhuyxh.jpeg?q=90",
@@ -59612,6 +59759,7 @@ const NXPRODUCTS = [
    "format:kit",
    "spf:50+",
    "pa:+++",
+   "water:unstated",
    "ing:shea-butter",
    "claim:brightening",
    "claim:hydrating",
@@ -59707,7 +59855,8 @@ const NXPRODUCTS = [
    "evidenceActives": "shea butter (#1 on list, moderate evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/m/v/o/50-organic-african-shea-butter-unrefined-for-instant-glow-original-imahcc4xg7uhp39j.jpeg?q=90",
@@ -59725,6 +59874,7 @@ const NXPRODUCTS = [
    "format:lotion",
    "format:balm",
    "format:kit",
+   "water:unstated",
    "ing:collagen",
    "ing:kumkumadi",
    "ing:shea-butter",
@@ -59846,7 +59996,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/m/o/p/75-women-s-shea-butter-with-niacinamide-face-moisturizer-for-dry-original-imahhqhfymytdgvy.jpeg?q=90",
@@ -59867,6 +60018,7 @@ const NXPRODUCTS = [
    "format:kit",
    "spf:50+",
    "pa:++",
+   "water:unstated",
    "ing:niacinamide",
    "ing:rice-water",
    "ing:shea-butter",
@@ -59963,7 +60115,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/g/1/a/200-body-butter-for-dry-skin-for-both-women-and-men-shea-butter-original-imahdh9dqsz2fnmg.jpeg?q=90",
@@ -59980,6 +60133,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:balm",
+   "water:unstated",
    "ing:shea-butter",
    "claim:brightening",
    "claim:hydrating",
@@ -60176,7 +60330,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/z/c/200-shea-butter-moisturizer-cold-cream-the-natural-purity-lotion-original-imagwt9nwfahfkxe.jpeg?q=90",
@@ -60197,6 +60352,7 @@ const NXPRODUCTS = [
    "format:kit",
    "spf:50+",
    "pa:+",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:shea-butter",
    "ing:coconut",
@@ -60299,7 +60455,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/q/r/v/200-body-butter-shea-cocoa-butter-72hrs-moisturization-non-original-imahdh9nbzcspx3y.jpeg?q=90",
@@ -60318,6 +60475,7 @@ const NXPRODUCTS = [
    "format:lotion",
    "format:balm",
    "format:kit",
+   "water:unstated",
    "ing:saffron",
    "ing:shea-butter",
    "ing:cocoa-butter",
@@ -60416,7 +60574,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/y/8/200-shea-cocoa-butter-body-butter-72hrs-moisturization-non-original-imah7e4b3yjdy8bu.jpeg?q=90",
@@ -60433,6 +60592,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:balm",
    "format:kit",
+   "water:unstated",
    "ing:shea-butter",
    "ing:cocoa-butter",
    "claim:brightening",
@@ -60829,7 +60989,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/w/b/200-natural-body-butter-with-avocado-oil-cocoa-shea-butter-original-imahdgyzctmvhhvz.jpeg?q=90",
@@ -60848,6 +61009,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "format:kit",
+   "water:unstated",
    "ing:shea-butter",
    "ing:cocoa-butter",
    "ing:vitamin-e",
@@ -60944,7 +61106,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/x/f/r/200-0-cocoa-shea-body-butter-moisturiser-heals-dry-skin-and-original-imahh9wyrgagcned.jpeg?q=90",
@@ -60963,6 +61126,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:30",
    "pa:+",
+   "water:unstated",
    "ing:shea-butter",
    "ing:cocoa-butter",
    "ing:glycerin",
@@ -61511,7 +61675,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/g/g/h/200-100-organic-shea-butter-raw-unrefined-great-for-face-skin-original-imah748nhcchgg5j.jpeg?q=90",
@@ -61528,6 +61693,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:lotion",
    "format:balm",
+   "water:unstated",
    "ing:saffron",
    "ing:honey",
    "ing:almond",
@@ -61623,7 +61789,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/y/v/g/200-cocoa-rich-body-winter-cold-cream-for-intense-moisturization-original-imah7gjvzyphqk4h.jpeg?q=90",
@@ -61641,6 +61808,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:lotion",
    "format:balm",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:honey",
    "ing:almond",
@@ -61736,7 +61904,8 @@ const NXPRODUCTS = [
    "evidenceActives": "cocos nucifera oil (#3 on list, limited evidence); theobroma cacao seed butter (#7 on list, limited evidence); tocopherol (#15 on list, moderate evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/q/6/a/200-100-pure-organic-shea-butter-cocoa-butter-cold-winter-cream-original-imah7gmnkems6ys9.jpeg?q=90",
@@ -61755,6 +61924,7 @@ const NXPRODUCTS = [
    "format:lotion",
    "format:balm",
    "format:kit",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:honey",
    "ing:almond",
@@ -61997,7 +62167,8 @@ const NXPRODUCTS = [
    "evidenceActives": "cocos nucifera oil (#3 on list, limited evidence); theobroma cacao seed butter (#7 on list, limited evidence); tocopherol (#15 on list, moderate evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/6/j/v/200-shea-cocoa-cold-cream-sheny-soft-cream-original-imah7gkbwxvtugvm.jpeg?q=90",
@@ -62014,6 +62185,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:lotion",
    "format:balm",
+   "water:unstated",
    "ing:saffron",
    "ing:honey",
    "ing:almond",
@@ -62888,7 +63060,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/4/w/200-shea-butter-for-body-and-skin-raw-unrefined-and-organic-original-imah747bsvbeagpp.jpeg?q=90",
@@ -62906,6 +63079,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:lotion",
    "format:balm",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:honey",
    "ing:almond",
@@ -63108,7 +63282,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/m/w/700-prominent-body-lotion-shea-butter-vitamin-e-aloevera-350ml-original-imahepfzzrfyyv8h.jpeg?q=90",
@@ -63126,6 +63301,7 @@ const NXPRODUCTS = [
    "format:lotion",
    "format:balm",
    "format:kit",
+   "water:unstated",
    "ing:shea-butter",
    "ing:vitamin-e",
    "claim:brightening",
@@ -63219,7 +63395,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/o/y/150-coconut-milk-skin-lotion-with-shea-butter-for-daily-moisture-original-imahqep8scyyp2yy.jpeg?q=90",
@@ -63234,6 +63411,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:lotion",
    "format:balm",
+   "water:unstated",
    "ing:shea-butter",
    "ing:coconut",
    "ing:milk",
@@ -63327,7 +63505,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/o/p/0/150-daily-body-moisturiser-with-coconut-milk-and-shea-butter-for-original-imahqep8f49qzxdq.jpeg?q=90",
@@ -63342,6 +63521,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:lotion",
    "format:balm",
+   "water:unstated",
    "ing:shea-butter",
    "ing:coconut",
    "ing:milk",
@@ -64427,7 +64607,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "RSH Global (Joy Personal Care) — Established / listed Indian FMCG house",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/5/i/0/800-cocoa-rich-nourishing-body-lotion-with-shea-butter-for-original-imahqgswsqjtkgcw.jpeg?q=90",
@@ -64445,6 +64626,7 @@ const NXPRODUCTS = [
    "format:lotion",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:honey",
    "ing:almond",
    "ing:shea-butter",
@@ -65110,7 +65292,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/s/c/d/380-cocoa-butter-cold-cream-for-women-men-and-all-day-fraileno-original-imahhvykdjpbdnye.jpeg?q=90",
@@ -65129,6 +65312,7 @@ const NXPRODUCTS = [
    "format:lotion",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:colloidal-oatmeal",
    "ing:aloe-vera",
    "ing:honey",
@@ -65240,7 +65424,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/j/x/r/380-cocoa-butter-moisturizing-face-body-cream-skin-care-fraileno-original-imahhvyugfdf94cf.jpeg?q=90",
@@ -65258,6 +65443,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "format:kit",
+   "water:unstated",
    "ing:cocoa-butter",
    "ing:vitamin-e",
    "ing:glycerin",
@@ -65360,7 +65546,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/m/p/380-cocoa-cold-body-butter-cream-vitamin-e-oil-for-rich-original-imahhuywnurbnznc.jpeg?q=90",
@@ -65379,6 +65566,7 @@ const NXPRODUCTS = [
    "format:lotion",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:cocoa-butter",
    "ing:vitamin-e",
    "ing:glycerin",
@@ -65480,7 +65668,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/i/g/b/380-cocoa-cold-body-butter-cream-moisturization-nourishment-original-imahhuz6hbpcwywp.jpeg?q=90",
@@ -65498,6 +65687,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:cocoa-butter",
    "ing:vitamin-e",
@@ -65600,7 +65790,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/f/z/o/380-cocoa-butter-face-body-cream-stretch-marks-removal-softening-original-imahhw3ugeg9zscs.jpeg?q=90",
@@ -65617,6 +65808,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:rice-water",
    "ing:neem",
    "ing:cocoa-butter",
@@ -65720,7 +65912,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/6/x/p/380-nourishing-softening-cocoa-butter-cold-cream-fraileno-cream-original-imahhw3tggvxrrdv.jpeg?q=90",
@@ -65737,6 +65930,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:rice-water",
    "ing:neem",
    "ing:cocoa-butter",
@@ -65842,7 +66036,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/b/7/380-cocoa-cold-body-butter-cream-vitamin-e-oil-for-rich-original-imahhuywupbyatkv.jpeg?q=90",
@@ -65861,6 +66056,7 @@ const NXPRODUCTS = [
    "format:lotion",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:rose",
    "ing:cocoa-butter",
    "ing:vitamin-e",
@@ -66185,7 +66381,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/q/h/200-shades-of-love-body-butter-200gm-the-love-co-butter-original-imahc698dywjaesh.jpeg?q=90",
@@ -66202,6 +66399,7 @@ const NXPRODUCTS = [
    "format:lotion",
    "format:balm",
    "format:kit",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:colloidal-oatmeal",
    "ing:honey",
@@ -66737,7 +66935,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 2,198 ratings"
+   "buyerEvidence": "4.2★ from 2,198 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/g/t/j/380-cocoa-butter-face-body-cream-with-cocoa-extracts-nourishing-original-imahjc4xsf5wdkdq.jpeg?q=90",
@@ -66753,6 +66952,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:balm",
+   "water:unstated",
    "ing:cocoa-butter",
    "claim:brightening",
    "claim:hydrating",
@@ -66845,7 +67045,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/g/l/n/380-cocoa-butter-cold-cream-for-women-men-and-all-day-fraileno-original-imahhvykdkybwxwg.jpeg?q=90",
@@ -66864,6 +67065,7 @@ const NXPRODUCTS = [
    "format:lotion",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:cocoa-butter",
    "ing:vitamin-e",
@@ -66966,7 +67168,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/a/h/n/380-choco-body-butter-cocoa-butter-deep-moisturizing-cream-for-original-imahhxf4sdncewzx.jpeg?q=90",
@@ -66983,6 +67186,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:cocoa-butter",
    "ing:vitamin-e",
@@ -67202,7 +67406,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/m/s/5/200-silky-smooth-transform-your-skin-with-body-butter-s-original-imahdh82zvn6vvgz.jpeg?q=90",
@@ -67221,6 +67426,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "format:kit",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
    "ing:shea-butter",
@@ -67318,7 +67524,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/r/o/380-cold-cream-with-vitamin-e-oil-and-cocoa-butter-fraileno-original-imahhvypfq3k3szq.jpeg?q=90",
@@ -67337,6 +67544,7 @@ const NXPRODUCTS = [
    "format:lotion",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:saffron",
    "ing:cocoa-butter",
@@ -67891,7 +68099,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/4/t/f/100-cocoa-butter-unrefined-o-help-protect-the-skin-moisturized-original-imagmbasgjbr4mrt.jpeg?q=90",
@@ -67911,6 +68120,7 @@ const NXPRODUCTS = [
    "format:kit",
    "spf:30",
    "pa:+++",
+   "water:unstated",
    "ing:cocoa-butter",
    "claim:hydrating",
    "claim:broad-spectrum",
@@ -68004,7 +68214,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/8/x/380-cold-winter-cream-cocoa-butter-cold-cream-skin-brightening-original-imahhw3s6cvp5fre.jpeg?q=90",
@@ -68021,6 +68232,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:cocoa-butter",
    "ing:vitamin-e",
@@ -69846,7 +70058,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/bath-essential-oil/p/o/o/200-moisturizing-dry-body-oil-skin-wiffy-original-imah3fw7nzyju3rj.jpeg?q=90",
@@ -69861,6 +70074,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:body",
    "format:oil",
+   "water:unstated",
    "ing:honey",
    "ing:almond",
    "ing:vitamin-e",
@@ -71127,7 +71341,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/bath-essential-oil/6/g/z/200-honey-body-oil-daily-use-body-massage-oil-after-bath-for-original-imah53eprtse7f6f.jpeg?q=90",
@@ -71142,6 +71357,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:oil",
+   "water:unstated",
    "ing:honey",
    "ing:almond",
    "ing:vitamin-e",
@@ -71792,7 +72008,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/bath-essential-oil/n/f/f/200-skin-tone-skin-glowing-brighteing-women-men-almond-honey-oil-original-imah3uf7hjg3fmhp.jpeg?q=90",
@@ -71808,6 +72025,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:oil",
    "format:bar",
+   "water:unstated",
    "ing:honey",
    "ing:almond",
    "ing:vitamin-e",
@@ -71900,7 +72118,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/bath-essential-oil/c/n/v/200-honey-almond-face-body-oil-moisturizer-for-all-skin-type-original-imahfhkmngtrnvkh.jpeg?q=90",
@@ -71915,6 +72134,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:oil",
+   "water:unstated",
    "ing:honey",
    "ing:almond",
    "ing:vitamin-e",
@@ -74415,7 +74635,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/bath-essential-oil/g/r/m/200-after-bath-for-moisturizing-body-oil-for-women-wiffy-original-imah3fwz5snrghhq.jpeg?q=90",
@@ -74430,6 +74651,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:body",
    "format:oil",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:honey",
    "ing:almond",
@@ -74731,7 +74953,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/bath-essential-oil/3/d/n/200-body-massage-oil-for-men-and-women-wiffy-original-imah84yzabstcghg.jpeg?q=90",
@@ -74746,6 +74969,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:body",
    "format:oil",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:honey",
    "ing:almond",
@@ -80887,7 +81111,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 31 ratings"
+   "buyerEvidence": "4★ from 31 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/c/b/2/100-almond-oil-face-cream-hydrating-skin-helps-delay-signs-of-original-imahnbpdya2fxbbc.jpeg?q=90",
@@ -80905,6 +81130,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:oil",
    "sun:mineral",
+   "water:unstated",
    "ing:almond",
    "ing:glycerin",
    "ing:mineral-oil",
@@ -81637,7 +81863,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 85 ratings"
+   "buyerEvidence": "4.4★ from 85 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/8/a/d/200-calendula-body-lotion-200ml-with-vitamin-e-shea-butter-aloe-original-imagrgx7exqe4xkf.jpeg?q=90",
@@ -81654,6 +81881,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:lotion",
    "format:balm",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:shea-butter",
    "ing:vitamin-e",
@@ -82573,7 +82801,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/7/u/8/-original-imahq97qzsrzuxzs.jpeg?q=90",
@@ -82594,6 +82823,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:kit",
    "spf:30",
+   "water:unstated",
    "ing:cucumber",
    "ing:shea-butter",
    "ing:glycerin",
@@ -82935,7 +83165,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/q/8/h/380-coco-butter-nourishing-body-cream-for-dry-skin-deep-nourish-original-imahhxyjnczgsqv2.jpeg?q=90",
@@ -82954,6 +83185,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "format:kit",
+   "water:unstated",
    "ing:honey",
    "ing:almond",
    "ing:cocoa-butter",
@@ -83302,7 +83534,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 4 ratings"
+   "buyerEvidence": "4★ from 4 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/m/4/i/100-revitalize-ultra-dry-skin-nourishing-moisturizer-mango-kokum-original-imah758y7atah9ew.jpeg?q=90",
@@ -83320,6 +83553,7 @@ const NXPRODUCTS = [
    "format:lotion",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:shea-butter",
    "ing:argan-oil",
    "claim:brightening",
@@ -83420,7 +83654,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/d/e/i/200-natural-body-butter-100-g-for-pregnant-belly-dry-skin-and-original-imahdh4m3nxgydjc.jpeg?q=90",
@@ -83439,6 +83674,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "format:kit",
+   "water:unstated",
    "ing:shea-butter",
    "claim:brightening",
    "claim:whitening-claim",
@@ -83762,7 +83998,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/e/p/200-body-moisturiser-winter-edition-for-very-dry-skin-enriched-original-imagj9jygq3vgxmt.jpeg?q=90",
@@ -83781,6 +84018,7 @@ const NXPRODUCTS = [
    "format:lotion",
    "format:balm",
    "spf:15",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:shea-butter",
    "claim:brightening",
@@ -84274,7 +84512,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/s/c/v/200-extended-hydration-body-butter-keeps-your-skin-moisturized-original-imahdh7apep7x9gh.jpeg?q=90",
@@ -84294,6 +84533,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:kit",
    "spf:15",
+   "water:unstated",
    "claim:whitening-claim",
    "claim:hydrating",
    "claim:ayurvedic",
@@ -84389,7 +84629,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.8★ from 4 ratings"
+   "buyerEvidence": "4.8★ from 4 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/x/l/h/100-100-natural-kokum-body-butter-bar-moisturizer-for-women-men-original-imahzw8hksnud4ru.jpeg?q=90",
@@ -84406,6 +84647,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:balm",
    "format:bar",
+   "water:unstated",
    "claim:hydrating",
    "skin:oily",
    "skin:dry",
@@ -84503,7 +84745,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/x/e/h/200-body-butter-for-mature-skin-makes-skin-nourished-ourcares-original-imahdgfj7nmwuntm.jpeg?q=90",
@@ -84523,6 +84766,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "format:kit",
+   "water:unstated",
    "ing:cucumber",
    "ing:shea-butter",
    "ing:cocoa-butter",
@@ -84625,7 +84869,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/8/1/i/200-natural-body-butter-100-g-for-pregnant-belly-dry-skin-and-original-imahdh6ukpm5dxtp.jpeg?q=90",
@@ -84645,6 +84890,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "format:kit",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:almond",
    "ing:shea-butter",
@@ -84750,7 +84996,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/e/c/200-natural-body-butter-200-g-for-pregnant-belly-dry-skin-original-imahdgfvgnybjzqt.jpeg?q=90",
@@ -84769,6 +85016,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "format:kit",
+   "water:unstated",
    "ing:shea-butter",
    "ing:cocoa-butter",
    "ing:vitamin-e",
@@ -84869,7 +85117,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.6★ from 56 ratings"
+   "buyerEvidence": "3.6★ from 56 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/k19lvgw0/moisturizer-cream/d/h/w/200-100-organic-shea-butter-and-cocoa-butter-200gm-aromine-cream-original-imafkvgvskpmhdkz.jpeg?q=90",
@@ -84885,6 +85134,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:balm",
+   "water:unstated",
    "ing:shea-butter",
    "ing:cocoa-butter",
    "claim:brightening",
@@ -85203,7 +85453,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/0/f/x/150-sensitive-dry-skin-shea-mango-kokum-moisturizing-body-butter-original-imah9xg92czw6dg7.jpeg?q=90",
@@ -85222,6 +85473,7 @@ const NXPRODUCTS = [
    "format:serum",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:niacinamide",
    "ing:retinol",
    "ing:bakuchiol",
@@ -85442,7 +85694,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/3/t/400-shea-butter-for-body-and-skin-raw-unrefined-and-organic-original-imah8qvbead3kzym.jpeg?q=90",
@@ -85458,6 +85711,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:balm",
+   "water:unstated",
    "ing:shea-butter",
    "claim:brightening",
    "claim:hydrating",
@@ -85666,7 +85920,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "CavinKare — Established / listed Indian FMCG house",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/g/j/500-skin-care-cocoa-butter-body-cr-me-hydrates-softens-extremely-original-imahjzhgedwckcpj.jpeg?q=90",
@@ -85684,6 +85939,7 @@ const NXPRODUCTS = [
    "format:lotion",
    "format:balm",
    "spf:30",
+   "water:unstated",
    "ing:cocoa-butter",
    "ing:milk",
    "claim:hydrating",
@@ -86228,7 +86484,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/e/r/a/200-natural-shea-butter-for-body-and-skin-unrefined-moisturizer-original-imah8wrragt22txt.jpeg?q=90",
@@ -86246,6 +86503,7 @@ const NXPRODUCTS = [
    "format:lotion",
    "format:balm",
    "format:kit",
+   "water:unstated",
    "ing:shea-butter",
    "claim:brightening",
    "claim:oil-control",
@@ -86573,7 +86831,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/m/d/j/200-shea-butter-body-lotion-for-deep-moisturizing-non-greasy-original-imah6t78vegzgr5d.jpeg?q=90",
@@ -86590,6 +86849,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:lotion",
    "format:balm",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:aloe-vera",
    "ing:shea-butter",
@@ -86693,7 +86953,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/n/v/r/380-rich-creamy-cocoa-butter-cold-cream-for-radiant-skin-agley-original-imahhx26gsupur6z.jpeg?q=90",
@@ -86711,6 +86972,7 @@ const NXPRODUCTS = [
    "format:lotion",
    "format:balm",
    "spf:15",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:shea-butter",
    "ing:cocoa-butter",
@@ -86809,7 +87071,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3★ from 3 ratings"
+   "buyerEvidence": "3★ from 3 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/t/i/e/50-schloka-day-cream-almond-lavender-50ml-modicare-cream-original-imah5xvdydyhj6g2.jpeg?q=90",
@@ -86826,6 +87089,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "sun:mineral",
+   "water:unstated",
    "ing:almond",
    "ing:shea-butter",
    "ing:vitamin-e",
@@ -87673,7 +87937,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 30 ratings"
+   "buyerEvidence": "4.4★ from 30 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/d/r/100-deep-hydration-body-butter-very-dry-skin-with-shea-kokum-original-imahf7duqzhg5dbu.jpeg?q=90",
@@ -87690,6 +87955,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:coffee",
    "ing:shea-butter",
    "ing:argan-oil",
@@ -87916,7 +88182,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/massage-oil/s/v/y/150-skin-lightening-body-oil-150-ml-de-tan-brightening-even-tone-original-imahheh5zzsdczhg.jpeg?q=90",
@@ -87933,6 +88200,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:oil",
    "format:kit",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:lactic-acid",
    "ing:honey",
@@ -89507,7 +89775,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/bath-essential-oil/8/p/d/200-skin-care-nourishng-almond-and-honey-oil-winry-original-imah3zvatmsb2yzy.jpeg?q=90",
@@ -89522,6 +89791,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:oil",
+   "water:unstated",
    "ing:honey",
    "ing:almond",
    "ing:vitamin-e",
@@ -89829,7 +90099,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/bath-essential-oil/m/f/c/200-honey-almond-face-body-oil-moisturizer-for-all-skin-type-original-imahfhkmz6gh3jea.jpeg?q=90",
@@ -89844,6 +90115,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:oil",
+   "water:unstated",
    "ing:rose",
    "ing:honey",
    "ing:almond",
@@ -90791,7 +91063,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/bath-essential-oil/o/x/i/200-relaxing-body-oil-with-real-rose-extracts-women-s-choice-original-imahehggas9sygjp.jpeg?q=90",
@@ -90807,6 +91080,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:oil",
    "format:kit",
+   "water:unstated",
    "ing:rose",
    "ing:honey",
    "ing:almond",
@@ -90906,7 +91180,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-oil/g/l/r/200-khadi-sweet-almond-oil-for-hair-body-massage-natural-herbal-original-imahe468fvrumbvf.jpeg?q=90",
@@ -90921,6 +91196,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:body",
    "format:oil",
+   "water:unstated",
    "ing:honey",
    "ing:almond",
    "ing:vitamin-e",
@@ -91340,7 +91616,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/highlighter/8/x/g/80-smooth-body-shimmer-oil-body-glow-oil-for-women-yuency-original-imahkzzubsvjjkzn.jpeg?q=90",
@@ -91359,6 +91636,7 @@ const NXPRODUCTS = [
    "format:pack",
    "format:powder",
    "format:kit",
+   "water:unstated",
    "ing:gold",
    "claim:brightening",
    "claim:hydrating",
@@ -91670,7 +91948,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/highlighter/v/3/t/125-body-shimmer-oil-gold-face-brighten-body-luminizer-original-imah42bjmmv6b4jx.jpeg?q=90",
@@ -91686,6 +91965,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:oil",
+   "water:unstated",
    "ing:gold",
    "ing:pearl",
    "claim:brightening",
@@ -93618,7 +93898,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shimmer-glitter/t/2/q/gold-shimmer-finishing-spray-for-face1-evererin-original-imahg8agmwt6gh4y.jpeg?q=90",
@@ -93637,6 +93918,7 @@ const NXPRODUCTS = [
    "format:pack",
    "format:kit",
    "format:aerosol",
+   "water:unstated",
    "ing:gold",
    "claim:brightening",
    "claim:hydrating",
@@ -93730,7 +94012,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/highlighter/o/f/x/15-smooth-body-shimmer-oil-body-glow-oil-for-women-highlighter-original-imahjy2zeqhhcumy.jpeg?q=90",
@@ -93748,6 +94031,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:powder",
    "format:kit",
+   "water:unstated",
    "ing:gold",
    "claim:brightening",
    "claim:exfoliating",
@@ -93945,7 +94229,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/highlighter/r/4/i/300-luzimaisa-smooth-body-shimmer-oil-body-glow-oil-for-women-original-imah39dyteb2jqmp.jpeg?q=90",
@@ -93962,6 +94247,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:gold",
    "claim:brightening",
    "claim:exfoliating",
@@ -94161,7 +94447,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/highlighter/w/g/7/100-body-shimmer-oil-shimmer-face-body-oil-luminizer-liquid-original-imah3t8szrbyyuhb.jpeg?q=90",
@@ -94180,6 +94467,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "claim:brightening",
    "claim:hydrating",
    "claim:exfoliating",
@@ -94606,7 +94894,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/highlighter/q/x/e/120-body-shimmer-oil-liquid-shimmer-body-oil-for-face-body-original-imah6zkbbmrvuxfh.jpeg?q=90",
@@ -94624,6 +94913,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:gold",
    "claim:brightening",
    "claim:hydrating",
@@ -94935,7 +95225,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/highlighter/v/p/s/110-new-gold-shimmer-highlighter-spray-lightwet-glitter-makeup-original-imahyq78zg9j6ha5.jpeg?q=90",
@@ -94952,6 +95243,7 @@ const NXPRODUCTS = [
    "format:mist",
    "format:oil",
    "format:pack",
+   "water:unstated",
    "ing:rose",
    "ing:gold",
    "claim:brightening",
@@ -95043,7 +95335,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/highlighter/n/f/o/110-shimmer-body-oil-waterproof-moisturizing-and-glow-for-face-original-imahh8hq6dr256xc.jpeg?q=90",
@@ -95060,6 +95353,7 @@ const NXPRODUCTS = [
    "format:mist",
    "format:oil",
    "format:kit",
+   "water:resistant",
    "claim:brightening",
    "claim:hydrating",
    "claim:exfoliating",
@@ -96225,7 +96519,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/highlighter/9/0/t/100-smooth-body-shimmer-oil-body-glow-oil-for-women-gabbu-original-imahqs28pc8zryps.jpeg?q=90"
@@ -96237,6 +96532,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:mist",
    "format:oil",
+   "water:unstated",
    "ing:gold",
    "claim:brightening",
    "claim:exfoliating",
@@ -96857,7 +97153,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/highlighter/8/p/s/60-highlighter-smooth-shimmer-glow-body-bronzer-silver-spray-original-imahgg7ztvth8j9e.jpeg?q=90",
@@ -96875,6 +97172,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:pack",
    "format:aerosol",
+   "water:resistant",
    "claim:brightening",
    "claim:hydrating",
    "claim:exfoliating",
@@ -97179,7 +97477,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistant / waterproof (duration not stated), sweat resistant (per listing — not tested here, not scored)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/primer/u/m/c/100-glitter-spray-shimmer-glimmer-spray-for-hair-and-body-gabbu-original-imahpbjru84dyepa.jpeg?q=90",
@@ -97198,6 +97497,8 @@ const NXPRODUCTS = [
    "format:oil",
    "format:kit",
    "format:aerosol",
+   "water:resistant",
+   "water:sweat",
    "ing:jojoba",
    "claim:brightening",
    "claim:exfoliating",
@@ -97396,7 +97697,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/primer/i/x/j/125-body-shimmer-oil-body-high-light-milk-repairing-liquid-body-original-imahy68mncpw6ns3.jpeg?q=90",
@@ -97413,6 +97715,7 @@ const NXPRODUCTS = [
    "format:mist",
    "format:oil",
    "format:kit",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:vitamin-e",
    "ing:milk",
@@ -97617,7 +97920,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 8 ratings"
+   "buyerEvidence": "4★ from 8 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/highlighter/c/v/g/110-makeup-spray-lightweight-fast-absorbing-shimmer-oil-for-original-imahahugbkeyvupu.jpeg?q=90",
@@ -97634,6 +97938,7 @@ const NXPRODUCTS = [
    "format:mist",
    "format:oil",
    "format:pack",
+   "water:unstated",
    "claim:hydrating",
    "claim:exfoliating",
    "claim:lightweight",
@@ -98039,7 +98344,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/bath-essential-oil/9/0/n/200-rose-massage-oil-muscle-pain-relaxing-for-men-women-enriched-original-imahcgjtmchkmmuu.jpeg?q=90",
@@ -98055,6 +98361,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:oil",
    "format:kit",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:rose",
    "ing:honey",
@@ -98366,7 +98673,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/bath-essential-oil/f/1/w/200-honey-almonds-nourishing-body-oil-with-vitamin-e-sunscreen-original-imah6wke6ffpng3v.jpeg?q=90",
@@ -98382,6 +98690,7 @@ const NXPRODUCTS = [
    "scope:body",
    "format:oil",
    "format:kit",
+   "water:unstated",
    "ing:honey",
    "ing:almond",
    "ing:vitamin-e",
@@ -99689,7 +99998,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/y/h/s/120-0-foot-magic-foot-cream-with-cocoa-butter-vitamin-e-reaxi-original-imahzpq2fhz8bqz6.jpeg?q=90",
@@ -99706,6 +100016,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:balm",
    "format:scrub",
+   "water:unstated",
    "ing:cocoa-butter",
    "ing:vitamin-e",
    "claim:anti-aging",
@@ -100351,7 +100662,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/5/c/7/100-herbal-body-butter-deep-moisturizing-nourishing-cream-for-original-imahmkwphp3zrbkp.jpeg?q=90",
@@ -100370,6 +100682,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:50+",
    "pa:+",
+   "water:unstated",
    "claim:brightening",
    "claim:oil-control",
    "claim:hydrating",
@@ -100472,7 +100785,8 @@ const NXPRODUCTS = [
    "evidenceActives": "argania spinosa kernel oil (#19 on list, moderate evidence); tocopherol (#30 on list, moderate evidence); rosa canina fruit oil (#31 on list, moderate evidence)",
    "safetyFlags": "Added fragrance (parfum): perfume (−1.5)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/e/m/5/150-body-butter-fantasea-mintree-cream-original-imahjruvfptbzcre.jpeg?q=90",
@@ -100492,6 +100806,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:30",
    "pa:+",
+   "water:unstated",
    "ing:collagen",
    "ing:tea-tree",
    "ing:vitamin-b5-panthenol",
@@ -100947,7 +101262,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/a/i/a/120-rose-coconut-nourishing-body-butter-women-men-100-natural-original-imahmzgykjqmvuud.jpeg?q=90",
@@ -100965,6 +101281,7 @@ const NXPRODUCTS = [
    "format:lotion",
    "format:balm",
    "format:kit",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:rose",
    "ing:cucumber",
@@ -101063,7 +101380,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 5 ratings"
+   "buyerEvidence": "4★ from 5 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/q/l/0/50-100-pure-natural-avocado-body-butter-for-moisturizing-skin-original-imahj3575qsn5fts.jpeg?q=90",
@@ -101078,6 +101396,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:balm",
+   "water:unstated",
    "ing:avocado",
    "claim:hydrating",
    "skin:all",
@@ -101724,7 +102043,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/g/f/200-camel-milk-whitening-body-butter-skin-doctor-butter-original-imah22agkwayhwxg.jpeg?q=90",
@@ -101744,6 +102064,7 @@ const NXPRODUCTS = [
    "format:kit",
    "spf:50+",
    "pa:+",
+   "water:unstated",
    "ing:milk",
    "claim:whitening-claim",
    "claim:anti-aging",
@@ -102064,7 +102385,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/8/u/d/100-lavender-dreams-body-butter-long-lasting-hydration-with-original-imah7n7n2uyqn572.jpeg?q=90",
@@ -102082,6 +102404,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:30",
    "pa:+++",
+   "water:unstated",
    "ing:lavender",
    "claim:hydrating",
    "claim:broad-spectrum",
@@ -102175,7 +102498,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/r/b/j/200-body-yogurt-almond-milk-cream-200-ml-for-normal-to-dry-skin-original-imahdfvev5zr72h3.jpeg?q=90",
@@ -102190,6 +102514,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:almond",
    "ing:milk",
    "claim:brightening",
@@ -102286,7 +102611,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/a/q/q/100-japanese-matcha-tea-body-yogurt-100-ml-luxova-cream-original-imahybyaw8pgyzyv.jpeg?q=90",
@@ -102307,6 +102633,7 @@ const NXPRODUCTS = [
    "format:scrub",
    "spf:30",
    "pa:+++",
+   "water:unstated",
    "ing:green-tea",
    "ing:aloe-vera",
    "ing:almond",
@@ -102519,7 +102846,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/t/u/z/200-body-yogurt-with-blueberry-niacinamide-for-deeply-nourished-original-imahdfuyeuhgzgc8.jpeg?q=90",
@@ -102534,6 +102862,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:niacinamide",
    "claim:brightening",
    "claim:hydrating",
@@ -102739,7 +103068,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/f/a/d/200-body-yogurt-almond-milk-cream-200-ml-for-normal-to-dry-skin-original-imahdftghjfsusyt.jpeg?q=90",
@@ -102754,6 +103084,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:almond",
    "ing:milk",
    "claim:brightening",
@@ -102964,7 +103295,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/body-skin-treatment/n/f/d/200-smooth-skin-delight-body-yogurt-with-blueberry-niacinamide-original-imah34shryz5byeh.jpeg?q=90",
@@ -102980,6 +103312,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:kit",
+   "water:unstated",
    "claim:hydrating",
    "claim:barrier",
    "skin:all",
@@ -103072,7 +103405,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/b/z/200-body-yogurt-for-instant-hydration-moisturization-moisturiser-original-imahdfyex6zrxuyy.jpeg?q=90",
@@ -103087,6 +103421,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "claim:brightening",
    "claim:hydrating",
    "claim:lightweight",
@@ -103180,7 +103515,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/5/n/d/200-body-yogurt-for-instant-hydration-moisturization-for-smooth-original-imahdgwezkqtahgj.jpeg?q=90",
@@ -103198,6 +103534,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:balm",
    "format:patch",
+   "water:unstated",
    "ing:cocoa-butter",
    "claim:brightening",
    "claim:pores",
@@ -103297,7 +103634,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/m/b/3/200-strawberry-body-yogurt-oil-free-moisturiser-for-deep-original-imah6ynybdbmnt2w.jpeg?q=90",
@@ -103314,6 +103652,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:lotion",
    "format:balm",
+   "water:unstated",
    "ing:strawberry",
    "ing:watermelon",
    "claim:hydrating",
@@ -103522,7 +103861,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/n/y/e/200-body-yogurt-lavish-lavender-moisturising-gel-fast-absorb-non-original-imah5xcgguvhm4ft.jpeg?q=90",
@@ -103539,6 +103879,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:lotion",
    "spf:30",
+   "water:unstated",
    "ing:green-tea",
    "ing:aloe-vera",
    "ing:vitamin-e",
@@ -103752,7 +104093,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/j/a/n/50-sun-kissed-sun-care-gel-repairs-sun-damaged-skin-soothes-and-original-imahg84zukgzupp9.jpeg?q=90",
@@ -103769,6 +104111,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:lotion",
    "spf:30",
+   "water:unstated",
    "claim:oil-control",
    "claim:hydrating",
    "claim:lightweight",
@@ -103864,7 +104207,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 4 ratings"
+   "buyerEvidence": "4.3★ from 4 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/d/p/a/200-body-yogurt-mango-hibiscus-moisturising-gel-instant-absorb-original-imah5rwhvscsmzca.jpeg?q=90",
@@ -103879,6 +104223,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:gel",
+   "water:unstated",
    "ing:green-tea",
    "ing:aloe-vera",
    "claim:brightening",
@@ -103978,7 +104323,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 5 ratings"
+   "buyerEvidence": "4.4★ from 5 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/y/e/200-body-yogurt-majestic-rose-moisturising-gel-fast-absorb-non-original-imah5xcweffgmhzg.jpeg?q=90",
@@ -103993,6 +104339,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:gel",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:rose",
    "ing:glycerin",
@@ -104090,7 +104437,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/3/z/u/200-moringa-body-yogurt-for-normal-to-dry-skin-bath-body-works-original-imahghfmzpnpyh4u.jpeg?q=90",
@@ -104108,6 +104456,7 @@ const NXPRODUCTS = [
    "format:lotion",
    "spf:30",
    "pa:+++",
+   "water:unstated",
    "ing:gold",
    "claim:brightening",
    "claim:hydrating",
@@ -104426,7 +104775,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/2/b/q/200-strawberry-vegan-body-yogurt-for-normal-to-dry-skin-bath-original-imahghfndz63ajyu.jpeg?q=90",
@@ -104445,6 +104795,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:30",
    "pa:+++",
+   "water:unstated",
    "ing:strawberry",
    "ing:gold",
    "claim:brightening",
@@ -104860,7 +105211,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.8★ from 5 ratings"
+   "buyerEvidence": "4.8★ from 5 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/7/6/e/200-the-mango-blush-body-yogurt-skin-nourishing-deep-original-imah3yynpyh33huk.jpeg?q=90",
@@ -104878,6 +105230,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:oil",
    "format:pack",
+   "water:unstated",
    "ing:almond",
    "ing:jojoba",
    "claim:oil-control",
@@ -104972,7 +105325,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/9/8/200-flora-fauna-probiotic-face-body-yogurt-beauty-relay-london-original-imahb85phzchjgf2.jpeg?q=90",
@@ -104991,6 +105345,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:peel",
    "format:kit",
+   "water:unstated",
    "ing:rose",
    "ing:papaya",
    "ing:cucumber",
@@ -105306,7 +105661,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/9/x/200-body-yogurt-lightweight-non-greasy-moisturization-for-all-original-imahddufwaxk7jap.jpeg?q=90",
@@ -105326,6 +105682,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:niacinamide",
    "claim:brightening",
    "claim:oil-control",
@@ -105421,7 +105778,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/6/1/5/200-body-yogurt-green-tea-aloe-vera-moisturising-gel-fast-absorb-original-imahf65myehhyzmy.jpeg?q=90",
@@ -105438,6 +105796,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:kit",
+   "water:unstated",
    "ing:green-tea",
    "ing:aloe-vera",
    "ing:vitamin-e",
@@ -105536,7 +105895,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/j/z/z/200-youthful-resilience-enhancing-skin-elasticity-with-body-original-imahdftvhfgqd4r7.jpeg?q=90",
@@ -105552,6 +105912,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:kit",
+   "water:unstated",
    "claim:brightening",
    "claim:whitening-claim",
    "claim:anti-aging",
@@ -105757,7 +106118,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/j/5/200-body-lotion-nourishing-moisturizer-cream-for-dry-skin-original-imahdex4rpfqxjgj.jpeg?q=90",
@@ -105775,6 +106137,7 @@ const NXPRODUCTS = [
    "format:lotion",
    "format:balm",
    "format:kit",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:glutathione",
    "claim:brightening",
@@ -106519,7 +106882,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/n/c/3/200-rose-body-yogurt-instant-absorb-non-sticky-daily-moisturizer-original-imahhc3spwgydwmt.jpeg?q=90",
@@ -106537,6 +106901,7 @@ const NXPRODUCTS = [
    "format:serum",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:rice-water",
    "ing:rose",
    "claim:brightening",
@@ -106744,7 +107109,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/t/a/i/200-japanese-cherry-blossom-body-yogurt-72-hour-intense-original-imahhbj7esp6gmsu.jpeg?q=90",
@@ -106762,6 +107128,7 @@ const NXPRODUCTS = [
    "format:lotion",
    "format:balm",
    "format:wash",
+   "water:unstated",
    "ing:niacinamide",
    "ing:glutathione",
    "ing:shea-butter",
@@ -106858,7 +107225,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/v/i/p/100-pineapple-mulberry-body-yogurt-lightweight-fast-absorbing-original-imahmcvgqzjzgrvc.jpeg?q=90",
@@ -106876,6 +107244,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:oil",
    "format:kit",
+   "water:unstated",
    "ing:colloidal-oatmeal",
    "ing:green-tea",
    "ing:cucumber",
@@ -107088,7 +107457,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/o/j/a/100-jojoba-wheatgerm-body-yogurt-with-moringa-pentavitin-original-imahbztshttc9uzv.jpeg?q=90",
@@ -107106,6 +107476,7 @@ const NXPRODUCTS = [
    "format:lotion",
    "spf:30",
    "pa:+",
+   "water:unstated",
    "ing:jojoba",
    "claim:brightening",
    "claim:hydrating",
@@ -107313,7 +107684,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/j/q/s/100-body-yogurt-with-kokum-jojoba-for-hydrated-soft-skin-original-imahp6dpzwrmfhz4.jpeg?q=90",
@@ -107329,6 +107701,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:cream",
+   "water:unstated",
    "ing:jojoba",
    "claim:acne",
    "claim:hydrating",
@@ -107422,7 +107795,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 4 ratings"
+   "buyerEvidence": "5★ from 4 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/3/4/q/100-watermelon-body-yogurt-the-glow-rituals-lotion-original-imahakp8pkyhsetn.jpeg?q=90",
@@ -107438,6 +107812,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:lotion",
    "format:oil",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:watermelon",
    "claim:brightening",
@@ -107531,7 +107906,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/f/b/i/70-tea-tree-body-yogurt-rupaa-rel-cream-original-imahhbthmruhvhez.jpeg?q=90",
@@ -107549,6 +107925,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:oil",
    "format:kit",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
    "ing:tea-tree",
@@ -107884,7 +108261,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/s/l/n/200-moringa-body-yogurt-with-shea-cocoa-mango-butter-ahroomi-original-imahmsw5eq3mzgpx.jpeg?q=90",
@@ -107903,6 +108281,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:30",
    "pa:+++",
+   "water:unstated",
    "ing:shea-butter",
    "ing:cocoa-butter",
    "claim:hydrating",
@@ -109843,7 +110222,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/bath-essential-oil/e/b/2/200-natural-almond-and-honey-massage-oil-winry-original-imah693tr64qkyzb.jpeg?q=90",
@@ -109859,6 +110239,7 @@ const NXPRODUCTS = [
    "scope:body",
    "format:oil",
    "format:bar",
+   "water:unstated",
    "ing:honey",
    "ing:almond",
    "ing:vitamin-e",
@@ -115032,7 +115413,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/bath-essential-oil/x/q/r/200-olive-massage-oil-for-hair-for-body-hair-skin-baby-massage-original-imah6y6njzvfm4qb.jpeg?q=90",
@@ -115047,6 +115429,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:oil",
+   "water:unstated",
    "ing:honey",
    "ing:almond",
    "ing:vitamin-e",
@@ -115806,7 +116189,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/x/a/x/100-ultra-moisturizing-after-sun-body-butter-with-avocado-oil-original-imahza3wr3yh8sxh.jpeg?q=90",
@@ -115824,6 +116208,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:kojic-acid",
    "ing:aloe-vera",
    "ing:shea-butter",
@@ -115924,7 +116309,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/j/d/z/200-luminous-silk-glass-skin-bb-body-butter-deep-moisture-shea-original-imahqffscfhuqfhd.jpeg?q=90",
@@ -115939,6 +116325,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:balm",
+   "water:unstated",
    "ing:shea-butter",
    "claim:brightening",
    "claim:hydrating",
@@ -116144,7 +116531,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/w/d/a/body-butter-with-shea-butter-and-vitamin-e-and-antioxidants-2-na-original-imahfvavc9xwdh4u.jpeg?q=90",
@@ -116168,6 +116556,7 @@ const NXPRODUCTS = [
    "format:kit",
    "spf:50+",
    "pa:++++",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:neem",
    "ing:shea-butter",
@@ -116485,7 +116874,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/t/n/100-after-sun-body-butter-for-dry-rough-and-dehydrated-skin-original-imahza6rqthkfnhe.jpeg?q=90",
@@ -116503,6 +116893,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:aloe-vera",
    "ing:shea-butter",
@@ -116602,7 +116993,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/q/a/100-ultra-nourishing-after-sun-body-butter-for-all-skin-types-original-imahza6rdjckv8dh.jpeg?q=90",
@@ -116621,6 +117013,7 @@ const NXPRODUCTS = [
    "format:lotion",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:aloe-vera",
    "ing:papaya",
@@ -116720,7 +117113,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/b/l/100-after-sun-moisturizer-with-shea-butter-and-coconut-oil-wivzi-original-imahza4ynptex5g2.jpeg?q=90",
@@ -116740,6 +117134,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "format:kit",
+   "water:unstated",
    "ing:coffee",
    "ing:aloe-vera",
    "ing:shea-butter",
@@ -116839,7 +117234,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/b/p/100-nourishing-skin-butter-with-shea-butter-and-coconut-oil-original-imahza4xfhmtg9zu.jpeg?q=90",
@@ -116859,6 +117255,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "format:kit",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:shea-butter",
    "ing:cocoa-butter",
@@ -116959,7 +117356,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 3 ratings"
+   "buyerEvidence": "5★ from 3 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/o/q/200-moisturizing-body-butter-cream-ewp-cream-original-imahkr523pzjja8m.jpeg?q=90",
@@ -116975,6 +117373,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:balm",
+   "water:unstated",
    "ing:shea-butter",
    "ing:cocoa-butter",
    "claim:hydrating",
@@ -117413,7 +117812,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/7/p/200-0-classical-glass-skin-body-butter-skin-moisturiser-for-all-original-imahh9w33hwhssrb.jpeg?q=90",
@@ -117432,6 +117832,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:30",
    "pa:+",
+   "water:unstated",
    "ing:glycerin",
    "claim:hydrating",
    "claim:broad-spectrum",
@@ -118962,7 +119363,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.5★ from 289 ratings"
+   "buyerEvidence": "4.5★ from 289 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/s/2/-original-imagg6gcchudrhzf.jpeg?q=90",
@@ -118980,6 +119382,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "sun:mineral",
+   "water:unstated",
    "ing:petrolatum",
    "ing:shea-butter",
    "ing:coconut",
@@ -119249,7 +119652,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/6/5/25-moringa-kanaka-oil-enriched-with-kokum-butter-honey-apricot-original-imahhjqxnhzhmew3.jpeg?q=90",
@@ -119269,6 +119673,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:30",
    "pa:+",
+   "water:unstated",
    "ing:honey",
    "ing:licorice",
    "ing:apricot",
@@ -119370,7 +119775,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): perfume (−1.5); Formaldehyde-releasing preservative: imidazolidinyl urea (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — aloe barbadensis leaf juice #9 on INCI (matching only — not proof it works)"
+   "concernBasis": "Irritation — aloe barbadensis leaf juice #9 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/4/m/u/550-midnight-berries-hand-lotion-550ml-aloe-shea-butter-deep-original-imahm9krcbfmbusw.jpeg?q=90",
@@ -119389,6 +119795,7 @@ const NXPRODUCTS = [
    "format:balm",
    "spf:30",
    "pa:+++",
+   "water:unstated",
    "ing:collagen",
    "ing:aloe-vera",
    "ing:cucumber",
@@ -121387,7 +121794,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.7★ from 7 ratings"
+   "buyerEvidence": "4.7★ from 7 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/u/d/96-cocoa-butter-formula-hand-cream-palmer-s-cream-original-imaguy7zpyu9b9yn.jpeg?q=90",
@@ -121403,6 +121811,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:balm",
+   "water:unstated",
    "ing:cocoa-butter",
    "claim:hydrating",
    "skin:all",
@@ -121497,7 +121906,8 @@ const NXPRODUCTS = [
    "evidenceActives": "cocoa butter (#1 on list, limited evidence); prunus amygdalus dulcis oil (#2 on list, moderate evidence); shea butter (#3 on list, moderate evidence); simmondsia chinensis seed oil (#6 on list, moderate evidence); cocos nucifera oil (#7 on list, limited evidence); tocopherol (#9 on list, moderate evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/1/l/r/100-hand-lotion-with-almond-oil-shea-butter-teal-terra-lotion-original-imah664fxapm9pfy.jpeg?q=90",
@@ -121520,6 +121930,7 @@ const NXPRODUCTS = [
    "format:kit",
    "spf:30",
    "pa:+++",
+   "water:unstated",
    "ing:rose",
    "ing:almond",
    "ing:shea-butter",
@@ -121687,7 +122098,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/l4pxk7k0/fairness/o/j/o/30-day-cream-30gm-for-all-types-of-skin-with-uv-rays-sun-original-imagfk3g5hrf6gyn.jpeg?q=90",
@@ -121706,6 +122118,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "format:kit",
+   "water:unstated",
    "ing:saffron",
    "ing:almond",
    "ing:shea-butter",
@@ -122211,7 +122624,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.6★ from 65 ratings"
+   "buyerEvidence": "4.6★ from 65 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/m/t/0/50-hand-foot-cream-with-shea-butter-turmeric-oil-aloe-vera-original-imahzgtfy6pbvnyn.jpeg?q=90",
@@ -122228,6 +122642,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:turmeric",
    "ing:shea-butter",
@@ -122439,7 +122854,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/4/y/90-7-shea-butter-hand-repair-cream-burt-s-bees-cream-original-imah2spvk2fdcafa.jpeg?q=90",
@@ -122458,6 +122874,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:kit",
    "spf:30",
+   "water:unstated",
    "ing:shea-butter",
    "claim:hydrating",
    "claim:barrier",
@@ -123620,7 +124037,8 @@ const NXPRODUCTS = [
    "evidenceActives": "cocos nucifera oil (#3 on list, limited evidence); theobroma cacao seed butter (#7 on list, limited evidence); tocopherol (#15 on list, moderate evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/w/v/600-100-pure-aloe-vera-gel-with-vitamin-e-smoothing-gel-220gm-original-imahjhy3qp64nuud.jpeg?q=90",
@@ -123637,6 +124055,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:lotion",
    "format:balm",
+   "water:unstated",
    "ing:honey",
    "ing:almond",
    "ing:shea-butter",
@@ -123771,7 +124190,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/i/l/a/400-shea-butter-for-body-and-skin-raw-unrefined-and-organic-original-imah8qvbppdgwzgj.jpeg?q=90",
@@ -123787,6 +124207,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:lotion",
    "format:balm",
+   "water:unstated",
    "ing:shea-butter",
    "claim:brightening",
    "claim:hydrating",
@@ -124602,7 +125023,8 @@ const NXPRODUCTS = [
    "evidenceActives": "cocos nucifera oil (#3 on list, limited evidence); theobroma cacao seed butter (#7 on list, limited evidence); tocopherol (#15 on list, moderate evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/g/e/m/200-organic-shea-butter-and-cocoa-butter-sheny-soft-butter-original-imah7jjfuenpggh2.jpeg?q=90",
@@ -124621,6 +125043,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "spf:15",
+   "water:unstated",
    "ing:honey",
    "ing:almond",
    "ing:shea-butter",
@@ -124987,7 +125410,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/a/m/f/100-body-moisturising-cream-with-shea-butter-pro-vitamin-b5-for-original-imahqek9pt4kzrhd.jpeg?q=90",
@@ -125004,6 +125428,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:lotion",
    "format:balm",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:shea-butter",
    "ing:vitamin-b5-panthenol",
@@ -125097,7 +125522,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/f/m/s/50-coconut-milk-body-lotion-with-shea-butter-deeply-nourishing-original-imahqh6ngn522tug.jpeg?q=90",
@@ -125113,6 +125539,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:lotion",
    "format:balm",
+   "water:unstated",
    "ing:shea-butter",
    "ing:coconut",
    "ing:milk",
@@ -125429,7 +125856,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/7/i/l/30-100-natural-cedarwood-daffodil-body-balm-moisturizer-cream-original-imahqu7g35hgbpf6.jpeg?q=90",
@@ -125450,6 +125878,7 @@ const NXPRODUCTS = [
    "format:kit",
    "spf:30",
    "pa:+++",
+   "water:unstated",
    "ing:shea-butter",
    "ing:cocoa-butter",
    "ing:coconut",
@@ -125764,7 +126193,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/e/j/i/100-shea-butter-body-moisturiser-with-pro-vitamin-b5-for-smooth-original-imahqek9hwegydyg.jpeg?q=90",
@@ -125780,6 +126210,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:lotion",
    "format:balm",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:shea-butter",
    "ing:vitamin-b5-panthenol",
@@ -126211,7 +126642,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.1★ from 17 ratings",
-   "concernBasis": "Irritation — aloe barbadensis leaf juice #8 on INCI (matching only — not proof it works)"
+   "concernBasis": "Irritation — aloe barbadensis leaf juice #8 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/l/1/x/100-anti-stretch-marks-remover-removal-cream-bio-oil-after-original-imahf7d4hdppfpjn.jpeg?q=90",
@@ -126229,6 +126661,7 @@ const NXPRODUCTS = [
    "format:serum",
    "format:toner",
    "format:oil",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:almond",
    "ing:argan-oil",
@@ -126589,7 +127022,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 17 ratings"
+   "buyerEvidence": "4.1★ from 17 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/t/a/h/100-anti-stretch-marks-scar-remover-removal-cream-pregnancy-original-imah9qgwj2xrgnjv.jpeg?q=90",
@@ -126607,6 +127041,7 @@ const NXPRODUCTS = [
    "format:toner",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:collagen",
    "ing:almond",
    "ing:shea-butter",
@@ -128282,7 +128717,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 22 ratings"
+   "buyerEvidence": "4.1★ from 22 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/l/h/100-stretch-marks-cream-stretch-mark-oil-bump-hydrating-body-original-imahk4cjnzhet7jn.jpeg?q=90",
@@ -128299,6 +128735,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:centella-cica",
    "ing:rosehip",
    "ing:almond",
@@ -128614,7 +129051,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.5★ from 30 ratings"
+   "buyerEvidence": "4.5★ from 30 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/1/v/a/50-stretch-marks-scar-removal-roll-on-oil-serum-pregnancy-safe-original-imahmrkx9gbxhgdz.jpeg?q=90",
@@ -128633,6 +129071,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:pack",
    "format:roll-on",
+   "water:unstated",
    "ing:retinol",
    "ing:hyaluronic-acid",
    "ing:collagen",
@@ -128731,7 +129170,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.8★ from 627 ratings"
+   "buyerEvidence": "3.8★ from 627 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/a/p/5/100-original-body-oil-suitable-for-acne-scar-removal-dark-spots-original-imahk8gxapq56ett.jpeg?q=90",
@@ -128747,6 +129187,7 @@ const NXPRODUCTS = [
    "scope:body",
    "format:oil",
    "format:pack",
+   "water:unstated",
    "claim:dark-spots",
    "claim:acne",
    "claim:stretch-marks",
@@ -128995,7 +129436,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/g/f/j/100-stretch-mark-removal-oil-100-ml-for-body-with-orange-oil-original-imahk55saff9xh4j.jpeg?q=90",
@@ -129012,6 +129454,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:rosehip",
    "ing:almond",
    "ing:vitamin-e",
@@ -129334,7 +129777,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.2★ from 19 ratings"
+   "buyerEvidence": "3.2★ from 19 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/body-skin-treatment/i/t/4/100-natural-stretch-marks-removal-scars-remover-bio-oil-cream-original-imagzeu7kssfxshu.jpeg?q=90",
@@ -129352,6 +129796,7 @@ const NXPRODUCTS = [
    "format:toner",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:collagen",
    "ing:almond",
    "ing:shea-butter",
@@ -134823,7 +135268,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/w/b/7/30-stretch-mark-oil-30-ml-for-body-with-orange-oil-almond-oil-original-imahk55pzqdvasmp.jpeg?q=90",
@@ -134839,6 +135285,7 @@ const NXPRODUCTS = [
    "scope:body",
    "format:oil",
    "format:pack",
+   "water:unstated",
    "ing:almond",
    "ing:vitamin-e",
    "claim:brightening",
@@ -136360,7 +136807,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — aloe barbadensis leaf extract #8 on INCI (matching only — not proof it works)"
+   "concernBasis": "Irritation — aloe barbadensis leaf extract #8 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/e/7/o/150-0-stretch-mark-oil-for-women-natural-skin-nourishing-body-original-imahzky9rsk8ggkj.jpeg?q=90",
@@ -136376,6 +136824,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "format:pack",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:rosehip",
    "ing:almond",
@@ -137312,7 +137761,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/bath-essential-oil/p/p/2/200-body-massage-oil-relaxing-thai-therapy-body-kaiasha-original-imah5tgcxk8q9bau.jpeg?q=90",
@@ -137327,6 +137777,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:oil",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:honey",
    "ing:almond",
@@ -138353,7 +138804,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 4 ratings"
+   "buyerEvidence": "5★ from 4 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/r/z/y/100-beauty-bosom-oil-herbal-massage-oil-for-women-flixy-original-imahprcktkxjcfap.jpeg?q=90"
@@ -138368,6 +138820,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:scrub",
    "format:wash",
+   "water:unstated",
    "ing:almond",
    "ing:vitamin-e",
    "ing:coconut",
@@ -138577,7 +139030,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-body-skin-treatment/d/u/b/50-nirvaya-pregnancy-stretch-mark-oil-herbal-formula-pack-of-1-original-imahjpxnza24jcqq.jpeg?q=90",
@@ -138593,6 +139047,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:almond",
    "ing:vitamin-e",
    "ing:coconut",
@@ -138690,7 +139145,8 @@ const NXPRODUCTS = [
    "evidenceActives": "cocos nucifera oil (#3 on list, limited evidence); theobroma cacao seed butter (#7 on list, limited evidence); tocopherol (#15 on list, moderate evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/o/5/o/200-cocoa-butter-moisturizing-body-lotion-100-cocoa-and-shea-original-imah6yh3d9ezhpzw.jpeg?q=90",
@@ -138707,6 +139163,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:lotion",
    "format:balm",
+   "water:unstated",
    "ing:shea-butter",
    "ing:cocoa-butter",
    "ing:vitamin-e",
@@ -138851,7 +139308,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.6★ from 58 ratings"
+   "buyerEvidence": "3.6★ from 58 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/x/x/q/100-stretch-marks-cream-for-pregnancy-with-the-goodness-of-shea-original-imah94fyc29uzztg.jpeg?q=90",
@@ -138868,6 +139326,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:saffron",
    "ing:rose",
    "ing:almond",
@@ -140194,7 +140653,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/b/x/h/10-ob-ocean-beauty-moisturizing-k-skin-glow-face-serum-with-original-imahzem5gwdfu3kd.jpeg?q=90",
@@ -140210,6 +140670,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:essence",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:green-tea",
    "claim:brightening",
@@ -143322,7 +143783,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
-   "buyerEvidence": "4.4★ from 1,119 ratings"
+   "buyerEvidence": "4.4★ from 1,119 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/r/h/p/250-cocoa-butter-petroleum-jelly-vaseline-cream-original-imahay3vbvf4hdhg.jpeg?q=90",
@@ -143340,6 +143802,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:balm",
    "spf:15",
+   "water:unstated",
    "ing:petrolatum",
    "ing:cocoa-butter",
    "claim:hydrating",
@@ -146241,7 +146704,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.5★ from 0 ratings"
+   "buyerEvidence": "4.5★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41-2L7rUTUL._SL1024_.jpg",
@@ -146259,6 +146723,7 @@ const NXPRODUCTS = [
    "format:serum",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:ceramides",
@@ -147032,7 +147497,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61AOhRCefjL._SL1500_.jpg",
@@ -147047,6 +147513,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:balm",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:shea-butter",
@@ -154830,7 +155297,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Forest Essentials (Mountain Valley Springs) — Established / listed Indian FMCG house",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61kCdqVwQyL._SL1500_.jpg",
@@ -154846,6 +155314,7 @@ const NXPRODUCTS = [
    "scope:unstated",
    "format:oil",
    "sun:chemical",
+   "water:unstated",
    "ing:green-tea",
    "claim:hydrating",
    "claim:ayurvedic",
@@ -171233,7 +171702,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71UT3ISbRUL._SL1500_.jpg",
@@ -171251,6 +171721,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:wash",
    "format:cleansing-oil",
+   "water:unstated",
    "ing:green-tea",
    "ing:shea-butter",
    "ing:olive",
@@ -172437,116 +172908,6 @@ const NXPRODUCTS = [
     "url": null
    },
    "buyers": "4.6★ from 0 ratings"
-  }
- },
- {
-  "id": "cuffs-n-lashes-b0gn2y34rc",
-  "brand": "CUFFS N LASHES",
-  "model": "Lush Lips Intensive Recovery Mask - Cookie n Cream| Overnight Repair Mask | Paraben-Free |…",
-  "price": 249,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Shea butter + Vitamin E",
-  "featureLine": "Body butter · Paraben-free",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 3.2
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Body butter",
-   "appliesTo": "Face (per listing)",
-   "keyIngredients": "Shea butter, Vitamin E (named on listing)",
-   "freeFrom": "Paraben-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating / moisturizing, Barrier repair, Exfoliating, Dry / very dry skin relief, Overnight / while you sleep, Cooling / refreshing (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "4.4/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71qw4m5-1IL._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/612i3pGeMZL._SL1024_.jpg",
-   "https://m.media-amazon.com/images/I/71j17K-8ZNL._SL1024_.jpg",
-   "https://m.media-amazon.com/images/I/61AVcTDld7L._SL1024_.jpg",
-   "https://m.media-amazon.com/images/I/61Vrj1EF-nL._SL1024_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GN2Y34RC",
-  "buyStore": "Amazon",
-  "title": "Cuffs N Lashes Lush Lips Intensive Recovery Mask - Cookie n Cream| Overnight Repair Mask | Paraben-Free | Enriched with Vitamin E, Shea Butter &Castor Seed Oil",
-  "tags": [
-   "scope:face",
-   "format:cream",
-   "format:oil",
-   "format:balm",
-   "format:lip-mask",
-   "ing:shea-butter",
-   "ing:vitamin-e",
-   "claim:hydrating",
-   "claim:barrier",
-   "claim:exfoliating",
-   "claim:dry-skin-relief",
-   "claim:overnight",
-   "claim:cooling",
-   "free:paraben",
-   "aud:unisex",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": true,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.4★ from 0 ratings"
   }
  },
  {
@@ -176225,7 +176586,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Forest Essentials (Mountain Valley Springs) — Established / listed Indian FMCG house",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/6133XXggPzL._SL1500_.jpg",
@@ -176241,6 +176603,7 @@ const NXPRODUCTS = [
    "scope:unstated",
    "format:oil",
    "sun:chemical",
+   "water:unstated",
    "ing:rose",
    "claim:hydrating",
    "claim:ayurvedic",
@@ -182178,7 +182541,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Forest Essentials (Mountain Valley Springs) — Established / listed Indian FMCG house",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61wB-Zg+6IL._SL1500_.jpg",
@@ -182194,6 +182558,7 @@ const NXPRODUCTS = [
    "scope:unstated",
    "format:oil",
    "sun:chemical",
+   "water:unstated",
    "claim:hydrating",
    "claim:ayurvedic",
    "aud:unisex",
@@ -182278,7 +182643,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Forest Essentials (Mountain Valley Springs) — Established / listed Indian FMCG house",
-   "buyerEvidence": "4.4★ from 0 ratings"
+   "buyerEvidence": "4.4★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61X2PBT6q2L._SL1500_.jpg",
@@ -182294,6 +182660,7 @@ const NXPRODUCTS = [
    "scope:unstated",
    "format:oil",
    "sun:chemical",
+   "water:unstated",
    "claim:hydrating",
    "claim:ayurvedic",
    "aud:unisex",
@@ -193519,7 +193886,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.7★ from 0 ratings"
+   "buyerEvidence": "3.7★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71Eetzr3+wL._SL1500_.jpg",
@@ -193535,6 +193903,7 @@ const NXPRODUCTS = [
    "scope:body",
    "format:oil",
    "format:kit",
+   "water:unstated",
    "ing:lavender",
    "claim:brightening",
    "claim:anti-aging",
@@ -195838,7 +196207,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.5★ from 0 ratings"
+   "buyerEvidence": "3.5★ from 0 ratings",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51Gb-7YFL1L._SL1280_.jpg",
@@ -195856,6 +196226,7 @@ const NXPRODUCTS = [
    "format:wash",
    "format:kit",
    "format:cleansing-oil",
+   "water:resistant",
    "ing:vitamin-e",
    "ing:jojoba",
    "ing:ginseng",
@@ -206974,7 +207345,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71JIzENySvL._SL1500_.jpg",
@@ -206990,6 +207362,7 @@ const NXPRODUCTS = [
    "scope:body",
    "format:lotion",
    "format:oil",
+   "water:unstated",
    "claim:brightening",
    "claim:hydrating",
    "skin:all",
@@ -208810,7 +209183,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71sjyILaNML._SL1325_.jpg",
@@ -208825,6 +209199,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:body",
    "format:balm",
+   "water:unstated",
    "ing:shea-butter",
    "claim:hydrating",
    "free:vegan",
@@ -211480,7 +211855,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
    "buyerEvidence": "4.3★ from 0 ratings",
-   "concernBasis": "Acne — niacinamide #14 on INCI; Dark spots — niacinamide #14 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #14 on INCI; Dark spots — niacinamide #14 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41MNaLo58DL._SL1100_.jpg",
@@ -211498,6 +211874,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "format:wash",
+   "water:unstated",
    "ing:rose",
    "ing:vitamin-e",
    "ing:jojoba",
@@ -221784,7 +222161,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71r+46NMBNL._SL1500_.jpg",
@@ -221802,6 +222180,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:wash",
    "format:cleansing-oil",
+   "water:resistant",
    "ing:shea-butter",
    "ing:vitamin-e",
    "ing:avocado",
@@ -222515,115 +222894,6 @@ const NXPRODUCTS = [
     "url": null
    },
    "buyers": "4.2★ from 0 ratings"
-  }
- },
- {
-  "id": "cuffs-n-lashes-b0djk9cft2",
-  "brand": "CUFFS N LASHES",
-  "model": "Lush Lips Intensive Recovery Mask - Apple Tini | Overnight Repair Mask | Paraben-Free | En…",
-  "price": 249,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Shea butter + Vitamin E",
-  "featureLine": "Body butter · Paraben-free",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 4.2
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Body butter",
-   "appliesTo": "Face (per listing)",
-   "keyIngredients": "Shea butter, Vitamin E (named on listing)",
-   "freeFrom": "Paraben-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating / moisturizing, Barrier repair, Exfoliating, Dry / very dry skin relief, Overnight / while you sleep, Cooling / refreshing (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "4.7/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.7★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51+1dBckpHL._SL1254_.jpg",
-   "https://m.media-amazon.com/images/I/61FtTAqHxDL._SL1024_.jpg",
-   "https://m.media-amazon.com/images/I/6158H5TVIbL._SL1024_.jpg",
-   "https://m.media-amazon.com/images/I/61l2DjPYRsL._SL1024_.jpg",
-   "https://m.media-amazon.com/images/I/61Vrj1EF-nL._SL1024_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0DJK9CFT2",
-  "buyStore": "Amazon",
-  "title": "Cuffs N Lashes Lush Lips Intensive Recovery Mask - Apple Tini | Overnight Repair Mask | Paraben-Free | Enriched with Vitamin E, Shea Butter &Castor Seed Oil",
-  "tags": [
-   "scope:face",
-   "format:oil",
-   "format:balm",
-   "format:lip-mask",
-   "ing:shea-butter",
-   "ing:vitamin-e",
-   "claim:hydrating",
-   "claim:barrier",
-   "claim:exfoliating",
-   "claim:dry-skin-relief",
-   "claim:overnight",
-   "claim:cooling",
-   "free:paraben",
-   "aud:unisex",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": true,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.7★ from 0 ratings"
   }
  },
  {
@@ -233311,7 +233581,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.9★ from 0 ratings"
+   "buyerEvidence": "3.9★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61oPvB-4asL._SL1500_.jpg",
@@ -233327,6 +233598,7 @@ const NXPRODUCTS = [
    "scope:body",
    "format:lotion",
    "format:oil",
+   "water:unstated",
    "ing:collagen",
    "ing:rose",
    "claim:brightening",
@@ -235117,7 +235389,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71TUwNgsuKL._SL1500_.jpg",
@@ -235132,6 +235405,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:body",
    "format:balm",
+   "water:unstated",
    "ing:shea-butter",
    "claim:acne",
    "claim:hydrating",
@@ -243982,7 +244256,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71kFVF6MIqL._SL1500_.jpg"
@@ -243996,6 +244271,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:emulsion",
    "format:patch",
+   "water:unstated",
    "ing:shea-butter",
    "ing:vitamin-e",
    "ing:glycerin",
@@ -244095,7 +244371,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61XV5te+P2L._SL1500_.jpg",
@@ -244110,6 +244387,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:balm",
+   "water:unstated",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:ceramides",
@@ -271644,7 +271922,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71Eetzr3+wL._SL1500_.jpg",
@@ -271660,6 +271939,7 @@ const NXPRODUCTS = [
    "scope:body",
    "format:lotion",
    "format:oil",
+   "water:unstated",
    "ing:rose",
    "ing:lavender",
    "claim:brightening",
@@ -273009,7 +273289,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41nznB8IfCL.jpg"
@@ -273023,6 +273304,7 @@ const NXPRODUCTS = [
    "format:serum",
    "format:oil",
    "spf:15",
+   "water:unstated",
    "ing:vitamin-c",
    "claim:brightening",
    "claim:de-tan",
@@ -273339,7 +273621,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.9★ from 0 ratings"
+   "buyerEvidence": "3.9★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71Pj6uYn0XL._SL1500_.jpg",
@@ -273355,6 +273638,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:balm",
+   "water:unstated",
    "ing:shea-butter",
    "ing:vitamin-e",
    "claim:anti-aging",
@@ -275637,7 +275921,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/718JKd5XefL._SL1500_.jpg",
@@ -275656,6 +275941,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:patch",
    "spf:15",
+   "water:unstated",
    "ing:honey",
    "ing:cocoa-butter",
    "ing:jojoba",

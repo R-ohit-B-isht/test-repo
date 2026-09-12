@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-11.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-12.
 // Unknown fields are honestly marked, never invented.
 const NXPRODUCTS = [
  {
@@ -46,7 +46,8 @@ const NXPRODUCTS = [
    "evidenceActives": "glycerin (#4 on list, strong evidence)",
    "safetyFlags": "Essential oil / volatile sensitiser: citrus nobilis peel oil (−0.5)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/h/d/o/200-kojic-acid-body-spray-turmeric-infused-skin-brightening-original-imahmavzrezhhxsm.jpeg?q=90",
@@ -65,6 +66,7 @@ const NXPRODUCTS = [
    "format:pack",
    "format:peel",
    "format:aerosol",
+   "water:unstated",
    "ing:kojic-acid",
    "ing:turmeric",
    "ing:glycerin",
@@ -294,7 +296,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/m/i/o/barrier-repair-lip-balm-underarm-roll-on-mineral-sunscreen-spray-original-imahnefkcyykdqhd.jpeg?q=90",
@@ -315,6 +318,7 @@ const NXPRODUCTS = [
    "format:kit",
    "spf:50",
    "sun:mineral",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
@@ -835,7 +839,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 25 ratings"
+   "buyerEvidence": "4.4★ from 25 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/9/v/e/100-az-body-spray-for-body-acne-2-salicylic-acid-2-azelaic-acid-original-imahhrpdqtsnqha5.jpeg?q=90",
@@ -852,6 +857,7 @@ const NXPRODUCTS = [
    "format:mist",
    "format:pack",
    "format:aerosol",
+   "water:unstated",
    "ing:retinol",
    "ing:salicylic-acid-bha",
    "ing:azelaic-acid",
@@ -946,7 +952,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/bath-essential-oil/3/t/o/10-therapeutic-healing-roll-on-relaxation-hemp-seed-oil-original-imahmaqpvvrrw8xu.jpeg?q=90",
@@ -963,6 +970,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:roll-on",
    "format:kit",
+   "water:unstated",
    "ing:honey",
    "ing:almond",
    "ing:vitamin-e",
@@ -1826,7 +1834,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/primer/s/x/e/100-makeup-setting-spray-face-long-lasting-moisturizing-fixer-original-imahh9rg7ghb5uhp.jpeg?q=90",
@@ -1843,6 +1852,7 @@ const NXPRODUCTS = [
    "format:mist",
    "format:kit",
    "format:aerosol",
+   "water:unstated",
    "claim:brightening",
    "claim:acne",
    "claim:oil-control",
@@ -2153,7 +2163,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-primer/w/g/0/120-shimmer-body-spray-for-women-long-lasting-makeup-finish-jus-original-imahhudsfz5hxyfq.jpeg?q=90",
@@ -2170,6 +2181,7 @@ const NXPRODUCTS = [
    "format:mist",
    "format:kit",
    "format:aerosol",
+   "water:resistant",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:aloe-vera",
@@ -2270,7 +2282,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/highlighter/8/p/s/60-highlighter-smooth-shimmer-glow-body-bronzer-silver-spray-original-imahgg7ztvth8j9e.jpeg?q=90",
@@ -2288,6 +2301,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:pack",
    "format:aerosol",
+   "water:resistant",
    "claim:brightening",
    "claim:hydrating",
    "claim:exfoliating",
@@ -2488,7 +2502,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistant / waterproof (duration not stated), sweat resistant (per listing — not tested here, not scored)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/primer/u/m/c/100-glitter-spray-shimmer-glimmer-spray-for-hair-and-body-gabbu-original-imahpbjru84dyepa.jpeg?q=90",
@@ -2507,6 +2522,8 @@ const NXPRODUCTS = [
    "format:oil",
    "format:kit",
    "format:aerosol",
+   "water:resistant",
+   "water:sweat",
    "ing:jojoba",
    "claim:brightening",
    "claim:exfoliating",
@@ -3066,7 +3083,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/w/s/z/50-premium-foot-crack-cream-roll-on-non-greasy-triple-action-original-imahmy8vgqjq6kza.jpeg?q=90",
@@ -3083,6 +3101,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:pack",
    "format:roll-on",
+   "water:unstated",
    "claim:oil-control",
    "claim:hydrating",
    "claim:exfoliating",
@@ -3876,7 +3895,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/t/d/y/50-urea-foot-roll-on-foot-roll-on-with-urea-cream-for-cracked-original-imahz8tu85ezdaag.jpeg?q=90",
@@ -3895,6 +3915,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:wash",
    "format:roll-on",
+   "water:unstated",
    "ing:urea",
    "claim:anti-aging",
    "claim:oil-control",
@@ -167234,7 +167255,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/p/7/50-men-whole-body-deodorant-cream-fresh-clean-all-day-protection-original-imahjyyez6dhgprv.jpeg?q=90",
@@ -167255,6 +167277,7 @@ const NXPRODUCTS = [
    "format:powder",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:clay",
    "claim:brightening",
@@ -202944,7 +202967,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — aloe barbadensis leaf extract #3 on INCI (matching only — not proof it works)"
+   "concernBasis": "Irritation — aloe barbadensis leaf extract #3 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/c/0/l/50-sunscreen-roll-on-broad-spectrum-water-resistant-uva-uvb-original-imahc2ddjgn5wmpa.jpeg?q=90",
@@ -202967,6 +202991,7 @@ const NXPRODUCTS = [
    "spf:50",
    "pa:+++",
    "sun:mineral",
+   "water:resistant",
    "ing:centella-cica",
    "ing:aloe-vera",
    "ing:shea-butter",
@@ -203114,7 +203139,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.4★ from 14 ratings"
+   "buyerEvidence": "3.4★ from 14 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/n/s/5/100-sun-barrier-sunscreen-body-spray-uva-uvb-protection-50-the-original-imahb4ggdpanduat.jpeg?q=90",
@@ -203132,6 +203158,7 @@ const NXPRODUCTS = [
    "format:aerosol",
    "spf:50",
    "pa:++++",
+   "water:unstated",
    "claim:brightening",
    "claim:hydrating",
    "claim:barrier",
@@ -203226,7 +203253,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/p/v/z/40-korean-matte-face-sunscreen-spf-40-travel-sunscreen-roll-on-original-imahfbjz275awpyz.jpeg?q=90",
@@ -203246,6 +203274,7 @@ const NXPRODUCTS = [
    "format:roll-on",
    "spf:40",
    "pa:+++",
+   "water:unstated",
    "ing:rice-water",
    "ing:probiotics",
    "claim:oil-control",
@@ -203347,7 +203376,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — niacinamide #15 on INCI; Dark spots — niacinamide #15 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #15 on INCI; Dark spots — niacinamide #15 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/m/f/a/200-sunscreen-spf-50-pa-dual-mineral-sunscreen-body-spray-with-original-imahjf8c6h8hpk7b.jpeg?q=90",
@@ -203367,6 +203397,7 @@ const NXPRODUCTS = [
    "spf:50",
    "pa:++++",
    "sun:mineral",
+   "water:unstated",
    "ing:zinc",
    "claim:hydrating",
    "claim:broad-spectrum",
@@ -203516,7 +203547,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "CavinKare — Established / listed Indian FMCG house",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/deodorant/u/t/j/50-hyaluronic-sunscreen-sun-roll-on-spf-50-uva-uvb-protection-original-imahjrqkx9gkhgp2.jpeg?q=90",
@@ -203533,6 +203565,7 @@ const NXPRODUCTS = [
    "format:roll-on",
    "format:kit",
    "spf:50+",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:aha",
    "ing:hyaluronic-acid",
@@ -203629,7 +203662,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/n/t/l/-original-imahqzwfbpucggby.jpeg?q=90",
@@ -203647,6 +203681,7 @@ const NXPRODUCTS = [
    "format:roll-on",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:sea-buckthorn",
    "claim:oil-control",
    "claim:hydrating",
@@ -203743,7 +203778,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Fixderma India (dermatology company) — Dermatology / pharmaceutical manufacturer",
-   "buyerEvidence": "4.5★ from 39 ratings"
+   "buyerEvidence": "4.5★ from 39 ratings",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/s/e/5/30-shadow-roll-on-sunscreen-spf-50-pa-water-resistant-uva-uvb-original-imahj4hzupnudsz5.jpeg?q=90",
@@ -203762,6 +203798,7 @@ const NXPRODUCTS = [
    "spf:50",
    "pa:+++",
    "sun:chemical",
+   "water:resistant",
    "claim:hydrating",
    "claim:water-resistant",
    "claim:no-white-cast",
@@ -203863,7 +203900,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/n/s/x/sunscreen-spf-40-pa-spray-50ml-with-underarm-roll-on-6-original-imahjzgfq8vmbyjx.jpeg?q=90",
@@ -203885,6 +203923,7 @@ const NXPRODUCTS = [
    "format:kit",
    "spf:40",
    "pa:+++",
+   "water:unstated",
    "ing:turmeric",
    "ing:sandalwood",
    "claim:brightening",
@@ -203979,7 +204018,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 253 ratings"
+   "buyerEvidence": "4.1★ from 253 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/a/i/n/150-stretch-mark-roll-on-pack-of-3-reduces-old-new-stretch-marks-original-imahpewjzy8qh6fj.jpeg?q=90",
@@ -203998,6 +204038,7 @@ const NXPRODUCTS = [
    "format:pack",
    "format:roll-on",
    "format:kit",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:aloe-vera",
    "ing:turmeric",
@@ -213817,7 +213858,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/n/w/i/5-100-soft-roll-on-hydrating-tinted-lip-balm-1-lillyamor-original-imahdhszvkxkmygw.jpeg?q=90",
@@ -213836,6 +213878,7 @@ const NXPRODUCTS = [
    "format:roll-on",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:ceramides",
    "ing:kojic-acid",
    "ing:rose",
@@ -215007,7 +215050,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-gloss/q/u/v/20-perfect-lip-oil-fruity-roll-on-softens-lip-texture-for-men-original-imahzw9rt5zuftnd.jpeg?q=90",
@@ -215026,6 +215070,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:roll-on",
    "spf:50",
+   "water:unstated",
    "ing:rose",
    "ing:honey",
    "ing:cocoa-butter",
@@ -236170,7 +236215,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Forest Essentials (Mountain Valley Springs) — Established / listed Indian FMCG house",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61E0MwLWecL._SL1500_.jpg",
@@ -236188,6 +236234,7 @@ const NXPRODUCTS = [
    "format:aerosol",
    "spf:50",
    "pa:++++",
+   "water:unstated",
    "claim:hydrating",
    "claim:no-white-cast",
    "claim:ayurvedic",
@@ -236279,7 +236326,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "marketed for swim / sport / outdoors (per listing — not tested here, not scored)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71UZPr+ulzL._SL1500_.jpg",
@@ -236298,6 +236346,8 @@ const NXPRODUCTS = [
    "format:aerosol",
    "spf:15",
    "sun:mineral",
+   "water:unstated",
+   "water:sport",
    "ing:mineral-oil",
    "claim:oil-control",
    "claim:hydrating",
@@ -259757,7 +259807,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.6★ from 0 ratings"
+   "buyerEvidence": "3.6★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41bskGmxukL._SL1100_.jpg",
@@ -259775,6 +259826,7 @@ const NXPRODUCTS = [
    "format:aerosol",
    "spf:50",
    "pa:++++",
+   "water:unstated",
    "claim:hydrating",
    "claim:barrier",
    "claim:no-white-cast",
@@ -263150,7 +263202,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 0 ratings"
+   "buyerEvidence": "4.4★ from 0 ratings",
+   "waterResistance": "marketed for swim / sport / outdoors (per listing — not tested here, not scored)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41KSuQmDHtL.jpg",
@@ -263167,6 +263220,8 @@ const NXPRODUCTS = [
    "format:mist",
    "format:oil",
    "format:aerosol",
+   "water:unstated",
+   "water:sport",
    "ing:aloe-vera",
    "claim:de-tan",
    "claim:oil-control",
@@ -264914,7 +264969,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51wO77FLV6L._SL1440_.jpg",
@@ -264930,6 +264986,7 @@ const NXPRODUCTS = [
    "scope:unstated",
    "format:mist",
    "format:aerosol",
+   "water:unstated",
    "ing:lemon",
    "ing:lavender",
    "claim:odour",
@@ -280709,7 +280766,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51lrSXZVjoL._SL1024_.jpg",
@@ -280725,6 +280783,7 @@ const NXPRODUCTS = [
    "scope:unstated",
    "format:cream",
    "spf:30",
+   "water:unstated",
    "claim:oil-control",
    "claim:hydrating",
    "claim:lightweight",
@@ -280819,7 +280878,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Kenvue — Dermatology / pharmaceutical manufacturer",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "waterResistance": "Water resistant / waterproof (duration not stated), marketed for swim / sport / outdoors (per listing — not tested here, not scored)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/5145lN+VUgL._SL1500_.jpg",
@@ -280835,6 +280895,8 @@ const NXPRODUCTS = [
    "format:kit",
    "format:aerosol",
    "spf:50",
+   "water:resistant",
+   "water:sport",
    "claim:water-resistant",
    "claim:lightweight",
    "claim:spf-claim",
@@ -280926,7 +280988,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "waterResistance": "marketed for swim / sport / outdoors (per listing — not tested here, not scored)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51m93Hh3oFL._SL1500_.jpg",
@@ -280945,6 +281008,8 @@ const NXPRODUCTS = [
    "format:aerosol",
    "spf:40",
    "pa:++++",
+   "water:unstated",
+   "water:sport",
    "ing:bakuchiol",
    "ing:squalane",
    "ing:kumkumadi",
@@ -302929,7 +302994,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Beiersdorf — Global FMCG or beauty group",
-   "buyerEvidence": "4.4★ from 0 ratings"
+   "buyerEvidence": "4.4★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51Y0CS-hBuL._SL1085_.jpg",
@@ -302946,6 +303012,7 @@ const NXPRODUCTS = [
    "format:lotion",
    "format:roll-on",
    "spf:15",
+   "water:unstated",
    "ing:vitamin-c",
    "claim:dark-spots",
    "claim:whitening-claim",
@@ -303042,7 +303109,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.5★ from 0 ratings"
+   "buyerEvidence": "4.5★ from 0 ratings",
+   "waterResistance": "Water resistant — 80 minutes or more (very water resistant), sweat resistant (per listing — not tested here, not scored)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/6195HJ1KXZL._SL1500_.jpg",
@@ -303060,6 +303128,8 @@ const NXPRODUCTS = [
    "format:aerosol",
    "spf:50+",
    "pa:++++",
+   "water:80",
+   "water:sweat",
    "claim:oil-control",
    "claim:exfoliating",
    "claim:water-resistant",
@@ -313074,7 +313144,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.5★ from 0 ratings"
+   "buyerEvidence": "3.5★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71--0Oe6O4L._SL1350_.jpg",
@@ -313092,6 +313163,7 @@ const NXPRODUCTS = [
    "format:aerosol",
    "spf:30",
    "pa:++++",
+   "water:unstated",
    "claim:brightening",
    "claim:oil-control",
    "claim:no-white-cast",
@@ -320992,7 +321064,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.9★ from 0 ratings"
+   "buyerEvidence": "3.9★ from 0 ratings",
+   "waterResistance": "Water resistant / waterproof (duration not stated), marketed for swim / sport / outdoors (per listing — not tested here, not scored)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41Blli4RPtL._SL1080_.jpg",
@@ -321010,6 +321083,8 @@ const NXPRODUCTS = [
    "format:aerosol",
    "spf:60",
    "pa:++++",
+   "water:resistant",
+   "water:sport",
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
    "ing:kojic-acid",
@@ -338942,7 +339017,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "waterResistance": "marketed for swim / sport / outdoors (per listing — not tested here, not scored)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61173HoOPzL._SL1500_.jpg",
@@ -338959,6 +339035,8 @@ const NXPRODUCTS = [
    "format:mist",
    "format:aerosol",
    "spf:30",
+   "water:unstated",
+   "water:sport",
    "claim:oil-control",
    "claim:hydrating",
    "claim:barrier",
@@ -339052,7 +339130,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistant / waterproof (duration not stated), sweat resistant (per listing — not tested here, not scored)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/610wfhbI+KL._SL1000_.jpg",
@@ -339071,6 +339150,8 @@ const NXPRODUCTS = [
    "format:aerosol",
    "spf:50+",
    "pa:++++",
+   "water:resistant",
+   "water:sweat",
    "claim:oil-control",
    "claim:water-resistant",
    "claim:lightweight",
@@ -339853,6 +339934,688 @@ const NXPRODUCTS = [
     "url": null
    },
    "buyers": "4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "kt-kids-itm3c8d05776bd5d",
+  "brand": "KT Kids",
+  "model": "Sunscreen - SPF 25+ Sunscreen SPF 25+ Face & Body Spray with Blueberry & Cranberry",
+  "price": 426,
+  "capacityLine": "100 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Aerosol / body spray · Paraben-free · SPF 25 · ₹426/100ml",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "Well-reviewed: 5★ from 2 ratings"
+  ],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 5.7
+  },
+  "fullSpec": {
+   "quantity": "100 ml",
+   "pricePer100": "₹426/100ml",
+   "format": "Aerosol / body spray",
+   "appliesTo": "Face + body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, Broad spectrum UVA/UVB, SPF included (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "sunProtection": "SPF 25 (as labelled)",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "5/5 (2 ratings, Flipkart)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "5★ from 2 ratings",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/c/q/d/100-sunscreen-spf-25-face-body-spray-with-blueberry-cranberry-25-original-imahmrghbqyc94hk.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/y/5/7/100-sunscreen-spf-25-face-body-spray-with-blueberry-cranberry-25-original-imahmrghysaxfjhg.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/z/j/x/100-sunscreen-spf-25-face-body-spray-with-blueberry-cranberry-25-original-imahmrghxsvfdtdd.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/e/v/3/100-sunscreen-spf-25-face-body-spray-with-blueberry-cranberry-25-original-imahmrghhzmzy6yy.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/r/8/l/100-sunscreen-spf-25-face-body-spray-with-blueberry-cranberry-25-original-imahmrghmttnrnkk.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/kt-kids-sunscreen-spf-25-face-body-spray-blueberry-cranberry/p/itm3c8d05776bd5d",
+  "buyStore": "Flipkart",
+  "title": "KT KIDS Sunscreen - SPF 25+ Sunscreen SPF 25+ Face & Body Spray with Blueberry & Cranberry",
+  "tags": [
+   "scope:both",
+   "format:mist",
+   "format:aerosol",
+   "spf:15",
+   "water:unstated",
+   "claim:hydrating",
+   "claim:broad-spectrum",
+   "claim:spf-claim",
+   "free:paraben",
+   "aud:kids",
+   "size:standard",
+   "rating:4.5",
+   "store:flipkart",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "5★ from 2 ratings"
+  }
+ },
+ {
+  "id": "purastone-itm77cec5b8312fa",
+  "brand": "PURASTONE",
+  "model": "Sunscreen - SPF 50 PA++++ Spray, UV Defence Body Spray, Water-Sweat Resistant, Lightweight…",
+  "price": 809,
+  "capacityLine": "80 ml",
+  "materialLine": "Niacinamide + Aloe vera + Zinc",
+  "featureLine": "Aerosol / body spray · Paraben-free · SPF 50 · ₹1011/100ml",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 4 ingredients named — formula unscored",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "80 ml",
+   "pricePer100": "₹1011/100ml",
+   "format": "Aerosol / body spray",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Niacinamide, Aloe vera, Zinc (named on listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Oil control / matte / non-greasy, Water / sweat resistant, Broad spectrum UVA/UVB, Lightweight / fast-absorbing, SPF included (seller claim — not clinical proof)",
+   "skinType": "All skin types",
+   "sunProtection": "SPF 50 · PA++++ (as labelled)",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: Aqua, Aloe Leaf Extract, Niacinamide, Zinc Oxide",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "sweat resistant (per listing — not tested here, not scored)"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/s/c/q/80-spray-uv-defence-body-spray-water-sweat-resistant-lightweight-original-imahqsfukbpgte9j.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/c/t/q/80-spray-uv-defence-body-spray-water-sweat-resistant-lightweight-original-imahqsfucsk2gpzt.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/r/3/i/80-spray-uv-defence-body-spray-water-sweat-resistant-lightweight-original-imahqsfuqdjemcbx.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/5/r/9/80-spray-uv-defence-body-spray-water-sweat-resistant-lightweight-original-imahqsfuzvbgrzqe.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/n/8/3/80-spray-uv-defence-body-spray-water-sweat-resistant-lightweight-original-imahqsfu2b7ftjbp.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/purastone-sunscreen-spf-50-pa-spray-uv-defence-body-water-sweat-resistant-lightweight-non-greasy/p/itm77cec5b8312fa",
+  "buyStore": "Flipkart",
+  "title": "PURASTONE Sunscreen - SPF 50 PA++++ Spray, UV Defence Body Spray, Water-Sweat Resistant, Lightweight, Non-Greasy",
+  "tags": [
+   "scope:body",
+   "format:mist",
+   "format:aerosol",
+   "spf:50",
+   "pa:++++",
+   "sun:mineral",
+   "water:sweat",
+   "ing:niacinamide",
+   "ing:aloe-vera",
+   "ing:zinc",
+   "claim:oil-control",
+   "claim:water-resistant",
+   "claim:broad-spectrum",
+   "claim:lightweight",
+   "claim:spf-claim",
+   "skin:all",
+   "free:paraben",
+   "free:vegan",
+   "aud:women",
+   "size:standard",
+   "rating:none",
+   "store:flipkart",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Aqua, Aloe Leaf Extract, Niacinamide, Zinc Oxide",
+   "inciNote": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "kt-itm8765c01c745f5",
+  "brand": "KT",
+  "model": "KIDS Sunscreen - SPF 30+ Sunscreen SPF 30 Body Spray with Carrot & Pomegranate",
+  "price": 400,
+  "capacityLine": "100 g",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Aerosol / body spray · SPF 30 · ₹400/100g",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 2 ingredients named — formula unscored",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "100 g",
+   "pricePer100": "₹400/100g",
+   "format": "Aerosol / body spray",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Ayurvedic / herbal, SPF included (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "sunProtection": "SPF 30 · PA+++ (as labelled)",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Specifications › Composition",
+   "inciList": "Unverified seller line: Carrot – Protect skin cells from damage caused by sun exposure, Pomegranate – Pomegranate seed oil is rich in fatty acids that keep skin moisturized—important since sun exposure can dry out the skin.",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "declaredManufacturer": "M/S. CCIGMAALIFESTYLES PVT LTD 102 / Mittal Industrial Estate , Marol Naka Andheri, 450009 (as printed on the Flipkart listing — not scored)",
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/e/e/c/100-peppa-pig-moisturizing-sunscreen-body-spray-spf-30-100ml-30-original-imahnerpwgzccnak.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/t/l/z/100-peppa-pig-moisturizing-sunscreen-body-spray-spf-30-30-kt-original-imahmhgyafyagujh.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/6/4/s/100-peppa-pig-moisturizing-sunscreen-body-spray-spf-30-30-kt-original-imahmhgysmzzefzz.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/8/v/1/100-peppa-pig-moisturizing-sunscreen-body-spray-spf-30-30-kt-original-imahmhgygxufeskz.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/icons/original-SNRHMHGYVMGCHVPZ_1.jpg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/kt-kids-sunscreen-spf-30-30-body-spray-carrot-pomegranate/p/itm8765c01c745f5",
+  "buyStore": "Flipkart",
+  "title": "KT KIDS Sunscreen - SPF 30+ Sunscreen SPF 30 Body Spray with Carrot & Pomegranate",
+  "tags": [
+   "scope:body",
+   "format:cream",
+   "format:lotion",
+   "format:mist",
+   "format:kit",
+   "format:aerosol",
+   "spf:30",
+   "pa:+++",
+   "sun:mineral",
+   "water:unstated",
+   "claim:ayurvedic",
+   "claim:spf-claim",
+   "aud:kids",
+   "size:standard",
+   "rating:none",
+   "store:flipkart",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Specifications › Composition",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Carrot – Protect skin cells from damage caused by sun exposure, Pomegranate – Pomegranate seed oil is rich in fatty acids that keep skin moisturized—important since sun exposure can dry out the skin.",
+   "inciNote": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 0.5,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "clariteens-itm90242527dfc98",
+  "brand": "clariteens",
+  "model": "Sunscreen - SPF 40 PA++ Sunscreen, Lip & Cheek Tint & Sugar Mist Fragrance Roll-On For Kid…",
+  "price": 1829,
+  "capacityLine": "50 g",
+  "materialLine": "Sugar",
+  "featureLine": "Roll-on · Paraben-free · SPF 40 · ₹3658/100g",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹3658/100g",
+   "format": "Roll-on",
+   "appliesTo": "Face (per listing)",
+   "keyIngredients": "Sugar (named on listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Soothing / calming, Broad spectrum UVA/UVB, Tinted, SPF included (seller claim — not clinical proof)",
+   "skinType": "All skin types",
+   "sunProtection": "SPF 40 · PA++ (as labelled)",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/6/d/m/50-sunscreen-lip-cheek-tint-sugar-mist-fragrance-roll-on-for-original-imahqfh6fzdva9hf.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/s/v/0/50-grwm-kit-40-clariteens-original-imahn83jmvejzwge.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/baby-care-combo/e/u/x/kids-sunscreen-spf-40-moiturizer-4yr-combo-pack-1-shiny-sprouts-original-imahmmb2aywhafyn.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/deodorant/8/n/g/50-sugar-mist-skin-friendly-alcohol-free-fragrance-1-deodorant-original-imahmz5du27s3hwy.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/h/b/2/12-lip-cheek-tint-natural-kid-safe-2-in-1-color-organic-long-original-imahmz5gg2dqrdgj.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/clariteens-sunscreen-spf-40-pa-sunscreen-lip-cheek-tint-sugar-mist-fragrance-roll-on-kids/p/itm90242527dfc98",
+  "buyStore": "Flipkart",
+  "title": "clariteens Sunscreen - SPF 40 PA++ Sunscreen, Lip & Cheek Tint & Sugar Mist Fragrance Roll-On For Kids",
+  "tags": [
+   "scope:face",
+   "format:cream",
+   "format:mist",
+   "format:roll-on",
+   "format:kit",
+   "spf:40",
+   "pa:++",
+   "sun:mineral",
+   "water:unstated",
+   "ing:sugar",
+   "claim:soothing",
+   "claim:broad-spectrum",
+   "claim:tinted",
+   "claim:spf-claim",
+   "skin:all",
+   "free:paraben",
+   "aud:kids",
+   "size:travel",
+   "rating:none",
+   "store:flipkart",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "fixderma-b0c5cs5f77",
+  "brand": "Fixderma",
+  "model": "Shadow Sunscreen SPF 50 Roll On Pa+++ | Transparent with Broad Spectrum UVA & UVB Protecti…",
+  "price": 641,
+  "capacityLine": "30 g",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Roll-on · SPF 50 · ₹2137/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "Made by Fixderma India (dermatology company) (dermatology / pharma maker)"
+  ],
+  "cons": [
+   "No ingredient list published on the listing"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 8,
+   "experience": 2.9
+  },
+  "fullSpec": {
+   "quantity": "30 g",
+   "pricePer100": "₹2137/100g",
+   "format": "Roll-on",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Water / sweat resistant, No white cast, Broad spectrum UVA/UVB, Lightweight / fast-absorbing, SPF included (seller claim — not clinical proof)",
+   "skinType": "Sensitive skin, All skin types",
+   "sunProtection": "SPF 50 · PA+++ (as labelled)",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.3/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Fixderma India (dermatology company) — Dermatology / pharmaceutical manufacturer",
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "waterResistance": "Water resistant / waterproof (duration not stated), marketed for swim / sport / outdoors (per listing — not tested here, not scored)"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/818EQ0klXnL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/51yM58carEL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61nQ-b7hfeL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61IkW7GmU7L._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/51xsqkE8fYL._SL1080_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0C5CS5F77",
+  "buyStore": "Amazon",
+  "title": "Fixderma Shadow Sunscreen SPF 50 Roll On Pa+++ | Transparent with Broad Spectrum UVA & UVB Protection | Lightweight | Water Resistant | For Sensitive Skin | Sunscreen for Women & Men | 30gm",
+  "tags": [
+   "scope:unstated",
+   "format:roll-on",
+   "spf:50",
+   "pa:+++",
+   "water:resistant",
+   "water:sport",
+   "claim:water-resistant",
+   "claim:no-white-cast",
+   "claim:broad-spectrum",
+   "claim:lightweight",
+   "claim:spf-claim",
+   "skin:sensitive",
+   "skin:all",
+   "free:sensitive-safe",
+   "aud:women",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none",
+   "inci:pharma-maker"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": true
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Fixderma India (dermatology company)",
+    "kind": "pharma",
+    "label": "Dermatology / pharmaceutical manufacturer",
+    "pts": 8,
+    "url": "https://www.fixderma.com/"
+   },
+   "buyers": "4.3★ from 0 ratings"
+  }
+ },
+ {
+  "id": "unbranded-b0fr51k2sv",
+  "brand": "Unbranded",
+  "model": "Kids Roll-On Sunscreen SPF 50 | Water Resistant, Non-Greasy & Lightweight | Easy-Apply Sun…",
+  "price": 749,
+  "capacityLine": "50 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Roll-on · SPF 50 · ₹1498/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.9
+  },
+  "fullSpec": {
+   "quantity": "50 ml",
+   "pricePer100": "₹1498/100ml",
+   "format": "Roll-on",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Oil control / matte / non-greasy, Exfoliating, Water / sweat resistant, Broad spectrum UVA/UVB, Lightweight / fast-absorbing, SPF included (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "sunProtection": "SPF 50 (as labelled)",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.3/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "waterResistance": "Water resistant / waterproof (duration not stated), marketed for swim / sport / outdoors (per listing — not tested here, not scored)"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51XwUH6EgTL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61dEWolzliL._SL1386_.jpg",
+   "https://m.media-amazon.com/images/I/71M2QxPUj1L._SL1254_.jpg",
+   "https://m.media-amazon.com/images/I/7172zJcZHlL._SL1254_.jpg",
+   "https://m.media-amazon.com/images/I/71gOl5SjlCL._SL1254_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0FR51K2SV",
+  "buyStore": "Amazon",
+  "title": "Kids Roll-On Sunscreen SPF 50 | Water Resistant, Non-Greasy & Lightweight | Easy-Apply Sunscreen for Kids | 50ml",
+  "tags": [
+   "scope:unstated",
+   "format:roll-on",
+   "spf:50",
+   "water:resistant",
+   "water:sport",
+   "claim:oil-control",
+   "claim:exfoliating",
+   "claim:water-resistant",
+   "claim:broad-spectrum",
+   "claim:lightweight",
+   "claim:spf-claim",
+   "aud:kids",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.3★ from 0 ratings"
   }
  }
 ];

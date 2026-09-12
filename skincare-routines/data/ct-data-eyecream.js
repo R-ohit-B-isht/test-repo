@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-07.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-12.
 // Unknown fields are honestly marked, never invented.
 const CTPRODUCTS = [
  {
@@ -1703,7 +1703,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/j/m/9/retinol-face-pink-lip-serum-under-eye-serum-hair-growth-serum-original-imagxfaymbem48cf.jpeg?q=90",
@@ -1723,6 +1724,7 @@ const CTPRODUCTS = [
    "format:pack",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:retinol",
    "ing:salicylic-acid-bha",
@@ -1991,6 +1993,114 @@ const CTPRODUCTS = [
     "url": null
    },
    "buyers": "3.3★ from 4 ratings"
+  }
+ },
+ {
+  "id": "park-daniel-itma7cc8de3a1234",
+  "brand": "Park Daniel",
+  "model": "Retinol Face Serum & Kukumadi Lip Serum Oil & Under Eye Serum (Each, 30ml)",
+  "price": 322,
+  "capacityLine": "30 ml",
+  "materialLine": "retinol",
+  "featureLine": "Serum · Paraben-free · ₹1073/100ml",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "Well-reviewed: 5★ from 3 ratings"
+  ],
+  "cons": [
+   "Only 1 ingredient named — formula unscored",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 5.8
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹1073/100ml",
+   "format": "Serum",
+   "keyIngredients": "retinol (per listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "5/5 (3 ratings, Flipkart)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: Natural Ingredients",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "5★ from 3 ratings"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-combo-kit/n/l/y/retinol-face-serum-kukumadi-lip-serum-oil-under-eye-serum-each-original-imahepjtnxaf4gw8.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/ktn9pjk0/combo-kit/i/l/z/premium-vitamin-b3-facial-serum-nail-cuticle-growth-oil-pink-lip-original-imag6y3gmfezzuh9.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/v/x/h/vitamin-c-complete-skincare-combo-face-wash-toner-serum-cream-original-imahhnjyawtbgbzk.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/e/i/c/clarifying-face-wash-enriched-with-carrot-neem-seed-oil-beads-original-imah3g7egmftgxcn.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/u/p/a/vitamin-c-e-superbright-skin-care-serum-moisturizer-combo-for-original-imahdt5y5yaht4dy.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/park-daniel-retinol-face-serum-kukumadi-lip-oil-under-eye-each-30ml/p/itma7cc8de3a1234",
+  "buyStore": "Flipkart",
+  "title": "PARK DANIEL Retinol Face Serum & Kukumadi Lip Serum Oil & Under Eye Serum (Each, 30ml)",
+  "tags": [
+   "scope:face",
+   "format:serum",
+   "format:oil",
+   "format:pack",
+   "format:kit",
+   "ing:retinol",
+   "claim:dark-circles",
+   "skin:all",
+   "free:paraben",
+   "aud:women",
+   "size:travel",
+   "rating:4.5",
+   "store:flipkart",
+   "inci:partial"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Natural Ingredients",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 0,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "5★ from 3 ratings"
   }
  },
  {
@@ -2666,6 +2776,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:cream",
    "ing:retinol",
+   "ing:nad-nmn",
    "claim:brightening",
    "claim:anti-aging",
    "aud:unisex",
@@ -2772,6 +2883,7 @@ const CTPRODUCTS = [
    "ing:retinol",
    "ing:retinal",
    "ing:peptides",
+   "ing:nad-nmn",
    "claim:brightening",
    "claim:anti-aging",
    "claim:hydrating",
@@ -3060,7 +3172,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/eye-serum/s/6/3/15-retinol-eye-serum-with-caffeine-peptides-dark-circles-eye-original-imahzrnwzvdezzke.jpeg?q=90",
@@ -3077,6 +3190,7 @@ const CTPRODUCTS = [
    "format:gel",
    "format:serum",
    "format:roll-on",
+   "water:unstated",
    "ing:retinol",
    "ing:hyaluronic-acid",
    "ing:peptides",
@@ -3505,7 +3619,7 @@ const CTPRODUCTS = [
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 3.4,
+   "ingredients": 3.7,
    "skin": 5.9,
    "trust": 5.5,
    "experience": 6.9
@@ -3585,6 +3699,14 @@ const CTPRODUCTS = [
      "core": true,
      "trace": false,
      "src": "caffeine"
+    },
+    {
+     "name": "beeswax",
+     "grade": "B",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
     },
     {
      "name": "prunus amygdalus dulcis oil",
@@ -5948,117 +6070,6 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "the-western-herbs-co-itm0d8a6aef2bd73",
-  "brand": "The Western Herbs Co",
-  "model": "(Pack of 1) Under Eye Cream 50G Everyday Car …",
-  "price": 122,
-  "capacityLine": "50 g",
-  "materialLine": "retinol + aloe vera + cucumber",
-  "featureLine": "Cream / gel · ₹244/100g",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "Only 1 ingredient named — formula unscored",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "50 g",
-   "pricePer100": "₹244/100g",
-   "format": "Cream / gel",
-   "keyIngredients": "retinol, aloe vera, cucumber (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, Anti-aging claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "All Skin Types",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: Cucumber",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/eye-cream/e/s/s/50-pack-of-1-under-eye-cream-50g-everyday-care-the-western-herbs-original-imahp3vh5zpa7zvb.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/eye-cream/r/t/g/50-pack-of-1-under-eye-cream-50g-refresh-care-the-western-herbs-original-imahp3vfs6zzkhyy.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/eye-cream/t/7/5/20-retinal-shot-tightening-booster-minimize-wrinkles-face-care-original-imahnsma5zft3akq.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/eye-cream/w/3/m/15-dark-circle-repair-under-eye-cream-with-hydration-brightening-original-imahkhgjqqhxzxwg.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/eye-cream/6/n/q/50-cooling-under-eye-cream-for-brighter-eyes-fast-absorbing-ux38-original-imahpyzae8hjhzh9.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/western-herbs-co-pack-1-under-eye-cream-50g-everyday-care/p/itm0d8a6aef2bd73",
-  "buyStore": "Flipkart",
-  "title": "The Western Herbs Co (Pack of 1) Under Eye Cream 50G Everyday Car …",
-  "tags": [
-   "scope:face",
-   "format:cream",
-   "format:kit",
-   "ing:retinal",
-   "ing:aloe-vera",
-   "ing:cucumber",
-   "claim:dark-spots",
-   "claim:anti-aging",
-   "claim:hydrating",
-   "claim:dark-circles",
-   "claim:ayurvedic",
-   "skin:all",
-   "free:vegan",
-   "aud:women",
-   "size:travel",
-   "rating:none",
-   "store:flipkart",
-   "inci:partial"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "partial",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Cucumber",
-   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 0,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
   "id": "the-western-herbs-co-itm3ce0e209e6c39",
   "brand": "The Western Herbs Co",
   "model": "(Pack of 2) Under Eye Cream 50G Hydrating Fo …",
@@ -7585,7 +7596,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Pep Technologies — Indian D2C brand with its own product company",
    "declaredManufacturer": "Reve Pharma 78, Stice, Musalgaon MIDC, Tal. Sinnar- 422103 (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "3.7★ from 182 ratings"
+   "buyerEvidence": "3.7★ from 182 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/eye-cream/a/r/q/15-insta-bright-kombucha-tea-under-eye-cream-spf-30-pa-mcaffeine-original-imah5wzyjvfusbh4.jpeg?q=90",
@@ -7602,6 +7614,7 @@ const CTPRODUCTS = [
    "format:cream",
    "spf:30",
    "pa:+++",
+   "water:unstated",
    "ing:caffeine",
    "claim:barrier",
    "claim:dark-circles",
@@ -14489,7 +14502,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 9 ratings"
+   "buyerEvidence": "5★ from 9 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/eye-cream/x/u/d/15-under-eye-cream-3-in-1-dark-circles-puffiness-wrinkles-spf-30-original-imahpjzhtnfeabzc.jpeg?q=90",
@@ -14505,6 +14519,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:cream",
    "spf:30",
+   "water:unstated",
    "ing:retinol",
    "ing:peptides",
    "ing:caffeine",
@@ -15696,6 +15711,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:kit",
    "ing:retinol",
+   "ing:nad-nmn",
    "claim:dark-circles",
    "aud:unisex",
    "rating:4.5",
@@ -31229,7 +31245,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/eye-serum/9/1/8/15-under-eye-formula-retinol-caffeine-for-dark-circles-puffy-original-imahzrz5asyytjz6.jpeg?q=90",
@@ -31246,6 +31263,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:serum",
    "format:roll-on",
+   "water:unstated",
    "ing:retinol",
    "ing:peptides",
    "ing:caffeine",
@@ -32197,7 +32215,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/eye-serum/9/v/q/15-eye-serum-for-dark-circle-retinol-caffeine-fine-lines-serum-original-imahzrz4gcpukynz.jpeg?q=90",
@@ -32214,6 +32233,7 @@ const CTPRODUCTS = [
    "format:gel",
    "format:serum",
    "format:roll-on",
+   "water:unstated",
    "ing:retinol",
    "ing:hyaluronic-acid",
    "ing:peptides",
@@ -32309,7 +32329,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/eye-serum/z/o/r/15-under-eye-treatment-retinol-caffeine-dark-circles-puffiness-original-imahzrnx9xm3qhy5.jpeg?q=90",
@@ -32328,6 +32349,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:oil",
    "format:roll-on",
+   "water:unstated",
    "ing:retinol",
    "ing:hyaluronic-acid",
    "ing:peptides",
@@ -34606,7 +34628,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/eye-serum/b/v/z/15-anti-aging-eye-cream-retinol-eye-serum-with-caffeine-peptides-original-imahzrz5ksr7fvka.jpeg?q=90",
@@ -34624,6 +34647,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:serum",
    "format:roll-on",
+   "water:unstated",
    "ing:retinol",
    "ing:hyaluronic-acid",
    "ing:peptides",
@@ -34719,7 +34743,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/eye-serum/l/w/3/15-under-eye-serum-for-dark-circles-puffiness-retinol-caffeine-original-imahzrzzt6qgawxm.jpeg?q=90",
@@ -34736,6 +34761,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:serum",
    "format:roll-on",
+   "water:unstated",
    "ing:retinol",
    "ing:peptides",
    "ing:caffeine",
@@ -42890,7 +42916,7 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "3.5/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
    "inciSource": "Not stated in listing",
    "inciList": "Not stated in listing",
    "evidenceActives": "Unscored — no verified INCI list",
@@ -43420,13 +43446,14 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.8/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
    "inciSource": "Not stated in listing",
    "inciList": "Not stated in listing",
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.8★ from 0 ratings"
+   "buyerEvidence": "4.8★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51KpP8RXrUL._AC_UL320_.jpg"
@@ -43437,6 +43464,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:retinal",
    "claim:brightening",
    "claim:anti-aging",
@@ -43531,7 +43559,7 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "3.5/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
    "inciSource": "Not stated in listing",
    "inciList": "Not stated in listing",
    "evidenceActives": "Unscored — no verified INCI list",
@@ -43868,7 +43896,7 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "5.0/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
    "inciSource": "Not stated in listing",
    "inciList": "Not stated in listing",
    "evidenceActives": "Unscored — no verified INCI list",
@@ -44097,7 +44125,7 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
    "inciSource": "Not stated in listing",
    "inciList": "Not stated in listing",
    "evidenceActives": "Unscored — no verified INCI list",
@@ -44201,7 +44229,7 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.3/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
    "inciSource": "Not stated in listing",
    "inciList": "Not stated in listing",
    "evidenceActives": "Unscored — no verified INCI list",
@@ -44308,13 +44336,14 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "3.6/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
    "inciSource": "Not stated in listing",
    "inciList": "Not stated in listing",
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.6★ from 0 ratings"
+   "buyerEvidence": "3.6★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51KpP8RXrUL._AC_UL320_.jpg"
@@ -44325,6 +44354,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:retinal",
    "claim:anti-aging",
    "claim:hydrating",
@@ -44415,7 +44445,7 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.1/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
    "inciSource": "Not stated in listing",
    "inciList": "Not stated in listing",
    "evidenceActives": "Unscored — no verified INCI list",
@@ -44523,13 +44553,14 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.2/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
    "inciSource": "Not stated in listing",
    "inciList": "Not stated in listing",
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51KpP8RXrUL._AC_UL320_.jpg"
@@ -44540,6 +44571,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:retinal",
    "claim:dark-spots",
    "claim:anti-aging",
@@ -44627,7 +44659,7 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.4/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
    "inciSource": "Not stated in listing",
    "inciList": "Not stated in listing",
    "evidenceActives": "Unscored — no verified INCI list",
@@ -44652,6 +44684,7 @@ const CTPRODUCTS = [
    "ing:niacinamide",
    "ing:retinol",
    "ing:peptides",
+   "ing:pdrn-polynucleotide",
    "claim:anti-aging",
    "claim:hydrating",
    "claim:soothing",
@@ -45331,6 +45364,7 @@ const CTPRODUCTS = [
    "format:stick",
    "format:balm",
    "ing:collagen",
+   "ing:pdrn-polynucleotide",
    "claim:brightening",
    "claim:anti-aging",
    "claim:hydrating",
@@ -46168,16 +46202,18 @@ const CTPRODUCTS = [
   "capacityLine": "15 ml",
   "materialLine": "niacinamide + retinol + peptides",
   "featureLine": "Serum · ₹4660/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. Scored from its published INCI list (Amazon.in listing — Important information › Ingredients): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence); niacinamide high on the INCI list (strong evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): fragrance",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 6.4,
+   "skin": 5.9,
+   "trust": 5.5,
    "experience": 5
   },
   "fullSpec": {
@@ -46194,13 +46230,14 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "5.0/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Water (Aqua), Hydrolyzed Collagen, Glycerin, Niacinamide, Sodium Hyaluronate (Hyaluronic Acid), Peptide Complex, Adenosine, Butylene Glycol, Propanediol, Betaine, Panthenol (Vitamin B5), Allantoin, Carbomer, Arginine, Disodium EDTA, Phenoxyethanol, Ethylhexylglycerin, Fragrance.",
+   "evidenceActives": "glycerin (#3 on list, strong evidence); niacinamide (#4 on list, strong evidence); sodium hyaluronate (#5 on list, moderate evidence); adenosine (#7 on list, moderate evidence); panthenol (#11 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI; Aging — adenosine #7 on INCI; Irritation — panthenol #11 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51RfEaEAq9L._AC_UL320_.jpg"
@@ -46215,6 +46252,7 @@ const CTPRODUCTS = [
    "ing:niacinamide",
    "ing:retinol",
    "ing:peptides",
+   "ing:nad-nmn",
    "claim:brightening",
    "claim:anti-aging",
    "claim:hydrating",
@@ -46223,7 +46261,11 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:amazon",
-   "inci:none"
+   "target:acne",
+   "target:dark-spots",
+   "target:aging",
+   "target:irritation",
+   "inci:full"
   ],
   "filters": {
    "actives": true,
@@ -46232,27 +46274,93 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "listing",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
+   "inci": "full",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
-   "inciText": null,
+   "inciText": "Water (Aqua), Hydrolyzed Collagen, Glycerin, Niacinamide, Sodium Hyaluronate (Hyaluronic Acid), Peptide Complex, Adenosine, Butylene Glycol, Propanediol, Betaine, Panthenol (Vitamin B5), Allantoin, Carbomer, Arginine, Disodium EDTA, Phenoxyethanol, Ethylhexylglycerin, Fragrance.",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "adenosine",
+     "grade": "B",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "peptides"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 11,
+     "core": true,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 12,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "niacinamide",
+    "sodium hyaluronate",
+    "butylene glycol",
+    "propanediol",
+    "panthenol"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -46424,6 +46532,7 @@ const CTPRODUCTS = [
    "ing:retinol",
    "ing:ceramides",
    "ing:peptides",
+   "ing:nad-nmn",
    "claim:anti-aging",
    "claim:dark-circles",
    "aud:women",
@@ -46525,6 +46634,7 @@ const CTPRODUCTS = [
    "ing:niacinamide",
    "ing:retinol",
    "ing:peptides",
+   "ing:nad-nmn",
    "claim:brightening",
    "claim:anti-aging",
    "claim:dark-circles",
@@ -46628,6 +46738,7 @@ const CTPRODUCTS = [
    "ing:retinol",
    "ing:ceramides",
    "ing:peptides",
+   "ing:nad-nmn",
    "claim:anti-aging",
    "claim:dark-circles",
    "aud:unisex",
@@ -46730,6 +46841,7 @@ const CTPRODUCTS = [
    "ing:niacinamide",
    "ing:retinol",
    "ing:peptides",
+   "ing:nad-nmn",
    "claim:brightening",
    "claim:anti-aging",
    "claim:hydrating",
@@ -46936,6 +47048,7 @@ const CTPRODUCTS = [
    "ing:retinol",
    "ing:ceramides",
    "ing:peptides",
+   "ing:nad-nmn",
    "claim:anti-aging",
    "claim:hydrating",
    "claim:dark-circles",
@@ -47040,6 +47153,7 @@ const CTPRODUCTS = [
    "ing:retinol",
    "ing:ceramides",
    "ing:peptides",
+   "ing:nad-nmn",
    "claim:anti-aging",
    "claim:dark-circles",
    "aud:unisex",
@@ -47196,17 +47310,19 @@ const CTPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "niacinamide + retinol + peptides",
   "featureLine": "Serum",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. Scored from its published INCI list (Amazon.in listing — Important information › Ingredients): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "retinol high on the INCI list (strong evidence); niacinamide high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
    "Maker not verified — no parent company found",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 6.6,
+   "skin": 7,
+   "trust": 5.5,
    "experience": 0
   },
   "fullSpec": {
@@ -47223,13 +47339,14 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Nicotinamide Adenine Dinucleotide (NAD+), Retinol, Niacinamide (4%), Ceramide NP, Adenosine, Hyaluronic Acid. Water, Butylene Glycol, Glycerin, Propanediol, Macadamia Integrifolia Seed Oil, Olea Europaea (Olive) Fruit Oil, Butyrospermum Parkii (Shea) Butter, Caprylic/Capric Triglyceride, Squalane. Hydrogenated Lecithin, Phytosterols, Cholesterol, Ceramide NP, Polyglyceryl-4 Oleate, Sorbitan Stearate, Behenic Acid. Acetyl Tetrapeptide-5, Acetyl Hexapeptide-8, Palmitoyl Tripeptide-1, Palmitoyl Pentapeptide-4, Copper Tripeptide-1, Oligopeptides and additional firming peptide compounds",
+   "evidenceActives": "retinol (#2 on list, strong evidence); niacinamide (#3 on list, strong evidence); ceramide np (#4 on list, moderate evidence); adenosine (#5 on list, moderate evidence); glycerin (#8 on list, strong evidence); acetyl hexapeptide-8 (#21 on list, moderate evidence); palmitoyl tripeptide-1 (#22 on list, moderate evidence); palmitoyl pentapeptide-4 (#23 on list, moderate evidence); copper tripeptide-1 (#24 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — niacinamide #3 on INCI; Dark spots — niacinamide #3 on INCI; Aging — retinol #2 on INCI, adenosine #5 on INCI, acetyl hexapeptide-8 #21 on INCI, palmitoyl tripeptide-1 #22 on INCI, palmitoyl pentapeptide-4 #23 on INCI, copper tripeptide-1 #24 on INCI; Irritation — ceramide np #4 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51MkUbatC8L._AC_UL320_.jpg"
@@ -47244,13 +47361,19 @@ const CTPRODUCTS = [
    "ing:niacinamide",
    "ing:retinol",
    "ing:peptides",
+   "ing:nad-nmn",
    "claim:anti-aging",
    "claim:hydrating",
    "claim:dark-circles",
    "aud:unisex",
    "rating:none",
    "store:amazon",
-   "inci:none"
+   "target:acne",
+   "target:dark-spots",
+   "target:aging",
+   "target:irritation",
+   "inci:full",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -47259,25 +47382,122 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "listing",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
+   "inci": "full",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
-   "inciText": null,
+   "inciText": "Nicotinamide Adenine Dinucleotide (NAD+), Retinol, Niacinamide (4%), Ceramide NP, Adenosine, Hyaluronic Acid. Water, Butylene Glycol, Glycerin, Propanediol, Macadamia Integrifolia Seed Oil, Olea Europaea (Olive) Fruit Oil, Butyrospermum Parkii (Shea) Butter, Caprylic/Capric Triglyceride, Squalane. Hydrogenated Lecithin, Phytosterols, Cholesterol, Ceramide NP, Polyglyceryl-4 Oleate, Sorbitan Stearate, Behenic Acid. Acetyl Tetrapeptide-5, Acetyl Hexapeptide-8, Palmitoyl Tripeptide-1, Palmitoyl Pentapeptide-4, Copper Tripeptide-1, Oligopeptides and additional firming peptide compounds",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "retinol",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "retinoids"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "adenosine",
+     "grade": "B",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "peptides"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 8,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 12,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "cholesterol",
+     "grade": "B",
+     "position": 16,
+     "core": false,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "acetyl hexapeptide-8",
+     "grade": "B",
+     "position": 21,
+     "core": true,
+     "trace": false,
+     "src": "peptides"
+    },
+    {
+     "name": "palmitoyl tripeptide-1",
+     "grade": "B",
+     "position": 22,
+     "core": true,
+     "trace": false,
+     "src": "peptides"
+    },
+    {
+     "name": "palmitoyl pentapeptide-4",
+     "grade": "B",
+     "position": 23,
+     "core": true,
+     "trace": false,
+     "src": "peptides"
+    },
+    {
+     "name": "copper tripeptide-1",
+     "grade": "B",
+     "position": 24,
+     "core": true,
+     "trace": false,
+     "src": "peptides"
+    }
+   ],
+   "support": [
+    "niacinamide",
+    "ceramide np",
+    "butylene glycol",
+    "glycerin",
+    "propanediol",
+    "butyrospermum parkii butter",
+    "cholesterol"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -47347,6 +47567,7 @@ const CTPRODUCTS = [
    "ing:retinol",
    "ing:ceramides",
    "ing:peptides",
+   "ing:nad-nmn",
    "claim:anti-aging",
    "claim:dark-circles",
    "aud:unisex",
@@ -47449,6 +47670,7 @@ const CTPRODUCTS = [
    "ing:retinol",
    "ing:ceramides",
    "ing:peptides",
+   "ing:nad-nmn",
    "claim:anti-aging",
    "claim:hydrating",
    "claim:dark-circles",
@@ -47507,14 +47729,14 @@ const CTPRODUCTS = [
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "No ingredient list published on the listing",
+   "Only 1 ingredient named — formula unscored",
    "Maker not verified — no parent company found",
    "No buyer ratings yet"
   ],
   "scores": {
    "ingredients": 0,
    "skin": 0,
-   "trust": 3.5,
+   "trust": 3.8,
    "experience": 0
   },
   "fullSpec": {
@@ -47531,9 +47753,9 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: Retinol. 50 Peptides. 4% Niacinamide. NAD+. Ceramides",
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
@@ -47552,6 +47774,7 @@ const CTPRODUCTS = [
    "ing:niacinamide",
    "ing:retinol",
    "ing:peptides",
+   "ing:nad-nmn",
    "claim:brightening",
    "claim:anti-aging",
    "claim:dark-circles",
@@ -47559,7 +47782,7 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:amazon",
-   "inci:none"
+   "inci:partial"
   ],
   "filters": {
    "actives": true,
@@ -47568,23 +47791,23 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
+   "inci": "partial",
    "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
    "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
+   "inciUnverified": "Retinol. 50 Peptides. 4% Niacinamide. NAD+. Ceramides",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
    "declarationConfidence": null,
-   "recognised": null,
+   "recognised": 1,
    "actives": [],
    "support": [],
    "formulaNotes": [],
@@ -47759,6 +47982,7 @@ const CTPRODUCTS = [
    "ing:retinol",
    "ing:ceramides",
    "ing:peptides",
+   "ing:nad-nmn",
    "claim:brightening",
    "claim:anti-aging",
    "claim:dark-circles",
@@ -48563,6 +48787,7 @@ const CTPRODUCTS = [
    "ing:niacinamide",
    "ing:retinol",
    "ing:peptides",
+   "ing:nad-nmn",
    "claim:anti-aging",
    "claim:hydrating",
    "claim:dark-circles",
@@ -48776,6 +49001,7 @@ const CTPRODUCTS = [
    "ing:niacinamide",
    "ing:retinol",
    "ing:peptides",
+   "ing:nad-nmn",
    "claim:dark-circles",
    "claim:lightweight",
    "aud:unisex",
@@ -49073,6 +49299,7 @@ const CTPRODUCTS = [
    "format:essence",
    "ing:retinol",
    "ing:peptides",
+   "ing:nad-nmn",
    "claim:anti-aging",
    "claim:hydrating",
    "claim:dark-circles",
@@ -49282,6 +49509,7 @@ const CTPRODUCTS = [
    "ing:niacinamide",
    "ing:retinol",
    "ing:peptides",
+   "ing:nad-nmn",
    "claim:brightening",
    "claim:anti-aging",
    "claim:hydrating",
@@ -49386,6 +49614,7 @@ const CTPRODUCTS = [
    "ing:niacinamide",
    "ing:retinol",
    "ing:peptides",
+   "ing:nad-nmn",
    "claim:anti-aging",
    "claim:hydrating",
    "claim:dark-circles",
@@ -49444,14 +49673,14 @@ const CTPRODUCTS = [
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "No ingredient list published on the listing",
+   "Only 1 ingredient named — formula unscored",
    "Maker not verified — no parent company found",
    "No buyer ratings yet"
   ],
   "scores": {
    "ingredients": 0,
    "skin": 0,
-   "trust": 3.5,
+   "trust": 3.8,
    "experience": 0
   },
   "fullSpec": {
@@ -49468,9 +49697,9 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: Dark Circles",
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
@@ -49489,6 +49718,7 @@ const CTPRODUCTS = [
    "ing:niacinamide",
    "ing:retinol",
    "ing:peptides",
+   "ing:nad-nmn",
    "claim:brightening",
    "claim:anti-aging",
    "claim:hydrating",
@@ -49496,7 +49726,7 @@ const CTPRODUCTS = [
    "aud:women",
    "rating:none",
    "store:amazon",
-   "inci:none"
+   "inci:partial"
   ],
   "filters": {
    "actives": true,
@@ -49505,23 +49735,23 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
+   "inci": "partial",
    "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
    "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
+   "inciUnverified": "Dark Circles",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
    "declarationConfidence": null,
-   "recognised": null,
+   "recognised": 0,
    "actives": [],
    "support": [],
    "formulaNotes": [],
@@ -49592,6 +49822,7 @@ const CTPRODUCTS = [
    "ing:niacinamide",
    "ing:retinol",
    "ing:peptides",
+   "ing:nad-nmn",
    "claim:brightening",
    "claim:anti-aging",
    "claim:dark-circles",
@@ -49693,6 +49924,7 @@ const CTPRODUCTS = [
    "format:essence",
    "ing:retinol",
    "ing:peptides",
+   "ing:nad-nmn",
    "claim:anti-aging",
    "claim:hydrating",
    "claim:dark-circles",
@@ -50191,6 +50423,7 @@ const CTPRODUCTS = [
    "ing:niacinamide",
    "ing:retinol",
    "ing:peptides",
+   "ing:nad-nmn",
    "claim:brightening",
    "claim:anti-aging",
    "claim:hydrating",
@@ -50293,6 +50526,7 @@ const CTPRODUCTS = [
    "format:essence",
    "ing:retinol",
    "ing:peptides",
+   "ing:nad-nmn",
    "claim:anti-aging",
    "claim:hydrating",
    "claim:dark-circles",
@@ -50395,6 +50629,7 @@ const CTPRODUCTS = [
    "ing:niacinamide",
    "ing:retinol",
    "ing:peptides",
+   "ing:nad-nmn",
    "claim:brightening",
    "claim:anti-aging",
    "claim:hydrating",
@@ -50799,6 +51034,7 @@ const CTPRODUCTS = [
    "ing:niacinamide",
    "ing:retinol",
    "ing:peptides",
+   "ing:nad-nmn",
    "claim:anti-aging",
    "claim:hydrating",
    "claim:dark-circles",
@@ -51203,6 +51439,7 @@ const CTPRODUCTS = [
    "ing:niacinamide",
    "ing:retinol",
    "ing:peptides",
+   "ing:nad-nmn",
    "claim:brightening",
    "claim:anti-aging",
    "claim:hydrating",
@@ -65104,6 +65341,7 @@ const CTPRODUCTS = [
    "ing:niacinamide",
    "ing:retinol",
    "ing:peptides",
+   "ing:nad-nmn",
    "claim:brightening",
    "claim:anti-aging",
    "claim:hydrating",
@@ -65808,6 +66046,7 @@ const CTPRODUCTS = [
    "ing:niacinamide",
    "ing:retinol",
    "ing:peptides",
+   "ing:nad-nmn",
    "claim:brightening",
    "claim:anti-aging",
    "claim:hydrating",
@@ -68264,15 +68503,17 @@ const CTPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "caffeine",
   "featureLine": "Serum · ₹3000/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (The Ordinary official website (theordinary.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "caffeine high on the INCI list (moderate evidence); glycerin high on the INCI list (strong evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing"
+   "EU-declared fragrance allergen: benzyl alcohol"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 8.3,
+   "skin": 9.5,
+   "trust": 8.5,
    "experience": 2.6
   },
   "fullSpec": {
@@ -68289,11 +68530,13 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.2/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "The Ordinary official website (theordinary.com) — product page › Ingredients",
+   "inciSourceUrl": "https://theordinary.com/en-in/caffeine-solution-5-egcg-eye-serum-100412.html",
+   "inciMatchedName": "Caffeine Solution 5% + EGCG Eye Serum (name match 100%)",
+   "inciList": "Aqua/Water/Eau, Caffeine, Maltodextrin, Glycerin, Propanediol, Epigallocatechin Gallatyl Glucoside, Gallyl Glucoside, Hyaluronic Acid, Oxidized Glutathione, Melanin, Glycine Soja (Soybean) Seed Extract, Hydroxyethylcellulose, Polyacrylate Crosspolymer-6, Xanthan Gum, Propyl Gallate, Trisodium Ethylenediamine Disuccinate, Pentylene Glycol, Dimethyl Isosorbide, Lactic Acid, Salicylic Acid, Dehydroacetic Acid, Benzyl Alcohol, 1,2-Hexanediol, Ethylhexylglycerin, Phenoxyethanol, Caprylyl Glycol",
+   "evidenceActives": "caffeine (#2 on list, moderate evidence); glycerin (#4 on list, strong evidence); hyaluronic acid (#8 on list, moderate evidence)",
+   "safetyFlags": "EU-declared fragrance allergen: benzyl alcohol (−0.5)",
    "maker": "Estée Lauder Companies — Global FMCG or beauty group",
    "buyerEvidence": "4.2★ from 0 ratings"
   },
@@ -68312,7 +68555,8 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "actives": false,
@@ -68321,27 +68565,82 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "The Ordinary official website (theordinary.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://theordinary.com/en-in/caffeine-solution-5-egcg-eye-serum-100412.html",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Caffeine Solution 5% + EGCG Eye Serum",
+   "inciMatchScore": 1,
+   "inciText": "Aqua/Water/Eau, Caffeine, Maltodextrin, Glycerin, Propanediol, Epigallocatechin Gallatyl Glucoside, Gallyl Glucoside, Hyaluronic Acid, Oxidized Glutathione, Melanin, Glycine Soja (Soybean) Seed Extract, Hydroxyethylcellulose, Polyacrylate Crosspolymer-6, Xanthan Gum, Propyl Gallate, Trisodium Ethylenediamine Disuccinate, Pentylene Glycol, Dimethyl Isosorbide, Lactic Acid, Salicylic Acid, Dehydroacetic Acid, Benzyl Alcohol, 1,2-Hexanediol, Ethylhexylglycerin, Phenoxyethanol, Caprylyl Glycol",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.96,
+   "actives": [
+    {
+     "name": "caffeine",
+     "grade": "B",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "caffeine"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "hyaluronic acid",
+     "grade": "B",
+     "position": 8,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 19,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 20,
+     "core": false,
+     "trace": true,
+     "src": "bha"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "propanediol",
+    "hyaluronic acid"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "euAllergen",
+     "label": "EU-declared fragrance allergen",
+     "names": [
+      "benzyl alcohol"
+     ],
+     "penalty": 0.5,
+     "src": "eu1223"
+    }
+   ],
    "maker": {
     "parent": "Estée Lauder Companies",
     "kind": "global",
@@ -78187,15 +78486,17 @@ const CTPRODUCTS = [
   "capacityLine": "15 ml",
   "materialLine": "peptides",
   "featureLine": "Serum · ₹17333/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (The Ordinary official website (theordinary.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence); niacinamide high on the INCI list (strong evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing"
+   "EU-declared fragrance allergen: benzyl alcohol"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 8.5,
+   "skin": 9.5,
+   "trust": 8.5,
    "experience": 3.5
   },
   "fullSpec": {
@@ -78212,13 +78513,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.5/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "The Ordinary official website (theordinary.com) — product page › Ingredients",
+   "inciSourceUrl": "https://theordinary.com/en-in/multi-peptide-eye-serum-100620.html",
+   "inciMatchedName": "Multi-Peptide Eye Serum (name match 100%)",
+   "inciList": "Aqua (Water), Glycerin, Butylene Glycol, Propanediol, Dipropylene Glycol, Acetyl Glucosamine, Niacinamide, Palmitoyl Tripeptide-38, Acetyl Tetrapeptide-5, Myristoyl Nonapeptide-3, Dipeptide Diaminobutyroyl Benzylamide Diacetate, Caffeine, Epigallocatechin Gallatyl Glucoside, Gallyl Glucoside, Fraxinus Excelsior Bark Extract, Silanetriol, Arginine, Pentylene Glycol, Hydroxymethoxyphenyl Decanone, Propyl Gallate, Maltodextrin, Hydroxypropyl Cyclodextrin, Hydroxyethylcellulose, Xanthan Gum, Citric Acid, Glycolic Acid, Sodium Citrate, Polysorbate 20, Trisodium Ethylenediamine Disuccinate, Dehydroacetic Acid, Ethylhexylglycerin, Benzyl Alcohol, Phenoxyethanol, Chlorphenesin",
+   "evidenceActives": "glycerin (#2 on list, strong evidence); niacinamide (#7 on list, strong evidence); caffeine (#12 on list, moderate evidence)",
+   "safetyFlags": "EU-declared fragrance allergen: benzyl alcohol (−0.5)",
    "maker": "Estée Lauder Companies — Global FMCG or beauty group",
-   "buyerEvidence": "4.5★ from 0 ratings"
+   "buyerEvidence": "4.5★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #7 on INCI; Dark spots — niacinamide #7 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61AJi6UYkzL._AC_UL320_.jpg"
@@ -78236,7 +78540,10 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:amazon",
-   "inci:none"
+   "target:acne",
+   "target:dark-spots",
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "actives": true,
@@ -78245,27 +78552,83 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "The Ordinary official website (theordinary.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://theordinary.com/en-in/multi-peptide-eye-serum-100620.html",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Multi-Peptide Eye Serum",
+   "inciMatchScore": 1,
+   "inciText": "Aqua (Water), Glycerin, Butylene Glycol, Propanediol, Dipropylene Glycol, Acetyl Glucosamine, Niacinamide, Palmitoyl Tripeptide-38, Acetyl Tetrapeptide-5, Myristoyl Nonapeptide-3, Dipeptide Diaminobutyroyl Benzylamide Diacetate, Caffeine, Epigallocatechin Gallatyl Glucoside, Gallyl Glucoside, Fraxinus Excelsior Bark Extract, Silanetriol, Arginine, Pentylene Glycol, Hydroxymethoxyphenyl Decanone, Propyl Gallate, Maltodextrin, Hydroxypropyl Cyclodextrin, Hydroxyethylcellulose, Xanthan Gum, Citric Acid, Glycolic Acid, Sodium Citrate, Polysorbate 20, Trisodium Ethylenediamine Disuccinate, Dehydroacetic Acid, Ethylhexylglycerin, Benzyl Alcohol, Phenoxyethanol, Chlorphenesin",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "caffeine",
+     "grade": "B",
+     "position": 12,
+     "core": true,
+     "trace": false,
+     "src": "caffeine"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 25,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "glycolic acid",
+     "grade": "A",
+     "position": 26,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "butylene glycol",
+    "propanediol",
+    "niacinamide"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "euAllergen",
+     "label": "EU-declared fragrance allergen",
+     "names": [
+      "benzyl alcohol"
+     ],
+     "penalty": 0.5,
+     "src": "eu1223"
+    }
+   ],
    "maker": {
     "parent": "Estée Lauder Companies",
     "kind": "global",
@@ -81183,7 +81546,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41bZFif-WfL._AC_UL320_.jpg"
@@ -81196,6 +81560,7 @@ const CTPRODUCTS = [
    "format:gel",
    "format:serum",
    "spf:50",
+   "water:unstated",
    "ing:retinol",
    "ing:hyaluronic-acid",
    "ing:caffeine",
@@ -81357,15 +81722,17 @@ const CTPRODUCTS = [
   "capacityLine": "60 ml (pack of 2)",
   "materialLine": "caffeine",
   "featureLine": "Serum · ₹3000/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (The Ordinary official website (theordinary.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "caffeine high on the INCI list (moderate evidence); glycerin high on the INCI list (strong evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing"
+   "EU-declared fragrance allergen: benzyl alcohol"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 8.3,
+   "skin": 9.5,
+   "trust": 8.5,
    "experience": 3.8
   },
   "fullSpec": {
@@ -81382,11 +81749,13 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.6/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "The Ordinary official website (theordinary.com) — product page › Ingredients",
+   "inciSourceUrl": "https://theordinary.com/en-in/caffeine-solution-5-egcg-eye-serum-100412.html",
+   "inciMatchedName": "Caffeine Solution 5% + EGCG Eye Serum (name match 100%)",
+   "inciList": "Aqua/Water/Eau, Caffeine, Maltodextrin, Glycerin, Propanediol, Epigallocatechin Gallatyl Glucoside, Gallyl Glucoside, Hyaluronic Acid, Oxidized Glutathione, Melanin, Glycine Soja (Soybean) Seed Extract, Hydroxyethylcellulose, Polyacrylate Crosspolymer-6, Xanthan Gum, Propyl Gallate, Trisodium Ethylenediamine Disuccinate, Pentylene Glycol, Dimethyl Isosorbide, Lactic Acid, Salicylic Acid, Dehydroacetic Acid, Benzyl Alcohol, 1,2-Hexanediol, Ethylhexylglycerin, Phenoxyethanol, Caprylyl Glycol",
+   "evidenceActives": "caffeine (#2 on list, moderate evidence); glycerin (#4 on list, strong evidence); hyaluronic acid (#8 on list, moderate evidence)",
+   "safetyFlags": "EU-declared fragrance allergen: benzyl alcohol (−0.5)",
    "maker": "Estée Lauder Companies — Global FMCG or beauty group",
    "buyerEvidence": "4.6★ from 0 ratings"
   },
@@ -81406,7 +81775,8 @@ const CTPRODUCTS = [
    "size:standard",
    "rating:4.5",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "actives": false,
@@ -81415,27 +81785,82 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "The Ordinary official website (theordinary.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://theordinary.com/en-in/caffeine-solution-5-egcg-eye-serum-100412.html",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Caffeine Solution 5% + EGCG Eye Serum",
+   "inciMatchScore": 1,
+   "inciText": "Aqua/Water/Eau, Caffeine, Maltodextrin, Glycerin, Propanediol, Epigallocatechin Gallatyl Glucoside, Gallyl Glucoside, Hyaluronic Acid, Oxidized Glutathione, Melanin, Glycine Soja (Soybean) Seed Extract, Hydroxyethylcellulose, Polyacrylate Crosspolymer-6, Xanthan Gum, Propyl Gallate, Trisodium Ethylenediamine Disuccinate, Pentylene Glycol, Dimethyl Isosorbide, Lactic Acid, Salicylic Acid, Dehydroacetic Acid, Benzyl Alcohol, 1,2-Hexanediol, Ethylhexylglycerin, Phenoxyethanol, Caprylyl Glycol",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.96,
+   "actives": [
+    {
+     "name": "caffeine",
+     "grade": "B",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "caffeine"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "hyaluronic acid",
+     "grade": "B",
+     "position": 8,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 19,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 20,
+     "core": false,
+     "trace": true,
+     "src": "bha"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "propanediol",
+    "hyaluronic acid"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "euAllergen",
+     "label": "EU-declared fragrance allergen",
+     "names": [
+      "benzyl alcohol"
+     ],
+     "penalty": 0.5,
+     "src": "eu1223"
+    }
+   ],
    "maker": {
     "parent": "Estée Lauder Companies",
     "kind": "global",
@@ -83213,7 +83638,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51cHjaZ14uL._AC_UL320_.jpg"
@@ -83226,6 +83652,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:serum",
    "spf:30",
+   "water:unstated",
    "ing:retinol",
    "ing:collagen",
    "ing:caffeine",
@@ -84228,7 +84655,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61eQUxOcjiL._AC_UL320_.jpg"
@@ -84242,6 +84670,7 @@ const CTPRODUCTS = [
    "format:serum",
    "spf:50",
    "sun:mineral",
+   "water:unstated",
    "ing:retinol",
    "ing:caffeine",
    "claim:anti-aging",
@@ -84540,7 +84969,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61DKwdajlAL._AC_UL320_.jpg"
@@ -84553,6 +84983,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:serum",
    "spf:50",
+   "water:unstated",
    "ing:retinol",
    "ing:hyaluronic-acid",
    "ing:caffeine",
@@ -85684,6 +86115,7 @@ const CTPRODUCTS = [
    "ing:niacinamide",
    "ing:retinol",
    "ing:peptides",
+   "ing:nad-nmn",
    "claim:anti-aging",
    "claim:dark-circles",
    "aud:unisex",
@@ -93654,7 +94086,7 @@ const CTPRODUCTS = [
  {
   "id": "dr-dermic-co-itme24847af4e333",
   "brand": "Dr Dermic Co",
-  "model": "Hydroglow Under Eye Serum with Tranexamic Acid, Hyal …",
+  "model": "Hydroglow Under Eye Serum with Tranexamic Acid, Hyaluronic Acid & Vitamin E",
   "price": 360,
   "capacityLine": "15 g",
   "materialLine": "hyaluronic acid + tranexamic acid + vitamin E",
@@ -93701,7 +94133,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/dermic-co-hydroglow-under-eye-serum-tranexamic-acid-hyaluronic-acid-vitamin-e/p/itme24847af4e333",
   "buyStore": "Flipkart",
-  "title": "Dr Dermic Co Hydroglow Under Eye Serum with Tranexamic Acid, Hyal …",
+  "title": "Dr Dermic Co Hydroglow Under Eye Serum with Tranexamic Acid, Hyaluronic Acid & Vitamin E",
   "tags": [
    "scope:face",
    "format:serum",
@@ -93756,7 +94188,7 @@ const CTPRODUCTS = [
  {
   "id": "shibi-s-itmee2f4e4adac9b",
   "brand": "SHIBI'S",
-  "model": "Under Eye Peel, Kojic Acid 10%, Lactic Acid 8%, Vitamin C …",
+  "model": "Under Eye Peel, Kojic Acid 10%, Lactic Acid 8%, Vitamin C 10%, 30 ml",
   "price": 726,
   "capacityLine": "30 ml",
   "materialLine": "vitamin C + lactic acid + kojic acid",
@@ -93806,7 +94238,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/shibi-s-under-eye-peel-kojic-acid-10-lactic-8-vitamin-c-30-ml/p/itmee2f4e4adac9b",
   "buyStore": "Flipkart",
-  "title": "SHIBI'S Under Eye Peel, Kojic Acid 10%, Lactic Acid 8%, Vitamin C …",
+  "title": "SHIBI'S Under Eye Peel, Kojic Acid 10%, Lactic Acid 8%, Vitamin C 10%, 30 ml",
   "tags": [
    "scope:face",
    "format:gel",

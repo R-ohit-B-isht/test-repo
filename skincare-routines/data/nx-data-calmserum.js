@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-11.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-12.
 // Unknown fields are honestly marked, never invented.
 const NXPRODUCTS = [
  {
@@ -45,7 +45,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/q/s/u/50-7-rice-ceramide-hydrating-face-serum-for-skin-barrier-care-original-imahqpnbfce4wufh.jpeg?q=90",
@@ -62,6 +63,7 @@ const NXPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:wash",
+   "water:unstated",
    "ing:ceramides",
    "ing:rice-water",
    "claim:brightening",
@@ -163,7 +165,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.3★ from 3 ratings",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/5/t/x/50-rice-ceramide-7-hydrating-barrier-serum-pack-of-1-anua-original-imahe8y8nt6zygrs.jpeg?q=90",
@@ -182,6 +185,7 @@ const NXPRODUCTS = [
    "format:pack",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:ceramides",
@@ -289,7 +293,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/t/e/p/50-rice-ceramide-7-hydrating-barrier-serum-for-sensitive-skin-original-imahe8yemfnahhne.jpeg?q=90",
@@ -308,6 +313,7 @@ const NXPRODUCTS = [
    "format:pack",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:niacinamide",
    "ing:azelaic-acid",
    "ing:hyaluronic-acid",
@@ -420,7 +426,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/e/c/5/50-7-rice-ceramide-moisturizing-serum-for-smooth-healthy-skin-original-imahqpnjchky6hdy.jpeg?q=90",
@@ -437,6 +444,7 @@ const NXPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:wash",
+   "water:unstated",
    "ing:ceramides",
    "ing:rice-water",
    "claim:brightening",
@@ -536,7 +544,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/v/j/9/50-7-rice-ceramide-nourishing-serum-for-dry-skin-barrier-care-original-imahqpmzbfehtjge.jpeg?q=90",
@@ -553,6 +562,7 @@ const NXPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:wash",
+   "water:unstated",
    "ing:ceramides",
    "ing:rice-water",
    "claim:brightening",
@@ -654,7 +664,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/y/k/a/50-7-rice-ceramide-moisturizing-face-serum-for-daily-skincare-original-imahqpmvhp2nyz3j.jpeg?q=90",
@@ -671,6 +682,7 @@ const NXPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:wash",
+   "water:unstated",
    "ing:ceramides",
    "ing:rice-water",
    "claim:brightening",
@@ -770,7 +782,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/0/w/m/50-rice-ceramide-hydrating-face-serum-for-healthy-looking-skin-original-imahqpnfjzhmughg.jpeg?q=90",
@@ -787,6 +800,7 @@ const NXPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:wash",
+   "water:unstated",
    "ing:ceramides",
    "ing:rice-water",
    "claim:brightening",
@@ -886,7 +900,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/k/m/9/50-rice-ceramide-hydrating-serum-for-dry-dehydrated-skin-50ml-original-imahqpmrmyguhwys.jpeg?q=90",
@@ -903,6 +918,7 @@ const NXPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:wash",
+   "water:unstated",
    "ing:ceramides",
    "ing:rice-water",
    "claim:brightening",
@@ -1003,7 +1019,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/b/h/m/50-7-rice-ceramide-barrier-strengthening-face-serum-50ml-anua-original-imahqpnf9chrcezv.jpeg?q=90",
@@ -1020,6 +1037,7 @@ const NXPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:wash",
+   "water:unstated",
    "ing:ceramides",
    "ing:rice-water",
    "claim:brightening",
@@ -1119,7 +1137,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/h/j/i/50-rice-ceramide-7-hydrating-barrier-serum-anua-original-imahe8y7rfhuhgxn.jpeg?q=90",
@@ -1137,6 +1156,7 @@ const NXPRODUCTS = [
    "format:pack",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:niacinamide",
    "ing:retinol",
    "ing:azelaic-acid",
@@ -1250,7 +1270,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/x/e/7/50-7-rice-ceramide-barrier-repair-serum-for-smooth-skin-50ml-original-imahqpmtmunh97nb.jpeg?q=90",
@@ -1267,6 +1288,7 @@ const NXPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:wash",
+   "water:unstated",
    "ing:ceramides",
    "ing:rice-water",
    "claim:brightening",
@@ -1368,7 +1390,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — niacinamide #5 on INCI; Dark spots — niacinamide #5 on INCI; Irritation — product type, panthenol #6 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #5 on INCI; Dark spots — niacinamide #5 on INCI; Irritation — product type, panthenol #6 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/m/1/l/30-real-noni-energy-ampoule-nourishing-face-serum-healthy-glow-original-imahhxpgvhuzdfq5.jpeg?q=90"
@@ -1381,6 +1404,7 @@ const NXPRODUCTS = [
    "format:serum",
    "format:ampoule",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:vitamin-b5-panthenol",
    "ing:allantoin",
@@ -1529,7 +1553,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — niacinamide #5 on INCI; Dark spots — niacinamide #5 on INCI; Irritation — product type, panthenol #6 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #5 on INCI; Dark spots — niacinamide #5 on INCI; Irritation — product type, panthenol #6 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/h/0/w/30-the-real-noni-energy-ampoule-korean-skincare-deep-hydration-original-imahjwb5s5x9ckew.jpeg?q=90",
@@ -1547,6 +1572,7 @@ const NXPRODUCTS = [
    "format:serum",
    "format:ampoule",
    "format:pack",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:retinol",
@@ -1702,7 +1728,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — niacinamide #5 on INCI; Dark spots — niacinamide #5 on INCI; Irritation — product type, panthenol #6 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #5 on INCI; Dark spots — niacinamide #5 on INCI; Irritation — product type, panthenol #6 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/b/i/u/30-noni-energy-serum-skin-repair-hydration-radiant-glow-korean-original-imahhxpgfyfmamnh.jpeg?q=90",
@@ -1720,6 +1747,7 @@ const NXPRODUCTS = [
    "format:serum",
    "format:ampoule",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:vitamin-b5-panthenol",
@@ -1872,7 +1900,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — niacinamide #5 on INCI; Dark spots — niacinamide #5 on INCI; Irritation — product type, panthenol #6 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #5 on INCI; Dark spots — niacinamide #5 on INCI; Irritation — product type, panthenol #6 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/q/p/7/30-noni-energy-ampoule-serum-deep-hydration-nourishment-korean-original-imahhxpfkgfwertw.jpeg?q=90"
@@ -1885,6 +1914,7 @@ const NXPRODUCTS = [
    "format:serum",
    "format:ampoule",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:vitamin-b5-panthenol",
    "ing:allantoin",
@@ -2033,7 +2063,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — niacinamide #5 on INCI; Dark spots — niacinamide #5 on INCI; Irritation — product type, panthenol #6 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #5 on INCI; Dark spots — niacinamide #5 on INCI; Irritation — product type, panthenol #6 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/p/m/y/30-the-real-noni-energy-ampoule-hydrating-glow-serum-korean-original-imahhxpe8gjzrmgt.jpeg?q=90"
@@ -2046,6 +2077,7 @@ const NXPRODUCTS = [
    "format:serum",
    "format:ampoule",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:vitamin-b5-panthenol",
    "ing:allantoin",
@@ -2704,7 +2736,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Fixderma India (dermatology company) — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "4.1★ from 90 ratings",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/e/4/o/30-cica-extract-repair-restore-face-serum-for-sensitive-skin-original-imahjyajhe5acqnm.jpeg?q=90",
@@ -2720,6 +2753,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:centella-cica",
    "ing:aloe-vera",
    "claim:brightening",
@@ -2928,7 +2962,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4★ from 616 ratings",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/f/s/u/100-goodbye-acne-cleanser-reduces-acne-acne-marks-sebum-original-imah5a368axa2nwn.jpeg?q=90",
@@ -2945,6 +2980,7 @@ const NXPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:wash",
+   "water:unstated",
    "ing:niacinamide",
    "ing:azelaic-acid",
    "claim:brightening",
@@ -3281,7 +3317,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/l/u/j/30-hydra-restore-face-neck-serum-with-hyaluronic-acid-centella-original-imahhb53qsgygxrf.jpeg?q=90",
@@ -3296,6 +3333,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "ing:centella-cica",
@@ -4738,7 +4776,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/a/q/e/30-soothing-facial-serum-for-delicate-and-sensitive-skin-care-original-imahz8xf5hbecgap.jpeg?q=90",
@@ -4754,6 +4793,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:azelaic-acid",
    "ing:hyaluronic-acid",
    "ing:centella-cica",
@@ -4970,7 +5010,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/s/g/f/30-skin-barrier-moisture-care-serum-for-daily-facial-support-original-imahz9y8hsbydmmr.jpeg?q=90",
@@ -4986,6 +5027,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:azelaic-acid",
    "ing:hyaluronic-acid",
    "ing:centella-cica",
@@ -5087,7 +5129,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/6/5/x/30-skin-barrier-care-serum-for-strong-healthy-looking-facial-original-imahz8yeh3dxzwgh.jpeg?q=90",
@@ -5103,6 +5146,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:azelaic-acid",
    "ing:hyaluronic-acid",
    "ing:centella-cica",
@@ -5204,7 +5248,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/b/x/r/30-skin-barrier-support-face-serum-with-long-lasting-hydration-original-imahz8wys8qcgahq.jpeg?q=90",
@@ -5220,6 +5265,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:azelaic-acid",
    "ing:hyaluronic-acid",
    "ing:centella-cica",
@@ -5321,7 +5367,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/a/f/z/30-hydrating-face-care-serum-for-delicate-and-sensitive-skin-original-imahz95fhcqfkvet.jpeg?q=90",
@@ -5337,6 +5384,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:azelaic-acid",
    "ing:hyaluronic-acid",
    "ing:centella-cica",
@@ -5437,7 +5485,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/d/y/8/30-moisture-rich-facial-serum-for-dry-and-sensitive-skin-support-original-imahz94bzjgnjkf7.jpeg?q=90",
@@ -5453,6 +5502,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:azelaic-acid",
    "ing:hyaluronic-acid",
    "ing:centella-cica",
@@ -5554,7 +5604,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/g/u/i/30-facial-moisture-lock-serum-for-dry-and-sensitive-skin-care-original-imahz9ygzpuw2vhp.jpeg?q=90",
@@ -5570,6 +5621,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:azelaic-acid",
    "ing:hyaluronic-acid",
    "ing:centella-cica",
@@ -6648,7 +6700,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.2★ from 634 ratings",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/c/p/m/30-rice-water-ceramide-vitalizing-serum-skin-barrier-building-original-imahp552hamdykhu.jpeg?q=90",
@@ -6665,6 +6718,7 @@ const NXPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:wash",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
@@ -6764,7 +6818,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/z/3/h/50-rice-ceramide-barrier-care-serum-for-dry-sensitive-skin-50ml-original-imahqpnhzpdgpw6q.jpeg?q=90",
@@ -6780,6 +6835,7 @@ const NXPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:wash",
+   "water:unstated",
    "ing:ceramides",
    "ing:rice-water",
    "claim:brightening",
@@ -7321,7 +7377,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/u/p/q/30-korean-hydrating-face-serum-ceramide-hyaluronic-acid-30ml-original-imahptmh2zvyk8tg.jpeg?q=90",
@@ -7336,6 +7393,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:ceramides",
@@ -7647,7 +7705,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/z/m/h/50-7-rice-ceramide-hydrating-barrier-serum-50ml-anua-original-imahqpmpnqsym7md.jpeg?q=90",
@@ -7663,6 +7722,7 @@ const NXPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:wash",
+   "water:unstated",
    "ing:ceramides",
    "ing:rice-water",
    "claim:brightening",
@@ -7763,7 +7823,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/j/b/f/50-7-rice-ceramide-skin-barrier-support-serum-50ml-anua-original-imahqpn2bsgsgmfa.jpeg?q=90",
@@ -7779,6 +7840,7 @@ const NXPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:wash",
+   "water:unstated",
    "ing:ceramides",
    "ing:rice-water",
    "claim:brightening",
@@ -7985,7 +8047,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "L'Oréal Dermatological Beauty — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type, panthenol #5 on INCI, madecassoside #6 on INCI (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type, panthenol #5 on INCI, madecassoside #6 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/3/h/0/30-hyaluronic-acid-serum-for-dry-dehydrated-skin-oil-free-face-original-imahpyfp48ubsfe4.jpeg?q=90",
@@ -8000,6 +8063,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:vitamin-b5-panthenol",
    "claim:hydrating",
@@ -8156,7 +8220,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "L'Oréal Dermatological Beauty — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type, panthenol #5 on INCI, madecassoside #6 on INCI (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type, panthenol #5 on INCI, madecassoside #6 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/a/0/p/30-hyaluronic-acid-vitamin-b5-face-serum-moisturizing-plumping-original-imahpyg3rrdayxxr.jpeg?q=90",
@@ -8172,6 +8237,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:vitamin-b5-panthenol",
    "claim:hydrating",
@@ -8327,7 +8393,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "L'Oréal Dermatological Beauty — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type, panthenol #5 on INCI, madecassoside #6 on INCI (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type, panthenol #5 on INCI, madecassoside #6 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/9/o/l/30-pure-hyaluronic-acid-serum-for-face-vitamin-b5-hydration-original-imahpyfv8atycgzz.jpeg?q=90",
@@ -8343,6 +8410,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:vitamin-b5-panthenol",
    "claim:hydrating",
@@ -8856,7 +8924,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — niacinamide #5 on INCI; Dark spots — niacinamide #5 on INCI; Irritation — product type, panthenol #6 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #5 on INCI; Dark spots — niacinamide #5 on INCI; Irritation — product type, panthenol #6 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/v/2/i/30-noni-ampoule-serum-hydration-skin-barrier-support-glow-original-imahhxph7gakuwax.jpeg?q=90",
@@ -8874,6 +8943,7 @@ const NXPRODUCTS = [
    "format:serum",
    "format:ampoule",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:retinol",
    "ing:retinal",
@@ -9445,7 +9515,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.9★ from 20 ratings",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/t/w/b/30-clarifying-face-serum-dr-fundamental-skin-barrier-specialist-original-imahkvhvenzcfjb6.jpeg?q=90",
@@ -9460,6 +9531,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:cream",
    "format:serum",
+   "water:unstated",
    "ing:niacinamide",
    "ing:tranexamic-acid",
    "claim:brightening",
@@ -10172,7 +10244,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/d/a/s/30-ceramide-and-hyaluronic-acid-face-serum-c9-herbals-original-imah3myyyzkd4y9f.jpeg?q=90",
@@ -10189,6 +10262,7 @@ const NXPRODUCTS = [
    "format:serum",
    "format:pack",
    "sun:mineral",
+   "water:unstated",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:ceramides",
@@ -10413,7 +10487,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/r/e/a/50-lightweight-hydrating-serum-with-7-rice-extracts-ceramides-original-imahe8yhzvyy6ynj.jpeg?q=90",
@@ -10432,6 +10507,7 @@ const NXPRODUCTS = [
    "format:pack",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:ceramides",
@@ -10541,7 +10617,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.2★ from 5 ratings",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/z/6/6/50-daily-moisturizing-barrier-repair-serum-for-dry-oily-original-imaheemyhuys9ueg.jpeg?q=90",
@@ -10559,6 +10636,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:pack",
    "format:wash",
+   "water:unstated",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:rice-water",
@@ -10785,7 +10863,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "L'Oréal Dermatological Beauty — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type, panthenol #5 on INCI, madecassoside #6 on INCI (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type, panthenol #5 on INCI, madecassoside #6 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/x/d/c/30-hyalu-b5-pure-hyaluronic-acid-face-serum-with-vitamin-b5-original-imahpyfn6gkhj2q2.jpeg?q=90",
@@ -10802,6 +10881,7 @@ const NXPRODUCTS = [
    "format:serum",
    "format:oil",
    "format:pack",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:centella-cica",
    "ing:vitamin-b5-panthenol",
@@ -11071,7 +11151,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "L'Oréal Dermatological Beauty — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type, panthenol #5 on INCI, madecassoside #6 on INCI (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type, panthenol #5 on INCI, madecassoside #6 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/f/y/b/30-hyalu-b5-pure-hyaluronic-acid-face-serum-with-vitamin-b5-original-imahpyfnuk6cszsh.jpeg?q=90",
@@ -11088,6 +11169,7 @@ const NXPRODUCTS = [
    "format:serum",
    "format:essence",
    "format:pack",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:vitamin-b5-panthenol",
    "claim:hydrating",
@@ -11468,7 +11550,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "L'Oréal Dermatological Beauty — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "4.8★ from 4 ratings",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/0/p/o/30-hyalu-b5-hyaluronic-acid-serum-la-roche-posay-original-imahn4nrfzmgadgw.jpeg?q=90",
@@ -11484,6 +11567,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "skin:all",
    "free:vegan",
@@ -11702,7 +11786,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "L'Oréal Dermatological Beauty — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type, panthenol #5 on INCI, madecassoside #6 on INCI (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type, panthenol #5 on INCI, madecassoside #6 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/z/d/x/30-hyaluronic-acid-repair-serum-vitamin-b5-madecassoside-barrier-original-imahpyfpymctwtfb.jpeg?q=90",
@@ -11718,6 +11803,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:centella-cica",
    "ing:vitamin-b5-panthenol",
@@ -11875,7 +11961,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.9★ from 41 ratings",
-   "concernBasis": "Irritation — product type, centella asiatica extract #1 on INCI (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type, centella asiatica extract #1 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/s/l/j/30-2-hyaluronic-acid-face-serum-with-vitamin-b5-for-intense-original-imahhbgqhxavbyff.jpeg?q=90",
@@ -11892,6 +11979,7 @@ const NXPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:wash",
+   "water:unstated",
    "ing:pha",
    "ing:hyaluronic-acid",
    "ing:centella-cica",
@@ -12031,7 +12119,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4★ from 10 ratings",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/b/q/z/30-2-hyaluronic-acid-vitamin-b5-instantly-hydrates-plumps-original-imahzc9zcgnnj3bb.jpeg?q=90",
@@ -12047,6 +12136,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:vitamin-b5-panthenol",
    "claim:brightening",
@@ -12146,7 +12236,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/9/z/e/30-2-hyaluronic-acid-face-serum-deep-hydration-moisture-lock-original-imahq2gtm4tdfvuv.jpeg?q=90",
@@ -12161,6 +12252,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "ing:vitamin-b5-panthenol",
@@ -12552,7 +12644,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/q/i/9/30-2-hyaluronic-acid-serum-for-face-with-vitamin-b5-sodium-original-imahq8fcx247a4re.jpeg?q=90",
@@ -12567,6 +12660,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:clay-mask",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:vitamin-b5-panthenol",
    "claim:brightening",
@@ -12780,7 +12874,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/z/y/1/30-2-hyaluronic-acid-pga-vitamin-b5-face-serum-for-deep-original-imahpby676hfpgjj.jpeg?q=90",
@@ -12797,6 +12892,7 @@ const NXPRODUCTS = [
    "format:pack",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:vitamin-b5-panthenol",
    "ing:polyglutamic-acid",
@@ -12896,7 +12992,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "L'Oréal Dermatological Beauty — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type, panthenol #5 on INCI, madecassoside #6 on INCI (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type, panthenol #5 on INCI, madecassoside #6 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/t/q/m/30-vitamin-b5-hyaluronic-acid-serum-deep-moisture-skin-original-imahpyfpb9xnhrne.jpeg?q=90",
@@ -12912,6 +13009,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:vitamin-b5-panthenol",
    "skin:all",
@@ -13065,7 +13163,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "L'Oréal Dermatological Beauty — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type, panthenol #5 on INCI, madecassoside #6 on INCI (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type, panthenol #5 on INCI, madecassoside #6 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/f/y/b/30-hyalu-b5-pure-hyaluronic-acid-face-serum-with-vitamin-b5-original-imahpyfnuk6cszsh.jpeg?q=90",
@@ -13080,6 +13179,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:vitamin-b5-panthenol",
    "claim:hydrating",
@@ -13235,7 +13335,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "L'Oréal Dermatological Beauty — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type, panthenol #5 on INCI, madecassoside #6 on INCI (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type, panthenol #5 on INCI, madecassoside #6 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/m/7/b/30-hyalu-b5-advanced-hydrating-serum-hyaluronic-acid-vitamin-b5-original-imahpyje8rvvr8jd.jpeg?q=90",
@@ -13252,6 +13353,7 @@ const NXPRODUCTS = [
    "format:serum",
    "format:essence",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:vitamin-b5-panthenol",
@@ -13524,7 +13626,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "L'Oréal Dermatological Beauty — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/q/n/n/30-hyalu-b5-hydrating-serum-for-face-pure-hyaluronic-acid-non-original-imahpyfs5pjrzxdd.jpeg?q=90",
@@ -13540,6 +13643,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "claim:oil-control",
    "claim:hydrating",
@@ -14213,7 +14317,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "L'Oréal Dermatological Beauty — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type, panthenol #5 on INCI, madecassoside #6 on INCI (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type, panthenol #5 on INCI, madecassoside #6 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/y/g/e/30-hyalu-b5-moisture-boost-face-serum-lightweight-hydrating-original-imahpyfqwsayzgkh.jpeg?q=90",
@@ -14229,6 +14334,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "claim:hydrating",
    "claim:lightweight",
    "skin:all",
@@ -14615,7 +14721,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "L'Oréal Dermatological Beauty — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type, panthenol #5 on INCI, madecassoside #6 on INCI (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type, panthenol #5 on INCI, madecassoside #6 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/1/l/m/30-hyalu-b5-face-serum-with-madecassoside-hydrates-smooths-original-imahpyh7gtvukzrn.jpeg?q=90",
@@ -14631,6 +14738,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:centella-cica",
    "claim:hydrating",
    "skin:all",
@@ -14784,7 +14892,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "L'Oréal Dermatological Beauty — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type, panthenol #5 on INCI, madecassoside #6 on INCI (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type, panthenol #5 on INCI, madecassoside #6 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/l/s/b/30-hyaluronic-acid-face-serum-with-vitamin-b5-hydrating-original-imahpyfzbhfghzsr.jpeg?q=90",
@@ -14801,6 +14910,7 @@ const NXPRODUCTS = [
    "format:serum",
    "format:essence",
    "format:pack",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:vitamin-b5-panthenol",
    "claim:hydrating",
@@ -14955,7 +15065,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "L'Oréal Dermatological Beauty — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type, panthenol #5 on INCI, madecassoside #6 on INCI (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type, panthenol #5 on INCI, madecassoside #6 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/p/9/x/30-pure-hyalu-b5-face-serum-hydrates-plumps-nourishes-skin-original-imahpyfqgfedzp5w.jpeg?q=90",
@@ -14971,6 +15082,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "claim:hydrating",
    "skin:sensitive",
    "skin:all",
@@ -15125,7 +15237,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "L'Oréal Dermatological Beauty — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type, panthenol #5 on INCI, madecassoside #6 on INCI (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type, panthenol #5 on INCI, madecassoside #6 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/s/u/a/30-oil-free-hyaluronic-acid-face-serum-hydrating-skin-barrier-original-imahpyfvggsd2x47.jpeg?q=90",
@@ -15141,6 +15254,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:retinol",
    "ing:hyaluronic-acid",
    "claim:hydrating",
@@ -15745,7 +15859,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/e/p/d/30-der-d-ft-lacto-biome-ampoule-face-serum-hydrating-skin-original-imahzncxnmx4nkgq.jpeg?q=90",
@@ -15764,6 +15879,7 @@ const NXPRODUCTS = [
    "format:essence",
    "format:pack",
    "format:wash",
+   "water:unstated",
    "claim:brightening",
    "claim:dark-spots",
    "claim:anti-aging",
@@ -16087,7 +16203,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/1/a/y/20-korean-noni-ampoule-serum-mini-size-2-pieces-rejuveol-original-imahmjjz7ndw6u6g.jpeg?q=90",
@@ -16105,6 +16222,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:serum",
    "format:ampoule",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:azelaic-acid",
@@ -19670,7 +19788,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "5★ from 0 ratings",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistant — 80 minutes or more (very water resistant), marketed for swim / sport / outdoors (per listing — not tested here, not scored)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/5172w1uYMWL._SL1024_.jpg",
@@ -19687,6 +19806,8 @@ const NXPRODUCTS = [
    "format:cream",
    "format:ampoule",
    "spf:50+",
+   "water:80",
+   "water:sport",
    "ing:ceramides",
    "ing:rice-water",
    "ing:centella-cica",
@@ -22936,7 +23057,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "5★ from 0 ratings",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71WvQwN89BL._SL1500_.jpg",
@@ -22951,6 +23073,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:centella-cica",
    "ing:vitamin-b5-panthenol",
@@ -23053,7 +23176,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71UvFtsL+OL._SL1500_.jpg",
@@ -23070,6 +23194,7 @@ const NXPRODUCTS = [
    "format:serum",
    "format:oil",
    "sun:mineral",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:vitamin-b5-panthenol",
    "ing:mineral-oil",
@@ -24072,7 +24197,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "5★ from 0 ratings",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71Y1WKvkewL._SL1500_.jpg",
@@ -24085,6 +24211,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:centella-cica",
    "ing:vitamin-b5-panthenol",
@@ -24521,7 +24648,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/5150yDr0UsL._SL1080_.jpg",
@@ -24536,6 +24664,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "claim:oil-control",
    "claim:hydrating",
@@ -24857,7 +24986,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4★ from 0 ratings",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51e9zyU99BL._SL1080_.jpg",
@@ -24873,6 +25003,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:serum",
    "format:wash",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:calendula",
    "claim:anti-aging",
@@ -24974,7 +25105,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.3★ from 0 ratings",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51jzOKmNIvL._SL1200_.jpg",
@@ -24988,6 +25120,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:serum",
+   "water:unstated",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "claim:anti-aging",
@@ -26833,7 +26966,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/617mjTuwdGL._SL1500_.jpg",
@@ -26848,6 +26982,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:serum",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:rice-water",
    "ing:centella-cica",
@@ -27854,7 +27989,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3★ from 0 ratings",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61U9yYMCHaL._SL1439_.jpg",
@@ -27869,6 +28005,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
+   "water:unstated",
    "ing:allantoin",
    "ing:calamine",
    "claim:dark-spots",
@@ -29441,7 +29578,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/617aMzTpnzL._SL1500_.jpg"
@@ -29452,6 +29590,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:serum",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "claim:oil-control",
@@ -29985,7 +30124,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "5★ from 0 ratings",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71e0YcqgOrL._SL1500_.jpg",
@@ -30000,6 +30140,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:vitamin-b5-panthenol",
    "claim:brightening",
@@ -30719,7 +30860,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Incnut Digital (SkinKraft) — Indian D2C brand with its own product company",
    "buyerEvidence": "4.1★ from 0 ratings",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51BPSwBehxL._SL1000_.jpg",
@@ -30734,6 +30876,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:vitamin-b5-panthenol",
    "ing:glycerin",
@@ -31177,7 +31320,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61LB+hTp6qL._SL1254_.jpg",
@@ -31192,6 +31336,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:snail-mucin",
    "ing:vitamin-b5-panthenol",
@@ -31509,7 +31654,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.1★ from 0 ratings",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/518+ije4bnL._SL1500_.jpg"
@@ -31521,6 +31667,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:wash",
+   "water:unstated",
    "claim:brightening",
    "claim:oil-control",
    "claim:hydrating",
@@ -36342,7 +36489,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61GeQknGtXL._SL1500_.jpg",
@@ -36357,6 +36505,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:vitamin-b5-panthenol",
    "ing:polyglutamic-acid",
@@ -36688,7 +36837,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61tDDgNqxGL._SL1254_.jpg",
@@ -36703,6 +36853,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:aloe-vera",
    "ing:vitamin-b5-panthenol",
@@ -37936,7 +38087,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.9★ from 0 ratings",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61WnqxLYOnL._SL1500_.jpg",
@@ -37951,6 +38103,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:centella-cica",
    "ing:vitamin-b5-panthenol",
@@ -38595,7 +38748,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51rpeevk69L._SL1254_.jpg",
@@ -38610,6 +38764,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "ing:polyglutamic-acid",
@@ -38710,7 +38865,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61u38q+hmoL._SL1500_.jpg",
@@ -38725,6 +38881,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "ing:allantoin",

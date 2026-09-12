@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-11.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-12.
 // Unknown fields are honestly marked, never invented.
 const NXPRODUCTS = [
  {
@@ -281,7 +281,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/z/u/e/75-korean-skin-care-overnight-wrapping-peel-off-facial-mask-pack-original-imahn52kdnvesm5b.jpeg?q=90",
@@ -298,6 +299,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:capsule",
+   "water:unstated",
    "claim:brightening",
    "claim:anti-aging",
    "claim:acne",
@@ -76931,7 +76933,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/a/u/c/20-serum-facial-sheet-mask-for-skin-lightening-glowing-original-imah4kzh9ucgxg2j.jpeg?q=90",
@@ -76956,6 +76959,7 @@ const NXPRODUCTS = [
    "format:kit",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "claim:brightening",
    "claim:de-tan",
    "claim:whitening-claim",
@@ -112486,7 +112490,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/q/b/y/25-happy-aloe-vera-face-mask-sheet-cathydoll-hydrating-soothing-original-imahjg77kukzswkz.jpeg?q=90",
@@ -112507,6 +112512,7 @@ const NXPRODUCTS = [
    "format:pack",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:colloidal-oatmeal",
    "ing:ceramides",
    "ing:rice-water",
@@ -122429,7 +122435,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "L'Oréal — Global FMCG or beauty group",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/r/a/9/2pcs-bright-complete-vitamin-c-30x-booster-serum-7ml-green-tea-original-imahhfyywh4e97pq.jpeg?q=90",
@@ -122451,6 +122458,7 @@ const NXPRODUCTS = [
    "format:wash",
    "format:kit",
    "spf:50+",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
@@ -122649,7 +122657,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "L'Oréal — Global FMCG or beauty group",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/f/c/n/2pcs-bright-complete-vitamin-c-30x-booster-serum-7ml-vitamin-c-original-imahhfyhwcypc5dq.jpeg?q=90",
@@ -122671,6 +122680,7 @@ const NXPRODUCTS = [
    "format:wash",
    "format:kit",
    "spf:40",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
@@ -123101,7 +123111,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "L'Oréal — Global FMCG or beauty group",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/u/p/i/skin-naturals-bright-complete-dark-spot-vitamin-c-face-serum-7ml-original-imagzzkfhrcp6zcm.jpeg?q=90",
@@ -123121,6 +123132,7 @@ const NXPRODUCTS = [
    "format:wash",
    "format:kit",
    "spf:50",
+   "water:unstated",
    "ing:vitamin-c",
    "claim:spf-claim",
    "claim:cooling",
@@ -123210,7 +123222,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "L'Oréal — Global FMCG or beauty group",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-combo-kit/l/o/v/bright-complete-vitamin-c-face-serum-15ml-hyaluron-sakura-sheet-original-imah3ms86dhwhvus.jpeg?q=90",
@@ -123231,6 +123244,7 @@ const NXPRODUCTS = [
    "format:wash",
    "format:kit",
    "spf:50",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
    "claim:spf-claim",
@@ -123323,7 +123337,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "L'Oréal — Global FMCG or beauty group",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-combo-kit/8/i/r/bright-complete-vitamin-c-face-serum-15ml-anti-pimple-sheet-mask-original-imah3mrhsuzdytht.jpeg?q=90",
@@ -123344,6 +123359,7 @@ const NXPRODUCTS = [
    "format:wash",
    "format:kit",
    "spf:50",
+   "water:unstated",
    "ing:vitamin-c",
    "claim:brightening",
    "claim:acne",
@@ -124455,7 +124471,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "L'Oréal — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — salicylic acid #10 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — salicylic acid #10 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/g/1/v/bright-complete-vitamin-c-cleanser-serum-face-wash-100g-green-original-imahhyzpx9rdyp9s.jpeg?q=90",
@@ -124476,6 +124493,7 @@ const NXPRODUCTS = [
    "format:wash",
    "format:kit",
    "spf:40",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:green-tea",
    "claim:spf-claim",
@@ -144658,7 +144676,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/f/l/i/420-glow-anti-oxidant-face-sheet-mask-pack-of-12-sheet-mask-original-imah7kzvyehvz498.jpeg?q=90",
@@ -144679,6 +144698,7 @@ const NXPRODUCTS = [
    "format:pack",
    "format:powder",
    "format:kit",
+   "water:unstated",
    "ing:ceramides",
    "ing:collagen",
    "ing:rice-water",
@@ -151609,7 +151629,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/d/f/j/korean-vitamin-c-face-sheet-mask-with-serum-for-women-and-men-2-original-imahm7kycmspwnuf.jpeg?q=90",
@@ -151632,6 +151653,7 @@ const NXPRODUCTS = [
    "format:peel",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
@@ -167466,7 +167488,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/s/e/5/new-best-skin-care-combo-of-blueberry-milk-serum-with-sheet-mask-original-imah4fk9a4ebm8ma.jpeg?q=90",
@@ -167490,6 +167513,7 @@ const NXPRODUCTS = [
    "format:kit",
    "spf:50+",
    "pa:++++",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "claim:brightening",
@@ -169620,7 +169644,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/i/3/2/vitamin-c-facial-sheet-mask-and-eye-sheet-mask-for-reduce-dark-original-imah8fhz26nfnebw.jpeg?q=90",
@@ -169643,6 +169668,7 @@ const NXPRODUCTS = [
    "format:capsule",
    "format:kit",
    "spf:50+",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:ubtan",
    "ing:vitamin-e",
@@ -182305,7 +182331,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/a/j/r/korean-lemon-face-sheet-mask-with-serum-for-women-and-men-2-n1-original-imahm7kjuynuvfv2.jpeg?q=90",
@@ -182328,6 +182355,7 @@ const NXPRODUCTS = [
    "format:roll-on",
    "format:kit",
    "spf:50",
+   "water:unstated",
    "ing:glutathione",
    "ing:ubtan",
    "ing:cocoa-butter",
@@ -182429,7 +182457,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/e/l/t/korean-charcoal-face-sheet-mask-with-serum-for-women-and-men-2-original-imahm7khbh2curhy.jpeg?q=90",
@@ -182452,6 +182481,7 @@ const NXPRODUCTS = [
    "format:wash",
    "format:kit",
    "spf:50+",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:charcoal",
    "ing:apricot",
@@ -182547,7 +182577,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/9/7/b/new-korean-lemon-face-sheet-mask-with-serum-for-women-and-men-2-original-imahm7kh2nxpmavx.jpeg?q=90",
@@ -182571,6 +182602,7 @@ const NXPRODUCTS = [
    "format:wash",
    "format:kit",
    "spf:50",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:turmeric",
    "ing:lemon",
@@ -182675,7 +182707,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/8/y/g/korean-face-sheet-mask-with-serum-for-women-and-men-2-n1-original-imahm7h4qcvqxcpf.jpeg?q=90",
@@ -182700,6 +182733,7 @@ const NXPRODUCTS = [
    "spf:50+",
    "pa:+++",
    "sun:hybrid",
+   "water:unstated",
    "ing:rice-water",
    "claim:brightening",
    "claim:anti-aging",
@@ -186941,7 +186975,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "L'Oréal — Global FMCG or beauty group",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51r2GmDaL9L._SL1300_.jpg",
@@ -186959,6 +186994,7 @@ const NXPRODUCTS = [
    "format:serum",
    "format:sheet-mask",
    "spf:15",
+   "water:unstated",
    "ing:glycolic-acid",
    "claim:brightening",
    "claim:dark-spots",
@@ -211531,7 +211567,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 0 ratings"
+   "buyerEvidence": "4.4★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51ZRiR4NlPL._SL1000_.jpg",
@@ -211547,6 +211584,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:oil",
    "sun:mineral",
+   "water:unstated",
    "claim:dark-spots",
    "claim:acne",
    "claim:pores",

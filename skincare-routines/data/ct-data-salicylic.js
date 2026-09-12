@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-07.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-12.
 // Unknown fields are honestly marked, never invented.
 const CTPRODUCTS = [
  {
@@ -1780,7 +1780,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Deconstruct Skincare — Indian D2C brand with its own product company",
    "buyerEvidence": "4★ from 471 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/face-wash/5/f/6/150-oily-skin-essentials-salicylic-oil-control-face-wash-original-imahh2bdhupsgcrx.jpeg?q=90",
@@ -1797,6 +1798,7 @@ const CTPRODUCTS = [
    "format:gel",
    "format:wash",
    "spf:50",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:benzoyl-peroxide",
    "claim:oil-control",
@@ -6956,7 +6958,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Ethicare Remedies — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/2/h/4/face-wash-with-kojic-acid-vitamin-c-salicylic-acid-70gm-360-original-imahncpsyf9zhjch.jpeg?q=90",
@@ -6977,6 +6980,7 @@ const CTPRODUCTS = [
    "format:wash",
    "format:kit",
    "spf:50+",
+   "water:resistant",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -7080,7 +7084,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/7/i/k/anti-acne-combo-2-salicylic-acid-face-wash-100ml-niacinamide-10-original-imahzah93mhd7qfv.jpeg?q=90",
@@ -7102,6 +7107,7 @@ const CTPRODUCTS = [
    "format:patch",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -8083,7 +8089,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Ethicare Remedies — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/q/n/v/face-wash-with-kojic-acid-vitamin-c-salicylic-acid-200gm-ac-original-imahncpqzhhhdqpf.jpeg?q=90",
@@ -8105,6 +8112,7 @@ const CTPRODUCTS = [
    "format:wash",
    "format:kit",
    "spf:50+",
+   "water:resistant",
    "ing:vitamin-c",
    "ing:salicylic-acid-bha",
    "ing:kojic-acid",
@@ -8417,7 +8425,8 @@ const CTPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type, zinc pca #7 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — product type, zinc pca #7 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/t/d/s/30-salicylic-acid-02-face-serum-exfoliating-clarifying-care-for-original-imahhfzz9xctdpxh.jpeg?q=90",
@@ -8435,6 +8444,7 @@ const CTPRODUCTS = [
    "format:pack",
    "format:powder",
    "format:wash",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:aloe-vera",
    "ing:zinc",
@@ -8556,7 +8566,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/u/w/l/2-salicylic-acid-vitamin-c-face-serum-combo-acne-dark-spots-oil-original-imahnxwyafzgszdz.jpeg?q=90",
@@ -8577,6 +8588,7 @@ const CTPRODUCTS = [
    "format:patch",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:salicylic-acid-bha",
    "ing:witch-hazel",
@@ -9530,7 +9542,7 @@ const CTPRODUCTS = [
  {
   "id": "twasa-itm2456a8346190a",
   "brand": "Twasa",
-  "model": "Salicylic Acid Serum Sheet Mask for Acne | Face Sheet Masks …",
+  "model": "Salicylic Acid Serum Sheet Mask for Acne | Face Sheet Masks For Men & Women",
   "price": 121,
   "capacityLine": "20 ml",
   "materialLine": "salicylic acid (BHA)",
@@ -9581,7 +9593,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/twasa-salicylic-acid-serum-sheet-mask-acne-face-masks-men-women/p/itm2456a8346190a",
   "buyStore": "Flipkart",
-  "title": "Twasa Salicylic Acid Serum Sheet Mask for Acne | Face Sheet Masks …",
+  "title": "Twasa Salicylic Acid Serum Sheet Mask for Acne | Face Sheet Masks For Men & Women",
   "tags": [
    "scope:face",
    "format:serum",
@@ -10564,7 +10576,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "5★ from 20 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/h/i/4/30-anti-acne-face-serum-for-men-women-2-salicylic-acid-5-original-imahpbkyfb8hje9b.jpeg?q=90",
@@ -10581,6 +10594,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:wash",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -10766,7 +10780,7 @@ const CTPRODUCTS = [
  {
   "id": "underrated-itm9127a4538e17a",
   "brand": "Underrated",
-  "model": "2% Salicylic Acid Face Cleanser | Deep Pore Cleansing, …",
+  "model": "2% Salicylic Acid Face Cleanser | Deep Pore Cleansing, Oil Control & Blemish Care | With N…",
   "price": 215,
   "capacityLine": "100 ml",
   "materialLine": "niacinamide + salicylic acid (BHA) + zinc",
@@ -10817,7 +10831,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/underrated-2-salicylic-acid-face-cleanser-deep-pore-cleansing-oil-control-blemish-care-niacinamide-zinc-wash/p/itm9127a4538e17a",
   "buyStore": "Flipkart",
-  "title": "Underrated 2% Salicylic Acid Face Cleanser | Deep Pore Cleansing, …",
+  "title": "Underrated 2% Salicylic Acid Face Cleanser | Deep Pore Cleansing, Oil Control & Blemish Care | With Niacinamide & Zinc Face Wash",
   "tags": [
    "scope:face",
    "format:foam",
@@ -11770,11 +11784,11 @@ const CTPRODUCTS = [
  {
   "id": "namyaa-itmc14704a886ee9",
   "brand": "Namyaa",
-  "model": "Body Scrub with 10% AHA BHA, Glycolic, Lactic & Salicylic …",
+  "model": "Body Scrub with 10% AHA BHA, Glycolic, Lactic & Salicylic Acid, 200g Pack of 1 Scrub",
   "price": 167,
-  "capacityLine": "Quantity not stated",
+  "capacityLine": "200 g",
   "materialLine": "salicylic acid (BHA) + glycolic acid + lactic acid",
-  "featureLine": "Scrub / exfoliant",
+  "featureLine": "Scrub / exfoliant · ₹84/100g",
   "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Namyaa official website (namyaa.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "salicylic acid high on the INCI list (strong evidence)",
@@ -11791,8 +11805,8 @@ const CTPRODUCTS = [
    "experience": 6.3
   },
   "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
+   "quantity": "200 g",
+   "pricePer100": "₹84/100g",
    "format": "Scrub / exfoliant",
    "keyIngredients": "salicylic acid (BHA), glycolic acid, lactic acid (per listing)",
    "freeFrom": "Not stated in listing",
@@ -11826,15 +11840,17 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/namyaa-body-scrub-10-aha-bha-glycolic-lactic-salicylic-acid-200g-pack-1/p/itmc14704a886ee9",
   "buyStore": "Flipkart",
-  "title": "Namyaa Body Scrub with 10% AHA BHA, Glycolic, Lactic & Salicylic …",
+  "title": "Namyaa Body Scrub with 10% AHA BHA, Glycolic, Lactic & Salicylic Acid, 200g Pack of 1 Scrub",
   "tags": [
    "scope:body",
    "format:scrub",
+   "format:kit",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
    "ing:lactic-acid",
    "ing:aha",
    "aud:unisex",
+   "size:large",
    "rating:4.5",
    "store:flipkart",
    "target:acne",
@@ -12642,7 +12658,8 @@ const CTPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type; Irritation — panthenol #10 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — product type; Irritation — panthenol #10 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/a/n/u/60-aha-bha-pha-face-serum-for-exfoliation-acne-control-smoother-original-imahfez7j4yahdzy.jpeg?q=90",
@@ -12660,6 +12677,7 @@ const CTPRODUCTS = [
    "format:pack",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:aha",
    "ing:pha",
@@ -13096,7 +13114,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.6★ from 9 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/s/j/g/30-aha-bha-exfoliating-serum-for-skin-brightening-pore-refining-original-imahg2gvkus3u4bb.jpeg?q=90",
@@ -13112,6 +13131,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:aha",
    "claim:brightening",
@@ -13209,7 +13229,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/5/l/5/30-exfoliating-face-serum-with-glycolic-and-salicylic-acid-aha-original-imahm56avjwnkxya.jpeg?q=90",
@@ -13227,6 +13248,7 @@ const CTPRODUCTS = [
    "format:pack",
    "format:peel",
    "format:wash",
+   "water:unstated",
    "ing:retinol",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
@@ -13331,7 +13353,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/l/m/o/30-10-glycolic-acid-aha-1-salicylic-acid-bha-serum-instant-glow-original-imahm476hks7cek3.jpeg?q=90",
@@ -13347,6 +13370,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:aha",
    "claim:brightening",
@@ -13445,7 +13469,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/g/h/5/30-hydrating-face-serum-for-dry-skin-aha-bha-face-serum-for-original-imahm46kehbak5ey.jpeg?q=90",
@@ -13461,6 +13486,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:aha",
    "claim:brightening",
@@ -13560,7 +13586,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/z/t/a/30-pigmentation-removal-aha-bha-face-serum-skin-radiance-face-original-imahm554yx6t9zms.jpeg?q=90",
@@ -13576,6 +13603,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:aha",
    "claim:brightening",
@@ -13675,7 +13703,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/k/v/c/30-oily-skin-advanced-aha-bha-face-serum-exfoliating-peeling-original-imahm45qgvazrdyf.jpeg?q=90",
@@ -13692,6 +13721,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:peel",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:aha",
    "claim:brightening",
@@ -13790,7 +13820,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/m/2/i/60-10-aha-1-bha-face-serum-for-glowing-skin-exfoliating-pore-original-imahm58unqphdxga.jpeg?q=90",
@@ -13807,6 +13838,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:aha",
    "claim:brightening",
@@ -13906,7 +13938,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/4/l/a/30-advanced-face-serum-for-oily-skin-exfoliating-aha-bha-face-original-imahm55zdy3my9mh.jpeg?q=90",
@@ -13922,6 +13955,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:aha",
    "claim:brightening",
@@ -14021,7 +14055,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/j/k/l/30-brightening-and-glowing-skin-aha-bha-face-serum-exfoliating-original-imahm45j9vsfnqgk.jpeg?q=90",
@@ -14037,6 +14072,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:aha",
    "claim:brightening",
@@ -14249,7 +14285,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/n/i/p/30-10-aha-1-bha-face-serum-for-glowing-skin-chemical-exfoliant-original-imahhwzmtj5r4nrf.jpeg?q=90",
@@ -14265,6 +14302,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:aha",
    "claim:brightening",
@@ -14543,7 +14581,7 @@ const CTPRODUCTS = [
  {
   "id": "acnestar-itmbbaaba734244a",
   "brand": "acnestar",
-  "model": "Anti-Acne Exfoliating Face Serum AHA, BHA & Niacinamide, …",
+  "model": "Anti-Acne Exfoliating Face Serum AHA, BHA & Niacinamide, 30 ml x 3",
   "price": 1046,
   "capacityLine": "30 ml",
   "materialLine": "niacinamide + salicylic acid (BHA)",
@@ -14593,7 +14631,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/acnestar-anti-acne-exfoliating-face-serum-aha-bha-niacinamide-30-ml-x-3/p/itmbbaaba734244a",
   "buyStore": "Flipkart",
-  "title": "acnestar Anti-Acne Exfoliating Face Serum AHA, BHA & Niacinamide, …",
+  "title": "acnestar Anti-Acne Exfoliating Face Serum AHA, BHA & Niacinamide, 30 ml x 3",
   "tags": [
    "scope:face",
    "format:serum",
@@ -14882,7 +14920,7 @@ const CTPRODUCTS = [
  {
   "id": "scientistry-itmb60fb9f441fc3",
   "brand": "Scientistry",
-  "model": "AHA BHA PHA Exfoliating Serum|Glycolic,Lactic,Salicyl …",
+  "model": "AHA BHA PHA Exfoliating Serum|Glycolic,Lactic,Salicylic Acid & Gluconolactone",
   "price": 319,
   "capacityLine": "30 ml",
   "materialLine": "salicylic acid (BHA) + glycolic acid + lactic acid",
@@ -14934,7 +14972,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/scientistry-aha-bha-pha-exfoliating-serum-glycolic-lactic-salicylic-acid-gluconolactone/p/itmb60fb9f441fc3",
   "buyStore": "Flipkart",
-  "title": "Scientistry AHA BHA PHA Exfoliating Serum|Glycolic,Lactic,Salicyl …",
+  "title": "Scientistry AHA BHA PHA Exfoliating Serum|Glycolic,Lactic,Salicylic Acid & Gluconolactone",
   "tags": [
    "scope:face",
    "format:serum",
@@ -15075,7 +15113,8 @@ const CTPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.2★ from 5 ratings",
-   "concernBasis": "Acne — product type, salicylic acid #7 on INCI; Irritation — aloe barbadensis leaf extract #8 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — product type, salicylic acid #7 on INCI; Irritation — aloe barbadensis leaf extract #8 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/m/f/j/30-aha-30-bha-2-pha-5-multi-layer-skin-exfoliator-peeling-original-imahhg3bepfhgb2b.jpeg?q=90",
@@ -15094,6 +15133,7 @@ const CTPRODUCTS = [
    "format:pack",
    "format:peel",
    "format:wash",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:aha",
    "ing:pha",
@@ -15243,7 +15283,7 @@ const CTPRODUCTS = [
  {
   "id": "skinaa-itmced0be0586021",
   "brand": "SKINAA",
-  "model": "AHA BHA PHA Exfoliating Face Serum with 2% Salicylic Acid …",
+  "model": "AHA BHA PHA Exfoliating Face Serum with 2% Salicylic Acid for Acne Control",
   "price": 646,
   "capacityLine": "30 ml",
   "materialLine": "salicylic acid (BHA) + lactic acid + PHA",
@@ -15294,7 +15334,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/skinaa-aha-bha-pha-exfoliating-face-serum-2-salicylic-acid-acne-control/p/itmced0be0586021",
   "buyStore": "Flipkart",
-  "title": "SKINAA AHA BHA PHA Exfoliating Face Serum with 2% Salicylic Acid …",
+  "title": "SKINAA AHA BHA PHA Exfoliating Face Serum with 2% Salicylic Acid for Acne Control",
   "tags": [
    "scope:face",
    "format:serum",
@@ -15402,7 +15442,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.6★ from 5 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/0/0/a/60-25-aha-2-bha-5-pha-peeling-solution-exfoliating-serum-for-original-imahmpg8nw7nd3fc.jpeg?q=90",
@@ -15420,6 +15461,7 @@ const CTPRODUCTS = [
    "format:pack",
    "format:peel",
    "format:wash",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
    "ing:lactic-acid",
@@ -15525,7 +15567,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/o/i/i/30-35-aha-bha-pha-face-serum-peeling-solution-exfoliation-original-imahzhjqgwqhzek5.jpeg?q=90",
@@ -15542,6 +15585,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:peel",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:aha",
    "ing:pha",
@@ -15642,7 +15686,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/t/b/9/30-10-aha-2-bha-exfoliating-face-serum-for-glowing-skin-pore-original-imahm7hpkubw9ssa.jpeg?q=90",
@@ -15661,6 +15706,7 @@ const CTPRODUCTS = [
    "format:peel",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
    "ing:aha",
@@ -15764,7 +15810,8 @@ const CTPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/b/p/n/30-30-aha-2-bha-face-serum-communal-original-imahhdzxwguabgg6.jpeg?q=90",
@@ -15782,9 +15829,11 @@ const CTPRODUCTS = [
    "format:pack",
    "format:peel",
    "format:wash",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:aha",
    "ing:pha",
+   "ing:pdrn-polynucleotide",
    "claim:brightening",
    "claim:de-tan",
    "claim:dark-spots",
@@ -15890,7 +15939,7 @@ const CTPRODUCTS = [
  {
   "id": "the-facecraft-project-itm35062fe1bbd39",
   "brand": "the facecraft project",
-  "model": "AHA,PHA Salicylic Exfoliating Serum for Acn …",
+  "model": "AHA,PHA Salicylic Exfoliating Serum for Acne Marks| Pigmentation| Texture & Glow",
   "price": 1439,
   "capacityLine": "30 ml",
   "materialLine": "bakuchiol + salicylic acid (BHA) + PHA",
@@ -15941,7 +15990,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/facecraft-project-aha-pha-salicylic-exfoliating-serum-acne-marks-pigmentation-texture-glow/p/itm35062fe1bbd39",
   "buyStore": "Flipkart",
-  "title": "the facecraft project AHA,PHA Salicylic Exfoliating Serum for Acn …",
+  "title": "the facecraft project AHA,PHA Salicylic Exfoliating Serum for Acne Marks| Pigmentation| Texture & Glow",
   "tags": [
    "scope:face",
    "format:serum",
@@ -16297,7 +16346,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "2.8★ from 5 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/q/8/9/30-aha-bha-face-serum-for-men-and-women-for-glowing-skin-best-original-imahm46bpr7zcy3x.jpeg?q=90",
@@ -16313,6 +16363,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:aha",
    "claim:brightening",
@@ -16411,7 +16462,8 @@ const CTPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.8★ from 4 ratings",
-   "concernBasis": "Acne — product type, niacinamide #5 on INCI, salicylic acid #12 on INCI; Dark spots — niacinamide #5 on INCI; Irritation — panthenol #9 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — product type, niacinamide #5 on INCI, salicylic acid #12 on INCI; Dark spots — niacinamide #5 on INCI; Irritation — panthenol #9 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/s/j/o/30-12-aha-bha-night-exfoliating-serum-for-smooth-skin-pore-original-imahmqgkhf2hsxtw.jpeg?q=90",
@@ -16427,6 +16479,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:aha",
    "claim:brightening",
@@ -16632,7 +16685,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/e/r/p/30-best-acne-prone-skin-aha-bha-face-serum-deep-exfoliation-face-original-imahm463vrsnmfu6.jpeg?q=90",
@@ -16648,6 +16702,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -16751,7 +16806,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/c/l/j/30-intensive-face-serum-for-acne-prone-skin-aha-bha-face-serum-original-imahm5673phnyxdq.jpeg?q=90",
@@ -16767,6 +16823,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:aha",
    "claim:brightening",
@@ -16865,7 +16922,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/z/4/e/30-10-aha-1-bha-face-serum-for-men-women-acne-treatment-dark-original-imahhwp5tturbdpx.jpeg?q=90",
@@ -16883,6 +16941,7 @@ const CTPRODUCTS = [
    "format:pack",
    "format:peel",
    "format:wash",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:aha",
@@ -17106,7 +17165,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/j/f/9/30-aha-30-bha-2-peeling-solution-for-glowing-skin-aha-bha-original-imahqdn5mx8gpru3.jpeg?q=90",
@@ -17124,6 +17184,7 @@ const CTPRODUCTS = [
    "format:pack",
    "format:peel",
    "format:wash",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:aha",
@@ -17522,7 +17583,7 @@ const CTPRODUCTS = [
  {
   "id": "underated-itm86393ebc15617",
   "brand": "Underated",
-  "model": "25% AHA 2% BHA 5% PHA Peeling Solution (60 g)",
+  "model": "25% AHA 2% BHA 5% PHA Peeling Solution",
   "price": 500,
   "capacityLine": "60 g",
   "materialLine": "salicylic acid (BHA) + PHA",
@@ -17575,7 +17636,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/underated-25-aha-2-bha-5-pha-peeling-solution/p/itm86393ebc15617",
   "buyStore": "Flipkart",
-  "title": "UNDERATED 25% AHA 2% BHA 5% PHA Peeling Solution (60 g)",
+  "title": "UNDERATED 25% AHA 2% BHA 5% PHA Peeling Solution",
   "tags": [
    "scope:face",
    "format:serum",
@@ -17744,7 +17805,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/w/7/8/30-eraser-shot-serum-glycolic-acid-booster-with-aha-bha-original-imahzznekphk3h3y.jpeg?q=90",
@@ -17761,6 +17823,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:retinal",
@@ -17769,6 +17832,7 @@ const CTPRODUCTS = [
    "ing:aha",
    "ing:glutathione",
    "ing:resveratrol",
+   "ing:nad-nmn",
    "claim:dark-spots",
    "claim:anti-aging",
    "claim:acne",
@@ -17868,7 +17932,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/t/j/n/30-eraser-shot-serum-glycolic-acid-aha-bha-face-serum-for-pore-original-imahzqpszgfpsyfg.jpeg?q=90",
@@ -17885,6 +17950,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
    "ing:aha",
@@ -17985,7 +18051,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/d/g/a/30-aha-bha-face-serum-with-hyaluronic-acid-for-pigmentation-dark-original-imahnwtrfbsa6ggu.jpeg?q=90",
@@ -18003,6 +18070,7 @@ const CTPRODUCTS = [
    "format:oil",
    "format:pack",
    "sun:mineral",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:salicylic-acid-bha",
    "ing:aha",
@@ -18283,7 +18351,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/q/q/9/30-exfoliating-aha-bha-serum-brightens-skin-unclogs-pores-30-ml-original-imahh3ztbxr97kab.jpeg?q=90"
@@ -18295,6 +18364,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
    "ing:lactic-acid",
@@ -18740,7 +18810,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3★ from 7 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/g/v/y/60-aha-bha-overnight-serum-for-skin-renewal-texture-improvement-original-imahk67frm6r56gf.jpeg?q=90",
@@ -18756,6 +18827,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:aha",
    "claim:anti-aging",
@@ -18851,7 +18923,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/x/i/x/30-gentle-face-serum-for-dry-skin-care-aha-bha-face-serum-for-original-imahm5656fwqanaq.jpeg?q=90",
@@ -18867,6 +18940,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:aha",
    "claim:brightening",
@@ -18966,7 +19040,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/a/l/k/30-skin-repairing-face-serum-for-glowing-skin-aha-bha-face-serum-original-imahm56yr275crsp.jpeg?q=90",
@@ -18982,6 +19057,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:aha",
    "claim:brightening",
@@ -19081,7 +19157,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/o/n/w/30-chemical-peel-face-serum-aha-bha-solution-for-glowing-clear-original-imahm6gpjhktdz2p.jpeg?q=90",
@@ -19099,6 +19176,7 @@ const CTPRODUCTS = [
    "format:pack",
    "format:peel",
    "format:kit",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:aha",
    "claim:brightening",
@@ -19196,7 +19274,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/q/b/f/30-glass-skin-face-serum-with-salicylic-and-glycolic-acid-original-imahm47hhczywus9.jpeg?q=90",
@@ -19213,6 +19292,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:peel",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
    "ing:aha",
@@ -19311,7 +19391,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/v/a/o/30-10-aha-1-bha-face-serum-for-glowing-skin-chemical-exfoliant-original-imahhwzmd8ncgrfj.jpeg?q=90",
@@ -19328,6 +19409,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:oil",
    "format:pack",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:aha",
    "claim:brightening",
@@ -19820,7 +19902,7 @@ const CTPRODUCTS = [
  {
   "id": "bare-peel-itm1d9ba0329d47b",
   "brand": "Bare Peel",
-  "model": "Bare Peel AHA 30% + BHA 2% + PHA 3% Peeling Solution | …",
+  "model": "Bare Peel AHA 30% + BHA 2% + PHA 3% Peeling Solution | 10-Min Facial Exfoliator for Glowin…",
   "price": 400,
   "capacityLine": "30 ml",
   "materialLine": "salicylic acid (BHA) + PHA + centella/cica",
@@ -19859,7 +19941,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/5/0/q/30-bare-peel-aha-30-bha-2-pha-3-peeling-solution-10-min-facial-original-imahn5bn52qjrpbd.jpeg?q=90",
@@ -19870,7 +19953,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/bare-peel-aha-30-bha-2-pha-3-peeling-solution-10-min-facial-exfoliator-glowing-skin-acne-marks-open-pores/p/itm1d9ba0329d47b",
   "buyStore": "Flipkart",
-  "title": "Bare Peel Bare Peel AHA 30% + BHA 2% + PHA 3% Peeling Solution | …",
+  "title": "Bare Peel Bare Peel AHA 30% + BHA 2% + PHA 3% Peeling Solution | 10-Min Facial Exfoliator for Glowing Skin, Acne Marks & Open Pores",
   "tags": [
    "scope:face",
    "format:serum",
@@ -19878,6 +19961,7 @@ const CTPRODUCTS = [
    "format:peel",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:aha",
    "ing:pha",
@@ -20098,7 +20182,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.8★ from 45 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/t/u/l/30-28-aha-bha-pha-peeling-solution-makes-skin-glow-and-cleanses-original-imah3h8paznfgxuk.jpeg?q=90",
@@ -20115,6 +20200,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:peel",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
    "ing:lactic-acid",
@@ -20215,7 +20301,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/w/y/k/30-advanced-10-aha-1-bha-peeling-solution-potent-glycolic-and-original-imahm47eb5vh6gar.jpeg?q=90",
@@ -20233,12 +20320,14 @@ const CTPRODUCTS = [
    "format:pack",
    "format:peel",
    "format:wash",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
    "ing:aha",
    "ing:pha",
    "ing:peptides",
    "ing:collagen",
+   "ing:pdrn-polynucleotide",
    "claim:brightening",
    "claim:acne",
    "claim:pores",
@@ -20296,7 +20385,7 @@ const CTPRODUCTS = [
  {
   "id": "deconstruct-itm0219d3eb78253",
   "brand": "Deconstruct",
-  "model": "Exfoliating 18% AHA & 3% BHA PHA Serum Liposomal Tech …",
+  "model": "Exfoliating 18% AHA & 3% BHA PHA Serum Liposomal Technology for Face, Body Detan",
   "price": 553,
   "capacityLine": "Quantity not stated",
   "materialLine": "salicylic acid (BHA) + PHA",
@@ -20347,13 +20436,14 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/deconstruct-exfoliating-18-aha-3-bha-pha-serum-liposomal-technology-face-body-detan/p/itm0219d3eb78253",
   "buyStore": "Flipkart",
-  "title": "Deconstruct Exfoliating 18% AHA & 3% BHA PHA Serum Liposomal Tech …",
+  "title": "Deconstruct Exfoliating 18% AHA & 3% BHA PHA Serum Liposomal Technology for Face, Body Detan",
   "tags": [
-   "scope:unstated",
+   "scope:both",
    "format:serum",
    "ing:salicylic-acid-bha",
    "ing:aha",
    "ing:pha",
+   "claim:de-tan",
    "claim:exfoliating",
    "aud:unisex",
    "rating:4.5",
@@ -20441,7 +20531,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/1/u/k/30-30-aha-2-bha-d-panthenol-peeling-solution-for-acne-marks-glow-original-imahpby6snxbh2eg.jpeg?q=90",
@@ -20460,6 +20551,7 @@ const CTPRODUCTS = [
    "format:peel",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:aha",
    "ing:pha",
@@ -20584,6 +20676,7 @@ const CTPRODUCTS = [
    "ing:hyaluronic-acid",
    "ing:peptides",
    "ing:collagen",
+   "ing:pdrn-polynucleotide",
    "claim:brightening",
    "claim:dark-spots",
    "claim:anti-aging",
@@ -21445,7 +21538,7 @@ const CTPRODUCTS = [
  {
   "id": "some-by-mi-itm4aecfcc66cd8e",
   "brand": "Some By Mi",
-  "model": "AHA BHA PHA Miracle Cream for Sensitive Skin 60g (60 g …",
+  "model": "AHA BHA PHA Miracle Cream for Sensitive Skin 60g",
   "price": 1699,
   "capacityLine": "60 g",
   "materialLine": "salicylic acid (BHA) + PHA",
@@ -21497,7 +21590,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/some-mi-aha-bha-pha-miracle-cream-sensitive-skin-60g/p/itm4aecfcc66cd8e",
   "buyStore": "Flipkart",
-  "title": "Some By Mi AHA BHA PHA Miracle Cream for Sensitive Skin 60g (60 g …",
+  "title": "Some By Mi AHA BHA PHA Miracle Cream for Sensitive Skin 60g",
   "tags": [
    "scope:face",
    "format:cream",
@@ -21681,7 +21774,7 @@ const CTPRODUCTS = [
  {
   "id": "earth-science-ayurveda-itm3259d46a36945",
   "brand": "Earth Science Ayurveda",
-  "model": "AHA BHA PHA Face Peeling Solution with Hya …",
+  "model": "AHA BHA PHA Face Peeling Solution with Hyaluronic Acid & Mandelic Acid",
   "price": 240,
   "capacityLine": "30 ml",
   "materialLine": "salicylic acid (BHA) + glycolic acid + lactic acid",
@@ -21719,7 +21812,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.2★ from 60 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/body-skin-treatment/m/y/1/30-aha-bha-pha-face-peeling-solution-with-hyaluronic-acid-original-imaghhthkgbsntmq.jpeg?q=90",
@@ -21730,11 +21824,12 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/earth-science-ayurveda-aha-bha-pha-face-peeling-solution-hyaluronic-acid-mandelic/p/itm3259d46a36945",
   "buyStore": "Flipkart",
-  "title": "Earth Science Ayurveda AHA BHA PHA Face Peeling Solution with Hya …",
+  "title": "Earth Science Ayurveda AHA BHA PHA Face Peeling Solution with Hyaluronic Acid & Mandelic Acid",
   "tags": [
    "scope:face",
    "format:serum",
    "format:peel",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
    "ing:lactic-acid",
@@ -22442,7 +22537,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/8/c/a/30-eraser-shot-glycolic-acid-booster-serum-aha-bha-exfoliating-original-imahzqsnvsrenvmn.jpeg?q=90",
@@ -22459,6 +22555,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
    "ing:aha",
@@ -22556,7 +22653,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/f/a/w/30-eraser-shot-glycolic-acid-face-serum-daily-aha-bha-original-imahzqsbb3xyc75h.jpeg?q=90",
@@ -22573,6 +22671,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
    "ing:aha",
@@ -22671,7 +22770,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/s/u/n/30-glycolic-acid-booster-serum-aha-bha-exfoliating-treatment-for-original-imahzqpundatjnhy.jpeg?q=90",
@@ -22688,6 +22788,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
    "ing:aha",
@@ -23042,7 +23143,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/v/i/0/30-glycolic-acid-aha-and-salicylic-acid-bha-serum-get-instant-original-imahm47gtcbhagfn.jpeg?q=90",
@@ -23058,6 +23160,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
    "ing:aha",
@@ -23118,7 +23221,7 @@ const CTPRODUCTS = [
  {
   "id": "zvizoro-itm19ca2cf9a89ff",
   "brand": "Zvizoro",
-  "model": "Aha Bha 10% Face Serum Face Exfoliator With lactic Acid R …",
+  "model": "Aha Bha 10% Face Serum Face Exfoliator With lactic Acid Radiant Youthful",
   "price": 160,
   "capacityLine": "30 ml",
   "materialLine": "salicylic acid (BHA) + lactic acid",
@@ -23167,7 +23270,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/zvizoro-aha-bha-10-face-serum-exfoliator-lactic-acid-radiant-youthful/p/itm19ca2cf9a89ff",
   "buyStore": "Flipkart",
-  "title": "Zvizoro Aha Bha 10% Face Serum Face Exfoliator With lactic Acid R …",
+  "title": "Zvizoro Aha Bha 10% Face Serum Face Exfoliator With lactic Acid Radiant Youthful",
   "tags": [
    "scope:face",
    "format:serum",
@@ -23267,7 +23370,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/h/i/s/60-aha-bha-acne-serum-for-blackhead-pore-minimizer-wrinkles-original-imahg2j3qpsvg7ax.jpeg?q=90",
@@ -23283,6 +23387,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:aha",
    "claim:anti-aging",
@@ -23895,7 +24000,7 @@ const CTPRODUCTS = [
  {
   "id": "bake-itma52a209659c2e",
   "brand": "Bake",
-  "model": "AHA BHA Serum Sheet Mask, Glycolic & Lactic Acid, Exfoliate …",
+  "model": "AHA BHA Serum Sheet Mask, Glycolic & Lactic Acid, Exfoliate & Blackhead Removal",
   "price": 220,
   "capacityLine": "20 ml",
   "materialLine": "salicylic acid (BHA) + glycolic acid + lactic acid",
@@ -23946,7 +24051,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/bake-aha-bha-serum-sheet-mask-glycolic-lactic-acid-exfoliate-blackhead-removal/p/itma52a209659c2e",
   "buyStore": "Flipkart",
-  "title": "BAKE AHA BHA Serum Sheet Mask, Glycolic & Lactic Acid, Exfoliate …",
+  "title": "BAKE AHA BHA Serum Sheet Mask, Glycolic & Lactic Acid, Exfoliate & Blackhead Removal",
   "tags": [
    "scope:unstated",
    "format:serum",
@@ -24124,7 +24229,7 @@ const CTPRODUCTS = [
  {
   "id": "kadife-itm7540380c2ac79",
   "brand": "KADIFE",
-  "model": "AHA BHA Face Peel Serum with Glycolic Lactic Mandelic Acid …",
+  "model": "AHA BHA Face Peel Serum with Glycolic Lactic Mandelic Acid for Glowing Skin",
   "price": 1119,
   "capacityLine": "142 g",
   "materialLine": "salicylic acid (BHA) + glycolic acid + lactic acid",
@@ -24174,7 +24279,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/kadife-aha-bha-face-peel-serum-glycolic-lactic-mandelic-acid-glowing-skin/p/itm7540380c2ac79",
   "buyStore": "Flipkart",
-  "title": "KADIFE AHA BHA Face Peel Serum with Glycolic Lactic Mandelic Acid …",
+  "title": "KADIFE AHA BHA Face Peel Serum with Glycolic Lactic Mandelic Acid for Glowing Skin",
   "tags": [
    "scope:face",
    "format:cream",
@@ -24400,7 +24505,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/7/q/p/30-aha-bha-exfoliating-serum-for-brightening-skin-clearing-pores-original-imahhb4rgqxmbnxn.jpeg?q=90",
@@ -24416,6 +24522,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
    "ing:lactic-acid",
@@ -24474,7 +24581,7 @@ const CTPRODUCTS = [
  {
   "id": "minimalist-itm7281d48216188",
   "brand": "Minimalist",
-  "model": "AHA 25% + BHA 2% + PHA 5% Peeling Solution for Glowing …",
+  "model": "AHA 25% + BHA 2% + PHA 5% Peeling Solution for Glowing Skin",
   "price": 284,
   "capacityLine": "10 ml",
   "materialLine": "salicylic acid (BHA) + PHA",
@@ -24525,7 +24632,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/minimalist-aha-25-bha-2-pha-5-peeling-solution-glowing-skin/p/itm7281d48216188",
   "buyStore": "Flipkart",
-  "title": "Minimalist AHA 25% + BHA 2% + PHA 5% Peeling Solution for Glowing …",
+  "title": "Minimalist AHA 25% + BHA 2% + PHA 5% Peeling Solution for Glowing Skin",
   "tags": [
    "scope:face",
    "format:serum",
@@ -24684,7 +24791,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/c/6/n/30-exfoliating-eraser-shot-serum-glycolic-acid-aha-bha-face-original-imahzqthfhspjhhh.jpeg?q=90",
@@ -24702,6 +24810,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:retinal",
@@ -24808,7 +24917,8 @@ const CTPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type; Irritation — panthenol #8 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — product type; Irritation — panthenol #8 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/j/d/w/80-aha-bha-niacinamide-dead-skin-exfoliating-care-for-all-skin-original-imahmhg5va4uffhy.jpeg?q=90",
@@ -24824,6 +24934,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:aha",
@@ -25085,7 +25196,8 @@ const CTPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type; Irritation — panthenol #8 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — product type; Irritation — panthenol #8 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/f/o/g/80-aha-bha-niacinamide-daily-gentle-peeling-for-smooth-texture-original-imahmhg5epdfcyuu.jpeg?q=90",
@@ -25102,6 +25214,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:peel",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:aha",
@@ -25353,7 +25466,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/e/b/l/30-glow-boosting-face-serum-aha-bha-face-serum-for-men-and-women-original-imahm45wzrhzzhyy.jpeg?q=90",
@@ -25369,6 +25483,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:aha",
    "claim:brightening",
@@ -25466,7 +25581,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/5/8/u/skincare-set-aha-bha-foaming-face-wash-100ml-gentle-cleanser-original-imahcn47ugpeywsu.jpeg?q=90",
@@ -25486,6 +25602,7 @@ const CTPRODUCTS = [
    "format:wash",
    "format:kit",
    "sun:mineral",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
@@ -25740,7 +25857,8 @@ const CTPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type; Irritation — panthenol #8 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — product type; Irritation — panthenol #8 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/b/m/o/80-aha-bha-niacinamide-daily-gentle-exfoliating-solution-smooth-original-imahmhhtb33h99yf.jpeg?q=90",
@@ -25756,6 +25874,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:aha",
@@ -25901,7 +26020,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/w/s/k/30-skin-brightening-face-serum-with-aha-bha-10-glycolic-acid-and-original-imahm47hzsgty2zd.jpeg?q=90",
@@ -25917,6 +26037,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
    "ing:aha",
@@ -28742,7 +28863,8 @@ const CTPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Kreative Beauty Pvt Ltd (Hyphen) — Indian D2C brand with its own product company",
    "buyerEvidence": "4.1★ from 186 ratings",
-   "concernBasis": "Acne — product type, azelaic acid #3 on INCI, niacinamide #6 on INCI, salicylic acid #9 on INCI; Dark spots — azelaic acid #3 on INCI, niacinamide #6 on INCI; Irritation — azelaic acid #3 on INCI, centella asiatica extract #4 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — product type, azelaic acid #3 on INCI, niacinamide #6 on INCI, salicylic acid #9 on INCI; Dark spots — azelaic acid #3 on INCI, niacinamide #6 on INCI; Irritation — azelaic acid #3 on INCI, centella asiatica extract #4 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/u/2/u/-original-imahhgmggezwhgzb.jpeg?q=90",
@@ -28760,6 +28882,7 @@ const CTPRODUCTS = [
    "format:oil",
    "format:pack",
    "format:wash",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:azelaic-acid",
@@ -29083,7 +29206,7 @@ const CTPRODUCTS = [
  {
   "id": "scientistry-itm8345aec94682a",
   "brand": "Scientistry",
-  "model": "2% Salicylic Serum Powered With 5% PHA Complex | For …",
+  "model": "2% Salicylic Serum Powered With 5% PHA Complex | For Oily Acne Prone Skin |",
   "price": 259,
   "capacityLine": "30 ml",
   "materialLine": "salicylic acid (BHA) + PHA + honey",
@@ -29134,7 +29257,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/scientistry-2-salicylic-serum-powered-5-pha-complex-oily-acne-prone-skin/p/itm8345aec94682a",
   "buyStore": "Flipkart",
-  "title": "Scientistry 2% Salicylic Serum Powered With 5% PHA Complex | For …",
+  "title": "Scientistry 2% Salicylic Serum Powered With 5% PHA Complex | For Oily Acne Prone Skin |",
   "tags": [
    "scope:face",
    "format:serum",
@@ -29384,7 +29507,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "5★ from 10 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/9/2/l/30-2-salicylic-acid-face-serum-anti-acne-serum-for-acne-spot-original-imahzcetctv7dyhe.jpeg?q=90",
@@ -29400,6 +29524,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "claim:acne",
    "skin:all",
@@ -29493,7 +29618,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/g/g/b/30-salicylic-acid-serum-2-face-serum-for-acne-blackheads-pores-original-imahmwv6jjqdqtzz.jpeg?q=90",
@@ -29512,6 +29638,7 @@ const CTPRODUCTS = [
    "format:pack",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
@@ -29736,7 +29863,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.8★ from 14 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/i/h/c/30-1-salicylic-acid-2-succinic-acid-face-serum-for-treats-acne-original-imahgmgjtjea4yhh.jpeg?q=90",
@@ -29752,6 +29880,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "claim:acne",
    "skin:all",
@@ -30056,7 +30185,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "5★ from 11 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/v/q/k/30-active-acne-pimple-control-for-2-salicylic-acid-serum-ondps-original-imahz9468cr7ygea.jpeg?q=90",
@@ -30072,6 +30202,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "claim:acne",
    "claim:pores",
@@ -30303,7 +30434,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.8★ from 20 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/u/c/g/30-2-salicylic-acid-niacinamide-face-serum-for-acne-prone-skin-original-imahzc8kjj4sbykc.jpeg?q=90",
@@ -30319,6 +30451,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -30653,7 +30786,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/e/d/2/30-2-salicylic-acid-face-serum-acne-blackhead-whitehead-removal-original-imahkkpyq3kumban.jpeg?q=90",
@@ -30669,6 +30803,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "claim:brightening",
@@ -30765,7 +30900,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4★ from 17 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/i/j/f/30-2-salicylic-acid-face-serum-for-acne-acne-marks-nuerma-original-imahhbu6kpjyzy8p.jpeg?q=90",
@@ -30781,6 +30917,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "claim:brightening",
    "claim:anti-aging",
@@ -30879,7 +31016,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.4★ from 34 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/l/c/o/30-pure-2-salicylic-acid-2-zinc-oily-acne-prone-skin-blackhead-original-imahce28zun9f8cu.jpeg?q=90",
@@ -30897,6 +31035,7 @@ const CTPRODUCTS = [
    "format:oil",
    "format:pack",
    "format:wash",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:zinc",
    "claim:acne",
@@ -31475,12 +31614,12 @@ const CTPRODUCTS = [
  {
   "id": "underated-itm28ae82104be5a",
   "brand": "Underated",
-  "model": "Salicylic Acid 2% + Tranexamic Acid 2% Serum | Anti-Acn …",
+  "model": "Salicylic Acid 2% + Tranexamic Acid 2% Serum | Anti-Acne & Brightening | Powered with Mush…",
   "price": 215,
   "capacityLine": "Quantity not stated",
   "materialLine": "salicylic acid (BHA) + tranexamic acid",
   "featureLine": "Serum",
-  "highlight": "Live Flipkart listing. Neither the listing nor the brand site gave a full INCI; scored from a third-party ingredient database (INCIDecoder (third-party database) — Underated Salicylic Acid 2% + Tranexamic Acid 2% Serum) at a 10% confidence discount. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. Scored from its published INCI list (Flipkart listing — Specifications › Composition): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "salicylic acid high on the INCI list (strong evidence)",
    "No fragrance / flagged irritant on the INCI list"
@@ -31489,9 +31628,9 @@ const CTPRODUCTS = [
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 4.1,
-   "skin": 6.3,
-   "trust": 4.5,
+   "ingredients": 4.6,
+   "skin": 7,
+   "trust": 5.5,
    "experience": 7.1
   },
   "fullSpec": {
@@ -31502,17 +31641,15 @@ const CTPRODUCTS = [
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, Acne/blemish claim",
+   "benefit": "Hydrating, Brightening/glow claim, Acne/blemish claim",
    "audience": "Marketed for women",
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "4.1/5 (2,735 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Full INCI list read from a third-party ingredient database (not on the listing or brand site) — scored with a 10% confidence discount",
-   "inciSource": "INCIDecoder (third-party database) — Underated Salicylic Acid 2% + Tranexamic Acid 2% Serum",
-   "inciSourceUrl": "https://inkeedecoder.com/products/underated-salicylic-acid-2-tranexamic-acid-2-serum",
-   "inciMatchedName": "Underated Salicylic Acid 2% + Tranexamic Acid 2% Serum (name match 100%)",
-   "inciList": "Aqua , Betaine , Glycerin , Salicylic Acid , Tranexamic Acid , Sodium Hydroxide , Sodium Hyaluronate , Ethylhexylglycerin , Phenoxyethanol , Sodium Gluconate , Tricholoma Matsutake (Mushroom) Extract",
+   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
+   "inciSource": "Flipkart listing — Specifications › Composition",
+   "inciList": "Aqua, Betaine, Glycerin, Salicylic Acid, Tranexamic Acid, Sodium Hydroxide, Sodium Hyaluronate, Ethylhexylglycerin, Phenoxyethanol, Sodium Gluconate, Tricholoma Matsutake (Mushroom) Extract.",
    "evidenceActives": "salicylic acid (#4 on list, strong evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
@@ -31529,7 +31666,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/underated-salicylic-acid-2-tranexamic-serum-anti-acne-brightening-powered-mushroom-extract-reduces-acne-marks-melasma-discoloration-all-skin-types/p/itm28ae82104be5a",
   "buyStore": "Flipkart",
-  "title": "UNDERATED Salicylic Acid 2% + Tranexamic Acid 2% Serum | Anti-Acn …",
+  "title": "UNDERATED Salicylic Acid 2% + Tranexamic Acid 2% Serum | Anti-Acne & Brightening | Powered with Mushroom Extract | Reduces Acne Marks, Melasma, & Discoloration | For All Skin Types",
   "tags": [
    "scope:face",
    "format:serum",
@@ -31537,15 +31674,18 @@ const CTPRODUCTS = [
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:tranexamic-acid",
+   "claim:brightening",
+   "claim:dark-spots",
    "claim:acne",
    "claim:hydrating",
+   "claim:scars",
+   "skin:all",
    "aud:women",
    "rating:4.0",
    "store:flipkart",
    "target:acne",
    "target:dark-spots",
    "inci:full",
-   "inci:secondary",
    "inci:no-fragrance"
   ],
   "filters": {
@@ -31556,21 +31696,21 @@ const CTPRODUCTS = [
    "men": false,
    "women": true,
    "inci": "full",
-   "inciSrc": "secondary",
+   "inciSrc": "listing",
    "pharma": false
   },
   "evidence": {
    "inci": "full",
-   "inciSource": "INCIDecoder (third-party database) — Underated Salicylic Acid 2% + Tranexamic Acid 2% Serum",
-   "inciSourceKind": "secondary",
-   "inciSourceUrl": "https://inkeedecoder.com/products/underated-salicylic-acid-2-tranexamic-acid-2-serum",
+   "inciSource": "Flipkart listing — Specifications › Composition",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
    "inciSourceRegion": null,
-   "inciMatchedTitle": "Underated Salicylic Acid 2% + Tranexamic Acid 2% Serum",
-   "inciMatchScore": 1,
-   "inciText": "Aqua , Betaine , Glycerin , Salicylic Acid , Tranexamic Acid , Sodium Hydroxide , Sodium Hyaluronate , Ethylhexylglycerin , Phenoxyethanol , Sodium Gluconate , Tricholoma Matsutake (Mushroom) Extract",
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": "Aqua, Betaine, Glycerin, Salicylic Acid, Tranexamic Acid, Sodium Hydroxide, Sodium Hyaluronate, Ethylhexylglycerin, Phenoxyethanol, Sodium Gluconate, Tricholoma Matsutake (Mushroom) Extract.",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": 0.63,
+   "declarationConfidence": 0.7,
    "recognised": 1,
    "actives": [
     {
@@ -32318,7 +32458,8 @@ const CTPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.2★ from 96 ratings",
-   "concernBasis": "Acne — product type, niacinamide #2 on INCI, salicylic acid #3 on INCI, azelaic acid #4 on INCI; Dark spots — niacinamide #2 on INCI, azelaic acid #4 on INCI; Irritation — azelaic acid #4 on INCI, aloe barbadensis leaf extract #5 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — product type, niacinamide #2 on INCI, salicylic acid #3 on INCI, azelaic acid #4 on INCI; Dark spots — niacinamide #2 on INCI, azelaic acid #4 on INCI; Irritation — azelaic acid #4 on INCI, aloe barbadensis leaf extract #5 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/t/w/y/30-anti-acne-serum-niacinamide-salicylic-azelaic-acid-fights-original-imahmgmz7aefhxfy.jpeg?q=90",
@@ -32337,6 +32478,7 @@ const CTPRODUCTS = [
    "format:pack",
    "format:wash",
    "sun:mineral",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:mandelic-acid",
@@ -33045,7 +33187,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.8★ from 20 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/i/a/g/90-0-salicylic-acid-face-serum-for-active-acne-pimple-care-original-imahmjmzhvskh6d5.jpeg?q=90",
@@ -33063,6 +33206,7 @@ const CTPRODUCTS = [
    "format:oil",
    "format:pack",
    "spf:50",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:tea-tree",
    "ing:aloe-vera",
@@ -33390,7 +33534,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.3★ from 20 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/j/t/6/90-0-2-salicylic-acid-serum-for-acne-blackheads-open-pores-original-imahmjkycgvhdgw5.jpeg?q=90",
@@ -33407,6 +33552,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "spf:50",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "claim:brightening",
    "claim:acne",
@@ -33501,7 +33647,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.2★ from 90 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/q/5/i/30-2-salicylic-acid-niacinamide-face-serum-for-oily-skin-acne-original-imahzx9rykyjvqkr.jpeg?q=90",
@@ -33519,6 +33666,7 @@ const CTPRODUCTS = [
    "format:oil",
    "format:pack",
    "format:wash",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -33720,7 +33868,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.8★ from 12 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/d/f/d/30-salicylic-acid-and-niacinamide-serum-for-active-acne-original-imahjnpehahcdmxb.jpeg?q=90",
@@ -33737,6 +33886,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:patch",
    "format:wash",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:hyaluronic-acid",
@@ -35191,7 +35341,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4★ from 14 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/m/d/d/30-2-salicylic-face-serum-enriched-with-vitamin-c-peptide-to-original-imahkajfadjvefgf.jpeg?q=90",
@@ -35206,6 +35357,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:serum",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
@@ -35881,7 +36033,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/body-wash/e/x/k/230-salicylic-acid-anti-back-pimple-acne-dark-spot-removal-body-original-imah9pgzspshuzzb.jpeg?q=90",
@@ -35899,6 +36052,7 @@ const CTPRODUCTS = [
    "format:oil",
    "format:pack",
    "format:wash",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -36006,7 +36160,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/2/2/5/skin-brightening-tan-removal-combo-2-salicylic-acid-face-wash-original-imahmjvchdnzfd5t.jpeg?q=90",
@@ -36026,6 +36181,7 @@ const CTPRODUCTS = [
    "format:pack",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:salicylic-acid-bha",
    "ing:tea-tree",
@@ -36447,7 +36603,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.9★ from 166 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/anti-ageing/q/s/d/30-salicylic-acid-2-hyaluronic-acid-face-serum-for-anti-acne-original-imaghjfwj32zvmhg.jpeg?q=90",
@@ -36462,6 +36619,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:hyaluronic-acid",
    "claim:brightening",
@@ -36558,7 +36716,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.7★ from 266 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/u/r/4/60-salicylic-serum-for-acne-open-pores-reduces-excess-oil-bumpy-original-imahdk7qf4tc9ysm.jpeg?q=90",
@@ -36574,6 +36733,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "claim:brightening",
    "claim:anti-aging",
@@ -36724,6 +36884,116 @@ const CTPRODUCTS = [
    "inciNote": null,
    "declarationConfidence": null,
    "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "biowallice-itm2af86f7e08c93",
+  "brand": "BIOWALLICE",
+  "model": "ACWALLICE FACE SERUM FOR ACNE WITH TEA TREE EXTRACT,NIACINAMIDE,MANDELIC ACID,SALICYLIC AC…",
+  "price": 562,
+  "capacityLine": "30 ml",
+  "materialLine": "niacinamide + salicylic acid (BHA) + mandelic acid",
+  "featureLine": "Serum · Paraben-free · ₹1873/100ml",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Too few ingredients are recognisable INCI names to treat this as the declared list, so formula and safety are unscored — formula unscored",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹1873/100ml",
+   "format": "Serum",
+   "keyIngredients": "niacinamide, salicylic acid (BHA), mandelic acid, tea tree, zinc (per listing)",
+   "freeFrom": "Paraben-free, Sulfate/SLS-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Acne/blemish claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Too few ingredients are recognisable INCI names to treat this as the declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: TEA TREE EXTRACT,NIACINAMIDE,MANDELIC ACID,SALICYLIC ACID,ACNE BUSTER,ZINC PCA,AZELAIC ACID",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/l/i/7/30-acwallice-face-serum-for-acne-with-tea-tree-extract-original-imahmsgy3vuzfsza.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/biowallice-acwallice-face-serum-acne-tea-tree-extract-niacinamide-mandelic-acid-salicylic-acid-acne-buster/p/itm2af86f7e08c93",
+  "buyStore": "Flipkart",
+  "title": "BIOWALLICE ACWALLICE FACE SERUM FOR ACNE WITH TEA TREE EXTRACT,NIACINAMIDE,MANDELIC ACID,SALICYLIC ACID,ACNE BUSTER",
+  "tags": [
+   "scope:face",
+   "format:serum",
+   "ing:niacinamide",
+   "ing:salicylic-acid-bha",
+   "ing:mandelic-acid",
+   "ing:azelaic-acid",
+   "ing:tea-tree",
+   "ing:zinc",
+   "claim:acne",
+   "claim:pores",
+   "claim:oil-control",
+   "skin:all",
+   "free:paraben",
+   "free:sulfate",
+   "aud:women",
+   "size:travel",
+   "rating:none",
+   "store:flipkart",
+   "target:acne",
+   "inci:partial"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "TEA TREE EXTRACT,NIACINAMIDE,MANDELIC ACID,SALICYLIC ACID,ACNE BUSTER,ZINC PCA,AZELAIC ACID",
+   "inciNote": "Too few ingredients are recognisable INCI names to treat this as the declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 0.86,
    "actives": [],
    "support": [],
    "formulaNotes": [],
@@ -37425,7 +37695,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.1★ from 7 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/j/x/i/30-salicylic-acid-hyaluronic-acid-ferulic-acid-allantoin-original-imahjgmfr57tmfsh.jpeg?q=90",
@@ -37440,6 +37711,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:hyaluronic-acid",
    "ing:licorice",
@@ -39250,6 +39522,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:wash",
+   "format:cleansing-oil",
    "ing:vitamin-c",
    "ing:salicylic-acid-bha",
    "ing:aloe-vera",
@@ -44478,6 +44751,7 @@ const CTPRODUCTS = [
    "format:oil",
    "format:wash",
    "format:kit",
+   "format:cleansing-oil",
    "ing:vitamin-c",
    "ing:salicylic-acid-bha",
    "ing:kojic-acid",
@@ -50711,6 +50985,7 @@ const CTPRODUCTS = [
    "ing:aloe-vera",
    "ing:vitamin-e",
    "ing:glycerin",
+   "ing:menthol",
    "claim:brightening",
    "claim:acne",
    "claim:oil-control",
@@ -52142,7 +52417,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/m/r/j/30-30-aha-2-bha-peeling-solution-for-deep-cleaninsing-original-imahzxanczvnqnyj.jpeg?q=90",
@@ -52161,6 +52437,7 @@ const CTPRODUCTS = [
    "format:peel",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:aha",
    "claim:brightening",
@@ -54486,7 +54763,7 @@ const CTPRODUCTS = [
  {
   "id": "chemist-at-play-itm7d6c5bc0e333c",
   "brand": "Chemist at Play",
-  "model": "26% AHA 2% BHA 4% PHA Peeling Solution | Chemical …",
+  "model": "26% AHA 2% BHA 4% PHA Peeling Solution | Chemical Exfoliator For Face",
   "price": 419,
   "capacityLine": "30 ml",
   "materialLine": "salicylic acid (BHA) + PHA",
@@ -54522,6 +54799,7 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
+   "declaredManufacturer": "Onesto Labs private Limited, Plot No 309, Sector 6 IMT Manesar, Manesar, Gurugram, Haryana, 122052 (as printed on the Flipkart listing — not scored)",
    "buyerEvidence": "4.1★ from 2,698 ratings",
    "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
@@ -54534,7 +54812,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/chemist-play-26-aha-2-bha-4-pha-peeling-solution-chemical-exfoliator-face/p/itm7d6c5bc0e333c",
   "buyStore": "Flipkart",
-  "title": "Chemist at Play 26% AHA 2% BHA 4% PHA Peeling Solution | Chemical …",
+  "title": "Chemist at Play 26% AHA 2% BHA 4% PHA Peeling Solution | Chemical Exfoliator For Face",
   "tags": [
    "scope:face",
    "format:peel-off",
@@ -56742,7 +57020,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/2/i/u/252-aha-bha-exfoliating-body-lotion-with-coconut-oil-vitamin-e-original-imahha6gqpevkm9e.jpeg?q=90",
@@ -56761,6 +57040,7 @@ const CTPRODUCTS = [
    "format:lotion",
    "format:oil",
    "format:kit",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:aha",
    "ing:cucumber",
@@ -57081,7 +57361,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/c/w/7/30-salicylic-acid-serum-for-acne-blackheads-open-pores-reduces-original-imah6s3zvbh54ayu.jpeg?q=90",
@@ -57097,6 +57378,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "claim:brightening",
    "claim:dark-spots",
@@ -57302,7 +57584,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/n/a/g/1-glow-infusion-aha-bha-skin-exfoliating-serum-msglamour-cream-original-imahm46htwyrbp7m.jpeg?q=90",
@@ -57318,6 +57601,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:serum",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
@@ -57748,7 +58032,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/f/a/u/30-2-salicylic-acid-anti-acne-face-serum-for-all-skin-tones-original-imahjfk4vhjffb4y.jpeg?q=90",
@@ -57764,6 +58049,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:ceramides",
@@ -59417,7 +59703,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4★ from 222 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/4/e/u/7-aha-bha-exfoliating-bodywash-spf-50-bodylotion-for-smooth-original-imahd3hkep63vgyf.jpeg?q=90",
@@ -59433,6 +59720,7 @@ const CTPRODUCTS = [
    "scope:unstated",
    "format:kit",
    "spf:50",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:aha",
    "claim:brightening",
@@ -60171,7 +60459,7 @@ const CTPRODUCTS = [
  {
   "id": "yapidra-itmd56822c4fc9bd",
   "brand": "Yapidra",
-  "model": "Triple-Acid Peeling Serum with 25% AHA, 2% BHA & 5% PHA – …",
+  "model": "Triple-Acid Peeling Serum with 25% AHA, 2% BHA & 5% PHA – Deep Exfoliating Treatment for S…",
   "price": 579,
   "capacityLine": "Quantity not stated",
   "materialLine": "salicylic acid (BHA) + PHA",
@@ -60221,7 +60509,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/yapidra-triple-acid-peeling-serum-25-aha-2-bha-5-pha-deep-exfoliating-treatment-smooth-radiant-clear-skin-lightweight-fast-absorbing-formula/p/itmd56822c4fc9bd",
   "buyStore": "Flipkart",
-  "title": "Yapidra Triple-Acid Peeling Serum with 25% AHA, 2% BHA & 5% PHA – …",
+  "title": "Yapidra Triple-Acid Peeling Serum with 25% AHA, 2% BHA & 5% PHA – Deep Exfoliating Treatment for Smooth, Radiant & Clear Skin | Lightweight & Fast-Absorbing Formula",
   "tags": [
    "scope:unstated",
    "format:serum",
@@ -60229,6 +60517,8 @@ const CTPRODUCTS = [
    "ing:salicylic-acid-bha",
    "ing:aha",
    "ing:pha",
+   "claim:exfoliating",
+   "claim:lightweight",
    "aud:unisex",
    "rating:none",
    "store:flipkart",
@@ -60398,7 +60688,7 @@ const CTPRODUCTS = [
  {
   "id": "trambex-itm1f3feaba152c9",
   "brand": "Trambex",
-  "model": "7% AHA BHA Exfoliating Body Wash | De-Tan Glycolic & Sali …",
+  "model": "7% AHA BHA Exfoliating Body Wash | De-Tan Glycolic & Salicylic Acid Shower Gel: Buy Trambe…",
   "price": 61,
   "capacityLine": "250 ml",
   "materialLine": "salicylic acid (BHA) + glycolic acid",
@@ -60448,7 +60738,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/trambex-7-aha-bha-exfoliating-body-wash-de-tan-glycolic-salicylic-acid-shower-gel/p/itm1f3feaba152c9",
   "buyStore": "Flipkart",
-  "title": "Trambex 7% AHA BHA Exfoliating Body Wash | De-Tan Glycolic & Sali …",
+  "title": "Trambex 7% AHA BHA Exfoliating Body Wash | De-Tan Glycolic & Salicylic Acid Shower Gel: Buy Trambex 7% AHA BHA Exfoliating Body Wash | De-Tan Glycolic & Salicylic Acid Shower Gel at Low",
   "tags": [
    "scope:body",
    "format:gel",
@@ -60513,7 +60803,7 @@ const CTPRODUCTS = [
  {
   "id": "fixderma-itme2dfdf81d0ff3",
   "brand": "Fixderma",
-  "model": "Dewrav 10% AHA 1% BHA Deep Exfoliating Body Lotion with …",
+  "model": "Dewrav 10% AHA 1% BHA Deep Exfoliating Body Lotion with Lactic & Salicylic Acid",
   "price": 536,
   "capacityLine": "200 ml",
   "materialLine": "salicylic acid (BHA) + lactic acid + colloidal oatmeal",
@@ -60564,7 +60854,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/fixderma-dewrav-10-aha-1-bha-deep-exfoliating-body-lotion-lactic-salicylic-acid/p/itme2dfdf81d0ff3",
   "buyStore": "Flipkart",
-  "title": "Fixderma Dewrav 10% AHA 1% BHA Deep Exfoliating Body Lotion with …",
+  "title": "Fixderma Dewrav 10% AHA 1% BHA Deep Exfoliating Body Lotion with Lactic & Salicylic Acid",
   "tags": [
    "scope:both",
    "format:lotion",
@@ -62134,10 +62424,10 @@ const CTPRODUCTS = [
  {
   "id": "be-bodywise-itme2906f5a64706",
   "brand": "Be Bodywise",
-  "model": "2% AHA BHA Exfoliating Body Wash | 1% Glycolic Acid, …",
+  "model": "2% AHA BHA Exfoliating Body Wash | 1% Glycolic Acid, 1% Lactic Acid | Shower Gel: Buy Be B…",
   "price": 126,
   "capacityLine": "Quantity not stated",
-  "materialLine": "salicylic acid (BHA) + glycolic acid",
+  "materialLine": "salicylic acid (BHA) + glycolic acid + lactic acid",
   "featureLine": "Scrub / exfoliant",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
@@ -62156,7 +62446,7 @@ const CTPRODUCTS = [
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
    "format": "Scrub / exfoliant",
-   "keyIngredients": "salicylic acid (BHA), glycolic acid (per listing)",
+   "keyIngredients": "salicylic acid (BHA), glycolic acid, lactic acid (per listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
@@ -62185,12 +62475,14 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/bodywise-2-aha-bha-exfoliating-body-wash-1-glycolic-acid-lactic-acid-shower-gel/p/itme2906f5a64706",
   "buyStore": "Flipkart",
-  "title": "Be Bodywise 2% AHA BHA Exfoliating Body Wash | 1% Glycolic Acid, …",
+  "title": "Be Bodywise 2% AHA BHA Exfoliating Body Wash | 1% Glycolic Acid, 1% Lactic Acid | Shower Gel: Buy Be Bodywise 2% AHA BHA Exfoliating Body Wash | 1% Glycolic Acid, 1% Lactic Acid | Shower Gel at Low",
   "tags": [
    "scope:body",
+   "format:gel",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
+   "ing:lactic-acid",
    "ing:aha",
    "claim:exfoliating",
    "aud:unisex",
@@ -62739,7 +63031,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/n/r/n/150-2-salicylic-acid-anti-acne-face-serum-for-remove-acne-original-imahktbxqavdu8ca.jpeg?q=90",
@@ -62755,6 +63048,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:ceramides",
@@ -63643,7 +63937,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/s/j/z/30-2-salicylic-acid-face-serum-for-active-acne-control-for-oily-original-imahzaz33vhzhuh2.jpeg?q=90",
@@ -63661,6 +63956,7 @@ const CTPRODUCTS = [
    "format:pack",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -63870,7 +64166,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/y/c/7/30-2-salicylic-serum-axx77-ondps-original-imahze79bkm4putc.jpeg?q=90",
@@ -63886,6 +64183,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "skin:all",
    "free:paraben",
@@ -63978,7 +64276,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/x/d/g/30-2-salicylic-acid-face-serum-30ml-for-acne-blackheads-oil-original-imahzjf6ffahtuuh.jpeg?q=90",
@@ -63994,6 +64293,7 @@ const CTPRODUCTS = [
    "format:oil",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "claim:acne",
    "claim:pores",
@@ -64087,7 +64387,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/7/o/d/30-salicylic-acid-serum-30ml-for-smooth-clear-looking-skin-ondps-original-imahzgynnkmysnyz.jpeg?q=90",
@@ -64103,6 +64404,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "claim:acne",
    "claim:pores",
@@ -64195,7 +64497,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/q/x/p/30-salicylic-acid-face-serum-30ml-for-fresh-healthy-skin-ondps-original-imahzjyywkbtuffg.jpeg?q=90",
@@ -64211,6 +64514,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "claim:acne",
    "claim:pores",
@@ -64303,7 +64607,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/n/w/p/30-salicylic-acid-serum-30ml-for-everyday-skin-carex-x-ondps-original-imahzjfyabkrp4jz.jpeg?q=90",
@@ -64319,6 +64624,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "claim:acne",
    "claim:pores",
@@ -64411,7 +64717,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/v/6/n/30-acne-control-salicylic-acid-face-serum-30ml-for-men-women-original-imahzgxy9h4hj2az.jpeg?q=90",
@@ -64426,6 +64733,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "claim:acne",
    "claim:pores",
@@ -64518,7 +64826,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/r/j/q/30-salicylic-acid-anti-blemish-serum-30ml-ondps-original-imahzgzwu4fvqdxa.jpeg?q=90",
@@ -64534,6 +64843,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "claim:acne",
    "claim:pores",
@@ -64626,7 +64936,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/s/2/x/30-2-salicylic-acid-face-serum-30ml-for-women-ondps-original-imahzjykuwpvffuu.jpeg?q=90",
@@ -64642,6 +64953,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "claim:acne",
    "claim:pores",
@@ -64734,7 +65046,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/4/y/v/30-2-salicylic-acid-face-serum-30ml-for-acne-blackheads-oil-original-imahzjf7axppkxyg.jpeg?q=90",
@@ -64751,6 +65064,7 @@ const CTPRODUCTS = [
    "format:oil",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "claim:acne",
    "claim:pores",
@@ -64844,7 +65158,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/0/y/j/30-salicylic-acid-skin-clarifying-serum-for-smooth-healthy-skin-original-imahzgxddm9nshpx.jpeg?q=90",
@@ -64858,6 +65173,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "claim:acne",
    "claim:pores",
@@ -64950,7 +65266,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/y/x/c/30-deep-pore-cleansing-salicylic-acid-face-serum-for-clear-skin-original-imahzgwf6kzd2xex.jpeg?q=90",
@@ -64967,6 +65284,7 @@ const CTPRODUCTS = [
    "format:pack",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "claim:acne",
    "claim:pores",
@@ -65059,7 +65377,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/4/v/2/30-oil-control-face-serum-30ml-with-salicylic-acid-ondps-original-imahzgzrpyfvzmvy.jpeg?q=90",
@@ -65075,6 +65394,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "claim:acne",
    "claim:pores",
@@ -65168,7 +65488,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/q/i/p/30-2-salicylic-acid-serum-xa77-ondps-original-imahz8zynwzpyrhy.jpeg?q=90",
@@ -65184,6 +65505,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "claim:acne",
    "claim:pores",
@@ -65279,7 +65601,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/g/h/g/30-acne-control-2-salicylic-acid-face-serum-for-men-women-ondps-original-imahzgwaczyefckg.jpeg?q=90",
@@ -65295,6 +65618,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "claim:acne",
    "claim:pores",
@@ -65387,7 +65711,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/j/l/6/30-clarifying-face-serum-30ml-with-salicylic-acid-ondps-original-imahzjyffztftghz.jpeg?q=90",
@@ -65403,6 +65728,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "claim:acne",
    "claim:pores",
@@ -65495,7 +65821,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/7/1/y/30-acne-control-salicylic-acid-face-serum-for-men-women-ondps-original-imahzgw9argfg9f2.jpeg?q=90",
@@ -65511,6 +65838,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "claim:acne",
    "claim:pores",
@@ -65603,7 +65931,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/u/2/a/30-2-salicylic-acid-face-serum-30ml-ondps-original-imahza5xn6zbpxhu.jpeg?q=90",
@@ -65620,6 +65949,7 @@ const CTPRODUCTS = [
    "format:pack",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "claim:acne",
    "claim:pores",
@@ -65719,7 +66049,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/f/r/y/30-2-salicylic-acid-face-serum-30ml-for-acne-blackheads-oil-original-imahzjfqy7qsg73h.jpeg?q=90",
@@ -65736,6 +66067,7 @@ const CTPRODUCTS = [
    "format:oil",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "claim:acne",
    "claim:pores",
@@ -65829,7 +66161,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/7/b/o/30-v-salicylic-acid-face-serum-30ml-for-acne-control-blackheads-original-imahzjf9fe63g8yz.jpeg?q=90",
@@ -65844,6 +66177,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "claim:acne",
    "claim:pores",
@@ -65936,7 +66270,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/l/t/h/30-face-serum-30ml-with-salicylic-acid-for-pore-tightening-ondps-original-imahzjydfft7bxhk.jpeg?q=90",
@@ -65952,6 +66287,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "claim:acne",
    "claim:pores",
@@ -66044,7 +66380,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/d/n/v/30-xx-anti-acne-2-salicylic-acid-face-serum-reduces-excess-oil-original-imahzjfuqdezqr6d.jpeg?q=90",
@@ -66060,6 +66397,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "claim:acne",
    "claim:pores",
@@ -66152,7 +66490,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/i/6/9/30-x-2-salicylic-acid-face-serum-with-hyaluronic-acid-tea-tree-original-imahzjfwxnhnjmgr.jpeg?q=90",
@@ -66170,6 +66509,7 @@ const CTPRODUCTS = [
    "format:pack",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:hyaluronic-acid",
    "ing:tea-tree",
@@ -66267,7 +66607,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/q/o/i/30-2-salicylic-acid-face-serum-reduces-acne-blackheads-tightens-original-imahza7nva6eqd5z.jpeg?q=90",
@@ -66284,6 +66625,7 @@ const CTPRODUCTS = [
    "format:pack",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "claim:acne",
    "claim:pores",
@@ -66383,7 +66725,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/d/m/g/30-2-salicylic-acid-for-tan-removal-glowing-skin-30ml-ondps-original-imahz94g594ypnwn.jpeg?q=90",
@@ -66399,6 +66742,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "claim:brightening",
    "claim:de-tan",
@@ -67195,7 +67539,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/b/6/h/60-2-salicylic-acid-serum-for-active-acne-oil-control-face-serum-original-imahjhtauaxxmwdg.jpeg?q=90",
@@ -67211,6 +67556,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:oil",
    "format:pack",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "claim:brightening",
    "claim:dark-spots",
@@ -67765,7 +68111,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/l1xwqkw0/combo-kit/j/d/j/combo-of-organic-2-salicylic-acid-face-serum-for-blackheads-40ml-original-imagdek6m8rhshfd.jpeg?q=90",
@@ -67784,6 +68131,7 @@ const CTPRODUCTS = [
    "format:oil",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "claim:brightening",
    "claim:pores",
@@ -67992,7 +68340,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/i/g/g/30-2-salicylic-acid-face-serum-for-acne-blackheads-open-pores-original-imahze7zgcnnt8aw.jpeg?q=90",
@@ -68007,6 +68356,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "claim:acne",
    "claim:pores",
@@ -68102,7 +68452,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/j/i/i/30-professional-2-salicylic-acid-face-serum-for-acne-blackheads-original-imahze7gdhh8ggvg.jpeg?q=90",
@@ -68115,6 +68466,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "claim:acne",
    "claim:pores",
@@ -68332,7 +68684,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/u/g/l/3-step-acne-care-routine-cleanser-moisturizer-salicylic-acid-original-imahnuaxbvwcryua.jpeg?q=90",
@@ -68354,6 +68707,7 @@ const CTPRODUCTS = [
    "format:wash",
    "format:kit",
    "spf:50",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:ceramides",
    "ing:rice-water",
@@ -68456,7 +68810,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/n/b/a/acne-control-combo-2-salicylic-acid-serum-3x-anti-acne-gel-original-imahnvfqswh3zht2.jpeg?q=90",
@@ -68477,6 +68832,7 @@ const CTPRODUCTS = [
    "format:kit",
    "spf:50",
    "pa:++++",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:hyaluronic-acid",
@@ -69124,7 +69480,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/t/v/n/2-salicylic-acid-face-serum-with-spf-50-sunscreen-combo-for-acne-original-imahmvxdhrfjvwhd.jpeg?q=90",
@@ -69146,6 +69503,7 @@ const CTPRODUCTS = [
    "spf:50",
    "sun:mineral",
    "sun:chemical",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -70220,7 +70578,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.4★ from 128 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/0/e/2/50-aha-bha-wart-treatment-cream-with-clear-skin-50g-wart-removal-original-imahg2ergzbgv4ap.jpeg?q=90",
@@ -70236,6 +70595,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:oil",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:aha",
    "ing:tea-tree",
@@ -70333,7 +70693,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5); Essential oil / volatile sensitiser: tea tree oil (−0.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type, niacinamide #7 on INCI, salicylic acid #11 on INCI, melaleuca alternifolia leaf oil #13 on INCI; Dark spots — niacinamide #7 on INCI; Irritation — aloe barbadensis leaf extract #6 on INCI, panthenol #8 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — product type, niacinamide #7 on INCI, salicylic acid #11 on INCI, melaleuca alternifolia leaf oil #13 on INCI; Dark spots — niacinamide #7 on INCI; Irritation — aloe barbadensis leaf extract #6 on INCI, panthenol #8 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/k/i/y/50-smooth-step-50g-kineticure-cream-original-imahgueheenfq6fz.jpeg?q=90",
@@ -70349,6 +70710,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:kit",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:lactic-acid",
@@ -70577,7 +70939,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5); Essential oil / volatile sensitiser: tea tree oil (−0.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type, niacinamide #7 on INCI, salicylic acid #11 on INCI, melaleuca alternifolia leaf oil #13 on INCI; Dark spots — niacinamide #7 on INCI; Irritation — aloe barbadensis leaf extract #6 on INCI, panthenol #8 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — product type, niacinamide #7 on INCI, salicylic acid #11 on INCI, melaleuca alternifolia leaf oil #13 on INCI; Dark spots — niacinamide #7 on INCI; Irritation — aloe barbadensis leaf extract #6 on INCI, panthenol #8 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/q/o/s/50-urea-foot-care-crack-heel-cream-usa-formulated-aha-bha-smooth-original-imahkyhsdhpe6pgf.jpeg?q=90",
@@ -70594,6 +70957,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:lotion",
    "format:pack",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:aha",
    "ing:urea",
@@ -70927,7 +71291,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/skin-treatment/v/t/z/180-0-urea-42-cream-with-2-salicylic-acid-for-dry-skin-cracked-original-imahqrszz2rrfdgh.jpeg?q=90",
@@ -70944,6 +71309,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:oil",
    "format:pack",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:urea",
    "ing:tea-tree",
@@ -71637,7 +72003,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/l/1/50-1-salicylic-acid-moisturising-face-cream-for-acne-blemish-original-imahn7bnvksv7drz.jpeg?q=90",
@@ -71654,6 +72021,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:lotion",
    "spf:30",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:aloe-vera",
@@ -71757,7 +72125,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/skin-treatment/c/3/8/75-working-it-s-magic-while-dream-night-mask-wanwan-original-imahhac6tu7fhy6h.jpeg?q=90",
@@ -71775,6 +72144,7 @@ const CTPRODUCTS = [
    "format:lotion",
    "format:sleeping-mask",
    "spf:30",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:aloe-vera",
@@ -72304,7 +72674,8 @@ const CTPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.2★ from 12 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/m/n/p/300-1-salicylic-acid-daily-exfoliating-body-lotion-dermease-original-imagzw4wmqh9aymr.jpeg?q=90",
@@ -72321,6 +72692,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:lotion",
    "format:body-wax",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
    "ing:cocoa-butter",
@@ -72438,7 +72810,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/r/k/r/250-1-salicylic-acid-oil-free-water-based-moisturizer-back-acne-original-imahfbxypgywmygy.jpeg?q=90",
@@ -72456,6 +72829,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:scrub",
    "format:wash",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -72643,7 +73017,7 @@ const CTPRODUCTS = [
  {
   "id": "floral-beauty-itmc6ae9e2300650",
   "brand": "FLORAL BEAUTY",
-  "model": "pee wash foe men pee Wash - Lactic Acid, Salicylic …",
+  "model": "pee wash foe men pee Wash - Lactic Acid, Salicylic Acid | ,pee wash for men",
   "price": 138,
   "capacityLine": "100 ml",
   "materialLine": "salicylic acid (BHA) + lactic acid",
@@ -72689,7 +73063,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/floral-beauty-pee-wash-foe-men-lactic-acid-salicylic-acid-pee/p/itmc6ae9e2300650",
   "buyStore": "Flipkart",
-  "title": "FLORAL BEAUTY pee wash foe men pee Wash - Lactic Acid, Salicylic …",
+  "title": "FLORAL BEAUTY pee wash foe men pee Wash - Lactic Acid, Salicylic Acid | ,pee wash for men",
   "tags": [
    "scope:both",
    "format:gel",
@@ -73011,7 +73385,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/skin-treatment/q/9/a/20-massa-skin-care-gel-with-1-salicylic-acid-exfoliating-gel-for-original-imahzw9t4xwyszbr.jpeg?q=90",
@@ -73025,6 +73400,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:cream",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "claim:exfoliating",
    "skin:all",
@@ -73118,7 +73494,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/skin-treatment/y/p/y/30-10-niacinamide-face-serum-with-salicylic-acid-for-acne-marks-original-imahqkk87u4ecrdu.jpeg?q=90",
@@ -73132,6 +73509,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:serum",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "claim:stretch-marks",
@@ -73565,7 +73943,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.3★ from 151 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/m/6/s/50-aha-bha-wart-removal-cream-advanced-skin-treatment-pack-of-1-original-imahmn6qxzhzeyhn.jpeg?q=90",
@@ -73582,6 +73961,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:oil",
    "format:kit",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
    "ing:aha",
@@ -73677,7 +74057,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.9★ from 177 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/q/a/e/50-aha-bha-wart-removal-cream-50g-exfoliating-formula-for-smooth-original-imahmn7x6qyjyvmd.jpeg?q=90",
@@ -73694,6 +74075,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:oil",
    "format:kit",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
    "ing:aha",
@@ -73792,7 +74174,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.5★ from 6 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/v/x/1/600-10-aha-1-bha-body-lotion-treats-strawberry-legs-bumpy-skin-original-imahj3783trmmhbh.jpeg?q=90",
@@ -73807,6 +74190,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:lotion",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
    "ing:lactic-acid",
@@ -74984,7 +75368,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "5★ from 63 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/a/e/200-acnexpert-body-lotion-with-green-tea-salicylic-acid-moody-original-imagwuyyq5xedgmu.jpeg?q=90",
@@ -75000,6 +75385,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:lotion",
    "sun:mineral",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:green-tea",
    "ing:zinc",
@@ -75094,7 +75480,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/7/j/o/120-aloe-vera-gel-with-salicylic-acid-and-cucumber-extract-for-original-imahnntssthqfatu.jpeg?q=90",
@@ -75111,6 +75498,7 @@ const CTPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:kit",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:salicylic-acid-bha",
    "ing:glutathione",
@@ -75214,7 +75602,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/1/t/6/30-12-niacinamide-serum-with-salicylic-acid-reduce-acne-marks-in-original-imahh5w7qfuzpgzm.jpeg?q=90",
@@ -75233,6 +75622,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:kit",
    "spf:30",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:saffron",
@@ -75778,7 +76168,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/soap/m/1/i/2-250-anti-acne-back-pimple-removal-neem-body-wash-oil-free-original-imah9pk5mfjtwduz.jpeg?q=90",
@@ -75795,6 +76186,7 @@ const CTPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:wash",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -76029,7 +76421,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.4★ from 91 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/1/d/50-1-salicylic-acid-oil-free-moisturizer-oily-skin-acne-pimples-original-imahptkg6zbqyfde.jpeg?q=90",
@@ -76045,6 +76438,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:oil",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -76253,7 +76647,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/6/y/m/15-2-salicylic-acid-acne-care-gel-for-spot-redness-relief-pore-original-imahzqu9wuwgjxmu.jpeg?q=90",
@@ -76270,6 +76665,7 @@ const CTPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:lotion",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:cocoa-butter",
@@ -76377,7 +76773,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.9★ from 23 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/n/p/50-salicylic-acid-oil-free-water-based-face-moisturizer-for-oily-original-imahphgagpa7tjwq.jpeg?q=90",
@@ -76393,6 +76790,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:oil",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:salicylic-acid-bha",
    "ing:green-tea",
@@ -76620,7 +77018,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/face-pack/k/y/d/100-wart-removal-cream-100g-for-women-men-herbal-skin-care-original-imahzgn4hdtskghm.jpeg?q=90",
@@ -76635,6 +77034,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
    "ing:aha",
@@ -76795,131 +77195,6 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "dermistry-itm22b505321b8aa",
-  "brand": "Dermistry",
-  "model": "1% Salicylic Acid Acne Spots Scars Corrector Day Night …",
-  "price": 450,
-  "capacityLine": "80 ml",
-  "materialLine": "vitamin C + niacinamide + retinol",
-  "featureLine": "Scrub / exfoliant · Paraben-free · ₹563/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [
-   "Well-reviewed: 4.8★ from 6 ratings"
-  ],
-  "cons": [
-   "Only 5 ingredients named — formula unscored",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
-   "experience": 5.7
-  },
-  "fullSpec": {
-   "quantity": "80 ml",
-   "pricePer100": "₹563/100ml",
-   "format": "Scrub / exfoliant",
-   "keyIngredients": "vitamin C, niacinamide, retinol, salicylic acid (BHA), tea tree, honey (per listing)",
-   "freeFrom": "Paraben-free (seller claim — not scored)",
-   "dermTested": "Dermatologically tested (seller claim — not scored)",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, Brightening/glow claim, Anti-aging claim, Acne/blemish claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "All Skin Types, Oily Skin",
-   "rating": "4.8/5 (6 ratings, Flipkart)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Only 5 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: Niacianamide, VitaminC, Niacinamide, Retinol, Acid",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.8★ from 6 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
-  },
-  "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/f/l/d/80-vitamin-c-oil-free-anti-acne-pimple-remover-mattifying-original-imahcgrze5wqyc9m.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/face-wash/3/a/x/230-2-salicylic-acid-exfoliation-spot-corrector-serum-oil-original-imah9zhg8b4byzxa.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/face-wash/i/m/0/230-2-salicylic-acid-exfoliation-spot-corrector-serum-oil-original-imah9zhgah2hgdfy.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/4/s/n/50-oil-free-mattifying-moisturizer-face-acne-prone-skin-original-imah9n7ymq3vj4ze.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/p/j/50-oil-free-mattifying-moisturizer-face-acne-prone-skin-original-imah9n7yc5s6xujn.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/dermistry-1-salicylic-acid-acne-spots-scars-corrector-day-night-moisturizer-face-serum/p/itm22b505321b8aa",
-  "buyStore": "Flipkart",
-  "title": "DERMISTRY 1% Salicylic Acid Acne Spots Scars Corrector Day Night …",
-  "tags": [
-   "scope:both",
-   "format:cream",
-   "format:serum",
-   "format:oil",
-   "format:scrub",
-   "format:wash",
-   "ing:vitamin-c",
-   "ing:niacinamide",
-   "ing:retinol",
-   "ing:salicylic-acid-bha",
-   "ing:tea-tree",
-   "ing:honey",
-   "claim:brightening",
-   "claim:anti-aging",
-   "claim:acne",
-   "claim:pores",
-   "claim:oil-control",
-   "claim:hydrating",
-   "claim:scars",
-   "skin:oily",
-   "skin:all",
-   "free:paraben",
-   "free:derm",
-   "free:vegan",
-   "aud:women",
-   "size:standard",
-   "rating:4.5",
-   "store:flipkart",
-   "target:acne",
-   "inci:partial"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": true,
-   "natural": true,
-   "derm": true,
-   "men": false,
-   "women": true,
-   "inci": "partial",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Niacianamide, VitaminC, Niacinamide, Retinol, Acid",
-   "inciNote": "Only 5 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 0.8,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.8★ from 6 ratings"
-  }
- },
- {
   "id": "dermistry-itm28fcfcfaaf20f",
   "brand": "Dermistry",
   "model": "Salicylic Acid Acne Oil Control Open Pores Spot Removal …",
@@ -76962,7 +77237,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.3★ from 4 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/s/c/q/80-salicylic-acid-acne-oil-control-open-pores-spot-removal-original-imahfbtfnuer3uxy.jpeg?q=90",
@@ -76980,6 +77256,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:oil",
    "format:wash",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -77043,22 +77320,24 @@ const CTPRODUCTS = [
  {
   "id": "koxa-itmca2a0c0d16f99",
   "brand": "KOXA",
-  "model": "3X Acid Anti-Acne Gel Moisturizer with Salicylic, Lactic & L …",
+  "model": "3X Acid Anti-Acne Gel Moisturizer with Salicylic, Lactic & Lactobionic Acid",
   "price": 300,
   "capacityLine": "30 g",
   "materialLine": "retinol + salicylic acid (BHA) + lactic acid",
   "featureLine": "Essence · ₹1000/100g",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. Scored from its published INCI list (Flipkart listing — Specifications › Composition): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "salicylic acid high on the INCI list (strong evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): aroma",
    "Maker not verified — no parent company found",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 4.1,
+   "skin": 5.9,
+   "trust": 5.5,
    "experience": 0
   },
   "fullSpec": {
@@ -77075,14 +77354,15 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
+   "inciSource": "Flipkart listing — Specifications › Composition",
+   "inciList": "aqua, butylene glycol, dimethicone/vinyl dimethicone crosspolymer, cyclopentasiloxane, trehalose, panthenol, lactobionic acid, lactic acid, glycerin, cyclohexasiloxane, 1.2-hexanediol, hydroxyacetophenone, carbomer, methyl-gluceth-20, salicylic acid, sophora flavescens root extract, ammonium acryloyldimethyltaurate/vp copoly-mer, pentylene glycol, ophiopogon japonicus root extract, opuntia ficus-indica stem extract, portulaca oleracea extract, tribulus terrestris fruit extract, sodium hydroxide, disodium edta, 10-hydroxydecanoic acid, arginine/lysine polypeptide, ectoin, peg-40 hydrogenated castor oil, cornus officinalis fruit extract, aroma, ci 42090, maltodextrin, acacia senegal gum, centella asiatica leaf extract, glycolic acid, sodium magnesium silicate, citric acid, xanthan gum",
+   "evidenceActives": "salicylic acid (#14 on list, strong evidence)",
+   "safetyFlags": "Added fragrance (parfum): aroma (−1.5)",
    "maker": "Maker not verified (no parent company found)",
+   "declaredManufacturer": "MADE IN PRC (as printed on the Flipkart listing — not scored)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type, salicylic acid #14 on INCI; Irritation — panthenol #6 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/x/j/a/30-3x-acid-anti-acne-gel-moisturizer-with-salicylic-lactic-original-imahkyya8hmhtrq9.jpeg?q=90",
@@ -77093,7 +77373,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/koxa-3x-acid-anti-acne-gel-moisturizer-salicylic-lactic-lactobionic/p/itmca2a0c0d16f99",
   "buyStore": "Flipkart",
-  "title": "KOXA 3X Acid Anti-Acne Gel Moisturizer with Salicylic, Lactic & L …",
+  "title": "KOXA 3X Acid Anti-Acne Gel Moisturizer with Salicylic, Lactic & Lactobionic Acid",
   "tags": [
    "scope:face",
    "format:gel",
@@ -77115,7 +77395,8 @@ const CTPRODUCTS = [
    "rating:none",
    "store:flipkart",
    "target:acne",
-   "inci:none"
+   "target:irritation",
+   "inci:full"
   ],
   "filters": {
    "actives": true,
@@ -77124,27 +77405,98 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "listing",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
+   "inci": "full",
+   "inciSource": "Flipkart listing — Specifications › Composition",
+   "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
-   "inciText": null,
+   "inciText": "aqua, butylene glycol, dimethicone/vinyl dimethicone crosspolymer, cyclopentasiloxane, trehalose, panthenol, lactobionic acid, lactic acid, glycerin, cyclohexasiloxane, 1.2-hexanediol, hydroxyacetophenone, carbomer, methyl-gluceth-20, salicylic acid, sophora flavescens root extract, ammonium acryloyldimethyltaurate/vp copoly-mer, pentylene glycol, ophiopogon japonicus root extract, opuntia ficus-indica stem extract, portulaca oleracea extract, tribulus terrestris fruit extract, sodium hydroxide, disodium edta, 10-hydroxydecanoic acid, arginine/lysine polypeptide, ectoin, peg-40 hydrogenated castor oil, cornus officinalis fruit extract, aroma, ci 42090, maltodextrin, acacia senegal gum, centella asiatica leaf extract, glycolic acid, sodium magnesium silicate, citric acid, xanthan gum",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 6,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "lactobionic acid",
+     "grade": "B",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 14,
+     "core": true,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "glycolic acid",
+     "grade": "A",
+     "position": 34,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 36,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    }
+   ],
+   "support": [
+    "butylene glycol",
+    "panthenol",
+    "glycerin"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "aroma"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -77199,7 +77551,8 @@ const CTPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.5★ from 204 ratings",
-   "concernBasis": "Acne — product type, niacinamide #12 on INCI, salicylic acid #13 on INCI; Dark spots — niacinamide #12 on INCI; Irritation — aloe barbadensis leaf juice #2 on INCI, panthenol #14 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — product type, niacinamide #12 on INCI, salicylic acid #13 on INCI; Dark spots — niacinamide #12 on INCI; Irritation — aloe barbadensis leaf juice #2 on INCI, panthenol #14 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/s/l/l/400-10-aha-2-bha-body-lotion-spf-30-pa-for-back-body-acne-original-imahzrzhzdjh5rdr.jpeg?q=90",
@@ -77214,6 +77567,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:lotion",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:aha",
    "ing:strawberry",
@@ -77573,7 +77927,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/c/b/e/200-care-forest-fern-aha-bha-4-in-1-exfoliating-body-moisturizer-original-imahgsa2b5rkpghd.jpeg?q=90",
@@ -77591,6 +77946,7 @@ const CTPRODUCTS = [
    "format:lotion",
    "spf:30",
    "pa:+",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:aha",
    "claim:exfoliating",
@@ -86922,6 +87278,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:powder",
    "format:wash",
+   "format:cleansing-oil",
    "ing:salicylic-acid-bha",
    "ing:walnut",
    "claim:acne",
@@ -100274,15 +100631,16 @@ const CTPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "salicylic acid (BHA) + PHA",
   "featureLine": "Scrub / exfoliant · ₹1497/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. Scored from its published INCI list (Amazon.in listing — Important information › Ingredients): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "mandelic acid high on the INCI list (moderate evidence); salicylic acid high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 6.3,
+   "skin": 9,
+   "trust": 7,
    "experience": 1.3
   },
   "fullSpec": {
@@ -100299,14 +100657,14 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "3.8/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Aqua, Water & Vaccinium Myrtillus Fruit/Leaf Extract & Saccharum Officinarum (Sugar Cane) Extract & Citrus Aurantium Dulcis (Orange) Fruit Extract & Citrus Limon (Lemon) Fruit Extract & Acer Saccharum (Sugar Maple) Extract, Aloe Vera Leaf Extract^, Propanediol, Mandelic Acid (and) Succinic Acid (and) Tartaric Acid, Water (and) Glycerin (and) Gluconolactone (and) Honey (and) Lactobionic Acid, Cocamidopropyl Dimethylamine, Salicylic Acid, Water, Polysorbate 80, Phenoxyethanol, Ethylhexylglycerin, Carthamus Tinctorius (Safflower) Seed Oil, Olea Europaea (Olive) Fruit Oil, Sodium Benzoate (and) Potassium Sorbate, Natural Betaine*, Lactic Acid, Xanthan Gum*, Dl-Panthenol, Sodium Gluconate*",
+   "evidenceActives": "mandelic acid (#5 on list, moderate evidence); salicylic acid (#14 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "COSIQ — Indian D2C brand with its own product company",
    "buyerEvidence": "3.8★ from 0 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type, salicylic acid #14 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/718o+IbLRkL._AC_UL320_.jpg"
@@ -100329,7 +100687,8 @@ const CTPRODUCTS = [
    "rating:3.5",
    "store:amazon",
    "target:acne",
-   "inci:none"
+   "inci:full",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -100338,25 +100697,86 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "listing",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
+   "inci": "full",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
-   "inciText": null,
+   "inciText": "Aqua, Water & Vaccinium Myrtillus Fruit/Leaf Extract & Saccharum Officinarum (Sugar Cane) Extract & Citrus Aurantium Dulcis (Orange) Fruit Extract & Citrus Limon (Lemon) Fruit Extract & Acer Saccharum (Sugar Maple) Extract, Aloe Vera Leaf Extract^, Propanediol, Mandelic Acid (and) Succinic Acid (and) Tartaric Acid, Water (and) Glycerin (and) Gluconolactone (and) Honey (and) Lactobionic Acid, Cocamidopropyl Dimethylamine, Salicylic Acid, Water, Polysorbate 80, Phenoxyethanol, Ethylhexylglycerin, Carthamus Tinctorius (Safflower) Seed Oil, Olea Europaea (Olive) Fruit Oil, Sodium Benzoate (and) Potassium Sorbate, Natural Betaine*, Lactic Acid, Xanthan Gum*, Dl-Panthenol, Sodium Gluconate*",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "mandelic acid",
+     "grade": "B",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "gluconolactone",
+     "grade": "B",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "lactobionic acid",
+     "grade": "B",
+     "position": 12,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 14,
+     "core": true,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 24,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 26,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "glycerin",
+    "panthenol"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -100956,12 +101376,12 @@ const CTPRODUCTS = [
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "No ingredient list published on the listing"
+   "Only 1 ingredient named — formula unscored"
   ],
   "scores": {
    "ingredients": 0,
    "skin": 0,
-   "trust": 6.5,
+   "trust": 6.8,
    "experience": 2.6
   },
   "fullSpec": {
@@ -100978,9 +101398,9 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.2/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: Exfoliant",
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
@@ -101006,7 +101426,7 @@ const CTPRODUCTS = [
    "rating:4.0",
    "store:amazon",
    "target:acne",
-   "inci:none"
+   "inci:partial"
   ],
   "filters": {
    "actives": true,
@@ -101015,23 +101435,23 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
+   "inci": "partial",
    "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
    "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
+   "inciUnverified": "Exfoliant",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
    "declarationConfidence": null,
-   "recognised": null,
+   "recognised": 0,
    "actives": [],
    "support": [],
    "formulaNotes": [],
@@ -101054,15 +101474,16 @@ const CTPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "salicylic acid (BHA)",
   "featureLine": "Scrub / exfoliant · ₹3167/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (The Ordinary official website (theordinary.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "salicylic acid high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 6.3,
+   "skin": 10,
+   "trust": 8.5,
    "experience": 3.2
   },
   "fullSpec": {
@@ -101079,14 +101500,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.4/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "The Ordinary official website (theordinary.com) — product page › Ingredients",
+   "inciSourceUrl": "https://theordinary.com/en-in/aha-30-bha-2-peeling-solution-exfoliator-100400.html",
+   "inciMatchedName": "AHA 30% + BHA 2% Peeling Solution (name match 100%)",
+   "inciList": "Glycolic Acid, Aqua (Water), Aloe Barbadensis Leaf Water, Sodium Hydroxide, Daucus Carota Sativa Extract, Propanediol, Cocamidopropyl Dimethylamine, Salicylic Acid, Lactic Acid, Tartaric Acid, Citric Acid, Panthenol, Sodium Hyaluronate Crosspolymer, Tasmannia Lanceolata Fruit/Leaf Extract, Glycerin, Pentylene Glycol, Xanthan Gum, Polysorbate 20, Trisodium Ethylenediamine Disuccinate, Potassium Sorbate, Sodium Benzoate, Ethylhexylglycerin, 1,2-Hexanediol, Caprylyl Glycol",
+   "evidenceActives": "salicylic acid (#8 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Estée Lauder Companies — Global FMCG or beauty group",
    "buyerEvidence": "4.4★ from 0 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type, salicylic acid #8 on INCI; Irritation — panthenol #12 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51xY4ObuOEL._AC_UL320_.jpg"
@@ -101105,7 +101528,10 @@ const CTPRODUCTS = [
    "rating:4.0",
    "store:amazon",
    "target:acne",
-   "inci:none"
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -101114,25 +101540,78 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "The Ordinary official website (theordinary.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://theordinary.com/en-in/aha-30-bha-2-peeling-solution-exfoliator-100400.html",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "AHA 30% + BHA 2% Peeling Solution",
+   "inciMatchScore": 1,
+   "inciText": "Glycolic Acid, Aqua (Water), Aloe Barbadensis Leaf Water, Sodium Hydroxide, Daucus Carota Sativa Extract, Propanediol, Cocamidopropyl Dimethylamine, Salicylic Acid, Lactic Acid, Tartaric Acid, Citric Acid, Panthenol, Sodium Hyaluronate Crosspolymer, Tasmannia Lanceolata Fruit/Leaf Extract, Glycerin, Pentylene Glycol, Xanthan Gum, Polysorbate 20, Trisodium Ethylenediamine Disuccinate, Potassium Sorbate, Sodium Benzoate, Ethylhexylglycerin, 1,2-Hexanediol, Caprylyl Glycol",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycolic acid",
+     "grade": "A",
+     "position": 1,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 8,
+     "core": true,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 11,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 12,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 15,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "panthenol",
+    "glycerin"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -101463,15 +101942,16 @@ const CTPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "salicylic acid (BHA) + PHA",
   "featureLine": "Scrub / exfoliant · ₹937/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. Scored from its published INCI list (Amazon.in listing — Important information › Ingredients): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "salicylic acid high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 5.2,
+   "skin": 9,
+   "trust": 7,
    "experience": 2.2
   },
   "fullSpec": {
@@ -101488,14 +101968,14 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.1/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Propylene Glycol, Aqua, Glycolic Acid, Lactic Acid, Gluconolactone, Alpha Arbutin, 0.5% Salicylic Acid, Glycerin, Hydroxyethylcellulose, Phenoxyethanol, 3-O Ethyl Ascorbic Acid (C.i no.16035)",
+   "evidenceActives": "salicylic acid (#7 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Conscious Chemist — Indian D2C brand with its own product company",
    "buyerEvidence": "4.1★ from 0 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type, salicylic acid #7 on INCI; Dark spots — alpha-arbutin #6 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51RwKbo+xlL._AC_UL320_.jpg"
@@ -101517,7 +101997,9 @@ const CTPRODUCTS = [
    "rating:4.0",
    "store:amazon",
    "target:acne",
-   "inci:none"
+   "target:dark-spots",
+   "inci:full",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -101526,25 +102008,84 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "listing",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
+   "inci": "full",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
-   "inciText": null,
+   "inciText": "Propylene Glycol, Aqua, Glycolic Acid, Lactic Acid, Gluconolactone, Alpha Arbutin, 0.5% Salicylic Acid, Glycerin, Hydroxyethylcellulose, Phenoxyethanol, 3-O Ethyl Ascorbic Acid (C.i no.16035)",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycolic acid",
+     "grade": "A",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "gluconolactone",
+     "grade": "B",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "alpha-arbutin",
+     "grade": "B",
+     "position": 6,
+     "core": false,
+     "trace": false,
+     "src": "pigment"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "3-o-ethyl ascorbic acid",
+     "grade": "B",
+     "position": 11,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "glycerin"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -103143,15 +103684,16 @@ const CTPRODUCTS = [
   "capacityLine": "60 ml (pack of 2)",
   "materialLine": "salicylic acid (BHA)",
   "featureLine": "Scrub / exfoliant · ₹3167/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (The Ordinary official website (theordinary.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "salicylic acid high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 6.3,
+   "skin": 10,
+   "trust": 8.5,
    "experience": 3.2
   },
   "fullSpec": {
@@ -103168,14 +103710,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.4/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "The Ordinary official website (theordinary.com) — product page › Ingredients",
+   "inciSourceUrl": "https://theordinary.com/en-in/aha-30-bha-2-peeling-solution-exfoliator-100400.html",
+   "inciMatchedName": "AHA 30% + BHA 2% Peeling Solution (name match 100%)",
+   "inciList": "Glycolic Acid, Aqua (Water), Aloe Barbadensis Leaf Water, Sodium Hydroxide, Daucus Carota Sativa Extract, Propanediol, Cocamidopropyl Dimethylamine, Salicylic Acid, Lactic Acid, Tartaric Acid, Citric Acid, Panthenol, Sodium Hyaluronate Crosspolymer, Tasmannia Lanceolata Fruit/Leaf Extract, Glycerin, Pentylene Glycol, Xanthan Gum, Polysorbate 20, Trisodium Ethylenediamine Disuccinate, Potassium Sorbate, Sodium Benzoate, Ethylhexylglycerin, 1,2-Hexanediol, Caprylyl Glycol",
+   "evidenceActives": "salicylic acid (#8 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Estée Lauder Companies — Global FMCG or beauty group",
    "buyerEvidence": "4.4★ from 0 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type, salicylic acid #8 on INCI; Irritation — panthenol #12 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51i1m6pqEWL._AC_UL320_.jpg"
@@ -103195,7 +103739,10 @@ const CTPRODUCTS = [
    "rating:4.0",
    "store:amazon",
    "target:acne",
-   "inci:none"
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -103204,25 +103751,78 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "The Ordinary official website (theordinary.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://theordinary.com/en-in/aha-30-bha-2-peeling-solution-exfoliator-100400.html",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "AHA 30% + BHA 2% Peeling Solution",
+   "inciMatchScore": 1,
+   "inciText": "Glycolic Acid, Aqua (Water), Aloe Barbadensis Leaf Water, Sodium Hydroxide, Daucus Carota Sativa Extract, Propanediol, Cocamidopropyl Dimethylamine, Salicylic Acid, Lactic Acid, Tartaric Acid, Citric Acid, Panthenol, Sodium Hyaluronate Crosspolymer, Tasmannia Lanceolata Fruit/Leaf Extract, Glycerin, Pentylene Glycol, Xanthan Gum, Polysorbate 20, Trisodium Ethylenediamine Disuccinate, Potassium Sorbate, Sodium Benzoate, Ethylhexylglycerin, 1,2-Hexanediol, Caprylyl Glycol",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycolic acid",
+     "grade": "A",
+     "position": 1,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 8,
+     "core": true,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 11,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 12,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 15,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "panthenol",
+    "glycerin"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -108274,14 +108874,14 @@ const CTPRODUCTS = [
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "No ingredient list published on the listing",
+   "Too few ingredients are recognisable INCI names to treat this as the declared list, so formula and safety are unscored — formula unscored",
    "Maker not verified — no parent company found",
    "No buyer ratings yet"
   ],
   "scores": {
    "ingredients": 0,
    "skin": 0,
-   "trust": 3.5,
+   "trust": 3.8,
    "experience": 0
   },
   "fullSpec": {
@@ -108298,9 +108898,9 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
+   "inciStatus": "Too few ingredients are recognisable INCI names to treat this as the declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: Formation: Enriched with AHA, BHA, PHA 5%, Niacinamide 10%, Aloe Vera, Allantoin, Centella Asiatica.",
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
@@ -108329,7 +108929,7 @@ const CTPRODUCTS = [
    "rating:none",
    "store:amazon",
    "target:acne",
-   "inci:none"
+   "inci:partial"
   ],
   "filters": {
    "actives": true,
@@ -108338,23 +108938,23 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
+   "inci": "partial",
    "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
    "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
+   "inciUnverified": "Formation: Enriched with AHA, BHA, PHA 5%, Niacinamide 10%, Aloe Vera, Allantoin, Centella Asiatica.",
+   "inciNote": "Too few ingredients are recognisable INCI names to treat this as the declared list, so formula and safety are unscored",
    "declarationConfidence": null,
-   "recognised": null,
+   "recognised": 0.71,
    "actives": [],
    "support": [],
    "formulaNotes": [],
@@ -110202,7 +110802,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.3★ from 0 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/611VNdxAulL._SL1500_.jpg",
@@ -110218,6 +110819,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:wash",
    "sun:mineral",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:aha",
@@ -111994,15 +112596,16 @@ const CTPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "salicylic acid (BHA)",
   "featureLine": "Serum · ₹2000/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (The Ordinary official website (theordinary.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "salicylic acid high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 6.1,
+   "skin": 10,
+   "trust": 8.5,
    "experience": 3.2
   },
   "fullSpec": {
@@ -112019,14 +112622,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.4/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "The Ordinary official website (theordinary.com) — product page › Ingredients",
+   "inciSourceUrl": "https://theordinary.com/en-in/salicylic-acid-2-solution-exfoliator-100619.html",
+   "inciMatchedName": "Salicylic Acid 2% Solution (name match 100%)",
+   "inciList": "Aqua/Water/Eau, Pentylene Glycol, Saccharide Isomerate, Salicylic Acid, Glycerin, Isoceteth-20, Xanthan Gum, Citric Acid, Sodium Citrate, Sodium Hydroxide, Phenoxyethanol, Chlorphenesin",
+   "evidenceActives": "salicylic acid (#4 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Estée Lauder Companies — Global FMCG or beauty group",
    "buyerEvidence": "4.4★ from 0 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type, salicylic acid #4 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51PetDa205L._AC_UL320_.jpg"
@@ -112044,7 +112649,9 @@ const CTPRODUCTS = [
    "rating:4.0",
    "store:amazon",
    "target:acne",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -112053,25 +112660,52 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "The Ordinary official website (theordinary.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://theordinary.com/en-in/salicylic-acid-2-solution-exfoliator-100619.html",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Salicylic Acid 2% Solution",
+   "inciMatchScore": 1,
+   "inciText": "Aqua/Water/Eau, Pentylene Glycol, Saccharide Isomerate, Salicylic Acid, Glycerin, Isoceteth-20, Xanthan Gum, Citric Acid, Sodium Citrate, Sodium Hydroxide, Phenoxyethanol, Chlorphenesin",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.83,
+   "actives": [
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    }
+   ],
+   "support": [
+    "glycerin"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -112195,16 +112829,18 @@ const CTPRODUCTS = [
   "capacityLine": "30 g",
   "materialLine": "salicylic acid (BHA) + tranexamic acid",
   "featureLine": "Serum · ₹740/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. Scored from its published INCI list (Amazon.in listing — Important information › Ingredients): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "salicylic acid high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 4.6,
+   "skin": 7,
+   "trust": 5.5,
    "experience": 1.9
   },
   "fullSpec": {
@@ -112221,14 +112857,14 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.0/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Aqua, Betaine, Glycerin, Salicylic Acid, Tranexamic Acid, Sodium Hydroxide, Sodium Hyaluronate, Ethylhexylglycerin, Phenoxyethanol, Sodium Gluconate, Tricholoma Matsutake (Mushroom) Extract. 1% Niacinamide. Kakadu Plum. Aqua",
+   "evidenceActives": "salicylic acid (#4 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4★ from 0 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type, salicylic acid #4 on INCI; Dark spots — tranexamic acid #5 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51q-NSM31oL._AC_UL320_.jpg"
@@ -112251,7 +112887,9 @@ const CTPRODUCTS = [
    "rating:4.0",
    "store:amazon",
    "target:acne",
-   "inci:none"
+   "target:dark-spots",
+   "inci:full",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -112260,25 +112898,61 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "listing",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
+   "inci": "full",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
-   "inciText": null,
+   "inciText": "Aqua, Betaine, Glycerin, Salicylic Acid, Tranexamic Acid, Sodium Hydroxide, Sodium Hyaluronate, Ethylhexylglycerin, Phenoxyethanol, Sodium Gluconate, Tricholoma Matsutake (Mushroom) Extract. 1% Niacinamide. Kakadu Plum. Aqua",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "tranexamic acid",
+     "grade": "B",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "tranexamic"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "sodium hyaluronate"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -112822,16 +113496,18 @@ const CTPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "salicylic acid (BHA) + PHA",
   "featureLine": "Scrub / exfoliant",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. Scored from its published INCI list (Amazon.in listing — Important information › Ingredients): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "salicylic acid high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 4.4,
+   "skin": 7,
+   "trust": 5.5,
    "experience": 2.9
   },
   "fullSpec": {
@@ -112848,14 +113524,14 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.3/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Aqua, Propylene Glycol, Salicylic Acid, Gluconolactone, Lactobionic Acid, Honey, Glycerine, Phenoxyethanol, Hydroxyethyl Cellulose, Ethylhexylglycerine, Sodium Gluconate.",
+   "evidenceActives": "salicylic acid (#3 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.3★ from 0 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type, salicylic acid #3 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61Vyi5-C9FL._AC_UL320_.jpg"
@@ -112877,7 +113553,8 @@ const CTPRODUCTS = [
    "rating:4.0",
    "store:amazon",
    "target:acne",
-   "inci:none"
+   "inci:full",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -112886,25 +113563,60 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "listing",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
+   "inci": "full",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
-   "inciText": null,
+   "inciText": "Aqua, Propylene Glycol, Salicylic Acid, Gluconolactone, Lactobionic Acid, Honey, Glycerine, Phenoxyethanol, Hydroxyethyl Cellulose, Ethylhexylglycerine, Sodium Gluconate.",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "gluconolactone",
+     "grade": "B",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "lactobionic acid",
+     "grade": "B",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    }
+   ],
+   "support": [
+    "glycerin"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -118988,7 +119700,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.3★ from 0 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71QUS0TQzkL._SL1500_.jpg",
@@ -119005,6 +119718,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:oil",
    "format:wash",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "claim:acne",
    "claim:pores",
@@ -133893,6 +134607,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:wash",
+   "format:cleansing-oil",
    "ing:salicylic-acid-bha",
    "ing:green-tea",
    "claim:acne",
@@ -136487,6 +137202,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:wash",
+   "format:cleansing-oil",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -137018,6 +137734,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:wash",
+   "format:cleansing-oil",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -137560,6 +138277,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:wash",
+   "format:cleansing-oil",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -137777,6 +138495,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:wash",
+   "format:cleansing-oil",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -137885,6 +138604,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:wash",
+   "format:cleansing-oil",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -137993,6 +138713,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:wash",
+   "format:cleansing-oil",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -138101,6 +138822,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:wash",
+   "format:cleansing-oil",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -138530,6 +139252,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:wash",
+   "format:cleansing-oil",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -141391,16 +142114,18 @@ const CTPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "salicylic acid (BHA)",
   "featureLine": "Serum · ₹1330/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Dr. Sakhiya's official website (drsakhiyas.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "salicylic acid high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 4.6,
+   "skin": 7,
+   "trust": 5.5,
    "experience": 2.2
   },
   "fullSpec": {
@@ -141417,14 +142142,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.1/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Dr. Sakhiya's official website (drsakhiyas.com) — product page › Ingredients",
+   "inciSourceUrl": "https://drsakhiyas.com/products/2-salicylic-acid-serum",
+   "inciMatchedName": "2% Salicylic Acid - Anti Acne/Pimple Face Serum (name match 100%)",
+   "inciList": "Aqua, Betaine, Salicylic Acid, Glycerin, Glyceryl Glucoside, Saccharide Isomerate, Citric Acid, Sodium Citrate, Sodium Hydroxide, Sodium Benzoate, Potassium Sorbate, Sodium Hyaluronate, Sodium Gluconate, Equisetum Arvense Extract, Hamamelis Virginiana Water, Benzoic Acid, Xantham Gum",
+   "evidenceActives": "salicylic acid (#3 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.1★ from 0 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type, salicylic acid #3 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61Ng0sjesVL._AC_UL320_.jpg"
@@ -141446,7 +142173,9 @@ const CTPRODUCTS = [
    "rating:4.0",
    "store:amazon",
    "target:acne",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -141455,25 +142184,61 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Dr. Sakhiya's official website (drsakhiyas.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://drsakhiyas.com/products/2-salicylic-acid-serum",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "2% Salicylic Acid - Anti Acne/Pimple Face Serum",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Betaine, Salicylic Acid, Glycerin, Glyceryl Glucoside, Saccharide Isomerate, Citric Acid, Sodium Citrate, Sodium Hydroxide, Sodium Benzoate, Potassium Sorbate, Sodium Hyaluronate, Sodium Gluconate, Equisetum Arvense Extract, Hamamelis Virginiana Water, Benzoic Acid, Xantham Gum",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 0.94,
+   "actives": [
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 12,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "sodium hyaluronate"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -145108,17 +145873,19 @@ const CTPRODUCTS = [
   "capacityLine": "60 ml (pack of 2)",
   "materialLine": "salicylic acid (BHA)",
   "featureLine": "Serum · ₹1565/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Dr. Sakhiya's official website (drsakhiyas.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "salicylic acid high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
    "Maker not verified — no parent company found",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 4.6,
+   "skin": 7,
+   "trust": 5.5,
    "experience": 0
   },
   "fullSpec": {
@@ -145135,14 +145902,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Dr. Sakhiya's official website (drsakhiyas.com) — product page › Ingredients",
+   "inciSourceUrl": "https://drsakhiyas.com/products/2-salicylic-acid-serum",
+   "inciMatchedName": "2% Salicylic Acid - Anti Acne/Pimple Face Serum (name match 95%)",
+   "inciList": "Aqua, Betaine, Salicylic Acid, Glycerin, Glyceryl Glucoside, Saccharide Isomerate, Citric Acid, Sodium Citrate, Sodium Hydroxide, Sodium Benzoate, Potassium Sorbate, Sodium Hyaluronate, Sodium Gluconate, Equisetum Arvense Extract, Hamamelis Virginiana Water, Benzoic Acid, Xantham Gum",
+   "evidenceActives": "salicylic acid (#3 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type, salicylic acid #3 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61HeYvQlCBL._AC_UL320_.jpg"
@@ -145164,7 +145933,9 @@ const CTPRODUCTS = [
    "rating:none",
    "store:amazon",
    "target:acne",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -145173,25 +145944,61 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Dr. Sakhiya's official website (drsakhiyas.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://drsakhiyas.com/products/2-salicylic-acid-serum",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "2% Salicylic Acid - Anti Acne/Pimple Face Serum",
+   "inciMatchScore": 0.95,
+   "inciText": "Aqua, Betaine, Salicylic Acid, Glycerin, Glyceryl Glucoside, Saccharide Isomerate, Citric Acid, Sodium Citrate, Sodium Hydroxide, Sodium Benzoate, Potassium Sorbate, Sodium Hyaluronate, Sodium Gluconate, Equisetum Arvense Extract, Hamamelis Virginiana Water, Benzoic Acid, Xantham Gum",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 0.94,
+   "actives": [
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 12,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "sodium hyaluronate"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -146271,16 +147078,18 @@ const CTPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "salicylic acid (BHA)",
   "featureLine": "Serum · ₹1473/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Dr. Sakhiya's official website (drsakhiyas.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "salicylic acid high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 4.6,
+   "skin": 7,
+   "trust": 5.5,
    "experience": 0.3
   },
   "fullSpec": {
@@ -146297,14 +147106,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "3.5/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Dr. Sakhiya's official website (drsakhiyas.com) — product page › Ingredients",
+   "inciSourceUrl": "https://drsakhiyas.com/products/2-salicylic-acid-serum",
+   "inciMatchedName": "2% Salicylic Acid - Anti Acne/Pimple Face Serum (name match 95%)",
+   "inciList": "Aqua, Betaine, Salicylic Acid, Glycerin, Glyceryl Glucoside, Saccharide Isomerate, Citric Acid, Sodium Citrate, Sodium Hydroxide, Sodium Benzoate, Potassium Sorbate, Sodium Hyaluronate, Sodium Gluconate, Equisetum Arvense Extract, Hamamelis Virginiana Water, Benzoic Acid, Xantham Gum",
+   "evidenceActives": "salicylic acid (#3 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.5★ from 0 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type, salicylic acid #3 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/617od57A+BL._AC_UL320_.jpg"
@@ -146325,7 +147136,9 @@ const CTPRODUCTS = [
    "rating:3.5",
    "store:amazon",
    "target:acne",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -146334,25 +147147,61 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Dr. Sakhiya's official website (drsakhiyas.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://drsakhiyas.com/products/2-salicylic-acid-serum",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "2% Salicylic Acid - Anti Acne/Pimple Face Serum",
+   "inciMatchScore": 0.95,
+   "inciText": "Aqua, Betaine, Salicylic Acid, Glycerin, Glyceryl Glucoside, Saccharide Isomerate, Citric Acid, Sodium Citrate, Sodium Hydroxide, Sodium Benzoate, Potassium Sorbate, Sodium Hyaluronate, Sodium Gluconate, Equisetum Arvense Extract, Hamamelis Virginiana Water, Benzoic Acid, Xantham Gum",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 0.94,
+   "actives": [
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 12,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "sodium hyaluronate"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -151909,13 +152758,13 @@ const CTPRODUCTS = [
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "No ingredient list published on the listing",
+   "Only 4 ingredients named — formula unscored",
    "Maker not verified — no parent company found"
   ],
   "scores": {
    "ingredients": 0,
    "skin": 0,
-   "trust": 3.5,
+   "trust": 3.8,
    "experience": 2.9
   },
   "fullSpec": {
@@ -151932,9 +152781,9 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.3/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
+   "inciStatus": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: Top notes: Citrus, Fruity Notes. Heart notes: Floral Notes. Base notes: Musk, Amber, Woody Notes",
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
@@ -151968,7 +152817,7 @@ const CTPRODUCTS = [
    "rating:4.0",
    "store:amazon",
    "target:acne",
-   "inci:none"
+   "inci:partial"
   ],
   "filters": {
    "actives": true,
@@ -151977,23 +152826,23 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
+   "inci": "partial",
    "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
    "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
+   "inciUnverified": "Top notes: Citrus, Fruity Notes. Heart notes: Floral Notes. Base notes: Musk, Amber, Woody Notes",
+   "inciNote": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
    "declarationConfidence": null,
-   "recognised": null,
+   "recognised": 0.5,
    "actives": [],
    "support": [],
    "formulaNotes": [],
@@ -153306,17 +154155,17 @@ const CTPRODUCTS = [
   "capacityLine": "29 ml",
   "materialLine": "salicylic acid (BHA) + mandelic acid + PHA",
   "featureLine": "Scrub / exfoliant · ₹341/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Amazon listing. Scored from its published INCI list (Amazon.in listing — Important information › Ingredients): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
+   "mandelic acid high on the INCI list (moderate evidence); salicylic acid high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list",
    "Made by Galderma (dermatology / pharma maker)"
   ],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 8,
+   "ingredients": 6.6,
+   "skin": 10,
+   "trust": 10,
    "experience": 2.6
   },
   "fullSpec": {
@@ -153333,14 +154182,14 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.2/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "AQUA, GLYCERIN, ISOPROPYL PALMITATE, BUTYROSPERMUM PARKII BUTTER, CETEARYL ALCOHOL, GLUCONOLACTONE, GLYCERYL STEARATE, PEG-100 STEARATE, DIMETHICONE, MANDELIC ACID, TOCOPHERYL ACETATE, SODIUM HYDROXIDE, PANTHENOL, E T H Y L H E X Y L G L Y C E R I N , NIACINAMIDE, PHENOXYETHANOL, XANTHAN GUM, DISODIUM EDTA, SALICYLIC ACID, PANTOLACTONE, CITRIC ACID.",
+   "evidenceActives": "mandelic acid (#9 on list, moderate evidence); salicylic acid (#18 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Galderma — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "4.2★ from 0 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type; Irritation — panthenol #12 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61uwM5vQhaL._AC_UL320_.jpg"
@@ -153366,7 +154215,9 @@ const CTPRODUCTS = [
    "rating:4.0",
    "store:amazon",
    "target:acne",
-   "inci:none",
+   "target:irritation",
+   "inci:full",
+   "inci:no-fragrance",
    "inci:pharma-maker"
   ],
   "filters": {
@@ -153376,25 +154227,112 @@ const CTPRODUCTS = [
    "derm": true,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "listing",
    "pharma": true
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
+   "inci": "full",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
-   "inciText": null,
+   "inciText": "AQUA, GLYCERIN, ISOPROPYL PALMITATE, BUTYROSPERMUM PARKII BUTTER, CETEARYL ALCOHOL, GLUCONOLACTONE, GLYCERYL STEARATE, PEG-100 STEARATE, DIMETHICONE, MANDELIC ACID, TOCOPHERYL ACETATE, SODIUM HYDROXIDE, PANTHENOL, E T H Y L H E X Y L G L Y C E R I N , NIACINAMIDE, PHENOXYETHANOL, XANTHAN GUM, DISODIUM EDTA, SALICYLIC ACID, PANTOLACTONE, CITRIC ACID.",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "gluconolactone",
+     "grade": "B",
+     "position": 6,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "mandelic acid",
+     "grade": "B",
+     "position": 9,
+     "core": true,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 12,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 14,
+     "core": false,
+     "trace": true,
+     "src": "niacinamide"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 18,
+     "core": true,
+     "trace": true,
+     "src": "bha"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 20,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "butyrospermum parkii butter",
+    "dimethicone",
+    "panthenol",
+    "niacinamide"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -153857,7 +154795,8 @@ const CTPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "WishCare — Indian D2C brand with its own product company",
    "buyerEvidence": "4.3★ from 0 ratings",
-   "concernBasis": "Acne — product type, niacinamide #9 on INCI, salicylic acid #10 on INCI; Dark spots — niacinamide #9 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — product type, niacinamide #9 on INCI, salicylic acid #10 on INCI; Dark spots — niacinamide #9 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41IubZZgVTL._AC_UL320_.jpg"
@@ -153870,6 +154809,7 @@ const CTPRODUCTS = [
    "format:lotion",
    "format:kit",
    "spf:50",
+   "water:unstated",
    "ing:niacinamide",
    "ing:retinol",
    "ing:salicylic-acid-bha",
@@ -156554,6 +157494,7 @@ const CTPRODUCTS = [
    "claim:kp",
    "claim:lightweight",
    "claim:ingrown",
+   "claim:razor-burn",
    "skin:dry",
    "skin:sensitive",
    "free:derm",
@@ -163811,6 +164752,7 @@ const CTPRODUCTS = [
    "claim:soothing",
    "claim:ingrown",
    "claim:hair-removal",
+   "claim:razor-burn",
    "free:derm",
    "aud:unisex",
    "rating:4.0",
@@ -166168,7 +167110,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51eiZX+lGwL._SL1500_.jpg",
@@ -166185,6 +167128,7 @@ const CTPRODUCTS = [
    "format:cream",
    "spf:30",
    "pa:+++",
+   "water:unstated",
    "ing:retinol",
    "ing:salicylic-acid-bha",
    "ing:ubtan",
@@ -170514,7 +171458,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.2★ from 0 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51D8eq7RBGL._AC_UL320_.jpg"
@@ -170528,6 +171473,7 @@ const CTPRODUCTS = [
    "format:wash",
    "format:kit",
    "spf:30",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:vitamin-e",
@@ -170728,7 +171674,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.8★ from 0 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71m+xz6JxoL._AC_UL320_.jpg"
@@ -170741,6 +171688,7 @@ const CTPRODUCTS = [
    "format:gel",
    "spf:50",
    "pa:++++",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:hyaluronic-acid",
@@ -171262,7 +172210,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51-uGHtvRrL._AC_UL320_.jpg"
@@ -171274,6 +172223,7 @@ const CTPRODUCTS = [
    "scope:body",
    "format:lotion",
    "format:oil",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:aha",
    "ing:green-tea",
@@ -173684,7 +174634,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/715zuYjOfkL._AC_UL320_.jpg"
@@ -173699,6 +174650,7 @@ const CTPRODUCTS = [
    "format:kit",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "claim:spf-claim",
    "skin:oily",
@@ -174727,7 +175679,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/2/q/c/10-aha-bha-body-scrub-hocl-spray-exfoliation-skin-protection-original-imahf52qzswnuptb.jpeg?q=90",
@@ -174750,6 +175703,7 @@ const CTPRODUCTS = [
    "format:micellar",
    "format:roll-on",
    "format:kit",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:salicylic-acid-bha",
    "ing:aha",
@@ -175192,7 +176146,8 @@ const CTPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type, niacinamide #14 on INCI, salicylic acid #15 on INCI; Dark spots — niacinamide #14 on INCI, glycyrrhiza glabra root extract #18 on INCI; Irritation — aloe barbadensis leaf juice #2 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — product type, niacinamide #14 on INCI, salicylic acid #15 on INCI; Dark spots — niacinamide #14 on INCI, glycyrrhiza glabra root extract #18 on INCI; Irritation — aloe barbadensis leaf juice #2 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/t/o/a/400-10-aha-2-bha-body-lotion-spf-30-for-bumpy-rough-strawberry-original-imahphzh4sekusf2.jpeg?q=90",
@@ -175208,6 +176163,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:lotion",
    "spf:30",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:aha",
    "ing:strawberry",
@@ -175531,7 +176487,8 @@ const CTPRODUCTS = [
    "maker": "Maker not verified (no parent company found)",
    "declaredManufacturer": "Brillare Science Pvt. Ltd. (as printed on the Flipkart listing — not scored)",
    "buyerEvidence": "4.2★ from 83 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/g/l/v/120-care-addict-broad-spectrum-spf-50-pa-uv-protect-pack-of-2-na-original-imahhmgf6jgzrdu5.jpeg?q=90",
@@ -175543,6 +176500,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:peel",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:aha",
    "claim:exfoliating",
@@ -176103,7 +177061,7 @@ const CTPRODUCTS = [
  {
   "id": "ryllz-essentials-itm76b267c3953c4",
   "brand": "RYLLZ ESSENTIALS",
-  "model": "AHA PHA BHA Face Toner | Mild Exfoliation, Acne …",
+  "model": "AHA PHA BHA Face Toner | Mild Exfoliation, Acne Control Men & Women",
   "price": 234,
   "capacityLine": "200 ml",
   "materialLine": "salicylic acid (BHA) + PHA",
@@ -176154,7 +177112,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/ryllz-essentials-aha-pha-bha-face-toner-mild-exfoliation-acne-control-men-women/p/itm76b267c3953c4",
   "buyStore": "Flipkart",
-  "title": "RYLLZ ESSENTIALS AHA PHA BHA Face Toner | Mild Exfoliation, Acne …",
+  "title": "RYLLZ ESSENTIALS AHA PHA BHA Face Toner | Mild Exfoliation, Acne Control Men & Women",
   "tags": [
    "scope:face",
    "format:toner",
@@ -177703,7 +178661,7 @@ const CTPRODUCTS = [
  {
   "id": "cosmacube-itm3f7a75ba6a934",
   "brand": "cosmacube",
-  "model": "Exfolyn Exfoliating Body Wash | Lactic & Salicylic Acid …",
+  "model": "Exfolyn Exfoliating Body Wash | Lactic & Salicylic Acid | Men & Women: Buy cosmacube Exfol…",
   "price": 307,
   "capacityLine": "210 ml",
   "materialLine": "salicylic acid (BHA) + lactic acid + caffeine",
@@ -177711,14 +178669,14 @@ const CTPRODUCTS = [
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "No ingredient list published on the listing",
+   "Only 5 ingredients named — formula unscored",
    "Maker not verified — no parent company found",
    "No buyer ratings yet"
   ],
   "scores": {
    "ingredients": 0,
    "skin": 0,
-   "trust": 3.5,
+   "trust": 3.8,
    "experience": 0
   },
   "fullSpec": {
@@ -177730,17 +178688,18 @@ const CTPRODUCTS = [
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
    "benefit": "Not stated in listing",
-   "audience": "Unisex / not stated",
+   "audience": "Marketed for women",
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
+   "inciStatus": "Only 5 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Specifications › Composition",
+   "inciList": "Unverified seller line: Lactic Acid (AHA), Salicylic Acid (BHA), Rice Bran Beads, Murumuru Beads, Hyaluronic Acid",
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
+   "declaredManufacturer": "Prelord Pharmaceuticals (ISO 9001:2015 & GMP Certified) Village Kailer, P.O. Saproon, Teh. & Distt. Solan (H.P.) - 173211 (as printed on the Flipkart listing — not scored)",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
@@ -177753,7 +178712,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/cosmacube-exfolyn-exfoliating-body-wash-lactic-salicylic-acid-men-women/p/itm3f7a75ba6a934",
   "buyStore": "Flipkart",
-  "title": "cosmacube Exfolyn Exfoliating Body Wash | Lactic & Salicylic Acid …",
+  "title": "cosmacube Exfolyn Exfoliating Body Wash | Lactic & Salicylic Acid | Men & Women: Buy cosmacube Exfolyn Exfoliating Body Wash | Lactic & Salicylic Acid | Men & Women at Low",
   "tags": [
    "scope:body",
    "format:gel",
@@ -177768,12 +178727,12 @@ const CTPRODUCTS = [
    "claim:soothing",
    "claim:exfoliating",
    "claim:odour",
-   "aud:unisex",
+   "aud:women",
    "size:large",
    "rating:none",
    "store:flipkart",
    "target:acne",
-   "inci:none"
+   "inci:partial"
   ],
   "filters": {
    "actives": true,
@@ -177781,24 +178740,24 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false,
-   "inci": "none",
+   "women": true,
+   "inci": "partial",
    "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Specifications › Composition",
+   "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
    "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
+   "inciUnverified": "Lactic Acid (AHA), Salicylic Acid (BHA), Rice Bran Beads, Murumuru Beads, Hyaluronic Acid",
+   "inciNote": "Only 5 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
    "declarationConfidence": null,
-   "recognised": null,
+   "recognised": 0.6,
    "actives": [],
    "support": [],
    "formulaNotes": [],
@@ -178336,7 +179295,7 @@ const CTPRODUCTS = [
  {
   "id": "dermalist-itm87ef43ff7b0a0",
   "brand": "Dermalist",
-  "model": "Exfoliating Body Wash Lactic Acid & Salicylic Acid De-T …",
+  "model": "Exfoliating Body Wash Lactic Acid & Salicylic Acid De-Tan Shower Gel Men & Women",
   "price": 437,
   "capacityLine": "490 ml",
   "materialLine": "vitamin C + salicylic acid (BHA) + lactic acid",
@@ -178387,7 +179346,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/dermalist-exfoliating-body-wash-lactic-acid-salicylic-de-tan-shower-gel-men-women/p/itm87ef43ff7b0a0",
   "buyStore": "Flipkart",
-  "title": "Dermalist Exfoliating Body Wash Lactic Acid & Salicylic Acid De-T …",
+  "title": "Dermalist Exfoliating Body Wash Lactic Acid & Salicylic Acid De-Tan Shower Gel Men & Women",
   "tags": [
    "scope:body",
    "format:gel",
@@ -180572,7 +181531,7 @@ const CTPRODUCTS = [
  {
   "id": "unbranded-itm09b03d75b3d7b",
   "brand": "Unbranded",
-  "model": "the facecraft project 2 % Salicylic + Tranexamic Exfoliate Serum …",
+  "model": "the facecraft project 2 % Salicylic + Tranexamic Exfoliate Serum for Dark Spots & Pigmenta…",
   "price": 1369,
   "capacityLine": "Quantity not stated",
   "materialLine": "salicylic acid (BHA) + tranexamic acid",
@@ -180582,13 +181541,13 @@ const CTPRODUCTS = [
    "Well-reviewed: 5★ from 5 ratings"
   ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Too few ingredients are recognisable INCI names to treat this as the declared list, so formula and safety are unscored — formula unscored",
    "Maker not verified — no parent company found"
   ],
   "scores": {
    "ingredients": 0,
    "skin": 0,
-   "trust": 3.5,
+   "trust": 3.8,
    "experience": 6.1
   },
   "fullSpec": {
@@ -180605,12 +181564,13 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "5/5 (5 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
+   "inciStatus": "Too few ingredients are recognisable INCI names to treat this as the declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Specifications › Composition",
+   "inciList": "Unverified seller line: Salicylic Acid, Tranexamic Acid, AHA Blend (Alpha Hydroxy Acids), PHA (Polyhydroxy Acids), D-Panthenol (Pro-Vitamin B5), Bakuchiol, Silymarin (Silybum marianum Fruit Extract), Glycerin, Saccharide Isomerate",
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
+   "declaredManufacturer": "Beaucience India Pvt.Ltd., I-10 DLF, Industrial Area , Phase-1, Sector 32, Faridabad, Harayana ,India -121003 (as printed on the Flipkart listing — not scored)",
    "buyerEvidence": "5★ from 5 ratings",
    "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
@@ -180623,18 +181583,19 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/facecraft-project-2-salicylic-tranexamic-exfoliate-serum-dark-spots-pigmentation-care/p/itm09b03d75b3d7b",
   "buyStore": "Flipkart",
-  "title": "the facecraft project 2 % Salicylic + Tranexamic Exfoliate Serum …",
+  "title": "the facecraft project 2 % Salicylic + Tranexamic Exfoliate Serum for Dark Spots & Pigmentation Care",
   "tags": [
    "scope:unstated",
    "format:serum",
    "ing:salicylic-acid-bha",
    "ing:tranexamic-acid",
+   "claim:dark-spots",
    "claim:exfoliating",
    "aud:unisex",
    "rating:4.5",
    "store:flipkart",
    "target:acne",
-   "inci:none"
+   "inci:partial"
   ],
   "filters": {
    "actives": true,
@@ -180643,23 +181604,23 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
+   "inci": "partial",
    "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Specifications › Composition",
+   "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
    "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
+   "inciUnverified": "Salicylic Acid, Tranexamic Acid, AHA Blend (Alpha Hydroxy Acids), PHA (Polyhydroxy Acids), D-Panthenol (Pro-Vitamin B5), Bakuchiol, Silymarin (Silybum marianum Fruit Extract), Glycerin, Saccharide Isomerate",
+   "inciNote": "Too few ingredients are recognisable INCI names to treat this as the declared list, so formula and safety are unscored",
    "declarationConfidence": null,
-   "recognised": null,
+   "recognised": 0.56,
    "actives": [],
    "support": [],
    "formulaNotes": [],
@@ -180716,7 +181677,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/y/a/9/30-salicylic-acid-acne-serum-with-hyaluronic-ferulic-acid-clears-original-imaheuyexqrhymgt.jpeg?q=90",
@@ -180732,6 +181694,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:wash",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:hyaluronic-acid",
    "ing:licorice",
@@ -180937,7 +181900,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4★ from 186 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/a/l/l/30-0-salicylic-acid-niacinamide-gel-for-pimples-oily-acne-prone-original-imahmfzv6g745nt4.jpeg?q=90",
@@ -180955,6 +181919,7 @@ const CTPRODUCTS = [
    "format:oil",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:aloe-vera",
@@ -181170,7 +182135,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/o/s/200-aha-bha-radiance-boost-for-body-care-amvira-organic-lotion-original-imahng2zftkmf6yy.jpeg?q=90",
@@ -181189,6 +182155,7 @@ const CTPRODUCTS = [
    "format:lotion",
    "format:kit",
    "spf:60",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:salicylic-acid-bha",
    "ing:aha",
@@ -181692,7 +182659,7 @@ const CTPRODUCTS = [
  {
   "id": "sneira-itmb94a213b0052b",
   "brand": "SNEIRA",
-  "model": "AHA | BHA Body Lotion With Shea Butter, Deep Nourishment & …",
+  "model": "AHA | BHA Body Lotion With Shea Butter, Deep Nourishment & Radiant Skin",
   "price": 358,
   "capacityLine": "400 ml",
   "materialLine": "salicylic acid (BHA) + shea butter",
@@ -181743,7 +182710,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/sneira-aha-bha-body-lotion-shea-butter-deep-nourishment-radiant-skin/p/itmb94a213b0052b",
   "buyStore": "Flipkart",
-  "title": "SNEIRA AHA | BHA Body Lotion With Shea Butter, Deep Nourishment & …",
+  "title": "SNEIRA AHA | BHA Body Lotion With Shea Butter, Deep Nourishment & Radiant Skin",
   "tags": [
    "scope:both",
    "format:lotion",
@@ -183929,7 +184896,8 @@ const CTPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type, salicylic acid #4 on INCI, niacinamide #5 on INCI; Dark spots — niacinamide #5 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — product type, salicylic acid #4 on INCI, niacinamide #5 on INCI; Dark spots — niacinamide #5 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/f/r/w/1200-nourishment-aha-bha-body-lotion-pack-of-3-10-aha-2-bha-milk-original-imahfh8hsnr2aepj.jpeg?q=90",
@@ -183948,6 +184916,7 @@ const CTPRODUCTS = [
    "format:kit",
    "spf:30",
    "pa:+",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:aha",
    "ing:milk",
@@ -184834,7 +185803,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/7/p/m/48-13-daily-aha-bha-cream-for-smooth-and-healthy-skin-natural-original-imahzzfhrewdkx8d.jpeg?q=90"
@@ -184845,6 +185815,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:aha",
    "claim:anti-aging",
@@ -184936,7 +185907,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/t/q/7/under-arm-roll-on-10-aha-1-bha-body-lotion-comboo-for-strawberry-original-imahgxc4ypwawzsw.jpeg?q=90",
@@ -184957,6 +185929,7 @@ const CTPRODUCTS = [
    "format:kit",
    "spf:50",
    "pa:++++",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
@@ -185062,7 +186035,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/d/v/v/2-salicylic-acid-exfoliating-body-wash-under-arm-roll-on-10-aha-original-imaheqxhcuphcfty.jpeg?q=90",
@@ -185082,6 +186056,7 @@ const CTPRODUCTS = [
    "format:kit",
    "spf:50",
    "pa:++++",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:aha",
    "claim:brightening",
@@ -186322,7 +187297,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.4★ from 5 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/t/v/b/30-32-aha-pha-bha-face-peel-serum-peeling-solution-instant-glow-original-imahh6ywa6xhkuad.jpeg?q=90",
@@ -186339,6 +187315,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:peel",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:aha",
    "ing:pha",
@@ -186433,7 +187410,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/o/f/n/30-10-glycolic-acid-aha-1-salicylic-acid-bha-serum-instant-glow-original-imahm569pwegtkhf.jpeg?q=90",
@@ -186450,6 +187428,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:peel",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
@@ -187214,7 +188193,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/7/1/h/30-bright-clear-glow-serum-with-salicylic-hyaluronic-ferulic-original-imahhna7k9zs44kz.jpeg?q=90",
@@ -187231,6 +188211,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:oil",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:hyaluronic-acid",
@@ -187336,7 +188317,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/o/o/w/30-advanced-acne-defense-serum-with-salicylic-hyaluronic-original-imahhna6mx98cgf2.jpeg?q=90",
@@ -187353,6 +188335,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:oil",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:hyaluronic-acid",
@@ -187459,7 +188442,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3★ from 7 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/body-skin-treatment/a/5/x/wart-x-5-removal-lotion-original-imae6gebyfrsf3gp.jpeg?q=90",
@@ -187475,6 +188459,7 @@ const CTPRODUCTS = [
    "scope:body",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "claim:de-tan",
    "claim:anti-aging",
@@ -188074,7 +189059,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/n/u/w/30-deep-cleansing-face-serum-for-open-pore-aha-bha-face-serum-original-imahm46zhzwq8wdj.jpeg?q=90",
@@ -188091,6 +189077,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:wash",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -188426,7 +189413,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/j/7/r/foot-roll-on-10-aha-bha-body-scrub-dual-care-combo-for-smooth-original-imahf42s9ymuafpa.jpeg?q=90",
@@ -188448,6 +189436,7 @@ const CTPRODUCTS = [
    "format:wash",
    "format:roll-on",
    "format:kit",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:salicylic-acid-bha",
    "ing:aha",
@@ -188543,7 +189532,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Lotus Herbals — Established / listed Indian FMCG house",
    "buyerEvidence": "4.2★ from 550 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/1/b/v/14-gentle-resurfacing-serum-with-aha-bha-pha-pineapple-gently-original-imahm39hkhppva7g.jpeg?q=90",
@@ -188559,6 +189549,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:wash",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:aha",
    "ing:pha",
@@ -189448,7 +190439,8 @@ const CTPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type, salicylic acid #1 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — product type, salicylic acid #1 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/q/q/9/200-glowriti-2-salicylic-acid-serum-glycolic-1-salicylic-acid-original-imahq82f3s6js2jf.jpeg?q=90",
@@ -189466,6 +190458,7 @@ const CTPRODUCTS = [
    "format:pack",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
    "ing:tea-tree",
@@ -190046,7 +191039,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/s/y/3/30-2-salicylic-acid-serum-for-acne-blackheads-pore-care-glowriti-original-imahzc7kvzs6urp6.jpeg?q=90",
@@ -190063,6 +191057,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:wash",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
@@ -190172,7 +191167,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/8/0/e/60-0-anti-acne-face-serum-salicylic-acid-glycolic-acid-green-tea-original-imahza97hpehwggb.jpeg?q=90",
@@ -190189,6 +191185,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:wash",
+   "water:unstated",
    "ing:retinol",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
@@ -190407,7 +191404,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-combo-kit/s/q/6/2-salicylic-cleanser-pha-toner-niacinamide-serum-marula-original-imahdnuhwebcfeq9.jpeg?q=90",
@@ -190424,6 +191422,7 @@ const CTPRODUCTS = [
    "format:bar",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:neem",
    "claim:brightening",
@@ -190516,7 +191515,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/5/1/s/30-salicylic-acid-2-face-serum-for-acne-blackheads-clear-skin-original-imahz9xfrm4scumg.jpeg?q=90",
@@ -190533,6 +191533,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:wash",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
@@ -190637,7 +191638,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/o/u/6/60-salicylic-acid-glycolic-acid-serum-for-men-and-women-korean-original-imahgnmjharfmdr9.jpeg?q=90",
@@ -190653,6 +191655,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
@@ -190993,7 +191996,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/i/b/m/30-anti-acne-serum-for-face-with-3-niacinamide-1-salicylic-acid-original-imahf56hzhndef2e.jpeg?q=90",
@@ -191009,6 +192013,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:ferulic-acid",
@@ -191183,7 +192188,7 @@ const CTPRODUCTS = [
  {
   "id": "brown-itm60ad32648775e",
   "brand": "BROWN",
-  "model": "SUGAR Salicylic Acid Face Serum| with Arbutin & Lactic Acid …",
+  "model": "SUGAR Salicylic Acid Face Serum| with Arbutin & Lactic Acid|Treat Acne & Acne Marks",
   "price": 366,
   "capacityLine": "Quantity not stated",
   "materialLine": "salicylic acid (BHA) + lactic acid + hyaluronic acid",
@@ -191193,13 +192198,13 @@ const CTPRODUCTS = [
    "Well-reviewed: 4.3★ from 14 ratings"
   ],
   "cons": [
-   "Only 3 ingredients named — formula unscored",
+   "No ingredient list published on the listing",
    "Maker not verified — no parent company found"
   ],
   "scores": {
    "ingredients": 0,
    "skin": 0,
-   "trust": 3.8,
+   "trust": 3.5,
    "experience": 4.5
   },
   "fullSpec": {
@@ -191216,9 +192221,9 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.3/5 (14 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Only 3 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Specifications › Composition",
-   "inciList": "Unverified seller line: Salicylic Acid, Alpha Arbutin, Hyaluronic Acid",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
@@ -191235,7 +192240,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/brown-sugar-salicylic-acid-face-serum-arbutin-lactic-acid-treat-acne-marks/p/itm60ad32648775e",
   "buyStore": "Flipkart",
-  "title": "BROWN SUGAR Salicylic Acid Face Serum| with Arbutin & Lactic Acid …",
+  "title": "BROWN SUGAR Salicylic Acid Face Serum| with Arbutin & Lactic Acid|Treat Acne & Acne Marks",
   "tags": [
    "scope:face",
    "format:serum",
@@ -191245,11 +192250,12 @@ const CTPRODUCTS = [
    "ing:alpha-arbutin",
    "ing:sugar",
    "claim:acne",
+   "claim:scars",
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
    "target:acne",
-   "inci:partial"
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -191258,23 +192264,23 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "partial",
+   "inci": "none",
    "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Specifications › Composition",
-   "inciSourceKind": "listing",
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
    "inciText": null,
-   "inciUnverified": "Salicylic Acid, Alpha Arbutin, Hyaluronic Acid",
-   "inciNote": "Only 3 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciUnverified": null,
+   "inciNote": null,
    "declarationConfidence": null,
-   "recognised": 1,
+   "recognised": null,
    "actives": [],
    "support": [],
    "formulaNotes": [],
@@ -191292,7 +192298,7 @@ const CTPRODUCTS = [
  {
   "id": "lass-natural-itm3ffa2b4a2bab1",
   "brand": "Lass Natural",
-  "model": "Glass Serum with 0.15% Salicylic Acid and Lactic aci …",
+  "model": "Glass Serum with 0.15% Salicylic Acid and Lactic acid, AHA & BHA | Glass Radiance Perfect …",
   "price": 330,
   "capacityLine": "30 ml",
   "materialLine": "salicylic acid (BHA) + lactic acid + papaya",
@@ -191342,7 +192348,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/lass-natural-glass-serum-0-15-salicylic-acid-lactic-acid-aha-bha-radiance-perfect-skin-face-soft-supple-skin/p/itm3ffa2b4a2bab1",
   "buyStore": "Flipkart",
-  "title": "Lass Natural Glass Serum with 0.15% Salicylic Acid and Lactic aci …",
+  "title": "Lass Natural Glass Serum with 0.15% Salicylic Acid and Lactic acid, AHA & BHA | Glass Radiance Perfect Skin| Face Serum for soft and supple skin",
   "tags": [
    "scope:face",
    "format:serum",
@@ -191405,7 +192411,7 @@ const CTPRODUCTS = [
  {
   "id": "biolume-aha-bha-pha-itm7803a8929e37d",
   "brand": "biolume aha bha pha",
-  "model": "face serum (30 ml)",
+  "model": "face serum",
   "price": 557,
   "capacityLine": "30 ml",
   "materialLine": "salicylic acid (BHA) + PHA",
@@ -191451,7 +192457,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/biolume-aha-bha-pha-face-serum/p/itm7803a8929e37d",
   "buyStore": "Flipkart",
-  "title": "biolume aha bha pha face serum (30 ml)",
+  "title": "biolume aha bha pha face serum",
   "tags": [
    "scope:face",
    "format:serum",
@@ -191663,7 +192669,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/5/3/f/salicylic-acid-face-serum-hocl-spray-acne-care-skin-protection-original-imahf52qabrwjnvc.jpeg?q=90",
@@ -191684,6 +192691,7 @@ const CTPRODUCTS = [
    "format:wash",
    "format:roll-on",
    "format:kit",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -191787,7 +192795,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Essential oil / volatile sensitiser: tea tree oil (−0.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type, niacinamide #4 on INCI, salicylic acid #5 on INCI, azelaic acid #7 on INCI, zinc pca #8 on INCI, melaleuca alternifolia leaf oil #9 on INCI; Dark spots — niacinamide #4 on INCI, azelaic acid #7 on INCI; Irritation — azelaic acid #7 on INCI, panthenol #11 on INCI, centella asiatica extract #13 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — product type, niacinamide #4 on INCI, salicylic acid #5 on INCI, azelaic acid #7 on INCI, zinc pca #8 on INCI, melaleuca alternifolia leaf oil #9 on INCI; Dark spots — niacinamide #4 on INCI, azelaic acid #7 on INCI; Irritation — azelaic acid #7 on INCI, panthenol #11 on INCI, centella asiatica extract #13 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/o/q/3/30-pore-reset-anti-acne-and-oil-control-serum-with-salicylic-original-imahpsgpsvuzd6he.jpeg?q=90",
@@ -191809,6 +192818,7 @@ const CTPRODUCTS = [
    "format:pack",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:niacinamide",
    "ing:retinol",
    "ing:salicylic-acid-bha",
@@ -191978,6 +192988,107 @@ const CTPRODUCTS = [
      "src": "acdsFragrance"
     }
    ],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "myupchar-ayurveda-itm4f13e892d7cee",
+  "brand": "myupchar ayurveda",
+  "model": "Kesh Art 3% Redensyl Hair Growth Serum - 50ml with 2% Salicylic Acid Face Serum - 50ml",
+  "price": 2068,
+  "capacityLine": "50 ml",
+  "materialLine": "salicylic acid (BHA)",
+  "featureLine": "Serum · ₹4136/100ml",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "50 ml",
+   "pricePer100": "₹4136/100ml",
+   "format": "Serum",
+   "keyIngredients": "salicylic acid (BHA) (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/e/4/1/kesh-art-3-redensyl-hair-growth-serum-50ml-with-2-salicylic-acid-original-imahpyyy9mxexvun.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/myupchar-ayurveda-kesh-art-3-redensyl-hair-growth-serum-50ml-2-salicylic-acid-face/p/itm4f13e892d7cee",
+  "buyStore": "Flipkart",
+  "title": "myupchar ayurveda Kesh Art 3% Redensyl Hair Growth Serum - 50ml with 2% Salicylic Acid Face Serum - 50ml",
+  "tags": [
+   "scope:face",
+   "format:serum",
+   "format:kit",
+   "ing:salicylic-acid-bha",
+   "claim:ayurvedic",
+   "aud:women",
+   "size:travel",
+   "rating:none",
+   "store:flipkart",
+   "target:acne",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -197616,7 +198727,7 @@ const CTPRODUCTS = [
  {
   "id": "acnestar-itm3507e169ad2fb",
   "brand": "acnestar",
-  "model": "Anti-Acne with Aloe Vera & Salicylic Acid Face Wash (50 …",
+  "model": "Anti-Acne with Aloe Vera & Salicylic Acid Face Wash",
   "price": 117,
   "capacityLine": "50 g",
   "materialLine": "salicylic acid (BHA) + aloe vera",
@@ -197666,7 +198777,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/acnestar-anti-acne-aloe-vera-salicylic-acid-face-wash/p/itm3507e169ad2fb",
   "buyStore": "Flipkart",
-  "title": "acnestar Anti-Acne with Aloe Vera & Salicylic Acid Face Wash (50 …",
+  "title": "acnestar Anti-Acne with Aloe Vera & Salicylic Acid Face Wash",
   "tags": [
    "scope:face",
    "format:wash",
@@ -198340,7 +199451,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/k/d/l/30-eraser-shot-aha-bha-serum-lightweight-glycolic-acid-face-original-imahzqpvc3nyk58e.jpeg?q=90",
@@ -198357,11 +199469,13 @@ const CTPRODUCTS = [
    "format:cream",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:retinal",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
    "ing:aha",
    "ing:resveratrol",
+   "ing:nad-nmn",
    "claim:brightening",
    "claim:anti-aging",
    "claim:pores",
@@ -198571,7 +199685,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.3★ from 3 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/u/8/h/aha-bha-face-wash-20-vitamin-c-serum-1-hyaluronic-sunscreen-1-original-imahjd7jqfz9ncuc.jpeg?q=90",
@@ -198588,6 +199703,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:salicylic-acid-bha",
    "ing:aha",
@@ -198682,7 +199798,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): perfume (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "5★ from 6 ratings",
-   "concernBasis": "Acne — product type, salicylic acid #13 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — product type, salicylic acid #13 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-face-wash/f/o/q/gel-100-radiant-glow-aha-bha-exfoliating-face-wash-100g-matives-original-imahj5pyy5kg5m5f.jpeg?q=90",
@@ -198699,6 +199816,7 @@ const CTPRODUCTS = [
    "format:gel",
    "format:pack",
    "format:wash",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:aha",
    "claim:brightening",
@@ -199641,7 +200759,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/9/y/d/30-blackhead-whitehead-removal-serum-aha-bha-formula-for-clean-original-imahm6htjsursd8s.jpeg?q=90",
@@ -199657,6 +200776,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:aha",
    "claim:brightening",
@@ -199823,7 +200943,7 @@ const CTPRODUCTS = [
  {
   "id": "docse-itm0076b938fd5d4",
   "brand": "DOCSE+",
-  "model": "Foaming Face Cleaner with 3% AHA, BHA,PHA Face Wash (100 m …",
+  "model": "Foaming Face Cleaner with 3% AHA, BHA,PHA Face Wash",
   "price": 343,
   "capacityLine": "100 ml",
   "materialLine": "salicylic acid (BHA) + PHA + hyaluronic acid",
@@ -199873,7 +200993,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/docse-foaming-face-cleaner-3-aha-bha-pha-wash/p/itm0076b938fd5d4",
   "buyStore": "Flipkart",
-  "title": "DOCSE+ Foaming Face Cleaner with 3% AHA, BHA,PHA Face Wash (100 m …",
+  "title": "DOCSE+ Foaming Face Cleaner with 3% AHA, BHA,PHA Face Wash",
   "tags": [
    "scope:face",
    "format:foam",
@@ -200862,6 +201982,7 @@ const CTPRODUCTS = [
    "claim:dark-spots",
    "claim:whitening-claim",
    "claim:exfoliating",
+   "claim:chapped-lips",
    "skin:oily",
    "skin:all",
    "free:paraben",
@@ -204972,7 +206093,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.9★ from 0 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51x1gd+NXhL._AC_UL320_.jpg"
@@ -204985,6 +206107,7 @@ const CTPRODUCTS = [
    "format:gel",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "claim:dark-spots",
    "claim:anti-aging",
@@ -205080,7 +206203,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.7★ from 0 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61dC3suIMBL._AC_UL320_.jpg"
@@ -205094,6 +206218,7 @@ const CTPRODUCTS = [
    "format:kit",
    "spf:50",
    "pa:++++",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:aha",
    "claim:brightening",
@@ -205633,7 +206758,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.1★ from 0 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71eAAdc0-9L._AC_UL320_.jpg"
@@ -205648,6 +206774,7 @@ const CTPRODUCTS = [
    "format:wash",
    "format:kit",
    "spf:50",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:pha",
@@ -205743,7 +206870,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.5★ from 0 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/81+73Fu2AhL._AC_UL320_.jpg"
@@ -205758,6 +206886,7 @@ const CTPRODUCTS = [
    "format:wash",
    "format:kit",
    "spf:50",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:pha",
    "ing:vitamin-b5-panthenol",
@@ -205870,6 +206999,7 @@ const CTPRODUCTS = [
    "format:toner",
    "format:oil",
    "format:wash",
+   "format:cleansing-oil",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
    "ing:aha",
@@ -208230,10 +209360,12 @@ const CTPRODUCTS = [
   "tags": [
    "scope:body",
    "format:pads",
+   "format:aftershave",
    "ing:salicylic-acid-bha",
    "ing:aha",
    "claim:exfoliating",
    "claim:ingrown",
+   "claim:razor-burn",
    "aud:women",
    "rating:4.0",
    "store:amazon",
@@ -210458,7 +211590,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41LamICfKlL._AC_UL320_.jpg"
@@ -210471,6 +211604,7 @@ const CTPRODUCTS = [
    "format:gel",
    "format:lotion",
    "spf:15",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:aha",
    "ing:lavender",
@@ -210566,7 +211700,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.2★ from 0 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41PdB3q3vsL._SL1001_.jpg"
@@ -210581,6 +211716,7 @@ const CTPRODUCTS = [
    "format:balm",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:lactic-acid",
@@ -210599,6 +211735,7 @@ const CTPRODUCTS = [
    "claim:tinted",
    "claim:spf-claim",
    "claim:dry-skin-relief",
+   "claim:chapped-lips",
    "aud:women",
    "size:travel",
    "rating:4.0",
@@ -211202,7 +212339,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51ChwE4qA7L._AC_UL320_.jpg"
@@ -211216,6 +212354,7 @@ const CTPRODUCTS = [
    "format:lotion",
    "format:kit",
    "spf:15",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:aha",
    "ing:lavender",
@@ -211620,7 +212759,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41Vz0-6UF+L._AC_UL320_.jpg"
@@ -211634,6 +212774,7 @@ const CTPRODUCTS = [
    "format:balm",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:aha",
    "ing:ceramides",
@@ -211726,7 +212867,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51ekRjFFG8L._AC_UL320_.jpg"
@@ -211740,6 +212882,7 @@ const CTPRODUCTS = [
    "format:emulsion",
    "spf:50",
    "pa:++++",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:salicylic-acid-bha",
    "ing:aha",
@@ -211832,7 +212975,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51guzV0smJL._AC_UL320_.jpg"
@@ -211846,6 +212990,7 @@ const CTPRODUCTS = [
    "format:lotion",
    "spf:50",
    "pa:++++",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:aha",
    "claim:spf-claim",
@@ -211936,7 +213081,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51TyLum2MwL._AC_UL320_.jpg"
@@ -211950,6 +213096,7 @@ const CTPRODUCTS = [
    "format:lotion",
    "spf:50",
    "pa:++++",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:aha",
    "claim:spf-claim",
@@ -212040,7 +213187,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/514uiswL3KL._AC_UL320_.jpg"
@@ -212054,6 +213202,7 @@ const CTPRODUCTS = [
    "format:lotion",
    "spf:50",
    "pa:++++",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:aha",
    "claim:spf-claim",
@@ -212144,7 +213293,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/511rahTM2LL._AC_UL320_.jpg"
@@ -212158,6 +213308,7 @@ const CTPRODUCTS = [
    "format:lotion",
    "spf:50",
    "pa:++++",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:aha",
    "claim:spf-claim",
@@ -213895,7 +215046,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.1★ from 0 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61LIRWAKi8L._AC_UL320_.jpg"
@@ -213910,6 +215062,7 @@ const CTPRODUCTS = [
    "spf:50",
    "pa:+++",
    "sun:mineral",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:aha",
    "ing:pha",
@@ -214124,7 +215277,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.8★ from 0 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61hfpg-cV6L._AC_UL320_.jpg"
@@ -214138,6 +215292,7 @@ const CTPRODUCTS = [
    "format:peel",
    "spf:60",
    "pa:++++",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:aha",
    "ing:pha",
@@ -216662,7 +217817,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Heavenly Secrets — Indian D2C brand with its own product company",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/4128poa45bL._AC_UL320_.jpg"
@@ -216676,6 +217832,7 @@ const CTPRODUCTS = [
    "format:peel",
    "spf:50",
    "pa:++++",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -222275,16 +223432,18 @@ const CTPRODUCTS = [
   "capacityLine": "15 ml",
   "materialLine": "salicylic acid (BHA) + glycolic acid + lactic acid",
   "featureLine": "Other · ₹8327/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Dr. Sakhiya's official website (drsakhiyas.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "mandelic acid high on the INCI list (moderate evidence); salicylic acid high on the INCI list (strong evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): fragrance",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 5.4,
+   "skin": 5.9,
+   "trust": 5.5,
    "experience": 0.6
   },
   "fullSpec": {
@@ -222301,14 +223460,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "3.6/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Dr. Sakhiya's official website (drsakhiyas.com) — product page › Ingredients",
+   "inciSourceUrl": "https://drsakhiyas.com/products/aha-bha-peel",
+   "inciMatchedName": "DR. SAKHIYA'S 30% AHA + 2 % BHA homebased QUICKPEEL for healthy, hydrating & glowing skin - With 10% Glycolic Acid + 10% Lactic Acid + 2% Salicylic Acid + 10% Mandelic Acid combined with Plant Extracts, Caffeine- 15 ML (name match 100%)",
+   "inciList": "Glycolic Acid, Mandelic Acid, Lactic Acid, Salicylic Acid, Xanthan Gum, Glycerin, Butylene Glycol, Edta, Sodium Citrate, Baking Soda, D Panthenol, Denatured Alcohol, Ethylhexylglycerin, Phenoxyethanol, Peg-60hydrogenated Castor Oil, Hydroxyethylcellulose, Saccharide Isomerte, Fragrance, Water",
+   "evidenceActives": "mandelic acid (#2 on list, moderate evidence); salicylic acid (#4 on list, strong evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.6★ from 0 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type, salicylic acid #4 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61q1wlvrwWL._AC_UL320_.jpg"
@@ -222331,7 +223492,8 @@ const CTPRODUCTS = [
    "rating:3.5",
    "store:amazon",
    "target:acne",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "actives": true,
@@ -222340,27 +223502,81 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Dr. Sakhiya's official website (drsakhiyas.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://drsakhiyas.com/products/aha-bha-peel",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "DR. SAKHIYA'S 30% AHA + 2 % BHA homebased QUICKPEEL for healthy, hydrating & glowing skin - With 10% Glycolic Acid + 10% Lactic Acid + 2% Salicylic Acid + 10% Mandelic Acid combined with Plant Extracts, Caffeine- 15 ML",
+   "inciMatchScore": 1,
+   "inciText": "Glycolic Acid, Mandelic Acid, Lactic Acid, Salicylic Acid, Xanthan Gum, Glycerin, Butylene Glycol, Edta, Sodium Citrate, Baking Soda, D Panthenol, Denatured Alcohol, Ethylhexylglycerin, Phenoxyethanol, Peg-60hydrogenated Castor Oil, Hydroxyethylcellulose, Saccharide Isomerte, Fragrance, Water",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 0.89,
+   "actives": [
+    {
+     "name": "glycolic acid",
+     "grade": "A",
+     "position": 1,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "mandelic acid",
+     "grade": "B",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 6,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "butylene glycol"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -233159,7 +234375,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "5★ from 0 ratings",
-   "concernBasis": "Acne — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51f3JiwaIlL._AC_UL320_.jpg"
@@ -233172,6 +234389,7 @@ const CTPRODUCTS = [
    "format:gel",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:hyaluronic-acid",
@@ -233224,6 +234442,239 @@ const CTPRODUCTS = [
     "url": null
    },
    "buyers": "5★ from 0 ratings"
+  }
+ },
+ {
+  "id": "deconstruct-itm5d2b7bf91a225",
+  "brand": "Deconstruct",
+  "model": "Sunscreen - SPF 50 PA++++ 2% Salicylic Acid| For acne prone skin, oily, dry & combination …",
+  "price": 404,
+  "capacityLine": "50 g",
+  "materialLine": "salicylic acid (BHA)",
+  "featureLine": "Sunscreen · Paraben-free · SPF 50 · ₹808/100g",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "Well-reviewed: 4.6★ from 155 ratings"
+  ],
+  "cons": [
+   "Only 4 ingredients named — formula unscored"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 5.3,
+   "experience": 6.9
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹808/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "salicylic acid (BHA) (per listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Acne/blemish claim, SPF 50",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types, Combination Skin, Oily Skin",
+   "rating": "4.6/5 (155 ratings, Flipkart)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: Salicylic Acid, Ectoin, UV Filter Complex, Glycerin",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Deconstruct Skincare — Indian D2C brand with its own product company",
+   "buyerEvidence": "4.6★ from 155 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/r/f/o/50-2-salicylic-acid-for-acne-prone-skin-oily-dry-combination-original-imahzfdmjjmd3xvc.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/f/i/d/50-2-salicylic-acid-for-acne-prone-skin-oily-dry-combination-original-imahzfdmjqxvncwc.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/t/v/l/50-2-salicylic-acid-for-acne-prone-skin-oily-dry-combination-original-imahzfdmx8jpyxwe.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/w/t/b/50-2-salicylic-acid-for-acne-prone-skin-oily-dry-combination-original-imahzfdmytsysbyd.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/o/s/b/100-fluid-brightening-sunscreen-with-niacinamide-brightens-skin-original-imahm224gt8x4zr4.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/deconstruct-sunscreen-spf-50-pa-2-salicylic-acid-acne-prone-skin-oily-dry-combination-skin/p/itm5d2b7bf91a225",
+  "buyStore": "Flipkart",
+  "title": "Deconstruct Sunscreen - SPF 50 PA++++ 2% Salicylic Acid| For acne prone skin, oily, dry & combination skin",
+  "tags": [
+   "scope:face",
+   "format:gel",
+   "spf:50",
+   "pa:++++",
+   "water:unstated",
+   "ing:salicylic-acid-bha",
+   "ing:glycerin",
+   "claim:acne",
+   "claim:broad-spectrum",
+   "claim:spf-claim",
+   "skin:oily",
+   "skin:combination",
+   "skin:acne-prone",
+   "skin:all",
+   "free:paraben",
+   "free:vegan",
+   "aud:women",
+   "size:travel",
+   "rating:4.5",
+   "store:flipkart",
+   "target:acne",
+   "inci:partial"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Salicylic Acid, Ectoin, UV Filter Complex, Glycerin",
+   "inciNote": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 0.75,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Deconstruct Skincare",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://deconstruct.in/"
+   },
+   "buyers": "4.6★ from 155 ratings"
+  }
+ },
+ {
+  "id": "deconstruct-b0h5cxxtcz",
+  "brand": "Deconstruct",
+  "model": "2% Salicylic Acid Sunscreen SPF 50 PA++++ | Sunscreen for acne prone skin, oily, dry and c…",
+  "price": 404,
+  "capacityLine": "50 g",
+  "materialLine": "salicylic acid (BHA)",
+  "featureLine": "Sunscreen · SPF 50 · ₹808/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 5,
+   "experience": 3.8
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹808/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "salicylic acid (BHA) (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Acne/blemish claim, SPF 50",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.6/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Deconstruct Skincare — Indian D2C brand with its own product company",
+   "buyerEvidence": "4.6★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/41pVDKFwFVL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/51jd0u+1daL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/51dMPw6AUkL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/51KO5pxjD6L._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/615opagqk5L._SL1080_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H5CXXTCZ",
+  "buyStore": "Amazon",
+  "title": "Deconstruct 2% Salicylic Acid Sunscreen SPF 50 PA++++ | Sunscreen for acne prone skin, oily, dry and combination | Unclogs Pores | Controls Excess Oil | Matte Finish | Lightweight, Quick Absorb | For Oily & Acne-Prone Skin | For Men & Women 50g",
+  "tags": [
+   "scope:unstated",
+   "format:gel",
+   "spf:50",
+   "pa:++++",
+   "water:unstated",
+   "ing:salicylic-acid-bha",
+   "claim:acne",
+   "claim:pores",
+   "claim:oil-control",
+   "claim:barrier",
+   "claim:exfoliating",
+   "claim:broad-spectrum",
+   "claim:lightweight",
+   "claim:spf-claim",
+   "skin:oily",
+   "skin:combination",
+   "skin:acne-prone",
+   "aud:women",
+   "size:travel",
+   "rating:4.5",
+   "store:amazon",
+   "target:acne",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Deconstruct Skincare",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://deconstruct.in/"
+   },
+   "buyers": "4.6★ from 0 ratings"
   }
  }
 ];

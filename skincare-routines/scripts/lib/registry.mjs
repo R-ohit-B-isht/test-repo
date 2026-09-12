@@ -9,7 +9,7 @@ const HAIR = 'hair';
 
 // `target` (skin concern: acne / dark spots / aging / irritation) is derived from the verified INCI and product type, not seller copy.
 const CORE_FACETS = ['inci', 'scope', 'target', 'format', 'ing', 'claim', 'free', 'skin', 'aud', 'size', 'rating', 'store'];
-const SUN_FACETS = ['inci', 'scope', 'target', 'spf', 'pa', 'sun', 'format', 'ing', 'claim', 'free', 'skin', 'aud', 'size', 'rating', 'store'];
+const SUN_FACETS = ['inci', 'scope', 'target', 'spf', 'pa', 'sun', 'water', 'format', 'ing', 'claim', 'free', 'skin', 'aud', 'size', 'rating', 'store'];
 // Hair pages swap face/body scope for scalp/lengths, skin type for hair type, and benefit claims for hair concerns.
 const HAIR_FACETS = ['inci', 'area', 'format', 'ing', 'concern', 'free', 'hair', 'aud', 'size', 'rating', 'store'];
 
@@ -77,9 +77,9 @@ export const CATEGORIES = [
   },
   {
     id: 'sunscreen', label: 'Sunscreen', kicker: 'PROTECT', zone: BOTH,
-    blurb: 'SPF for face and body — mineral, chemical and hybrid; gels, sticks, sprays and tinted.',
+    blurb: 'SPF for face and body — mineral, chemical and hybrid; gels, sticks, sprays and tinted. Water / sweat resistance is read from each label (40 or 80 min, sweat-proof, swim & sport) and filters the list — it is never scored.',
     file: 'ct-data-sunscreen.js', global: 'CTPRODUCTS', facets: SUN_FACETS,
-    featured: ['scope:face', 'scope:body', 'spf:50', 'spf:50+', 'pa:++++', 'sun:mineral', 'format:gel', 'format:stick', 'format:mist', 'claim:tinted', 'claim:no-white-cast', 'claim:water-resistant', 'claim:de-tan', 'ing:green-tea', 'ing:vitamin-c', 'ing:niacinamide'],
+    featured: ['water:80', 'water:40', 'water:resistant', 'water:sweat', 'water:sport', 'scope:face', 'scope:body', 'spf:50', 'spf:50+', 'pa:++++', 'sun:mineral', 'format:gel', 'format:stick', 'format:mist', 'claim:tinted', 'claim:no-white-cast', 'claim:de-tan', 'ing:green-tea', 'ing:vitamin-c', 'ing:niacinamide'],
   },
   {
     id: 'facemask', label: 'Face masks', kicker: 'MASK', zone: FACE,
@@ -334,7 +334,7 @@ export const CATEGORIES = [
     id: 'bodysunscreen', label: 'Body sunscreen', kicker: 'PROTECT', zone: BODY,
     blurb: 'Sunscreen lotions, sprays and sticks whose own listing names the body, arms, legs or neck — split out from the face-first Sunscreen page. Same UV-filter and UVA checks.',
     file: 'nx-data-bodysunscreen.js', global: 'NXPRODUCTS', facets: SUN_FACETS,
-    featured: ['spf:50', 'spf:50+', 'pa:++++', 'sun:mineral', 'sun:hybrid', 'format:lotion', 'format:mist', 'format:stick', 'format:gel', 'claim:water-resistant', 'claim:no-white-cast', 'claim:de-tan', 'claim:broad-spectrum', 'free:oxybenzone'],
+    featured: ['water:80', 'water:40', 'water:resistant', 'water:sweat', 'water:sport', 'spf:50', 'spf:50+', 'pa:++++', 'sun:mineral', 'sun:hybrid', 'format:lotion', 'format:mist', 'format:stick', 'format:gel', 'claim:no-white-cast', 'claim:de-tan', 'claim:broad-spectrum', 'free:oxybenzone'],
   },
   {
     id: 'stretchmark', label: 'Stretch-mark cream', kicker: 'MARKS', zone: BODY,

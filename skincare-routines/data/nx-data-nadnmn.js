@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-11.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-12.
 // Unknown fields are honestly marked, never invented.
 const NXPRODUCTS = [
  {
@@ -1554,7 +1554,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/z/r/v/30-nmn-retinol-boosting-serum-for-fine-lines-and-pore-care-original-imahnxqqzeavgzpq.jpeg?q=90",
@@ -1568,6 +1569,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
+   "water:unstated",
    "ing:retinol",
    "ing:nad-nmn",
    "claim:brightening",
@@ -2645,7 +2647,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/4/t/d/3-long-lasting-moisturizing-lip-blam-gift-for-women-teenage-original-imah8evuhe2jvyfy.jpeg?q=90",
@@ -2662,6 +2665,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "spf:50",
+   "water:unstated",
    "ing:coffee",
    "claim:hydrating",
    "claim:no-white-cast",
@@ -2754,7 +2758,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/q/x/u/3-natural-lip-balm-shiny-soft-formula-1-nadja-original-imahdqz8npedmbtf.jpeg?q=90",
@@ -2771,6 +2776,7 @@ const NXPRODUCTS = [
    "format:stick",
    "format:balm",
    "format:pack",
+   "water:resistant",
    "ing:peptides",
    "ing:shea-butter",
    "claim:dark-spots",
@@ -2866,7 +2872,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/r/l/f/3-6-lip-balm-best-for-dry-lips-long-lasting-1-bluemermaid-original-imagyhgfddyn2rph.jpeg?q=90",
@@ -2884,6 +2891,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:pack",
    "format:kit",
+   "water:resistant",
    "ing:peptides",
    "ing:shea-butter",
    "claim:dark-spots",
@@ -3513,7 +3521,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/b/d/7/18-6-colors-roll-on-lip-gloss-lip-oil-moisturizing-6-usbk-original-imahfyz8bkhyszr3.jpeg?q=90",
@@ -3530,6 +3539,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "format:pack",
+   "water:resistant",
    "ing:peptides",
    "ing:shea-butter",
    "claim:dark-spots",
@@ -3839,7 +3849,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/p/n/c/18-new-color-changing-hydrating-moisturising-lip-oil-6-nadja-original-imahkfzrtxfrzzjq.jpeg?q=90",
@@ -3856,6 +3867,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "format:pack",
+   "water:resistant",
    "ing:peptides",
    "ing:shea-butter",
    "claim:dark-spots",
@@ -5679,7 +5691,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61LPgOBNHyL._SL1500_.jpg",
@@ -5694,6 +5707,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
+   "water:unstated",
    "ing:niacinamide",
    "ing:retinol",
    "ing:hyaluronic-acid",
@@ -9959,7 +9973,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.9★ from 0 ratings",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/613edw0y9XL._SL1500_.jpg",
@@ -9975,6 +9990,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:oil",
+   "water:unstated",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:alpha-arbutin",
@@ -14466,7 +14482,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61u38q+hmoL._SL1500_.jpg",
@@ -14481,6 +14498,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "ing:allantoin",
@@ -14697,7 +14715,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.1★ from 0 ratings",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61iFbD0CVlL._SL1500_.jpg",
@@ -14712,6 +14731,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
    "ing:vitamin-e",
@@ -16873,7 +16893,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "5★ from 0 ratings",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61k4BciKorL._SL1500_.jpg",
@@ -16888,6 +16909,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:cream",
+   "water:unstated",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:ceramides",
@@ -16988,7 +17010,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.4★ from 0 ratings",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61CD5Tzmf7L._SL1500_.jpg",
@@ -17003,6 +17026,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:cream",
+   "water:unstated",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:ceramides",
@@ -17787,7 +17811,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.3★ from 0 ratings",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61c79byJm6L._SL1500_.jpg",
@@ -17803,6 +17828,7 @@ const NXPRODUCTS = [
    "scope:unstated",
    "spf:50",
    "pa:++++",
+   "water:unstated",
    "ing:glycerin",
    "ing:nad-nmn",
    "claim:dark-spots",

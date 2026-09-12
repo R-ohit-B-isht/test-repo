@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-07.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-12.
 // Unknown fields are honestly marked, never invented.
 const CTPRODUCTS = [
  {
@@ -448,7 +448,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/7/l/x/100-rose-body-butter-body-cream-moisturizer-cream-the-glow-original-imaha4yg8sx3uvgw.jpeg?q=90",
@@ -468,6 +469,7 @@ const CTPRODUCTS = [
    "format:oil",
    "format:balm",
    "spf:15",
+   "water:resistant",
    "ing:vitamin-c",
    "ing:rose",
    "ing:cocoa-butter",
@@ -480,6 +482,7 @@ const CTPRODUCTS = [
    "claim:dry-skin-relief",
    "claim:stretch-marks",
    "claim:makeup",
+   "claim:waterproof-makeup",
    "skin:oily",
    "skin:all",
    "free:paraben",
@@ -1011,7 +1014,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
    "buyerEvidence": "4★ from 75 ratings",
-   "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/z/f/70-gluta-hya-flawless-glow-lotion-for-face-body-vaseline-lotion-original-imahehuzgbag4tky.jpeg?q=90",
@@ -1029,6 +1033,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:lotion",
    "format:serum",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "claim:brightening",
    "claim:whitening-claim",
@@ -1497,7 +1502,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/6/j/200-super-bright-skin-nourishing-moisturizing-body-lotion-aha-original-imahnukwqxhszy6y.jpeg?q=90",
@@ -1517,6 +1523,7 @@ const CTPRODUCTS = [
    "format:balm",
    "format:scrub",
    "format:wash",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:aha",
@@ -1624,7 +1631,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/2/i/u/252-aha-bha-exfoliating-body-lotion-with-coconut-oil-vitamin-e-original-imahha6gqpevkm9e.jpeg?q=90",
@@ -1643,6 +1651,7 @@ const CTPRODUCTS = [
    "format:lotion",
    "format:oil",
    "format:kit",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:aha",
    "ing:cucumber",
@@ -2633,7 +2642,7 @@ const CTPRODUCTS = [
  {
   "id": "fixderma-itme2dfdf81d0ff3",
   "brand": "Fixderma",
-  "model": "Dewrav 10% AHA 1% BHA Deep Exfoliating Body Lotion with …",
+  "model": "Dewrav 10% AHA 1% BHA Deep Exfoliating Body Lotion with Lactic & Salicylic Acid",
   "price": 536,
   "capacityLine": "200 ml",
   "materialLine": "salicylic acid (BHA) + lactic acid + colloidal oatmeal",
@@ -2683,7 +2692,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/fixderma-dewrav-10-aha-1-bha-deep-exfoliating-body-lotion-lactic-salicylic-acid/p/itme2dfdf81d0ff3",
   "buyStore": "Flipkart",
-  "title": "Fixderma Dewrav 10% AHA 1% BHA Deep Exfoliating Body Lotion with …",
+  "title": "Fixderma Dewrav 10% AHA 1% BHA Deep Exfoliating Body Lotion with Lactic & Salicylic Acid",
   "tags": [
    "scope:both",
    "format:lotion",
@@ -3225,7 +3234,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/f/5/6/200-aloe-vera-face-body-moisturizer-gel-for-moisturizes-cools-original-imahnzusfag6a88q.jpeg?q=90",
@@ -3244,6 +3254,7 @@ const CTPRODUCTS = [
    "format:toner",
    "format:clay-mask",
    "format:kit",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:rose",
    "ing:clay",
@@ -3570,7 +3581,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/1/m/n/100-body-butter-shea-butter-cocoa-butter-vitamin-e-24-hr-original-imahqqvtarhn37u8.jpeg?q=90",
@@ -3586,6 +3598,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:balm",
    "format:scrub",
+   "water:unstated",
    "ing:shea-butter",
    "ing:cocoa-butter",
    "ing:vitamin-e",
@@ -3851,7 +3864,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/9/c/0/200-deep-nourish-body-lotion-24h-deep-moisture-extra-dry-skin-original-imahhjvkazcezczj.jpeg?q=90",
@@ -3869,6 +3883,7 @@ const CTPRODUCTS = [
    "format:lotion",
    "format:oil",
    "format:kit",
+   "water:unstated",
    "claim:hydrating",
    "claim:long-lasting",
    "claim:dry-skin-relief",
@@ -3967,7 +3982,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/x/g/100-deep-nourishment-body-butter-with-cocoa-almond-oils-zobha-original-imaheejftgykhynb.jpeg?q=90",
@@ -3986,7 +4002,7 @@ const CTPRODUCTS = [
    "format:oil",
    "format:balm",
    "format:powder",
-   "format:body-wax",
+   "water:unstated",
    "ing:almond",
    "ing:cocoa-butter",
    "ing:glycerin",
@@ -4093,7 +4109,8 @@ const CTPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — aloe barbadensis leaf juice #3 on INCI (matching only — not proof it works)"
+   "concernBasis": "Irritation — aloe barbadensis leaf juice #3 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-moisturizer-cream/n/s/8/200-aloe-vera-body-lotion-refreshing-hydration-with-goodness-of-original-imah7gk2jaz26aty.jpeg?q=90",
@@ -4113,6 +4130,7 @@ const CTPRODUCTS = [
    "format:balm",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:aloe-vera",
    "ing:cocoa-butter",
@@ -4977,7 +4995,8 @@ const CTPRODUCTS = [
    "evidenceActives": "urea (#2 on list, strong evidence); glycerin (#3 on list, strong evidence); butyrospermum parkii butter (#4 on list, moderate evidence); dimethicone (#12 on list, moderate evidence); tocopheryl acetate (#16 on list, moderate evidence); ceramide np (#25 on list, moderate evidence); ceramide ap (#26 on list, moderate evidence); ceramide eop (#27 on list, moderate evidence); cholesterol (#29 on list, moderate evidence)",
    "safetyFlags": "Added fragrance (parfum): perfume (−1.5); Formaldehyde-releasing preservative: imidazolidinyl urea (−1.5)",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.4★ from 5,391 ratings"
+   "buyerEvidence": "4.4★ from 5,391 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/z/x/300-10-urea-body-lotion-48-hour-dry-skin-relief-for-very-dry-original-imahgg3nn3nv8jkf.jpeg?q=90",
@@ -4992,6 +5011,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:lotion",
+   "water:unstated",
    "ing:urea",
    "claim:hydrating",
    "claim:long-lasting",
@@ -5510,7 +5530,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/7/u/7/150-moisturizing-body-lotion-with-squalane-shea-butter-deep-original-imahjnayzkeangqm.jpeg?q=90",
@@ -5530,6 +5551,7 @@ const CTPRODUCTS = [
    "format:kit",
    "spf:30",
    "pa:+++",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:collagen",
    "ing:glutathione",
@@ -5877,11 +5899,11 @@ const CTPRODUCTS = [
  {
   "id": "dr-sheth-s-itm304d9a447b98a",
   "brand": "Dr. Sheth's",
-  "model": "Tea Tree & Lactic Acid Body Lotion | Treats Body Acne …",
+  "model": "Tea Tree & Lactic Acid Body Lotion | Treats Body Acne, Exfoliating & Non Sticky",
   "price": 80,
   "capacityLine": "300 ml",
   "materialLine": "lactic acid + tea tree",
-  "featureLine": "Lotion · ₹27/100ml",
+  "featureLine": "Scrub / exfoliant · ₹27/100ml",
   "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Dr. Sheth's official website (drsheths.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "lactic acid high on the INCI list (strong evidence); dimethicone high on the INCI list (moderate evidence)"
@@ -5898,7 +5920,7 @@ const CTPRODUCTS = [
   "fullSpec": {
    "quantity": "300 ml",
    "pricePer100": "₹27/100ml",
-   "format": "Lotion",
+   "format": "Scrub / exfoliant",
    "keyIngredients": "lactic acid, tea tree (per listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
@@ -5929,13 +5951,15 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/dr-sheths-tea-tree-lactic-acid-body-lotion-treats-acne-exfoliating-non-sticky/p/itm304d9a447b98a",
   "buyStore": "Flipkart",
-  "title": "Dr. Sheth’s Tea Tree & Lactic Acid Body Lotion | Treats Body Acne …",
+  "title": "Dr. Sheth’s Tea Tree & Lactic Acid Body Lotion | Treats Body Acne, Exfoliating & Non Sticky",
   "tags": [
    "scope:body",
    "format:lotion",
    "ing:lactic-acid",
    "ing:tea-tree",
    "claim:acne",
+   "claim:oil-control",
+   "claim:exfoliating",
    "aud:unisex",
    "size:xl",
    "rating:4.0",
@@ -6490,7 +6514,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 37 ratings"
+   "buyerEvidence": "4.4★ from 37 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/q/k/350-10-urea-body-lotion-0-5-hyaluronic-acid-4-niacinamide-original-imahgfckews3ccnt.jpeg?q=90",
@@ -6505,6 +6530,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:lotion",
+   "water:unstated",
    "ing:niacinamide",
    "ing:urea",
    "ing:hyaluronic-acid",
@@ -6807,7 +6833,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.5★ from 327 ratings"
+   "buyerEvidence": "4.5★ from 327 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/s/g/c/600-20-urea-body-lotion-for-very-dry-flaky-skin-repair-48h-original-imahgr9bvjrzj4cy.jpeg?q=90",
@@ -6823,6 +6850,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:lotion",
    "format:balm",
+   "water:unstated",
    "ing:urea",
    "ing:ceramides",
    "ing:shea-butter",
@@ -6888,7 +6916,7 @@ const CTPRODUCTS = [
  {
   "id": "be-bodywise-itma9f9a08d12dc3",
   "brand": "Be Bodywise",
-  "model": "5% Lactic Acid Body Lotion | For Improving Skin Textu …",
+  "model": "5% Lactic Acid Body Lotion | For Improving Skin Texture & Strawberry Legs",
   "price": 224,
   "capacityLine": "Quantity not stated",
   "materialLine": "lactic acid",
@@ -6942,11 +6970,14 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/bodywise-5-lactic-acid-body-lotion-improving-skin-texture-strawberry-legs/p/itma9f9a08d12dc3",
   "buyStore": "Flipkart",
-  "title": "Be Bodywise 5% Lactic Acid Body Lotion | For Improving Skin Textu …",
+  "title": "Be Bodywise 5% Lactic Acid Body Lotion | For Improving Skin Texture & Strawberry Legs",
   "tags": [
    "scope:body",
    "format:lotion",
    "ing:lactic-acid",
+   "ing:strawberry",
+   "claim:exfoliating",
+   "claim:kp",
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
@@ -7041,7 +7072,7 @@ const CTPRODUCTS = [
  {
   "id": "suganda-itm0dc9fdda3e60d",
   "brand": "Suganda",
-  "model": "Lactic Body lotion (100 ml)",
+  "model": "Lactic Body lotion",
   "price": 254,
   "capacityLine": "100 ml",
   "materialLine": "lactic acid",
@@ -7088,7 +7119,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/suganda-lactic-body-lotion/p/itm0dc9fdda3e60d",
   "buyStore": "Flipkart",
-  "title": "Suganda Lactic Body lotion (100 ml)",
+  "title": "Suganda Lactic Body lotion",
   "tags": [
    "scope:both",
    "format:lotion",
@@ -7141,11 +7172,11 @@ const CTPRODUCTS = [
  {
   "id": "fancyperks-itmb3e750228223c",
   "brand": "FANCYPERKS",
-  "model": "5% Lactic Acid Body Lotion (200 ml)",
+  "model": "5% Lactic Acid Body Lotion",
   "price": 215,
-  "capacityLine": "200 ml",
+  "capacityLine": "400 g",
   "materialLine": "lactic acid + ceramides + centella/cica",
-  "featureLine": "Scrub / exfoliant · Paraben-free · ₹108/100ml",
+  "featureLine": "Scrub / exfoliant · Paraben-free · ₹54/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -7160,8 +7191,8 @@ const CTPRODUCTS = [
    "experience": 0
   },
   "fullSpec": {
-   "quantity": "200 ml",
-   "pricePer100": "₹108/100ml",
+   "quantity": "400 g",
+   "pricePer100": "₹54/100g",
    "format": "Scrub / exfoliant",
    "keyIngredients": "lactic acid, ceramides, centella/cica, neem (per listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -7179,7 +7210,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/5/7/8/200-5-lactic-acid-body-lotion-fancyperks-lotion-original-imahpf9fbqjb2zpx.jpeg?q=90",
@@ -7190,12 +7222,13 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/fancyperks-5-lactic-acid-body-lotion/p/itmb3e750228223c",
   "buyStore": "Flipkart",
-  "title": "FANCYPERKS 5% Lactic Acid Body Lotion (200 ml)",
+  "title": "FANCYPERKS 5% Lactic Acid Body Lotion",
   "tags": [
    "scope:both",
    "format:gel",
    "format:cream",
    "format:lotion",
+   "water:unstated",
    "ing:lactic-acid",
    "ing:ceramides",
    "ing:centella-cica",
@@ -7212,7 +7245,7 @@ const CTPRODUCTS = [
    "free:paraben",
    "free:derm",
    "aud:women",
-   "size:large",
+   "size:xl",
    "rating:none",
    "store:flipkart",
    "inci:partial"
@@ -7258,7 +7291,7 @@ const CTPRODUCTS = [
  {
   "id": "samput-itmf8128be223950",
   "brand": "SAMPUT",
-  "model": "Tea Tree & Lactic Acid-Body Lotion For Men & Women-pack of …",
+  "model": "Tea Tree & Lactic Acid-Body Lotion For Men & Women-pack of 3",
   "price": 835,
   "capacityLine": "150 g (pack of 3)",
   "materialLine": "lactic acid + tea tree + aloe vera",
@@ -7296,7 +7329,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/m/a/b/250-tea-tree-lactic-acid-body-lotion-for-men-women-pack-of-3-original-imahkf5zgnuvezqe.jpeg?q=90",
@@ -7307,12 +7341,13 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/samput-tea-tree-lactic-acid-body-lotion-men-women-pack-3/p/itmf8128be223950",
   "buyStore": "Flipkart",
-  "title": "SAMPUT Tea Tree & Lactic Acid-Body Lotion For Men & Women-pack of …",
+  "title": "SAMPUT Tea Tree & Lactic Acid-Body Lotion For Men & Women-pack of 3",
   "tags": [
    "scope:both",
    "format:cream",
    "format:lotion",
    "format:kit",
+   "water:unstated",
    "ing:lactic-acid",
    "ing:tea-tree",
    "ing:aloe-vera",
@@ -7539,7 +7574,7 @@ const CTPRODUCTS = [
  {
   "id": "wow-itm4d934e5c6e1c9",
   "brand": "Wow",
-  "model": "SKIN SCIENCE Himalayan Rose With Lactic Acid Body Lotion (400 …",
+  "model": "SKIN SCIENCE Himalayan Rose With Lactic Acid Body Lotion",
   "price": 56,
   "capacityLine": "Quantity not stated",
   "materialLine": "lactic acid + rose",
@@ -7590,7 +7625,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/wow-skin-science-himalayan-rose-lactic-acid-body-lotion/p/itm4d934e5c6e1c9",
   "buyStore": "Flipkart",
-  "title": "WOW SKIN SCIENCE Himalayan Rose With Lactic Acid Body Lotion (400 …",
+  "title": "WOW SKIN SCIENCE Himalayan Rose With Lactic Acid Body Lotion",
   "tags": [
    "scope:body",
    "format:lotion",
@@ -7698,7 +7733,7 @@ const CTPRODUCTS = [
  {
   "id": "samput-itmbae9d4de2a4c8",
   "brand": "SAMPUT",
-  "model": "Tea Tree & Lactic Acid-Body Lotion For Men & Women-pack of …",
+  "model": "Tea Tree & Lactic Acid-Body Lotion For Men & Women-pack of 1",
   "price": 385,
   "capacityLine": "250 ml",
   "materialLine": "niacinamide + lactic acid + tea tree",
@@ -7736,7 +7771,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/k/2/250-tea-tree-lactic-acid-body-lotion-for-men-women-pack-of-1-original-imahhg6xmpebtkyg.jpeg?q=90",
@@ -7747,12 +7783,13 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/samput-tea-tree-lactic-acid-body-lotion-men-women-pack-1/p/itmbae9d4de2a4c8",
   "buyStore": "Flipkart",
-  "title": "SAMPUT Tea Tree & Lactic Acid-Body Lotion For Men & Women-pack of …",
+  "title": "SAMPUT Tea Tree & Lactic Acid-Body Lotion For Men & Women-pack of 1",
   "tags": [
    "scope:both",
    "format:cream",
    "format:lotion",
    "format:kit",
+   "water:unstated",
    "ing:niacinamide",
    "ing:lactic-acid",
    "ing:tea-tree",
@@ -7813,7 +7850,7 @@ const CTPRODUCTS = [
  {
   "id": "volamena-itmdc358219d0ee5",
   "brand": "Volamena",
-  "model": "Organics Tea Tree & lactic body Lotion For Exfoliates & …",
+  "model": "Organics Tea Tree & lactic body Lotion For Exfoliates & Improves skin Texture",
   "price": 122,
   "capacityLine": "200 ml",
   "materialLine": "lactic acid + tea tree",
@@ -7861,7 +7898,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/volamena-organics-tea-tree-lactic-body-lotion-exfoliates-improves-skin-texture/p/itmdc358219d0ee5",
   "buyStore": "Flipkart",
-  "title": "Volamena Organics Tea Tree & lactic body Lotion For Exfoliates & …",
+  "title": "Volamena Organics Tea Tree & lactic body Lotion For Exfoliates & Improves skin Texture",
   "tags": [
    "scope:both",
    "format:lotion",
@@ -8800,7 +8837,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.7★ from 9 ratings"
+   "buyerEvidence": "4.7★ from 9 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/9/v/3/200-deep-moisturizing-body-lotion-with-ceramide-hyaluronic-acid-original-imahguumvyzpgqtt.jpeg?q=90",
@@ -8816,6 +8854,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:lotion",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "ing:chamomile",
@@ -9138,7 +9177,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/2/9/1/200-ceramide-body-lotion-with-hyaluronic-acid-nourishing-original-imahqemzuvmthmdg.jpeg?q=90",
@@ -9153,6 +9193,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:lotion",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "claim:hydrating",
@@ -9244,7 +9285,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/w/0/200-ceramide-body-lotion-with-hyaluronic-acid-for-deep-hydration-original-imahqen6prfwc2fz.jpeg?q=90",
@@ -9259,6 +9301,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:lotion",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "claim:hydrating",
@@ -9350,7 +9393,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/2/b/q/200-strawberry-vegan-body-yogurt-for-normal-to-dry-skin-bath-original-imahghfndz63ajyu.jpeg?q=90",
@@ -9368,6 +9412,7 @@ const CTPRODUCTS = [
    "format:lotion",
    "spf:30",
    "pa:+++",
+   "water:unstated",
    "ing:strawberry",
    "claim:hydrating",
    "claim:broad-spectrum",
@@ -9565,7 +9610,8 @@ const CTPRODUCTS = [
    "evidenceActives": "glycolic acid (#10 on list, strong evidence); cocoa butter (#13 on list, limited evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 12 ratings"
+   "buyerEvidence": "4.2★ from 12 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/m/n/p/300-1-salicylic-acid-daily-exfoliating-body-lotion-dermease-original-imagzw4wmqh9aymr.jpeg?q=90",
@@ -9582,6 +9628,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:lotion",
    "format:body-wax",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
    "ing:cocoa-butter",
@@ -9809,7 +9856,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.5★ from 6 ratings"
+   "buyerEvidence": "4.5★ from 6 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/v/x/1/600-10-aha-1-bha-body-lotion-treats-strawberry-legs-bumpy-skin-original-imahj3783trmmhbh.jpeg?q=90",
@@ -9824,6 +9872,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:lotion",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
    "ing:lactic-acid",
@@ -10997,7 +11046,7 @@ const CTPRODUCTS = [
  {
   "id": "joy-itm66bee75b57324",
   "brand": "Joy",
-  "model": "Bright Radiance Daily Brightening Body Lotion with UV Protect …",
+  "model": "Bright Radiance Daily Brightening Body Lotion with UV Protect For All Skin Types",
   "price": 205,
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
@@ -11045,11 +11094,12 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/joy-bright-radiance-daily-brightening-body-lotion-uv-protect-all-skin-types/p/itm66bee75b57324",
   "buyStore": "Flipkart",
-  "title": "Joy Bright Radiance Daily Brightening Body Lotion with UV Protect …",
+  "title": "Joy Bright Radiance Daily Brightening Body Lotion with UV Protect For All Skin Types",
   "tags": [
    "scope:body",
    "format:lotion",
    "claim:brightening",
+   "skin:all",
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
@@ -12501,7 +12551,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 30 ratings"
+   "buyerEvidence": "4.1★ from 30 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/a/s/d/100-creamy-body-lotion-tyrodin-lotion-original-imahzawjjycpzrvj.jpeg?q=90",
@@ -12516,6 +12567,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:body",
    "format:lotion",
+   "water:unstated",
    "claim:hydrating",
    "skin:oily",
    "skin:dry",
@@ -12611,7 +12663,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 724 ratings"
+   "buyerEvidence": "4.4★ from 724 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/k/e/100-almond-soft-touch-body-lotion-for-women-men-hydrating-non-original-imahjkyuyjttqhzk.jpeg?q=90",
@@ -12626,6 +12679,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:lotion",
+   "water:unstated",
    "ing:almond",
    "claim:brightening",
    "claim:oil-control",
@@ -12829,7 +12883,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 10,310 ratings"
+   "buyerEvidence": "4★ from 10,310 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/r/f/k/800-naturals-cocoa-butter-aloevera-body-lotion-pack-of-2-nourish-original-imahmyadckt7xstz.jpeg?q=90",
@@ -12847,6 +12902,7 @@ const CTPRODUCTS = [
    "format:balm",
    "format:clay-mask",
    "format:kit",
+   "water:unstated",
    "ing:clay",
    "ing:shea-butter",
    "ing:cocoa-butter",
@@ -13259,7 +13315,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/k/k/m/400-body-lotion-alovera-400ml-enauniq-lotion-original-imahzy7zwad4c36u.jpeg?q=90",
@@ -13279,6 +13336,7 @@ const CTPRODUCTS = [
    "format:scrub",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:honey",
    "ing:almond",
    "claim:hydrating",
@@ -13376,7 +13434,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 113 ratings"
+   "buyerEvidence": "4.1★ from 113 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/k391w280/moisturizer-cream/j/h/u/350-herbal-whitening-face-body-lotion-350ml-lilium-lotion-original-imafmegshc7kzbrm.jpeg?q=90",
@@ -13392,6 +13451,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:lotion",
    "format:kit",
+   "water:unstated",
    "ing:niacinamide",
    "claim:whitening-claim",
    "claim:oil-control",
@@ -13701,7 +13761,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/q/x/z/500-honey-almonds-advanced-nourishing-body-lotion-normal-to-dry-original-imah4trpukpdx9tv.jpeg?q=90",
@@ -13718,6 +13779,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:lotion",
    "format:kit",
+   "water:unstated",
    "ing:honey",
    "ing:almond",
    "claim:anti-aging",
@@ -14951,7 +15013,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/d/5/s/410-essence-nourishing-winter-lotion-honey-400ml-nature-s-lotion-original-imah6v39ppgmbhth.jpeg?q=90",
@@ -14968,6 +15031,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:lotion",
    "format:essence",
+   "water:unstated",
    "ing:honey",
    "ing:almond",
    "claim:brightening",
@@ -15061,7 +15125,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/r/q/f/500-aloe-vera-body-lotion-deep-hydration-moisturizing-lotion-original-imahhgs66fpre3z7.jpeg?q=90",
@@ -15080,6 +15145,7 @@ const CTPRODUCTS = [
    "format:lotion",
    "format:balm",
    "format:kit",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:rose",
    "ing:shea-butter",
@@ -15435,7 +15501,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/v/b/a/600-0-white-lily-body-lotion-200ml-brightening-deeply-original-imahhjnymac6uwy6.jpeg?q=90",
@@ -15457,6 +15524,7 @@ const CTPRODUCTS = [
    "format:kit",
    "spf:60",
    "sun:mineral",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:caffeine",
    "ing:honey",
@@ -15582,6 +15650,7 @@ const CTPRODUCTS = [
    "format:oil",
    "ing:aloe-vera",
    "ing:almond",
+   "ing:menthol",
    "claim:soothing",
    "claim:dry-skin-relief",
    "claim:cooling",
@@ -15913,7 +15982,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/o/q/100-advansed-deep-nourish-body-lotion-lovelook-lotion-original-imagghf2dh3f92u8.jpeg?q=90",
@@ -15931,6 +16001,7 @@ const CTPRODUCTS = [
    "format:lotion",
    "format:kit",
    "spf:15",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:rose",
    "ing:vitamin-e",
@@ -17037,7 +17108,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 3 ratings"
+   "buyerEvidence": "4.3★ from 3 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/v/d/400-honey-almond-body-lotion-for-deep-hydration-edith-naturals-original-imahkg5fbscwhvfa.jpeg?q=90",
@@ -17052,6 +17124,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:lotion",
+   "water:unstated",
    "ing:honey",
    "ing:almond",
    "claim:hydrating",
@@ -17324,7 +17397,7 @@ const CTPRODUCTS = [
  {
   "id": "balance-skin-science-itm1202dcc1a27a5",
   "brand": "balance skin science",
-  "model": "Face & Body Moisturiser With Shea & Kokum Bu …",
+  "model": "Face & Body Moisturiser With Shea & Kokum Butter, Aloe Vera & Niacinamide 100gm",
   "price": 335,
   "capacityLine": "300 g (pack of 3)",
   "materialLine": "niacinamide + rice water + aloe vera",
@@ -17373,7 +17446,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/balance-skin-science-face-body-moisturiser-shea-kokum-butter-aloe-vera-niacinamide-100gm/p/itm1202dcc1a27a5",
   "buyStore": "Flipkart",
-  "title": "balance skin science Face & Body Moisturiser With Shea & Kokum Bu …",
+  "title": "balance skin science Face & Body Moisturiser With Shea & Kokum Butter, Aloe Vera & Niacinamide 100gm",
   "tags": [
    "scope:both",
    "format:cream",
@@ -17858,7 +17931,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 4 ratings"
+   "buyerEvidence": "4.3★ from 4 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/n/2/c/400-body-lotion-with-vitamin-e-cocoa-shea-butter-deep-original-imahk6b7bzj8jxba.jpeg?q=90",
@@ -17876,6 +17950,7 @@ const CTPRODUCTS = [
    "format:lotion",
    "format:balm",
    "format:patch",
+   "water:unstated",
    "ing:almond",
    "ing:shea-butter",
    "ing:cocoa-butter",
@@ -18461,7 +18536,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/m/f/f/200-cutismooth-body-butter-kokum-cocoa-shea-butter-cream-200g-original-imahkhh8fswbymtg.jpeg?q=90",
@@ -18480,6 +18556,7 @@ const CTPRODUCTS = [
    "format:balm",
    "format:kit",
    "spf:30",
+   "water:unstated",
    "ing:shea-butter",
    "ing:cocoa-butter",
    "claim:brightening",
@@ -19693,7 +19770,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/o/r/k/100-rich-creamy-body-butter-for-daily-moisturization-wivzi-cream-original-imahza4fzjjknqdv.jpeg?q=90",
@@ -19711,6 +19789,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:shea-butter",
    "ing:vitamin-e",
@@ -19810,7 +19889,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/b/5/100-after-sun-body-butter-100g-for-soft-smooth-glowing-skin-original-imahza6q34t5yf3a.jpeg?q=90",
@@ -19829,6 +19909,7 @@ const CTPRODUCTS = [
    "format:lotion",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:honey",
    "ing:almond",
@@ -19932,7 +20013,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/n/z/s/100-intensive-hydration-after-sun-body-butter-100g-wivzi-cream-original-imahza4x7zjdgy8z.jpeg?q=90",
@@ -19950,6 +20032,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:shea-butter",
    "ing:vitamin-e",
@@ -20154,7 +20237,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/x/d/e/100-after-sun-hydrating-body-butter-for-healthy-skin-wivzi-cream-original-imahza458ybg9vhe.jpeg?q=90",
@@ -20174,6 +20258,7 @@ const CTPRODUCTS = [
    "format:oil",
    "format:balm",
    "format:kit",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:shea-butter",
    "ing:vitamin-e",
@@ -20270,7 +20355,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/g/f/v/100-long-lasting-moisture-body-butter-with-shea-butter-wivzi-original-imahza56z2xwcgqr.jpeg?q=90",
@@ -20288,6 +20374,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:shea-butter",
    "ing:vitamin-e",
@@ -20387,7 +20474,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/x/x/b/100-luxurious-after-sun-body-butter-for-all-seasons-wivzi-cream-original-imahza3wmn8kebm8.jpeg?q=90",
@@ -20405,6 +20493,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:shea-butter",
    "ing:vitamin-e",
@@ -20501,7 +20590,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/e/m/o/100-hydrating-body-butter-for-dry-and-damaged-skin-100g-wivzi-original-imahza3wpuzh4zwr.jpeg?q=90",
@@ -20520,6 +20610,7 @@ const CTPRODUCTS = [
    "format:lotion",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:honey",
    "ing:almond",
@@ -20620,7 +20711,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/1/f/100-daily-moisturizing-body-butter-with-shea-butter-100g-wivzi-original-imahza45jevmpygh.jpeg?q=90",
@@ -20638,6 +20730,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:shea-butter",
    "ing:vitamin-e",
@@ -20737,7 +20830,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/o/n/4/100-premium-skin-nourishing-body-butter-100g-wivzi-cream-original-imahza3w9dcjdsge.jpeg?q=90",
@@ -20755,6 +20849,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:shea-butter",
    "ing:vitamin-e",
@@ -20852,7 +20947,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/q/p/100-moisturizing-body-butter-with-coconut-oil-and-avocado-oil-original-imahza4v2ezgvx5k.jpeg?q=90",
@@ -20870,6 +20966,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:shea-butter",
    "ing:vitamin-e",
@@ -20969,7 +21066,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/a/5/s/100-moisture-rich-body-butter-for-dry-and-rough-skin-wivzi-cream-original-imahza3wxgjbg9c8.jpeg?q=90",
@@ -20987,6 +21085,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:shea-butter",
    "ing:vitamin-e",
@@ -21211,7 +21310,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 19 ratings"
+   "buyerEvidence": "4.3★ from 19 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/g/q/b/200-cutismoothbody-butter-moisturizing-cream-200gm-pack-ewp-original-imahmdxsbhhz2mzy.jpeg?q=90",
@@ -21228,6 +21328,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:balm",
    "format:pack",
+   "water:unstated",
    "ing:shea-butter",
    "ing:cocoa-butter",
    "claim:hydrating",
@@ -21320,7 +21421,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.5★ from 133 ratings"
+   "buyerEvidence": "4.5★ from 133 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/m/q/9/100-coffee-body-butter-with-vitamin-e-oil-for-intense-original-imahmazs4gfzmnwe.jpeg?q=90",
@@ -21337,6 +21439,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:coffee",
    "ing:aloe-vera",
    "ing:almond",
@@ -21455,6 +21558,7 @@ const CTPRODUCTS = [
    "format:foam",
    "format:balm",
    "format:kit",
+   "format:shave-cream",
    "ing:vitamin-c",
    "ing:retinal",
    "ing:shea-butter",
@@ -21953,7 +22057,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/s/r/w/100-body-butter-for-dry-skin-women-men-citrus-dew-antioxidant-original-imahhuwyrgz4fg3h.jpeg?q=90",
@@ -21973,6 +22078,7 @@ const CTPRODUCTS = [
    "format:balm",
    "format:kit",
    "spf:30",
+   "water:unstated",
    "ing:vitamin-e",
    "ing:coconut",
    "ing:calendula",
@@ -24102,6 +24208,7 @@ const CTPRODUCTS = [
    "ing:vitamin-e",
    "ing:glycerin",
    "ing:coconut",
+   "ing:pdrn-polynucleotide",
    "claim:brightening",
    "claim:dark-spots",
    "claim:whitening-claim",
@@ -24199,7 +24306,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/i/8/x/340-fragrance-free-shea-butter-and-vitamin-e-body-lotion-340g-original-imagj6dyzu5396gx.jpeg?q=90",
@@ -24217,6 +24325,7 @@ const CTPRODUCTS = [
    "format:lotion",
    "format:balm",
    "spf:30",
+   "water:unstated",
    "ing:shea-butter",
    "ing:vitamin-e",
    "claim:hydrating",
@@ -24844,7 +24953,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/i/a/7/100-deep-relief-magnesium-body-cream-with-calendula-vitamin-e-original-imahp68tyrhq7ycb.jpeg?q=90",
@@ -24863,6 +24973,7 @@ const CTPRODUCTS = [
    "format:balm",
    "format:kit",
    "spf:30",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:shea-butter",
    "ing:cocoa-butter",
@@ -25015,220 +25126,6 @@ const CTPRODUCTS = [
    "recognised": null,
    "actives": [],
    "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "remoiz-itmacf5037fcbdb6",
-  "brand": "REMOIZ",
-  "model": "Ceramide Body Lotion 250ml | pH 5.5 Daily Moisturizing Car …",
-  "price": 502,
-  "capacityLine": "750 ml (pack of 3)",
-  "materialLine": "ceramides",
-  "featureLine": "Lotion · Paraben-free · ₹67/100ml",
-  "highlight": "Live Flipkart listing. Scored from its published INCI list (Flipkart listing — Composition field): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [
-   "glycerin high on the INCI list (strong evidence); dimethicone high on the INCI list (moderate evidence)",
-   "No fragrance / flagged irritant on the INCI list"
-  ],
-  "cons": [
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 6.7,
-   "skin": 7,
-   "trust": 5.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "250 ml × 3 pack",
-   "pricePer100": "₹67/100ml",
-   "format": "Lotion",
-   "keyIngredients": "ceramides (per listing)",
-   "freeFrom": "Paraben-free (seller claim — not scored)",
-   "dermTested": "Dermatologically tested (seller claim — not scored)",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "All Skin Types",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Aqua (Water), Glycerin, Light Liquid Paraffin, Caprylic/Capric Triglyceride, Cetyl Alcohol, Stearyl Alcohol, Glyceryl Stearate, PEG-100 Stearate, Dimethicone, Ceramide NP, Ceramide AP, Ceramide EOP, Cholesterol, Phytosphingosine, Sodium Hyaluronate, Panthenol, Allantoin, Shea Butter, Carbomer, Xanthan Gum, Disodium EDTA, Phenoxyethanol, Ethylhexylglycerin",
-   "evidenceActives": "glycerin (#2 on list, strong evidence); dimethicone (#8 on list, moderate evidence); ceramide np (#9 on list, moderate evidence); ceramide ap (#10 on list, moderate evidence); ceramide eop (#11 on list, moderate evidence); cholesterol (#12 on list, moderate evidence); panthenol (#15 on list, moderate evidence); allantoin (#16 on list, limited evidence); shea butter (#17 on list, moderate evidence)",
-   "safetyFlags": "No flagged irritant / allergen on the INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — ceramide np #9 on INCI, ceramide ap #10 on INCI, ceramide eop #11 on INCI, panthenol #15 on INCI (matching only — not proof it works)"
-  },
-  "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/r/x/250-ceramide-body-lotion-250ml-ph-5-5-daily-moisturizing-care-original-imahm8phfvdzhmmn.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/i/w/c-ceramide-based-full-body-moisturizing-lotion-pack-of-2-x-100ml-original-imahb5q2avvzyqfe.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/o/o/s/c-ceramide-based-full-body-moisturizing-lotion-pack-of-2-x-250ml-original-imahb5qjuphxadwg.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/d/h/d/c-ceramide-based-full-body-moisturizing-lotion-remoiz-lotion-original-imahb5q24zhwfhr4.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/g/i/0/c-ceramide-based-full-body-moisturizing-lotion-pack-of-3-x-250ml-original-imahb5qghmjzya9k.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/remoiz-ceramide-body-lotion-250ml-ph-5-5-daily-moisturizing-care/p/itmacf5037fcbdb6",
-  "buyStore": "Flipkart",
-  "title": "REMOIZ Ceramide Body Lotion 250ml | pH 5.5 Daily Moisturizing Car …",
-  "tags": [
-   "scope:both",
-   "format:cream",
-   "format:lotion",
-   "format:kit",
-   "ing:ceramides",
-   "claim:oil-control",
-   "claim:hydrating",
-   "skin:dry",
-   "skin:all",
-   "free:paraben",
-   "free:derm",
-   "free:ph-balanced",
-   "aud:women",
-   "size:xl",
-   "rating:none",
-   "store:flipkart",
-   "target:irritation",
-   "inci:full",
-   "inci:no-fragrance"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": true,
-   "natural": true,
-   "derm": true,
-   "men": false,
-   "women": true,
-   "inci": "full",
-   "inciSrc": "listing",
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "full",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": "Aqua (Water), Glycerin, Light Liquid Paraffin, Caprylic/Capric Triglyceride, Cetyl Alcohol, Stearyl Alcohol, Glyceryl Stearate, PEG-100 Stearate, Dimethicone, Ceramide NP, Ceramide AP, Ceramide EOP, Cholesterol, Phytosphingosine, Sodium Hyaluronate, Panthenol, Allantoin, Shea Butter, Carbomer, Xanthan Gum, Disodium EDTA, Phenoxyethanol, Ethylhexylglycerin",
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": 0.7,
-   "recognised": 1,
-   "actives": [
-    {
-     "name": "glycerin",
-     "grade": "A",
-     "position": 2,
-     "core": true,
-     "trace": false,
-     "src": "glycerin"
-    },
-    {
-     "name": "paraffinum liquidum",
-     "grade": "B",
-     "position": 3,
-     "core": false,
-     "trace": false,
-     "src": "petrolatum"
-    },
-    {
-     "name": "dimethicone",
-     "grade": "B",
-     "position": 8,
-     "core": true,
-     "trace": false,
-     "src": "petrolatum"
-    },
-    {
-     "name": "ceramide np",
-     "grade": "B",
-     "position": 9,
-     "core": true,
-     "trace": false,
-     "src": "ceramide"
-    },
-    {
-     "name": "ceramide ap",
-     "grade": "B",
-     "position": 10,
-     "core": true,
-     "trace": false,
-     "src": "ceramide"
-    },
-    {
-     "name": "ceramide eop",
-     "grade": "B",
-     "position": 11,
-     "core": true,
-     "trace": false,
-     "src": "ceramide"
-    },
-    {
-     "name": "cholesterol",
-     "grade": "B",
-     "position": 12,
-     "core": true,
-     "trace": false,
-     "src": "ceramide"
-    },
-    {
-     "name": "sodium hyaluronate",
-     "grade": "B",
-     "position": 14,
-     "core": false,
-     "trace": false,
-     "src": "ha"
-    },
-    {
-     "name": "panthenol",
-     "grade": "B",
-     "position": 15,
-     "core": true,
-     "trace": false,
-     "src": "panthenol"
-    },
-    {
-     "name": "allantoin",
-     "grade": "C",
-     "position": 16,
-     "core": true,
-     "trace": false,
-     "src": "panthenol"
-    },
-    {
-     "name": "shea butter",
-     "grade": "B",
-     "position": 17,
-     "core": true,
-     "trace": false,
-     "src": "petrolatum"
-    }
-   ],
-   "support": [
-    "glycerin",
-    "dimethicone",
-    "ceramide np",
-    "ceramide ap",
-    "ceramide eop",
-    "cholesterol",
-    "sodium hyaluronate",
-    "panthenol",
-    "shea butter"
-   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -25399,7 +25296,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/k/v/t/150-hyaluronic-acid-ceramide-hydrating-body-lotion-for-smooth-original-imahqemzggkddnbs.jpeg?q=90",
@@ -25414,6 +25312,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:lotion",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "claim:hydrating",
@@ -25618,7 +25517,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/z/j/100-hyaluronic-acid-and-ceramide-body-lotion-for-daily-moisture-original-imahqen66x8h3gtg.jpeg?q=90",
@@ -25633,6 +25533,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:lotion",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "skin:all",
@@ -25723,7 +25624,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/7/0/x/100-ceramide-hyaluronic-acid-hydrating-body-moisturizer-for-dry-original-imahqemz5wa2qyjq.jpeg?q=90",
@@ -25738,6 +25640,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:lotion",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "claim:hydrating",
@@ -26043,7 +25946,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 273 ratings"
+   "buyerEvidence": "4.4★ from 273 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/o/p/j/150-korean-glass-skin-rice-ceramide-vitalizing-body-lotion-original-imahg8dfs9tgzhvu.jpeg?q=90",
@@ -26059,6 +25963,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:lotion",
    "format:oil",
+   "water:unstated",
    "ing:ceramides",
    "ing:rice-water",
    "ing:aloe-vera",
@@ -27824,7 +27729,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/j/2/1/200-honey-almonds-advanced-nourishing-body-lotion-for-winters-original-imagwma4bfjxgcyv.jpeg?q=90",
@@ -27842,6 +27748,7 @@ const CTPRODUCTS = [
    "format:oil",
    "format:scrub",
    "format:kit",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:rose",
    "ing:honey",
@@ -28491,7 +28398,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 10,310 ratings"
+   "buyerEvidence": "4★ from 10,310 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/u/d/200-naturals-cocoa-butter-aloevera-body-lotion-pack-of-2-original-imahhf6ejmawqegr.jpeg?q=90",
@@ -28509,6 +28417,7 @@ const CTPRODUCTS = [
    "format:balm",
    "format:clay-mask",
    "format:kit",
+   "water:unstated",
    "ing:clay",
    "ing:cocoa-butter",
    "claim:hydrating",
@@ -29201,7 +29110,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/0/x/i/200-vitamin-c-body-lotion-winter-summer-benefits-deep-hydration-original-imahjpngvegn35az.jpeg?q=90",
@@ -29220,6 +29130,7 @@ const CTPRODUCTS = [
    "format:lotion",
    "format:kit",
    "spf:15",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:collagen",
    "ing:aloe-vera",
@@ -29314,7 +29225,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/m/y/h/100-aloe-vera-body-lotion-for-calm-fresh-skin-glamblush-lotion-original-imahg9kmfgduh7zv.jpeg?q=90",
@@ -29331,6 +29243,7 @@ const CTPRODUCTS = [
    "format:lotion",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:honey",
    "ing:almond",
@@ -29966,7 +29879,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 4,662 ratings"
+   "buyerEvidence": "4★ from 4,662 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/m/i/q/100-natural-almond-honey-body-lotion-hydrating-refreshing-original-imahhf5qpkf35kpu.jpeg?q=90",
@@ -29984,6 +29898,7 @@ const CTPRODUCTS = [
    "format:oil",
    "format:balm",
    "format:clay-mask",
+   "water:unstated",
    "ing:honey",
    "ing:clay",
    "ing:almond",
@@ -30541,7 +30456,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/x/w/d/500-aloevera-advanced-nourishing-body-lotion-for-all-skin-types-original-imahh6umepxqd3yb.jpeg?q=90",
@@ -30557,6 +30473,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:lotion",
    "format:kit",
+   "water:unstated",
    "ing:retinol",
    "ing:retinal",
    "claim:brightening",
@@ -30649,7 +30566,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/a/y/5/300-body-lotion-with-cocoa-butter-almond-oil-hydrating-and-original-imahkcrkx9uhyrvz.jpeg?q=90",
@@ -30668,6 +30586,7 @@ const CTPRODUCTS = [
    "format:lotion",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:almond",
    "ing:cocoa-butter",
    "claim:brightening",
@@ -30763,7 +30682,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Bio Veda Action Research — Established / listed Indian FMCG house",
-   "buyerEvidence": "4.3★ from 18,358 ratings"
+   "buyerEvidence": "4.3★ from 18,358 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/m/w/6/-original-imah6pkzwvwhzzzz.jpeg?q=90",
@@ -30779,6 +30699,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:lotion",
    "format:oil",
+   "water:unstated",
    "ing:almond",
    "ing:cherry-acerola",
    "claim:hydrating",
@@ -31202,7 +31123,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/t/p/c/410-essence-nourishing-winter-lotion-honey-400ml-nature-s-lotion-original-imah6v39cqtd9tnw.jpeg?q=90",
@@ -31223,6 +31145,7 @@ const CTPRODUCTS = [
    "format:balm",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:honey",
    "ing:papaya",
    "ing:almond",
@@ -31549,7 +31472,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 205 ratings"
+   "buyerEvidence": "4.3★ from 205 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/r/v/3/500-sheasoft-fairness-nourishing-body-milk-pack-of-2-x-original-imahjjymwafw3yza.jpeg?q=90",
@@ -31566,6 +31490,7 @@ const CTPRODUCTS = [
    "format:lotion",
    "format:pack",
    "spf:15",
+   "water:unstated",
    "ing:milk",
    "claim:hydrating",
    "claim:long-lasting",
@@ -31977,7 +31902,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/3/r/e/475-aloe-vera-body-lotion-for-women-men-moisturizer-body-lotoin-original-imahzfpfjzhzn5ay.jpeg?q=90",
@@ -31993,6 +31919,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:lotion",
    "format:kit",
+   "water:unstated",
    "ing:aloe-vera",
    "claim:brightening",
    "claim:anti-aging",
@@ -32698,7 +32625,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/shopsy-moisturizer-cream/w/x/t/10-body-lotions-body-whitening-body-lotion-body-lotion-original-imahmnbhdwznjpu8.jpeg?q=90",
@@ -32717,6 +32645,7 @@ const CTPRODUCTS = [
    "format:serum",
    "spf:30",
    "pa:+++",
+   "water:unstated",
    "ing:centella-cica",
    "claim:hydrating",
    "claim:spf-claim",
@@ -32811,7 +32740,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/shopsy-moisturizer-cream/0/t/j/10-body-lotion-body-lotion-for-women-skin-brightening-body-original-imahmgewhuybqdqs.jpeg?q=90",
@@ -32831,6 +32761,7 @@ const CTPRODUCTS = [
    "format:pack",
    "spf:30",
    "pa:+++",
+   "water:unstated",
    "ing:centella-cica",
    "ing:saffron",
    "claim:brightening",
@@ -35727,7 +35658,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
-   "buyerEvidence": "3.8★ from 34 ratings"
+   "buyerEvidence": "3.8★ from 34 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/x/s/a/400-vaseleen-deep-moisture-body-lotion-400ml-vaseline-lotion-original-imahjwzvtgm8khzu.jpeg?q=90",
@@ -35743,6 +35675,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:lotion",
    "format:patch",
+   "water:unstated",
    "claim:hydrating",
    "claim:lightweight",
    "skin:all",
@@ -35831,7 +35764,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
-   "buyerEvidence": "4★ from 23 ratings"
+   "buyerEvidence": "4★ from 23 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/j/o/q/400-deep-moisture-lotion-set-of-1-vaseline-lotion-original-imagvyrhhsusgtyu.jpeg?q=90",
@@ -35847,6 +35781,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:lotion",
    "format:kit",
+   "water:unstated",
    "claim:hydrating",
    "skin:all",
    "free:paraben",
@@ -36569,7 +36504,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
-   "buyerEvidence": "5★ from 5 ratings"
+   "buyerEvidence": "5★ from 5 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/w/v/400-deep-moisture-body-lotion-400ml-smooth-hydrated-skin-original-imahhsbwunphhjre.jpeg?q=90",
@@ -36585,6 +36521,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:lotion",
+   "water:unstated",
    "claim:hydrating",
    "skin:all",
    "free:paraben",
@@ -36773,7 +36710,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
-   "buyerEvidence": "3★ from 8 ratings"
+   "buyerEvidence": "3★ from 8 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/d/l/c/400-intensive-care-deep-moisture-48-hr-long-lasting-nourishing-original-imahgcvraxgwswhh.jpeg?q=90",
@@ -36790,6 +36728,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:lotion",
    "format:scrub",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "claim:hydrating",
@@ -37627,7 +37566,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
-   "buyerEvidence": "4.1★ from 55 ratings"
+   "buyerEvidence": "4.1★ from 55 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/shopsy-moisturizer-cream/n/a/t/598-nourish-insentive-deep-moisture-body-lotion-598-ml-pck-of-1-original-imah4dhfszp7vj9y.jpeg?q=90",
@@ -37645,6 +37585,7 @@ const CTPRODUCTS = [
    "format:lotion",
    "format:patch",
    "format:kit",
+   "water:unstated",
    "claim:hydrating",
    "claim:lightweight",
    "skin:all",
@@ -37734,7 +37675,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
-   "buyerEvidence": "4.3★ from 8,325 ratings"
+   "buyerEvidence": "4.3★ from 8,325 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/d/t/u/0-4-deep-moisture-body-lotion-0-400-l-x-pack-of-1-vaseline-original-imahh9uqzwwudzqw.jpeg?q=90",
@@ -37751,6 +37693,7 @@ const CTPRODUCTS = [
    "format:lotion",
    "format:oil",
    "format:kit",
+   "water:unstated",
    "ing:colloidal-oatmeal",
    "ing:glycerin",
    "ing:olive",
@@ -38141,7 +38084,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/m/w/9/1000-deep-moisture-body-lotion-600ml-for-dry-skin-daily-original-imahhqfmhebgcxzz.jpeg?q=90",
@@ -38159,6 +38103,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:lotion",
    "format:kit",
+   "water:unstated",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:ceramides",
@@ -38765,7 +38710,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/d/n/b/400-deep-moisture-nonsticky-for-dry-skin-body-lotion-400ml-original-imahny8hvzdcy2am.jpeg?q=90",
@@ -38783,6 +38729,7 @@ const CTPRODUCTS = [
    "format:lotion",
    "format:kit",
    "spf:30",
+   "water:unstated",
    "ing:colloidal-oatmeal",
    "claim:whitening-claim",
    "claim:oil-control",
@@ -38874,7 +38821,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/d/v/3/620-intensive-care-deep-moisture-lotion-600ml-pure-skin-jelly-original-imahhttzaeygw4zy.jpeg?q=90",
@@ -38892,6 +38840,7 @@ const CTPRODUCTS = [
    "format:lotion",
    "format:balm",
    "format:kit",
+   "water:unstated",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:ceramides",
@@ -38987,7 +38936,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/4/r/t/400-nourish-protect-body-lotion-400ml-soft-skin-formula-vaseline-original-imahhsbwswgeakqe.jpeg?q=90",
@@ -39006,6 +38956,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "ing:glycerin",
@@ -39394,7 +39345,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/f/z/d/800-deep-moisture-body-lotion-2-qty-of-397-ml-vaseline-lotion-original-imagn48yyaudkyxu.jpeg?q=90",
@@ -39412,6 +39364,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:aloe-vera",
    "claim:brightening",
    "claim:hydrating",
@@ -40011,7 +39964,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/p/n/400-healthy-bright-body-lotion-long-lasting-moisturization-twin-original-imahqferu267qggv.jpeg?q=90",
@@ -40027,6 +39981,7 @@ const CTPRODUCTS = [
    "format:lotion",
    "format:pack",
    "sun:chemical",
+   "water:unstated",
    "ing:benzoyl-peroxide",
    "claim:brightening",
    "claim:hydrating",
@@ -40323,7 +40278,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
-   "buyerEvidence": "3.7★ from 7 ratings"
+   "buyerEvidence": "3.7★ from 7 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/q/t/o/396-daily-bright-body-lotion-400-ml-x-1-bbd-spl-vaseline-lotion-original-imah4k72vcz3wawb.jpeg?q=90",
@@ -40338,6 +40294,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:lotion",
+   "water:unstated",
    "ing:niacinamide",
    "claim:brightening",
    "claim:hydrating",
@@ -40526,7 +40483,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/v/4/z/400-derma-care-non-greasy-body-lotion-for-dry-sensitive-skin-original-imahkvsaupdyzgjh.jpeg?q=90",
@@ -40544,6 +40502,7 @@ const CTPRODUCTS = [
    "format:kit",
    "spf:30",
    "pa:+",
+   "water:unstated",
    "claim:oil-control",
    "claim:hydrating",
    "claim:barrier",
@@ -40647,7 +40606,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): perfume (−1.5); EU-declared fragrance allergen: benzyl salicylate, butylphenyl methylpropional, hexyl cinnamal, linalool (−2); Essential oil / volatile sensitiser: menthol (−0.5)",
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
    "buyerEvidence": "4.5★ from 12 ratings",
-   "concernBasis": "Irritation — aloe barbadensis leaf juice #11 on INCI (matching only — not proof it works)"
+   "concernBasis": "Irritation — aloe barbadensis leaf juice #11 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/f/d/e/intensive-care-aloe-fresh-body-lotion-new-packing-100-orignal-original-imahyhgkgwfujm4f.jpeg?q=90",
@@ -40662,6 +40622,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:lotion",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:glycerin",
    "claim:brightening",
@@ -41138,7 +41099,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/i/h/f/800-healthy-bright-daily-brightening-body-lotion-ml-x-2-800ml-original-imahhqbvg2ukbuyk.jpeg?q=90",
@@ -41158,6 +41120,7 @@ const CTPRODUCTS = [
    "format:kit",
    "spf:50",
    "pa:++++",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:glycerin",
@@ -41255,7 +41218,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/v/4/z/400-derma-care-non-greasy-body-lotion-for-dry-sensitive-skin-original-imahkvsaupdyzgjh.jpeg?q=90",
@@ -41273,6 +41237,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:oil",
    "spf:30",
+   "water:unstated",
    "ing:cocoa-butter",
    "claim:brightening",
    "claim:oil-control",
@@ -44483,7 +44448,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Beiersdorf — Global FMCG or beauty group",
-   "buyerEvidence": "4.6★ from 5 ratings"
+   "buyerEvidence": "4.6★ from 5 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/m/g/y/400-400ml-aloe-protection-spf15-bodylotion-lotion-set-of-1pc-original-imagrdvqgpqdte5f.jpeg?q=90",
@@ -44500,6 +44466,7 @@ const CTPRODUCTS = [
    "format:lotion",
    "format:kit",
    "spf:15",
+   "water:unstated",
    "ing:aloe-vera",
    "claim:hydrating",
    "claim:spf-claim",
@@ -46495,7 +46462,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Beiersdorf — Global FMCG or beauty group",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/5/6/u/400-aloe-hydration-daily-use-body-lotion-nivea-lotion-original-imahgmk5u2smvdyt.jpeg?q=90",
@@ -46514,6 +46482,7 @@ const CTPRODUCTS = [
    "format:lotion",
    "format:serum",
    "format:kit",
+   "water:unstated",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:aloe-vera",
@@ -47695,7 +47664,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Beiersdorf — Global FMCG or beauty group",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/f/y/b/400-aloe-hydration-400ml-body-lotion-set-of-1-nivea-lotion-original-imags7uxqdhffmx3.jpeg?q=90",
@@ -47714,6 +47684,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:kit",
    "spf:15",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:milk",
    "claim:hydrating",
@@ -49842,7 +49813,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/m/o/1/500-moisturising-body-lotion-with-lemon-myrtle-goat-lotion-original-imahpdx4rcdevdfg.jpeg?q=90",
@@ -49860,6 +49832,7 @@ const CTPRODUCTS = [
    "format:lotion",
    "format:capsule",
    "spf:30",
+   "water:unstated",
    "ing:lemon",
    "ing:milk",
    "claim:brightening",
@@ -50313,7 +50286,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/c/o/w/200-nourishing-body-lotion-deep-hydration-soft-skin-care-sensova-original-imahzeq8ncafgt6w.jpeg?q=90",
@@ -50331,6 +50305,7 @@ const CTPRODUCTS = [
    "format:lotion",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:ceramides",
@@ -50738,7 +50713,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/o/o/4/200-honey-almonds-advanced-nourishing-body-lotion-edith-naturals-original-imahg4nctv6uwhjh.jpeg?q=90",
@@ -50753,6 +50729,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:lotion",
+   "water:unstated",
    "ing:rose",
    "ing:honey",
    "ing:almond",
@@ -50854,7 +50831,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/c/x/400-nourishing-honey-almond-body-lotion-edith-naturals-lotion-original-imahjhkhgvqsdhyw.jpeg?q=90",
@@ -50873,6 +50851,7 @@ const CTPRODUCTS = [
    "format:oil",
    "format:balm",
    "format:kit",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:honey",
    "ing:almond",
@@ -51532,7 +51511,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/g/d/v/100-moisturizing-body-lotion-for-soft-glowing-skin-silka-lotion-original-imahzkczh24nxujg.jpeg?q=90",
@@ -51549,6 +51529,7 @@ const CTPRODUCTS = [
    "format:lotion",
    "format:balm",
    "spf:15",
+   "water:unstated",
    "ing:aloe-vera",
    "claim:brightening",
    "claim:hydrating",
@@ -52206,7 +52187,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/e/t/d/500-original-moisturising-body-lotion-goat-lotion-original-imahns9j3yx3rzh3.jpeg?q=90",
@@ -52225,6 +52207,7 @@ const CTPRODUCTS = [
    "format:oil",
    "format:kit",
    "spf:30",
+   "water:unstated",
    "ing:colloidal-oatmeal",
    "ing:honey",
    "ing:argan-oil",
@@ -52321,7 +52304,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/y/f/6/500-moisturising-body-lotion-with-manuka-honey-goat-lotion-original-imahns9yuggmzaup.jpeg?q=90",
@@ -52338,6 +52322,7 @@ const CTPRODUCTS = [
    "format:lotion",
    "format:oil",
    "spf:30",
+   "water:unstated",
    "ing:colloidal-oatmeal",
    "ing:honey",
    "ing:argan-oil",
@@ -52687,6 +52672,7 @@ const CTPRODUCTS = [
    "ing:cocoa-butter",
    "ing:glycerin",
    "ing:argan-oil",
+   "ing:beeswax",
    "claim:brightening",
    "claim:hydrating",
    "skin:oily",
@@ -53211,7 +53197,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/e/b/3/300-sensitive-dry-skin-calming-shea-kokum-mango-body-butter-original-imahf8krject5qqt.jpeg?q=90",
@@ -53230,6 +53217,7 @@ const CTPRODUCTS = [
    "format:oil",
    "format:balm",
    "format:kit",
+   "water:unstated",
    "ing:collagen",
    "ing:coffee",
    "ing:aloe-vera",
@@ -53549,7 +53537,8 @@ const CTPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — ceramide np #11 on INCI (matching only — not proof it works)"
+   "concernBasis": "Irritation — ceramide np #11 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/2/c/y/453-advanced-repair-body-cream-urea-enriched-unscented-body-original-imahptchgcdw3qqz.jpeg?q=90",
@@ -53564,6 +53553,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:aha",
    "ing:urea",
    "claim:oil-control",
@@ -53850,7 +53840,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.5★ from 327 ratings"
+   "buyerEvidence": "4.5★ from 327 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/n/1/9/300-20-urea-body-lotion-48h-hydration-for-very-dry-flaky-skin-original-imahgg4fgys3jydu.jpeg?q=90",
@@ -53866,6 +53857,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:lotion",
    "format:balm",
+   "water:unstated",
    "ing:urea",
    "ing:ceramides",
    "ing:shea-butter",
@@ -53973,7 +53965,8 @@ const CTPRODUCTS = [
    "evidenceActives": "urea (#2 on list, strong evidence); glycerin (#3 on list, strong evidence); butyrospermum parkii butter (#4 on list, moderate evidence); dimethicone (#12 on list, moderate evidence); tocopheryl acetate (#16 on list, moderate evidence); ceramide np (#25 on list, moderate evidence); ceramide ap (#26 on list, moderate evidence); ceramide eop (#27 on list, moderate evidence); cholesterol (#29 on list, moderate evidence)",
    "safetyFlags": "Added fragrance (parfum): perfume (−1.5); Formaldehyde-releasing preservative: imidazolidinyl urea (−1.5)",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.4★ from 5,400 ratings"
+   "buyerEvidence": "4.4★ from 5,400 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/x/r/q/400-10-urea-body-lotion-48-hour-dry-skin-relief-for-dry-flaky-original-imahgg4zghsj7yys.jpeg?q=90",
@@ -53988,6 +53981,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:lotion",
+   "water:unstated",
    "ing:urea",
    "ing:shea-butter",
    "claim:oil-control",
@@ -54162,7 +54156,7 @@ const CTPRODUCTS = [
  {
   "id": "dr-sheth-s-itm4bebbf598d5f7",
   "brand": "Dr. Sheth's",
-  "model": "Tea Tree & Lactic Acid Body Lotion, Helps to Reduce B …",
+  "model": "Tea Tree & Lactic Acid Body Lotion, Helps to Reduce Body Acne",
   "price": 80,
   "capacityLine": "Quantity not stated",
   "materialLine": "lactic acid + tea tree",
@@ -54188,7 +54182,7 @@ const CTPRODUCTS = [
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
-   "benefit": "Not stated in listing",
+   "benefit": "Acne/blemish claim",
    "audience": "Unisex / not stated",
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
@@ -54215,12 +54209,13 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/dr-sheths-tea-tree-lactic-acid-body-lotion-helps-reduce-acne/p/itm4bebbf598d5f7",
   "buyStore": "Flipkart",
-  "title": "Dr. Sheth’s Tea Tree & Lactic Acid Body Lotion, Helps to Reduce B …",
+  "title": "Dr. Sheth’s Tea Tree & Lactic Acid Body Lotion, Helps to Reduce Body Acne",
   "tags": [
    "scope:body",
    "format:lotion",
    "ing:lactic-acid",
    "ing:tea-tree",
+   "claim:acne",
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
@@ -54368,7 +54363,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 3 ratings"
+   "buyerEvidence": "4★ from 3 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/shopsy-moisturizer-cream/f/l/0/200-glycolic-acid-lactic-acid-exfoliating-body-lotion-for-smooth-original-imahq4tz8brmxyup.jpeg?q=90",
@@ -54384,6 +54380,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:lotion",
+   "water:unstated",
    "ing:glycolic-acid",
    "ing:lactic-acid",
    "ing:aha",
@@ -54443,7 +54440,7 @@ const CTPRODUCTS = [
  {
   "id": "odilo-itmf1829ab768cd7",
   "brand": "Odilo",
-  "model": "SKIN SCIENCE Shea Butter With Lactic Acid Body Lotion (500 …",
+  "model": "SKIN SCIENCE Shea Butter With Lactic Acid Body Lotion",
   "price": 154,
   "capacityLine": "500 ml",
   "materialLine": "lactic acid + shea butter",
@@ -54480,7 +54477,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 40 ratings"
+   "buyerEvidence": "4.1★ from 40 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/d/y/n/500-skin-science-shea-butter-with-lactic-acid-body-lotion-odilo-original-imahq99yhmjhgenk.jpeg?q=90",
@@ -54491,12 +54489,13 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/odilo-skin-science-shea-butter-lactic-acid-body-lotion/p/itmf1829ab768cd7",
   "buyStore": "Flipkart",
-  "title": "Odilo SKIN SCIENCE Shea Butter With Lactic Acid Body Lotion (500 …",
+  "title": "Odilo SKIN SCIENCE Shea Butter With Lactic Acid Body Lotion",
   "tags": [
    "scope:both",
    "format:cream",
    "format:lotion",
    "format:balm",
+   "water:unstated",
    "ing:lactic-acid",
    "ing:shea-butter",
    "claim:brightening",
@@ -54551,7 +54550,7 @@ const CTPRODUCTS = [
  {
   "id": "samput-itmc41c28b36cc67",
   "brand": "SAMPUT",
-  "model": "Tea Tree & Lactic Acid-Body Lotion For Men & Women-pack of …",
+  "model": "Tea Tree & Lactic Acid-Body Lotion For Men & Women-pack of 2",
   "price": 643,
   "capacityLine": "500 ml (pack of 2)",
   "materialLine": "lactic acid + tea tree + aloe vera",
@@ -54589,7 +54588,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/g/k/v/250-tea-tree-lactic-acid-body-lotion-for-men-women-pack-of-2-original-imahkf5ubhm8mndm.jpeg?q=90",
@@ -54600,13 +54600,14 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/samput-tea-tree-lactic-acid-body-lotion-men-women-pack-2/p/itmc41c28b36cc67",
   "buyStore": "Flipkart",
-  "title": "SAMPUT Tea Tree & Lactic Acid-Body Lotion For Men & Women-pack of …",
+  "title": "SAMPUT Tea Tree & Lactic Acid-Body Lotion For Men & Women-pack of 2",
   "tags": [
    "scope:both",
    "format:cream",
    "format:lotion",
    "format:balm",
    "format:kit",
+   "water:unstated",
    "ing:lactic-acid",
    "ing:tea-tree",
    "ing:aloe-vera",
@@ -54665,7 +54666,7 @@ const CTPRODUCTS = [
  {
   "id": "be-bodywise-itm23e3312d88b5e",
   "brand": "Be Bodywise",
-  "model": "5% Lactic Acid Body Lotion | 10% Niacinamide Hydratin …",
+  "model": "5% Lactic Acid Body Lotion | 10% Niacinamide Hydrating Body Lotion | Skin care",
   "price": 729,
   "capacityLine": "400 ml",
   "materialLine": "niacinamide + lactic acid",
@@ -54717,7 +54718,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/bodywise-5-lactic-acid-body-lotion-10-niacinamide-hydrating-skin-care/p/itm23e3312d88b5e",
   "buyStore": "Flipkart",
-  "title": "Be Bodywise 5% Lactic Acid Body Lotion | 10% Niacinamide Hydratin …",
+  "title": "Be Bodywise 5% Lactic Acid Body Lotion | 10% Niacinamide Hydrating Body Lotion | Skin care",
   "tags": [
    "scope:both",
    "format:lotion",
@@ -55006,7 +55007,7 @@ const CTPRODUCTS = [
  {
   "id": "pinkup-itma5a46e0f86d9d",
   "brand": "pinkup",
-  "model": "D-Tan Remover Body Lotion Saffron + Lactic Acid +Niacinami …",
+  "model": "D-Tan Remover Body Lotion Saffron + Lactic Acid +Niacinamide",
   "price": 170,
   "capacityLine": "200 g (pack of 2)",
   "materialLine": "niacinamide + lactic acid + tea tree",
@@ -55055,7 +55056,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/pinkup-d-tan-remover-body-lotion-saffron-lactic-acid-niacinamide/p/itma5a46e0f86d9d",
   "buyStore": "Flipkart",
-  "title": "pinkup D-Tan Remover Body Lotion Saffron + Lactic Acid +Niacinami …",
+  "title": "pinkup D-Tan Remover Body Lotion Saffron + Lactic Acid +Niacinamide",
   "tags": [
    "scope:both",
    "format:cream",
@@ -55229,11 +55230,11 @@ const CTPRODUCTS = [
  {
   "id": "ras-luxury-oils-itm32de5d3a06ebd",
   "brand": "RAS Luxury Oils",
-  "model": "Brighten Lactic Acid body lotion (200 ml)",
+  "model": "Brighten Lactic Acid body lotion",
   "price": 874,
-  "capacityLine": "400 ml (pack of 2)",
+  "capacityLine": "40 g (pack of 2)",
   "materialLine": "lactic acid + aloe vera",
-  "featureLine": "Lotion · Paraben-free · ₹219/100ml",
+  "featureLine": "Lotion · Paraben-free · ₹2185/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -55248,8 +55249,8 @@ const CTPRODUCTS = [
    "experience": 0
   },
   "fullSpec": {
-   "quantity": "200 ml × 2 pack",
-   "pricePer100": "₹219/100ml",
+   "quantity": "20 g × 2 pack",
+   "pricePer100": "₹2185/100g",
    "format": "Lotion",
    "keyIngredients": "lactic acid, aloe vera (per listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -55278,7 +55279,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/ras-luxury-oils-brighten-lactic-acid-body-lotion/p/itm32de5d3a06ebd",
   "buyStore": "Flipkart",
-  "title": "RAS Luxury Oils Brighten Lactic Acid body lotion (200 ml)",
+  "title": "RAS Luxury Oils Brighten Lactic Acid body lotion",
   "tags": [
    "scope:both",
    "format:cream",
@@ -55300,7 +55301,7 @@ const CTPRODUCTS = [
    "free:derm",
    "free:hypoallergenic",
    "aud:women",
-   "size:xl",
+   "size:travel",
    "rating:none",
    "store:flipkart",
    "inci:partial"
@@ -55346,7 +55347,7 @@ const CTPRODUCTS = [
  {
   "id": "bandido-itm4b0cb88626756",
   "brand": "BANDIDO",
-  "model": "Magic De‑Tan Body Lotion | Saffron + Lactic Acid + Niacin …",
+  "model": "Magic De‑Tan Body Lotion | Saffron + Lactic Acid + Niacinamide |",
   "price": 207,
   "capacityLine": "100 ml",
   "materialLine": "niacinamide + lactic acid + aloe vera",
@@ -55386,7 +55387,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4★ from 205 ratings",
-   "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI; Irritation — aloe barbadensis leaf extract #7 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI; Irritation — aloe barbadensis leaf extract #7 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/8/p/q/100-magic-de-tan-body-lotion-saffron-lactic-acid-niacinamide-original-imahpaytcgsphtyb.jpeg?q=90",
@@ -55397,13 +55399,14 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/bandido-magic-detan-body-lotion-saffron-lactic-acid-niacinamide/p/itm4b0cb88626756",
   "buyStore": "Flipkart",
-  "title": "BANDIDO Magic De‑Tan Body Lotion | Saffron + Lactic Acid + Niacin …",
+  "title": "BANDIDO Magic De‑Tan Body Lotion | Saffron + Lactic Acid + Niacinamide |",
   "tags": [
    "scope:both",
    "format:cream",
    "format:lotion",
    "format:balm",
    "format:body-wax",
+   "water:unstated",
    "ing:niacinamide",
    "ing:lactic-acid",
    "ing:aloe-vera",
@@ -56375,7 +56378,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/v/w/50-ceramide-body-moisturizer-with-hyaluronic-acid-daily-original-imahqemzamfvgzs5.jpeg?q=90",
@@ -56390,6 +56394,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:lotion",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "claim:hydrating",
@@ -56481,7 +56486,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/s/f/f/150-ceramide-hyaluronic-acid-daily-moisturizing-lotion-for-dry-original-imahqemzhqj8d7bn.jpeg?q=90",
@@ -56496,6 +56502,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:lotion",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "claim:hydrating",
@@ -56804,7 +56811,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 63 ratings"
+   "buyerEvidence": "5★ from 63 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/a/e/200-acnexpert-body-lotion-with-green-tea-salicylic-acid-moody-original-imagwuyyq5xedgmu.jpeg?q=90",
@@ -56820,6 +56828,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:lotion",
    "sun:mineral",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:green-tea",
    "ing:zinc",
@@ -57261,7 +57270,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/s/l/c/100-strawberry-body-butter-cream-100-g-mi-ayurvedic-cream-original-imahqk68hsvpfztp.jpeg?q=90"
@@ -57273,6 +57283,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:balm",
+   "water:unstated",
    "ing:strawberry",
    "claim:ayurvedic",
    "skin:all",
@@ -58179,7 +58190,8 @@ const CTPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.5★ from 204 ratings",
-   "concernBasis": "Acne — niacinamide #12 on INCI, salicylic acid #13 on INCI; Dark spots — niacinamide #12 on INCI; Irritation — aloe barbadensis leaf juice #2 on INCI, panthenol #14 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #12 on INCI, salicylic acid #13 on INCI; Dark spots — niacinamide #12 on INCI; Irritation — aloe barbadensis leaf juice #2 on INCI, panthenol #14 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/s/l/l/400-10-aha-2-bha-body-lotion-spf-30-pa-for-back-body-acne-original-imahzrzhzdjh5rdr.jpeg?q=90",
@@ -58194,6 +58206,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:lotion",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:aha",
    "ing:strawberry",
@@ -58886,7 +58899,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Marico — Established / listed Indian FMCG house",
-   "buyerEvidence": "4.4★ from 3,04,343 ratings"
+   "buyerEvidence": "4.4★ from 3,04,343 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/x/e/a/-original-imahqnngr4wcxuhs.jpeg?q=90",
@@ -58902,6 +58916,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:lotion",
+   "water:unstated",
    "ing:vitamin-e",
    "ing:coconut",
    "ing:milk",
@@ -59329,7 +59344,8 @@ const CTPRODUCTS = [
    "evidenceActives": "glycerin (#3 on list, strong evidence); helianthus annuus seed oil (#4 on list, moderate evidence); theobroma cacao seed butter (#8 on list, limited evidence); dimethicone (#13 on list, moderate evidence); panthenol (#17 on list, moderate evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.5★ from 2,805 ratings"
+   "buyerEvidence": "4.5★ from 2,805 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/i/4/x/80-bodylovin-vanilla-caramello-body-lotion-with-cocoa-butter-original-imahfbrbkcf5bqz7.jpeg?q=90",
@@ -59345,6 +59361,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:lotion",
    "format:balm",
+   "water:unstated",
    "ing:cocoa-butter",
    "ing:vitamin-b5-panthenol",
    "claim:brightening",
@@ -59807,7 +59824,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Emami — Established / listed Indian FMCG house",
-   "buyerEvidence": "4.4★ from 2,39,043 ratings"
+   "buyerEvidence": "4.4★ from 2,39,043 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/w/f/400-doodh-kesar-body-lotion-24-hrs-moisturisation-for-soft-enriched-transparent-original-imahgmq73gvxcgvh.png?q=90",
@@ -59823,6 +59841,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:lotion",
    "format:oil",
+   "water:unstated",
    "ing:niacinamide",
    "ing:saffron",
    "ing:almond",
@@ -60028,7 +60047,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "RSH Global (Joy Personal Care) — Established / listed Indian FMCG house",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/5/i/0/800-cocoa-rich-nourishing-body-lotion-with-shea-butter-for-original-imahqgswsqjtkgcw.jpeg?q=90",
@@ -60046,6 +60066,7 @@ const CTPRODUCTS = [
    "format:lotion",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:honey",
    "ing:almond",
    "ing:shea-butter",
@@ -60828,7 +60849,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Emami — Established / listed Indian FMCG house",
-   "buyerEvidence": "4.4★ from 48,057 ratings"
+   "buyerEvidence": "4.4★ from 48,057 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/5/a/600-0-body-lotion-provides-24hrs-moisturisation-100-ayurvedic-enriched-transparent-original-imahcjsqfjjwag6a.png?q=90",
@@ -60843,6 +60865,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:lotion",
+   "water:unstated",
    "ing:saffron",
    "ing:honey",
    "ing:vitamin-e",
@@ -60936,7 +60959,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 10,310 ratings"
+   "buyerEvidence": "4★ from 10,310 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/u/7/400-naturals-cocoa-butter-aloevera-body-lotion-nourish-original-imahmyaezhzngzsk.jpeg?q=90",
@@ -60953,6 +60977,7 @@ const CTPRODUCTS = [
    "format:lotion",
    "format:balm",
    "format:clay-mask",
+   "water:unstated",
    "ing:clay",
    "ing:cocoa-butter",
    "claim:hydrating",
@@ -62531,7 +62556,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 18 ratings"
+   "buyerEvidence": "4.4★ from 18 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/k391w280/moisturizer-cream/d/g/9/350-herbal-cocoa-butter-face-body-lotion-350ml-lilium-lotion-original-imafmegsnm36jdca.jpeg?q=90",
@@ -62549,6 +62575,7 @@ const CTPRODUCTS = [
    "format:oil",
    "format:balm",
    "format:kit",
+   "water:unstated",
    "ing:cocoa-butter",
    "ing:vitamin-e",
    "ing:olive",
@@ -62883,7 +62910,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.9★ from 7 ratings"
+   "buyerEvidence": "4.9★ from 7 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/q/k/400-essence-nourishing-winter-lotion-almond-honey-nature-s-original-imah4dz5mtq56ag6.jpeg?q=90",
@@ -62900,6 +62928,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:lotion",
    "format:essence",
+   "water:unstated",
    "ing:honey",
    "ing:almond",
    "claim:brightening",
@@ -63657,7 +63686,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/i/k/7/600-0-hydrating-cocoa-butter-body-lotion-for-dry-and-rough-skin-original-imahgzpp6q2ggyg2.jpeg?q=90",
@@ -63677,6 +63707,7 @@ const CTPRODUCTS = [
    "format:balm",
    "spf:15",
    "sun:mineral",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:honey",
    "ing:almond",
@@ -64496,7 +64527,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 724 ratings"
+   "buyerEvidence": "4.4★ from 724 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/m/y/500-almond-soft-touch-body-lotion-for-women-men-hydrating-non-original-imahjkyxhhmbuwe9.jpeg?q=90",
@@ -64511,6 +64543,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:lotion",
+   "water:unstated",
    "ing:almond",
    "claim:brightening",
    "claim:oil-control",
@@ -65285,7 +65318,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/m/f/9/100-body-moisturiser-advanced-nourishing-winter-edition-body-original-imagj9hggbhxghvw.jpeg?q=90",
@@ -65303,6 +65337,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:lotion",
    "spf:15",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:aloe-vera",
    "claim:brightening",
@@ -65508,7 +65543,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.5★ from 41 ratings"
+   "buyerEvidence": "4.5★ from 41 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/8/e/q/200-med-anti-dry-body-lotion-seba-lotion-original-imagzfdhprgfhaq2.jpeg?q=90",
@@ -65523,6 +65559,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:lotion",
+   "water:unstated",
    "claim:hydrating",
    "skin:dry",
    "skin:sensitive",
@@ -66512,7 +66549,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/f/2/n/300-10-vitamin-c-brightening-body-lotion-for-even-skin-tone-skin-original-imahpyhzbxxstprv.jpeg?q=90",
@@ -66529,6 +66567,7 @@ const CTPRODUCTS = [
    "format:lotion",
    "format:serum",
    "spf:30",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:salicylic-acid-bha",
    "ing:aha",
@@ -66749,7 +66788,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Emami — Established / listed Indian FMCG house",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/n/p/300-doodh-kesar-ayurvedic-body-lotion-300ml-boroplus-lotion-original-imahzj2zetftxcdh.jpeg?q=90",
@@ -66766,6 +66806,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:lotion",
    "format:kit",
+   "water:unstated",
    "ing:saffron",
    "ing:almond",
    "ing:vitamin-e",
@@ -67207,7 +67248,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/q/p/c/200-mango-body-butter-fruie-butter-original-imahzymaeez7xzjg.jpeg?q=90",
@@ -67225,6 +67267,7 @@ const CTPRODUCTS = [
    "format:lotion",
    "format:balm",
    "spf:30",
+   "water:unstated",
    "ing:niacinamide",
    "ing:shea-butter",
    "claim:hydrating",
@@ -67529,7 +67572,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/9/7/200-shea-butter-body-lotion-moisturizer-for-soft-healthy-skin-original-imahzu33hadfpuyw.jpeg?q=90",
@@ -67548,6 +67592,7 @@ const CTPRODUCTS = [
    "format:balm",
    "spf:30",
    "pa:++++",
+   "water:unstated",
    "ing:honey",
    "ing:kumkumadi",
    "ing:almond",
@@ -67754,7 +67799,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/shopsy-moisturizer-cream/d/n/c/40-handmade-mango-body-butter-40g-deep-nourishment-intense-original-imahzpfwsnqqkrp2.jpeg?q=90",
@@ -67774,6 +67820,7 @@ const CTPRODUCTS = [
    "format:balm",
    "format:roll-on",
    "format:kit",
+   "water:unstated",
    "ing:urea",
    "claim:brightening",
    "claim:hydrating",
@@ -68183,7 +68230,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/d/a/o/200-akasa-cosmetics-body-butter-with-mango-butter-3-vitamin-e-0-original-imahphdewbvzjzyk.jpeg?q=90",
@@ -68202,6 +68250,7 @@ const CTPRODUCTS = [
    "format:balm",
    "format:kit",
    "spf:30",
+   "water:unstated",
    "ing:vitamin-e",
    "claim:hydrating",
    "claim:spf-claim",
@@ -68295,7 +68344,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/y/h/9/50-100-natural-triple-body-butter-deeply-hydrating-le-savon-original-imahgwvadq7tcdfz.jpeg?q=90",
@@ -68313,6 +68363,7 @@ const CTPRODUCTS = [
    "format:lotion",
    "format:balm",
    "format:kit",
+   "water:unstated",
    "ing:cocoa-butter",
    "claim:brightening",
    "claim:anti-aging",
@@ -68434,6 +68485,7 @@ const CTPRODUCTS = [
    "ing:glycerin",
    "ing:coconut",
    "ing:olive",
+   "ing:beeswax",
    "claim:brightening",
    "claim:anti-aging",
    "claim:hydrating",
@@ -68614,7 +68666,7 @@ const CTPRODUCTS = [
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 5.5,
+   "ingredients": 5.6,
    "skin": 5.9,
    "trust": 5.5,
    "experience": 0
@@ -68640,7 +68692,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): parfum (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — aloe barbadensis leaf juice #3 on INCI (matching only — not proof it works)"
+   "concernBasis": "Irritation — aloe barbadensis leaf juice #3 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/g/j/550-kronoklay-body-butter-550ml-deep-moisturizing-nourishing-for-original-imahmanhfjfdzbun.jpeg?q=90",
@@ -68661,6 +68714,7 @@ const CTPRODUCTS = [
    "format:kit",
    "spf:30",
    "pa:+",
+   "water:unstated",
    "claim:oil-control",
    "claim:hydrating",
    "claim:broad-spectrum",
@@ -68725,6 +68779,14 @@ const CTPRODUCTS = [
      "core": true,
      "trace": false,
      "src": "glycerin"
+    },
+    {
+     "name": "cera alba",
+     "grade": "B",
+     "position": 12,
+     "core": false,
+     "trace": true,
+     "src": "petrolatum"
     }
    ],
    "support": [
@@ -68794,7 +68856,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/o/c/d/100-daily-use-after-sun-body-butter-with-natural-ingredients-original-imahza4avzxbespa.jpeg?q=90",
@@ -68813,6 +68876,7 @@ const CTPRODUCTS = [
    "format:oil",
    "format:balm",
    "format:kit",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:shea-butter",
    "ing:vitamin-e",
@@ -68911,7 +68975,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/l/s/100-premium-body-butter-for-soft-smooth-and-hydrated-skin-wivzi-original-imahza4j4hyamrzk.jpeg?q=90",
@@ -68929,6 +68994,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:shea-butter",
    "ing:vitamin-e",
@@ -69027,7 +69093,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/v/8/c/100-hydrating-body-butter-with-shea-butter-coconut-oil-100g-original-imahza55r8zrec8z.jpeg?q=90",
@@ -69045,6 +69112,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:shea-butter",
    "ing:vitamin-e",
@@ -69143,7 +69211,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/i/t/100-deep-nourishing-body-butter-for-dry-skin-100g-wivzi-cream-original-imahza3whcmwukbg.jpeg?q=90",
@@ -69161,6 +69230,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:shea-butter",
    "ing:vitamin-e",
@@ -69259,7 +69329,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/y/r/100-after-sun-body-butter-for-healthy-glowing-skin-100g-wivzi-original-imahza452vvry9fu.jpeg?q=90",
@@ -69277,6 +69348,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:shea-butter",
    "ing:vitamin-e",
@@ -69377,7 +69449,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/j/y/x/100-coconut-oil-and-avocado-oil-after-sun-body-butter-wivzi-original-imahza3wqjrhtrjz.jpeg?q=90",
@@ -69395,6 +69468,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:shea-butter",
    "ing:vitamin-e",
@@ -69493,7 +69567,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/7/c/100-moisture-lock-after-sun-body-butter-for-silky-skin-wivzi-original-imahza55n2wkuzgk.jpeg?q=90",
@@ -69511,6 +69586,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:shea-butter",
    "ing:vitamin-e",
@@ -69609,7 +69685,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/g/u/c/100-rich-after-sun-body-butter-for-daily-skin-care-wivzi-cream-original-imahza4xeqduxpm3.jpeg?q=90",
@@ -69627,6 +69704,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:honey",
    "ing:almond",
@@ -69725,7 +69803,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/r/7/p/100-skin-softening-after-sun-body-butter-for-men-and-women-wivzi-original-imahza4yvjy6sjvr.jpeg?q=90",
@@ -69743,6 +69822,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:aloe-vera",
    "ing:shea-butter",
@@ -69841,7 +69921,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/a/o/q/100-after-sun-body-butter-for-extra-dry-skin-care-wivzi-cream-original-imahza6rg34gdkgh.jpeg?q=90",
@@ -69859,6 +69940,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:shea-butter",
    "ing:vitamin-e",
@@ -69959,7 +70041,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/s/1/100-after-sun-body-butter-with-rich-shea-butter-formula-wivzi-original-imahza6rdzbpwqzw.jpeg?q=90",
@@ -69977,6 +70060,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:aloe-vera",
    "ing:shea-butter",
@@ -70076,7 +70160,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/s/x/o/100-long-lasting-hydration-body-butter-with-natural-oils-wivzi-original-imahza7tcxrpw45c.jpeg?q=90",
@@ -70094,6 +70179,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:shea-butter",
    "ing:vitamin-e",
@@ -70192,7 +70278,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/v/s/q/100-after-sun-moisturizing-body-butter-for-dry-skin-100g-wivzi-original-imahza55v3zdeuhq.jpeg?q=90",
@@ -70210,6 +70297,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:shea-butter",
    "ing:vitamin-e",
@@ -70599,7 +70687,8 @@ const CTPRODUCTS = [
    "evidenceActives": "butyrospermum parkii butter (#3 on list, moderate evidence); theobroma cacao seed butter (#4 on list, limited evidence); glycerin (#6 on list, strong evidence); tocopheryl acetate (#20 on list, moderate evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/s/r/b/200-oudh-body-butter-hydrates-for-soft-smooth-radiant-skin-original-imaha3y9uuumnukm.jpeg?q=90",
@@ -70616,6 +70705,7 @@ const CTPRODUCTS = [
    "format:gel",
    "format:lotion",
    "format:balm",
+   "water:unstated",
    "ing:coffee",
    "claim:brightening",
    "claim:anti-aging",
@@ -70755,7 +70845,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/l3dcl8w0/moisturizer-cream/o/h/w/150-purple-passion-body-butter-kaved-essentials-cream-original-imageg5vxzsvzmgd.jpeg?q=90",
@@ -70775,6 +70866,7 @@ const CTPRODUCTS = [
    "format:kit",
    "spf:30",
    "pa:+++",
+   "water:unstated",
    "claim:hydrating",
    "claim:broad-spectrum",
    "claim:spf-claim",
@@ -71085,7 +71177,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/h/e/200-body-butter-cream-pack-of-5-buttermax-cream-original-imahgzrnb3aj2ha8.jpeg?q=90",
@@ -71105,6 +71198,7 @@ const CTPRODUCTS = [
    "format:kit",
    "spf:30",
    "pa:+++",
+   "water:unstated",
    "ing:ceramides",
    "claim:hydrating",
    "claim:broad-spectrum",
@@ -71196,7 +71290,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/a/a/g/200-stress-relieving-body-butter-jar-200-gm-the-vyasa-butter-original-imahzbh7gdt2scxs.jpeg?q=90",
@@ -71214,6 +71309,7 @@ const CTPRODUCTS = [
    "format:balm",
    "spf:30",
    "pa:+++",
+   "water:unstated",
    "claim:brightening",
    "claim:hydrating",
    "claim:broad-spectrum",
@@ -73087,7 +73183,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.7★ from 6 ratings"
+   "buyerEvidence": "4.7★ from 6 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/5/g/150-body-butter-moisturizing-cream-150-buttermax-cream-original-imahhzhsfhqkhxbs.jpeg?q=90",
@@ -73104,6 +73201,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:shea-butter",
    "ing:cocoa-butter",
    "ing:glycerin",
@@ -73988,7 +74086,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/a/w/g/200-ceramide-3-deep-nourishing-body-lotion-200g-dermacy-lotion-original-imahmyempyfsxvyk.jpeg?q=90",
@@ -74002,6 +74101,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:lotion",
+   "water:unstated",
    "ing:ceramides",
    "claim:hydrating",
    "skin:all",
@@ -74093,7 +74193,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/n/a/s/200-ceramide-hyaluronic-acid-body-lotion-for-hydrated-nourished-original-imahqen6hhfgg3pj.jpeg?q=90",
@@ -74108,6 +74209,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:lotion",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "claim:hydrating",
@@ -74199,7 +74301,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/k/1/a/50-ceramide-hyaluronic-acid-lotion-daily-body-moisturizer-for-original-imahqemzu8w8cqzq.jpeg?q=90",
@@ -74214,6 +74317,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:lotion",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "claim:hydrating",
@@ -74305,7 +74409,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/v/u/1250-nourishing-honey-almond-body-lotion-for-paraben-free-caret-original-imagvkprhwwfztxt.jpeg?q=90",
@@ -74323,6 +74428,7 @@ const CTPRODUCTS = [
    "format:kit",
    "spf:30",
    "pa:+",
+   "water:unstated",
    "ing:honey",
    "ing:almond",
    "ing:avocado",
@@ -74745,7 +74851,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/q/n/k/150-ceramide-skin-barrier-body-lotion-with-hyaluronic-acid-for-original-imahqen6gkb6smby.jpeg?q=90",
@@ -74760,6 +74867,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:lotion",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "claim:hydrating",
@@ -74969,7 +75077,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/v/d/c/100-ceramide-body-moisturiser-with-hyaluronic-acid-for-nourished-original-imahqen6exxfsggt.jpeg?q=90",
@@ -74984,6 +75093,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:lotion",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "claim:hydrating",
@@ -76069,7 +76179,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/n/s/u/150-ceramide-hyaluronic-acid-body-moisturizer-nourishing-daily-original-imahqemzs3yumhc3.jpeg?q=90",
@@ -76084,6 +76195,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:lotion",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "claim:hydrating",
@@ -76175,7 +76287,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Bio Veda Action Research — Established / listed Indian FMCG house",
-   "buyerEvidence": "4.3★ from 6,173 ratings"
+   "buyerEvidence": "4.3★ from 6,173 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/3/5/j/-original-imah6pkz4zzzy6sa.jpeg?q=90",
@@ -76191,6 +76304,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:lotion",
    "format:oil",
+   "water:unstated",
    "ing:coconut",
    "claim:hydrating",
    "claim:barrier",
@@ -76286,7 +76400,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 413 ratings"
+   "buyerEvidence": "4.3★ from 413 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/s/g/n/1000-body-lotion-combo-of-4-250-ml-each-for-men-and-women-all-original-imahgmjy5sdwjqsx.jpeg?q=90",
@@ -76303,6 +76418,7 @@ const CTPRODUCTS = [
    "format:lotion",
    "format:balm",
    "format:kit",
+   "water:unstated",
    "ing:cocoa-butter",
    "claim:brightening",
    "claim:whitening-claim",
@@ -76603,7 +76719,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/f/n/aloe-vera-body-lotion-soothes-hydrates-rejuvenates-dull-skin-original-imah8nh46vznejvp.jpeg?q=90",
@@ -76622,10 +76739,12 @@ const CTPRODUCTS = [
    "format:serum",
    "format:oil",
    "format:kit",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:charcoal",
    "ing:almond",
    "ing:glycerin",
+   "ing:beeswax",
    "claim:brightening",
    "claim:whitening-claim",
    "claim:oil-control",
@@ -76841,7 +76960,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 316 ratings"
+   "buyerEvidence": "4.3★ from 316 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/k37mg7k0/moisturizer-cream/9/j/r/350-herbal-honey-alomonds-face-body-lotion-350ml-lilium-lotion-original-imafmey7rqqqgtyd.jpeg?q=90",
@@ -76857,6 +76977,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:lotion",
    "format:kit",
+   "water:unstated",
    "ing:honey",
    "ing:almond",
    "ing:vitamin-e",
@@ -76948,7 +77069,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/i/l/4/300-honey-almonds-moisture-enriched-body-lotion-for-all-skin-original-imahgf5pcz4jhbf5.jpeg?q=90",
@@ -76964,6 +77086,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:lotion",
    "format:kit",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "ing:honey",
@@ -79572,7 +79695,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 35 ratings"
+   "buyerEvidence": "4.4★ from 35 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/t/c/l/480-nourishing-soft-touch-body-lotion-for-women-almond-intensive-original-imahjhcvvprdj4e6.jpeg?q=90",
@@ -79588,6 +79712,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:lotion",
    "format:scrub",
+   "water:unstated",
    "ing:almond",
    "claim:brightening",
    "claim:hydrating",
@@ -79996,7 +80121,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.5★ from 58 ratings"
+   "buyerEvidence": "4.5★ from 58 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/d/y/q/100-coconut-honey-body-butter-with-vitamin-e-oil-for-intense-original-imagh8yeaxxszhvu.jpeg?q=90",
@@ -80013,6 +80139,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:honey",
    "ing:almond",
@@ -80115,7 +80242,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/c/u/6/200-body-lotion-for-men-deep-hydration-non-greasy-coconut-oil-original-imahj2cqwz33pqk9.jpeg?q=90",
@@ -80134,6 +80262,7 @@ const CTPRODUCTS = [
    "format:oil",
    "format:balm",
    "sun:mineral",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:shea-butter",
    "ing:licorice",
@@ -80557,7 +80686,8 @@ const CTPRODUCTS = [
    "evidenceActives": "glycerin (#2 on list, strong evidence); shea butter (#5 on list, moderate evidence); dimethicone (#6 on list, moderate evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/f/o/p/200-0-nourishment-for-soft-silky-skin-body-lotion-rucira-cream-original-imahphdpbs7wfg6f.jpeg?q=90",
@@ -80575,6 +80705,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:lotion",
    "format:balm",
+   "water:unstated",
    "ing:shea-butter",
    "ing:glycerin",
    "claim:brightening",
@@ -80822,7 +80953,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/g/t/i/10-body-lotion-moisturizer-body-lotion-lotion-body-body-lotions-original-imahmqjcaxrzmbhq.jpeg?q=90",
@@ -80841,6 +80973,7 @@ const CTPRODUCTS = [
    "format:serum",
    "spf:30",
    "pa:+++",
+   "water:unstated",
    "ing:green-tea",
    "ing:centella-cica",
    "ing:aloe-vera",
@@ -80935,7 +81068,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/shopsy-moisturizer-cream/z/u/n/10-body-lotion-moisturizer-for-summer-dry-skin-cream-for-women-original-imahmz2hzngunxwf.jpeg?q=90",
@@ -80953,6 +81087,7 @@ const CTPRODUCTS = [
    "format:lotion",
    "spf:30",
    "pa:+++",
+   "water:unstated",
    "ing:centella-cica",
    "claim:hydrating",
    "claim:spf-claim",
@@ -81046,7 +81181,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.7★ from 78 ratings"
+   "buyerEvidence": "4.7★ from 78 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/m/r/9/300-body-lotion-oudh-chandan-certified-natural-vedic-valley-original-imaggz6pkgzzbddn.jpeg?q=90",
@@ -81061,6 +81197,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:lotion",
+   "water:unstated",
    "ing:sandalwood",
    "claim:hydrating",
    "skin:all",
@@ -81153,7 +81290,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 164 ratings"
+   "buyerEvidence": "4.3★ from 164 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/o/0/q/750-body-lotion-combo-of-3-250-ml-each-for-men-and-women-all-original-imagk39335hgfh9y.jpeg?q=90",
@@ -81170,6 +81308,7 @@ const CTPRODUCTS = [
    "format:lotion",
    "format:balm",
    "format:kit",
+   "water:unstated",
    "ing:almond",
    "ing:cocoa-butter",
    "ing:milk",
@@ -82034,7 +82173,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 125 ratings"
+   "buyerEvidence": "4.4★ from 125 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/moisturizer-cream/c/s/r/dxn-250-aleo-v-hand-and-body-lotion-original-imaeg6g53yym8mpk.jpeg?q=90"
@@ -82047,6 +82187,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:lotion",
    "format:scrub",
+   "water:unstated",
    "claim:hydrating",
    "skin:all",
    "free:paraben",
@@ -84664,7 +84805,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
-   "buyerEvidence": "5★ from 3 ratings"
+   "buyerEvidence": "5★ from 3 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/k/m/d/400-deep-moisture-serum-in-body-lotion-for-cushion-soft-skin-original-imahhhqs2gmquava.jpeg?q=90",
@@ -84681,6 +84823,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:lotion",
    "format:serum",
+   "water:unstated",
    "ing:glycerin",
    "claim:hydrating",
    "claim:exfoliating",
@@ -84772,7 +84915,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/v/1/o/400-deep-moisture-48hr-long-lasting-moisturization-body-lotion-original-imahggyf3jwbruxk.jpeg?q=90",
@@ -84789,6 +84933,7 @@ const CTPRODUCTS = [
    "format:lotion",
    "format:scrub",
    "format:kit",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "claim:oil-control",
@@ -85290,7 +85435,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/s/r/u/800-deep-moisture-non-sticky-for-dry-skin-body-lotion-400ml-set-original-imahny7zkvbdudtu.jpeg?q=90",
@@ -85310,6 +85456,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:kit",
    "spf:30",
+   "water:unstated",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:ceramides",
@@ -85828,7 +85975,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
-   "buyerEvidence": "3.9★ from 248 ratings"
+   "buyerEvidence": "3.9★ from 248 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/a/t/3/390-4-yello-deep-moisture-body-lotion-400-ml-x-1-bbd-spl-original-imahh9upcg7hzkb4.jpeg?q=90",
@@ -85843,6 +85991,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:lotion",
+   "water:unstated",
    "claim:hydrating",
    "skin:dry",
    "skin:all",
@@ -86341,7 +86490,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): perfume (−1.5); EU-declared fragrance allergen: benzyl salicylate, butylphenyl methylpropional, hexyl cinnamal, linalool (−2); Essential oil / volatile sensitiser: menthol (−0.5)",
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
    "buyerEvidence": "4.4★ from 20,143 ratings",
-   "concernBasis": "Irritation — aloe barbadensis leaf juice #11 on INCI (matching only — not proof it works)"
+   "concernBasis": "Irritation — aloe barbadensis leaf juice #11 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/d/d/-original-imahfk4jdz5mwrmr.jpeg?q=90",
@@ -86358,6 +86508,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:lotion",
    "format:patch",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:saffron",
    "ing:vitamin-e",
@@ -86830,7 +86981,8 @@ const CTPRODUCTS = [
    "evidenceActives": "glycerin (#2 on list, strong evidence); petrolatum (#4 on list, strong evidence); dimethicone (#6 on list, moderate evidence); tocopheryl acetate (#14 on list, moderate evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/0/h/q/400-sun-protect-daily-body-lotion-vaseline-cream-original-imahqekfpeay25sz.jpeg?q=90",
@@ -86849,6 +87001,7 @@ const CTPRODUCTS = [
    "format:oil",
    "spf:30",
    "sun:mineral",
+   "water:unstated",
    "ing:petrolatum",
    "ing:glycerin",
    "ing:mineral-oil",
@@ -87191,7 +87344,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
-   "buyerEvidence": "4.6★ from 8 ratings"
+   "buyerEvidence": "4.6★ from 8 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/j/m/g/400-advanced-hydration-body-lotion-400ml-all-skin-types-vaseline-original-imahhsbvfd4najax.jpeg?q=90",
@@ -87207,6 +87361,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:lotion",
+   "water:unstated",
    "claim:hydrating",
    "skin:all",
    "free:paraben",
@@ -87295,7 +87450,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/g/x/p/440-intensive-care-deep-moisture-lotion-400ml-pure-skin-jelly-original-imahhuy5pv8ggfws.jpeg?q=90",
@@ -87314,6 +87470,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:balm",
    "format:kit",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "ing:shea-butter",
@@ -87613,7 +87770,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
-   "buyerEvidence": "3★ from 8 ratings"
+   "buyerEvidence": "3★ from 8 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/i/k/5/800-intensive-care-deep-moisture-48-hr-long-lasting-nourishing-original-imahgcvz8gzwhkpz.jpeg?q=90",
@@ -87630,6 +87788,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:lotion",
    "format:scrub",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "claim:hydrating",
@@ -87725,7 +87884,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/f/z/d/800-deep-moisture-body-lotion-2-qty-of-397-ml-vaseline-lotion-original-imagn48yyaudkyxu.jpeg?q=90",
@@ -87742,6 +87902,7 @@ const CTPRODUCTS = [
    "format:lotion",
    "format:kit",
    "spf:30",
+   "water:unstated",
    "claim:hydrating",
    "claim:spf-claim",
    "skin:all",
@@ -88136,7 +88297,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/j/7/0/800-intensive-deep-moisture-nourishing-body-lotion-ml-x-2-800-ml-original-imahhsftbuvtbb3e.jpeg?q=90",
@@ -88155,6 +88317,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:balm",
    "format:kit",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:shea-butter",
    "claim:brightening",
@@ -88247,7 +88410,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
-   "buyerEvidence": "4★ from 5 ratings"
+   "buyerEvidence": "4★ from 5 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/d/d/s/400-intensive-care-deep-moisture-48-hr-long-lasting-nourishing-original-imahgcvrpvzx3kjk.jpeg?q=90",
@@ -88264,6 +88428,7 @@ const CTPRODUCTS = [
    "format:gel",
    "format:lotion",
    "format:scrub",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "claim:hydrating",
@@ -88358,7 +88523,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/k/9/r/399-1-yeelow-deep-moisture-body-lotion-400-ml-x-1-bbd-spl-original-imah4kagmthzsznd.jpeg?q=90",
@@ -88377,6 +88543,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:kit",
    "spf:30",
+   "water:unstated",
    "claim:brightening",
    "claim:hydrating",
    "claim:spf-claim",
@@ -89237,7 +89404,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
-   "buyerEvidence": "4.2★ from 20 ratings"
+   "buyerEvidence": "4.2★ from 20 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/8/8/h/400-0-daily-brightening-body-lotion-gives-non-greasy-glowing-original-imahggftgtpqe6wz.jpeg?q=90",
@@ -89254,6 +89422,7 @@ const CTPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:lotion",
+   "water:unstated",
    "ing:niacinamide",
    "claim:brightening",
    "claim:oil-control",
@@ -89345,7 +89514,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/8/j/e/400-advanced-repair-body-lotion-for-sensitive-dry-skin-vaseline-original-imahhb7zrxwupzsu.jpeg?q=90",
@@ -89363,6 +89533,7 @@ const CTPRODUCTS = [
    "format:lotion",
    "format:serum",
    "format:kit",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "claim:brightening",
@@ -90049,7 +90220,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Ajanta Pharma — Dermatology / pharmaceutical manufacturer",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/skin-treatment/f/j/d/100-max-intensive-moisturizing-cream-aquasoft-original-imahk66anuthpxec.jpeg?q=90",
@@ -90065,6 +90237,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:lotion",
+   "water:unstated",
    "claim:hydrating",
    "skin:oily",
    "skin:dry",
@@ -90931,7 +91104,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/8/f/8/300-triple-moisturizing-skin-body-lotion-beta-glucan-aquaxyl-original-imahgzstxc8wpkjd.jpeg?q=90",
@@ -90949,6 +91123,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:lotion",
    "spf:30",
+   "water:unstated",
    "claim:hydrating",
    "claim:spf-claim",
    "aud:unisex",
@@ -93799,17 +93974,19 @@ const CTPRODUCTS = [
   "capacityLine": "400 ml (pack of 2)",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Oil · ₹72/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
+   "glycerin high on the INCI list (strong evidence); dimethicone high on the INCI list (moderate evidence)",
    "Well-reviewed: 4.3★ from 227 ratings"
   ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): perfume",
+   "EU-declared fragrance allergen: linalool, citronellol"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 8.1,
+   "skin": 5.5,
+   "trust": 8.5,
    "experience": 6.2
   },
   "fullSpec": {
@@ -93826,11 +94003,13 @@ const CTPRODUCTS = [
    "skinType": "All Skin Types",
    "rating": "4.3/5 (227 ratings, Flipkart)",
    "madeIn": "India",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-nourishing-lotion-body-milk-40058087252980213.html",
+   "inciMatchedName": "nivea nourishing lotion body milk 40058087252980213 (name match 87%)",
+   "inciList": "Aqua, Paraffinum Liquidum, Glycerin, C15-19 Alkane, Alcohol Denat., Cetearyl Alcohol, Dimethicone, Phenoxyethanol, Prunus Amygdalus Dulcis Oil, Perfume, Carbomer, Tocopherol, Sodium Hydroxide, Linalool, Citronellol, Alpha-Isomethyl Ionone, Maris Sal, Limonene, Acetyl Cedrene, Benzyl Alcohol, Lavandula Oil/Extract, Benzyl Salicylate, Terpineol, Linalyl Acetate, Sodium Hyaluronate\"}",
+   "evidenceActives": "glycerin (#3 on list, strong evidence); dimethicone (#6 on list, moderate evidence); prunus amygdalus dulcis oil (#8 on list, moderate evidence); tocopherol (#11 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): perfume (−1.5); EU-declared fragrance allergen: linalool, citronellol, alpha-isomethyl ionone, limonene, benzyl alcohol, benzyl salicylate (−2); Drying alcohol high in the list: alcohol denat (−1)",
    "maker": "Beiersdorf — Global FMCG or beauty group",
    "buyerEvidence": "4.3★ from 227 ratings"
   },
@@ -93861,7 +94040,8 @@ const CTPRODUCTS = [
    "size:xl",
    "rating:4.0",
    "store:flipkart",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "actives": false,
@@ -93870,27 +94050,121 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-nourishing-lotion-body-milk-40058087252980213.html",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "nivea nourishing lotion body milk 40058087252980213",
+   "inciMatchScore": 0.87,
+   "inciText": "Aqua, Paraffinum Liquidum, Glycerin, C15-19 Alkane, Alcohol Denat., Cetearyl Alcohol, Dimethicone, Phenoxyethanol, Prunus Amygdalus Dulcis Oil, Perfume, Carbomer, Tocopherol, Sodium Hydroxide, Linalool, Citronellol, Alpha-Isomethyl Ionone, Maris Sal, Limonene, Acetyl Cedrene, Benzyl Alcohol, Lavandula Oil/Extract, Benzyl Salicylate, Terpineol, Linalyl Acetate, Sodium Hyaluronate\"}",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.92,
+   "actives": [
+    {
+     "name": "paraffinum liquidum",
+     "grade": "B",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "prunus amygdalus dulcis oil",
+     "grade": "B",
+     "position": 8,
+     "core": true,
+     "trace": true,
+     "src": "squalane"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 11,
+     "core": true,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "maris sal",
+     "grade": "C",
+     "position": 16,
+     "core": false,
+     "trace": true,
+     "src": "aadScrub"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 24,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "dimethicone",
+    "sodium hyaluronate"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "euAllergen",
+     "label": "EU-declared fragrance allergen",
+     "names": [
+      "linalool",
+      "citronellol",
+      "alpha-isomethyl ionone",
+      "limonene",
+      "benzyl alcohol",
+      "benzyl salicylate"
+     ],
+     "penalty": 2,
+     "src": "eu1223"
+    },
+    {
+     "id": "alcoholDenat",
+     "label": "Drying alcohol high in the list",
+     "names": [
+      "alcohol denat"
+     ],
+     "penalty": 1,
+     "src": "alcohol"
+    }
+   ],
    "maker": {
     "parent": "Beiersdorf",
     "kind": "global",
@@ -94377,7 +94651,8 @@ const CTPRODUCTS = [
    "evidenceActives": "glycerin (#3 on list, strong evidence); dimethicone (#9 on list, moderate evidence)",
    "safetyFlags": "Added fragrance (parfum): perfume (−1.5); EU-declared fragrance allergen: linalool, benzyl alcohol, citronellol (−1.5)",
    "maker": "Beiersdorf — Global FMCG or beauty group",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/v/d/3/400-express-hydration-body-lotion-moisture-hyaluronic-acid-men-original-imahjcbpsfhg5fws.jpeg?q=90",
@@ -94395,6 +94670,7 @@ const CTPRODUCTS = [
    "format:lotion",
    "format:serum",
    "format:kit",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:aloe-vera",
    "claim:oil-control",
@@ -96400,7 +96676,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Beiersdorf — Global FMCG or beauty group",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/t/m/v/400-aloe-soft-hydrating-care-body-lotion-for-men-women-nivea-original-imahjf8mztqhynue.jpeg?q=90",
@@ -96419,6 +96696,7 @@ const CTPRODUCTS = [
    "format:lotion",
    "format:oil",
    "format:kit",
+   "water:unstated",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:aloe-vera",
@@ -96514,7 +96792,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Beiersdorf — Global FMCG or beauty group",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/o/6/225-aloe-protection-75ml-bodylotion-set-of-3-nivea-lotion-original-imahgh5gkhwtjz8z.jpeg?q=90",
@@ -96532,6 +96811,7 @@ const CTPRODUCTS = [
    "format:lotion",
    "format:kit",
    "spf:15",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:milk",
    "claim:oil-control",
@@ -96917,7 +97197,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Beiersdorf — Global FMCG or beauty group",
-   "buyerEvidence": "4.2★ from 59 ratings"
+   "buyerEvidence": "4.2★ from 59 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/jubjte80/moisturizer-cream/h/q/x/800-spf-15-extra-whitening-cell-repair-nourishing-lotion-body-original-imaffhfbqkrd6f5e.jpeg?q=90",
@@ -96932,6 +97213,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:lotion",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:milk",
    "claim:brightening",
@@ -97575,15 +97857,18 @@ const CTPRODUCTS = [
   "capacityLine": "400 ml (pack of 2)",
   "materialLine": "shea butter",
   "featureLine": "Oil · ₹77/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence); butyrospermum parkii butter high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): perfume",
+   "EU-declared fragrance allergen: linalool, limonene"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 8,
+   "skin": 6.5,
+   "trust": 8.5,
    "experience": 3.4
   },
   "fullSpec": {
@@ -97600,11 +97885,13 @@ const CTPRODUCTS = [
    "skinType": "All Skin Types",
    "rating": "4/5 (10 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-shea-smooth-body-milk-89042560036980213.html",
+   "inciMatchedName": "nivea shea smooth body milk 89042560036980213 (name match 85%)",
+   "inciList": "Aqua, Glycerin, Cetearyl Alcohol, C15-19 Alkane, Isopropyl Palmitate, Paraffinum Liquidum, Glyceryl Stearate SE, Butyrospermum Parkii Butter, Dimethicone, Glyceryl Stearate, Sodium Cetearyl Sulfate, Sodium Hydroxide, Carbomer, Phenoxyethanol, Ethylhexylglycerin, Linalool, Limonene, Benzyl Alcohol, Citronellol, Alpha-Isomethyl Ionone, Perfume",
+   "evidenceActives": "glycerin (#2 on list, strong evidence); butyrospermum parkii butter (#7 on list, moderate evidence); dimethicone (#8 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): perfume (−1.5); EU-declared fragrance allergen: linalool, limonene, benzyl alcohol, citronellol, alpha-isomethyl ionone (−2)",
    "maker": "Beiersdorf — Global FMCG or beauty group",
    "buyerEvidence": "4★ from 10 ratings"
   },
@@ -97636,7 +97923,8 @@ const CTPRODUCTS = [
    "size:xl",
    "rating:4.0",
    "store:flipkart",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "actives": false,
@@ -97645,27 +97933,87 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-shea-smooth-body-milk-89042560036980213.html",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "nivea shea smooth body milk 89042560036980213",
+   "inciMatchScore": 0.85,
+   "inciText": "Aqua, Glycerin, Cetearyl Alcohol, C15-19 Alkane, Isopropyl Palmitate, Paraffinum Liquidum, Glyceryl Stearate SE, Butyrospermum Parkii Butter, Dimethicone, Glyceryl Stearate, Sodium Cetearyl Sulfate, Sodium Hydroxide, Carbomer, Phenoxyethanol, Ethylhexylglycerin, Linalool, Limonene, Benzyl Alcohol, Citronellol, Alpha-Isomethyl Ionone, Perfume",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "paraffinum liquidum",
+     "grade": "B",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 8,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "butyrospermum parkii butter",
+    "dimethicone"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "euAllergen",
+     "label": "EU-declared fragrance allergen",
+     "names": [
+      "linalool",
+      "limonene",
+      "benzyl alcohol",
+      "citronellol",
+      "alpha-isomethyl ionone"
+     ],
+     "penalty": 2,
+     "src": "eu1223"
+    }
+   ],
    "maker": {
     "parent": "Beiersdorf",
     "kind": "global",
@@ -98978,7 +99326,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — aloe barbadensis leaf extract #11 on INCI (matching only — not proof it works)"
+   "concernBasis": "Irritation — aloe barbadensis leaf extract #11 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/b/8/200-honey-almond-body-lotion-deep-moisturization-24-hours-original-imahktcwtjd27qyy.jpeg?q=90",
@@ -98995,6 +99344,7 @@ const CTPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:lotion",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:rose",
    "ing:honey",
@@ -99270,7 +99620,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/8/l/8/300-hyaluronic-nourishing-body-lotion-with-shea-butter-avocado-original-imahdbdw8qemyv7p.jpeg?q=90",
@@ -99289,6 +99640,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:balm",
    "format:kit",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:aloe-vera",
    "ing:shea-butter",
@@ -99508,7 +99860,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.5★ from 6 ratings"
+   "buyerEvidence": "4.5★ from 6 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/n/v/250-lightweight-hydrating-body-lotion-for-dry-oily-sensitive-original-imahhhgad72bcayc.jpeg?q=90",
@@ -99526,6 +99879,7 @@ const CTPRODUCTS = [
    "format:lotion",
    "format:balm",
    "spf:15",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:shea-butter",
    "ing:vitamin-e",
@@ -99631,7 +99985,8 @@ const CTPRODUCTS = [
    "evidenceActives": "glycerin (#5 on list, strong evidence); ceramide eos (#11 on list, moderate evidence); ceramide ns (#12 on list, moderate evidence); ceramide np (#13 on list, moderate evidence); ceramide ap (#15 on list, moderate evidence); tocopherol (#26 on list, moderate evidence); dimethicone (#29 on list, moderate evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Pep Technologies — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.4★ from 1,460 ratings"
+   "buyerEvidence": "4.4★ from 1,460 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/e/r/300-10-magnesium-body-lotion-for-3x-stress-reduction-better-original-imahhavpphfvbth9.jpeg?q=90",
@@ -99648,6 +100003,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:lotion",
    "format:balm",
+   "water:unstated",
    "ing:caffeine",
    "ing:aloe-vera",
    "ing:cocoa-butter",
@@ -99842,7 +100198,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/n/r/m/100-kin-brightening-moisturizing-lotion-100-ml-shea-butter-body-original-imahzkcuykexw5xc.jpeg?q=90",
@@ -99859,6 +100216,7 @@ const CTPRODUCTS = [
    "format:lotion",
    "format:balm",
    "spf:30",
+   "water:unstated",
    "claim:whitening-claim",
    "claim:hydrating",
    "claim:lightweight",
@@ -100299,7 +100657,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/3/2/b/200-lightweight-non-greasy-alovera-body-lotion-shea-butter-body-original-imah7gfgj7eypkf3.jpeg?q=90",
@@ -100315,6 +100674,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:lotion",
    "format:balm",
+   "water:unstated",
    "ing:colloidal-oatmeal",
    "ing:honey",
    "ing:almond",
@@ -100413,7 +100773,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/f/r/1/100-advansed-deep-nourish-body-lotion-for-women-men-100-natural-original-imah9zqr4f7jqnbp.jpeg?q=90",
@@ -100433,6 +100794,7 @@ const CTPRODUCTS = [
    "format:oil",
    "format:balm",
    "sun:mineral",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:aloe-vera",
    "ing:shea-butter",
@@ -100762,7 +101124,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/i/z/r/500-moisturising-body-lotion-with-oatmeal-goat-lotion-original-imahpjcq762npkqq.jpeg?q=90",
@@ -100781,6 +101144,7 @@ const CTPRODUCTS = [
    "format:oil",
    "format:kit",
    "spf:30",
+   "water:unstated",
    "ing:colloidal-oatmeal",
    "ing:honey",
    "ing:argan-oil",
@@ -101208,7 +101572,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/y/9/k/500-body-lotion-long-lasting-moisture-moisturizer-lotion-for-original-imahk565egpsb3ah.jpeg?q=90",
@@ -101227,6 +101592,7 @@ const CTPRODUCTS = [
    "format:lotion",
    "format:balm",
    "format:patch",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:green-tea",
    "ing:centella-cica",
@@ -101242,6 +101608,7 @@ const CTPRODUCTS = [
    "claim:stretch-marks",
    "claim:cracked-heels",
    "claim:scars",
+   "claim:chapped-lips",
    "skin:dry",
    "skin:all",
    "free:paraben",
@@ -101331,7 +101698,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 39 ratings"
+   "buyerEvidence": "4★ from 39 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/k/a/u/100-tyrodinbody-lotion-tyrodin-lotion-original-imahkgyatnen5hnq.jpeg?q=90",
@@ -101346,6 +101714,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:lotion",
+   "water:unstated",
    "claim:brightening",
    "claim:hydrating",
    "skin:all",
@@ -104536,13 +104905,13 @@ const CTPRODUCTS = [
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "No ingredient list published on the listing",
+   "Only 4 ingredients named — formula unscored",
    "Maker not verified — no parent company found"
   ],
   "scores": {
    "ingredients": 0,
    "skin": 0,
-   "trust": 3.5,
+   "trust": 3.8,
    "experience": 2.9
   },
   "fullSpec": {
@@ -104559,9 +104928,9 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.3/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
+   "inciStatus": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: Top notes: Citrus, Fruity Notes. Heart notes: Floral Notes. Base notes: Musk, Amber, Woody Notes",
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
@@ -104593,7 +104962,7 @@ const CTPRODUCTS = [
    "size:large",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "inci:partial"
   ],
   "filters": {
    "actives": true,
@@ -104602,23 +104971,23 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
+   "inci": "partial",
    "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
    "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
+   "inciUnverified": "Top notes: Citrus, Fruity Notes. Heart notes: Floral Notes. Base notes: Musk, Amber, Woody Notes",
+   "inciNote": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
    "declarationConfidence": null,
-   "recognised": null,
+   "recognised": 0.5,
    "actives": [],
    "support": [],
    "formulaNotes": [],
@@ -107318,6 +107687,7 @@ const CTPRODUCTS = [
    "ing:aloe-vera",
    "ing:shea-butter",
    "ing:cocoa-butter",
+   "ing:polyglutamic-acid",
    "claim:hydrating",
    "skin:dry",
    "free:derm",
@@ -108611,7 +108981,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41B7JxLnZ5L._AC_UL320_.jpg"
@@ -108624,6 +108995,7 @@ const CTPRODUCTS = [
    "format:lotion",
    "format:oil",
    "spf:30",
+   "water:unstated",
    "ing:retinol",
    "ing:vitamin-b5-panthenol",
    "claim:hydrating",
@@ -109005,7 +109377,8 @@ const CTPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "WishCare — Indian D2C brand with its own product company",
    "buyerEvidence": "4.3★ from 0 ratings",
-   "concernBasis": "Acne — niacinamide #9 on INCI, salicylic acid #10 on INCI; Dark spots — niacinamide #9 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #9 on INCI, salicylic acid #10 on INCI; Dark spots — niacinamide #9 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41IubZZgVTL._AC_UL320_.jpg"
@@ -109018,6 +109391,7 @@ const CTPRODUCTS = [
    "format:lotion",
    "format:kit",
    "spf:50",
+   "water:unstated",
    "ing:niacinamide",
    "ing:retinol",
    "ing:salicylic-acid-bha",
@@ -109182,7 +109556,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51MrTIb8iYL._AC_UL320_.jpg"
@@ -109197,6 +109572,7 @@ const CTPRODUCTS = [
    "format:patch",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:niacinamide",
    "ing:aha",
    "ing:shea-butter",
@@ -111477,7 +111853,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41F1JivCQrL._AC_UL320_.jpg"
@@ -111489,6 +111866,7 @@ const CTPRODUCTS = [
    "scope:body",
    "format:lotion",
    "spf:30",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:glycolic-acid",
@@ -129548,6 +129926,7 @@ const CTPRODUCTS = [
    "ing:shea-butter",
    "ing:avocado",
    "ing:calendula",
+   "ing:beeswax",
    "claim:oil-control",
    "claim:hydrating",
    "claim:soothing",
@@ -130262,7 +130641,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71sfnoPs5DL._SL1254_.jpg",
@@ -130277,6 +130657,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:lotion",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "ing:aloe-vera",
@@ -140997,15 +141378,17 @@ const CTPRODUCTS = [
   "capacityLine": "400 ml",
   "materialLine": "lactic acid + shea butter",
   "featureLine": "Lotion · ₹88/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. Scored from its published INCI list (Amazon.in listing — Important information › Ingredients): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "shea butter high on the INCI list (moderate evidence); cocoa butter high on the INCI list (limited evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): fragrance"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 5.8,
+   "skin": 7.7,
+   "trust": 7,
    "experience": 2.2
   },
   "fullSpec": {
@@ -141022,13 +141405,14 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.1/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "\"Purified Water, Cetyl Alcohol, Dicaprylyl Carbonate, Glyceryl Monostearate, lsopropyl Myristate, Caprylic/ Capric Triglycerides, lsoamyl Laurate, Shea Butter, Cocoa Butter, Sodium PCA, Betaine Anhydrous, Beta Vulgaris (Beet) Root Extract, Moroccan Argan Oil, Sweet Almond Oil, Aloe Vera Extract, D Panthenol (Pro-Vitamin B5), Fragrance, Sodium Hyaluronate (Hyaluronic Acid), Allantoin, Disodium EDTA, Sodium Benzoate, Phenoxyethanol & Ethylhexylglycerin.\"",
+   "evidenceActives": "shea butter (#8 on list, moderate evidence); cocoa butter (#9 on list, limited evidence); prunus amygdalus dulcis oil (#14 on list, moderate evidence); aloe barbadensis leaf extract (#15 on list, moderate evidence); allantoin (#19 on list, limited evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Body Cupid — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "concernBasis": "Irritation — aloe barbadensis leaf extract #15 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/718P47IqeKL._AC_UL320_.jpg"
@@ -141051,7 +141435,8 @@ const CTPRODUCTS = [
    "size:xl",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "target:irritation",
+   "inci:full"
   ],
   "filters": {
    "actives": true,
@@ -141060,27 +141445,90 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "listing",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
+   "inci": "full",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
-   "inciText": null,
+   "inciText": "\"Purified Water, Cetyl Alcohol, Dicaprylyl Carbonate, Glyceryl Monostearate, lsopropyl Myristate, Caprylic/ Capric Triglycerides, lsoamyl Laurate, Shea Butter, Cocoa Butter, Sodium PCA, Betaine Anhydrous, Beta Vulgaris (Beet) Root Extract, Moroccan Argan Oil, Sweet Almond Oil, Aloe Vera Extract, D Panthenol (Pro-Vitamin B5), Fragrance, Sodium Hyaluronate (Hyaluronic Acid), Allantoin, Disodium EDTA, Sodium Benzoate, Phenoxyethanol & Ethylhexylglycerin.\"",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "shea butter",
+     "grade": "B",
+     "position": 8,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "cocoa butter",
+     "grade": "C",
+     "position": 9,
+     "core": true,
+     "trace": false,
+     "src": "striae"
+    },
+    {
+     "name": "prunus amygdalus dulcis oil",
+     "grade": "B",
+     "position": 14,
+     "core": true,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "aloe barbadensis leaf extract",
+     "grade": "B",
+     "position": 15,
+     "core": true,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 18,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 19,
+     "core": true,
+     "trace": true,
+     "src": "panthenol"
+    }
+   ],
+   "support": [
+    "shea butter",
+    "sodium pca",
+    "sodium hyaluronate"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Body Cupid",
     "kind": "d2c",
@@ -142413,16 +142861,18 @@ const CTPRODUCTS = [
   "capacityLine": "100 ml",
   "materialLine": "niacinamide + aloe vera",
   "featureLine": "Lotion · ₹118/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Dr. Sakhiya's official website (drsakhiyas.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "niacinamide high on the INCI list (strong evidence); tocopheryl acetate high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 6,
+   "skin": 7,
+   "trust": 5.5,
    "experience": 3.2
   },
   "fullSpec": {
@@ -142439,13 +142889,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.4/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Dr. Sakhiya's official website (drsakhiyas.com) — product page › Ingredients",
+   "inciSourceUrl": "https://drsakhiyas.com/products/aloe-vera-body-lotion",
+   "inciMatchedName": "Dr. Sakhiya's Aloe Vera Body Lotion with Glutathione & Niacinamide for Hydrated Skin (name match 100%)",
+   "inciList": "Water, Glutathione, Niacinamide, Vitamin E Acetate, Jojoba Oil, Almond Oil, Glycerin, Disodium EDTA, Propylene Glycol, Ceto Stearyl Alcohol, Glyceryl Mono Stearate, Cetomarcogol 1000, Iso Propyl Myristate, Caprilic/Capric Triglycerides, Butylated Hydroxy Toluene, Xylitol, Phenoxyethanol, Ethyl Hexyl Glycerin",
+   "evidenceActives": "niacinamide (#3 on list, strong evidence); tocopheryl acetate (#4 on list, moderate evidence); simmondsia chinensis seed oil (#5 on list, moderate evidence); prunus amygdalus dulcis oil (#6 on list, moderate evidence); glycerin (#7 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 0 ratings"
+   "buyerEvidence": "4.4★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #3 on INCI; Dark spots — niacinamide #3 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51d2eA2F67L._AC_UL320_.jpg"
@@ -142467,7 +142920,11 @@ const CTPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "target:acne",
+   "target:dark-spots",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -142476,25 +142933,77 @@ const CTPRODUCTS = [
    "derm": true,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Dr. Sakhiya's official website (drsakhiyas.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://drsakhiyas.com/products/aloe-vera-body-lotion",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Dr. Sakhiya's Aloe Vera Body Lotion with Glutathione & Niacinamide for Hydrated Skin",
+   "inciMatchScore": 1,
+   "inciText": "Water, Glutathione, Niacinamide, Vitamin E Acetate, Jojoba Oil, Almond Oil, Glycerin, Disodium EDTA, Propylene Glycol, Ceto Stearyl Alcohol, Glyceryl Mono Stearate, Cetomarcogol 1000, Iso Propyl Myristate, Caprilic/Capric Triglycerides, Butylated Hydroxy Toluene, Xylitol, Phenoxyethanol, Ethyl Hexyl Glycerin",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 0.94,
+   "actives": [
+    {
+     "name": "glutathione",
+     "grade": "C",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "pigment"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "simmondsia chinensis seed oil",
+     "grade": "B",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "prunus amygdalus dulcis oil",
+     "grade": "B",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    }
+   ],
+   "support": [
+    "niacinamide",
+    "glycerin"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -144542,6 +145051,7 @@ const CTPRODUCTS = [
    "scope:body",
    "format:lotion",
    "ing:aloe-vera",
+   "ing:menthol",
    "claim:oil-control",
    "claim:hydrating",
    "claim:lightweight",
@@ -148356,15 +148866,17 @@ const CTPRODUCTS = [
   "capacityLine": "400 ml",
   "materialLine": "niacinamide + hyaluronic acid",
   "featureLine": "Lotion · ₹93/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Pilgrim official website (discoverpilgrim.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence); niacinamide high on the INCI list (strong evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): perfume"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 8.2,
+   "skin": 7.7,
+   "trust": 7,
    "experience": 2.6
   },
   "fullSpec": {
@@ -148381,13 +148893,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.2/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Pilgrim official website (discoverpilgrim.com) — product page › Ingredients",
+   "inciSourceUrl": "https://discoverpilgrim.com/products/french-red-vine-hyaluronic-acid-ultra-smooth-body-lotion",
+   "inciMatchedName": "French Red Vine & Hyaluronic Acid Ultra-Smooth Body Lotion (name match 100%)",
+   "inciList": "Glycerin, Niacinamide, Butylene Glycol, Glyceryl Monostearate, Cetyl Alcohol, Isopropyl Myristate, C12-C15 Alkyl Benzoate, Betaine, D-Panthenol, Phenoxyethanol (and) Ethylhexylglycerin, Emulsifying Wax, Glyceryl Stearate (and) PEG-100 Stearate, Perfume, Butyrospermum Parkii (Shea) Butter, Carbomer, Sodium Benzoate, Cyclopentasiloxane (and) Dimethicone Crosspolymer, Phenyl Trimethicone, Sodium Hydroxide, Tocopherol, Disodium EDTA, Theobroma Cacao (Cocoa) Seed Butter, Sodium Hyaluronate, Water (and) Pentylene Glycol (and) Phospholipids (and) Sphingolipids, Vitis Vinifera (Grape) Leaf Extract (French Red Vine)",
+   "evidenceActives": "glycerin (#1 on list, strong evidence); niacinamide (#2 on list, strong evidence); panthenol (#9 on list, moderate evidence); butyrospermum parkii butter (#15 on list, moderate evidence); tocopherol (#22 on list, moderate evidence); theobroma cacao seed butter (#24 on list, limited evidence)",
+   "safetyFlags": "Added fragrance (parfum): perfume (−1.5)",
    "maker": "Heavenly Secrets — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #2 on INCI; Dark spots — niacinamide #2 on INCI; Irritation — panthenol #9 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51ZuYeBjhpL._SL1500_.jpg",
@@ -148417,7 +148932,11 @@ const CTPRODUCTS = [
    "size:xl",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "actives": true,
@@ -148426,27 +148945,101 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Pilgrim official website (discoverpilgrim.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://discoverpilgrim.com/products/french-red-vine-hyaluronic-acid-ultra-smooth-body-lotion",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "French Red Vine & Hyaluronic Acid Ultra-Smooth Body Lotion",
+   "inciMatchScore": 1,
+   "inciText": "Glycerin, Niacinamide, Butylene Glycol, Glyceryl Monostearate, Cetyl Alcohol, Isopropyl Myristate, C12-C15 Alkyl Benzoate, Betaine, D-Panthenol, Phenoxyethanol (and) Ethylhexylglycerin, Emulsifying Wax, Glyceryl Stearate (and) PEG-100 Stearate, Perfume, Butyrospermum Parkii (Shea) Butter, Carbomer, Sodium Benzoate, Cyclopentasiloxane (and) Dimethicone Crosspolymer, Phenyl Trimethicone, Sodium Hydroxide, Tocopherol, Disodium EDTA, Theobroma Cacao (Cocoa) Seed Butter, Sodium Hyaluronate, Water (and) Pentylene Glycol (and) Phospholipids (and) Sphingolipids, Vitis Vinifera (Grape) Leaf Extract (French Red Vine)",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 1,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 9,
+     "core": true,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 15,
+     "core": true,
+     "trace": true,
+     "src": "petrolatum"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 22,
+     "core": true,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "theobroma cacao seed butter",
+     "grade": "C",
+     "position": 24,
+     "core": true,
+     "trace": true,
+     "src": "striae"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 25,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "niacinamide",
+    "butylene glycol",
+    "panthenol",
+    "butyrospermum parkii butter",
+    "sodium hyaluronate"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Heavenly Secrets",
     "kind": "d2c",
@@ -163305,7 +163898,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Beiersdorf — Global FMCG or beauty group",
-   "buyerEvidence": "4.6★ from 0 ratings"
+   "buyerEvidence": "4.6★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41pN7fUvnWL._SL1001_.jpg",
@@ -163324,6 +163918,7 @@ const CTPRODUCTS = [
    "format:oil",
    "format:balm",
    "spf:15",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:cocoa-butter",
    "ing:coconut",
@@ -174152,6 +174747,7 @@ const CTPRODUCTS = [
    "scope:body",
    "format:lotion",
    "ing:aloe-vera",
+   "ing:menthol",
    "claim:hydrating",
    "claim:long-lasting",
    "aud:unisex",
@@ -176104,6 +176700,7 @@ const CTPRODUCTS = [
    "ing:cocoa-butter",
    "ing:vitamin-e",
    "ing:glycerin",
+   "ing:beeswax",
    "claim:hydrating",
    "claim:barrier",
    "claim:long-lasting",
@@ -182023,15 +182620,17 @@ const CTPRODUCTS = [
   "capacityLine": "400 ml",
   "materialLine": "hyaluronic acid + shea butter",
   "featureLine": "Lotion · ₹87/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Pilgrim official website (discoverpilgrim.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence); niacinamide high on the INCI list (strong evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): perfume"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 8.2,
+   "skin": 7.7,
+   "trust": 7,
    "experience": 2.2
   },
   "fullSpec": {
@@ -182048,13 +182647,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.1/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Pilgrim official website (discoverpilgrim.com) — product page › Ingredients",
+   "inciSourceUrl": "https://discoverpilgrim.com/products/french-red-vine-hyaluronic-acid-ultra-smooth-body-lotion",
+   "inciMatchedName": "French Red Vine & Hyaluronic Acid Ultra-Smooth Body Lotion (name match 100%)",
+   "inciList": "Glycerin, Niacinamide, Butylene Glycol, Glyceryl Monostearate, Cetyl Alcohol, Isopropyl Myristate, C12-C15 Alkyl Benzoate, Betaine, D-Panthenol, Phenoxyethanol (and) Ethylhexylglycerin, Emulsifying Wax, Glyceryl Stearate (and) PEG-100 Stearate, Perfume, Butyrospermum Parkii (Shea) Butter, Carbomer, Sodium Benzoate, Cyclopentasiloxane (and) Dimethicone Crosspolymer, Phenyl Trimethicone, Sodium Hydroxide, Tocopherol, Disodium EDTA, Theobroma Cacao (Cocoa) Seed Butter, Sodium Hyaluronate, Water (and) Pentylene Glycol (and) Phospholipids (and) Sphingolipids, Vitis Vinifera (Grape) Leaf Extract (French Red Vine)",
+   "evidenceActives": "glycerin (#1 on list, strong evidence); niacinamide (#2 on list, strong evidence); panthenol (#9 on list, moderate evidence); butyrospermum parkii butter (#15 on list, moderate evidence); tocopherol (#22 on list, moderate evidence); theobroma cacao seed butter (#24 on list, limited evidence)",
+   "safetyFlags": "Added fragrance (parfum): perfume (−1.5)",
    "maker": "Heavenly Secrets — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #2 on INCI; Dark spots — niacinamide #2 on INCI; Irritation — panthenol #9 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/618P1DwU6rL._AC_UL320_.jpg"
@@ -182076,7 +182678,11 @@ const CTPRODUCTS = [
    "size:xl",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "actives": true,
@@ -182085,27 +182691,101 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Pilgrim official website (discoverpilgrim.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://discoverpilgrim.com/products/french-red-vine-hyaluronic-acid-ultra-smooth-body-lotion",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "French Red Vine & Hyaluronic Acid Ultra-Smooth Body Lotion",
+   "inciMatchScore": 1,
+   "inciText": "Glycerin, Niacinamide, Butylene Glycol, Glyceryl Monostearate, Cetyl Alcohol, Isopropyl Myristate, C12-C15 Alkyl Benzoate, Betaine, D-Panthenol, Phenoxyethanol (and) Ethylhexylglycerin, Emulsifying Wax, Glyceryl Stearate (and) PEG-100 Stearate, Perfume, Butyrospermum Parkii (Shea) Butter, Carbomer, Sodium Benzoate, Cyclopentasiloxane (and) Dimethicone Crosspolymer, Phenyl Trimethicone, Sodium Hydroxide, Tocopherol, Disodium EDTA, Theobroma Cacao (Cocoa) Seed Butter, Sodium Hyaluronate, Water (and) Pentylene Glycol (and) Phospholipids (and) Sphingolipids, Vitis Vinifera (Grape) Leaf Extract (French Red Vine)",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 1,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 9,
+     "core": true,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 15,
+     "core": true,
+     "trace": true,
+     "src": "petrolatum"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 22,
+     "core": true,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "theobroma cacao seed butter",
+     "grade": "C",
+     "position": 24,
+     "core": true,
+     "trace": true,
+     "src": "striae"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 25,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "niacinamide",
+    "butylene glycol",
+    "panthenol",
+    "butyrospermum parkii butter",
+    "sodium hyaluronate"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Heavenly Secrets",
     "kind": "d2c",
@@ -186269,7 +186949,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Beiersdorf — Global FMCG or beauty group",
-   "buyerEvidence": "3.8★ from 0 ratings"
+   "buyerEvidence": "3.8★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61ZxnZNbOHL._SL1000_.jpg"
@@ -186282,6 +186963,7 @@ const CTPRODUCTS = [
    "format:lotion",
    "format:kit",
    "spf:15",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:lemon",
    "ing:cherry-acerola",
@@ -190598,7 +191280,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/r/y/200-retinol-b5-alpha-arbutin-body-lotion-night-fancyperks-lotion-original-imahh3kdqnmxmzpg.jpeg?q=90",
@@ -190614,6 +191297,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:lotion",
    "format:balm",
+   "water:unstated",
    "ing:niacinamide",
    "ing:retinol",
    "ing:alpha-arbutin",
@@ -191128,7 +191812,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/m/c/a/200-2-kojic-acid-body-lotion-for-all-skin-type-velvet-neo-lotion-original-imahnnq5ajpby7ra.jpeg?q=90",
@@ -191144,6 +191829,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:lotion",
+   "water:unstated",
    "ing:kojic-acid",
    "ing:alpha-arbutin",
    "ing:glutathione",
@@ -191440,7 +192126,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 44 ratings"
+   "buyerEvidence": "4.2★ from 44 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/m/c/a/200-2-kojic-acid-body-lotion-for-all-skin-type-velvet-neo-lotion-original-imahnnq5ajpby7ra.jpeg?q=90",
@@ -191456,6 +192143,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:lotion",
+   "water:unstated",
    "ing:kojic-acid",
    "claim:hydrating",
    "skin:all",
@@ -191545,7 +192233,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 44 ratings"
+   "buyerEvidence": "4.2★ from 44 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/m/c/a/200-2-kojic-acid-body-lotion-for-all-skin-type-velvet-neo-lotion-original-imahnnq5ajpby7ra.jpeg?q=90",
@@ -191561,6 +192250,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:lotion",
+   "water:unstated",
    "ing:kojic-acid",
    "skin:all",
    "free:paraben",
@@ -191651,7 +192341,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/r/r/y/200-l-glutathione-body-yogurt-glozac-gel-original-imahqfmyfcyzkazz.jpeg?q=90"
@@ -191662,6 +192353,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:gel",
+   "water:unstated",
    "ing:glutathione",
    "claim:brightening",
    "claim:hydrating",
@@ -191962,7 +192654,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/a/x/250-body-lotion-with-acid-amino-acids-deep-body-lotion-for-dry-original-imahz7vfsqz5rmqe.jpeg?q=90",
@@ -191981,6 +192674,7 @@ const CTPRODUCTS = [
    "format:lotion",
    "format:emulsion",
    "spf:60",
+   "water:unstated",
    "ing:rose",
    "claim:brightening",
    "claim:whitening-claim",
@@ -192181,7 +192875,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/v/f/400-0-whitening-bright-moisturizing-body-lotion-men-women-deep-original-imahz7sqhgvfdazf.jpeg?q=90",
@@ -192198,6 +192893,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:lotion",
    "format:kit",
+   "water:unstated",
    "ing:caffeine",
    "claim:brightening",
    "claim:de-tan",
@@ -192515,7 +193211,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/2/i/d/400-ultra-nourishing-body-lotion-each-200ml-niacinamide-kojic-original-imahzfw7jbavpgtm.jpeg?q=90",
@@ -192535,6 +193232,7 @@ const CTPRODUCTS = [
    "format:patch",
    "spf:30",
    "pa:+++",
+   "water:unstated",
    "ing:niacinamide",
    "ing:lactic-acid",
    "ing:ceramides",
@@ -193055,7 +193753,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/9/9/j/200-deep-nourishing-body-lotion-for-all-skin-types-soft-skin-for-original-imahmgh7vgmjh3sa.jpeg?q=90",
@@ -193072,6 +193771,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:lotion",
    "format:kit",
+   "water:unstated",
    "claim:brightening",
    "claim:hydrating",
    "skin:dry",
@@ -193165,7 +193865,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/5/p/n/200-body-lotion-almond-oil-vitamin-c-skin-brightening-non-sticky-original-imahkfzpfv9rgkmy.jpeg?q=90",
@@ -193190,6 +193891,7 @@ const CTPRODUCTS = [
    "format:kit",
    "spf:15",
    "pa:++",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:almond",
    "ing:shea-butter",
@@ -193502,7 +194204,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/e/i/f/100-0-kojic-acid-whitening-body-lotion-amino-acids-hydrating-original-imahnfg26twyfhhr.jpeg?q=90",
@@ -193520,6 +194223,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:lotion",
    "format:serum",
+   "water:unstated",
    "ing:kojic-acid",
    "claim:brightening",
    "claim:whitening-claim",
@@ -193616,7 +194320,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 9 ratings"
+   "buyerEvidence": "4.3★ from 9 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/c/6/100-moisturizing-body-lotion-for-dry-dull-skin-reduces-dark-original-imahf8s8ksqshzfj.jpeg?q=90",
@@ -193631,6 +194336,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:lotion",
+   "water:unstated",
    "claim:brightening",
    "claim:dark-spots",
    "claim:hydrating",
@@ -194699,7 +195405,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "2.7★ from 7 ratings"
+   "buyerEvidence": "2.7★ from 7 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-moisturizer-cream/t/9/p/200-kojic-acid-body-lotion-for-skin-brightening-even-toned-original-imahgpy7pjans8qp.jpeg?q=90",
@@ -194716,6 +195423,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:lotion",
    "format:oil",
+   "water:unstated",
    "ing:kojic-acid",
    "ing:coconut",
    "claim:brightening",
@@ -195325,7 +196033,7 @@ const CTPRODUCTS = [
  {
   "id": "sneira-itmb94a213b0052b",
   "brand": "SNEIRA",
-  "model": "AHA | BHA Body Lotion With Shea Butter, Deep Nourishment & …",
+  "model": "AHA | BHA Body Lotion With Shea Butter, Deep Nourishment & Radiant Skin",
   "price": 358,
   "capacityLine": "400 ml",
   "materialLine": "salicylic acid (BHA) + shea butter",
@@ -195376,7 +196084,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/sneira-aha-bha-body-lotion-shea-butter-deep-nourishment-radiant-skin/p/itmb94a213b0052b",
   "buyStore": "Flipkart",
-  "title": "SNEIRA AHA | BHA Body Lotion With Shea Butter, Deep Nourishment & …",
+  "title": "SNEIRA AHA | BHA Body Lotion With Shea Butter, Deep Nourishment & Radiant Skin",
   "tags": [
    "scope:both",
    "format:lotion",
@@ -197055,7 +197763,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/r/i/l/500-vitamin-c-aha-body-lotion-a-bonne-lotion-original-imagr4sw2wxfu8yr.jpeg?q=90",
@@ -197075,6 +197784,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:oil",
    "spf:50",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:aha",
    "ing:kojic-acid",
@@ -197171,7 +197881,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "2.7★ from 7 ratings"
+   "buyerEvidence": "2.7★ from 7 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/0/6/250-0-5-aha-body-lotion-for-smooth-bright-even-toned-glowing-original-imahgt6mz7wmqv8z.jpeg?q=90",
@@ -197188,6 +197899,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:lotion",
    "format:oil",
+   "water:unstated",
    "ing:aha",
    "ing:coconut",
    "claim:brightening",
@@ -197394,7 +198106,8 @@ const CTPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — salicylic acid #4 on INCI, niacinamide #5 on INCI; Dark spots — niacinamide #5 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — salicylic acid #4 on INCI, niacinamide #5 on INCI; Dark spots — niacinamide #5 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/f/r/w/1200-nourishment-aha-bha-body-lotion-pack-of-3-10-aha-2-bha-milk-original-imahfh8hsnr2aepj.jpeg?q=90",
@@ -197413,6 +198126,7 @@ const CTPRODUCTS = [
    "format:kit",
    "spf:30",
    "pa:+",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:aha",
    "ing:milk",
@@ -198530,7 +199244,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/a/r/4/100-organic-10-ahas-1-bhas-body-lotion-amvira-organic-cream-original-imahmcy5trz825h9.jpeg?q=90",
@@ -198547,6 +199262,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:lotion",
    "format:kit",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:honey",
    "ing:almond",
@@ -198992,7 +199708,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/t/q/7/under-arm-roll-on-10-aha-1-bha-body-lotion-comboo-for-strawberry-original-imahgxc4ypwawzsw.jpeg?q=90",
@@ -199013,6 +199730,7 @@ const CTPRODUCTS = [
    "format:kit",
    "spf:50",
    "pa:++++",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
@@ -199853,7 +200571,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/7/w/r/200-24k-gold-body-milk-lotion-with-niacinamide-milk-protein-for-original-imahzgf5enz4dh8q.jpeg?q=90",
@@ -199869,6 +200588,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:lotion",
    "format:balm",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:aha",
@@ -199973,7 +200693,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Globus Naturals Pvt Ltd — Indian D2C brand with its own product company",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-moisturizer-cream/l/x/z/200-body-lotion-combo-set-of-2-vitamin-c-skin-brightening-mix-original-imah5vrpmyhfv9mf.jpeg?q=90",
@@ -199991,6 +200712,7 @@ const CTPRODUCTS = [
    "format:lotion",
    "format:balm",
    "format:kit",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:ceramides",
    "ing:rice-water",
@@ -200089,7 +200811,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — niacinamide #2 on INCI; Dark spots — niacinamide #2 on INCI; Irritation — panthenol #3 on INCI, aloe barbadensis leaf extract #19 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #2 on INCI; Dark spots — niacinamide #2 on INCI; Irritation — panthenol #3 on INCI, aloe barbadensis leaf extract #19 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/0/3/t/1800-brightening-hydrobalance-body-lotion-pack-of-5-pro-viatmin-original-imahp42mtfemsaec.jpeg?q=90",
@@ -200108,6 +200831,7 @@ const CTPRODUCTS = [
    "format:kit",
    "spf:30",
    "pa:+++",
+   "water:unstated",
    "claim:brightening",
    "claim:broad-spectrum",
    "claim:spf-claim",
@@ -201368,124 +202092,122 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "caret-organic-itmbbbfc1cd7d4e7",
-  "brand": "Caret Organic",
-  "model": "Nourishing Honey & Almond Body Lotion, Kojic Acid & …",
-  "price": 225,
-  "capacityLine": "500 g (pack of 2)",
-  "materialLine": "vitamin C + colloidal oatmeal + kojic acid",
-  "featureLine": "Oil · Paraben-free · ₹45/100g",
+  "id": "suganda-skincare-itm226c4bd502046",
+  "brand": "SUGANDA SKINCARE",
+  "model": "2-in-1 Exfoliating & Moisturising Fragrance Free Unscented Body Lotion",
+  "price": 475,
+  "capacityLine": "200 ml",
+  "materialLine": "niacinamide + lactic acid",
+  "featureLine": "Scrub / exfoliant · Paraben-free · ₹238/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
+   "Only 5 ingredients named — formula unscored"
   ],
   "scores": {
    "ingredients": 0,
    "skin": 0,
-   "trust": 3.5,
-   "experience": 0
+   "trust": 5.3,
+   "experience": 4
   },
   "fullSpec": {
-   "quantity": "250 g × 2 pack",
-   "pricePer100": "₹45/100g",
-   "format": "Oil",
-   "keyIngredients": "vitamin C, colloidal oatmeal, kojic acid, honey, cucumber, almond, shea butter (per listing)",
-   "freeFrom": "Paraben-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
+   "quantity": "200 ml",
+   "pricePer100": "₹238/100ml",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "niacinamide, lactic acid (per listing)",
+   "freeFrom": "Paraben-free, Fragrance-free (seller claim — not scored)",
+   "dermTested": "Dermatologically tested (seller claim — not scored)",
    "nonComedogenic": "Not stated in listing",
    "benefit": "Hydrating, Brightening/glow claim",
    "audience": "Marketed for women",
    "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
    "skinType": "All Skin Types",
-   "rating": "No rating yet",
+   "rating": "3.9/5 (47 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
+   "inciStatus": "Only 5 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: 5% Lactic Acid - Resurfaces dead skin, 2% Niacinamide - Supports skin barrier and reduces uneven skin tone, Calendula oil - Nourishes and soothes skin",
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "maker": "Suganda Skincare — Indian D2C brand with its own product company",
+   "buyerEvidence": "3.9★ from 47 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/y/8/j/vitamin-c-glow-scrub-100g-and-honey-almond-body-lotion-100ml-1-original-imagjr8hf5ffvzzs.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/g/r/q/100-massa-clean-natural-wart-gel-safe-for-all-skin-types-gabbu-original-imahzzc2maqsg3c4.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/j/f/j/50-new-underarm-bikini-whitening-cream-for-all-skin-types-original-imahb7sjhmupzpfd.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/x/u/i/1-moisturising-lotion-with-deep-moisture-formula-soft-healthy-original-imahpbtaxvq3ytzg.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/b/u/250-thai-herbal-body-massage-cream-all-skin-type-flixy-cream-original-imahnnn5q2w6fssx.jpeg?q=90"
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/j/u/v/200-2-in-1-exfoliating-moisturising-fragrance-free-unscented-original-imahf9k9unhfydv2.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/o/b/t/200-2-in-1-exfoliating-moisturising-fragrance-free-unscented-original-imahf9k9gfshxbvq.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/q/a/v/200-2-in-1-exfoliating-moisturising-fragrance-free-unscented-original-imahf9k94v3ytzrp.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/r/y/q/200-2-in-1-exfoliating-moisturising-fragrance-free-unscented-original-imahf9k9w2agcdm2.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/t/e/r/200-2-in-1-exfoliating-moisturising-fragrance-free-unscented-original-imahf9k96nnyxzbq.jpeg?q=90"
   ],
-  "buyUrl": "https://www.flipkart.com/caret-organic-nourishing-honey-almond-body-lotion-kojic-acid-vitamin-c-soap-paraben-free/p/itmbbbfc1cd7d4e7",
+  "buyUrl": "https://www.flipkart.com/suganda-skincare-2-in-1-exfoliating-moisturising-fragrance-free-unscented-body-lotion/p/itm226c4bd502046",
   "buyStore": "Flipkart",
-  "title": "Caret Organic Nourishing Honey & Almond Body Lotion, Kojic Acid & …",
+  "title": "SUGANDA SKINCARE 2-in-1 Exfoliating & Moisturising Fragrance Free Unscented Body Lotion",
   "tags": [
    "scope:both",
-   "format:gel",
-   "format:cream",
    "format:lotion",
-   "format:balm",
-   "format:bar",
-   "format:kit",
-   "ing:vitamin-c",
-   "ing:colloidal-oatmeal",
-   "ing:kojic-acid",
-   "ing:honey",
-   "ing:cucumber",
-   "ing:almond",
-   "ing:shea-butter",
-   "ing:cocoa-butter",
+   "format:oil",
+   "format:patch",
+   "water:unstated",
+   "ing:niacinamide",
+   "ing:lactic-acid",
+   "ing:calendula",
    "claim:brightening",
+   "claim:dark-spots",
    "claim:oil-control",
    "claim:hydrating",
-   "claim:ayurvedic",
-   "skin:dry",
+   "claim:barrier",
+   "claim:soothing",
+   "claim:exfoliating",
+   "claim:kp",
+   "claim:lightweight",
    "skin:all",
    "free:paraben",
+   "free:fragrance",
+   "free:derm",
    "free:vegan",
    "aud:women",
-   "size:xl",
-   "rating:none",
+   "size:large",
+   "rating:3.5",
    "store:flipkart",
-   "inci:none"
+   "inci:partial"
   ],
   "filters": {
    "actives": true,
    "freefrom": true,
    "natural": true,
-   "derm": false,
+   "derm": true,
    "men": false,
    "women": true,
-   "inci": "none",
+   "inci": "partial",
    "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
    "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
+   "inciUnverified": "5% Lactic Acid - Resurfaces dead skin, 2% Niacinamide - Supports skin barrier and reduces uneven skin tone, Calendula oil - Nourishes and soothes skin",
+   "inciNote": "Only 5 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
    "declarationConfidence": null,
-   "recognised": null,
+   "recognised": 0.6,
    "actives": [],
    "support": [],
    "formulaNotes": [],
    "flags": [],
    "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
+    "parent": "Suganda Skincare",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://suganda.co/"
    },
-   "buyers": "No buyer ratings yet"
+   "buyers": "3.9★ from 47 ratings"
   }
  },
  {
@@ -201742,7 +202464,8 @@ const CTPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "declaredManufacturer": "(A) Kapco International Ltd, Plot No. 10-11, Sector 3, Parwanoo, Himachal Pradesh, India - 173220. M.: S-COS/10/19 (B) VA Lifesciences LLP, Plot No. 9D, Sector - 2, Parwanoo, Himachal Pradesh, India - 173220. M.: HIM/COS/20/305 (as printed on the Flipkart listing — not scored)",
    "buyerEvidence": "4.4★ from 492 ratings",
-   "concernBasis": "Irritation — aloe barbadensis leaf juice #1 on INCI, aloe barbadensis leaf extract #8 on INCI (matching only — not proof it works)"
+   "concernBasis": "Irritation — aloe barbadensis leaf juice #1 on INCI, aloe barbadensis leaf extract #8 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/f/k/b/400-aloe-refresh-hydrating-body-lotion-with-aloe-vera-ha-for-original-imah9y83kvtyu3fw.jpeg?q=90",
@@ -201759,6 +202482,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:lotion",
    "spf:50",
+   "water:unstated",
    "ing:aloe-vera",
    "claim:hydrating",
    "claim:soothing",
@@ -202199,7 +202923,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.8★ from 4 ratings"
+   "buyerEvidence": "4.8★ from 4 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/2/f/200-daily-care-kesar-infused-body-lotion-with-hyaluronic-acid-original-imahhnghdwk6hvzk.jpeg?q=90",
@@ -202216,6 +202941,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:lotion",
    "format:oil",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:coffee",
    "ing:aloe-vera",
@@ -202636,7 +203362,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.5★ from 12 ratings"
+   "buyerEvidence": "4.5★ from 12 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/0/k/p/100-barrier-repair-body-lotion-orimii-lotion-original-imah84yccxztetwv.jpeg?q=90",
@@ -202652,6 +203379,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:lotion",
+   "water:unstated",
    "ing:ceramides",
    "ing:chamomile",
    "claim:oil-control",
@@ -202847,7 +203575,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "CavinKare — Established / listed Indian FMCG house",
-   "buyerEvidence": "5★ from 3 ratings"
+   "buyerEvidence": "5★ from 3 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/m/g/2/-original-imah9bb7qkphjkc4.jpeg?q=90",
@@ -202863,6 +203592,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:lotion",
    "format:oil",
+   "water:unstated",
    "ing:kojic-acid",
    "claim:brightening",
    "claim:whitening-claim",
@@ -202956,7 +203686,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/5/z/o/100-body-moisturizer-advanced-deep-nourish-body-lotion-suitable-original-imah5r3zzuh6zekc.jpeg?q=90",
@@ -202973,6 +203704,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:lotion",
    "spf:15",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "ing:vitamin-e",
@@ -203534,7 +204266,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/w/b/600-cocoa-glow-body-lotion-400ml-gluta-hya-dewy-radiance-200ml-original-imahgh54ac4kyfzn.jpeg?q=90",
@@ -203554,6 +204287,7 @@ const CTPRODUCTS = [
    "format:oil",
    "format:balm",
    "format:kit",
+   "water:unstated",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:glutathione",
@@ -203608,116 +204342,124 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "caret-organic-itm94cb3c9e1398b",
-  "brand": "Caret Organic",
-  "model": "Total Moisture Body Lotion And Kojic Acid Vitamin C …",
-  "price": 320,
-  "capacityLine": "360 g (pack of 2)",
-  "materialLine": "vitamin C + kojic acid + shea butter",
-  "featureLine": "Serum · ₹89/100g",
+  "id": "suganda-skincare-itmff097b6184f71",
+  "brand": "SUGANDA SKINCARE",
+  "model": "2-in-1 Exfoliating & Moisturising Fragrance Free Body Lotion,500ml",
+  "price": 858,
+  "capacityLine": "500 ml",
+  "materialLine": "niacinamide + lactic acid",
+  "featureLine": "Scrub / exfoliant · Paraben-free · ₹172/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "pros": [
+   "Well-reviewed: 4.4★ from 34 ratings"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
+   "Only 5 ingredients named — formula unscored"
   ],
   "scores": {
    "ingredients": 0,
    "skin": 0,
-   "trust": 3.5,
-   "experience": 0
+   "trust": 5.3,
+   "experience": 5.4
   },
   "fullSpec": {
-   "quantity": "180 g × 2 pack",
-   "pricePer100": "₹89/100g",
-   "format": "Serum",
-   "keyIngredients": "vitamin C, kojic acid, shea butter (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
+   "quantity": "500 ml",
+   "pricePer100": "₹172/100ml",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "niacinamide, lactic acid (per listing)",
+   "freeFrom": "Paraben-free, Fragrance-free (seller claim — not scored)",
+   "dermTested": "Dermatologically tested (seller claim — not scored)",
    "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, Brightening/glow claim",
+   "benefit": "Hydrating",
    "audience": "Marketed for women",
    "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "All Skin Types",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
+   "skinType": "All Skin Types, Combination Skin, Dry Skin, Normal Skin, Oily Skin",
+   "rating": "4.4/5 (34 ratings, Flipkart)",
+   "madeIn": "INDIA",
+   "inciStatus": "Only 5 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: 5% Lactic Acid - Resurfaces dead skin, 2% Niacinamide - Supports skin barrier and reduces uneven skin tone, Calendula oil - Nourishes and soothes skin",
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "maker": "Suganda Skincare — Indian D2C brand with its own product company",
+   "buyerEvidence": "4.4★ from 34 ratings"
   },
   "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-combo-kit/n/2/l/total-moisture-body-lotion-and-kojic-acid-vitamin-c-soap-vegan-original-imagvtgymquvnmps.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-moisturizer-cream/p/g/x/400-caret-organic-total-moisture-body-lotion-oatmeal-extract-original-imagggasaxz4gzjg.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-moisturizer-cream/g/2/d/200-oatmeal-extract-with-vitamin-e-lotion-for-skin-hydrate-dry-original-imaguavhrguxhey9.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/g/m/7/200-natural-shea-butter-for-body-and-skin-raw-unrefined-and-original-imahfv36yv8xqzuf.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/fairness/0/c/f/350-nourished-honey-almond-body-lotion-orange-lemon-alovera-gel-original-imagvz32uctdf6ps.jpeg?q=90"
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/1/z/e/500-2-in-1-exfoliating-moisturising-fragrance-free-body-lotion-original-imah94gbbwyw2vh5.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/a/e/c/500-2-in-1-exfoliating-moisturising-fragrance-free-body-lotion-original-imah94gbjz9ezgc9.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/k/1/8/500-2-in-1-exfoliating-moisturising-fragrance-free-body-lotion-original-imah94gbheeuvypa.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/a/d/500-2-in-1-exfoliating-moisturising-fragrance-free-body-lotion-original-imah94gbfpntzmcr.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/9/z/500-2-in-1-exfoliating-moisturising-fragrance-free-body-lotion-original-imah94gb9bymzepz.jpeg?q=90"
   ],
-  "buyUrl": "https://www.flipkart.com/caret-organic-total-moisture-body-lotion-kojic-acid-vitamin-c-soap-vegan/p/itm94cb3c9e1398b",
+  "buyUrl": "https://www.flipkart.com/suganda-skincare-2-in-1-exfoliating-moisturising-fragrance-free-body-lotion-500ml/p/itmff097b6184f71",
   "buyStore": "Flipkart",
-  "title": "Caret Organic Total Moisture Body Lotion And Kojic Acid Vitamin C …",
+  "title": "SUGANDA SKINCARE 2-in-1 Exfoliating & Moisturising Fragrance Free Body Lotion,500ml",
   "tags": [
    "scope:both",
-   "format:cream",
    "format:lotion",
-   "format:serum",
-   "format:balm",
-   "format:bar",
-   "format:kit",
-   "ing:vitamin-c",
-   "ing:kojic-acid",
-   "ing:shea-butter",
-   "ing:cocoa-butter",
-   "claim:brightening",
+   "format:oil",
+   "format:patch",
+   "ing:niacinamide",
+   "ing:lactic-acid",
+   "ing:strawberry",
+   "ing:calendula",
+   "claim:dark-spots",
    "claim:hydrating",
+   "claim:barrier",
+   "claim:soothing",
+   "claim:exfoliating",
+   "claim:kp",
+   "skin:oily",
+   "skin:dry",
+   "skin:combination",
+   "skin:normal",
    "skin:all",
+   "free:paraben",
+   "free:fragrance",
+   "free:derm",
    "free:vegan",
    "aud:women",
    "size:xl",
-   "rating:none",
+   "rating:4.0",
    "store:flipkart",
-   "inci:none"
+   "inci:partial"
   ],
   "filters": {
    "actives": true,
-   "freefrom": false,
+   "freefrom": true,
    "natural": true,
-   "derm": false,
+   "derm": true,
    "men": false,
    "women": true,
-   "inci": "none",
+   "inci": "partial",
    "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
    "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
+   "inciUnverified": "5% Lactic Acid - Resurfaces dead skin, 2% Niacinamide - Supports skin barrier and reduces uneven skin tone, Calendula oil - Nourishes and soothes skin",
+   "inciNote": "Only 5 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
    "declarationConfidence": null,
-   "recognised": null,
+   "recognised": 0.6,
    "actives": [],
    "support": [],
    "formulaNotes": [],
    "flags": [],
    "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
+    "parent": "Suganda Skincare",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://suganda.co/"
    },
-   "buyers": "No buyer ratings yet"
+   "buyers": "4.4★ from 34 ratings"
   }
  },
  {
@@ -204224,7 +204966,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/y/j/a/100-pack-of-2-nourishing-body-lotion-100g-deep-moisturizing-skin-original-imahmgn5hbzrmnjr.jpeg?q=90",
@@ -204245,6 +204988,7 @@ const CTPRODUCTS = [
    "format:kit",
    "spf:30",
    "pa:+++",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:kojic-acid",

@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-07.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-12.
 // Unknown fields are honestly marked, never invented.
 const CTPRODUCTS = [
  {
@@ -1289,7 +1289,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/c/r/l/30-24k-gold-luxe-glow-kumkumadi-oil-serum-with-real-gold-original-imahhwkf7pfbzvye.jpeg?q=90",
@@ -1308,6 +1309,7 @@ const CTPRODUCTS = [
    "format:oil",
    "format:pack",
    "spf:50",
+   "water:unstated",
    "ing:retinol",
    "ing:bakuchiol",
    "ing:ceramides",
@@ -1534,7 +1536,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.8★ from 9 ratings"
+   "buyerEvidence": "4.8★ from 9 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/w/d/e/30-kumkumadi-facial-serum-organic-intensive-repair-rejuvenating-original-imahmx8qsh47s36c.jpeg?q=90",
@@ -1551,6 +1554,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:oil",
    "format:pack",
+   "water:unstated",
    "ing:turmeric",
    "ing:saffron",
    "ing:kumkumadi",
@@ -1975,7 +1979,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 21 ratings"
+   "buyerEvidence": "4★ from 21 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/y/t/g/50-face-cream-for-glowing-skin-with-kumkumadi-night-cream-original-imahgmbzzxuehxx6.jpeg?q=90",
@@ -1990,6 +1995,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:kumkumadi",
    "claim:brightening",
    "claim:whitening-claim",
@@ -2651,7 +2657,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/4/3/50-amor-day-cream-with-niacinamide-rosehip-oil-hydrating-face-original-imahqdnbqv5azhbg.jpeg?q=90",
@@ -2669,6 +2676,7 @@ const CTPRODUCTS = [
    "format:oil",
    "format:scrub",
    "format:wash",
+   "water:unstated",
    "ing:niacinamide",
    "ing:rosehip",
    "claim:brightening",
@@ -2871,7 +2879,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 163 ratings"
+   "buyerEvidence": "4.1★ from 163 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/q/l/7/100-combo-of-kumkumadi-day-cream-red-sandalwood-night-cream-original-imahpq8wxw9ugdxp.jpeg?q=90",
@@ -2887,6 +2896,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:kit",
+   "water:unstated",
    "ing:sandalwood",
    "ing:kumkumadi",
    "claim:brightening",
@@ -4553,7 +4563,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/z/k/d/30-kumkumadi-oil-for-face-01-mooncare-original-imahnja6nxehfx8h.jpeg?q=90",
@@ -4568,6 +4579,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:oil",
    "format:pack",
+   "water:unstated",
    "ing:kumkumadi",
    "claim:brightening",
    "claim:oil-control",
@@ -6491,7 +6503,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/v/a/z/30-kumkumadi-oil-for-face-glow-pigmentation-skin-brightening-original-imahngwbnz5rme6n.jpeg?q=90",
@@ -6508,6 +6521,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:oil",
    "format:pack",
+   "water:unstated",
    "ing:kumkumadi",
    "claim:brightening",
    "claim:dark-spots",
@@ -6709,7 +6723,8 @@ const CTPRODUCTS = [
    "evidenceActives": "squalane (#1 on list, moderate evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/u/7/g/30-squalane-oil-sugarcane-derived-100-pure-lightweight-face-hair-original-imahphdzadzbtahg.jpeg?q=90",
@@ -6726,6 +6741,7 @@ const CTPRODUCTS = [
    "format:oil",
    "format:pack",
    "format:wash",
+   "water:unstated",
    "ing:squalane",
    "ing:olive",
    "claim:brightening",
@@ -10971,7 +10987,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.2★ from 10 ratings"
+   "buyerEvidence": "3.2★ from 10 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/klo27bk0/fairness/f/v/y/30-kumkumadi-face-glowing-oil-for-skin-brightening-and-original-imagyqk9ervcb6cj.jpeg?q=90",
@@ -10986,6 +11003,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:oil",
+   "water:unstated",
    "ing:turmeric",
    "ing:saffron",
    "ing:kumkumadi",
@@ -16505,7 +16523,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 3 ratings"
+   "buyerEvidence": "4.3★ from 3 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/k/t/q/30-rosehip-oil-for-face-glow-dry-skin-dark-spots-acne-marks-original-imahnfshvt3fk8fq.jpeg?q=90",
@@ -16521,6 +16540,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:oil",
    "format:pack",
+   "water:unstated",
    "ing:rosehip",
    "claim:brightening",
    "claim:dark-spots",
@@ -17574,7 +17594,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.7★ from 3 ratings"
+   "buyerEvidence": "3.7★ from 3 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/6/h/n/10-natural-rose-hip-seed-oil-10ml-anti-aging-face-oil-helps-original-imahmf5rm2sg2x3e.jpeg?q=90",
@@ -17590,6 +17611,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:oil",
    "format:pack",
+   "water:unstated",
    "ing:rose",
    "claim:brightening",
    "claim:dark-spots",
@@ -18629,7 +18651,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/u/g/i/30-squalane-oil-100-plant-derived-lightweight-face-skin-oil-deep-original-imahqy4jgpkzkcgp.jpeg?q=90",
@@ -18645,6 +18668,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:oil",
    "format:pack",
+   "water:unstated",
    "ing:squalane",
    "ing:vitamin-e",
    "claim:brightening",
@@ -18845,7 +18869,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/m/r/50-squalane-nourishing-glow-moisturizer-all-skin-types-original-imagydze6sgetz6h.jpeg?q=90",
@@ -18863,6 +18888,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:kit",
    "spf:30",
+   "water:unstated",
    "ing:squalane",
    "claim:brightening",
    "claim:dark-spots",
@@ -18958,7 +18984,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/w/l/50-vitamin-c-face-whitening-cream-bright-glow-even-look-armm-original-imahjn5nzuuesrhh.jpeg?q=90",
@@ -18975,6 +19002,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:lotion",
    "format:kit",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:rice-water",
    "ing:saffron",
@@ -19384,7 +19412,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/8/x/t/60-kumkumadi-oil-for-skin-rejuvenation-smoothwave-original-imahqzhtzdmqz7jm.jpeg?q=90",
@@ -19400,6 +19429,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:oil",
    "format:pack",
+   "water:unstated",
    "ing:saffron",
    "ing:sandalwood",
    "ing:kumkumadi",
@@ -19907,7 +19937,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 240 ratings"
+   "buyerEvidence": "4.2★ from 240 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/massage-oil/i/y/j/100-pack-of-2-virgin-coconut-oil-cold-pressed-hair-body-baby-original-imagpnekmyvkhzhd.jpeg?q=90",
@@ -19922,6 +19953,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:oil",
+   "water:unstated",
    "ing:coconut",
    "claim:brightening",
    "claim:dark-spots",
@@ -20016,7 +20048,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.6★ from 461 ratings"
+   "buyerEvidence": "4.6★ from 461 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/p/7/g/30-khadi-kumkumadi-tailam-for-face-kumkumadi-face-oil-for-original-imahhwffgzdvg2za.jpeg?q=90",
@@ -20034,6 +20067,7 @@ const CTPRODUCTS = [
    "format:oil",
    "format:pack",
    "format:wash",
+   "water:unstated",
    "ing:kumkumadi",
    "claim:brightening",
    "claim:dark-spots",
@@ -20131,7 +20165,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/v/c/j/50-vitamin-c-face-whitening-cream-bright-glow-even-look-armm-original-imahjn5nmzgsmffj.jpeg?q=90",
@@ -20147,6 +20182,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:kit",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:rice-water",
    "ing:squalane",
@@ -20461,7 +20497,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.9★ from 343 ratings"
+   "buyerEvidence": "3.9★ from 343 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/kbs9k7k0/fairness/h/w/4/30-100-pure-kumkumadi-tailam-for-radiant-skin-for-brightens-original-imaft27d67e2hqfm.jpeg?q=90",
@@ -20478,6 +20515,7 @@ const CTPRODUCTS = [
    "format:oil",
    "format:pack",
    "format:wash",
+   "water:unstated",
    "ing:saffron",
    "ing:kumkumadi",
    "claim:brightening",
@@ -20567,7 +20605,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/v/c/j/50-vitamin-c-face-whitening-cream-bright-glow-even-look-armm-original-imahjn5nmzgsmffj.jpeg?q=90",
@@ -20584,6 +20623,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:scrub",
    "format:kit",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:saffron",
    "ing:squalane",
@@ -21104,7 +21144,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 3 ratings"
+   "buyerEvidence": "5★ from 3 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/a/a/k/30-squaglow-face-moisturiser-squalane-vitamin-e-chamomile-kyra-original-imahp3zpnupejfmg.jpeg?q=90",
@@ -21121,6 +21162,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:peptides",
    "ing:rose",
    "ing:squalane",
@@ -21338,6 +21380,7 @@ const CTPRODUCTS = [
    "format:serum",
    "ing:kojic-acid",
    "ing:squalane",
+   "ing:pdrn-polynucleotide",
    "claim:whitening-claim",
    "claim:anti-aging",
    "claim:hydrating",
@@ -21428,7 +21471,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/n/z/q/100-squalane-vitamin-e-moisturizer-for-dry-glowing-skin-for-men-original-imahzbkn8u4juhje.jpeg?q=90",
@@ -21444,6 +21488,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:cream",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
    "ing:squalane",
@@ -21546,7 +21591,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/7/u/7/150-moisturizing-body-lotion-with-squalane-shea-butter-deep-original-imahjnayzkeangqm.jpeg?q=90",
@@ -21566,6 +21612,7 @@ const CTPRODUCTS = [
    "format:kit",
    "spf:30",
    "pa:+++",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:collagen",
    "ing:glutathione",
@@ -24152,15 +24199,16 @@ const CTPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "retinol + squalane",
   "featureLine": "Serum · ₹2917/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (The Ordinary official website (theordinary.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "squalane high on the INCI list (moderate evidence); simmondsia chinensis seed oil high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 6.4,
+   "skin": 10,
+   "trust": 8.5,
    "experience": 2.6
   },
   "fullSpec": {
@@ -24177,13 +24225,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.2/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "The Ordinary official website (theordinary.com) — product page › Ingredients",
+   "inciSourceUrl": "https://theordinary.com/en-in/retinol-05-in-squalane-serum-100440.html",
+   "inciMatchedName": "Retinol 0.5% in Squalane (name match 100%)",
+   "inciList": "Squalane, Caprylic/Capric Triglyceride, Simmondsia Chinensis (Jojoba) Seed Oil, Retinol, Solanum Lycopersicum (Tomato) Fruit Extract, Rosmarinus Officinalis (Rosemary) Leaf Extract, Hydroxymethoxyphenyl Decanone, BHT",
+   "evidenceActives": "squalane (#1 on list, moderate evidence); simmondsia chinensis seed oil (#3 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Estée Lauder Companies — Global FMCG or beauty group",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Aging — retinol #4 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41sDKlEL3IL._SL1240_.jpg",
@@ -24210,7 +24261,10 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "target:aging",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -24219,25 +24273,52 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "The Ordinary official website (theordinary.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://theordinary.com/en-in/retinol-05-in-squalane-serum-100440.html",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Retinol 0.5% in Squalane",
+   "inciMatchScore": 1,
+   "inciText": "Squalane, Caprylic/Capric Triglyceride, Simmondsia Chinensis (Jojoba) Seed Oil, Retinol, Solanum Lycopersicum (Tomato) Fruit Extract, Rosmarinus Officinalis (Rosemary) Leaf Extract, Hydroxymethoxyphenyl Decanone, BHT",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "squalane",
+     "grade": "B",
+     "position": 1,
+     "core": true,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "simmondsia chinensis seed oil",
+     "grade": "B",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "retinol",
+     "grade": "A",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "retinoids"
+    }
+   ],
+   "support": [
+    "squalane"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -28263,6 +28344,7 @@ const CTPRODUCTS = [
    "ing:niacinamide",
    "ing:bakuchiol",
    "ing:rosehip",
+   "ing:polyglutamic-acid",
    "claim:brightening",
    "claim:anti-aging",
    "claim:hydrating",
@@ -29084,6 +29166,8 @@ const CTPRODUCTS = [
    "ing:ceramides",
    "ing:peptides",
    "ing:squalane",
+   "ing:pdrn-polynucleotide",
+   "ing:exosomes",
    "claim:anti-aging",
    "claim:hydrating",
    "free:derm",
@@ -29278,6 +29362,14 @@ const CTPRODUCTS = [
      "src": "panthenol"
     },
     {
+     "name": "sodium dna",
+     "grade": "B",
+     "position": 22,
+     "core": false,
+     "trace": true,
+     "src": "pdrn"
+    },
+    {
      "name": "centella asiatica extract",
      "grade": "B",
      "position": 23,
@@ -29353,7 +29445,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.4★ from 0 ratings"
+   "buyerEvidence": "4.4★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61di+rpnz0L._SL1100_.jpg",
@@ -29370,6 +29463,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:oil",
    "spf:30",
+   "water:unstated",
    "ing:saffron",
    "ing:kumkumadi",
    "claim:brightening",
@@ -32181,7 +32275,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.9★ from 0 ratings"
+   "buyerEvidence": "3.9★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61fwt3zUTvL._AC_UL320_.jpg"
@@ -32194,6 +32289,7 @@ const CTPRODUCTS = [
    "format:cream",
    "spf:50",
    "pa:++++",
+   "water:unstated",
    "ing:kumkumadi",
    "ing:gold",
    "claim:brightening",
@@ -32594,7 +32690,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61LaIn+ROTL._AC_UL320_.jpg"
@@ -32607,6 +32704,7 @@ const CTPRODUCTS = [
    "format:cream",
    "spf:15",
    "pa:++",
+   "water:unstated",
    "ing:saffron",
    "ing:kumkumadi",
    "claim:brightening",
@@ -32696,7 +32794,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
-   "buyerEvidence": "3.7★ from 0 ratings"
+   "buyerEvidence": "3.7★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/612uKUJUOpL._AC_UL320_.jpg"
@@ -32709,6 +32808,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:oil",
    "spf:30",
+   "water:unstated",
    "ing:saffron",
    "ing:sandalwood",
    "ing:kumkumadi",
@@ -33118,7 +33218,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Heavenly Secrets — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/514QFenfNdL._AC_UL320_.jpg"
@@ -33131,6 +33232,7 @@ const CTPRODUCTS = [
    "format:oil",
    "spf:30",
    "pa:+++",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:rosehip",
    "claim:brightening",
@@ -34053,6 +34155,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:oil",
    "format:wash",
+   "format:cleansing-oil",
    "ing:saffron",
    "ing:sandalwood",
    "ing:rosehip",
@@ -35824,7 +35927,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "waterResistance": "marketed for swim / sport / outdoors (per listing — not tested here, not scored)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51gUEi5wTRL._AC_UL320_.jpg"
@@ -35837,6 +35941,8 @@ const CTPRODUCTS = [
    "format:serum",
    "format:oil",
    "spf:50",
+   "water:unstated",
+   "water:sport",
    "claim:brightening",
    "claim:acne",
    "claim:pores",
@@ -37215,7 +37321,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61sM8+y-vPL._AC_UL320_.jpg"
@@ -37229,6 +37336,7 @@ const CTPRODUCTS = [
    "format:oil",
    "format:kit",
    "spf:60",
+   "water:unstated",
    "claim:brightening",
    "claim:dark-spots",
    "claim:anti-aging",
@@ -43084,7 +43192,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/717rTHOvR-L._AC_UL320_.jpg"
@@ -43098,6 +43207,7 @@ const CTPRODUCTS = [
    "format:oil",
    "format:kit",
    "spf:60",
+   "water:unstated",
    "claim:brightening",
    "claim:dark-spots",
    "claim:anti-aging",
@@ -49791,7 +49901,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "2.7★ from 0 ratings"
+   "buyerEvidence": "2.7★ from 0 ratings",
+   "waterResistance": "marketed for swim / sport / outdoors (per listing — not tested here, not scored)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/515WvtTqIAL._AC_UL320_.jpg"
@@ -49805,6 +49916,8 @@ const CTPRODUCTS = [
    "format:oil",
    "format:kit",
    "spf:50",
+   "water:unstated",
+   "water:sport",
    "claim:brightening",
    "claim:acne",
    "claim:pores",
@@ -57819,6 +57932,7 @@ const CTPRODUCTS = [
    "ing:bakuchiol",
    "ing:centella-cica",
    "ing:rosehip",
+   "ing:polyglutamic-acid",
    "claim:brightening",
    "claim:hydrating",
    "aud:unisex",
@@ -59015,7 +59129,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Suganda Skincare — Indian D2C brand with its own product company",
-   "buyerEvidence": "3.9★ from 0 ratings"
+   "buyerEvidence": "3.9★ from 0 ratings",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61pbpGnBiuL._AC_UL320_.jpg"
@@ -59027,12 +59142,15 @@ const CTPRODUCTS = [
    "scope:unstated",
    "format:oil",
    "format:wash",
+   "format:cleansing-oil",
+   "water:resistant",
    "ing:squalane",
    "ing:vitamin-e",
    "claim:acne",
    "claim:pores",
    "claim:water-resistant",
    "claim:makeup",
+   "claim:waterproof-makeup",
    "aud:unisex",
    "size:travel",
    "rating:3.5",
@@ -63882,7 +64000,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61gMd-joGML._AC_UL320_.jpg"
@@ -63895,6 +64014,7 @@ const CTPRODUCTS = [
    "format:oil",
    "spf:30",
    "pa:+++",
+   "water:unstated",
    "ing:squalane",
    "ing:vitamin-e",
    "ing:jojoba",
@@ -67472,7 +67592,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51joqcEjYYL._AC_UL320_.jpg"
@@ -67485,6 +67606,7 @@ const CTPRODUCTS = [
    "format:cream",
    "spf:30",
    "pa:+++",
+   "water:unstated",
    "ing:squalane",
    "ing:zinc",
    "claim:hydrating",
@@ -67677,7 +67799,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51BihIZ1LuL._AC_UL320_.jpg"
@@ -67689,6 +67812,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:oil",
    "format:wash",
+   "water:unstated",
    "ing:ceramides",
    "ing:squalane",
    "claim:hydrating",
@@ -68855,7 +68979,6 @@ const CTPRODUCTS = [
    "format:oil",
    "format:balm",
    "format:peel",
-   "format:body-wax",
    "ing:urea",
    "ing:turmeric",
    "ing:squalane",
@@ -69574,7 +69697,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "waterResistance": "Water resistant — 80 minutes or more (very water resistant) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/517cPCzPmEL._AC_UL320_.jpg"
@@ -69587,6 +69711,7 @@ const CTPRODUCTS = [
    "spf:50+",
    "pa:++++",
    "sun:hybrid",
+   "water:80",
    "ing:squalane",
    "claim:hydrating",
    "claim:water-resistant",
@@ -70000,7 +70125,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51-uGHtvRrL._AC_UL320_.jpg"
@@ -70012,6 +70138,7 @@ const CTPRODUCTS = [
    "scope:body",
    "format:lotion",
    "format:oil",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:aha",
    "ing:green-tea",
@@ -70579,7 +70706,8 @@ const CTPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
    "declaredManufacturer": "Sprivil Healthcare Pvt Ltd, L-1/4, Addl MIDC, Satara 415004. ML No.: PD/C/73 (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.2★ from 706 ratings"
+   "buyerEvidence": "4.2★ from 706 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/o/n/t/100-squalane-vitamin-e-dewy-bright-sunscreen-no-white-cast-pack-original-imagy9ernkgnuwpg.jpeg?q=90"
@@ -70591,6 +70719,7 @@ const CTPRODUCTS = [
    "scope:unstated",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:squalane",
    "ing:vitamin-e",
    "claim:hydrating",
@@ -71421,7 +71550,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.7★ from 6 ratings"
+   "buyerEvidence": "3.7★ from 6 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/face-wash/p/a/9/100-squalane-silk-melt-balm-to-foam-double-cleanser-oily-skin-original-imahnyysqrpb9fhp.jpeg?q=90",
@@ -71439,6 +71569,8 @@ const CTPRODUCTS = [
    "format:oil",
    "format:balm",
    "format:wash",
+   "format:cleansing-oil",
+   "water:unstated",
    "ing:squalane",
    "claim:brightening",
    "claim:hydrating",
@@ -72048,7 +72180,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Heavenly Secrets — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71WJp4i+OyL._AC_UL320_.jpg"
@@ -72059,6 +72192,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "spf:50+",
+   "water:unstated",
    "ing:niacinamide",
    "ing:squalane",
    "claim:brightening",
@@ -72150,7 +72284,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Conscious Chemist — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51D7lGHJO5L._AC_UL320_.jpg"
@@ -72164,6 +72299,7 @@ const CTPRODUCTS = [
    "format:kit",
    "spf:50",
    "pa:++++",
+   "water:unstated",
    "ing:ceramides",
    "ing:squalane",
    "ing:milk",
@@ -72258,7 +72394,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51vQDnTBiWL._AC_UL320_.jpg"
@@ -72272,6 +72409,7 @@ const CTPRODUCTS = [
    "spf:50",
    "pa:+++",
    "sun:mineral",
+   "water:unstated",
    "ing:squalane",
    "ing:zinc",
    "claim:oil-control",
@@ -72672,7 +72810,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51M5iAR+YEL._AC_UL320_.jpg"
@@ -72683,6 +72822,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "spf:30",
+   "water:unstated",
    "ing:niacinamide",
    "ing:squalane",
    "ing:vitamin-b5-panthenol",
@@ -72877,7 +73017,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61yYVYM7ExL._AC_UL320_.jpg"
@@ -72890,6 +73031,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:oil",
    "spf:30",
+   "water:unstated",
    "ing:kumkumadi",
    "claim:brightening",
    "claim:dark-spots",
@@ -73820,7 +73962,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61XE7A+ny2L._AC_UL320_.jpg"
@@ -73833,6 +73976,7 @@ const CTPRODUCTS = [
    "format:lotion",
    "spf:30",
    "pa:+++",
+   "water:unstated",
    "ing:squalane",
    "ing:licorice",
    "claim:oil-control",
@@ -73921,7 +74065,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61yvbtPfNlL._AC_UL320_.jpg"
@@ -73934,6 +74079,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:kit",
    "spf:30",
+   "water:unstated",
    "ing:turmeric",
    "ing:saffron",
    "ing:kumkumadi",
@@ -74021,7 +74167,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Conscious Chemist — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/518XE7iFZgL._AC_UL320_.jpg"
@@ -74034,6 +74181,7 @@ const CTPRODUCTS = [
    "format:gel",
    "spf:50",
    "pa:++++",
+   "water:unstated",
    "ing:ceramides",
    "ing:squalane",
    "ing:milk",
@@ -74144,6 +74292,7 @@ const CTPRODUCTS = [
    "ing:niacinamide",
    "ing:bakuchiol",
    "ing:rosehip",
+   "ing:polyglutamic-acid",
    "claim:brightening",
    "claim:hydrating",
    "aud:unisex",
@@ -74488,6 +74637,864 @@ const CTPRODUCTS = [
     "url": null
    },
    "buyers": "3.8★ from 0 ratings"
+  }
+ },
+ {
+  "id": "muddy-itm7359dc065e88e",
+  "brand": "Muddy",
+  "model": "Water Co Sunscreen - SPF 50+ PA+++ Dewy Gel Sun Cream | UVA, UVB Defense| Niacinamide & Ku…",
+  "price": 628,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "niacinamide + clay/mud + kumkumadi",
+  "featureLine": "Sunscreen · SPF 50",
+  "highlight": "Live Flipkart listing. Scored from its published INCI list (Flipkart listing — Specifications › Composition): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "Well-reviewed: 4.8★ from 5 ratings"
+  ],
+  "cons": [
+   "Added fragrance (parfum): perfume",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 3.5,
+   "skin": 5.9,
+   "trust": 5.5,
+   "experience": 5.6
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Sunscreen",
+   "keyIngredients": "niacinamide, clay/mud, kumkumadi (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "SPF 50",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.8/5 (5 ratings, Flipkart)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
+   "inciSource": "Flipkart listing — Specifications › Composition",
+   "inciList": "PEG 40 Hydrogenated castor oil ,Ethylhexyl methoxycinnamate,Benzophenone 3, Butyl Methoxydibenzoylmethane,Phospholopids,1,3-Butylene Glycol,Phenoxyethanol ,Sodium gluconate ,Carbomer,Propylene glycol ,Glycerine,PEG -7 Glyceryl cocoate,Ceramide3,Sodium PCA,Niacinamide,Kumkumadi ,Triethanolamine,Ethylhexylglycerin,Propanediol,Aqua,Perfume,Color",
+   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
+   "safetyFlags": "Added fragrance (parfum): perfume (−1.5)",
+   "maker": "Maker not verified (no parent company found)",
+   "declaredManufacturer": "Cizy Biocare, Plot No E-105, Phase 7, Industrial Area, Mohali, Punjab 160059 (India) (as printed on the Flipkart listing — not scored)",
+   "buyerEvidence": "4.8★ from 5 ratings",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/u/8/q/-original-imahmf2kxbtzwcyz.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/e/i/a/-original-imahmf2kmhjt7h3h.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/i/f/u/-original-imahmf2k5a6xmmqf.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/f/0/q/50-dewy-gel-sun-cream-uva-uvb-defense-niacinamide-kumkumadi-original-imahhmfghyjhajgf.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/cms-rpd-img/4b54f02e763e44ce8e86bc48ad38f45b_1a01f23ecf9_SNRHHMFK3ADVNVEM_1.jpg.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/muddy-water-co-sunscreen-spf-50-pa-dewy-gel-sun-cream-uva-uvb-defense-niacinamide-kumkumadi-instant-cooling/p/itm7359dc065e88e",
+  "buyStore": "Flipkart",
+  "title": "Muddy Water Co Sunscreen - SPF 50+ PA+++ Dewy Gel Sun Cream | UVA, UVB Defense| Niacinamide & Kumkumadi | Instant Cooling",
+  "tags": [
+   "scope:unstated",
+   "format:gel",
+   "format:cream",
+   "spf:50+",
+   "pa:+++",
+   "water:unstated",
+   "ing:niacinamide",
+   "ing:kumkumadi",
+   "claim:broad-spectrum",
+   "claim:spf-claim",
+   "claim:cooling",
+   "aud:unisex",
+   "rating:4.5",
+   "store:flipkart",
+   "inci:full"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "listing",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Flipkart listing — Specifications › Composition",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": "PEG 40 Hydrogenated castor oil ,Ethylhexyl methoxycinnamate,Benzophenone 3, Butyl Methoxydibenzoylmethane,Phospholopids,1,3-Butylene Glycol,Phenoxyethanol ,Sodium gluconate ,Carbomer,Propylene glycol ,Glycerine,PEG -7 Glyceryl cocoate,Ceramide3,Sodium PCA,Niacinamide,Kumkumadi ,Triethanolamine,Ethylhexylglycerin,Propanediol,Aqua,Perfume,Color",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 0.91,
+   "actives": [
+    {
+     "name": "ethylhexyl methoxycinnamate",
+     "grade": "A",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "benzophenone-3",
+     "grade": "A",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "butyl methoxydibenzoylmethane",
+     "grade": "A",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 11,
+     "core": false,
+     "trace": true,
+     "src": "glycerin"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 15,
+     "core": false,
+     "trace": true,
+     "src": "niacinamide"
+    }
+   ],
+   "support": [
+    "butylene glycol",
+    "glycerin",
+    "sodium pca",
+    "niacinamide",
+    "propanediol"
+   ],
+   "formulaNotes": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.8★ from 5 ratings"
+  }
+ },
+ {
+  "id": "sunkey-itm30d5c104397df",
+  "brand": "Sunkey",
+  "model": "Sunscreen - SPF 43 PA+++ No Tan Baby Mineral Sunscreen With Olive Squalane & Oatmeal Extra…",
+  "price": 591,
+  "capacityLine": "80 g",
+  "materialLine": "colloidal oatmeal + squalane",
+  "featureLine": "Sunscreen · Paraben-free · SPF 43 · ₹739/100g",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "80 g",
+   "pricePer100": "₹739/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "colloidal oatmeal, squalane (per listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "SPF 43",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistant / waterproof (duration not stated), marketed for swim / sport / outdoors (per listing — not tested here, not scored)"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/h/p/v/80-no-tan-baby-mineral-sunscreen-with-olive-squalane-oatmeal-original-imahhh7yjqgfhvgs.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/8/h/w/80-no-tan-baby-mineral-sunscreen-with-olive-squalane-oatmeal-original-imahhh7yywybyjt3.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/4/p/g/80-no-tan-baby-mineral-sunscreen-with-olive-squalane-oatmeal-original-imahhh7yymjqufgn.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/g/b/s/80-no-tan-baby-mineral-sunscreen-with-olive-squalane-oatmeal-original-imahhh7y2brjmgbv.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/p/r/0/80-no-tan-baby-mineral-sunscreen-with-olive-squalane-oatmeal-original-imahhh7ydfqpbg8q.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/sunkey-sunscreen-spf-43-pa-no-tan-baby-mineral-olive-squalane-oatmeal-extract/p/itm30d5c104397df",
+  "buyStore": "Flipkart",
+  "title": "Sunkey Sunscreen - SPF 43 PA+++ No Tan Baby Mineral Sunscreen With Olive Squalane & Oatmeal Extract",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:lotion",
+   "format:kit",
+   "spf:40",
+   "pa:+++",
+   "sun:mineral",
+   "water:resistant",
+   "water:sport",
+   "ing:colloidal-oatmeal",
+   "ing:squalane",
+   "ing:watermelon",
+   "ing:olive",
+   "claim:water-resistant",
+   "claim:broad-spectrum",
+   "claim:spf-claim",
+   "skin:all",
+   "free:paraben",
+   "free:vegan",
+   "free:ph-balanced",
+   "aud:kids",
+   "size:standard",
+   "rating:none",
+   "store:flipkart",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "squalane-b0gjdtf3rt",
+  "brand": "Squalane",
+  "model": "Sunscreen SPF 50 PA+++ | No White Cast | Sweat Resistant & Non-Sticky for Oily Skin | Broa…",
+  "price": 579,
+  "capacityLine": "50 ml",
+  "materialLine": "squalane",
+  "featureLine": "Sunscreen · SPF 50 · ₹1158/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 5
+  },
+  "fullSpec": {
+   "quantity": "50 ml",
+   "pricePer100": "₹1158/100ml",
+   "format": "Sunscreen",
+   "keyIngredients": "squalane (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim, SPF 50",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "5★ from 0 ratings",
+   "waterResistance": "sweat resistant (per listing — not tested here, not scored)"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61qwuR+pfFL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81KMOiTqcEL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81E0gd8FnwL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81X-txihcTL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81IdTOOnw7L._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GJDTF3RT",
+  "buyStore": "Amazon",
+  "title": "Squalane Sunscreen SPF 50 PA+++ | No White Cast | Sweat Resistant & Non-Sticky for Oily Skin | Broad Spectrum UVA/UVB Protection | Lightweight Daily Face Sunscreen | 50ml",
+  "tags": [
+   "scope:both",
+   "spf:50",
+   "pa:+++",
+   "water:sweat",
+   "ing:squalane",
+   "claim:brightening",
+   "claim:oil-control",
+   "claim:exfoliating",
+   "claim:water-resistant",
+   "claim:no-white-cast",
+   "claim:broad-spectrum",
+   "claim:lightweight",
+   "claim:spf-claim",
+   "skin:oily",
+   "skin:combination",
+   "skin:all",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "5★ from 0 ratings"
+  }
+ },
+ {
+  "id": "unbranded-b0dhdbztcq",
+  "brand": "Unbranded",
+  "model": "Kumkumadi Sunscreen (50ml) | Light Weight, Non Greasy&Sweat proof, UV Protection, Brigthen…",
+  "price": 349,
+  "capacityLine": "50 ml",
+  "materialLine": "kumkumadi",
+  "featureLine": "Sunscreen · Fragrance-free · ₹698/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.2
+  },
+  "fullSpec": {
+   "quantity": "50 ml",
+   "pricePer100": "₹698/100ml",
+   "format": "Sunscreen",
+   "keyIngredients": "kumkumadi (per listing)",
+   "freeFrom": "Fragrance-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "4.1/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "waterResistance": "sweat resistant (per listing — not tested here, not scored)"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/41wKmAbqxSL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/71ROs2SC1nL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61F7NC3GmvL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/71nYbsf4nPL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61uCdXyYtzL._SL1080_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0DHDBZTCQ",
+  "buyStore": "Amazon",
+  "title": "Kumkumadi Sunscreen (50ml) | Light Weight, Non Greasy&Sweat proof, UV Protection, Brigthening Formula, Quick Absorption | UVA/B & Blue Light Protection | Fragrance-Free | For Men & Women |",
+  "tags": [
+   "scope:unstated",
+   "water:sweat",
+   "ing:kumkumadi",
+   "claim:oil-control",
+   "claim:soothing",
+   "claim:exfoliating",
+   "claim:water-resistant",
+   "claim:broad-spectrum",
+   "claim:blue-light",
+   "claim:lightweight",
+   "skin:sensitive",
+   "skin:all",
+   "free:fragrance",
+   "free:sensitive-safe",
+   "aud:women",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.1★ from 0 ratings"
+  }
+ },
+ {
+  "id": "conscious-chemist-b09trn6ypv",
+  "brand": "Conscious Chemist",
+  "model": "® Sun Drink Sunscreen SPF 50 PA++++ 50g | In-Vivo Tested Broad Spectrum UVA & UVB Protecti…",
+  "price": 272,
+  "capacityLine": "50 g",
+  "materialLine": "ceramides + squalane",
+  "featureLine": "Sunscreen · SPF 50 · ₹544/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 5,
+   "experience": 2.6
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹544/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "ceramides, squalane (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, SPF 50",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "4.2/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Conscious Chemist — Indian D2C brand with its own product company",
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51lRYJr43fL._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/61lqUqc4lfL._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/610xAkq133L._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/61BJPZW-w2L._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/71Qft8lGaTL._SL1200_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B09TRN6YPV",
+  "buyStore": "Amazon",
+  "title": "Conscious Chemist® Sun Drink Sunscreen SPF 50 PA++++ 50g | In-Vivo Tested Broad Spectrum UVA & UVB Protection | Lightweight Gel with Ceramide, Olive Squalane & Milk Thistle Extract | No White Cast | Hydrating Daily Face Sunscreen for All Skin Types",
+  "tags": [
+   "scope:face",
+   "format:gel",
+   "spf:50",
+   "pa:++++",
+   "water:unstated",
+   "ing:ceramides",
+   "ing:squalane",
+   "ing:milk",
+   "ing:olive",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:no-white-cast",
+   "claim:broad-spectrum",
+   "claim:lightweight",
+   "claim:spf-claim",
+   "claim:makeup",
+   "skin:oily",
+   "skin:all",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Conscious Chemist",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://consciouschemist.com/"
+   },
+   "buyers": "4.2★ from 0 ratings"
+  }
+ },
+ {
+  "id": "muddy-b0h29d5fv8",
+  "brand": "Muddy",
+  "model": "Water Sunscreen Matte Hybrid, SPF+ 50 PA+++ | UVA UVB and Blue Light Protection | Sweat Re…",
+  "price": 1299,
+  "capacityLine": "50 g",
+  "materialLine": "clay/mud + kumkumadi",
+  "featureLine": "Sunscreen · Paraben-free · SPF 50 · ₹2598/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.9
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹2598/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "clay/mud, kumkumadi (per listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Dermatologically tested (seller claim — not scored)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Anti-aging claim, SPF 50",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.3/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "waterResistance": "Water resistant / waterproof (duration not stated), sweat resistant (per listing — not tested here, not scored)"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61E07quOrIL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H29D5FV8",
+  "buyStore": "Amazon",
+  "title": "Muddy Water Sunscreen Matte Hybrid, SPF+ 50 PA+++ | UVA UVB and Blue Light Protection | Sweat Resistant, Zero White Cast| Kumkumadi for Bright, Even Skin Tone | Velvet Finish | Men & Women, All Skin Types (50g)",
+  "tags": [
+   "scope:unstated",
+   "format:oil",
+   "spf:50+",
+   "pa:+++",
+   "sun:hybrid",
+   "water:resistant",
+   "water:sweat",
+   "ing:kumkumadi",
+   "ing:glycerin",
+   "claim:dark-spots",
+   "claim:anti-aging",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:soothing",
+   "claim:water-resistant",
+   "claim:broad-spectrum",
+   "claim:blue-light",
+   "claim:lightweight",
+   "claim:spf-claim",
+   "skin:oily",
+   "skin:combination",
+   "skin:all",
+   "free:paraben",
+   "free:derm",
+   "aud:women",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": true,
+   "natural": false,
+   "derm": true,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.3★ from 0 ratings"
+  }
+ },
+ {
+  "id": "uvedgee-b0h8z5sksx",
+  "brand": "UVedgee",
+  "model": "Junior SPF 50 Sunscreen for Kids | Broad Spectrum UVA & UVB Protection | Lightweight Daily…",
+  "price": 429,
+  "capacityLine": "50 g",
+  "materialLine": "colloidal oatmeal + squalane",
+  "featureLine": "Sunscreen · SPF 50 · ₹858/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹858/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "colloidal oatmeal, squalane (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Dermatologically tested (seller claim — not scored)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, SPF 50",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "marketed for swim / sport / outdoors (per listing — not tested here, not scored)"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61C2V4oqFZL._SL1254_.jpg",
+   "https://m.media-amazon.com/images/I/61iLoFwPUaL._SL1254_.jpg",
+   "https://m.media-amazon.com/images/I/61ppX26-7eL._SL1254_.jpg",
+   "https://m.media-amazon.com/images/I/61EvECQT9YL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71HQpexJTsL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H8Z5SKSX",
+  "buyStore": "Amazon",
+  "title": "UVedgee Junior SPF 50 Sunscreen for Kids | Broad Spectrum UVA & UVB Protection | Lightweight Daily Sunscreen with Squalane & French Oat Extract | Dermatologically Tested | 50g",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "spf:50",
+   "water:unstated",
+   "water:sport",
+   "ing:colloidal-oatmeal",
+   "ing:squalane",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "claim:broad-spectrum",
+   "claim:lightweight",
+   "claim:spf-claim",
+   "free:derm",
+   "aud:kids",
+   "size:travel",
+   "rating:none",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": true,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  }
 ];

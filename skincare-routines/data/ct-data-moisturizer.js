@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-07.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-12.
 // Unknown fields are honestly marked, never invented.
 const CTPRODUCTS = [
  {
@@ -280,6 +280,7 @@ const CTPRODUCTS = [
    "format:gel",
    "format:wash",
    "ing:ceramides",
+   "ing:polyglutamic-acid",
    "claim:dark-spots",
    "claim:hydrating",
    "claim:cooling",
@@ -1425,7 +1426,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/y/c/50-rice-nourishing-daily-moisturizing-face-cream-opulent-mirage-original-imahhyfm3tkbhckh.jpeg?q=90",
@@ -1443,6 +1445,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:balm",
    "format:kit",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
    "ing:rice-water",
@@ -1645,7 +1648,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 54 ratings"
+   "buyerEvidence": "4.2★ from 54 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/f/k/x/50-rice-water-moisturizing-cream-niacinamide-glass-skin-non-original-imahgcgghwafew9b.jpeg?q=90",
@@ -1662,6 +1666,7 @@ const CTPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:wash",
+   "water:unstated",
    "ing:niacinamide",
    "ing:rice-water",
    "claim:brightening",
@@ -2081,7 +2086,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 2 ratings"
+   "buyerEvidence": "5★ from 2 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/k/s/i/50-seoul-essence-night-cream-rice-water-korean-magic-hydrating-original-imahnsvk3zufyt4w.jpeg?q=90",
@@ -2098,6 +2104,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:essence",
    "format:pack",
+   "water:unstated",
    "ing:rice-water",
    "claim:brightening",
    "claim:hydrating",
@@ -2191,7 +2198,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/y/c/50-rice-nourishing-daily-moisturizing-face-cream-opulent-mirage-original-imahhyfm3tkbhckh.jpeg?q=90",
@@ -2208,6 +2216,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:serum",
    "format:balm",
+   "water:unstated",
    "ing:rice-water",
    "ing:aloe-vera",
    "ing:neem",
@@ -2855,7 +2864,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/y/c/50-rice-nourishing-daily-moisturizing-face-cream-opulent-mirage-original-imahhyfm3tkbhckh.jpeg?q=90",
@@ -2875,6 +2885,7 @@ const CTPRODUCTS = [
    "format:balm",
    "format:capsule",
    "format:kit",
+   "water:unstated",
    "ing:rice-water",
    "ing:shea-butter",
    "ing:vitamin-e",
@@ -3074,7 +3085,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 95 ratings"
+   "buyerEvidence": "4★ from 95 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/b/0/100-rice-water-face-cream-for-skin-whitening-brightening-original-imahnkdzkzf5crfj.jpeg?q=90",
@@ -3090,6 +3102,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:scrub",
+   "water:unstated",
    "ing:rice-water",
    "claim:brightening",
    "claim:de-tan",
@@ -3187,7 +3200,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/y/c/50-rice-nourishing-daily-moisturizing-face-cream-opulent-mirage-original-imahhyfm3tkbhckh.jpeg?q=90",
@@ -3205,6 +3219,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:balm",
    "format:kit",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:rice-water",
    "ing:neem",
@@ -4295,7 +4310,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 14 ratings"
+   "buyerEvidence": "5★ from 14 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/q/m/h/20-patttra-pro-retinol-brightening-day-cream-spf-30-retinol-original-imahzgmqh78thpzq.jpeg?q=90",
@@ -4314,6 +4330,7 @@ const CTPRODUCTS = [
    "format:wash",
    "format:kit",
    "spf:30",
+   "water:unstated",
    "ing:retinol",
    "claim:brightening",
    "claim:anti-aging",
@@ -5589,7 +5606,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/s/h/j/50-retinol-collagen-hyaluronic-acid-face-cream-daily-original-imahjw4phshxa2my.jpeg?q=90",
@@ -5607,6 +5625,7 @@ const CTPRODUCTS = [
    "format:lotion",
    "format:balm",
    "format:wash",
+   "water:unstated",
    "ing:retinol",
    "ing:collagen",
    "ing:kojic-acid",
@@ -6420,7 +6439,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/s/h/j/50-retinol-collagen-hyaluronic-acid-face-cream-daily-original-imahjw4phshxa2my.jpeg?q=90",
@@ -6440,6 +6460,7 @@ const CTPRODUCTS = [
    "format:balm",
    "format:capsule",
    "format:kit",
+   "water:unstated",
    "ing:retinol",
    "ing:collagen",
    "ing:aloe-vera",
@@ -6541,7 +6562,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/4/2/50-vivid-glow-smooth-radiance-face-cream-50ml-mullica-cream-original-imahjz94btngvhrj.jpeg?q=90",
@@ -6558,6 +6580,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:capsule",
    "format:kit",
+   "water:unstated",
    "ing:retinol",
    "ing:rice-water",
    "claim:brightening",
@@ -6656,7 +6679,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/s/h/j/50-retinol-collagen-hyaluronic-acid-face-cream-daily-original-imahjw4phshxa2my.jpeg?q=90",
@@ -6673,6 +6697,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:capsule",
    "format:kit",
+   "water:unstated",
    "ing:retinol",
    "ing:hyaluronic-acid",
    "ing:collagen",
@@ -7718,7 +7743,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "2.2★ from 5 ratings"
+   "buyerEvidence": "2.2★ from 5 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/e/2/30-retinol-cream-for-face-anti-aging-retinol-moisturizer-skin-original-imahfnytmhhkwuzz.jpeg?q=90",
@@ -7734,6 +7760,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:scrub",
+   "water:unstated",
    "ing:retinol",
    "claim:anti-aging",
    "claim:hydrating",
@@ -8701,7 +8728,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/1/i/w/100-0-retinol-night-cream-with-vitamin-c-hyaluronic-acid-for-original-imahjn9agupdzxhy.jpeg?q=90",
@@ -8719,6 +8747,7 @@ const CTPRODUCTS = [
    "format:lotion",
    "format:pack",
    "format:scrub",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:retinol",
@@ -8817,7 +8846,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "2.3★ from 3 ratings"
+   "buyerEvidence": "2.3★ from 3 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/8/h/h/50-0-retinol-night-cream-with-vitamin-c-hyaluronic-complex-original-imahp58rbgxp9gyf.jpeg?q=90",
@@ -8833,6 +8863,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:scrub",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:retinol",
    "ing:hyaluronic-acid",
@@ -9045,7 +9076,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.9★ from 8 ratings"
+   "buyerEvidence": "4.9★ from 8 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/2/a/50-retinol-1-night-moisturizer-face-cream-for-wrinkles-anti-original-imahmqfbzmdfhhhg.jpeg?q=90",
@@ -9060,6 +9092,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:niacinamide",
    "ing:retinol",
    "ing:ceramides",
@@ -9269,7 +9302,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.7★ from 9 ratings"
+   "buyerEvidence": "3.7★ from 9 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/r/s/x/50-anti-aging-wrinkle-fine-lines-retinol-collagen-hyaluronic-spf-original-imahf8kvptg4hj9j.jpeg?q=90",
@@ -9286,6 +9320,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:balm",
    "spf:30",
+   "water:unstated",
    "ing:retinol",
    "ing:glycolic-acid",
    "ing:hyaluronic-acid",
@@ -9390,7 +9425,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 3 ratings"
+   "buyerEvidence": "4.3★ from 3 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/6/u/p/50-night-cream-with-retinol-hyaluronic-acid-skin-repair-cream-original-imahe9yhyvpwhxk9.jpeg?q=90",
@@ -9406,6 +9442,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:oil",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:retinol",
@@ -9511,7 +9548,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.9★ from 8 ratings"
+   "buyerEvidence": "4.9★ from 8 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/e/r/50-retinol-1-night-moisturizer-face-cream-for-wrinkles-anti-original-imahjc2keksnzwfz.jpeg?q=90",
@@ -9526,6 +9564,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:niacinamide",
    "ing:retinol",
    "ing:ceramides",
@@ -9627,7 +9666,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.9★ from 8 ratings"
+   "buyerEvidence": "4.9★ from 8 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/e/r/50-retinol-1-night-moisturizer-face-cream-for-wrinkles-anti-original-imahjc2keksnzwfz.jpeg?q=90",
@@ -9642,6 +9682,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:niacinamide",
    "ing:retinol",
    "ing:ceramides",
@@ -9741,7 +9782,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.7★ from 13 ratings"
+   "buyerEvidence": "3.7★ from 13 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/a/v/u/50-retinol-collagen-boost-anti-ageing-night-face-cream-aging-original-imahf9kxsa2npua8.jpeg?q=90",
@@ -9758,6 +9800,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:oil",
    "format:wash",
+   "water:unstated",
    "ing:niacinamide",
    "ing:retinol",
    "ing:hyaluronic-acid",
@@ -9859,7 +9902,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 67 ratings"
+   "buyerEvidence": "4.1★ from 67 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/b/3/30-retinol-pro-night-cream-0-1-vitamin-a-fine-lines-sun-spots-original-imahq2fsxzt2htgh.jpeg?q=90",
@@ -9874,6 +9918,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:retinol",
    "claim:anti-aging",
    "skin:all",
@@ -9965,7 +10010,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-moisturizer-cream/d/t/c/30-retinol-pro-night-cream-0-1-with-vitamin-a-night-face-cream-original-imahpwvbshxmtvbh.jpeg?q=90",
@@ -9982,6 +10028,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:lotion",
    "format:kit",
+   "water:unstated",
    "ing:retinol",
    "claim:brightening",
    "claim:dark-spots",
@@ -10079,7 +10126,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/7/d/q/60-retinol-pro-night-cream-0-05-with-vitamin-a-for-fine-lines-original-imahp53f8ab8h5dz.jpeg?q=90",
@@ -10095,6 +10143,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:kit",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:retinol",
    "ing:kojic-acid",
@@ -10189,7 +10238,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/d/r/c/60-retinol-pro-night-cream-0-05-vitamin-a-anti-aging-pack-of-2-original-imahp3vzmnsk2an3.jpeg?q=90",
@@ -10206,6 +10256,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:lotion",
    "format:kit",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:retinol",
    "claim:brightening",
@@ -12139,7 +12190,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.7★ from 22 ratings"
+   "buyerEvidence": "4.7★ from 22 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/8/o/a/50-ubtan-de-tan-glow-night-cream-for-brightening-moisturizing-original-imahq83jzrcfawhz.jpeg?q=90",
@@ -12156,6 +12208,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:oil",
    "format:pack",
+   "water:unstated",
    "ing:turmeric",
    "ing:saffron",
    "ing:ubtan",
@@ -22691,7 +22744,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.5★ from 13 ratings"
+   "buyerEvidence": "4.5★ from 13 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/t/c/e/60-pigmentation-control-face-cream-helps-reduce-dark-spots-original-imahhv7xxzarzjz6.jpeg?q=90",
@@ -22707,6 +22761,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:kojic-acid",
    "claim:brightening",
@@ -23012,7 +23067,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 202 ratings"
+   "buyerEvidence": "4.2★ from 202 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/m/e/2/50-anti-ageing-bye-bye-wrinkles-face-cream-for-fine-line-original-imahmzn2efzfxzfz.jpeg?q=90",
@@ -23030,6 +23086,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:scrub",
    "format:wash",
+   "water:unstated",
    "claim:brightening",
    "claim:de-tan",
    "claim:anti-aging",
@@ -23754,7 +23811,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.5★ from 6 ratings"
+   "buyerEvidence": "4.5★ from 6 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/i/m/7/50-advanced-anti-aging-night-cream-hyaluronic-niacinamide-original-imahmzcgpzhmefez.jpeg?q=90",
@@ -23769,6 +23827,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:retinol",
@@ -24469,6 +24528,7 @@ const CTPRODUCTS = [
    "ing:retinal",
    "ing:caffeine",
    "ing:green-tea",
+   "ing:nad-nmn",
    "claim:whitening-claim",
    "claim:hydrating",
    "claim:dark-circles",
@@ -24668,7 +24728,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/a/x/o/50-overnight-bright-repair-face-cream-mullica-cream-original-imahjsxf7kej6hxs.jpeg?q=90",
@@ -24684,6 +24745,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:kit",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:retinol",
    "ing:vitamin-e",
@@ -24781,7 +24843,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/4/l/w/100-day-night-kit-retinol-night-cream-ceramide-moisturizer-for-original-imahjk38zumknfz2.jpeg?q=90",
@@ -24801,6 +24864,7 @@ const CTPRODUCTS = [
    "format:wash",
    "format:kit",
    "spf:50",
+   "water:unstated",
    "ing:retinol",
    "ing:ceramides",
    "ing:turmeric",
@@ -27454,7 +27518,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/u/g/l/3-step-acne-care-routine-cleanser-moisturizer-salicylic-acid-original-imahnuaxbvwcryua.jpeg?q=90",
@@ -27476,6 +27541,7 @@ const CTPRODUCTS = [
    "format:wash",
    "format:kit",
    "spf:50",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:ceramides",
    "ing:rice-water",
@@ -27554,7 +27620,7 @@ const CTPRODUCTS = [
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 6.7,
+   "ingredients": 6.9,
    "skin": 5.6,
    "trust": 5.5,
    "experience": 5.5
@@ -27646,6 +27712,14 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "beeswax",
+     "grade": "B",
+     "position": 8,
+     "core": false,
      "trace": false,
      "src": "petrolatum"
     },
@@ -27930,7 +28004,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.9★ from 39,328 ratings"
+   "buyerEvidence": "3.9★ from 39,328 ratings",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/f/l/45-men-s-ocean-moisturizer-sunscreen-matte-look-cream-with-enriched-transparent-original-imahe27dhfwgv3hr.png?q=90",
@@ -27946,6 +28021,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "spf:15",
+   "water:resistant",
    "ing:aloe-vera",
    "ing:turmeric",
    "claim:oil-control",
@@ -28223,7 +28299,7 @@ const CTPRODUCTS = [
  {
   "id": "dr-sheth-s-itme795a076b3295",
   "brand": "Dr. Sheth's",
-  "model": "Ceramide & Vitamin C Oil-Free Moisturizer Fights Dryn …",
+  "model": "Ceramide & Vitamin C Oil-Free Moisturizer Fights Dryness, Dullness, Damaged skin",
   "price": 455,
   "capacityLine": "100 g",
   "materialLine": "vitamin C + ceramides",
@@ -28275,7 +28351,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/dr-sheths-ceramide-vitamin-c-oil-free-moisturizer-fights-dryness-dullness-damaged-skin/p/itme795a076b3295",
   "buyStore": "Flipkart",
-  "title": "Dr. Sheth’s Ceramide & Vitamin C Oil-Free Moisturizer Fights Dryn …",
+  "title": "Dr. Sheth’s Ceramide & Vitamin C Oil-Free Moisturizer Fights Dryness, Dullness, Damaged skin",
   "tags": [
    "scope:both",
    "format:cream",
@@ -28831,7 +28907,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): perfume (−1.5)",
    "maker": "Heavenly Secrets — Indian D2C brand with its own product company",
    "buyerEvidence": "4.3★ from 71,957 ratings",
-   "concernBasis": "Acne — niacinamide #2 on INCI; Dark spots — niacinamide #2 on INCI; Irritation — ceramide eos #10 on INCI, ceramide ns #11 on INCI, ceramide np #12 on INCI, ceramide ap #14 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #2 on INCI; Dark spots — niacinamide #2 on INCI; Irritation — ceramide eos #10 on INCI, ceramide ns #11 on INCI, ceramide np #12 on INCI, ceramide ap #14 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/c/l/v/-original-imahq95jabwtjrnz.jpeg?q=90",
@@ -28848,6 +28925,7 @@ const CTPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:scrub",
+   "water:unstated",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:rice-water",
@@ -29032,7 +29110,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.9★ from 39,328 ratings"
+   "buyerEvidence": "3.9★ from 39,328 ratings",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/a/h/90-men-s-ocean-moisturizer-sunscreen-matte-look-cream-non-sticky-enriched-transparent-original-imah7na2fyh85rjg.png?q=90",
@@ -29047,6 +29126,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:resistant",
    "claim:oil-control",
    "claim:hydrating",
    "claim:water-resistant",
@@ -29466,7 +29546,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.5★ from 79 ratings"
+   "buyerEvidence": "4.5★ from 79 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/k/z/a/50-moisturiser-for-oily-acne-prone-skin-reduces-sebum-secretion-original-imahhjhxc5pwgvtf.jpeg?q=90",
@@ -29482,6 +29563,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:cream",
+   "water:unstated",
    "claim:acne",
    "claim:oil-control",
    "claim:hydrating",
@@ -29682,7 +29764,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Lotus Herbals — Established / listed Indian FMCG house",
-   "buyerEvidence": "4.3★ from 30,583 ratings"
+   "buyerEvidence": "4.3★ from 30,583 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/k/x/n/45-vitamin-c-skin-brightening-day-cream-spf-lotus-botanicals-original-imahpz4yf2zbju2a.jpeg?q=90",
@@ -29698,6 +29781,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:cream",
+   "water:unstated",
    "ing:vitamin-c",
    "claim:brightening",
    "claim:whitening-claim",
@@ -29899,7 +29983,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/t/e/50-0-turmeric-and-vitamin-c-moisturizer-lightweight-non-sticky-original-imahhdftvwswqxbk.jpeg?q=90",
@@ -29916,6 +30001,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:lotion",
    "format:kit",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:collagen",
    "ing:turmeric",
@@ -30232,7 +30318,8 @@ const CTPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.6★ from 17 ratings",
-   "concernBasis": "Irritation — aloe barbadensis leaf extract #15 on INCI (matching only — not proof it works)"
+   "concernBasis": "Irritation — aloe barbadensis leaf extract #15 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/d/j/y/100-ghee-moisturiser-for-dry-dull-dehydrated-skin-nourishes-original-imahqy8ekfwfgsmf.jpeg?q=90",
@@ -30247,6 +30334,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "claim:brightening",
    "claim:hydrating",
    "claim:barrier",
@@ -31712,7 +31800,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "O3+ Professional — Indian D2C brand with its own product company",
    "declaredManufacturer": "Visage Beauty and Health Care Pvt. Ltd. (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4★ from 3,135 ratings"
+   "buyerEvidence": "4★ from 3,135 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/y/z/-original-imahhtzfyjdxzagf.jpeg?q=90",
@@ -31728,6 +31817,7 @@ const CTPRODUCTS = [
    "scope:unstated",
    "format:cream",
    "spf:30",
+   "water:unstated",
    "claim:brightening",
    "claim:hydrating",
    "claim:spf-claim",
@@ -33271,7 +33361,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/n/f/7/100-face-moisturizer-cream-luminae-cream-original-imahhy72kduhzw3p.jpeg?q=90",
@@ -33292,6 +33383,7 @@ const CTPRODUCTS = [
    "format:oil",
    "format:clay-mask",
    "format:kit",
+   "water:unstated",
    "ing:ceramides",
    "ing:aloe-vera",
    "ing:rose",
@@ -33408,6 +33500,7 @@ const CTPRODUCTS = [
    "ing:centella-cica",
    "ing:vitamin-b5-panthenol",
    "ing:zinc",
+   "ing:exosomes",
    "claim:acne",
    "claim:oil-control",
    "claim:hydrating",
@@ -33505,7 +33598,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 533 ratings"
+   "buyerEvidence": "4.4★ from 533 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/q/c/u/100-rosemoist-moisturising-cream-100grams-oshea-herbals-cream-original-imahjguwufyyvmp5.jpeg?q=90",
@@ -33520,6 +33614,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:rose",
    "claim:brightening",
    "claim:hydrating",
@@ -34505,7 +34600,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Blossom Kochhar Aroma Magic — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.1★ from 28,305 ratings"
+   "buyerEvidence": "4.1★ from 28,305 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/6/l/l/100-juniper-berry-oil-free-moisturiser-aroma-magic-lotion-original-imahfmv53erng4nu.jpeg?q=90",
@@ -34523,6 +34619,7 @@ const CTPRODUCTS = [
    "format:lotion",
    "format:oil",
    "format:wash",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:cucumber",
    "ing:jojoba",
@@ -35064,7 +35161,7 @@ const CTPRODUCTS = [
    "Added fragrance (parfum): perfume"
   ],
   "scores": {
-   "ingredients": 5.7,
+   "ingredients": 6,
    "skin": 8.5,
    "trust": 8,
    "experience": 6.9
@@ -35153,6 +35250,14 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "beeswax",
+     "grade": "B",
+     "position": 5,
+     "core": false,
      "trace": false,
      "src": "petrolatum"
     },
@@ -35373,7 +35478,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Lotus Herbals — Established / listed Indian FMCG house",
-   "buyerEvidence": "4.3★ from 4,216 ratings"
+   "buyerEvidence": "4.3★ from 4,216 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/3/x/h/45-vitamin-c-skin-brightening-face-moisturiser-45g-lotus-original-imahd2fhv4egcg3j.jpeg?q=90",
@@ -35389,6 +35495,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:scrub",
+   "water:unstated",
    "ing:vitamin-c",
    "claim:brightening",
    "claim:dark-spots",
@@ -35834,7 +35941,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "RSH Global (Joy Personal Care) — Established / listed Indian FMCG house",
-   "buyerEvidence": "4.3★ from 6,166 ratings"
+   "buyerEvidence": "4.3★ from 6,166 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/t/s/n/200-skin-fruits-super-soft-moisturizer-berries-active-vitamin-e-original-imahphdznhfzpcyc.jpeg?q=90",
@@ -35849,6 +35957,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:vitamin-e",
    "claim:hydrating",
    "claim:soothing",
@@ -35946,7 +36055,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): perfume (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4★ from 42 ratings",
-   "concernBasis": "Acne — niacinamide #2 on INCI; Dark spots — niacinamide #2 on INCI, ethyl ascorbic acid #11 on INCI; Aging — ethyl ascorbic acid #11 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #2 on INCI; Dark spots — niacinamide #2 on INCI, ethyl ascorbic acid #11 on INCI; Aging — ethyl ascorbic acid #11 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/n/m/f/50-care-glow-fusion-daily-moisturiser-swiss-beauty-cream-original-imahjw4autaffnfe.jpeg?q=90",
@@ -35962,6 +36072,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "spf:30",
+   "water:unstated",
    "claim:brightening",
    "claim:hydrating",
    "claim:spf-claim",
@@ -37542,7 +37653,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.5★ from 22 ratings"
+   "buyerEvidence": "4.5★ from 22 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/p/q/50-0-turmeric-vitamin-c-blend-moisturizer-light-balanced-feel-original-imahhe3gtgzvzvvg.jpeg?q=90",
@@ -37558,6 +37670,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:kit",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:turmeric",
    "claim:hydrating",
@@ -38945,7 +39058,8 @@ const CTPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
    "buyerEvidence": "4.3★ from 1,818 ratings",
-   "concernBasis": "Irritation — panthenol #4 on INCI, ceramide np #12 on INCI, ceramide ns #16 on INCI, ceramide ap #18 on INCI, ceramide eop #21 on INCI (matching only — not proof it works)"
+   "concernBasis": "Irritation — panthenol #4 on INCI, ceramide np #12 on INCI, ceramide ns #16 on INCI, ceramide ap #18 on INCI, ceramide eop #21 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/l/c/r/50-vitamin-b12-repair-complex-5-5-face-moisturizer-minimalist-original-imahhsprtmqdhb2y.jpeg?q=90",
@@ -38960,6 +39074,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "claim:hydrating",
    "claim:barrier",
    "skin:all",
@@ -39322,7 +39437,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.7★ from 49 ratings"
+   "buyerEvidence": "3.7★ from 49 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/h/7/25-day-cream-with-sunscreen-spf-30pa-25-g-no-scars-cream-original-imahzfzyedqzphzz.jpeg?q=90",
@@ -39341,6 +39457,7 @@ const CTPRODUCTS = [
    "format:scrub",
    "format:wash",
    "spf:30",
+   "water:unstated",
    "claim:brightening",
    "claim:dark-spots",
    "claim:anti-aging",
@@ -40149,7 +40266,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/d/k/v/50-hydrating-face-gel-moisturizer-daily-care-gel-for-healthy-original-imahdnmgqwxzx4fv.jpeg?q=90",
@@ -40166,6 +40284,7 @@ const CTPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:kit",
+   "water:unstated",
    "ing:aloe-vera",
    "claim:brightening",
    "claim:anti-aging",
@@ -40975,7 +41094,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 9 ratings"
+   "buyerEvidence": "4.1★ from 9 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/2/b/100-0-super-light-gel-face-moisturizer-with-hyaluronic-acid-oil-original-imaheht5ggwqyhd5.jpeg?q=90",
@@ -40990,6 +41110,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:gel",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "claim:oil-control",
    "claim:hydrating",
@@ -41083,7 +41204,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/n/2/w/40-lightweight-gel-cream-face-moisturizer-for-oily-combination-original-imahzgptsycwdp4z.jpeg?q=90",
@@ -41102,6 +41224,7 @@ const CTPRODUCTS = [
    "format:lotion",
    "format:scrub",
    "format:kit",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "ing:turmeric",
@@ -41202,7 +41325,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/r/8/w/50-gel-moisturizer-with-niacinamide-lightweight-hydrating-face-original-imahht4hxyf9zjuk.jpeg?q=90",
@@ -41220,6 +41344,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:lotion",
    "format:mist",
+   "water:unstated",
    "ing:niacinamide",
    "claim:brightening",
    "claim:hydrating",
@@ -41817,7 +41942,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/f/5/6/200-aloe-vera-face-body-moisturizer-gel-for-moisturizes-cools-original-imahnzusfag6a88q.jpeg?q=90",
@@ -41836,6 +41962,7 @@ const CTPRODUCTS = [
    "format:toner",
    "format:clay-mask",
    "format:kit",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:rose",
    "ing:clay",
@@ -43120,7 +43247,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/q/e/t/50-hydrating-cooling-gel-cream-thalgo-cream-original-imahhvh3vefmcjj6.jpeg?q=90",
@@ -43139,6 +43267,7 @@ const CTPRODUCTS = [
    "format:emulsion",
    "spf:15",
    "pa:++",
+   "water:unstated",
    "ing:glycerin",
    "claim:brightening",
    "claim:hydrating",
@@ -43367,6 +43496,7 @@ const CTPRODUCTS = [
    "format:scrub",
    "ing:kojic-acid",
    "ing:glycerin",
+   "ing:pdrn-polynucleotide",
    "claim:brightening",
    "claim:whitening-claim",
    "claim:hydrating",
@@ -43462,7 +43592,8 @@ const CTPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "4.3★ from 1,875 ratings",
-   "concernBasis": "Acne — niacinamide #6 on INCI; Dark spots — niacinamide #6 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #6 on INCI; Dark spots — niacinamide #6 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/6/b/n/200-rice-dewy-bright-light-gel-moisturizer-with-rice-water-original-imah9zjm2ephth9w.jpeg?q=90",
@@ -43481,6 +43612,7 @@ const CTPRODUCTS = [
    "format:oil",
    "spf:50",
    "sun:mineral",
+   "water:unstated",
    "ing:niacinamide",
    "ing:rice-water",
    "ing:mineral-oil",
@@ -43865,7 +43997,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "declaredManufacturer": "VA Lifesciences LLP, plot No. 9D, Sector - 2, Parwanoo, Himachal Pradesh, India - 173220. M. : HIM/COS/20/305 (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.4★ from 1,153 ratings"
+   "buyerEvidence": "4.4★ from 1,153 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/j/m/o/200-beetroot-hydraful-light-gel-moisturizer-with-beetroot-ha-original-imah9zf5vyshpatu.jpeg?q=90",
@@ -43882,6 +44015,7 @@ const CTPRODUCTS = [
    "format:gel",
    "format:cream",
    "spf:50",
+   "water:unstated",
    "ing:beetroot",
    "claim:hydrating",
    "claim:spf-claim",
@@ -44188,7 +44322,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 1 ratings"
+   "buyerEvidence": "5★ from 1 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/9/l/100-hydraflex-frost-gel-moisturiser-infused-with-blueberry-aqua-original-imahhpm3dpkmhzxc.jpeg?q=90",
@@ -44203,6 +44338,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:gel",
+   "water:unstated",
    "ing:vitamin-e",
    "ing:glycerin",
    "claim:brightening",
@@ -44309,7 +44445,8 @@ const CTPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "declaredManufacturer": "VA Lifesciences LLP, plot No. 9D, Sector - 2, Parwanoo, Himachal Pradesh, India - 173220. M. : HIM/COS/20/305 (as printed on the Flipkart listing — not scored)",
    "buyerEvidence": "4.2★ from 1,035 ratings",
-   "concernBasis": "Acne — niacinamide #6 on INCI; Dark spots — niacinamide #6 on INCI, sodium ascorbyl phosphate #12 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #6 on INCI; Dark spots — niacinamide #6 on INCI, sodium ascorbyl phosphate #12 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/g/z/f/200-vitamin-c-daily-glow-light-gel-moisturizer-with-vit-c-original-imah9zjmkwzuxzsy.jpeg?q=90",
@@ -44327,6 +44464,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:oil",
    "spf:50",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:turmeric",
    "ing:glycerin",
@@ -44692,7 +44830,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/y/u/v/50-aqua-dew-gel-moisturizer-furero-gel-original-imahz8x2hepmavup.jpeg?q=90",
@@ -44711,6 +44850,7 @@ const CTPRODUCTS = [
    "format:lotion",
    "format:scrub",
    "format:wash",
+   "water:unstated",
    "ing:niacinamide",
    "ing:peptides",
    "ing:aloe-vera",
@@ -44816,7 +44956,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.3★ from 4 ratings"
+   "buyerEvidence": "3.3★ from 4 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/v/b/t/50-green-tea-matcha-gel-moisturizer-spf-45-pa-oil-free-hydration-original-imahkmvwzxngjack.jpeg?q=90",
@@ -44833,6 +44974,7 @@ const CTPRODUCTS = [
    "format:gel",
    "spf:40",
    "pa:++++",
+   "water:unstated",
    "ing:ceramides",
    "ing:green-tea",
    "ing:saffron",
@@ -45593,6 +45735,7 @@ const CTPRODUCTS = [
    "ing:petrolatum",
    "ing:kojic-acid",
    "ing:glycerin",
+   "ing:pdrn-polynucleotide",
    "claim:brightening",
    "claim:dark-spots",
    "claim:whitening-claim",
@@ -46599,7 +46742,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Blossom Kochhar Aroma Magic — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.1★ from 28,305 ratings"
+   "buyerEvidence": "4.1★ from 28,305 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/g/j/u/-original-imahbw4hw7ntquyh.jpeg?q=90",
@@ -46615,6 +46759,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:lotion",
    "spf:15",
+   "water:unstated",
    "claim:brightening",
    "claim:acne",
    "claim:hydrating",
@@ -47040,7 +47185,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/5/x/c/100-mensbrium-oil-free-moisturizer-mensbrium-original-imahkhckv8dhz4kg.jpeg?q=90",
@@ -47056,6 +47202,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:cream",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
@@ -47295,7 +47442,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Fixderma India (dermatology company) — Dermatology / pharmaceutical manufacturer",
-   "buyerEvidence": "4.3★ from 70 ratings"
+   "buyerEvidence": "4.3★ from 70 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/i/h/50-dewrav-brightening-oil-free-face-moisturizer-with-panthenol-original-imahke5wevbzeeeh.jpeg?q=90",
@@ -47310,6 +47458,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:vitamin-b5-panthenol",
    "ing:probiotics",
@@ -47561,6 +47710,7 @@ const CTPRODUCTS = [
    "ing:shea-butter",
    "ing:vitamin-b5-panthenol",
    "ing:zinc",
+   "ing:polyglutamic-acid",
    "claim:brightening",
    "claim:whitening-claim",
    "claim:acne",
@@ -48320,7 +48470,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/2/d/9/100-daily-oil-free-face-moisturizer-for-acne-prone-and-original-imahzk46hc5musyy.jpeg?q=90",
@@ -48336,6 +48487,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:kit",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:centella-cica",
    "ing:glycerin",
@@ -48804,7 +48956,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-moisturizer-cream/e/p/j/75-derbeauoil-free-moisturiser-pack-1-lotion-molcaro-original-imahpdyfz3ggerge.jpeg?q=90",
@@ -48823,6 +48976,7 @@ const CTPRODUCTS = [
    "format:capsule",
    "format:kit",
    "spf:15",
+   "water:unstated",
    "claim:brightening",
    "claim:dark-spots",
    "claim:hydrating",
@@ -49524,7 +49678,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.6★ from 9 ratings"
+   "buyerEvidence": "4.6★ from 9 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/r/w/m/100-oil-free-moisturizer-ceramide-spf-lightweight-for-oily-acne-original-imahm9jyyvy4gx7x.jpeg?q=90",
@@ -49539,6 +49694,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:oil",
+   "water:unstated",
    "ing:ceramides",
    "claim:hydrating",
    "claim:lightweight",
@@ -49628,7 +49784,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.8★ from 4 ratings"
+   "buyerEvidence": "4.8★ from 4 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/7/e/s/45-oil-free-moisturiser-niacinamide-green-teaoil-barrier-control-original-imahmfwyymsmajng.jpeg?q=90",
@@ -49643,6 +49800,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:gel",
+   "water:unstated",
    "ing:niacinamide",
    "ing:green-tea",
    "claim:acne",
@@ -51117,7 +51275,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 5 ratings"
+   "buyerEvidence": "4.4★ from 5 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/e/0/p/100-oil-free-moisturizer-for-oily-acne-prone-skin-summer-original-imahnmzgyva2mtjc.jpeg?q=90",
@@ -51133,6 +51292,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "sun:mineral",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:vitamin-e",
    "ing:titanium-dioxide",
@@ -51756,7 +51916,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.6★ from 12 ratings"
+   "buyerEvidence": "3.6★ from 12 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/f/8/a/100-oil-free-moisturizer-for-acne-prone-skin-with-hyaluronic-original-imahmfsy2ekptmcj.jpeg?q=90",
@@ -51771,6 +51932,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "ing:glycerin",
@@ -52090,6 +52252,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:dark-circles",
    "claim:water-resistant",
+   "claim:waterproof-makeup",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -52526,7 +52689,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/q/v/c/100-ceramides-hyaluronic-barrier-repair-moisturizer-with-original-imahjvhtmqasakwt.jpeg?q=90",
@@ -52543,6 +52707,7 @@ const CTPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:kit",
+   "water:unstated",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:ceramides",
@@ -52640,7 +52805,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/o/k/8/100-barrier-repair-face-moisturizer-cream-luminae-cream-original-imahkvkzsszzyvtz.jpeg?q=90",
@@ -52656,6 +52822,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:cream",
+   "water:unstated",
    "ing:ceramides",
    "ing:aloe-vera",
    "claim:brightening",
@@ -52859,7 +53026,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-moisturizer-cream/q/q/n/50-aqua-blast-hydroboost-water-based-moisturizer-for-fresh-glow-original-imahzgzsuszs57gk.jpeg?q=90",
@@ -52876,6 +53044,7 @@ const CTPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:kit",
+   "water:unstated",
    "ing:rice-water",
    "claim:brightening",
    "claim:oil-control",
@@ -52975,7 +53144,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/e/l/k/100-oil-free-moisturizer-zuveriya-cream-original-imahp8qqzhkrvtxn.jpeg?q=90",
@@ -52993,6 +53163,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:scrub",
    "format:wash",
+   "water:unstated",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:glutathione",
@@ -53099,7 +53270,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/g/k/m/100-rice-water-oil-free-moisturiser-for-oily-skin-with-rice-original-imahn79vs7gnhyxc.jpeg?q=90",
@@ -53118,6 +53290,7 @@ const CTPRODUCTS = [
    "format:peel-off",
    "format:sleeping-mask",
    "format:peel",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:rice-water",
@@ -53886,7 +54059,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/t/s/100-oil-free-moisturizer-with-niacinamide-hyaluronic-acid-for-original-imahzhscgwgvrzyk.jpeg?q=90",
@@ -53902,6 +54076,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "spf:30",
+   "water:unstated",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:glycerin",
@@ -54003,7 +54178,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/i/e/q/50-hydro-boost-blast-glow-gel-water-based-face-moisturizer-my-original-imahftzyy5mzfzhy.jpeg?q=90",
@@ -54022,6 +54198,7 @@ const CTPRODUCTS = [
    "format:balm",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:ceramides",
@@ -54120,7 +54297,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/t/9/l/60-oil-free-moisturizer-for-daily-use-100-fragrance-free-pack-of-original-imahm3g7bkgp9wvu.jpeg?q=90",
@@ -54138,6 +54316,7 @@ const CTPRODUCTS = [
    "format:oil",
    "format:balm",
    "format:kit",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "ing:shea-butter",
@@ -54511,7 +54690,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/5/q/2/380-aloevera-cream-oil-free-moisturizer-non-sticky-24-hr-original-imahhuynhcwchgu9.jpeg?q=90",
@@ -54530,6 +54710,7 @@ const CTPRODUCTS = [
    "format:oil",
    "format:kit",
    "spf:15",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:rose",
    "ing:vitamin-e",
@@ -55078,7 +55259,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/i/y/f/50-oil-free-matte-moisturizer-for-hydrating-skin-50mg-nucleus-original-imahkz4eydwtbh3t.jpeg?q=90",
@@ -55096,6 +55278,7 @@ const CTPRODUCTS = [
    "format:lotion",
    "spf:50+",
    "pa:+++",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:peptides",
@@ -56160,7 +56343,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/a/z/z/60-spot-acne-removing-moisturizing-cream-essenes-facial-capsules-original-imah6gfyn7hdch32.jpeg?q=90",
@@ -56180,6 +56364,7 @@ const CTPRODUCTS = [
    "format:oil",
    "format:pack",
    "format:capsule",
+   "water:unstated",
    "ing:vitamin-e",
    "ing:gold",
    "claim:brightening",
@@ -58203,7 +58388,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-moisturizer-cream/v/3/a/100-gel-cream-moisturizer-spf-30-pa-combo-with-niacinamide-cica-original-imahne3cq6vcphzf.jpeg?q=90",
@@ -58223,6 +58409,7 @@ const CTPRODUCTS = [
    "format:kit",
    "spf:30",
    "pa:+++",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:ceramides",
@@ -59130,6 +59317,7 @@ const CTPRODUCTS = [
    "ing:ceramides",
    "ing:saffron",
    "ing:licorice",
+   "ing:pdrn-polynucleotide",
    "claim:brightening",
    "claim:oil-control",
    "claim:hydrating",
@@ -59695,6 +59883,7 @@ const CTPRODUCTS = [
    "ing:ceramides",
    "ing:collagen",
    "ing:aloe-vera",
+   "ing:pdrn-polynucleotide",
    "claim:brightening",
    "claim:dark-spots",
    "claim:acne",
@@ -60152,6 +60341,7 @@ const CTPRODUCTS = [
    "format:cream",
    "ing:retinol",
    "ing:ceramides",
+   "ing:pdrn-polynucleotide",
    "claim:brightening",
    "claim:dark-spots",
    "claim:anti-aging",
@@ -60269,6 +60459,7 @@ const CTPRODUCTS = [
    "ing:ceramides",
    "ing:collagen",
    "ing:aloe-vera",
+   "ing:pdrn-polynucleotide",
    "claim:brightening",
    "claim:dark-spots",
    "claim:acne",
@@ -60387,6 +60578,7 @@ const CTPRODUCTS = [
    "ing:ceramides",
    "ing:collagen",
    "ing:aloe-vera",
+   "ing:pdrn-polynucleotide",
    "claim:brightening",
    "claim:dark-spots",
    "claim:acne",
@@ -60964,6 +61156,7 @@ const CTPRODUCTS = [
    "ing:retinol",
    "ing:hyaluronic-acid",
    "ing:ceramides",
+   "ing:pdrn-polynucleotide",
    "claim:brightening",
    "claim:dark-spots",
    "claim:whitening-claim",
@@ -61426,6 +61619,7 @@ const CTPRODUCTS = [
    "ing:ceramides",
    "ing:collagen",
    "ing:aloe-vera",
+   "ing:pdrn-polynucleotide",
    "claim:brightening",
    "claim:dark-spots",
    "claim:acne",
@@ -62232,6 +62426,7 @@ const CTPRODUCTS = [
    "format:kit",
    "ing:ceramides",
    "ing:aloe-vera",
+   "ing:pdrn-polynucleotide",
    "claim:brightening",
    "claim:whitening-claim",
    "claim:oil-control",
@@ -62350,6 +62545,7 @@ const CTPRODUCTS = [
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "ing:aloe-vera",
+   "ing:pdrn-polynucleotide",
    "claim:brightening",
    "claim:dark-spots",
    "claim:hydrating",
@@ -62554,7 +62750,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 12 ratings"
+   "buyerEvidence": "4.3★ from 12 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/q/r/50-advanced-barrier-repair-face-moisturizer-with-ceramides-original-imahkhpp7pyutgrf.jpeg?q=90",
@@ -62569,6 +62766,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "ing:vitamin-e",
@@ -63362,7 +63560,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-moisturizer-cream/5/f/6/50-5-niacinamide-spf30-gel-cream-ceramide-cica-for-all-skin-original-imahndwznbgmsgz2.jpeg?q=90",
@@ -63379,6 +63578,7 @@ const CTPRODUCTS = [
    "format:gel",
    "format:cream",
    "spf:30",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:centella-cica",
@@ -63610,7 +63810,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — niacinamide #2 on INCI; Dark spots — niacinamide #2 on INCI; Irritation — ceramide ap #7 on INCI, ceramide eop #9 on INCI, ceramide np #11 on INCI, ceramide ns #12 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #2 on INCI; Dark spots — niacinamide #2 on INCI; Irritation — ceramide ap #7 on INCI, ceramide eop #9 on INCI, ceramide np #11 on INCI, ceramide ns #12 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/r/2/v/50-ceramide-barrier-repair-moisturizer-cream-and-ultra-hydrating-original-imahmkmragrchq4d.jpeg?q=90",
@@ -63626,6 +63827,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:cream",
+   "water:unstated",
    "ing:ceramides",
    "claim:brightening",
    "claim:dark-spots",
@@ -63925,7 +64127,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/m/q/d/100-skin-barrier-complex-protective-moisturizer-with-ceramides-original-imahzu2ak75hnsa7.jpeg?q=90",
@@ -63941,6 +64144,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:lotion",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "claim:hydrating",
@@ -64268,6 +64472,7 @@ const CTPRODUCTS = [
    "ing:ceramides",
    "ing:collagen",
    "ing:aloe-vera",
+   "ing:pdrn-polynucleotide",
    "claim:brightening",
    "claim:hydrating",
    "claim:barrier",
@@ -64378,6 +64583,7 @@ const CTPRODUCTS = [
    "ing:ceramides",
    "ing:collagen",
    "ing:aloe-vera",
+   "ing:pdrn-polynucleotide",
    "claim:brightening",
    "claim:hydrating",
    "claim:barrier",
@@ -64823,6 +65029,7 @@ const CTPRODUCTS = [
    "ing:ceramides",
    "ing:collagen",
    "ing:aloe-vera",
+   "ing:pdrn-polynucleotide",
    "claim:brightening",
    "claim:dark-spots",
    "claim:acne",
@@ -65576,7 +65783,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.8★ from 4 ratings"
+   "buyerEvidence": "4.8★ from 4 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/a/g/i/150-intense-winter-care-cream-for-dry-skin-moisturizer-for-women-original-imahjuxusdpvg9yh.jpeg?q=90",
@@ -65592,6 +65800,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:scrub",
+   "water:unstated",
    "claim:hydrating",
    "skin:dry",
    "free:paraben",
@@ -65682,7 +65891,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-moisturizer-cream/z/w/h/150-intense-winter-care-cream-for-dry-skin-moisturizer-for-women-original-imahgcb6zvgkjagg.jpeg?q=90",
@@ -65701,6 +65911,7 @@ const CTPRODUCTS = [
    "format:scrub",
    "format:kit",
    "spf:30",
+   "water:unstated",
    "ing:almond",
    "claim:hydrating",
    "claim:spf-claim",
@@ -66798,7 +67009,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/3/w/100-nia-nourish-moisturiser-niacinamide-ceramides-for-hydration-original-imahmey3fychwscu.jpeg?q=90",
@@ -66816,6 +67028,7 @@ const CTPRODUCTS = [
    "format:lotion",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:peptides",
@@ -67036,7 +67249,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 60 ratings"
+   "buyerEvidence": "4★ from 60 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/q/e/100-soft-cold-cream-for-face-body-lightweight-moisturizing-cream-original-imahg2k8ceynpsc7.jpeg?q=90",
@@ -67052,6 +67266,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:lotion",
+   "water:unstated",
    "claim:brightening",
    "claim:pores",
    "claim:oil-control",
@@ -67151,7 +67366,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Lotus Herbals — Established / listed Indian FMCG house",
-   "buyerEvidence": "4.3★ from 67 ratings"
+   "buyerEvidence": "4.3★ from 67 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/n/q/1/60-whiteglow-skin-brightening-deep-moisturising-cream-spf-20-pa-original-imah9jzgdsxjv34s.jpeg?q=90",
@@ -67168,6 +67384,7 @@ const CTPRODUCTS = [
    "format:cream",
    "spf:15",
    "pa:+++",
+   "water:unstated",
    "claim:brightening",
    "claim:whitening-claim",
    "claim:hydrating",
@@ -67259,7 +67476,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.3★ from 9 ratings"
+   "buyerEvidence": "3.3★ from 9 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/e/w/200-best-cold-creams-for-women-in-to-repair-dry-skin-kaiasha-original-imah5tm457w9yfef.jpeg?q=90",
@@ -67274,6 +67492,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:honey",
    "ing:almond",
    "claim:brightening",
@@ -67544,7 +67763,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/s/z/c/100-daily-moisturizer-for-dry-very-dry-skin-deep-hydration-original-imahje9dcwfhdqqp.jpeg?q=90",
@@ -67562,6 +67782,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:patch",
    "spf:30",
+   "water:unstated",
    "claim:brightening",
    "claim:de-tan",
    "claim:whitening-claim",
@@ -67667,7 +67888,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/d/k/k/100-moisturizing-cream-for-dry-very-dry-skin-deep-care-kartivo-original-imahje9dx4w2vvgz.jpeg?q=90",
@@ -67685,6 +67907,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:patch",
    "spf:30",
+   "water:unstated",
    "claim:brightening",
    "claim:de-tan",
    "claim:anti-aging",
@@ -67789,7 +68012,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/j/n/g/100-24-hour-hydration-for-dry-skin-deep-moisturizing-cream-original-imahje9dzywmwfcw.jpeg?q=90",
@@ -67807,6 +68031,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:patch",
    "spf:30",
+   "water:unstated",
    "claim:brightening",
    "claim:de-tan",
    "claim:anti-aging",
@@ -67910,7 +68135,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/n/o/i/100-nourish-dry-skin-with-deep-hydrating-moisturizer-kartivo-original-imahje9dapgc4yfy.jpeg?q=90",
@@ -67928,6 +68154,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:patch",
    "spf:30",
+   "water:unstated",
    "claim:brightening",
    "claim:de-tan",
    "claim:anti-aging",
@@ -68031,7 +68258,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/a/h/i/380-24-hour-moisturisation-malai-kesar-cold-cream-daily-care-original-imahhyd3x8djmp5w.jpeg?q=90",
@@ -68048,6 +68276,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:saffron",
    "ing:cocoa-butter",
    "ing:vitamin-e",
@@ -68154,7 +68383,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/5/s/h/380-cold-cream-for-soft-glowing-skin-with-aloe-vera-almond-vit-e-original-imahhtwpgsf7hszh.jpeg?q=90",
@@ -68171,6 +68401,7 @@ const CTPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:oil",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:almond",
    "ing:vitamin-e",
@@ -68274,7 +68505,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/6/x/p/380-nourishing-softening-cocoa-butter-cold-cream-fraileno-cream-original-imahhw3tggvxrrdv.jpeg?q=90",
@@ -68291,6 +68523,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:bakuchiol",
    "ing:rice-water",
    "ing:cocoa-butter",
@@ -68718,7 +68951,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/i/8/100-ota-shea-butter-body-moisturizer-deeply-nourishing-hydrating-original-imahkyvqzumytuhq.jpeg?q=90",
@@ -68736,6 +68970,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:balm",
    "format:kit",
+   "water:unstated",
    "ing:colloidal-oatmeal",
    "ing:ceramides",
    "ing:rice-water",
@@ -69456,7 +69691,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/t/n/m/200-moisturizer-lotion-for-dry-normal-sensitive-skin-long-original-imahhqpwqzqhvqcd.jpeg?q=90",
@@ -69472,6 +69708,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:lotion",
+   "water:unstated",
    "ing:honey",
    "ing:almond",
    "claim:brightening",
@@ -69568,7 +69805,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/j/z/y/450-daily-moisturizer-lotion-for-dry-normal-sensitive-skin-original-imahhqpwsqgrumbr.jpeg?q=90",
@@ -69587,6 +69825,7 @@ const CTPRODUCTS = [
    "format:lotion",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:honey",
    "ing:almond",
@@ -69687,7 +69926,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/a/o/v/200-skin-moisturizer-lotion-for-dry-normal-sensitive-skin-original-imahhqpw3ahrguq8.jpeg?q=90",
@@ -69708,6 +69948,7 @@ const CTPRODUCTS = [
    "format:balm",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:honey",
    "ing:almond",
@@ -69807,7 +70048,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/c/7/e/450-vitamin-e-hydrating-moisturizer-lotion-for-dry-normal-original-imahhqpwxdhafkfh.jpeg?q=90",
@@ -69824,6 +70066,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:lotion",
    "format:kit",
+   "water:unstated",
    "ing:turmeric",
    "ing:sandalwood",
    "ing:vitamin-e",
@@ -69920,7 +70163,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/3/h/3/450-moisturizer-lotion-for-dry-normal-sensitive-skin-silky-original-imahhqpwh4ecsvfp.jpeg?q=90",
@@ -69936,6 +70180,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:lotion",
+   "water:unstated",
    "claim:oil-control",
    "claim:hydrating",
    "skin:oily",
@@ -70029,7 +70274,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/m/k/y/200-vitamin-e-moisturizer-lotion-for-dry-normal-sensitive-skin-original-imahhqpwecngrxt6.jpeg?q=90",
@@ -70047,6 +70293,7 @@ const CTPRODUCTS = [
    "format:lotion",
    "format:balm",
    "format:kit",
+   "water:unstated",
    "ing:petrolatum",
    "ing:aloe-vera",
    "ing:honey",
@@ -70149,7 +70396,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/t/t/i/450-moisturizer-lotion-with-vitamin-e-for-dry-normal-sensitive-original-imahhqpwvgvn4eub.jpeg?q=90",
@@ -70166,6 +70414,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:lotion",
    "format:kit",
+   "water:unstated",
    "ing:honey",
    "ing:almond",
    "ing:vitamin-e",
@@ -70263,7 +70512,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/m/3/200-moisturizer-lotion-for-dry-normal-sensitive-skin-24-hour-original-imahhqpwjz7d4pqj.jpeg?q=90",
@@ -70281,6 +70531,7 @@ const CTPRODUCTS = [
    "format:lotion",
    "format:balm",
    "format:kit",
+   "water:unstated",
    "ing:saffron",
    "ing:honey",
    "ing:almond",
@@ -70380,7 +70631,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/f/c/h/450-vitamin-e-moisturizer-lotion-for-dry-normal-sensitive-skin-original-imahj9pcyq9nvxg5.jpeg?q=90",
@@ -70398,6 +70650,7 @@ const CTPRODUCTS = [
    "format:lotion",
    "format:oil",
    "format:kit",
+   "water:unstated",
    "ing:saffron",
    "ing:almond",
    "ing:vitamin-e",
@@ -70497,7 +70750,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/k/e/450-moisturizer-lotion-for-dry-normal-sensitive-skin-gentle-original-imahhqpwue9yhhgn.jpeg?q=90",
@@ -70514,6 +70768,7 @@ const CTPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:lotion",
+   "water:unstated",
    "ing:aloe-vera",
    "claim:oil-control",
    "claim:hydrating",
@@ -70608,7 +70863,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/9/t/4/200-skin-moisturizer-lotion-for-dry-normal-sensitive-skin-fresh-original-imahj9pcqpcrntpz.jpeg?q=90",
@@ -70627,6 +70883,7 @@ const CTPRODUCTS = [
    "format:oil",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:honey",
    "ing:almond",
    "ing:vitamin-e",
@@ -70726,7 +70983,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/n/r/a/450-moisturizer-lotion-for-dry-normal-sensitive-skin-smooth-original-imahhqpwgppkrbd7.jpeg?q=90",
@@ -70745,6 +71003,7 @@ const CTPRODUCTS = [
    "format:lotion",
    "format:balm",
    "format:kit",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:honey",
    "ing:almond",
@@ -70844,7 +71103,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/e/p/m/450-vitamin-e-skin-moisturizer-lotion-for-dry-normal-sensitive-original-imahhqpwzzsg5s8x.jpeg?q=90",
@@ -70863,6 +71123,7 @@ const CTPRODUCTS = [
    "format:balm",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:honey",
    "ing:almond",
    "ing:vitamin-e",
@@ -70961,7 +71222,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/p/k/450-vitamin-e-moisturizer-lotion-for-dry-normal-sensitive-skin-original-imahhqpwuyzryqyn.jpeg?q=90",
@@ -70980,6 +71242,7 @@ const CTPRODUCTS = [
    "format:lotion",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:honey",
    "ing:almond",
@@ -71077,7 +71340,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/v/7/s/450-moisturizer-lotion-with-vitamin-e-for-dry-normal-sensitive-original-imahhqpwzubrcvf3.jpeg?q=90",
@@ -71095,6 +71359,7 @@ const CTPRODUCTS = [
    "format:lotion",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:honey",
    "ing:almond",
    "ing:vitamin-e",
@@ -71196,7 +71461,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/m/g/200-skin-moisturizer-lotion-for-dry-normal-sensitive-skin-soft-original-imahhqpwwpzxezp3.jpeg?q=90",
@@ -71214,6 +71480,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:lotion",
    "format:balm",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:vitamin-e",
    "claim:brightening",
@@ -71312,7 +71579,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/k/5/8/200-moisturizer-lotion-for-dry-normal-sensitive-skin-quick-original-imahhqpw6kgwzczf.jpeg?q=90",
@@ -71330,6 +71598,7 @@ const CTPRODUCTS = [
    "format:lotion",
    "format:balm",
    "format:kit",
+   "water:unstated",
    "ing:honey",
    "ing:almond",
    "claim:oil-control",
@@ -71427,7 +71696,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/9/k/k/200-moisturizer-lotion-for-dry-normal-sensitive-skin-nourishes-original-imahhqpwmfzbrcm7.jpeg?q=90",
@@ -71444,6 +71714,7 @@ const CTPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:lotion",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:vitamin-e",
    "claim:oil-control",
@@ -71540,7 +71811,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/k/z/450-moisturizer-lotion-with-vitamin-e-for-dry-normal-sensitive-original-imahj9pceuezmk8v.jpeg?q=90",
@@ -71558,6 +71830,7 @@ const CTPRODUCTS = [
    "format:lotion",
    "format:oil",
    "format:kit",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:saffron",
    "ing:honey",
@@ -71764,7 +72037,8 @@ const CTPRODUCTS = [
    "evidenceActives": "ceramide ap (#14 on list, moderate evidence); ceramide np (#15 on list, moderate evidence); ceramide eop (#16 on list, moderate evidence); sodium hyaluronate (#18 on list, moderate evidence); butyrospermum parkii butter (#20 on list, moderate evidence); tocopheryl acetate (#23 on list, moderate evidence); niacinamide (#24 on list, strong evidence); glycerin (#25 on list, strong evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.8★ from 100 ratings"
+   "buyerEvidence": "4.8★ from 100 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/c/q/v/-original-imahq8zhzetxfqww.jpeg?q=90",
@@ -71780,6 +72054,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:balm",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "claim:brightening",
@@ -71973,6 +72248,7 @@ const CTPRODUCTS = [
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "ing:collagen",
+   "ing:pdrn-polynucleotide",
    "claim:brightening",
    "claim:oil-control",
    "claim:hydrating",
@@ -72297,7 +72573,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 1,919 ratings"
+   "buyerEvidence": "4.1★ from 1,919 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/w/z/80-face-moisturizer-for-dry-skin-with-sunscreen-spf30-face-cream-original-imahj26qdpsydjjd.jpeg?q=90",
@@ -72313,6 +72590,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "spf:30",
+   "water:unstated",
    "claim:hydrating",
    "claim:spf-claim",
    "skin:dry",
@@ -72409,7 +72687,8 @@ const CTPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.4★ from 39 ratings",
-   "concernBasis": "Dark spots — ascorbic acid #2 on INCI; Aging — ascorbic acid #2 on INCI (matching only — not proof it works)"
+   "concernBasis": "Dark spots — ascorbic acid #2 on INCI; Aging — ascorbic acid #2 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/x/f/u/50-moisturizer-with-vitamin-c-vitamin-e-oil-free-fights-acne-original-imahkqauxegvhdnk.jpeg?q=90",
@@ -72426,6 +72705,7 @@ const CTPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:oil",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:vitamin-e",
    "ing:glycerin",
@@ -72690,6 +72970,7 @@ const CTPRODUCTS = [
    "claim:oil-control",
    "claim:hydrating",
    "claim:lightweight",
+   "claim:chapped-lips",
    "skin:dry",
    "skin:all",
    "free:ph-balanced",
@@ -72971,7 +73252,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 52 ratings"
+   "buyerEvidence": "4.4★ from 52 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/c/r/m/100-moisturising-cream-all-day-moisturizer-humida-cream-original-imahd52gwyv9ytfc.jpeg?q=90",
@@ -72988,6 +73270,7 @@ const CTPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:oil",
+   "water:unstated",
    "ing:tea-tree",
    "ing:vitamin-e",
    "claim:hydrating",
@@ -73079,7 +73362,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 1,147 ratings"
+   "buyerEvidence": "4.2★ from 1,147 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/m/f/100-korean-skin-rice-ceramide-moisturizer-cream-for-women-pack-original-imahpge9jbknwkg6.jpeg?q=90",
@@ -73096,6 +73380,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:oil",
    "format:kit",
+   "water:unstated",
    "ing:ceramides",
    "ing:rice-water",
    "ing:argan-oil",
@@ -73194,7 +73479,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 2 ratings"
+   "buyerEvidence": "5★ from 2 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/y/6/k/45-luxera-skin-brightening-moisturizer-face-cream-for-dark-spots-original-imahmf7g4bhhdzgr.jpeg?q=90",
@@ -73209,6 +73495,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "claim:brightening",
@@ -73544,6 +73831,7 @@ const CTPRODUCTS = [
    "format:oil",
    "ing:vitamin-c",
    "ing:niacinamide",
+   "ing:polyglutamic-acid",
    "claim:brightening",
    "claim:dark-spots",
    "claim:hydrating",
@@ -74978,7 +75266,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/6/4/50-skin-brightening-night-cream-for-men-women-onecharme-cream-original-imahqyeggfurazaz.jpeg?q=90",
@@ -74997,6 +75286,7 @@ const CTPRODUCTS = [
    "format:kit",
    "spf:30",
    "pa:++",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "ing:aloe-vera",
@@ -75207,7 +75497,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/k/u/r/30-brightening-night-cream-for-dark-spots-pigmentation-onecharme-original-imahqybbuunvpqkw.jpeg?q=90",
@@ -75224,6 +75515,7 @@ const CTPRODUCTS = [
    "format:oil",
    "format:balm",
    "format:body-wax",
+   "water:unstated",
    "ing:niacinamide",
    "ing:aloe-vera",
    "ing:almond",
@@ -75323,7 +75615,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 9 ratings"
+   "buyerEvidence": "5★ from 9 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/n/2/p/50-de-tan-glow-night-cream-with-saffron-turmeric-licorice-for-original-imahpbrdmnchanfj.jpeg?q=90",
@@ -75341,6 +75634,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:niacinamide",
    "ing:aloe-vera",
    "ing:turmeric",
@@ -75986,7 +76280,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5); Formaldehyde-releasing preservative: dmdm hydantoin (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — kojic dipalmitate #3 on INCI (matching only — not proof it works)"
+   "concernBasis": "Dark spots — kojic dipalmitate #3 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/j/v/l/50-night-cream-moisturizing-face-cream-for-glowing-skin-vayodha-original-imahzv4k6s7yhgay.jpeg?q=90",
@@ -76006,6 +76301,7 @@ const CTPRODUCTS = [
    "format:body-wax",
    "spf:30",
    "pa:++",
+   "water:unstated",
    "ing:kojic-acid",
    "ing:glycerin",
    "ing:coconut",
@@ -76478,7 +76774,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 21 ratings"
+   "buyerEvidence": "4★ from 21 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/y/t/g/50-face-cream-for-glowing-skin-with-kumkumadi-night-cream-original-imahgmbzzxuehxx6.jpeg?q=90",
@@ -76493,6 +76790,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:kumkumadi",
    "claim:brightening",
    "claim:whitening-claim",
@@ -77339,7 +77637,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/a/z/75-night-cream-75g-helps-to-get-moisturized-glowing-and-acne-original-imah3yu85hgabtfv.jpeg?q=90",
@@ -77356,6 +77655,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:sandalwood",
    "ing:rosehip",
@@ -78098,7 +78398,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 10 ratings"
+   "buyerEvidence": "5★ from 10 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/h/5/50-de-tan-glow-night-cream-natural-brightening-face-cream-with-original-imahpbseuzf3nqmg.jpeg?q=90",
@@ -78116,6 +78417,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:niacinamide",
    "ing:aloe-vera",
    "ing:turmeric",
@@ -78217,7 +78519,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/i/q/u/50-glow-restore-night-cream-for-women-men-overnight-skin-original-imahpyz8vmqftgrh.jpeg?q=90",
@@ -78233,6 +78536,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:cream",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:retinol",
    "ing:vitamin-e",
@@ -78330,7 +78634,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/x/u/l/50-glow-restore-brightening-night-cream-blushify-cream-original-imahpbjzm8ahjje5.jpeg?q=90",
@@ -78348,6 +78653,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:retinol",
@@ -78460,7 +78766,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/x/c/l/50-skin-brightening-night-cream-de-tan-glow-cream-for-dark-spots-original-imahpbsuqecgrubc.jpeg?q=90",
@@ -78478,6 +78785,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:niacinamide",
    "ing:aloe-vera",
    "ing:turmeric",
@@ -78583,7 +78891,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/h/2/30-night-cream-for-men-women-skin-brightening-repair-suitable-original-imahmmydgfhcheur.jpeg?q=90",
@@ -78600,6 +78909,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:capsule",
    "format:kit",
+   "water:unstated",
    "ing:rice-water",
    "ing:saffron",
    "claim:brightening",
@@ -78911,7 +79221,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/o/h/j/30-night-cream-for-skin-brightening-dark-spots-pigmentation-for-original-imahcxbzzqtzum9g.jpeg?q=90",
@@ -78927,6 +79238,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:kit",
+   "water:resistant",
    "ing:ceramides",
    "ing:gold",
    "claim:brightening",
@@ -78936,6 +79248,7 @@ const CTPRODUCTS = [
    "claim:tinted",
    "claim:ayurvedic",
    "claim:makeup",
+   "claim:waterproof-makeup",
    "skin:dry",
    "skin:sensitive",
    "skin:normal",
@@ -79550,7 +79863,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/v/f/k/48-3-bright-glow-kojic-acid-night-repair-cream-natural-ambience-original-imahzf2vtpgjed7z.jpeg?q=90",
@@ -79568,6 +79882,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:lotion",
    "format:kit",
+   "water:unstated",
    "ing:kojic-acid",
    "ing:saffron",
    "ing:honey",
@@ -79873,7 +80188,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/4/x/b/50-nirvaya-night-cream-for-soft-smooth-and-healthy-skin-pack-of-original-imahjjxmeubh6gzg.jpeg?q=90",
@@ -79890,6 +80206,7 @@ const CTPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:kit",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:vitamin-e",
    "ing:glycerin",
@@ -81279,7 +81596,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/j/k/50-avocado-night-cream-for-face-brightening-moisturizing-original-imahqgbqhqw3bvyq.jpeg?q=90",
@@ -81294,6 +81612,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:oil",
+   "water:unstated",
    "ing:vitamin-e",
    "ing:avocado",
    "claim:brightening",
@@ -82540,7 +82859,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/6/x/100-skin-whitening-brightening-nourishing-night-cream-myps-cream-original-imahpfyfjnmhccgr.jpeg?q=90",
@@ -82558,6 +82878,7 @@ const CTPRODUCTS = [
    "format:oil",
    "format:balm",
    "format:peel",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:turmeric",
    "ing:saffron",
@@ -82868,7 +83189,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 2,096 ratings"
+   "buyerEvidence": "4.1★ from 2,096 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/r/w/100-vitamin-c-day-cream-for-brightening-anti-aging-with-deep-original-imahmc32rjecjhpj.jpeg?q=90",
@@ -82883,6 +83205,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:glycerin",
@@ -83186,7 +83509,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 134 ratings"
+   "buyerEvidence": "4.2★ from 134 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/k0463rk0/fairness/u/z/f/50-true-nutraeffects-mattifying-day-cream-spf-15-avon-original-imafjzbu6ujahggn.jpeg?q=90",
@@ -83203,6 +83527,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:pack",
    "format:wash",
+   "water:unstated",
    "claim:brightening",
    "claim:anti-aging",
    "claim:pores",
@@ -83462,7 +83787,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "VLCC Health Care — Established / listed Indian FMCG house",
    "declaredManufacturer": "VLCC Personal Care Ltd, Industrial Growth Center, Matiya, Mornoi, Goalpara, Assam - 783101 , Plot No. 11 & 12, Sec. 6A, Sidcul, IIE, Haridwar, Uttarakhand - 249403, India. (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.2★ from 682 ratings"
+   "buyerEvidence": "4.2★ from 682 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/f/e/a/-original-imah5jnbfs6pp7zy.jpeg?q=90",
@@ -83478,6 +83804,7 @@ const CTPRODUCTS = [
    "scope:unstated",
    "format:cream",
    "spf:30",
+   "water:unstated",
    "ing:vitamin-c",
    "claim:brightening",
    "claim:spf-claim",
@@ -83565,7 +83892,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Oriflame Cosmetics — Global FMCG or beauty group",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/e/e/3/50-optimals-clear-white-day-cream-new-version-optimals-glow-rise-original-imahgxw4vqhs7qkd.jpeg?q=90",
@@ -83581,6 +83909,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "spf:15",
+   "water:unstated",
    "claim:brightening",
    "claim:whitening-claim",
    "claim:anti-aging",
@@ -83676,7 +84005,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 1,337 ratings"
+   "buyerEvidence": "4★ from 1,337 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/i/a/n/50-white-skin-fairness-cream-whitening-day-cream-dr-rashel-cream-original-imahjruftdmthz6f.jpeg?q=90",
@@ -83691,6 +84021,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:niacinamide",
    "ing:alpha-arbutin",
    "claim:brightening",
@@ -83888,7 +84219,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Oriflame Cosmetics — Global FMCG or beauty group",
-   "buyerEvidence": "4.2★ from 316 ratings"
+   "buyerEvidence": "4.2★ from 316 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/c/q/50-optimals-glow-rise-day-cream-spf-20-oriflame-gel-original-imagy5ygsyffaatz.jpeg?q=90",
@@ -83905,6 +84237,7 @@ const CTPRODUCTS = [
    "format:gel",
    "format:cream",
    "spf:15",
+   "water:unstated",
    "claim:brightening",
    "claim:hydrating",
    "claim:spf-claim",
@@ -83994,7 +84327,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Oriflame Cosmetics — Global FMCG or beauty group",
-   "buyerEvidence": "4.2★ from 600 ratings"
+   "buyerEvidence": "4.2★ from 600 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/l1b1oy80/moisturizer-cream/v/3/d/50-optimal-glow-rise-day-cream-cream-oriflame-original-imagcwacytk6epgf.jpeg?q=90",
@@ -84009,6 +84343,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "claim:brightening",
    "claim:hydrating",
    "skin:all",
@@ -84201,7 +84536,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/c/z/y/15-glutathione-day-cream-with-vitamin-c-dextron-cream-original-imahpqc8y8c7gdax.jpeg?q=90",
@@ -84216,6 +84552,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:glutathione",
@@ -84314,7 +84651,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/j/m/50-whitening-day-cream-with-spf-50-protection-suitable-for-original-imahgdvcp8rgxe8z.jpeg?q=90",
@@ -84332,6 +84670,7 @@ const CTPRODUCTS = [
    "format:essence",
    "format:oil",
    "spf:50",
+   "water:unstated",
    "ing:kojic-acid",
    "ing:pearl",
    "claim:brightening",
@@ -84530,7 +84869,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "VLCC Health Care — Established / listed Indian FMCG house",
    "declaredManufacturer": "VLCC Personal Care Ltd, Industrial Growth Center, Matiya, Mornoi, Goalpara, Assam - 783101 , Plot No. 11 & 12, Sec. 6A, Sidcul, IIE, Haridwar, Uttarakhand - 249403, India. (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4★ from 1,179 ratings"
+   "buyerEvidence": "4★ from 1,179 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-fairness/p/e/w/50-pro-radiance-skin-brightening-day-cream-spf-25-pa-1-vlcc-original-imagrzhjzhhsj2nj.jpeg?q=90",
@@ -84547,6 +84887,7 @@ const CTPRODUCTS = [
    "format:cream",
    "spf:15",
    "pa:+++",
+   "water:unstated",
    "claim:brightening",
    "claim:spf-claim",
    "aud:unisex",
@@ -84737,7 +85078,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Oriflame Cosmetics — Global FMCG or beauty group",
-   "buyerEvidence": "4.2★ from 33 ratings"
+   "buyerEvidence": "4.2★ from 33 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/x/c/t/50-optimals-glow-rise-day-cream-spf-20-oriflame-sweden-cream-original-imah3czm33gqtmhy.jpeg?q=90",
@@ -84753,6 +85095,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "spf:15",
+   "water:unstated",
    "claim:brightening",
    "claim:spf-claim",
    "skin:all",
@@ -84841,7 +85184,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Oriflame Cosmetics — Global FMCG or beauty group",
-   "buyerEvidence": "4.1★ from 20 ratings"
+   "buyerEvidence": "4.1★ from 20 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/s/d/8/50-royal-velvet-firming-day-cream-spf-20-oriflame-cream-original-imahd2zyvxu2nfwz.jpeg?q=90",
@@ -84857,6 +85201,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "spf:15",
+   "water:unstated",
    "claim:anti-aging",
    "claim:spf-claim",
    "skin:all",
@@ -84946,7 +85291,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/3/u/p/-original-imahdzs4rf3ezeqa.jpeg?q=90",
@@ -84962,6 +85308,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "spf:15",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:saffron",
    "ing:ubtan",
@@ -85064,7 +85411,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 3 ratings"
+   "buyerEvidence": "5★ from 3 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/k/d/s/50-herbal-day-cream-50-g-pack-of-1-amway-cream-original-imahf7h3dgehhdza.jpeg?q=90",
@@ -85080,6 +85428,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "spf:15",
+   "water:unstated",
    "ing:vitamin-c",
    "claim:brightening",
    "claim:anti-aging",
@@ -85177,7 +85526,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Oriflame Cosmetics — Global FMCG or beauty group",
-   "buyerEvidence": "4.2★ from 754 ratings"
+   "buyerEvidence": "4.2★ from 754 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-moisturizer-cream/e/w/q/50-royal-velvet-firming-day-cream-spf15-cream-oriflame-sweden-original-imahgmd4neygsh2j.jpeg?q=90",
@@ -85193,6 +85543,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "spf:15",
+   "water:unstated",
    "claim:anti-aging",
    "claim:hydrating",
    "claim:spf-claim",
@@ -85283,7 +85634,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Oriflame Cosmetics — Global FMCG or beauty group",
-   "buyerEvidence": "4.2★ from 316 ratings"
+   "buyerEvidence": "4.2★ from 316 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/1/4/50-optimals-glow-rise-day-cream-spf-20-oriflame-cream-original-imahg4mpzznwsfvd.jpeg?q=90",
@@ -85299,6 +85651,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "spf:15",
+   "water:unstated",
    "claim:brightening",
    "claim:de-tan",
    "claim:anti-aging",
@@ -85394,7 +85747,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Oriflame Cosmetics — Global FMCG or beauty group",
-   "buyerEvidence": "4.3★ from 153 ratings"
+   "buyerEvidence": "4.3★ from 153 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/1/p/j/50-glow-rise-day-cream-spf-20-na-oriflame-cream-original-imagzgewjq4brrpz.jpeg?q=90",
@@ -85410,6 +85764,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "spf:15",
+   "water:unstated",
    "claim:brightening",
    "claim:hydrating",
    "claim:spf-claim",
@@ -85505,7 +85860,8 @@ const CTPRODUCTS = [
    "evidenceActives": "glycerin (#6 on list, strong evidence); dimethicone (#11 on list, moderate evidence); squalane (#12 on list, moderate evidence); tocopheryl acetate (#14 on list, moderate evidence)",
    "safetyFlags": "Added fragrance (parfum): parfum (−1.5); Formaldehyde-releasing preservative: imidazolidinyl urea (−1.5)",
    "maker": "Oriflame Cosmetics — Global FMCG or beauty group",
-   "buyerEvidence": "4.3★ from 221 ratings"
+   "buyerEvidence": "4.3★ from 221 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/x/o/v/50-optimals-age-revive-day-cream-spf-15-oriflame-cream-original-imahem9jjhvxebqd.jpeg?q=90",
@@ -85521,6 +85877,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "spf:15",
+   "water:unstated",
    "claim:anti-aging",
    "claim:hydrating",
    "claim:spf-claim",
@@ -85709,7 +86066,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Oriflame Cosmetics — Global FMCG or beauty group",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/x/e/s/50-royal-velvet-day-cream-oriflame-cream-original-imahjf92gghzmhq3.jpeg?q=90",
@@ -85725,6 +86083,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "spf:15",
+   "water:unstated",
    "ing:coffee",
    "claim:brightening",
    "claim:whitening-claim",
@@ -86223,7 +86582,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.5★ from 37 ratings"
+   "buyerEvidence": "4.5★ from 37 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/v/q/z/50-day-cream-for-fairness-with-spf-30-alpha-arbutin-niacinamide-original-imahjffyfjhfzm9w.jpeg?q=90",
@@ -86239,6 +86599,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "spf:30",
+   "water:unstated",
    "ing:niacinamide",
    "ing:retinol",
    "ing:alpha-arbutin",
@@ -86336,7 +86697,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Oriflame Cosmetics — Global FMCG or beauty group",
-   "buyerEvidence": "4.5★ from 15 ratings"
+   "buyerEvidence": "4.5★ from 15 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/p/t/50-glow-rise-day-cream-spf-20-50-ml-oriflame-sweden-cream-original-imah7e8mddkqfvxy.jpeg?q=90",
@@ -86352,6 +86714,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "spf:15",
+   "water:unstated",
    "claim:brightening",
    "claim:anti-aging",
    "claim:hydrating",
@@ -86547,7 +86910,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/4/3/50-amor-day-cream-with-niacinamide-rosehip-oil-hydrating-face-original-imahqdnbqv5azhbg.jpeg?q=90",
@@ -86565,6 +86929,7 @@ const CTPRODUCTS = [
    "format:oil",
    "format:scrub",
    "format:wash",
+   "water:unstated",
    "ing:niacinamide",
    "ing:rosehip",
    "claim:brightening",
@@ -86665,7 +87030,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Procter & Gamble — Global FMCG or beauty group",
-   "buyerEvidence": "4.3★ from 590 ratings"
+   "buyerEvidence": "4.3★ from 590 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/kobspe80/moisturizer-cream/c/k/t/100-hydrates-lock-in-moisture-moisturising-cream-cream-olay-original-imag2tg6rvwphwhb.jpeg?q=90",
@@ -86683,6 +87049,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:oil",
    "sun:mineral",
+   "water:unstated",
    "ing:glycerin",
    "ing:mineral-oil",
    "claim:brightening",
@@ -86781,7 +87148,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.9★ from 15 ratings"
+   "buyerEvidence": "4.9★ from 15 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/f/d/a/50-simday-day-cream-pack-of-2-louis-herbals-cream-original-imahkzbjwm6962wc.jpeg?q=90",
@@ -86798,6 +87166,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:kit",
    "spf:15",
+   "water:unstated",
    "claim:oil-control",
    "claim:hydrating",
    "claim:ayurvedic",
@@ -86888,7 +87257,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Oriflame Cosmetics — Global FMCG or beauty group",
-   "buyerEvidence": "3.3★ from 4 ratings"
+   "buyerEvidence": "3.3★ from 4 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/z/o/50-oriflame-optimals-glow-rise-day-cream-spf-20-oriflam-esweden-original-imahgpu2wktnq935.jpeg?q=90",
@@ -86904,6 +87274,7 @@ const CTPRODUCTS = [
    "scope:unstated",
    "format:cream",
    "spf:15",
+   "water:unstated",
    "claim:brightening",
    "claim:spf-claim",
    "aud:unisex",
@@ -86990,7 +87361,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Oriflame Cosmetics — Global FMCG or beauty group",
-   "buyerEvidence": "4.3★ from 71 ratings"
+   "buyerEvidence": "4.3★ from 71 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/4/d/d/50-royal-velvet-firming-day-cream-spf15-50-ml-oriflame-cream-original-imahkhvzfth6ghzf.jpeg?q=90",
@@ -87006,6 +87378,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "spf:15",
+   "water:unstated",
    "claim:whitening-claim",
    "claim:anti-aging",
    "claim:spf-claim",
@@ -87207,7 +87580,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 52 ratings"
+   "buyerEvidence": "4.1★ from 52 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/a/p/b/15-ideal-bright-day-cream-with-spf-15-skin-brightening-cream-for-original-imah74d5zbhfacks.jpeg?q=90",
@@ -87223,6 +87597,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "spf:15",
+   "water:unstated",
    "ing:turmeric",
    "claim:brightening",
    "claim:de-tan",
@@ -87316,7 +87691,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Oriflame Cosmetics — Global FMCG or beauty group",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/q/8/q/50-moisturizer-day-cream-for-women-with-spf-skin-firming-anti-original-imahhf9p7xyzqyfx.jpeg?q=90",
@@ -87332,6 +87708,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "spf:15",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:glycerin",
    "claim:anti-aging",
@@ -87425,7 +87802,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Oriflame Cosmetics — Global FMCG or beauty group",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/f/7/j/50-optimals-glow-rise-day-cream-spf-20-brightening-hydrating-original-imahjzzhzmnumynd.jpeg?q=90",
@@ -87441,6 +87819,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "spf:15",
+   "water:unstated",
    "claim:brightening",
    "claim:hydrating",
    "claim:spf-claim",
@@ -87529,7 +87908,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Oriflame Cosmetics — Global FMCG or beauty group",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/e/e/3/50-optimals-clear-white-day-cream-new-version-optimals-glow-rise-original-imahgxw4vqhs7qkd.jpeg?q=90",
@@ -87545,6 +87925,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "spf:15",
+   "water:unstated",
    "ing:coffee",
    "ing:glycerin",
    "claim:brightening",
@@ -87642,7 +88023,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Oriflame Cosmetics — Global FMCG or beauty group",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/5/n/v/50-optimals-glow-rise-day-cream-with-spf-20-oriflame-sweden-original-imahhdzecnqhbbfq.jpeg?q=90",
@@ -87658,6 +88040,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "spf:15",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:coffee",
    "ing:vitamin-e",
@@ -87758,7 +88141,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.7★ from 36 ratings"
+   "buyerEvidence": "3.7★ from 36 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/jeua3680/moisturizer-cream/3/u/q/30-herbal-facial-day-cream-with-extreme-whitening-action-spf-25-original-imaf3et74h2uqguy.jpeg?q=90",
@@ -87774,6 +88158,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "spf:15",
+   "water:unstated",
    "claim:brightening",
    "claim:whitening-claim",
    "claim:hydrating",
@@ -88085,7 +88470,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/n/2/k/50-ayurveda-neurocosmatics-women-day-cream-spf-15-for-daily-original-imahzy4u4qwhwssx.jpeg?q=90",
@@ -88105,6 +88491,7 @@ const CTPRODUCTS = [
    "format:kit",
    "spf:15",
    "pa:++",
+   "water:unstated",
    "ing:kojic-acid",
    "ing:aloe-vera",
    "ing:cucumber",
@@ -88203,7 +88590,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "2.7★ from 6 ratings"
+   "buyerEvidence": "2.7★ from 6 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/knxiavk0/moisturizer-cream/h/r/s/30-intense-whitening-facial-day-cream-whitening-and-anti-aging-original-imag2hdhs5zej2sh.jpeg?q=90",
@@ -88219,6 +88607,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "spf:15",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:glutathione",
    "claim:brightening",
@@ -88425,7 +88814,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/j/k/w/20-non-greasy-daily-face-moisturizer-classic-white-cream-cream-original-imahp575kdgczzmb.jpeg?q=90",
@@ -88441,6 +88831,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "claim:brightening",
    "claim:whitening-claim",
    "claim:oil-control",
@@ -88758,7 +89149,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
    "declaredManufacturer": "Unilever House, B D Sawant Marg, Chakala, Andheri East, Mumbai - 400099, Maharashtra (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.3★ from 16,413 ratings"
+   "buyerEvidence": "4.3★ from 16,413 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/l/d/0/-original-imahnnzrz5hg5qzz.jpeg?q=90",
@@ -88774,6 +89166,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:cream",
    "spf:15",
+   "water:unstated",
    "claim:brightening",
    "claim:spf-claim",
    "aud:unisex",
@@ -89498,7 +89891,8 @@ const CTPRODUCTS = [
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "declaredManufacturer": "Indo Herbal Products (as printed on the Flipkart listing — not scored)",
    "buyerEvidence": "4.1★ from 31,424 ratings",
-   "concernBasis": "Acne — niacinamide #5 on INCI; Dark spots — niacinamide #5 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #5 on INCI; Dark spots — niacinamide #5 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/t/r/80-0-daily-glow-face-cream-with-beetroot-hyaluronic-acid-enriched-transparent-original-imahcjsqtnfwnh24.png?q=90",
@@ -89513,6 +89907,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:beetroot",
@@ -89674,7 +90069,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "RSH Global (Joy Personal Care) — Established / listed Indian FMCG house",
-   "buyerEvidence": "4.3★ from 1,864 ratings"
+   "buyerEvidence": "4.3★ from 1,864 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/f/1/0/-original-imagsy5xjvgqy6zr.jpeg?q=90",
@@ -89689,6 +90085,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:niacinamide",
    "ing:argan-oil",
    "claim:hydrating",
@@ -90133,7 +90530,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Procter & Gamble — Global FMCG or beauty group",
-   "buyerEvidence": "4.4★ from 9,818 ratings"
+   "buyerEvidence": "4.4★ from 9,818 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/m/b/-enriched-transparent-original-imahaesqhnxwjnzy.png?q=90",
@@ -90149,6 +90547,7 @@ const CTPRODUCTS = [
    "scope:unstated",
    "format:cream",
    "spf:15",
+   "water:unstated",
    "ing:niacinamide",
    "claim:spf-claim",
    "aud:unisex",
@@ -90560,7 +90959,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "O3+ Professional — Indian D2C brand with its own product company",
    "declaredManufacturer": "Visage Beauty and Health Care Pvt. Ltd. (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.1★ from 1,440 ratings"
+   "buyerEvidence": "4.1★ from 1,440 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/c/d/z/-original-imahhtzfkmehg9cy.jpeg?q=90",
@@ -90576,6 +90976,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "spf:15",
+   "water:unstated",
    "claim:brightening",
    "claim:de-tan",
    "claim:dark-spots",
@@ -90670,7 +91071,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/h/7/20-glutathione-day-cream-daily-moisturising-lightweight-cream-original-imahhwgukuhuuyxk.jpeg?q=90",
@@ -90686,6 +91088,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:lotion",
+   "water:unstated",
    "ing:kojic-acid",
    "ing:alpha-arbutin",
    "ing:glutathione",
@@ -90886,7 +91289,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/v/t/5/50-day-cream-infused-vitamin-e-spf-15-hydrating-face-brightening-original-imahdd37sgbhensw.jpeg?q=90",
@@ -90903,12 +91307,14 @@ const CTPRODUCTS = [
    "format:cream",
    "format:balm",
    "spf:15",
+   "water:unstated",
    "ing:niacinamide",
    "ing:retinol",
    "ing:collagen",
    "ing:kojic-acid",
    "ing:shea-butter",
    "ing:vitamin-e",
+   "ing:beeswax",
    "claim:brightening",
    "claim:whitening-claim",
    "claim:anti-aging",
@@ -91004,7 +91410,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/o/q/5/50-l-glutathione-day-cream-skin-brightening-whitening-loxia-original-imahahwhfvr8upyu.jpeg?q=90",
@@ -91021,6 +91428,7 @@ const CTPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:wash",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:petrolatum",
    "ing:hyaluronic-acid",
@@ -91122,7 +91530,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/a/u/100-face-day-cream-with-spf-50-for-brightening-reduces-wrinkles-original-imagxc3y77ms874m.jpeg?q=90",
@@ -91139,6 +91548,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:pack",
    "spf:50",
+   "water:unstated",
    "ing:turmeric",
    "claim:brightening",
    "claim:dark-spots",
@@ -91686,7 +92096,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Blossom Kochhar Aroma Magic — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.3★ from 2,241 ratings"
+   "buyerEvidence": "4.3★ from 2,241 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/u/i/50-vitamin-c-day-cream-50-gm-aroma-magic-cream-original-imaha785gamv8jsb.jpeg?q=90",
@@ -91702,6 +92113,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "spf:15",
+   "water:unstated",
    "ing:vitamin-c",
    "claim:hydrating",
    "claim:korean",
@@ -91794,7 +92206,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/8/w/b/100-face-glow-day-night-cream-face-cream-for-men-women-original-imahg94vkkhjx4zy.jpeg?q=90",
@@ -91811,6 +92224,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:kit",
    "spf:30",
+   "water:unstated",
    "claim:brightening",
    "claim:whitening-claim",
    "claim:anti-aging",
@@ -92346,7 +92760,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Lotus Herbals — Established / listed Indian FMCG house",
-   "buyerEvidence": "4.4★ from 583 ratings"
+   "buyerEvidence": "4.4★ from 583 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/7/6/-original-imahzye5yjvcswdg.jpeg?q=90",
@@ -92364,6 +92779,7 @@ const CTPRODUCTS = [
    "format:oil",
    "spf:15",
    "pa:+",
+   "water:unstated",
    "ing:retinol",
    "ing:bakuchiol",
    "claim:brightening",
@@ -92978,7 +93394,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 20 ratings"
+   "buyerEvidence": "4.2★ from 20 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/w/c/100-be-bright-herbals-day-cream-night-cream-herbal-skincare-original-imahgb2n7dbhbgmy.jpeg?q=90",
@@ -92994,6 +93411,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:kit",
+   "water:unstated",
    "claim:brightening",
    "claim:anti-aging",
    "claim:hydrating",
@@ -93194,7 +93612,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 84 ratings"
+   "buyerEvidence": "4.1★ from 84 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/kq6yefk0/moisturizer-cream/h/z/j/120-day-cream-energizing-refreshing-24h-moisturize-cream-luster-original-imag49dg4hspx8fb.jpeg?q=90",
@@ -93209,6 +93628,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "claim:brightening",
    "claim:hydrating",
    "claim:long-lasting",
@@ -93406,7 +93826,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 163 ratings"
+   "buyerEvidence": "4.1★ from 163 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/q/l/7/100-combo-of-kumkumadi-day-cream-red-sandalwood-night-cream-original-imahpq8wxw9ugdxp.jpeg?q=90",
@@ -93422,6 +93843,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:kit",
+   "water:unstated",
    "ing:sandalwood",
    "ing:kumkumadi",
    "claim:brightening",
@@ -93623,7 +94045,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3★ from 4 ratings"
+   "buyerEvidence": "3★ from 4 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/5/g/c/25-day-cream-with-sunscreen-spf-30pa-new-pack-of-1-no-scars-original-imahzphrayjfbjtu.jpeg?q=90",
@@ -93643,6 +94066,7 @@ const CTPRODUCTS = [
    "format:wash",
    "format:kit",
    "spf:30",
+   "water:unstated",
    "claim:brightening",
    "claim:dark-spots",
    "claim:anti-aging",
@@ -94053,7 +94477,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-combo-kit/c/b/8/charcoal-peel-off-face-mask-with-men-moisturizing-cream-combo-original-imahhfwyqqvm5awy.jpeg?q=90",
@@ -94076,6 +94501,7 @@ const CTPRODUCTS = [
    "format:peel",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:charcoal",
    "ing:shea-butter",
    "claim:oil-control",
@@ -94709,7 +95135,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/primer/f/7/k/30-vitamin-e-capsule-whitening-capsule-skin-face-care-na-tanvi27-original-imagzez4hjzucrq7.jpeg?q=90",
@@ -94728,6 +95155,7 @@ const CTPRODUCTS = [
    "format:oil",
    "format:capsule",
    "format:kit",
+   "water:unstated",
    "ing:vitamin-e",
    "claim:brightening",
    "claim:whitening-claim",
@@ -94826,7 +95254,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/m/r/50-squalane-nourishing-glow-moisturizer-all-skin-types-original-imagydze6sgetz6h.jpeg?q=90",
@@ -94844,6 +95273,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:kit",
    "spf:30",
+   "water:unstated",
    "ing:squalane",
    "claim:brightening",
    "claim:dark-spots",
@@ -94939,7 +95369,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/w/l/50-vitamin-c-face-whitening-cream-bright-glow-even-look-armm-original-imahjn5nzuuesrhh.jpeg?q=90",
@@ -94956,6 +95387,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:lotion",
    "format:kit",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:rice-water",
    "ing:saffron",
@@ -95157,7 +95589,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/v/c/j/50-vitamin-c-face-whitening-cream-bright-glow-even-look-armm-original-imahjn5nmzgsmffj.jpeg?q=90",
@@ -95173,6 +95606,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:kit",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:rice-water",
    "ing:squalane",
@@ -95273,7 +95707,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/v/c/j/50-vitamin-c-face-whitening-cream-bright-glow-even-look-armm-original-imahjn5nmzgsmffj.jpeg?q=90",
@@ -95290,6 +95725,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:scrub",
    "format:kit",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:saffron",
    "ing:squalane",
@@ -95392,7 +95828,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 3 ratings"
+   "buyerEvidence": "5★ from 3 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/a/a/k/30-squaglow-face-moisturiser-squalane-vitamin-e-chamomile-kyra-original-imahp3zpnupejfmg.jpeg?q=90",
@@ -95409,6 +95846,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:peptides",
    "ing:rose",
    "ing:squalane",
@@ -95508,7 +95946,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/n/z/q/100-squalane-vitamin-e-moisturizer-for-dry-glowing-skin-for-men-original-imahzbkn8u4juhje.jpeg?q=90",
@@ -95524,6 +95963,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:cream",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
    "ing:squalane",
@@ -95627,7 +96067,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 21 ratings"
+   "buyerEvidence": "4.3★ from 21 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/d/9/o/75-advances-oil-control-moisturizer-acne-cream-original-imahja7k8zjkfmty.jpeg?q=90",
@@ -95642,6 +96083,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "claim:acne",
    "claim:pores",
    "claim:oil-control",
@@ -95960,7 +96402,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/l/s/200-0-urea-moisturizing-cream-for-dry-rough-skin-hands-feet-original-imahpbzjmpwxvt4j.jpeg?q=90",
@@ -95975,6 +96418,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:retinol",
    "ing:urea",
@@ -96699,7 +97143,7 @@ const CTPRODUCTS = [
  {
   "id": "velite-itm1a7123c1fa163",
   "brand": "velite",
-  "model": "Healz Cream Moisturising Cream With Urea & Lactic (75 g)",
+  "model": "Healz Cream Moisturising Cream With Urea & Lactic",
   "price": 412,
   "capacityLine": "75 g",
   "materialLine": "lactic acid + urea",
@@ -96737,7 +97181,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/r/x/75-healz-cream-moisturising-cream-with-urea-lactic-velite-cream-original-imahhvnbf7gm7atn.jpeg?q=90",
@@ -96748,12 +97193,13 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/velite-healz-cream-moisturising-urea-lactic/p/itm1a7123c1fa163",
   "buyStore": "Flipkart",
-  "title": "velite Healz Cream Moisturising Cream With Urea & Lactic (75 g)",
+  "title": "velite Healz Cream Moisturising Cream With Urea & Lactic",
   "tags": [
    "scope:both",
    "format:cream",
    "format:lotion",
    "format:roll-on",
+   "water:unstated",
    "ing:lactic-acid",
    "ing:urea",
    "ing:glycerin",
@@ -96846,7 +97292,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 7 ratings"
+   "buyerEvidence": "4.1★ from 7 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/a/t/e/100-urea-derm-moisturising-cream-emcutix-cream-original-imahjy7vrbkendgm.jpeg?q=90",
@@ -96862,6 +97309,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:cream",
+   "water:unstated",
    "ing:urea",
    "ing:glycerin",
    "claim:hydrating",
@@ -96917,7 +97365,7 @@ const CTPRODUCTS = [
  {
   "id": "raaso-itm7ebd9d4c5dca8",
   "brand": "RAASO",
-  "model": "Max 20% Urea Moisturizing Cream with Lactic Acid & Aloe Ver …",
+  "model": "Max 20% Urea Moisturizing Cream with Lactic Acid & Aloe Vera 100g",
   "price": 448,
   "capacityLine": "100 g",
   "materialLine": "lactic acid + urea + snail mucin",
@@ -96955,7 +97403,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/1/m/b/100-moisturizing-urea-cream-xerolene-max-cream-original-imahneywx2y4vhru.jpeg?q=90",
@@ -96966,13 +97415,14 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/raaso-max-20-urea-moisturizing-cream-lactic-acid-aloe-vera-100g/p/itm7ebd9d4c5dca8",
   "buyStore": "Flipkart",
-  "title": "RAASO Max 20% Urea Moisturizing Cream with Lactic Acid & Aloe Ver …",
+  "title": "RAASO Max 20% Urea Moisturizing Cream with Lactic Acid & Aloe Vera 100g",
   "tags": [
    "scope:both",
    "format:gel",
    "format:cream",
    "format:oil",
    "format:pack",
+   "water:unstated",
    "ing:lactic-acid",
    "ing:urea",
    "ing:collagen",
@@ -97182,7 +97632,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/x/v/x/150-hyaluronic-acid-moisturiser-with-ceramide-for-soft-supple-original-imahqen7w9dqgsjs.jpeg?q=90",
@@ -97197,6 +97648,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:lotion",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "claim:hydrating",
@@ -97399,7 +97851,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/0/0/s/360-strawberry-moisturizer-daily-for-soft-glowing-skin-face-body-original-imahhftf7fwd9y4a.jpeg?q=90",
@@ -97418,6 +97871,7 @@ const CTPRODUCTS = [
    "format:pack",
    "format:kit",
    "spf:40",
+   "water:unstated",
    "ing:niacinamide",
    "ing:glycerin",
    "ing:strawberry",
@@ -97518,7 +97972,8 @@ const CTPRODUCTS = [
    "evidenceActives": "glycerin (#5 on list, strong evidence); tocopheryl acetate (#12 on list, moderate evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 2,872 ratings"
+   "buyerEvidence": "4.3★ from 2,872 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/shopsy-moisturizer-cream/z/u/n/50-vitamin-e-moisturizer-for-face-daily-moisturizer-for-body-for-original-imahj7ydhvmyzzzh.jpeg?q=90",
@@ -97533,6 +97988,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:vitamin-e",
    "claim:hydrating",
    "skin:all",
@@ -97661,7 +98117,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/l/1/50-1-salicylic-acid-moisturising-face-cream-for-acne-blemish-original-imahn7bnvksv7drz.jpeg?q=90",
@@ -97678,6 +98135,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:lotion",
    "spf:30",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:aloe-vera",
@@ -97779,7 +98237,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/r/k/r/250-1-salicylic-acid-oil-free-water-based-moisturizer-back-acne-original-imahfbxypgywmygy.jpeg?q=90",
@@ -97797,6 +98256,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:scrub",
    "format:wash",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -98992,7 +99452,7 @@ const CTPRODUCTS = [
  {
   "id": "balance-skin-science-itm1202dcc1a27a5",
   "brand": "balance skin science",
-  "model": "Face & Body Moisturiser With Shea & Kokum Bu …",
+  "model": "Face & Body Moisturiser With Shea & Kokum Butter, Aloe Vera & Niacinamide 100gm",
   "price": 335,
   "capacityLine": "300 g (pack of 3)",
   "materialLine": "niacinamide + rice water + aloe vera",
@@ -99041,7 +99501,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/balance-skin-science-face-body-moisturiser-shea-kokum-butter-aloe-vera-niacinamide-100gm/p/itm1202dcc1a27a5",
   "buyStore": "Flipkart",
-  "title": "balance skin science Face & Body Moisturiser With Shea & Kokum Bu …",
+  "title": "balance skin science Face & Body Moisturiser With Shea & Kokum Butter, Aloe Vera & Niacinamide 100gm",
   "tags": [
    "scope:both",
    "format:cream",
@@ -101282,7 +101742,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/n/c/50-everyday-moisturizing-cream-for-smooth-healthy-and-fresh-original-imahnmggfmnfkzgy.jpeg?q=90",
@@ -101297,6 +101758,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:rice-water",
@@ -101846,7 +102308,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/6/e/6/200-nourishing-body-lotion-cocoa-butter-24h-deep-moisture-all-original-imah74aptajzmhzu.jpeg?q=90",
@@ -101864,6 +102327,7 @@ const CTPRODUCTS = [
    "format:lotion",
    "format:balm",
    "spf:15",
+   "water:unstated",
    "ing:honey",
    "ing:almond",
    "claim:brightening",
@@ -101960,7 +102424,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.8★ from 54 ratings"
+   "buyerEvidence": "4.8★ from 54 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/m/f/k/100-naturals-peach-avocado-moisturizer-cream-helps-nourish-original-imahmhnya6ju4f3h.jpeg?q=90",
@@ -101977,6 +102442,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:oil",
    "format:clay-mask",
+   "water:unstated",
    "ing:clay",
    "ing:almond",
    "ing:glycerin",
@@ -102073,7 +102539,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 557 ratings"
+   "buyerEvidence": "4★ from 557 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/7/l/g/75-vitamin-c-face-moisturizer-cream-for-women-and-men-dr-rashel-original-imahkjhngfbxzkzg.jpeg?q=90",
@@ -102089,6 +102556,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:oil",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:glycerin",
@@ -102185,7 +102653,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.8★ from 11 ratings"
+   "buyerEvidence": "4.8★ from 11 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/s/8/l/200-dry-skin-moisturizing-cream-white-soft-paraffin-liquid-original-imahhg95yuhvzg5e.jpeg?q=90",
@@ -102200,6 +102669,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "claim:brightening",
    "claim:hydrating",
    "claim:barrier",
@@ -102295,7 +102765,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.6★ from 8 ratings"
+   "buyerEvidence": "4.6★ from 8 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/c/z/d/50-cosmo-q-moisturizing-cream-for-face-body-deep-hydration-with-original-imahgwhnsgry6fms.jpeg?q=90",
@@ -102312,6 +102783,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:oil",
    "sun:mineral",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:vitamin-e",
    "ing:glycerin",
@@ -102623,7 +103095,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5); Formaldehyde-releasing preservative: imidazolidinyl urea (−1.5)",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
    "buyerEvidence": "4.3★ from 1,371 ratings",
-   "concernBasis": "Irritation — aloe barbadensis leaf extract #6 on INCI (matching only — not proof it works)"
+   "concernBasis": "Irritation — aloe barbadensis leaf extract #6 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/shopsy-moisturizer-cream/e/z/h/500-herbal-cold-cream-with-aoe-vera-500ml-cream-ayur-original-imah5jg6yetxggr4.jpeg?q=90",
@@ -102637,10 +103110,12 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:kit",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:rose",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:chapped-lips",
    "skin:dry",
    "skin:all",
    "free:paraben",
@@ -103987,7 +104462,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/i/z/100-moisturizer321-aquaoat-cream-original-imahgybgxmzwwvkw.jpeg?q=90",
@@ -104004,6 +104480,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:lotion",
    "format:balm",
+   "water:unstated",
    "ing:colloidal-oatmeal",
    "ing:hyaluronic-acid",
    "ing:ceramides",
@@ -104205,7 +104682,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/6/b/100-triqua-max-moisturizing-cream-24-hour-hydration-skin-barrier-original-imahgajzrp6sxymx.jpeg?q=90",
@@ -104222,6 +104700,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:turmeric",
    "ing:cucumber",
@@ -104416,7 +104895,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/n/x/r/100-triqua-max-moisturizing-cream-daily-cream-for-all-skin-types-original-imahfshyghmst2jb.jpeg?q=90",
@@ -104431,6 +104911,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:colloidal-oatmeal",
    "ing:aloe-vera",
    "ing:glycerin",
@@ -104748,7 +105229,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/c/h/4/60-aqua-glow-daily-moisturizer-with-long-lasting-hydration-original-imahj4gvx3wqd5sd.jpeg?q=90",
@@ -104764,6 +105246,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:cream",
+   "water:unstated",
    "ing:cucumber",
    "claim:brightening",
    "claim:whitening-claim",
@@ -105074,7 +105557,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/c/a/g/200-aqua-moisturizer-for-soft-and-hydrating-skin-200ml-n-plus-original-imahns6cqztrz8nj.jpeg?q=90",
@@ -105090,6 +105574,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "spf:15",
+   "water:unstated",
    "claim:dark-spots",
    "claim:whitening-claim",
    "claim:hydrating",
@@ -105394,7 +105879,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/j/b/100-aquarex-100hours-deep-hydration-moisturizer-for-dry-itchy-original-imahff7hrwzeejyv.jpeg?q=90",
@@ -105411,6 +105897,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:lotion",
    "format:oil",
+   "water:unstated",
    "ing:almond",
    "ing:vitamin-e",
    "ing:glycerin",
@@ -105879,115 +106366,6 @@ const CTPRODUCTS = [
     "url": "https://www.naos.com/en/our-brands/"
    },
    "buyers": "4.4★ from 12,501 ratings"
-  }
- },
- {
-  "id": "absderma-itm0671568edba64",
-  "brand": "ABSDERMA",
-  "model": "Moisturizing Cream for Face & Body – 200ml Hydration Car …",
-  "price": 432,
-  "capacityLine": "400 ml (pack of 2)",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Essence · ₹108/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "200 ml × 2 pack",
-   "pricePer100": "₹108/100ml",
-   "format": "Essence",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, Brightening/glow claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "All Skin Types",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/s/r/200-moisturizing-cream-for-face-body-200ml-hydration-care-original-imahhe85msghj6sm.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/t/d/u/200-moisturizing-cream-for-face-body-200ml-hydration-care-original-imahhe85avu7wynf.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/e/e/t/200-moisturizing-cream-for-face-body-200ml-hydration-care-original-imahhe85jk4ahfxw.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/t/l/200-moisturizing-cream-for-face-body-200ml-hydration-care-original-imahhe85ftpjjdew.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/e/j/q/200-moisturizing-cream-for-face-body-200ml-hydration-care-original-imahhe853ebnz2rg.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/absderma-moisturizing-cream-face-body-200ml-hydration-care/p/itm0671568edba64",
-  "buyStore": "Flipkart",
-  "title": "ABSDERMA Moisturizing Cream for Face & Body – 200ml Hydration Car …",
-  "tags": [
-   "scope:both",
-   "format:cream",
-   "format:essence",
-   "format:pack",
-   "format:kit",
-   "claim:brightening",
-   "claim:de-tan",
-   "claim:whitening-claim",
-   "claim:hydrating",
-   "claim:ayurvedic",
-   "skin:all",
-   "aud:women",
-   "size:xl",
-   "rating:none",
-   "store:flipkart",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -106567,7 +106945,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/g/a/0/200-hydrating-moisturizer-lotion-for-dry-normal-sensitive-skin-original-imahj9pch7j8akxf.jpeg?q=90",
@@ -106585,6 +106964,7 @@ const CTPRODUCTS = [
    "format:lotion",
    "format:balm",
    "format:kit",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:cocoa-butter",
    "claim:oil-control",
@@ -106681,7 +107061,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/x/u/c/450-moisturizer-lotion-with-vitamin-e-for-dry-normal-sensitive-original-imahhqpwdubkyc9w.jpeg?q=90",
@@ -106699,6 +107080,7 @@ const CTPRODUCTS = [
    "format:lotion",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:petrolatum",
    "ing:honey",
    "ing:almond",
@@ -106801,7 +107183,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/7/q/450-lightweight-moisturizer-lotion-for-dry-normal-sensitive-skin-original-imahhqpwbyytquu6.jpeg?q=90",
@@ -106821,6 +107204,7 @@ const CTPRODUCTS = [
    "format:balm",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:turmeric",
    "ing:sandalwood",
@@ -108067,7 +108451,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 52 ratings"
+   "buyerEvidence": "4.3★ from 52 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/d/d/j/150-moisturizer-glymax-cream-original-imahey9yzavwyshu.jpeg?q=90",
@@ -108082,6 +108467,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "claim:oil-control",
    "claim:hydrating",
    "claim:lightweight",
@@ -108172,7 +108558,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.8★ from 5 ratings"
+   "buyerEvidence": "4.8★ from 5 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/r/f/75-oc-sebum-regulating-moisturizer-glymax-cream-original-imahhafhzpfk8zkm.jpeg?q=90",
@@ -108187,6 +108574,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:glycerin",
    "claim:oil-control",
@@ -108281,7 +108669,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.9★ from 8 ratings"
+   "buyerEvidence": "3.9★ from 8 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/l/z/100-20-urea-moisturizing-cream-for-severe-dryness-ichthyosis-original-imahfg97nhmhtdk9.jpeg?q=90",
@@ -108296,6 +108685,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:urea",
    "ing:allantoin",
    "ing:glycerin",
@@ -108353,7 +108743,7 @@ const CTPRODUCTS = [
  {
   "id": "borsalimedicare-itm7a5fb1bb30fb0",
   "brand": "BORSALIMEDICARE",
-  "model": "Aqurea 10 Urea Moisturizing Cream 100g | 10% Urea …",
+  "model": "Aqurea 10 Urea Moisturizing Cream 100g | 10% Urea with Lactic Acid",
   "price": 245,
   "capacityLine": "100 g",
   "materialLine": "vitamin C + lactic acid + urea",
@@ -108402,7 +108792,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/borsalimedicare-aqurea-10-urea-moisturizing-cream-100g-10-lactic-acid/p/itm7a5fb1bb30fb0",
   "buyStore": "Flipkart",
-  "title": "BORSALIMEDICARE Aqurea 10 Urea Moisturizing Cream 100g | 10% Urea …",
+  "title": "BORSALIMEDICARE Aqurea 10 Urea Moisturizing Cream 100g | 10% Urea with Lactic Acid",
   "tags": [
    "scope:both",
    "format:gel",
@@ -108423,6 +108813,111 @@ const CTPRODUCTS = [
    "actives": true,
    "freefrom": false,
    "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "amlactin-itm3c3c2f37ec093",
+  "brand": "AmLactin",
+  "model": "With 7% Lactic Acid - Skin-Brightening Exfoliator And Moisturizer",
+  "price": 1997,
+  "capacityLine": "225 g",
+  "materialLine": "lactic acid",
+  "featureLine": "Scrub / exfoliant · ₹888/100g",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "225 g",
+   "pricePer100": "₹888/100g",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "lactic acid (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Dry Skin",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/a/a/i/225-with-7-lactic-acid-skin-brightening-exfoliator-and-original-imahq8w6ej6jxrqn.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/g/b/0/225-with-7-lactic-acid-skin-brightening-exfoliator-and-original-imahq8w6vwhhmgte.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/5/z/p/225-with-7-lactic-acid-skin-brightening-exfoliator-and-original-imahq8w6h3zpp4f6.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/f/l/225-with-7-lactic-acid-skin-brightening-exfoliator-and-original-imahq8w63gd5zhdd.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/y/i/f/225-with-7-lactic-acid-skin-brightening-exfoliator-and-original-imahq8w6vgfqncw4.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/amlactin-7-lactic-acid-skin-brightening-exfoliator-moisturizer/p/itm3c3c2f37ec093",
+  "buyStore": "Flipkart",
+  "title": "AmLactin With 7% Lactic Acid - Skin-Brightening Exfoliator And Moisturizer",
+  "tags": [
+   "scope:both",
+   "format:lotion",
+   "ing:lactic-acid",
+   "claim:brightening",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "skin:dry",
+   "aud:women",
+   "size:large",
+   "rating:none",
+   "store:flipkart",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": true,
    "derm": false,
    "men": false,
    "women": true,
@@ -108498,7 +108993,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/v/w/50-ceramide-body-moisturizer-with-hyaluronic-acid-daily-original-imahqemzamfvgzs5.jpeg?q=90",
@@ -108513,6 +109009,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:lotion",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "claim:hydrating",
@@ -108604,7 +109101,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/c/s/180-strawberry-moisturizing-cream-face-body-48hr-hydration-non-original-imahhfsnwrv7pk8a.jpeg?q=90",
@@ -108625,6 +109123,7 @@ const CTPRODUCTS = [
    "format:clay-mask",
    "format:pack",
    "spf:40",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:saffron",
    "ing:honey",
@@ -108957,7 +109456,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/4/a/l/180-strawberry-moisturizing-cream-face-body-48hr-hydration-non-original-imahjk52c6mxbnq6.jpeg?q=90",
@@ -108976,6 +109476,7 @@ const CTPRODUCTS = [
    "format:pack",
    "format:kit",
    "spf:40",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:glycerin",
    "ing:strawberry",
@@ -109497,7 +109998,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.9★ from 23 ratings"
+   "buyerEvidence": "3.9★ from 23 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/n/p/50-salicylic-acid-oil-free-water-based-face-moisturizer-for-oily-original-imahphgagpa7tjwq.jpeg?q=90",
@@ -109513,6 +110015,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:oil",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:salicylic-acid-bha",
    "ing:green-tea",
@@ -109578,22 +110081,24 @@ const CTPRODUCTS = [
  {
   "id": "koxa-itmca2a0c0d16f99",
   "brand": "KOXA",
-  "model": "3X Acid Anti-Acne Gel Moisturizer with Salicylic, Lactic & L …",
+  "model": "3X Acid Anti-Acne Gel Moisturizer with Salicylic, Lactic & Lactobionic Acid",
   "price": 300,
   "capacityLine": "30 g",
   "materialLine": "retinol + salicylic acid (BHA) + lactic acid",
   "featureLine": "Essence · ₹1000/100g",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. Scored from its published INCI list (Flipkart listing — Specifications › Composition): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "panthenol high on the INCI list (moderate evidence); glycerin high on the INCI list (strong evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): aroma",
    "Maker not verified — no parent company found",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 5,
+   "skin": 5.9,
+   "trust": 5.5,
    "experience": 0
   },
   "fullSpec": {
@@ -109610,13 +110115,15 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
+   "inciSource": "Flipkart listing — Specifications › Composition",
+   "inciList": "aqua, butylene glycol, dimethicone/vinyl dimethicone crosspolymer, cyclopentasiloxane, trehalose, panthenol, lactobionic acid, lactic acid, glycerin, cyclohexasiloxane, 1.2-hexanediol, hydroxyacetophenone, carbomer, methyl-gluceth-20, salicylic acid, sophora flavescens root extract, ammonium acryloyldimethyltaurate/vp copoly-mer, pentylene glycol, ophiopogon japonicus root extract, opuntia ficus-indica stem extract, portulaca oleracea extract, tribulus terrestris fruit extract, sodium hydroxide, disodium edta, 10-hydroxydecanoic acid, arginine/lysine polypeptide, ectoin, peg-40 hydrogenated castor oil, cornus officinalis fruit extract, aroma, ci 42090, maltodextrin, acacia senegal gum, centella asiatica leaf extract, glycolic acid, sodium magnesium silicate, citric acid, xanthan gum",
+   "evidenceActives": "panthenol (#6 on list, moderate evidence); glycerin (#9 on list, strong evidence)",
+   "safetyFlags": "Added fragrance (parfum): aroma (−1.5)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "declaredManufacturer": "MADE IN PRC (as printed on the Flipkart listing — not scored)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — salicylic acid #14 on INCI; Irritation — panthenol #6 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/x/j/a/30-3x-acid-anti-acne-gel-moisturizer-with-salicylic-lactic-original-imahkyya8hmhtrq9.jpeg?q=90",
@@ -109627,7 +110134,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/koxa-3x-acid-anti-acne-gel-moisturizer-salicylic-lactic-lactobionic/p/itmca2a0c0d16f99",
   "buyStore": "Flipkart",
-  "title": "KOXA 3X Acid Anti-Acne Gel Moisturizer with Salicylic, Lactic & L …",
+  "title": "KOXA 3X Acid Anti-Acne Gel Moisturizer with Salicylic, Lactic & Lactobionic Acid",
   "tags": [
    "scope:face",
    "format:gel",
@@ -109648,7 +110155,9 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
-   "inci:none"
+   "target:acne",
+   "target:irritation",
+   "inci:full"
   ],
   "filters": {
    "actives": true,
@@ -109657,27 +110166,98 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "listing",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
+   "inci": "full",
+   "inciSource": "Flipkart listing — Specifications › Composition",
+   "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
-   "inciText": null,
+   "inciText": "aqua, butylene glycol, dimethicone/vinyl dimethicone crosspolymer, cyclopentasiloxane, trehalose, panthenol, lactobionic acid, lactic acid, glycerin, cyclohexasiloxane, 1.2-hexanediol, hydroxyacetophenone, carbomer, methyl-gluceth-20, salicylic acid, sophora flavescens root extract, ammonium acryloyldimethyltaurate/vp copoly-mer, pentylene glycol, ophiopogon japonicus root extract, opuntia ficus-indica stem extract, portulaca oleracea extract, tribulus terrestris fruit extract, sodium hydroxide, disodium edta, 10-hydroxydecanoic acid, arginine/lysine polypeptide, ectoin, peg-40 hydrogenated castor oil, cornus officinalis fruit extract, aroma, ci 42090, maltodextrin, acacia senegal gum, centella asiatica leaf extract, glycolic acid, sodium magnesium silicate, citric acid, xanthan gum",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "lactobionic acid",
+     "grade": "B",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 9,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 14,
+     "core": false,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "glycolic acid",
+     "grade": "A",
+     "position": 34,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 36,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    }
+   ],
+   "support": [
+    "butylene glycol",
+    "panthenol",
+    "glycerin"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "aroma"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -110616,7 +111196,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/m/f/9/100-body-moisturiser-advanced-nourishing-winter-edition-body-original-imagj9hggbhxghvw.jpeg?q=90",
@@ -110634,6 +111215,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:lotion",
    "spf:15",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:aloe-vera",
    "claim:brightening",
@@ -111275,7 +111857,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.5★ from 31 ratings"
+   "buyerEvidence": "4.5★ from 31 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/n/f/6/100-ppk-moisturising-cream-olesoft-cream-original-imah3hp5fgzxaxgt.jpeg?q=90",
@@ -111290,6 +111873,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "claim:hydrating",
    "skin:all",
    "free:paraben",
@@ -111973,7 +112557,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/k/1/a/50-ceramide-hyaluronic-acid-lotion-daily-body-moisturizer-for-original-imahqemzu8w8cqzq.jpeg?q=90",
@@ -111988,6 +112573,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:lotion",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "claim:hydrating",
@@ -112191,7 +112777,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 5 ratings"
+   "buyerEvidence": "5★ from 5 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/y/c/150-olesoft-trucera-ceramide-moisturizer-150ml-intense-hydration-original-imahhzkjvk6pfe82.jpeg?q=90",
@@ -112206,6 +112793,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:lotion",
+   "water:unstated",
    "ing:ceramides",
    "claim:hydrating",
    "skin:all",
@@ -112297,7 +112885,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/v/d/c/100-ceramide-body-moisturiser-with-hyaluronic-acid-for-nourished-original-imahqen6exxfsggt.jpeg?q=90",
@@ -112312,6 +112901,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:lotion",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "claim:hydrating",
@@ -112403,7 +112993,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/8/6/2/180-skin-brightening-moisturizer-daily-moisturizer-for-radiant-original-imahpqarhsfsgqq3.jpeg?q=90",
@@ -112418,6 +113009,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:colloidal-oatmeal",
@@ -112430,6 +113022,7 @@ const CTPRODUCTS = [
    "ing:almond",
    "ing:vitamin-e",
    "ing:allantoin",
+   "ing:pdrn-polynucleotide",
    "claim:brightening",
    "claim:hydrating",
    "claim:ayurvedic",
@@ -112596,10 +113189,10 @@ const CTPRODUCTS = [
  {
   "id": "dextron-itm1dfd82a91a475",
   "brand": "Dextron",
-  "model": "Ceramides Moisturizer Cream with Hyaluronic Acid & Colloi …",
+  "model": "Ceramides Moisturizer Cream with Hyaluronic Acid & Colloidal Oatmeal",
   "price": 410,
   "capacityLine": "Quantity not stated",
-  "materialLine": "hyaluronic acid + ceramides",
+  "materialLine": "colloidal oatmeal + hyaluronic acid + ceramides",
   "featureLine": "Cream / gel",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -112618,7 +113211,7 @@ const CTPRODUCTS = [
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
    "format": "Cream / gel",
-   "keyIngredients": "hyaluronic acid, ceramides (per listing)",
+   "keyIngredients": "colloidal oatmeal, hyaluronic acid, ceramides (per listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
@@ -112634,6 +113227,7 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
+   "declaredManufacturer": "Sifora Life Science (as printed on the Flipkart listing — not scored)",
    "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
@@ -112644,10 +113238,11 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/dextron-ceramides-moisturizer-cream-hyaluronic-acid-colloidal-oatmeal/p/itm1dfd82a91a475",
   "buyStore": "Flipkart",
-  "title": "DEXTRON Ceramides Moisturizer Cream with Hyaluronic Acid & Colloi …",
+  "title": "DEXTRON Ceramides Moisturizer Cream with Hyaluronic Acid & Colloidal Oatmeal",
   "tags": [
    "scope:unstated",
    "format:cream",
+   "ing:colloidal-oatmeal",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "claim:hydrating",
@@ -112735,7 +113330,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/n/s/u/150-ceramide-hyaluronic-acid-body-moisturizer-nourishing-daily-original-imahqemzs3yumhc3.jpeg?q=90",
@@ -112750,6 +113346,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:lotion",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "claim:hydrating",
@@ -113198,7 +113795,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 1 ratings"
+   "buyerEvidence": "5★ from 1 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/g/i/110-glowbae-moisturizer-110-ml-velloraskincare-cream-original-imahn7bgebhgdj2v.jpeg?q=90",
@@ -113214,6 +113812,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:scrub",
+   "water:unstated",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:ceramides",
@@ -113557,7 +114156,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/w/6/200-lotion-winter-moisturizer-normal-to-dry-skin-pack-of-2-sheny-original-imah7x75tnnhfyrn.jpeg?q=90",
@@ -113574,6 +114174,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:lotion",
    "format:kit",
+   "water:unstated",
    "ing:rose",
    "ing:honey",
    "ing:almond",
@@ -113975,7 +114576,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/d/4/a/200-cloudsoft-light-moisturiser-200ml-100-hours-non-sticky-original-imahguhm6b8zgamg.jpeg?q=90",
@@ -113994,6 +114596,7 @@ const CTPRODUCTS = [
    "format:lotion",
    "format:kit",
    "spf:50",
+   "water:unstated",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:ceramides",
@@ -114506,7 +115109,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/n/x/r/100-triqua-max-moisturizing-cream-daily-cream-for-all-skin-types-original-imahfshyghmst2jb.jpeg?q=90",
@@ -114522,6 +115126,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:kit",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:colloidal-oatmeal",
    "ing:aloe-vera",
@@ -114618,7 +115223,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/k/e/h/100-moisturising-cream-for-dry-sensitive-skin-aquaoat-cream-original-imahh5rgs29y8vmk.jpeg?q=90",
@@ -114635,6 +115241,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:lotion",
    "format:kit",
+   "water:unstated",
    "ing:colloidal-oatmeal",
    "ing:glycerin",
    "claim:oil-control",
@@ -114730,7 +115337,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/c/9/w/100-moisturizing-cream-for-deep-hydration-aquaoat-lotion-original-imahh6s9s5b2mmzm.jpeg?q=90",
@@ -114746,6 +115354,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:lotion",
+   "water:unstated",
    "ing:niacinamide",
    "ing:colloidal-oatmeal",
    "ing:saffron",
@@ -115059,7 +115668,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/m/b/i/100-moisturizing-cream-100g-intensive-hydration-for-dry-original-imahfgzdafmtjzkf.jpeg?q=90",
@@ -115072,6 +115682,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "claim:brightening",
    "claim:anti-aging",
    "claim:hydrating",
@@ -115167,7 +115778,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/6/3/z/60-aqua-glow-moisturizer-instant-hydration-lasting-radiance-original-imahgtdz9ggsj4qu.jpeg?q=90",
@@ -115186,6 +115798,7 @@ const CTPRODUCTS = [
    "format:lotion",
    "format:scrub",
    "format:kit",
+   "water:unstated",
    "ing:kojic-acid",
    "ing:charcoal",
    "claim:brightening",
@@ -115830,7 +116443,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/a/e/w/50-max-facial-moisturizer-raindew-cream-original-imahnugzekeepeh9.jpeg?q=90",
@@ -115847,6 +116461,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:lotion",
    "format:kit",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "claim:brightening",
    "claim:whitening-claim",
@@ -116046,7 +116661,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/y/u/s/300-max-moisturising-cream-aloederm-cream-original-imah3hhkkynyj4qs.jpeg?q=90",
@@ -116063,6 +116679,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:lotion",
    "spf:30",
+   "water:unstated",
    "claim:hydrating",
    "claim:spf-claim",
    "skin:all",
@@ -116494,7 +117111,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/p/q/50-x-emirates-cream-luxury-glow-enhancing-face-cream-activewow-original-imahnkpvhr4dhghj.jpeg?q=90",
@@ -116511,6 +117129,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:kit",
    "spf:15",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:rice-water",
    "claim:brightening",
@@ -117482,7 +118101,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/scrub/l/j/j/400-sensitive-dry-skin-calming-moisturizer-milk-lotion-butter-original-imah9y8z2hcdez9k.jpeg?q=90",
@@ -117500,6 +118120,7 @@ const CTPRODUCTS = [
    "format:balm",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
    "ing:collagen",
@@ -117613,7 +118234,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/c/y/q/450-daily-moisturizer-lotion-for-dry-normal-sensitive-skin-soft-original-imahhqpwgmtaynv8.jpeg?q=90",
@@ -117629,6 +118251,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:lotion",
+   "water:unstated",
    "ing:almond",
    "claim:oil-control",
    "claim:hydrating",
@@ -118002,7 +118625,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 58 ratings"
+   "buyerEvidence": "4.3★ from 58 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/i/6/f/50-rice-ceramide-gel-cream-moisturizer-fragrance-free-for-men-original-imahc7nvtxueqats.jpeg?q=90",
@@ -118018,6 +118642,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:cream",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "ing:rice-water",
@@ -118125,7 +118750,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/v/r/j/250-moisturising-cream-250-gm-pack-aquaoat-cream-original-imahg5wvghzmekww.jpeg?q=90",
@@ -118142,6 +118768,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:lotion",
    "format:pack",
+   "water:unstated",
    "ing:colloidal-oatmeal",
    "ing:vitamin-e",
    "claim:oil-control",
@@ -118236,7 +118863,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/q/u/z/100-rice-saffron-moisturizer-deep-hydration-glow-skin-original-imahq975ngybfkcu.jpeg?q=90",
@@ -118252,6 +118880,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:wash",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:rice-water",
    "ing:saffron",
@@ -119866,7 +120495,7 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "3.7/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
    "inciSource": "Not stated in listing",
    "inciList": "Not stated in listing",
    "evidenceActives": "Unscored — no verified INCI list",
@@ -119967,7 +120596,7 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
    "inciSource": "Not stated in listing",
    "inciList": "Not stated in listing",
    "evidenceActives": "Unscored — no verified INCI list",
@@ -120068,13 +120697,14 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "3.6/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
    "inciSource": "Not stated in listing",
    "inciList": "Not stated in listing",
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.6★ from 0 ratings"
+   "buyerEvidence": "3.6★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51KpP8RXrUL._AC_UL320_.jpg"
@@ -120085,6 +120715,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:retinal",
    "claim:anti-aging",
    "claim:hydrating",
@@ -120175,13 +120806,14 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.2/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
    "inciSource": "Not stated in listing",
    "inciList": "Not stated in listing",
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51KpP8RXrUL._AC_UL320_.jpg"
@@ -120192,6 +120824,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:retinal",
    "claim:dark-spots",
    "claim:anti-aging",
@@ -120303,6 +120936,7 @@ const CTPRODUCTS = [
    "format:cream",
    "ing:peptides",
    "ing:collagen",
+   "ing:nad-nmn",
    "claim:anti-aging",
    "claim:oil-control",
    "claim:hydrating",
@@ -120779,6 +121413,7 @@ const CTPRODUCTS = [
    "scope:unstated",
    "format:wash",
    "ing:ceramides",
+   "ing:polyglutamic-acid",
    "claim:hydrating",
    "claim:barrier",
    "skin:dry",
@@ -123529,7 +124164,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Nature's Essence — Indian D2C brand with its own product company",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61GvWtH3pZL._AC_UL320_.jpg"
@@ -123543,6 +124179,7 @@ const CTPRODUCTS = [
    "format:essence",
    "spf:30",
    "pa:++",
+   "water:unstated",
    "claim:brightening",
    "claim:oil-control",
    "claim:hydrating",
@@ -124451,6 +125088,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:cream",
+   "ing:pdrn-polynucleotide",
    "claim:brightening",
    "claim:hydrating",
    "claim:lightweight",
@@ -124552,6 +125190,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:ampoule",
    "format:mist",
+   "ing:pdrn-polynucleotide",
    "claim:brightening",
    "claim:hydrating",
    "claim:lightweight",
@@ -124969,6 +125608,7 @@ const CTPRODUCTS = [
    "format:balm",
    "ing:collagen",
    "ing:ginseng",
+   "ing:pdrn-polynucleotide",
    "claim:brightening",
    "claim:hydrating",
    "claim:korean",
@@ -125071,6 +125711,7 @@ const CTPRODUCTS = [
    "format:stick",
    "format:balm",
    "ing:collagen",
+   "ing:pdrn-polynucleotide",
    "claim:brightening",
    "claim:anti-aging",
    "claim:hydrating",
@@ -125383,6 +126024,7 @@ const CTPRODUCTS = [
    "ing:ceramides",
    "ing:collagen",
    "ing:ginseng",
+   "ing:pdrn-polynucleotide",
    "claim:brightening",
    "claim:anti-aging",
    "claim:hydrating",
@@ -127967,7 +128609,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "LG Household & Health Care — Global FMCG or beauty group",
-   "buyerEvidence": "4.4★ from 0 ratings"
+   "buyerEvidence": "4.4★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41CYnNjYfQL._AC_UL320_.jpg"
@@ -127980,6 +128623,7 @@ const CTPRODUCTS = [
    "format:cream",
    "spf:50+",
    "pa:++++",
+   "water:unstated",
    "ing:rice-water",
    "ing:vitamin-b5-panthenol",
    "claim:brightening",
@@ -129659,7 +130303,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Heavenly Secrets — Indian D2C brand with its own product company",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71EWQIK4XfL._AC_UL320_.jpg"
@@ -129674,6 +130319,7 @@ const CTPRODUCTS = [
    "format:kit",
    "spf:50+",
    "pa:++++",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:rice-water",
@@ -132489,7 +133135,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51NUdrlMsvL._AC_UL320_.jpg"
@@ -132502,6 +133149,7 @@ const CTPRODUCTS = [
    "format:cream",
    "spf:15",
    "pa:++",
+   "water:unstated",
    "ing:retinol",
    "claim:barrier",
    "claim:spf-claim",
@@ -135416,7 +136064,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Lotus Herbals — Established / listed Indian FMCG house",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/518kkub4UxL._AC_UL320_.jpg"
@@ -135429,6 +136078,7 @@ const CTPRODUCTS = [
    "format:cream",
    "spf:15",
    "pa:+++",
+   "water:unstated",
    "ing:retinol",
    "ing:bakuchiol",
    "claim:anti-aging",
@@ -135534,6 +136184,7 @@ const CTPRODUCTS = [
    "ing:retinol",
    "ing:ceramides",
    "ing:vitamin-b5-panthenol",
+   "ing:pdrn-polynucleotide",
    "claim:anti-aging",
    "claim:pores",
    "claim:hydrating",
@@ -135924,7 +136575,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Lotus Herbals — Established / listed Indian FMCG house",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51C-mQgXgFL._AC_UL320_.jpg"
@@ -135937,6 +136589,7 @@ const CTPRODUCTS = [
    "format:cream",
    "spf:15",
    "pa:+++",
+   "water:unstated",
    "ing:retinol",
    "ing:bakuchiol",
    "claim:anti-aging",
@@ -136429,7 +137082,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.6★ from 0 ratings"
+   "buyerEvidence": "4.6★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/6129unDyjUL._AC_UL320_.jpg"
@@ -136442,6 +137096,7 @@ const CTPRODUCTS = [
    "format:cream",
    "spf:30",
    "pa:++",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:retinol",
@@ -148092,7 +148747,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Procter & Gamble — Global FMCG or beauty group",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71BwOyTq7LL._AC_UL320_.jpg"
@@ -148103,6 +148759,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:cream",
+   "water:unstated",
    "ing:retinol",
    "claim:hydrating",
    "aud:unisex",
@@ -149616,7 +150273,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61TnWKBgAPL._AC_UL320_.jpg"
@@ -149630,6 +150288,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:kit",
    "spf:30",
+   "water:unstated",
    "ing:retinol",
    "claim:brightening",
    "claim:hydrating",
@@ -151856,7 +152515,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51UEdp3SOJL._AC_UL320_.jpg"
@@ -151868,6 +152528,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:emulsion",
    "spf:50",
+   "water:unstated",
    "ing:vitamin-e",
    "ing:chamomile",
    "claim:hydrating",
@@ -151957,7 +152618,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
-   "buyerEvidence": "4.5★ from 0 ratings"
+   "buyerEvidence": "4.5★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61S9RytnJ6L._AC_UL320_.jpg"
@@ -151970,6 +152632,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:emulsion",
    "spf:50",
+   "water:unstated",
    "ing:vitamin-e",
    "ing:chamomile",
    "claim:hydrating",
@@ -152059,7 +152722,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
-   "buyerEvidence": "4.4★ from 0 ratings"
+   "buyerEvidence": "4.4★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61WSUENjIdL._AC_UL320_.jpg"
@@ -152070,6 +152734,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "spf:30",
+   "water:unstated",
    "ing:green-tea",
    "ing:chamomile",
    "claim:acne",
@@ -153236,7 +153901,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): perfume (−1.5); EU-declared fragrance allergen: alpha-isomethyl ionone, citronellol, linalool (−1.5)",
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
    "buyerEvidence": "4.2★ from 0 ratings",
-   "concernBasis": "Acne — niacinamide #18 on INCI; Dark spots — niacinamide #18 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #18 on INCI; Dark spots — niacinamide #18 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41lw3DxHzmL._AC_UL320_.jpg"
@@ -153248,6 +153914,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:cream",
    "spf:30",
+   "water:unstated",
    "ing:ceramides",
    "ing:milk",
    "claim:hydrating",
@@ -158711,6 +159378,7 @@ const CTPRODUCTS = [
    "ing:aloe-vera",
    "ing:shea-butter",
    "ing:cocoa-butter",
+   "ing:polyglutamic-acid",
    "claim:hydrating",
    "claim:dry-skin-relief",
    "skin:dry",
@@ -158918,6 +159586,8 @@ const CTPRODUCTS = [
    "ing:ceramides",
    "ing:peptides",
    "ing:squalane",
+   "ing:pdrn-polynucleotide",
+   "ing:exosomes",
    "claim:anti-aging",
    "claim:hydrating",
    "free:derm",
@@ -160131,7 +160801,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Glenmark Pharmaceuticals — Dermatology / pharmaceutical manufacturer",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41KP5k3j5nL._AC_UL320_.jpg"
@@ -160141,6 +160812,7 @@ const CTPRODUCTS = [
   "title": "Episoft AC Moisturiser with Sunscreen | Blocks 97% UVB rays | Lightweight, non-greasy | Fragrance free | Acne safe | Single step skincare | Suitable for all Skin types | 2 in 1 product",
   "tags": [
    "scope:unstated",
+   "water:unstated",
    "claim:acne",
    "claim:oil-control",
    "claim:hydrating",
@@ -160486,7 +161158,8 @@ const CTPRODUCTS = [
    "evidenceActives": "glycerin (#3 on list, strong evidence); butyrospermum parkii butter (#11 on list, moderate evidence); tocopheryl acetate (#13 on list, moderate evidence)",
    "safetyFlags": "Added fragrance (parfum): perfume (−1.5)",
    "maker": "Beiersdorf — Global FMCG or beauty group",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61N7ISBanuL._AC_UL320_.jpg"
@@ -160497,6 +161170,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:cream",
+   "water:unstated",
    "claim:hydrating",
    "aud:unisex",
    "size:travel",
@@ -160736,7 +161410,7 @@ const CTPRODUCTS = [
   ],
   "cons": [],
   "scores": {
-   "ingredients": 8.4,
+   "ingredients": 8.5,
    "skin": 9,
    "trust": 7,
    "experience": 3.2
@@ -160869,6 +161543,14 @@ const CTPRODUCTS = [
      "src": "panthenol"
     },
     {
+     "name": "sodium dna",
+     "grade": "B",
+     "position": 22,
+     "core": false,
+     "trace": true,
+     "src": "pdrn"
+    },
+    {
      "name": "centella asiatica extract",
      "grade": "B",
      "position": 23,
@@ -160944,7 +161626,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.4★ from 0 ratings"
+   "buyerEvidence": "4.4★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61di+rpnz0L._SL1100_.jpg",
@@ -160961,6 +161644,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:oil",
    "spf:30",
+   "water:unstated",
    "ing:saffron",
    "ing:kumkumadi",
    "claim:brightening",
@@ -161330,12 +162014,12 @@ const CTPRODUCTS = [
    "Well-reviewed: 4.3★ from 0 ratings"
   ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Only 3 ingredients named — formula unscored"
   ],
   "scores": {
    "ingredients": 0,
    "skin": 0,
-   "trust": 5,
+   "trust": 5.3,
    "experience": 2.9
   },
   "fullSpec": {
@@ -161352,9 +162036,9 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.3/5 (Get it faster ratings, Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
+   "inciStatus": "Only 3 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: 2% Cica Exosomes. 5% Niacinamide. 5% Panthenol, Zinc PCA,. Electrolytes (Magnesium + Copper + Zinc)",
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Kreative Beauty Pvt Ltd (Hyphen) — Indian D2C brand with its own product company",
@@ -161372,6 +162056,7 @@ const CTPRODUCTS = [
    "format:oil",
    "ing:niacinamide",
    "ing:centella-cica",
+   "ing:exosomes",
    "claim:acne",
    "claim:hydrating",
    "claim:lightweight",
@@ -161383,7 +162068,7 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "inci:partial"
   ],
   "filters": {
    "actives": true,
@@ -161392,23 +162077,23 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
+   "inci": "partial",
    "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
    "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
+   "inciUnverified": "2% Cica Exosomes. 5% Niacinamide. 5% Panthenol, Zinc PCA,. Electrolytes (Magnesium + Copper + Zinc)",
+   "inciNote": "Only 3 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
    "declarationConfidence": null,
-   "recognised": null,
+   "recognised": 0.67,
    "actives": [],
    "support": [],
    "formulaNotes": [],
@@ -162152,7 +162837,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
-   "buyerEvidence": "4.5★ from 0 ratings"
+   "buyerEvidence": "4.5★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/5196JAVXlpL._AC_UL320_.jpg"
@@ -162164,6 +162850,7 @@ const CTPRODUCTS = [
    "scope:unstated",
    "spf:50",
    "pa:++++",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "claim:oil-control",
@@ -162269,6 +162956,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:kit",
    "ing:niacinamide",
+   "ing:pdrn-polynucleotide",
    "claim:acne",
    "claim:hydrating",
    "claim:soothing",
@@ -162586,7 +163274,8 @@ const CTPRODUCTS = [
    "evidenceActives": "glycerin (#3 on list, strong evidence); butyrospermum parkii butter (#11 on list, moderate evidence); tocopheryl acetate (#13 on list, moderate evidence)",
    "safetyFlags": "Added fragrance (parfum): perfume (−1.5)",
    "maker": "Beiersdorf — Global FMCG or beauty group",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61N7ISBanuL._AC_UL320_.jpg"
@@ -162597,6 +163286,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:cream",
+   "water:unstated",
    "claim:hydrating",
    "aud:unisex",
    "size:large",
@@ -162963,7 +163653,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51+hz8BNKjL._AC_UL320_.jpg"
@@ -162975,6 +163666,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:cream",
    "spf:15",
+   "water:unstated",
    "ing:niacinamide",
    "claim:brightening",
    "claim:dark-spots",
@@ -163753,6 +164445,8 @@ const CTPRODUCTS = [
    "format:cream",
    "ing:hyaluronic-acid",
    "ing:collagen",
+   "ing:nad-nmn",
+   "ing:pdrn-polynucleotide",
    "claim:brightening",
    "claim:hydrating",
    "claim:barrier",
@@ -164044,7 +164738,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Bio Veda Action Research — Established / listed Indian FMCG house",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51GknlG2WXL._AC_UL320_.jpg"
@@ -164055,6 +164750,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "spf:30",
+   "water:unstated",
    "ing:turmeric",
    "ing:neem",
    "claim:hydrating",
@@ -164970,7 +165666,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "RSH Global (Joy Personal Care) — Established / listed Indian FMCG house",
-   "buyerEvidence": "4.4★ from 0 ratings"
+   "buyerEvidence": "4.4★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/6146SLSUmSL._AC_UL320_.jpg"
@@ -164981,6 +165678,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:honey",
    "ing:almond",
    "claim:brightening",
@@ -168040,7 +168738,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.6★ from 0 ratings"
+   "buyerEvidence": "4.6★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51Vp3SxYiNL._AC_UL320_.jpg"
@@ -168050,6 +168749,7 @@ const CTPRODUCTS = [
   "title": "N Plus Professional Deep Hydrating Moisturizer With SPF-15 for Longtime Moisturizing, 100g",
   "tags": [
    "scope:unstated",
+   "water:unstated",
    "claim:hydrating",
    "aud:unisex",
    "size:standard",
@@ -168519,6 +169219,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "ing:hyaluronic-acid",
+   "ing:polyglutamic-acid",
    "claim:hydrating",
    "skin:dry",
    "free:derm",
@@ -170722,7 +171423,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/6106GXi-wgL._AC_UL320_.jpg"
@@ -170734,9 +171436,11 @@ const CTPRODUCTS = [
    "scope:face",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:peptides",
+   "ing:pdrn-polynucleotide",
    "claim:hydrating",
    "claim:spf-claim",
    "claim:cooling",
@@ -178842,7 +179546,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51kHoySgsBL._AC_UL320_.jpg"
@@ -178854,6 +179559,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:cream",
    "spf:30",
+   "water:unstated",
    "claim:oil-control",
    "claim:hydrating",
    "claim:lightweight",
@@ -179545,7 +180251,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "waterResistance": "sweat resistant (per listing — not tested here, not scored)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61dPHYCJc3L._AC_UL320_.jpg"
@@ -179557,6 +180264,7 @@ const CTPRODUCTS = [
    "scope:unstated",
    "format:cream",
    "format:kit",
+   "water:sweat",
    "ing:niacinamide",
    "claim:brightening",
    "claim:oil-control",
@@ -181121,7 +181829,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51AciYbDjXL._AC_UL320_.jpg"
@@ -181135,6 +181844,7 @@ const CTPRODUCTS = [
    "format:kit",
    "spf:50+",
    "pa:++++",
+   "water:unstated",
    "claim:hydrating",
    "claim:spf-claim",
    "aud:unisex",
@@ -182165,7 +182875,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Blossom Kochhar Aroma Magic — Indian D2C brand with its own product company",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51LydDYetfL._AC_UL320_.jpg"
@@ -182177,6 +182888,7 @@ const CTPRODUCTS = [
    "scope:unstated",
    "format:oil",
    "spf:15",
+   "water:unstated",
    "ing:cucumber",
    "ing:jojoba",
    "ing:lemon",
@@ -182902,7 +183614,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71HOXbY2s1L._AC_UL320_.jpg"
@@ -182912,6 +183625,7 @@ const CTPRODUCTS = [
   "title": "Acnin Oil-Free Moisturizer SPF Protection 100ml | Clinically Proven Ceramide Formula | Strengthens Skin Barrier | Dermatologist Recommended for Acne-Prone, Oily, Sensitive Skin | Lightweight",
   "tags": [
    "scope:unstated",
+   "water:unstated",
    "ing:ceramides",
    "claim:acne",
    "claim:hydrating",
@@ -185817,7 +186531,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.4★ from 0 ratings"
+   "buyerEvidence": "3.4★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51cqXNrJ8hL._AC_UL320_.jpg"
@@ -185829,6 +186544,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:cream",
    "spf:50",
+   "water:unstated",
    "claim:hydrating",
    "claim:spf-claim",
    "skin:oily",
@@ -190787,7 +191503,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51bx8b4Zt5L._AC_UL320_.jpg"
@@ -190800,6 +191517,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:powder",
    "spf:30",
+   "water:unstated",
    "claim:oil-control",
    "claim:hydrating",
    "claim:tinted",
@@ -192943,7 +193661,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51XNwVwwgtL._AC_UL320_.jpg"
@@ -192954,6 +193673,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "spf:15",
+   "water:unstated",
    "claim:hydrating",
    "claim:broad-spectrum",
    "claim:spf-claim",
@@ -193042,7 +193762,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71JOxhw6DPL._AC_UL320_.jpg"
@@ -193054,6 +193775,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:cream",
    "spf:15",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "ing:alpha-arbutin",
@@ -194810,7 +195532,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.5★ from 0 ratings"
+   "buyerEvidence": "4.5★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71-N1jH5YYL._AC_UL320_.jpg"
@@ -194824,6 +195547,7 @@ const CTPRODUCTS = [
    "format:kit",
    "spf:40",
    "pa:+++",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "claim:anti-aging",
@@ -199573,6 +200297,7 @@ const CTPRODUCTS = [
    "format:kit",
    "ing:niacinamide",
    "ing:ceramides",
+   "ing:pdrn-polynucleotide",
    "claim:hydrating",
    "claim:korean",
    "skin:all",
@@ -199676,6 +200401,7 @@ const CTPRODUCTS = [
    "format:kit",
    "ing:niacinamide",
    "ing:ceramides",
+   "ing:pdrn-polynucleotide",
    "claim:hydrating",
    "claim:korean",
    "skin:all",
@@ -199779,6 +200505,7 @@ const CTPRODUCTS = [
    "format:kit",
    "ing:niacinamide",
    "ing:ceramides",
+   "ing:pdrn-polynucleotide",
    "claim:hydrating",
    "claim:korean",
    "skin:all",
@@ -199867,7 +200594,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51orTmNb6lL._AC_UL320_.jpg"
@@ -199879,6 +200607,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:cream",
    "spf:15",
+   "water:unstated",
    "ing:bakuchiol",
    "ing:ceramides",
    "claim:brightening",
@@ -200423,6 +201152,7 @@ const CTPRODUCTS = [
    "format:kit",
    "ing:niacinamide",
    "ing:ceramides",
+   "ing:pdrn-polynucleotide",
    "claim:hydrating",
    "claim:korean",
    "skin:all",
@@ -200512,7 +201242,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51hCt4FzAgL._AC_UL320_.jpg"
@@ -200524,6 +201255,7 @@ const CTPRODUCTS = [
    "scope:unstated",
    "format:cream",
    "spf:15",
+   "water:unstated",
    "ing:ceramides",
    "claim:hydrating",
    "claim:barrier",
@@ -204084,7 +204816,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51R5idbsTwL._AC_UL320_.jpg"
@@ -204096,6 +204829,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:cream",
    "spf:15",
+   "water:unstated",
    "claim:hydrating",
    "claim:lightweight",
    "claim:spf-claim",
@@ -205193,6 +205927,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:ayurvedic",
    "claim:cracked-heels",
+   "claim:chapped-lips",
    "skin:dry",
    "aud:kids",
    "size:travel",
@@ -205809,6 +206544,7 @@ const CTPRODUCTS = [
    "ing:petrolatum",
    "claim:brightening",
    "claim:hydrating",
+   "claim:chapped-lips",
    "skin:dry",
    "aud:unisex",
    "size:travel",
@@ -205910,6 +206646,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:cracked-heels",
    "claim:overnight",
+   "claim:chapped-lips",
    "skin:dry",
    "aud:unisex",
    "size:travel",
@@ -206218,6 +206955,7 @@ const CTPRODUCTS = [
    "ing:rose",
    "claim:brightening",
    "claim:hydrating",
+   "claim:chapped-lips",
    "skin:dry",
    "aud:unisex",
    "size:travel",
@@ -206703,7 +207441,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Lotus Herbals — Established / listed Indian FMCG house",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/613xtodc7sL._AC_UL320_.jpg"
@@ -206715,6 +207454,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:cream",
    "spf:15",
+   "water:unstated",
    "claim:dark-spots",
    "claim:oil-control",
    "claim:hydrating",
@@ -209582,7 +210322,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Lotus Herbals — Established / listed Indian FMCG house",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51FkuOUdOmL._AC_UL320_.jpg"
@@ -209595,6 +210336,7 @@ const CTPRODUCTS = [
    "format:cream",
    "spf:15",
    "pa:+++",
+   "water:unstated",
    "claim:dark-spots",
    "claim:anti-aging",
    "claim:acne",
@@ -212504,7 +213246,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Procter & Gamble — Global FMCG or beauty group",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71Fz0oBzjVL._AC_UL320_.jpg"
@@ -212517,6 +213260,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:kit",
    "spf:15",
+   "water:unstated",
    "ing:niacinamide",
    "claim:brightening",
    "claim:hydrating",
@@ -218823,7 +219567,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61VFC+K2LvL._AC_UL320_.jpg"
@@ -218836,6 +219581,7 @@ const CTPRODUCTS = [
    "format:cream",
    "spf:15",
    "pa:++",
+   "water:unstated",
    "claim:anti-aging",
    "claim:hydrating",
    "claim:ayurvedic",
@@ -218924,7 +219670,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Heavenly Secrets — Indian D2C brand with its own product company",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/617y5fOH7gL._AC_UL320_.jpg"
@@ -218936,6 +219683,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:cream",
    "spf:50",
+   "water:unstated",
    "claim:korean",
    "claim:spf-claim",
    "skin:oily",
@@ -219025,7 +219773,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "L'Oréal — Global FMCG or beauty group",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51MS4k2nCQL._AC_UL320_.jpg"
@@ -219037,6 +219786,7 @@ const CTPRODUCTS = [
    "scope:unstated",
    "format:cream",
    "spf:15",
+   "water:unstated",
    "ing:glycolic-acid",
    "claim:brightening",
    "claim:dark-spots",
@@ -219126,7 +219876,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Galderma — Dermatology / pharmaceutical manufacturer",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61Bz472KbZL._AC_UL320_.jpg"
@@ -219138,6 +219889,7 @@ const CTPRODUCTS = [
    "scope:unstated",
    "format:cream",
    "spf:15",
+   "water:unstated",
    "ing:niacinamide",
    "claim:brightening",
    "claim:dark-spots",
@@ -219228,7 +219980,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.9★ from 0 ratings"
+   "buyerEvidence": "3.9★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61fwt3zUTvL._AC_UL320_.jpg"
@@ -219241,6 +219994,7 @@ const CTPRODUCTS = [
    "format:cream",
    "spf:50",
    "pa:++++",
+   "water:unstated",
    "ing:kumkumadi",
    "ing:gold",
    "claim:brightening",
@@ -219637,7 +220391,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Procter & Gamble — Global FMCG or beauty group",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51Eyrw50UJL._AC_UL320_.jpg"
@@ -219649,6 +220404,7 @@ const CTPRODUCTS = [
    "scope:unstated",
    "format:cream",
    "spf:15",
+   "water:unstated",
    "ing:niacinamide",
    "ing:green-tea",
    "ing:vitamin-b5-panthenol",
@@ -219740,7 +220496,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Procter & Gamble — Global FMCG or beauty group",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51it+rW1w3L._AC_UL320_.jpg"
@@ -219752,6 +220509,7 @@ const CTPRODUCTS = [
    "scope:unstated",
    "format:cream",
    "spf:15",
+   "water:unstated",
    "ing:niacinamide",
    "ing:vitamin-e",
    "claim:brightening",
@@ -220030,7 +220788,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "L'Oréal — Global FMCG or beauty group",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/4124pOpVg-L._SL1000_.jpg",
@@ -220047,6 +220806,7 @@ const CTPRODUCTS = [
    "format:cream",
    "spf:30",
    "pa:++",
+   "water:unstated",
    "ing:retinol",
    "ing:centella-cica",
    "claim:brightening",
@@ -220137,7 +220897,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Lotus Herbals — Established / listed Indian FMCG house",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61IqARnMxRL._AC_UL320_.jpg"
@@ -220150,6 +220911,7 @@ const CTPRODUCTS = [
    "format:cream",
    "spf:15",
    "pa:+++",
+   "water:unstated",
    "ing:vitamin-c",
    "claim:brightening",
    "claim:hydrating",
@@ -220732,7 +221494,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41Bztd-SjmL._AC_UL320_.jpg"
@@ -220744,6 +221507,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:cream",
    "spf:15",
+   "water:unstated",
    "ing:vitamin-c",
    "claim:spf-claim",
    "aud:unisex",
@@ -221002,7 +221766,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61hRBq1N4pL._AC_UL320_.jpg"
@@ -221015,6 +221780,7 @@ const CTPRODUCTS = [
    "format:cream",
    "spf:15",
    "pa:++",
+   "water:unstated",
    "claim:anti-aging",
    "claim:spf-claim",
    "aud:unisex",
@@ -221301,7 +222067,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61LaIn+ROTL._AC_UL320_.jpg"
@@ -221314,6 +222081,7 @@ const CTPRODUCTS = [
    "format:cream",
    "spf:15",
    "pa:++",
+   "water:unstated",
    "ing:saffron",
    "ing:kumkumadi",
    "claim:brightening",
@@ -221794,7 +222562,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/618OdZ9vtBL._AC_UL320_.jpg"
@@ -221806,6 +222575,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:cream",
    "spf:30",
+   "water:unstated",
    "claim:brightening",
    "claim:hydrating",
    "claim:ayurvedic",
@@ -221893,7 +222663,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Forest Essentials (Mountain Valley Springs) — Established / listed Indian FMCG house",
-   "buyerEvidence": "4.4★ from 0 ratings"
+   "buyerEvidence": "4.4★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61mNSEOhpuL._AC_UL320_.jpg"
@@ -221905,6 +222676,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:cream",
    "spf:30",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:zinc",
@@ -221996,7 +222768,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.9★ from 0 ratings"
+   "buyerEvidence": "3.9★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61+2OGlLsEL._AC_UL320_.jpg"
@@ -222009,6 +222782,7 @@ const CTPRODUCTS = [
    "format:cream",
    "spf:30",
    "pa:++++",
+   "water:unstated",
    "ing:ceramides",
    "claim:brightening",
    "claim:hydrating",
@@ -222201,7 +222975,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.9★ from 0 ratings"
+   "buyerEvidence": "3.9★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61wFfSxUO-L._AC_UL320_.jpg"
@@ -222214,6 +222989,7 @@ const CTPRODUCTS = [
    "format:cream",
    "spf:30",
    "pa:++++",
+   "water:unstated",
    "ing:ceramides",
    "claim:brightening",
    "claim:hydrating",
@@ -222608,7 +223384,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51H-1t2NUUL._AC_UL320_.jpg"
@@ -222620,6 +223397,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:cream",
    "spf:15",
+   "water:unstated",
    "ing:niacinamide",
    "claim:brightening",
    "claim:dark-spots",
@@ -223300,7 +224078,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Forest Essentials (Mountain Valley Springs) — Established / listed Indian FMCG house",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61n0y98nQXL._AC_UL320_.jpg"
@@ -223313,6 +224092,7 @@ const CTPRODUCTS = [
    "format:cream",
    "spf:30",
    "pa:++",
+   "water:unstated",
    "ing:gold",
    "claim:brightening",
    "claim:anti-aging",
@@ -223703,7 +224483,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "L'Oréal — Global FMCG or beauty group",
-   "buyerEvidence": "4.5★ from 0 ratings"
+   "buyerEvidence": "4.5★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51miSqA6OeS._AC_UL320_.jpg"
@@ -223715,6 +224496,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:cream",
    "spf:15",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "claim:anti-aging",
    "claim:spf-claim",
@@ -223901,7 +224683,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
-   "buyerEvidence": "3.7★ from 0 ratings"
+   "buyerEvidence": "3.7★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/612uKUJUOpL._AC_UL320_.jpg"
@@ -223914,6 +224697,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:oil",
    "spf:30",
+   "water:unstated",
    "ing:saffron",
    "ing:sandalwood",
    "ing:kumkumadi",
@@ -224111,7 +224895,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71-vMrh4h0L._AC_UL320_.jpg"
@@ -224124,6 +224909,7 @@ const CTPRODUCTS = [
    "format:cream",
    "spf:30",
    "pa:++",
+   "water:unstated",
    "claim:hydrating",
    "claim:ayurvedic",
    "claim:spf-claim",
@@ -224509,7 +225295,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "L'Oréal — Global FMCG or beauty group",
-   "buyerEvidence": "4.5★ from 0 ratings"
+   "buyerEvidence": "4.5★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71BKUNomKeL._AC_UL320_.jpg"
@@ -224521,6 +225308,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:cream",
    "spf:30",
+   "water:unstated",
    "ing:retinol",
    "claim:anti-aging",
    "claim:hydrating",
@@ -224917,7 +225705,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/81InP5ws-GL._AC_UL320_.jpg"
@@ -224929,6 +225718,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:cream",
    "spf:50+",
+   "water:unstated",
    "claim:brightening",
    "claim:dark-spots",
    "claim:anti-aging",
@@ -225019,7 +225809,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.7★ from 0 ratings"
+   "buyerEvidence": "3.7★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61g2I-H8w2L._AC_UL320_.jpg"
@@ -225031,6 +225822,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:cream",
    "spf:30",
+   "water:unstated",
    "ing:retinol",
    "ing:collagen",
    "claim:anti-aging",
@@ -225122,7 +225914,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71AviNPGCDL._AC_UL320_.jpg"
@@ -225134,6 +225927,7 @@ const CTPRODUCTS = [
    "scope:unstated",
    "format:cream",
    "spf:15",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:rose",
    "claim:anti-aging",
@@ -225325,7 +226119,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "CavinKare — Established / listed Indian FMCG house",
-   "buyerEvidence": "3.3★ from 0 ratings"
+   "buyerEvidence": "3.3★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41E-GoJgxSL._AC_UL320_.jpg"
@@ -225338,6 +226133,7 @@ const CTPRODUCTS = [
    "format:cream",
    "spf:30",
    "pa:+++",
+   "water:unstated",
    "claim:hydrating",
    "claim:spf-claim",
    "skin:all",
@@ -225426,7 +226222,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Oriflame Cosmetics — Global FMCG or beauty group",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51-MrOvD1WL._AC_UL320_.jpg"
@@ -225438,6 +226235,7 @@ const CTPRODUCTS = [
    "scope:unstated",
    "format:cream",
    "spf:15",
+   "water:unstated",
    "claim:brightening",
    "claim:spf-claim",
    "aud:unisex",
@@ -225617,7 +226415,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Lotus Herbals — Established / listed Indian FMCG house",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61cRSOpTrKL._AC_UL320_.jpg"
@@ -225629,6 +226428,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:cream",
    "spf:15",
+   "water:unstated",
    "claim:anti-aging",
    "claim:hydrating",
    "claim:spf-claim",
@@ -225811,7 +226611,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "O3+ Professional — Indian D2C brand with its own product company",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51ivWwMF1pS._AC_UL320_.jpg"
@@ -225823,6 +226624,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:cream",
    "spf:30",
+   "water:unstated",
    "claim:brightening",
    "claim:dark-spots",
    "claim:whitening-claim",
@@ -226007,7 +226809,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.8★ from 0 ratings"
+   "buyerEvidence": "3.8★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61WA9UQxyCL._AC_UL320_.jpg"
@@ -226019,6 +226822,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:cream",
    "spf:50+",
+   "water:unstated",
    "claim:brightening",
    "claim:acne",
    "claim:pores",
@@ -226107,7 +226911,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Beiersdorf — Global FMCG or beauty group",
-   "buyerEvidence": "3.8★ from 0 ratings"
+   "buyerEvidence": "3.8★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51m7YlaVJ9L._AC_UL320_.jpg"
@@ -226119,6 +226924,7 @@ const CTPRODUCTS = [
    "scope:unstated",
    "format:cream",
    "spf:50",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
    "ing:thiamidol",
@@ -226406,7 +227212,8 @@ const CTPRODUCTS = [
    "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/516WyAcZ2kL._AC_UL320_.jpg"
@@ -226418,6 +227225,7 @@ const CTPRODUCTS = [
    "scope:unstated",
    "format:cream",
    "spf:30",
+   "water:unstated",
    "ing:turmeric",
    "ing:saffron",
    "ing:ubtan",
@@ -226819,7 +227627,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "L'Oréal — Global FMCG or beauty group",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/512OkvDCA8L._AC_UL320_.jpg"
@@ -226831,6 +227640,7 @@ const CTPRODUCTS = [
    "scope:unstated",
    "format:cream",
    "spf:30",
+   "water:unstated",
    "ing:retinol",
    "claim:anti-aging",
    "claim:spf-claim",
@@ -227017,7 +227827,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Oriflame Cosmetics — Global FMCG or beauty group",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41N5ygjyweL._AC_UL320_.jpg"
@@ -227029,6 +227840,7 @@ const CTPRODUCTS = [
    "scope:unstated",
    "format:cream",
    "spf:15",
+   "water:unstated",
    "claim:anti-aging",
    "claim:spf-claim",
    "aud:unisex",
@@ -227210,7 +228022,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "VLCC Health Care — Established / listed Indian FMCG house",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51E6RWAVJYL._AC_UL320_.jpg"
@@ -227224,6 +228037,7 @@ const CTPRODUCTS = [
    "format:oil",
    "spf:15",
    "pa:+++",
+   "water:unstated",
    "ing:lavender",
    "claim:brightening",
    "claim:dark-spots",
@@ -227993,7 +228807,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "VLCC Health Care — Established / listed Indian FMCG house",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61tqqqz16-L._AC_UL320_.jpg"
@@ -228005,6 +228820,7 @@ const CTPRODUCTS = [
    "scope:unstated",
    "format:cream",
    "spf:30",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:collagen",
    "ing:green-tea",
@@ -228393,7 +229209,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51QIVETJglL._AC_UL320_.jpg"
@@ -228406,6 +229223,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:oil",
    "spf:15",
+   "water:unstated",
    "claim:brightening",
    "claim:whitening-claim",
    "claim:hydrating",
@@ -228788,7 +229606,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51eG2CQdPOL._AC_UL320_.jpg"
@@ -228800,6 +229619,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:cream",
    "spf:50+",
+   "water:unstated",
    "claim:brightening",
    "claim:acne",
    "claim:pores",
@@ -229502,7 +230322,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51J3QAVX9VL._AC_UL320_.jpg"
@@ -229515,6 +230336,7 @@ const CTPRODUCTS = [
    "format:cream",
    "spf:50+",
    "pa:++++",
+   "water:unstated",
    "claim:dark-spots",
    "claim:spf-claim",
    "aud:unisex",
@@ -229599,7 +230421,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Oriflame Cosmetics — Global FMCG or beauty group",
-   "buyerEvidence": "3.9★ from 0 ratings"
+   "buyerEvidence": "3.9★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51hw50cHjJL._AC_UL320_.jpg"
@@ -229611,6 +230434,7 @@ const CTPRODUCTS = [
    "scope:unstated",
    "format:cream",
    "spf:15",
+   "water:unstated",
    "claim:anti-aging",
    "claim:spf-claim",
    "aud:unisex",
@@ -229796,7 +230620,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Oriflame Cosmetics — Global FMCG or beauty group",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51riJaDyoxL._AC_UL320_.jpg"
@@ -229807,6 +230632,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
+   "water:unstated",
    "claim:brightening",
    "claim:hydrating",
    "claim:spf-claim",
@@ -229894,7 +230720,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Heavenly Secrets — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/514QFenfNdL._AC_UL320_.jpg"
@@ -229907,6 +230734,7 @@ const CTPRODUCTS = [
    "format:oil",
    "spf:30",
    "pa:+++",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:rosehip",
    "claim:brightening",
@@ -230000,7 +230828,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61jovWJldNL._AC_UL320_.jpg"
@@ -230011,6 +230840,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
+   "water:unstated",
    "claim:hydrating",
    "claim:lightweight",
    "free:derm",
@@ -230097,7 +230927,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Lotus Herbals — Established / listed Indian FMCG house",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/514svWF2q2L._AC_UL320_.jpg"
@@ -230109,6 +230940,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:cream",
    "spf:15",
+   "water:unstated",
    "claim:brightening",
    "claim:dark-spots",
    "claim:acne",
@@ -230792,7 +231624,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.6★ from 0 ratings"
+   "buyerEvidence": "4.6★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61bJ9WK03kL._AC_UL320_.jpg"
@@ -230804,6 +231637,7 @@ const CTPRODUCTS = [
    "scope:unstated",
    "format:cream",
    "spf:15",
+   "water:unstated",
    "ing:centella-cica",
    "claim:hydrating",
    "claim:soothing",
@@ -233054,6 +233888,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:sleeping-mask",
+   "format:lip-mask",
    "ing:vitamin-c",
    "claim:hydrating",
    "claim:korean",
@@ -235626,7 +236461,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51cHjaZ14uL._AC_UL320_.jpg"
@@ -235639,6 +236475,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:serum",
    "spf:30",
+   "water:unstated",
    "ing:retinol",
    "ing:collagen",
    "ing:caffeine",
@@ -242199,17 +243036,17 @@ const CTPRODUCTS = [
   "capacityLine": "29 ml",
   "materialLine": "salicylic acid (BHA) + mandelic acid + PHA",
   "featureLine": "Scrub / exfoliant · ₹341/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Amazon listing. Scored from its published INCI list (Amazon.in listing — Important information › Ingredients): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
+   "glycerin high on the INCI list (strong evidence); butyrospermum parkii butter high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list",
    "Made by Galderma (dermatology / pharma maker)"
   ],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 8,
+   "ingredients": 9.9,
+   "skin": 10,
+   "trust": 10,
    "experience": 2.6
   },
   "fullSpec": {
@@ -242226,13 +243063,14 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.2/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "AQUA, GLYCERIN, ISOPROPYL PALMITATE, BUTYROSPERMUM PARKII BUTTER, CETEARYL ALCOHOL, GLUCONOLACTONE, GLYCERYL STEARATE, PEG-100 STEARATE, DIMETHICONE, MANDELIC ACID, TOCOPHERYL ACETATE, SODIUM HYDROXIDE, PANTHENOL, E T H Y L H E X Y L G L Y C E R I N , NIACINAMIDE, PHENOXYETHANOL, XANTHAN GUM, DISODIUM EDTA, SALICYLIC ACID, PANTOLACTONE, CITRIC ACID.",
+   "evidenceActives": "glycerin (#2 on list, strong evidence); butyrospermum parkii butter (#4 on list, moderate evidence); dimethicone (#8 on list, moderate evidence); tocopheryl acetate (#10 on list, moderate evidence); panthenol (#12 on list, moderate evidence); niacinamide (#14 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Galderma — Dermatology / pharmaceutical manufacturer",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Irritation — panthenol #12 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61uwM5vQhaL._AC_UL320_.jpg"
@@ -242257,7 +243095,9 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
-   "inci:none",
+   "target:irritation",
+   "inci:full",
+   "inci:no-fragrance",
    "inci:pharma-maker"
   ],
   "filters": {
@@ -242267,25 +243107,112 @@ const CTPRODUCTS = [
    "derm": true,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "listing",
    "pharma": true
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
+   "inci": "full",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
-   "inciText": null,
+   "inciText": "AQUA, GLYCERIN, ISOPROPYL PALMITATE, BUTYROSPERMUM PARKII BUTTER, CETEARYL ALCOHOL, GLUCONOLACTONE, GLYCERYL STEARATE, PEG-100 STEARATE, DIMETHICONE, MANDELIC ACID, TOCOPHERYL ACETATE, SODIUM HYDROXIDE, PANTHENOL, E T H Y L H E X Y L G L Y C E R I N , NIACINAMIDE, PHENOXYETHANOL, XANTHAN GUM, DISODIUM EDTA, SALICYLIC ACID, PANTOLACTONE, CITRIC ACID.",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "gluconolactone",
+     "grade": "B",
+     "position": 6,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 8,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "mandelic acid",
+     "grade": "B",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 10,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 12,
+     "core": true,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 14,
+     "core": true,
+     "trace": true,
+     "src": "niacinamide"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 18,
+     "core": false,
+     "trace": true,
+     "src": "bha"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 20,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "butyrospermum parkii butter",
+    "dimethicone",
+    "panthenol",
+    "niacinamide"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -243592,7 +244519,8 @@ const CTPRODUCTS = [
    "evidenceActives": "glycerin (#11 on list, strong evidence); tocopherol (#16 on list, moderate evidence)",
    "safetyFlags": "Added fragrance (parfum): parfum/fragrance (−1.5); Drying alcohol high in the list: alcohol denat (−1)",
    "maker": "L'Oréal Dermatological Beauty — Dermatology / pharmaceutical manufacturer",
-   "buyerEvidence": "4.7★ from 0 ratings"
+   "buyerEvidence": "4.7★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51R4g0pnmZL._AC_UL320_.jpg"
@@ -243607,6 +244535,7 @@ const CTPRODUCTS = [
    "format:kit",
    "spf:50+",
    "sun:chemical",
+   "water:unstated",
    "claim:acne",
    "claim:oil-control",
    "claim:broad-spectrum",
@@ -248984,7 +249913,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.9★ from 0 ratings"
+   "buyerEvidence": "4.9★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71u0r6s5EFL._AC_UL320_.jpg"
@@ -248996,6 +249926,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:cream",
    "spf:50",
+   "water:unstated",
    "ing:vitamin-e",
    "claim:oil-control",
    "claim:hydrating",
@@ -250627,7 +251558,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51eiZX+lGwL._SL1500_.jpg",
@@ -250644,6 +251576,7 @@ const CTPRODUCTS = [
    "format:cream",
    "spf:30",
    "pa:+++",
+   "water:unstated",
    "ing:retinol",
    "ing:salicylic-acid-bha",
    "ing:ubtan",
@@ -252160,7 +253093,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): perfume (−1.5); EU-declared fragrance allergen: alpha-isomethyl ionone, citronellol, linalool (−1.5)",
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
    "buyerEvidence": "4.2★ from 0 ratings",
-   "concernBasis": "Acne — niacinamide #18 on INCI; Dark spots — niacinamide #18 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #18 on INCI; Dark spots — niacinamide #18 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41lw3DxHzmL._SL1000_.jpg",
@@ -252176,6 +253110,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:cream",
    "spf:30",
+   "water:unstated",
    "ing:ceramides",
    "ing:almond",
    "ing:vitamin-e",
@@ -254541,7 +255476,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51cLVxzoSDL._SL1080_.jpg",
@@ -254558,6 +255494,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:aloe-vera",
    "ing:shea-butter",
@@ -258984,7 +259921,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Micro Labs — Dermatology / pharmaceutical manufacturer",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61gDTItVtKL._SL1500_.jpg"
@@ -258996,6 +259934,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:cream",
    "format:kit",
+   "water:unstated",
    "ing:glycolic-acid",
    "claim:brightening",
    "claim:dark-spots",
@@ -259269,16 +260208,18 @@ const CTPRODUCTS = [
   "capacityLine": "20 g",
   "materialLine": "niacinamide + kojic acid + alpha arbutin",
   "featureLine": "Cream / gel · ₹1295/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Dr. Sakhiya's official website (drsakhiyas.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "niacinamide high on the INCI list (strong evidence); dimethicone high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 4.6,
+   "skin": 7,
+   "trust": 5.5,
    "experience": 2.6
   },
   "fullSpec": {
@@ -259295,13 +260236,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.2/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Dr. Sakhiya's official website (drsakhiyas.com) — product page › Ingredients",
+   "inciSourceUrl": "https://drsakhiyas.com/products/kojic-acid-cream",
+   "inciMatchedName": "Dr. Sakhiya's Kojiclear - Skin Lightening & Brightening Cream with Kojic Acid, Glutathione, Niacinamide and Alpha Arbutin (name match 97%)",
+   "inciList": "Aqua, Glutathione, Sepi White MSH, Sepi Calm, Kojic Acid, Tranexamic Acid, Caprylic/Capric Triglyceride, Cetearyl Alcohol, PEG-100 Stearate (and) Glyceryl Stearate, Niacinamide, Tetrahydrocurcumin, Alpha Bisabolol, Pterocarpus Marsupium Bark Extract, Tetrahydropiperine Arbutin, Dexpanthenol, Dimethicone, Pentylene Glycol, C- 12/C-15 Alkyl Benzoate, Arachidyl Alcohol (and) Behenyl Alcohol (and) Arachidyl Glucoside, Ethoxydiglycol, Diacetyl Boldine, Cetearyl",
+   "evidenceActives": "niacinamide (#10 on list, strong evidence); dimethicone (#16 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #10 on INCI; Dark spots — kojic acid #5 on INCI, tranexamic acid #6 on INCI, niacinamide #10 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61xPp+kWNpL._SL1500_.jpg",
@@ -259329,7 +260273,11 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "target:acne",
+   "target:dark-spots",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -259338,25 +260286,69 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Dr. Sakhiya's official website (drsakhiyas.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://drsakhiyas.com/products/kojic-acid-cream",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Dr. Sakhiya's Kojiclear - Skin Lightening & Brightening Cream with Kojic Acid, Glutathione, Niacinamide and Alpha Arbutin",
+   "inciMatchScore": 0.97,
+   "inciText": "Aqua, Glutathione, Sepi White MSH, Sepi Calm, Kojic Acid, Tranexamic Acid, Caprylic/Capric Triglyceride, Cetearyl Alcohol, PEG-100 Stearate (and) Glyceryl Stearate, Niacinamide, Tetrahydrocurcumin, Alpha Bisabolol, Pterocarpus Marsupium Bark Extract, Tetrahydropiperine Arbutin, Dexpanthenol, Dimethicone, Pentylene Glycol, C- 12/C-15 Alkyl Benzoate, Arachidyl Alcohol (and) Behenyl Alcohol (and) Arachidyl Glucoside, Ethoxydiglycol, Diacetyl Boldine, Cetearyl",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 0.88,
+   "actives": [
+    {
+     "name": "glutathione",
+     "grade": "C",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "pigment"
+    },
+    {
+     "name": "kojic acid",
+     "grade": "B",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "pigment"
+    },
+    {
+     "name": "tranexamic acid",
+     "grade": "B",
+     "position": 6,
+     "core": false,
+     "trace": false,
+     "src": "tranexamic"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 10,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 16,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    }
+   ],
+   "support": [
+    "niacinamide",
+    "dimethicone"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -260308,7 +261300,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
-   "buyerEvidence": "4.4★ from 0 ratings"
+   "buyerEvidence": "4.4★ from 0 ratings",
+   "waterResistance": "sweat resistant (per listing — not tested here, not scored)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51c42aoYEeL._AC_UL320_.jpg"
@@ -260321,6 +261314,7 @@ const CTPRODUCTS = [
    "format:cream",
    "spf:50",
    "pa:+++",
+   "water:sweat",
    "ing:ceramides",
    "ing:peptides",
    "ing:milk",
@@ -268042,7 +269036,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Galderma — Dermatology / pharmaceutical manufacturer",
-   "buyerEvidence": "3.9★ from 21,855 ratings"
+   "buyerEvidence": "3.9★ from 21,855 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51U1TLeGMYL._AC_UL320_.jpg"
@@ -268055,6 +269050,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:pack",
    "spf:50",
+   "water:unstated",
    "claim:hydrating",
    "claim:spf-claim",
    "aud:unisex",
@@ -268448,7 +269444,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Galderma — Dermatology / pharmaceutical manufacturer",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61nSwHMTRtL._SL1500_.jpg"
@@ -268462,6 +269459,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:kit",
    "spf:50",
+   "water:resistant",
    "ing:niacinamide",
    "ing:benzoyl-peroxide",
    "ing:vitamin-e",
@@ -268559,7 +269557,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Galderma — Dermatology / pharmaceutical manufacturer",
-   "buyerEvidence": "4.7★ from 0 ratings"
+   "buyerEvidence": "4.7★ from 0 ratings",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/5196JBQ2ZUL._AC_UL320_.jpg"
@@ -268572,6 +269571,7 @@ const CTPRODUCTS = [
    "format:lotion",
    "format:kit",
    "spf:50",
+   "water:resistant",
    "claim:hydrating",
    "claim:water-resistant",
    "skin:combination",
@@ -269575,7 +270575,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.8★ from 0 ratings"
+   "buyerEvidence": "3.8★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61+PM4kfX1L._AC_UL320_.jpg"
@@ -269587,6 +270588,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:lotion",
    "spf:15",
+   "water:unstated",
    "claim:brightening",
    "claim:de-tan",
    "claim:dark-spots",
@@ -269677,7 +270679,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/414UradAgZL._AC_UL320_.jpg"
@@ -269689,6 +270692,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:lotion",
    "spf:15",
+   "water:unstated",
    "claim:brightening",
    "claim:de-tan",
    "claim:dark-spots",
@@ -269875,7 +270879,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.4★ from 0 ratings"
+   "buyerEvidence": "3.4★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71Ct6TII3PL._AC_UL320_.jpg"
@@ -269887,6 +270892,7 @@ const CTPRODUCTS = [
    "scope:unstated",
    "format:cream",
    "spf:50",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:kojic-acid",
    "ing:vitamin-e",
@@ -270281,7 +271287,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Micro Labs — Dermatology / pharmaceutical manufacturer",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71zThvoBNBL._SL1500_.jpg",
@@ -270297,6 +271304,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:cream",
    "format:kit",
+   "water:unstated",
    "ing:glycolic-acid",
    "claim:brightening",
    "claim:dark-spots",
@@ -271623,7 +272631,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51ZPYMRYKoL._AC_UL320_.jpg"
@@ -271636,6 +272645,7 @@ const CTPRODUCTS = [
    "format:serum",
    "spf:50",
    "pa:++++",
+   "water:unstated",
    "ing:niacinamide",
    "ing:chamomile",
    "claim:brightening",
@@ -271735,7 +272745,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Cantabria Labs — Dermatology / pharmaceutical manufacturer",
-   "buyerEvidence": "4.5★ from 0 ratings"
+   "buyerEvidence": "4.5★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61-MMvgc2HL._AC_UL320_.jpg"
@@ -271748,6 +272759,7 @@ const CTPRODUCTS = [
    "format:gel",
    "format:cream",
    "spf:50",
+   "water:unstated",
    "claim:tinted",
    "claim:spf-claim",
    "aud:unisex",
@@ -271834,7 +272846,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.7★ from 0 ratings"
+   "buyerEvidence": "3.7★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41NaXofHcIL._AC_UL320_.jpg"
@@ -271846,6 +272859,7 @@ const CTPRODUCTS = [
    "scope:unstated",
    "spf:50",
    "pa:++++",
+   "water:unstated",
    "ing:peptides",
    "ing:copper-peptide",
    "claim:hydrating",
@@ -271939,7 +272953,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61EpsVhhS3L._AC_UL320_.jpg"
@@ -271952,6 +272967,7 @@ const CTPRODUCTS = [
    "format:gel",
    "spf:60",
    "pa:++++",
+   "water:unstated",
    "ing:vitamin-b5-panthenol",
    "claim:oil-control",
    "claim:hydrating",
@@ -272045,7 +273061,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51K9nyTWQIL._AC_UL320_.jpg"
@@ -272057,6 +273074,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "spf:50",
+   "water:unstated",
    "claim:broad-spectrum",
    "claim:spf-claim",
    "aud:unisex",
@@ -272113,14 +273131,14 @@ const CTPRODUCTS = [
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "No ingredient list published on the listing",
+   "Only 1 ingredient named — formula unscored",
    "Maker not verified — no parent company found",
    "No buyer ratings yet"
   ],
   "scores": {
    "ingredients": 0,
    "skin": 0,
-   "trust": 3.5,
+   "trust": 3.8,
    "experience": 0
   },
   "fullSpec": {
@@ -272137,9 +273155,9 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: Lactic Acid",
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
@@ -272162,7 +273180,7 @@ const CTPRODUCTS = [
    "size:standard",
    "rating:none",
    "store:amazon",
-   "inci:none"
+   "inci:partial"
   ],
   "filters": {
    "actives": true,
@@ -272171,23 +273189,23 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
+   "inci": "partial",
    "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
    "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
+   "inciUnverified": "Lactic Acid",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
    "declarationConfidence": null,
-   "recognised": null,
+   "recognised": 1,
    "actives": [],
    "support": [],
    "formulaNotes": [],
@@ -274792,7 +275810,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "2★ from 0 ratings"
+   "buyerEvidence": "2★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51ayKMbRz4L._SL1500_.jpg",
@@ -274803,6 +275822,7 @@ const CTPRODUCTS = [
   "title": "Ultra Mild Face & Body Moisturizer with SPF for Long Lasting Hydration & Skin Protection",
   "tags": [
    "scope:both",
+   "water:unstated",
    "claim:oil-control",
    "claim:hydrating",
    "claim:broad-spectrum",
@@ -276019,6 +277039,7 @@ const CTPRODUCTS = [
    "ing:cocoa-butter",
    "ing:vitamin-e",
    "ing:glycerin",
+   "ing:beeswax",
    "claim:hydrating",
    "claim:barrier",
    "claim:long-lasting",
@@ -278101,7 +279122,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Ajanta Pharma — Dermatology / pharmaceutical manufacturer",
-   "buyerEvidence": "4.7★ from 0 ratings"
+   "buyerEvidence": "4.7★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61iHWzcNd+L._AC_UL320_.jpg"
@@ -278114,6 +279136,7 @@ const CTPRODUCTS = [
    "format:cream",
    "spf:50+",
    "pa:+++",
+   "water:unstated",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "claim:brightening",
@@ -278311,7 +279334,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/416hHQe7ouL._AC_UL320_.jpg"
@@ -278324,6 +279348,7 @@ const CTPRODUCTS = [
    "format:cream",
    "spf:50+",
    "pa:+++",
+   "water:unstated",
    "claim:brightening",
    "claim:hydrating",
    "claim:spf-claim",
@@ -282145,7 +283170,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Forest Essentials (Mountain Valley Springs) — Established / listed Indian FMCG house",
-   "buyerEvidence": "4.4★ from 0 ratings"
+   "buyerEvidence": "4.4★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61w0uxDbLNL._AC_UL320_.jpg"
@@ -282159,6 +283185,7 @@ const CTPRODUCTS = [
    "format:peel",
    "spf:30",
    "pa:++",
+   "water:unstated",
    "ing:sandalwood",
    "claim:hydrating",
    "claim:ayurvedic",
@@ -282347,7 +283374,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51etiA1aMfL._SL1080_.jpg",
@@ -282364,6 +283392,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:kit",
    "spf:15",
+   "water:unstated",
    "claim:pores",
    "claim:oil-control",
    "claim:hydrating",
@@ -282455,7 +283484,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "L'Oréal — Global FMCG or beauty group",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41psf-mlTzL._SL1001_.jpg",
@@ -282473,6 +283503,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:peel",
    "spf:15",
+   "water:unstated",
    "ing:glycolic-acid",
    "claim:brightening",
    "claim:dark-spots",
@@ -283242,16 +284273,18 @@ const CTPRODUCTS = [
   "capacityLine": "50 ml",
   "materialLine": "niacinamide",
   "featureLine": "Cream / gel · ₹4248/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. Scored from its published INCI list (Amazon.in listing — Important information › Ingredients): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence); niacinamide high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 6.4,
+   "skin": 7,
+   "trust": 5.5,
    "experience": 2.6
   },
   "fullSpec": {
@@ -283268,13 +284301,14 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.2/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Water, Melaleuca Alternifolia (tea Tree) Leaf Water, Propanediol, Glycerin, 1, 2-hexanediol, Hydrogenated Polydecene, Vinyl Dimet Hicone, C14-22 Alcohols, Niacinamide, Caprylic/capric Triglyceri De, Panthenol, Dicaprylyl Carbonate, Butylene Glycol, Ammonium Acryloyldimethyltaurate/vp Copolymer, Caprylyl Methicone, Polymethylsilsesquioxane, C12-20 Alkyl Glucoside, Hydroxyacetop Henone, Acrylates/c10-30 Alkyl Acrylate Crosspolymer, Polyquate Rnium-51, ethylhexylglycerin, Tromethamine, Sodium Hyaluronate, Sodium Stearoyl Glutamate, Coptis Japonica Root Extract, Centella Asiatica Leaf Water, Beta-glucan, Resveratrol, Hydrolyzed Hyaluro Nic Acid, Camellia Sinensis Leaf Water, Tocopherol, Madecassoside, Sodium Dna, Centella Asiatica Extract, Ceramide Np, Tannic Acid, Disodium Edta, Sodium Phytate",
+   "evidenceActives": "glycerin (#4 on list, strong evidence); niacinamide (#8 on list, strong evidence); panthenol (#10 on list, moderate evidence); sodium hyaluronate (#21 on list, moderate evidence); beta-glucan (#25 on list, moderate evidence); resveratrol (#26 on list, moderate evidence); hydrolyzed hyaluronic acid (#27 on list, moderate evidence); tocopherol (#29 on list, moderate evidence); madecassoside (#30 on list, moderate evidence); centella asiatica extract (#32 on list, moderate evidence); ceramide np (#33 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #8 on INCI; Dark spots — niacinamide #8 on INCI; Irritation — panthenol #10 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51ANDu4OdpL._SL1080_.jpg",
@@ -283290,6 +284324,7 @@ const CTPRODUCTS = [
    "format:kit",
    "ing:niacinamide",
    "ing:vitamin-b5-panthenol",
+   "ing:pdrn-polynucleotide",
    "claim:dark-spots",
    "claim:acne",
    "claim:hydrating",
@@ -283304,7 +284339,11 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
+   "inci:full",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -283313,25 +284352,131 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "listing",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
+   "inci": "full",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
-   "inciText": null,
+   "inciText": "Water, Melaleuca Alternifolia (tea Tree) Leaf Water, Propanediol, Glycerin, 1, 2-hexanediol, Hydrogenated Polydecene, Vinyl Dimet Hicone, C14-22 Alcohols, Niacinamide, Caprylic/capric Triglyceri De, Panthenol, Dicaprylyl Carbonate, Butylene Glycol, Ammonium Acryloyldimethyltaurate/vp Copolymer, Caprylyl Methicone, Polymethylsilsesquioxane, C12-20 Alkyl Glucoside, Hydroxyacetop Henone, Acrylates/c10-30 Alkyl Acrylate Crosspolymer, Polyquate Rnium-51, ethylhexylglycerin, Tromethamine, Sodium Hyaluronate, Sodium Stearoyl Glutamate, Coptis Japonica Root Extract, Centella Asiatica Leaf Water, Beta-glucan, Resveratrol, Hydrolyzed Hyaluro Nic Acid, Camellia Sinensis Leaf Water, Tocopherol, Madecassoside, Sodium Dna, Centella Asiatica Extract, Ceramide Np, Tannic Acid, Disodium Edta, Sodium Phytate",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 0.92,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 8,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 10,
+     "core": true,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 21,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "beta-glucan",
+     "grade": "B",
+     "position": 25,
+     "core": true,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "resveratrol",
+     "grade": "B",
+     "position": 26,
+     "core": true,
+     "trace": true,
+     "src": "greenTea"
+    },
+    {
+     "name": "hydrolyzed hyaluronic acid",
+     "grade": "B",
+     "position": 27,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 29,
+     "core": true,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "madecassoside",
+     "grade": "B",
+     "position": 30,
+     "core": true,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "sodium dna",
+     "grade": "B",
+     "position": 31,
+     "core": false,
+     "trace": true,
+     "src": "pdrn"
+    },
+    {
+     "name": "centella asiatica extract",
+     "grade": "B",
+     "position": 32,
+     "core": true,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 33,
+     "core": true,
+     "trace": true,
+     "src": "ceramide"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "glycerin",
+    "niacinamide",
+    "panthenol",
+    "butylene glycol",
+    "sodium hyaluronate",
+    "hydrolyzed hyaluronic acid",
+    "ceramide np"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -283384,7 +284529,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "waterResistance": "sweat resistant (per listing — not tested here, not scored)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/619QUvdkgXL._SL1500_.jpg",
@@ -283400,6 +284546,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:cream",
    "spf:15",
+   "water:sweat",
    "claim:brightening",
    "claim:dark-spots",
    "claim:acne",
@@ -283812,7 +284959,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): parfum/fragrance (−1.5)",
    "maker": "L'Oréal Dermatological Beauty — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "4.6★ from 0 ratings",
-   "concernBasis": "Acne — niacinamide #3 on INCI; Dark spots — niacinamide #3 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #3 on INCI; Dark spots — niacinamide #3 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41J+6w4YfRL._SL1080_.jpg",
@@ -283827,6 +284975,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "spf:30",
+   "water:unstated",
    "ing:niacinamide",
    "claim:dark-spots",
    "claim:acne",
@@ -284010,7 +285159,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.2★ from 0 ratings"
+   "buyerEvidence": "3.2★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51uOxI3SV5L._AC_UL320_.jpg"
@@ -284022,6 +285172,7 @@ const CTPRODUCTS = [
    "scope:both",
    "spf:50",
    "sun:mineral",
+   "water:unstated",
    "claim:acne",
    "claim:hydrating",
    "claim:spf-claim",
@@ -284111,7 +285262,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Cantabria Labs — Dermatology / pharmaceutical manufacturer",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61-MMvgc2HL._SL1500_.jpg",
@@ -284128,6 +285280,7 @@ const CTPRODUCTS = [
    "format:gel",
    "format:cream",
    "spf:50",
+   "water:unstated",
    "claim:brightening",
    "claim:dark-spots",
    "claim:pores",
@@ -284223,7 +285376,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
-   "buyerEvidence": "3.8★ from 35,414 ratings"
+   "buyerEvidence": "3.8★ from 35,414 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41QqUJOGtwL._AC_UL320_.jpg"
@@ -284238,6 +285392,7 @@ const CTPRODUCTS = [
    "format:kit",
    "spf:50",
    "pa:++++",
+   "water:unstated",
    "ing:vitamin-b5-panthenol",
    "claim:acne",
    "claim:hydrating",
@@ -284331,7 +285486,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "waterResistance": "Water resistant / waterproof (duration not stated), sweat resistant (per listing — not tested here, not scored)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71+UR4SqDtL._SL1500_.jpg",
@@ -284349,6 +285505,8 @@ const CTPRODUCTS = [
    "format:kit",
    "spf:50",
    "pa:+++",
+   "water:resistant",
+   "water:sweat",
    "ing:aloe-vera",
    "ing:allantoin",
    "ing:gold",
@@ -284452,7 +285610,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 0 ratings"
+   "buyerEvidence": "4.4★ from 0 ratings",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61-KYvnftzL._AC_UL320_.jpg"
@@ -284466,6 +285625,7 @@ const CTPRODUCTS = [
    "format:kit",
    "spf:50",
    "pa:+++",
+   "water:resistant",
    "claim:hydrating",
    "claim:water-resistant",
    "claim:no-white-cast",
@@ -284672,7 +285832,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/n/w/j/50-0-2-kojic-acid-night-cream-skin-brightening-overnight-face-original-imahpbrutzks3typ.jpeg?q=90",
@@ -284689,6 +285850,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:pack",
    "format:wash",
+   "water:unstated",
    "ing:kojic-acid",
    "claim:brightening",
    "claim:hydrating",
@@ -284883,7 +286045,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 2 ratings"
+   "buyerEvidence": "5★ from 2 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/r/i/l/50-2-kojic-acid-night-cream-for-face-brightening-moisturizer-original-imahpbwwpmyfhr6t.jpeg?q=90",
@@ -284899,6 +286062,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:kojic-acid",
    "claim:brightening",
    "claim:dark-spots",
@@ -284993,7 +286157,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/9/o/m/49-02-kojic-acid-10-advanced-brightening-care-cream-an-natural-original-imahpsfkhcjjq9yg.jpeg?q=90",
@@ -285005,6 +286170,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:kojic-acid",
    "claim:brightening",
    "claim:anti-aging",
@@ -285205,7 +286371,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/6/s/v/150-0-2-kojic-acid-night-cream-for-skin-brightening-dark-spot-original-imahq5h5cvbvaqku.jpeg?q=90",
@@ -285221,6 +286388,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:kojic-acid",
    "claim:brightening",
    "claim:dark-spots",
@@ -285459,115 +286627,6 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "natural-ambience-hub-itm0f403e14b9659",
-  "brand": "Natural ambience hub",
-  "model": "Kojic Acid Dark Spot Corrector Night Cream F …",
-  "price": 144,
-  "capacityLine": "5 g",
-  "materialLine": "kojic acid",
-  "featureLine": "Toner · Paraben-free · ₹2880/100g",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "5 g",
-   "pricePer100": "₹2880/100g",
-   "format": "Toner",
-   "keyIngredients": "kojic acid (per listing)",
-   "freeFrom": "Paraben-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening/glow claim",
-   "audience": "Marketed for men",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/v/f/k/48-3-bright-glow-kojic-acid-night-repair-cream-natural-ambience-original-imahzf2vtpgjed7z.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/c/z/x/100-skin-brightening-cream-multani-mitti-coco-butter-floral-original-imahnuzsuenq7bns.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/0/n/6/49-13-lumivera-kojic-acid-5-skin-illuminating-night-cream-original-imahz2695fc6kttw.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/g/x/l/49-2-kojic-acid-overnight-glow-repair-cream-natural-ambience-hub-original-imahzy2gyw4cpggk.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/a/n/j/48-3-bright-glow-kojic-acid-night-repair-cream-natural-ambience-original-imahzyyrmwcxapfs.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/natural-ambience-hub-kojic-acid-dark-spot-corrector-night-cream-all-skin-types-men/p/itm0f403e14b9659",
-  "buyStore": "Flipkart",
-  "title": "Natural ambience hub Kojic Acid Dark Spot Corrector Night Cream F …",
-  "tags": [
-   "scope:both",
-   "format:cream",
-   "format:toner",
-   "ing:kojic-acid",
-   "claim:brightening",
-   "claim:dark-spots",
-   "skin:sensitive",
-   "skin:normal",
-   "skin:all",
-   "free:paraben",
-   "free:sensitive-safe",
-   "aud:men",
-   "size:travel",
-   "rating:none",
-   "store:flipkart",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": true,
-   "natural": true,
-   "derm": false,
-   "men": true,
-   "women": false,
    "inci": "none",
    "inciSrc": null,
    "pharma": false
@@ -286899,6 +287958,116 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "natural-ambience-hub-itm0f403e14b9659",
+  "brand": "Natural ambience hub",
+  "model": "Kojic Acid Dark Spot Corrector Night Cream F …",
+  "price": 144,
+  "capacityLine": "5 g",
+  "materialLine": "kojic acid",
+  "featureLine": "Toner · Paraben-free · ₹2880/100g",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "5 g",
+   "pricePer100": "₹2880/100g",
+   "format": "Toner",
+   "keyIngredients": "kojic acid (per listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim",
+   "audience": "Marketed for men",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/v/f/k/48-3-bright-glow-kojic-acid-night-repair-cream-natural-ambience-original-imahzf2vtpgjed7z.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/c/z/x/100-skin-brightening-cream-multani-mitti-coco-butter-floral-original-imahnuzsuenq7bns.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/0/n/6/49-13-lumivera-kojic-acid-5-skin-illuminating-night-cream-original-imahz2695fc6kttw.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/g/x/l/49-2-kojic-acid-overnight-glow-repair-cream-natural-ambience-hub-original-imahzy2gyw4cpggk.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/a/n/j/48-3-bright-glow-kojic-acid-night-repair-cream-natural-ambience-original-imahzyyrmwcxapfs.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/natural-ambience-hub-kojic-acid-dark-mark-reducing-night-care-cream-men/p/itm0f403e14b9659",
+  "buyStore": "Flipkart",
+  "title": "Natural ambience hub Kojic Acid Dark Spot Corrector Night Cream F …",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:toner",
+   "ing:kojic-acid",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:barrier",
+   "skin:sensitive",
+   "skin:normal",
+   "skin:all",
+   "free:paraben",
+   "free:sensitive-safe",
+   "aud:men",
+   "size:travel",
+   "rating:none",
+   "store:flipkart",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": true,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
   "id": "dr-sheth-s-itm82758eb5b1547",
   "brand": "Dr. Sheth's",
   "model": "Kesar & Kojic Acid Moisturizing Cream| 48hr Deep Hydr …",
@@ -287082,6 +288251,113 @@ const CTPRODUCTS = [
     "url": "https://honasa.in/brands"
    },
    "buyers": "4.1★ from 1,471 ratings"
+  }
+ },
+ {
+  "id": "natural-ambience-hub-itm557dccf677f4c",
+  "brand": "Natural ambience hub",
+  "model": "Kojic Acid Skin Renewal Night Cream Formula Men",
+  "price": 155,
+  "capacityLine": "5 g",
+  "materialLine": "kojic acid",
+  "featureLine": "Toner · Paraben-free · ₹3100/100g",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "5 g",
+   "pricePer100": "₹3100/100g",
+   "format": "Toner",
+   "keyIngredients": "kojic acid (per listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim",
+   "audience": "Marketed for men",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/c/z/x/100-skin-brightening-cream-multani-mitti-coco-butter-floral-original-imahnuzsuenq7bns.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/w/9/n/49-5-luminexa-kojic-acid-5-dark-spot-renewal-night-cream-natural-original-imahzyxhg23qgajf.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/0/n/6/49-13-lumivera-kojic-acid-5-skin-illuminating-night-cream-original-imahz2695fc6kttw.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/l/z/i/48-12-reliable-wart-management-cream-suitable-for-all-skin-types-original-imahzzfk6thvj9pz.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/c/i/z/48-74-kojic-acid-skin-perfection-overnight-brightening-cream-original-imahzf87evc3d4z9.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/natural-ambience-hub-brightening-kojic-acid-dark-spot-repair-cream-men/p/itm557dccf677f4c",
+  "buyStore": "Flipkart",
+  "title": "Natural ambience hub Kojic Acid Skin Renewal Night Cream Formula Men",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:toner",
+   "ing:kojic-acid",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:barrier",
+   "skin:normal",
+   "free:paraben",
+   "aud:men",
+   "size:travel",
+   "rating:none",
+   "store:flipkart",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": true,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -287560,7 +288836,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/l/r/5/50-niacinamide-alpha-arbutin-face-cream-westson-original-imahpwsnrcg8bqjz.jpeg?q=90",
@@ -287578,7 +288855,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:oil",
    "format:pack",
-   "format:body-wax",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
@@ -287685,7 +288962,8 @@ const CTPRODUCTS = [
    "evidenceActives": "glycerin (#4 on list, strong evidence); shea butter (#8 on list, moderate evidence); niacinamide (#12 on list, strong evidence); tocopherol (#16 on list, moderate evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/v/e/4/50-brightening-night-cream-with-alpha-arbutin-niacinamide-shea-original-imahh996yersfg5g.jpeg?q=90",
@@ -287703,6 +288981,7 @@ const CTPRODUCTS = [
    "format:lotion",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:niacinamide",
    "ing:alpha-arbutin",
    "ing:saffron",
@@ -287991,7 +289270,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/g/n/x/60-alpha-arbutin-day-cream-50g-with-free-face-hydrator-with-spf-original-imahp87t8jjmetga.jpeg?q=90",
@@ -288008,6 +289288,7 @@ const CTPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:kit",
+   "water:unstated",
    "ing:alpha-arbutin",
    "ing:glutathione",
    "ing:avocado",
@@ -288103,7 +289384,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/d/4/j/100-alpha-arbutin-moisturizer-with-vitamin-e-aloe-vera-cares-original-imahp9tzajc8yt68.jpeg?q=90",
@@ -288122,6 +289404,7 @@ const CTPRODUCTS = [
    "format:kit",
    "spf:50+",
    "pa:+++",
+   "water:unstated",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:ceramides",
@@ -288328,7 +289611,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Nature's Essence — Indian D2C brand with its own product company",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/n/z/r/45-face-cream-daily-brightening-cream-with-2-alpha-arbutin-pack-original-imahzyg5wdgw42uh.jpeg?q=90",
@@ -288346,6 +289630,7 @@ const CTPRODUCTS = [
    "format:essence",
    "format:kit",
    "spf:30",
+   "water:unstated",
    "ing:alpha-arbutin",
    "ing:saffron",
    "ing:rose",
@@ -288766,7 +290051,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 5 ratings"
+   "buyerEvidence": "5★ from 5 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/8/x/u/50-0-arbutin-7-glutathione-brightening-cream-50ml-vesqo-original-imahmsz3zrztkz2c.jpeg?q=90",
@@ -288782,6 +290068,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:scrub",
+   "water:unstated",
    "ing:alpha-arbutin",
    "claim:hydrating",
    "skin:all",
@@ -289334,7 +290621,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/5/q/b/50-d-pigmentation-moisturiser-50g-niacinamide-alpha-arbutin-original-imahzxg5yk9fdpye.jpeg?q=90",
@@ -289353,6 +290641,7 @@ const CTPRODUCTS = [
    "format:sleeping-mask",
    "format:peel",
    "format:kit",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:alpha-arbutin",
@@ -289565,7 +290854,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 7 ratings"
+   "buyerEvidence": "4.4★ from 7 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/fairness/d/t/q/50-age-repair-day-cream-with-alpha-arbutin-niacinamide-retinol-1-original-imahgv79qzsfxf6a.jpeg?q=90",
@@ -289580,6 +290870,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:niacinamide",
    "ing:retinol",
    "ing:alpha-arbutin",
@@ -289681,7 +290972,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.5★ from 163 ratings"
+   "buyerEvidence": "4.5★ from 163 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/fairness/d/t/q/50-age-repair-day-cream-with-alpha-arbutin-niacinamide-retinol-1-original-imahgv79qzsfxf6a.jpeg?q=90",
@@ -289697,6 +290989,7 @@ const CTPRODUCTS = [
    "scope:unstated",
    "format:cream",
    "format:oil",
+   "water:unstated",
    "ing:niacinamide",
    "ing:retinol",
    "ing:alpha-arbutin",
@@ -289795,7 +291088,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/5/j/g/150-vitamin-c-face-cream-alpha-arbutin-dark-spot-remover-cream-original-imahpy6jz4eqj4z6.jpeg?q=90",
@@ -289810,6 +291104,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:kit",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:alpha-arbutin",
    "ing:licorice",
@@ -290231,7 +291526,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/w/v/r/40-enlite-skin-illuminating-night-cream-neolayr-pro-original-imahzj4e9yvmuhxy.jpeg?q=90",
@@ -290248,6 +291544,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:balm",
    "format:pack",
+   "water:unstated",
    "ing:alpha-arbutin",
    "ing:shea-butter",
    "claim:brightening",
@@ -291881,7 +293178,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5); Formaldehyde-releasing preservative: dmdm hydantoin (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Dark spots — kojic dipalmitate #3 on INCI (matching only — not proof it works)"
+   "concernBasis": "Dark spots — kojic dipalmitate #3 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/3/5/m/50-morning-radiance-day-cream-with-kojic-dipalmitate-vitamin-b3-original-imahzv3zm7zgxdrz.jpeg?q=90",
@@ -291902,12 +293200,14 @@ const CTPRODUCTS = [
    "format:wash",
    "format:kit",
    "format:body-wax",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:kojic-acid",
    "ing:glycerin",
    "ing:coconut",
+   "ing:pdrn-polynucleotide",
    "claim:brightening",
    "claim:dark-spots",
    "claim:acne",
@@ -292499,7 +293799,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/e/e/p/50-arbutin-niacinamide-night-cream-dark-spot-removal-for-all-original-imahzrh4ngt64g4j.jpeg?q=90",
@@ -292519,6 +293820,7 @@ const CTPRODUCTS = [
    "format:pack",
    "format:scrub",
    "format:wash",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:alpha-arbutin",
@@ -292626,7 +293928,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/1/5/n/50-arbutin-niacinamide-face-night-cream-anti-pigmentation-skin-original-imahzrru2udhgbk7.jpeg?q=90",
@@ -292646,6 +293949,7 @@ const CTPRODUCTS = [
    "format:scrub",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:niacinamide",
    "ing:petrolatum",
    "ing:kojic-acid",
@@ -292758,7 +294062,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/z/o/50-arbutin-niacinamide-night-cream-brightening-face-cream-original-imahzrrqdfzjeuhb.jpeg?q=90",
@@ -292778,6 +294083,7 @@ const CTPRODUCTS = [
    "format:scrub",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:niacinamide",
    "ing:petrolatum",
    "ing:alpha-arbutin",
@@ -292887,7 +294193,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/0/r/h/50-night-cream-with-arbutin-niacinamide-dark-spot-reduction-for-original-imahzrr9zvqjhbfh.jpeg?q=90",
@@ -292906,6 +294213,7 @@ const CTPRODUCTS = [
    "format:scrub",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:niacinamide",
    "ing:alpha-arbutin",
    "claim:brightening",
@@ -293230,7 +294538,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/o/4/y/50-whitening-brightening-night-cream-arbutin-niacinamide-smooth-original-imahzrhgevhwu3wb.jpeg?q=90",
@@ -293249,6 +294558,7 @@ const CTPRODUCTS = [
    "format:pack",
    "format:scrub",
    "format:wash",
+   "water:unstated",
    "ing:niacinamide",
    "ing:petrolatum",
    "ing:alpha-arbutin",
@@ -293461,7 +294771,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/7/u/o/50-clear-glow-dark-spots-acne-defense-moisturizer-cream-kojic-original-imahhp2wcaekthue.jpeg?q=90",
@@ -293478,6 +294789,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:kit",
    "spf:50+",
+   "water:unstated",
    "ing:niacinamide",
    "ing:kojic-acid",
    "ing:aloe-vera",
@@ -293579,7 +294891,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/4/h/200-kojic-acid-niacinamide-face-cream-for-even-skin-tone-glow-original-imahqhv9jtqqbkpy.jpeg?q=90"
@@ -293590,6 +294903,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:niacinamide",
    "ing:kojic-acid",
    "claim:brightening",
@@ -293683,7 +294997,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/p/m/50-night-cream-with-arbutin-niacinamide-pigmentation-removal-original-imahzmfhhypzn698.jpeg?q=90",
@@ -293706,6 +295021,7 @@ const CTPRODUCTS = [
    "format:wash",
    "format:capsule",
    "format:kit",
+   "water:unstated",
    "ing:niacinamide",
    "ing:alpha-arbutin",
    "ing:rose",
@@ -293811,7 +295127,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/t/a/o/50-skin-brightening-night-cream-reduces-pigmentation-dark-spots-original-imahzrhcsx8azhzx.jpeg?q=90",
@@ -293833,6 +295150,7 @@ const CTPRODUCTS = [
    "format:scrub",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:honey",
    "ing:almond",
    "ing:cocoa-butter",
@@ -293941,7 +295259,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/o/a/p/50-advanced-night-cream-arbutin-niacinamide-skin-brightening-for-original-imahzrsgxzyjusxj.jpeg?q=90",
@@ -293960,6 +295279,7 @@ const CTPRODUCTS = [
    "format:scrub",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:niacinamide",
    "ing:alpha-arbutin",
    "ing:turmeric",
@@ -294063,7 +295383,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.8★ from 11 ratings"
+   "buyerEvidence": "3.8★ from 11 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/g/d/1/50-niacinamide-10-moisturizer-face-cream-24hrs-long-lasting-original-imahmqjmztmam5yr.jpeg?q=90",
@@ -294079,6 +295400,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:lotion",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:licorice",
@@ -294288,7 +295610,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.8★ from 11 ratings"
+   "buyerEvidence": "3.8★ from 11 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/n/a/u/50-niacinamide-10-moisturizer-face-cream-24hrs-long-lasting-original-imahjb6wrydazzhz.jpeg?q=90",
@@ -294305,6 +295628,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:lotion",
    "format:oil",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:licorice",
@@ -294407,7 +295731,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/t/d/v/100-dark-spot-pigmentation-care-moisturizer-for-men-women-pack-original-imahzk83ydeszue8.jpeg?q=90",
@@ -294424,6 +295749,7 @@ const CTPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:kit",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
@@ -294521,7 +295847,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/j/8/1/50-niacinamide-night-cream-overnight-skin-repair-hydration-glow-original-imahzwdywxfujjhz.jpeg?q=90",
@@ -294542,6 +295869,7 @@ const CTPRODUCTS = [
    "format:scrub",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:niacinamide",
    "ing:petrolatum",
    "ing:aloe-vera",
@@ -294652,7 +295980,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/f/g/50-skin-brightening-night-cream-with-niacinamide-hydrating-original-imahzwb4n3zzvhja.jpeg?q=90",
@@ -294673,6 +296002,7 @@ const CTPRODUCTS = [
    "format:scrub",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:niacinamide",
    "ing:honey",
    "ing:almond",
@@ -294780,7 +296110,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/v/x/0/50-niacinamide-face-cream-women-men-reduces-dark-spots-dryness-original-imahhusfgmgzvdyg.jpeg?q=90",
@@ -294801,6 +296132,7 @@ const CTPRODUCTS = [
    "format:scrub",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:niacinamide",
    "ing:glutathione",
    "ing:neem",
@@ -295109,7 +296441,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "L'Oréal — Global FMCG or beauty group",
    "declaredManufacturer": "L'Oreal India Pvt Ltd., Chakan, Pune - 410501 (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.2★ from 15,992 ratings"
+   "buyerEvidence": "4.2★ from 15,992 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/f/h/v/-original-imahewc96gx7ugu6.jpeg?q=90",
@@ -295125,6 +296458,7 @@ const CTPRODUCTS = [
    "scope:unstated",
    "format:cream",
    "spf:30",
+   "water:unstated",
    "ing:glycolic-acid",
    "claim:brightening",
    "claim:spf-claim",
@@ -295315,7 +296649,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/y/h/h/1-glycerine-200gm-pure-natural-skin-moisturizer-rossify-lotion-original-imahjtyejycmhchf.jpeg?q=90",
@@ -295333,6 +296668,7 @@ const CTPRODUCTS = [
    "format:lotion",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:glycerin",
    "claim:brightening",
    "claim:acne",
@@ -295425,7 +296761,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/g/o/v/120-sunscreen-cream-for-oily-skin-no-white-cast-uv-protection-50-original-imahmpb2pyrbgkjj.jpeg?q=90",
@@ -295440,6 +296777,7 @@ const CTPRODUCTS = [
    "format:lotion",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "claim:oil-control",
@@ -295535,7 +296873,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistant / waterproof (duration not stated), sweat resistant (per listing — not tested here, not scored)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-moisturizer-cream/k/j/z/100-tiranga-skin-shield-sunscreen-body-lotion-spf-50-no-white-original-imahndvzm29c5zzf.jpeg?q=90",
@@ -295554,6 +296893,8 @@ const CTPRODUCTS = [
    "format:kit",
    "spf:50+",
    "pa:+++",
+   "water:resistant",
+   "water:sweat",
    "ing:vitamin-c",
    "ing:honey",
    "ing:almond",
@@ -295596,6 +296937,113 @@ const CTPRODUCTS = [
    "inciNote": "Only 3 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
    "declarationConfidence": null,
    "recognised": 0.67,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "natural-ambience-hub-itm39c8dbfcbb52a",
+  "brand": "Natural ambience hub",
+  "model": "Kojic Acid Brightening Face Cream Women",
+  "price": 146,
+  "capacityLine": "58 g",
+  "materialLine": "kojic acid",
+  "featureLine": "Toner · Paraben-free · ₹252/100g",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "58 g",
+   "pricePer100": "₹252/100g",
+   "format": "Toner",
+   "keyIngredients": "kojic acid (per listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/m/n/d/47-20-lumorex-elite-kojic-acid-5-natural-ambience-hub-original-imahzf3buvzfqvhm.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/s/h/t/50-kojic-freshglow-intensive-brightening-skin-care-therapy-original-imahnvmjt7yxyuvp.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/r/p/c/30-deep-tissue-massage-oil-for-muscle-recovery-ca-204-ubji-original-imahpf85b8kyjes4.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/i/k/i/100-organic-whitening-cream-for-women-natural-ambience-hub-original-imah94awtxsmjehh.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/d/f/q/100-women-s-delicate-area-whitening-cream-keydiyam-original-imahh9zndjeejwyg.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/natural-ambience-hub-bright-even-tone-overnight-repair-cream-women/p/itm39c8dbfcbb52a",
+  "buyStore": "Flipkart",
+  "title": "Natural ambience hub Kojic Acid Brightening Face Cream Women",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:toner",
+   "ing:kojic-acid",
+   "claim:brightening",
+   "claim:whitening-claim",
+   "claim:hydrating",
+   "skin:normal",
+   "free:paraben",
+   "aud:women",
+   "size:standard",
+   "rating:none",
+   "store:flipkart",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
    "actives": [],
    "support": [],
    "formulaNotes": [],
@@ -296336,7 +297784,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/z/x/1/niacinamide-with-2-kojic-acid-night-cream-arbutin-skin-original-imahmd86ajagrysj.jpeg?q=90",
@@ -296357,6 +297806,7 @@ const CTPRODUCTS = [
    "format:peel",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -296986,7 +298436,7 @@ const CTPRODUCTS = [
  {
   "id": "the-derma-co-itm36061a91a6d9c",
   "brand": "The Derma Co",
-  "model": "Pore Minimizing Daily Face Moisturizer with 3% Niaci …",
+  "model": "Pore Minimizing Daily Face Moisturizer with 3% Niacinamide 3% PHA and p-REFINYL",
   "price": 98,
   "capacityLine": "50 g",
   "materialLine": "niacinamide + PHA",
@@ -297027,7 +298477,8 @@ const CTPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "4.1★ from 5,176 ratings",
-   "concernBasis": "Acne — niacinamide #5 on INCI, salicylic acid #16 on INCI; Dark spots — niacinamide #5 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #5 on INCI, salicylic acid #16 on INCI; Dark spots — niacinamide #5 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/t/1/l/50-0-pore-minimizing-daily-face-moisturizer-with-3-niacinamide-3-enriched-transparent-original-imaheqsga89gzzp6.png?q=90",
@@ -297038,10 +298489,11 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/derma-co-pore-minimizing-daily-face-moisturizer-3-niacinamide-pha-p-refinyl/p/itm36061a91a6d9c",
   "buyStore": "Flipkart",
-  "title": "The Derma Co Pore Minimizing Daily Face Moisturizer with 3% Niaci …",
+  "title": "The Derma Co Pore Minimizing Daily Face Moisturizer with 3% Niacinamide 3% PHA and p-REFINYL",
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:niacinamide",
    "ing:pha",
    "claim:pores",
@@ -297176,7 +298628,8 @@ const CTPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "5★ from 33 ratings",
-   "concernBasis": "Acne — niacinamide #6 on INCI; Dark spots — niacinamide #6 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #6 on INCI; Dark spots — niacinamide #6 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/d/t/h/100-light-moisturizer-with-niacinamide-spf-20-vitamin-b3-for-original-imahnbmbzwdxq8ar.jpeg?q=90",
@@ -297194,6 +298647,7 @@ const CTPRODUCTS = [
    "format:balm",
    "spf:15",
    "sun:mineral",
+   "water:unstated",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:shea-butter",
@@ -297550,7 +299004,8 @@ const CTPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — niacinamide #8 on INCI; Dark spots — niacinamide #8 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #8 on INCI; Dark spots — niacinamide #8 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/j/s/s/50-zero-rituals-barrier-restore-moisturizer-ceramide-matrixyl-original-imahpp6pzkxty8ms.jpeg?q=90",
@@ -297565,6 +299020,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:probiotics",
@@ -297727,7 +299183,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/4/f/m/100-moisturizing-cream-with-niacinamide-aloe-vera-hydrating-face-original-imaha7ckzu2g4sab.jpeg?q=90",
@@ -297742,6 +299199,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:niacinamide",
    "ing:retinol",
    "ing:petrolatum",
@@ -297953,7 +299411,8 @@ const CTPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI; Irritation — ceramide eop #12 on INCI, ceramide ns #13 on INCI, ceramide np #15 on INCI, ceramide ap #17 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI; Irritation — ceramide eop #12 on INCI, ceramide ns #13 on INCI, ceramide np #15 on INCI, ceramide ap #17 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/y/7/q/40-brightening-moisturizer-niacinamide-ceramide-probiotic-original-imahmfvfwhfhj6jn.jpeg?q=90",
@@ -297968,6 +299427,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:niacinamide",
    "ing:petrolatum",
    "ing:ceramides",
@@ -298303,7 +299763,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/8/s/50-brightening-moisturizer-korean-re-dermax-papaya-extract-original-imahpjb6ynxzpd4x.jpeg?q=90",
@@ -298318,6 +299779,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:tranexamic-acid",
@@ -298886,7 +300348,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/f/b/h/50-lightweight-face-moisturizer-for-oily-combination-skin-5-original-imahqhkxxcfqkh6m.jpeg?q=90",
@@ -298901,6 +300364,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:ceramides",
@@ -299320,7 +300784,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.5★ from 10 ratings"
+   "buyerEvidence": "4.5★ from 10 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/o/o/z/100-skin-brightening-hydration-moisturizer-with-niacinamide-original-imahpy9gawntfvt6.jpeg?q=90",
@@ -299335,6 +300800,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
@@ -299656,7 +301122,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.5★ from 4 ratings"
+   "buyerEvidence": "4.5★ from 4 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/9/9/3/50-oil-free-moisturizer-with-ceramide-niacinamide-barrier-repair-original-imahkw65y2egydvm.jpeg?q=90",
@@ -299671,6 +301138,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:vitamin-e",
@@ -299770,7 +301238,8 @@ const CTPRODUCTS = [
    "safetyFlags": "EU-declared fragrance allergen: benzyl alcohol (−0.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.5★ from 4 ratings",
-   "concernBasis": "Irritation — ceramide eos #14 on INCI, ceramide ns #15 on INCI, ceramide np #16 on INCI, ceramide ap #18 on INCI (matching only — not proof it works)"
+   "concernBasis": "Irritation — ceramide eos #14 on INCI, ceramide ns #15 on INCI, ceramide np #16 on INCI, ceramide ap #18 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/y/t/4/150-hyaluronic-b5-core-moisturizer-niacinamide-hyaluronic-acid-original-imahqnjeqfffaeug.jpeg?q=90",
@@ -299787,6 +301256,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:lotion",
    "format:scrub",
+   "water:unstated",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:rice-water",
@@ -300214,7 +301684,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.9★ from 14 ratings"
+   "buyerEvidence": "3.9★ from 14 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/g/j/v/50-barrier-balance-oil-free-face-moisturizer-cream-with-ceramide-original-imahkgjfpjy7gxzz.jpeg?q=90",
@@ -300229,6 +301700,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:ceramides",
@@ -300881,7 +302353,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.7★ from 3 ratings"
+   "buyerEvidence": "4.7★ from 3 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/5/6/b/50-peach-niacinamide-cream-lightweight-moisturizer-for-glowing-original-imahev23aferz62g.jpeg?q=90",
@@ -300896,6 +302369,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:niacinamide",
    "ing:vitamin-b5-panthenol",
    "ing:glycerin",
@@ -301218,7 +302692,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 3 ratings"
+   "buyerEvidence": "5★ from 3 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/y/k/s/50-hydro-boost-moisturiser-hyaluronic-acid-water-gel-with-original-imahmmyxvhmhm2p9.jpeg?q=90",
@@ -301234,6 +302709,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:cream",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
@@ -301334,7 +302810,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.2★ from 5 ratings"
+   "buyerEvidence": "3.2★ from 5 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/q/9/2/glow-and-acne-clear-face-wash-and-face-moisturizer-powered-with-original-imahjhyvu87z3ru3.jpeg?q=90",
@@ -301349,6 +302826,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:kojic-acid",
@@ -301442,7 +302920,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/t/m/50-kojic-acid-niacinamide-radiance-dew-face-moisturizer-for-all-original-imahn2ya5bmm6gqz.jpeg?q=90",
@@ -301459,6 +302938,7 @@ const CTPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:kit",
+   "water:unstated",
    "ing:niacinamide",
    "ing:kojic-acid",
    "ing:glutathione",
@@ -301640,7 +303120,7 @@ const CTPRODUCTS = [
  {
   "id": "mvylissea-itm53bfe40e2ea92",
   "brand": "MVYLISSEA",
-  "model": "PDRN Advanced Anti-Aging Moisturizer with Collagen Niac …",
+  "model": "PDRN Advanced Anti-Aging Moisturizer with Collagen Niacinamide & Hyaluronic Acid",
   "price": 1083,
   "capacityLine": "50 g",
   "materialLine": "niacinamide + petrolatum + hyaluronic acid",
@@ -301678,7 +303158,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/9/t/d/50-pdrn-advanced-anti-aging-moisturizer-with-collagen-original-imahkhv4yktyzq9n.jpeg?q=90",
@@ -301689,15 +303170,17 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/mvylissea-pdrn-advanced-anti-aging-moisturizer-collagen-niacinamide-hyaluronic-acid/p/itm53bfe40e2ea92",
   "buyStore": "Flipkart",
-  "title": "MVYLISSEA PDRN Advanced Anti-Aging Moisturizer with Collagen Niac …",
+  "title": "MVYLISSEA PDRN Advanced Anti-Aging Moisturizer with Collagen Niacinamide & Hyaluronic Acid",
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:niacinamide",
    "ing:petrolatum",
    "ing:hyaluronic-acid",
    "ing:collagen",
    "ing:centella-cica",
+   "ing:pdrn-polynucleotide",
    "claim:anti-aging",
    "claim:hydrating",
    "claim:barrier",
@@ -301910,7 +303393,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 2 ratings"
+   "buyerEvidence": "5★ from 2 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/i/t/1/55-glutathione-niacinamide-moisturising-cream-pore-tightening-original-imahmgwbszvguwmn.jpeg?q=90",
@@ -301926,6 +303410,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:cream",
+   "water:unstated",
    "ing:niacinamide",
    "ing:collagen",
    "ing:glutathione",
@@ -302263,7 +303748,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/x/f/d/50-night-repair-moisturising-cream-with-vitamin-e-niacinamide-original-imahhgwm42ctzuwz.jpeg?q=90",
@@ -302279,6 +303765,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:cream",
+   "water:unstated",
    "ing:niacinamide",
    "ing:kojic-acid",
    "ing:vitamin-e",
@@ -302652,7 +304139,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/d/y/i/50-anua-peach-niacinamide-cream-maree-cream-original-imahe5mwfwbfpj9k.jpeg?q=90",
@@ -302667,9 +304155,11 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:niacinamide",
    "ing:vitamin-b5-panthenol",
    "ing:glycerin",
+   "ing:pdrn-polynucleotide",
    "claim:brightening",
    "claim:whitening-claim",
    "claim:hydrating",
@@ -303113,7 +304603,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/i/b/x/100-fast-absorbing-oil-free-face-moisturizer-cream-with-original-imahzk5nvnmdsqgw.jpeg?q=90",
@@ -303129,6 +304620,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:kit",
+   "water:unstated",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:glycerin",
@@ -303227,7 +304719,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 4 ratings"
+   "buyerEvidence": "5★ from 4 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/j/h/50-barrier-repair-gel-moisturizer-with-ceramides-niacinamide-original-imahqyyvcrhgprmp.jpeg?q=90",
@@ -303245,6 +304738,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:scrub",
    "format:wash",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:centella-cica",
@@ -303347,7 +304841,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.8★ from 11 ratings"
+   "buyerEvidence": "3.8★ from 11 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/t/l/s/250-10-niacinamide-face-moisturizer-cream-for-oil-control-original-imahhf67gt5guhwe.jpeg?q=90",
@@ -303363,6 +304858,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:lotion",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:licorice",
@@ -304139,7 +305635,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/c/j/q/150-dark-spot-pigmentation-care-moisturizer-for-men-women-pack-original-imahzm3xy6sd843d.jpeg?q=90",
@@ -304155,6 +305652,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:kit",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:cucumber",
    "claim:brightening",
@@ -304700,7 +306198,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.7★ from 254 ratings"
+   "buyerEvidence": "3.7★ from 254 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/k/q/w/50-2-kojic-acid-glow-fusion-formula-night-cream-for-toned-and-original-imahk4a4skzgc3cb.jpeg?q=90",
@@ -304718,6 +306217,7 @@ const CTPRODUCTS = [
    "format:pack",
    "format:scrub",
    "format:wash",
+   "water:unstated",
    "ing:kojic-acid",
    "claim:brightening",
    "claim:de-tan",
@@ -305225,7 +306725,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/l/9/0/50-2-kojic-acid-night-cream-skin-brightening-dark-spot-care-original-imahp7hvuh2pxbq6.jpeg?q=90",
@@ -305243,6 +306744,7 @@ const CTPRODUCTS = [
    "format:oil",
    "format:balm",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:kojic-acid",
@@ -305648,7 +307150,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.5★ from 4 ratings"
+   "buyerEvidence": "4.5★ from 4 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/d/b/50-ahaglow-ac-acne-control-moisturizer-gel-torrent-pharma-gel-original-imahpdzqp3heuvaa.jpeg?q=90",
@@ -305664,6 +307167,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:scrub",
+   "water:unstated",
    "claim:acne",
    "claim:oil-control",
    "claim:hydrating",
@@ -305860,7 +307364,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
    "declaredManufacturer": "Unilever House, B D Sawant Marg, Chakala, Andheri East, Mumbai - 400099, Maharashtra (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.4★ from 1,10,171 ratings"
+   "buyerEvidence": "4.4★ from 1,10,171 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/4/z/h/-original-imahdhjczy4unqu6.jpeg?q=90",
@@ -305875,6 +307380,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "spf:30",
+   "water:unstated",
    "ing:ceramides",
    "ing:milk",
    "claim:hydrating",
@@ -306523,7 +308029,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.7★ from 3 ratings"
+   "buyerEvidence": "4.7★ from 3 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/v/8/50-l-exiqu-e-triple-action-barrier-recovery-moisturizer-lexiquee-original-imahmhfjuhzamrku.jpeg?q=90",
@@ -306538,6 +308045,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:lotion",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "ing:peptides",
@@ -306635,7 +308143,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Essential oil / volatile sensitiser: tea tree oil (−0.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — niacinamide #4 on INCI, melaleuca alternifolia leaf oil #11 on INCI; Dark spots — kojic acid #2 on INCI, ascorbic acid #3 on INCI, niacinamide #4 on INCI; Aging — ascorbic acid #3 on INCI; Irritation — aloe barbadensis leaf juice #6 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #4 on INCI, melaleuca alternifolia leaf oil #11 on INCI; Dark spots — kojic acid #2 on INCI, ascorbic acid #3 on INCI, niacinamide #4 on INCI; Aging — ascorbic acid #3 on INCI; Irritation — aloe barbadensis leaf juice #6 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/a/p/j/300-kojic-acid-radiance-moisturizer-cream-olen-care-original-imahhmffuvsshzjh.jpeg?q=90",
@@ -306653,6 +308162,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:lotion",
    "format:kit",
+   "water:unstated",
    "ing:kojic-acid",
    "claim:brightening",
    "claim:acne",
@@ -307209,7 +308719,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/a/k/y/400-skin-whitening-brightening-kojic-acid-moisturizer-lotion-tan-original-imahf8gzhgz3kf3d.jpeg?q=90",
@@ -307228,6 +308739,7 @@ const CTPRODUCTS = [
    "format:lotion",
    "format:scrub",
    "format:wash",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:kojic-acid",
    "ing:glutathione",
@@ -307543,7 +309055,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 11 ratings"
+   "buyerEvidence": "4.2★ from 11 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/m/1/b/50-rice-glow-moisturizer-for-smooth-skin-buewey-cream-original-imahg7a8ygw9aary.jpeg?q=90",
@@ -307558,6 +309071,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:kojic-acid",
    "ing:alpha-arbutin",
    "ing:rice-water",
@@ -307759,7 +309273,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/7/q/8/15-ultra-skin-lightening-face-cream-with-kojic-acid-glycolic-original-imahptnaxsm92t24.jpeg?q=90",
@@ -307776,6 +309291,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:scrub",
    "format:kit",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:glycolic-acid",
    "ing:kojic-acid",
@@ -307988,7 +309504,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/g/w/q/50-all-in-1-whitening-face-cream-for-men-with-spf-30-pack-of-3-original-imahgyfbnjs36rd7.jpeg?q=90",
@@ -308005,6 +309522,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:kit",
    "spf:30",
+   "water:unstated",
    "claim:brightening",
    "claim:dark-spots",
    "claim:whitening-claim",
@@ -308100,7 +309618,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/n/t/v/15-face-cream-daily-glow-hydrating-moisturizer-vitamin-e-soft-original-imahpbuzagq8gddh.jpeg?q=90",
@@ -308116,6 +309635,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:kit",
+   "water:unstated",
    "ing:kojic-acid",
    "ing:turmeric",
    "ing:sandalwood",
@@ -308325,7 +309845,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 56 ratings"
+   "buyerEvidence": "4★ from 56 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/x/t/g/75-zeeglow-skin-brightening-hydrating-cream-with-kojic-acid-original-imahg8cxqbqnvfc8.jpeg?q=90",
@@ -308340,6 +309861,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:niacinamide",
    "ing:glycolic-acid",
    "ing:kojic-acid",
@@ -309057,7 +310579,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.8★ from 4 ratings"
+   "buyerEvidence": "4.8★ from 4 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/m/o/j/50-attitude-be-bright-herbal-night-cream-deep-hydration-original-imahz4ppgmsankyf.jpeg?q=90"
@@ -309069,6 +310592,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:almond",
    "claim:hydrating",
    "claim:ayurvedic",
@@ -309888,7 +311412,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/4/k/t/50-overnight-bright-repair-face-cream-mullica-cream-original-imahjsxfwytmarn6.jpeg?q=90",
@@ -309904,6 +311429,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:kit",
+   "water:unstated",
    "ing:retinol",
    "claim:brightening",
    "claim:whitening-claim",
@@ -310002,7 +311528,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 246 ratings"
+   "buyerEvidence": "4.3★ from 246 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/5/g/b/50-nutraeffects-brigtening-night-cream-50g-avon-cream-original-imah756pnzacwqzr.jpeg?q=90",
@@ -310018,6 +311545,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:kit",
+   "water:unstated",
    "claim:brightening",
    "claim:hydrating",
    "skin:all",
@@ -310106,7 +311634,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/4/k/t/50-overnight-bright-repair-face-cream-mullica-cream-original-imahjsxfwytmarn6.jpeg?q=90",
@@ -310124,6 +311653,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:balm",
    "format:kit",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:retinol",
    "ing:neem",
@@ -310228,7 +311758,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.9★ from 16 ratings"
+   "buyerEvidence": "3.9★ from 16 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/d/i/8/50-glutathione-night-cream-for-skin-brightening-advanced-original-imahm48bvzqkjh7g.jpeg?q=90",
@@ -310244,6 +311775,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:oil",
+   "water:unstated",
    "ing:glutathione",
    "ing:cucumber",
    "ing:almond",
@@ -310443,7 +311975,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.9★ from 105 ratings"
+   "buyerEvidence": "3.9★ from 105 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/m/p/50-glutathione-night-cream-skin-brightening-nourishing-face-original-imahm48mzz7w5yqb.jpeg?q=90",
@@ -310459,6 +311992,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:oil",
+   "water:unstated",
    "ing:glutathione",
    "ing:cucumber",
    "ing:almond",
@@ -310555,7 +312089,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/j/w/w/50-night-cream-for-skin-brightening-even-tone-reduces-dark-spots-original-imahpjndbhmyytfz.jpeg?q=90",
@@ -310572,6 +312107,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:kojic-acid",
    "ing:glutathione",
    "claim:brightening",
@@ -310776,7 +312312,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/v/y/u/50-attitude-be-bright-herbals-night-cream-for-brightening-original-imahkz94q6d65h93.jpeg?q=90",
@@ -310792,6 +312329,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "spf:15",
+   "water:unstated",
    "claim:brightening",
    "claim:hydrating",
    "claim:soothing",
@@ -311733,7 +313271,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 71 ratings"
+   "buyerEvidence": "4.2★ from 71 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/r/p/r/50-power-brightening-night-cream-aysun-original-imahz4s8g4ssybqn.jpeg?q=90",
@@ -311748,6 +313287,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:body",
    "format:cream",
+   "water:unstated",
    "claim:brightening",
    "claim:hydrating",
    "skin:all",
@@ -311835,7 +313375,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.5★ from 4 ratings"
+   "buyerEvidence": "3.5★ from 4 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/b/y/g/30-facewin-30g-night-cream-for-acne-marks-oil-balancing-skin-original-imahh2egzz87yfzc.jpeg?q=90",
@@ -311851,6 +313392,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "claim:brightening",
    "claim:acne",
    "claim:hydrating",
@@ -311946,7 +313488,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 3 ratings"
+   "buyerEvidence": "4.3★ from 3 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/p/r/1/50-ubtan-night-cream-babeehive-original-imahfvma7efggyst.jpeg?q=90",
@@ -311962,6 +313505,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:ubtan",
    "claim:ayurvedic",
    "skin:all",
@@ -312611,7 +314155,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/t/d/z/50-skin-brightening-night-cream-for-men-women-blushify-cream-original-imahqg4gzsq8zugx.jpeg?q=90",
@@ -312627,6 +314172,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:niacinamide",
    "ing:aloe-vera",
    "ing:turmeric",
@@ -314410,7 +315956,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.8★ from 171 ratings"
+   "buyerEvidence": "3.8★ from 171 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-moisturizer-cream/k/3/m/100-all-in-1-whitening-face-cream-for-men-with-spf30-cream-original-imaghrufe2f3h7gg.jpeg?q=90",
@@ -314426,6 +315973,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "spf:30",
+   "water:unstated",
    "claim:brightening",
    "claim:whitening-claim",
    "claim:hydrating",
@@ -314728,7 +316276,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/0/7/z/50-advanced-anti-aging-night-cream-for-brightening-wrinkles-fine-original-imahjw2dvhqpsdzf.jpeg?q=90",
@@ -314744,6 +316293,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:lotion",
+   "water:unstated",
    "claim:brightening",
    "claim:whitening-claim",
    "claim:anti-aging",
@@ -314954,7 +316504,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/a/t/50-face-night-cream-lightweight-overnight-moisturizing-cream-for-original-imahzwf24wdkm4cv.jpeg?q=90",
@@ -314975,6 +316526,7 @@ const CTPRODUCTS = [
    "format:wash",
    "format:kit",
    "spf:30",
+   "water:unstated",
    "ing:glycerin",
    "claim:brightening",
    "claim:whitening-claim",
@@ -315400,7 +316952,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/i/1/100-anti-pigmentation-face-cream-latixmat-cream-original-imahntc5vbbdzsqt.jpeg?q=90",
@@ -315418,6 +316971,7 @@ const CTPRODUCTS = [
    "format:lotion",
    "spf:30",
    "pa:+++",
+   "water:unstated",
    "claim:brightening",
    "claim:dark-spots",
    "claim:broad-spectrum",
@@ -316350,7 +317904,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 121 ratings"
+   "buyerEvidence": "4.2★ from 121 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/a/h/k/50-sunscreen-spf30-face-cream-50g-for-men-and-women-suitable-for-original-imahfzwfzfxephg3.jpeg?q=90",
@@ -316367,6 +317922,7 @@ const CTPRODUCTS = [
    "format:cream",
    "spf:50",
    "pa:++",
+   "water:unstated",
    "claim:spf-claim",
    "skin:oily",
    "skin:dry",
@@ -316463,7 +318019,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 13 ratings"
+   "buyerEvidence": "4.4★ from 13 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/l/b/6/100-sunscreen-spf30-face-cream-50g-for-men-women-suits-all-skin-original-imahfyrqkzgtzs4s.jpeg?q=90",
@@ -316481,6 +318038,7 @@ const CTPRODUCTS = [
    "format:kit",
    "spf:30",
    "pa:++",
+   "water:unstated",
    "claim:spf-claim",
    "skin:all",
    "free:paraben",
@@ -316570,7 +318128,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/f/h/t/100-fabface-day-cream-brightening-spf-40-sun-shield-pack-of-2-original-imahz8xpkbduhwjv.jpeg?q=90",
@@ -316588,6 +318147,7 @@ const CTPRODUCTS = [
    "format:kit",
    "spf:40",
    "pa:++",
+   "water:unstated",
    "claim:brightening",
    "claim:broad-spectrum",
    "claim:ayurvedic",
@@ -316679,7 +318239,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/n/z/0/50-sunblock-face-and-body-moisturizing-cream-sunscreen-all-40-original-imahnmkbs8kcdygf.jpeg?q=90",
@@ -316696,6 +318257,7 @@ const CTPRODUCTS = [
    "format:cream",
    "spf:40",
    "pa:+++",
+   "water:unstated",
    "ing:niacinamide",
    "claim:whitening-claim",
    "claim:hydrating",
@@ -316795,7 +318357,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "VLCC Health Care — Established / listed Indian FMCG house",
-   "buyerEvidence": "4.4★ from 65 ratings"
+   "buyerEvidence": "4.4★ from 65 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/l/j/f/-original-imagrnmnhyr3egbq.jpeg?q=90",
@@ -316813,6 +318376,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:kit",
    "spf:40",
+   "water:unstated",
    "claim:brightening",
    "claim:anti-aging",
    "claim:hydrating",
@@ -316913,7 +318477,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 60 ratings"
+   "buyerEvidence": "4.3★ from 60 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/n/h/x/100-hydrating-moisturizer-for-glowing-skin-spf-25-25-recode-original-imagyhhhfgpuqahs.jpeg?q=90",
@@ -316930,6 +318495,7 @@ const CTPRODUCTS = [
    "format:mist",
    "spf:50",
    "pa:+",
+   "water:unstated",
    "claim:brightening",
    "claim:hydrating",
    "claim:spf-claim",
@@ -317028,7 +318594,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 7 ratings"
+   "buyerEvidence": "4.3★ from 7 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/z/q/9/150-brightening-hydrating-face-cream-your-natural-glow-with-7-original-imah7n9a6ekzzykz.jpeg?q=90",
@@ -317046,6 +318613,7 @@ const CTPRODUCTS = [
    "format:mist",
    "spf:50",
    "pa:++",
+   "water:unstated",
    "claim:brightening",
    "claim:hydrating",
    "claim:spf-claim",
@@ -317140,7 +318708,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3★ from 4 ratings"
+   "buyerEvidence": "3★ from 4 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/o/0/k/150-deep-hydrate-glow-v7-face-cream-with-7-vitamins-for-even-original-imah59erzzd9ncn5.jpeg?q=90",
@@ -317158,6 +318727,7 @@ const CTPRODUCTS = [
    "format:mist",
    "spf:60",
    "pa:++",
+   "water:unstated",
    "claim:brightening",
    "claim:dark-spots",
    "claim:acne",
@@ -317257,7 +318827,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.6★ from 15 ratings"
+   "buyerEvidence": "4.6★ from 15 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/q/8/w/100-moisturizing-cream-lightweight-sunscreen-for-anti-aging-original-imahzng8gtmpvpzs.jpeg?q=90",
@@ -317274,6 +318845,7 @@ const CTPRODUCTS = [
    "format:cream",
    "spf:50",
    "pa:++++",
+   "water:unstated",
    "ing:vitamin-b5-panthenol",
    "claim:anti-aging",
    "claim:acne",
@@ -317660,7 +319232,7 @@ const CTPRODUCTS = [
  {
   "id": "floral-beauty-itmcbd8631a2331c",
   "brand": "FLORAL BEAUTY",
-  "model": "Vitamin E Face Moisturizer With Vitamin E & Lactic …",
+  "model": "Vitamin E Face Moisturizer With Vitamin E & Lactic Acid -",
   "price": 135,
   "capacityLine": "100 g (pack of 2)",
   "materialLine": "lactic acid + saffron + vitamin E",
@@ -317709,7 +319281,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/floral-beauty-vitamin-e-face-moisturizer-lactic-acid/p/itmcbd8631a2331c",
   "buyStore": "Flipkart",
-  "title": "FLORAL BEAUTY Vitamin E Face Moisturizer With Vitamin E & Lactic …",
+  "title": "FLORAL BEAUTY Vitamin E Face Moisturizer With Vitamin E & Lactic Acid -",
   "tags": [
    "scope:both",
    "format:cream",
@@ -317771,7 +319343,7 @@ const CTPRODUCTS = [
  {
   "id": "floral-beauty-itmc878ea768077a",
   "brand": "FLORAL BEAUTY",
-  "model": "3% Vitamin E Face Moisturizer With Vitamin E & Lact …",
+  "model": "3% Vitamin E Face Moisturizer With Vitamin E & Lactic Acid -",
   "price": 127,
   "capacityLine": "9 ml",
   "materialLine": "lactic acid + vitamin E",
@@ -317820,7 +319392,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/floral-beauty-3-vitamin-e-face-moisturizer-lactic-acid/p/itmc878ea768077a",
   "buyStore": "Flipkart",
-  "title": "FLORAL BEAUTY 3% Vitamin E Face Moisturizer With Vitamin E & Lact …",
+  "title": "FLORAL BEAUTY 3% Vitamin E Face Moisturizer With Vitamin E & Lactic Acid -",
   "tags": [
    "scope:both",
    "format:cream",
@@ -318128,7 +319700,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 1,402 ratings"
+   "buyerEvidence": "4★ from 1,402 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/e/k/v/25-day-cream-with-sunscreen-spf-30pa-with-bb-boint-wonderlite-no-original-imah7jnzmrgsdame.jpeg?q=90",
@@ -318145,6 +319718,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:wash",
    "spf:30",
+   "water:unstated",
    "claim:brightening",
    "claim:hydrating",
    "claim:spf-claim",
@@ -318589,7 +320163,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/h/l/q/50-vitamin-c-sunscreen-spf-50-pa-brightening-formula-50-original-imahm2fcj38cyscc.jpeg?q=90",
@@ -318607,6 +320182,7 @@ const CTPRODUCTS = [
    "format:lotion",
    "spf:50",
    "pa:++++",
+   "water:unstated",
    "ing:vitamin-c",
    "claim:brightening",
    "claim:broad-spectrum",
@@ -318698,7 +320274,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Cantabria Labs — Dermatology / pharmaceutical manufacturer",
-   "buyerEvidence": "3.4★ from 63 ratings"
+   "buyerEvidence": "3.4★ from 63 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/m/c/e/50-gelcream-light-sunscreen-protector-solar-broad-spectrum-high-original-imahghy9ghyf7kt6.jpeg?q=90",
@@ -318716,6 +320293,7 @@ const CTPRODUCTS = [
    "format:cream",
    "spf:50",
    "pa:++++",
+   "water:unstated",
    "claim:broad-spectrum",
    "claim:spf-claim",
    "skin:all",
@@ -318806,7 +320384,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Cantabria Labs — Dermatology / pharmaceutical manufacturer",
-   "buyerEvidence": "2.3★ from 3 ratings"
+   "buyerEvidence": "2.3★ from 3 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/t/q/y/50-gel-cream-light-spf-50-tinted-sunscreen-360-water-gel-spf-50-original-imahnyw5ghzhpzza.jpeg?q=90",
@@ -318825,6 +320404,7 @@ const CTPRODUCTS = [
    "format:kit",
    "spf:50",
    "pa:++++",
+   "water:unstated",
    "claim:tinted",
    "claim:spf-claim",
    "aud:women",
@@ -318914,7 +320494,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Cantabria Labs — Dermatology / pharmaceutical manufacturer",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/s/f/4/50-gel-cream-light-spf-50-tinted-sunscreen-360-water-gel-spf-50-original-imahnyw5z7cyynf2.jpeg?q=90",
@@ -318933,6 +320514,7 @@ const CTPRODUCTS = [
    "format:kit",
    "spf:50",
    "pa:++++",
+   "water:unstated",
    "claim:dark-spots",
    "claim:acne",
    "claim:hydrating",
@@ -319030,7 +320612,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Cantabria Labs — Dermatology / pharmaceutical manufacturer",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/s/x/d/50-gel-cream-light-spf-50-tinted-sunscreen-360-water-gel-spf-50-original-imahnyvzwvgeykfy.jpeg?q=90",
@@ -319050,6 +320633,7 @@ const CTPRODUCTS = [
    "format:kit",
    "spf:50",
    "pa:++++",
+   "water:resistant",
    "claim:water-resistant",
    "claim:no-white-cast",
    "claim:broad-spectrum",
@@ -319144,7 +320728,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Cantabria Labs — Dermatology / pharmaceutical manufacturer",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/7/t/2/50-gel-cream-light-spf-50-tinted-sunscreen-360-water-gel-spf-50-original-imahnyvzp5zmd6er.jpeg?q=90",
@@ -319163,6 +320748,7 @@ const CTPRODUCTS = [
    "format:kit",
    "spf:50",
    "pa:++++",
+   "water:unstated",
    "claim:broad-spectrum",
    "claim:tinted",
    "claim:spf-claim",
@@ -319253,7 +320839,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Cantabria Labs — Dermatology / pharmaceutical manufacturer",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/9/y/d/50-gel-cream-light-spf-50-tinted-sunscreen-360-water-gel-spf-50-original-imahnyvy7xzsjpxy.jpeg?q=90",
@@ -319272,6 +320859,7 @@ const CTPRODUCTS = [
    "format:kit",
    "spf:50",
    "pa:++++",
+   "water:unstated",
    "claim:dark-spots",
    "claim:tinted",
    "claim:spf-claim",
@@ -319362,7 +320950,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/c/f/c/50-color-gel-cream-light-spf-50-tinted-sunscreen-white-50-original-imahnpzfmjuvgdqc.jpeg?q=90",
@@ -319380,6 +320969,7 @@ const CTPRODUCTS = [
    "format:cream",
    "spf:50",
    "pa:++++",
+   "water:unstated",
    "claim:broad-spectrum",
    "claim:tinted",
    "claim:spf-claim",
@@ -319470,7 +321060,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/g/0/9/180-sunscreen-cream-moisturiser-brightening-vitamin-c-hyaluronic-original-imahmhzw6h29uxw8.jpeg?q=90",
@@ -319488,6 +321079,7 @@ const CTPRODUCTS = [
    "format:lotion",
    "spf:50",
    "pa:++",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
    "ing:green-tea",
@@ -319591,7 +321183,8 @@ const CTPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — niacinamide #8 on INCI; Dark spots — niacinamide #8 on INCI; Irritation — aloe barbadensis leaf extract #1 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #8 on INCI; Dark spots — niacinamide #8 on INCI; Irritation — aloe barbadensis leaf extract #1 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/b/u/d/50-sunscreen-spf-50-moisturizer-cream-for-face-uv-protection-for-original-imahm2fhhpcfmdyf.jpeg?q=90",
@@ -319612,6 +321205,7 @@ const CTPRODUCTS = [
    "pa:++++",
    "sun:mineral",
    "sun:chemical",
+   "water:unstated",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:green-tea",
@@ -320862,12 +322456,12 @@ const CTPRODUCTS = [
    "Made by Fixderma India (dermatology company) (dermatology / pharma maker)"
   ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Only 3 ingredients named — formula unscored"
   ],
   "scores": {
    "ingredients": 0,
    "skin": 0,
-   "trust": 8,
+   "trust": 8.3,
    "experience": 1
   },
   "fullSpec": {
@@ -320884,9 +322478,9 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "3.7/5 (Get it faster ratings, Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
+   "inciStatus": "Only 3 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: Kojic Acid, Alpha Arbutin ,Tocopheryl Acetate",
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Fixderma India (dermatology company) — Dermatology / pharmaceutical manufacturer",
@@ -320910,7 +322504,7 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:3.5",
    "store:amazon",
-   "inci:none",
+   "inci:partial",
    "inci:pharma-maker"
   ],
   "filters": {
@@ -320920,23 +322514,23 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
+   "inci": "partial",
    "inciSrc": null,
    "pharma": true
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
    "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
+   "inciUnverified": "Kojic Acid, Alpha Arbutin ,Tocopheryl Acetate",
+   "inciNote": "Only 3 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
    "declarationConfidence": null,
-   "recognised": null,
+   "recognised": 1,
    "actives": [],
    "support": [],
    "formulaNotes": [],
@@ -323198,7 +324792,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61g7GaSywLL._AC_UL320_.jpg"
@@ -323210,6 +324805,7 @@ const CTPRODUCTS = [
    "scope:unstated",
    "format:cream",
    "spf:30",
+   "water:unstated",
    "ing:niacinamide",
    "ing:kojic-acid",
    "claim:brightening",
@@ -325501,13 +327097,13 @@ const CTPRODUCTS = [
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "No ingredient list published on the listing",
+   "Only 1 ingredient named — formula unscored",
    "Maker not verified — no parent company found"
   ],
   "scores": {
    "ingredients": 0,
    "skin": 0,
-   "trust": 3.5,
+   "trust": 3.8,
    "experience": 2.2
   },
   "fullSpec": {
@@ -325524,9 +327120,9 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.1/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: \"Alpha Arbutin (1.5%): Licorice Extract (Glabridin) (1%): Niacinamide (Vitamin B3) (2%): Vitamin E (Tocopherol) (0.5%): Allantoin (0.3%) Tranexamic Acid (1%) Multi Molecular Hyaluronic Acid (1.5%)\"",
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
@@ -325552,7 +327148,7 @@ const CTPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "inci:partial"
   ],
   "filters": {
    "actives": true,
@@ -325561,23 +327157,23 @@ const CTPRODUCTS = [
    "derm": true,
    "men": false,
    "women": false,
-   "inci": "none",
+   "inci": "partial",
    "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
    "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
+   "inciUnverified": "\"Alpha Arbutin (1.5%): Licorice Extract (Glabridin) (1%): Niacinamide (Vitamin B3) (2%): Vitamin E (Tocopherol) (0.5%): Allantoin (0.3%) Tranexamic Acid (1%) Multi Molecular Hyaluronic Acid (1.5%)\"",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
    "declarationConfidence": null,
-   "recognised": null,
+   "recognised": 1,
    "actives": [],
    "support": [],
    "formulaNotes": [],
@@ -330433,16 +332029,18 @@ const CTPRODUCTS = [
   "capacityLine": "40 g (pack of 2)",
   "materialLine": "niacinamide + kojic acid + alpha arbutin",
   "featureLine": "Cream / gel · ₹1185/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Dr. Sakhiya's official website (drsakhiyas.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "niacinamide high on the INCI list (strong evidence); dimethicone high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 4.6,
+   "skin": 7,
+   "trust": 5.5,
    "experience": 1.9
   },
   "fullSpec": {
@@ -330459,13 +332057,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.0/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Dr. Sakhiya's official website (drsakhiyas.com) — product page › Ingredients",
+   "inciSourceUrl": "https://drsakhiyas.com/products/kojic-acid-cream",
+   "inciMatchedName": "Dr. Sakhiya's Kojiclear - Skin Lightening & Brightening Cream with Kojic Acid, Glutathione, Niacinamide and Alpha Arbutin (name match 85%)",
+   "inciList": "Aqua, Glutathione, Sepi White MSH, Sepi Calm, Kojic Acid, Tranexamic Acid, Caprylic/Capric Triglyceride, Cetearyl Alcohol, PEG-100 Stearate (and) Glyceryl Stearate, Niacinamide, Tetrahydrocurcumin, Alpha Bisabolol, Pterocarpus Marsupium Bark Extract, Tetrahydropiperine Arbutin, Dexpanthenol, Dimethicone, Pentylene Glycol, C- 12/C-15 Alkyl Benzoate, Arachidyl Alcohol (and) Behenyl Alcohol (and) Arachidyl Glucoside, Ethoxydiglycol, Diacetyl Boldine, Cetearyl",
+   "evidenceActives": "niacinamide (#10 on list, strong evidence); dimethicone (#16 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #10 on INCI; Dark spots — kojic acid #5 on INCI, tranexamic acid #6 on INCI, niacinamide #10 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/7110dYNbizL._AC_UL320_.jpg"
@@ -330487,7 +332088,11 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "target:acne",
+   "target:dark-spots",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -330496,25 +332101,69 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Dr. Sakhiya's official website (drsakhiyas.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://drsakhiyas.com/products/kojic-acid-cream",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Dr. Sakhiya's Kojiclear - Skin Lightening & Brightening Cream with Kojic Acid, Glutathione, Niacinamide and Alpha Arbutin",
+   "inciMatchScore": 0.85,
+   "inciText": "Aqua, Glutathione, Sepi White MSH, Sepi Calm, Kojic Acid, Tranexamic Acid, Caprylic/Capric Triglyceride, Cetearyl Alcohol, PEG-100 Stearate (and) Glyceryl Stearate, Niacinamide, Tetrahydrocurcumin, Alpha Bisabolol, Pterocarpus Marsupium Bark Extract, Tetrahydropiperine Arbutin, Dexpanthenol, Dimethicone, Pentylene Glycol, C- 12/C-15 Alkyl Benzoate, Arachidyl Alcohol (and) Behenyl Alcohol (and) Arachidyl Glucoside, Ethoxydiglycol, Diacetyl Boldine, Cetearyl",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 0.88,
+   "actives": [
+    {
+     "name": "glutathione",
+     "grade": "C",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "pigment"
+    },
+    {
+     "name": "kojic acid",
+     "grade": "B",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "pigment"
+    },
+    {
+     "name": "tranexamic acid",
+     "grade": "B",
+     "position": 6,
+     "core": false,
+     "trace": false,
+     "src": "tranexamic"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 10,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 16,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    }
+   ],
+   "support": [
+    "niacinamide",
+    "dimethicone"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -330567,7 +332216,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.6★ from 0 ratings"
+   "buyerEvidence": "3.6★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51nfxZptmaL._AC_UL320_.jpg"
@@ -330578,6 +332228,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
+   "water:unstated",
    "claim:brightening",
    "claim:dark-spots",
    "aud:unisex",
@@ -333471,7 +335122,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61aKnmbT0zL._AC_UL320_.jpg"
@@ -333484,6 +335136,7 @@ const CTPRODUCTS = [
    "format:cream",
    "spf:30",
    "pa:++",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:glycolic-acid",
    "ing:kojic-acid",
@@ -333874,7 +335527,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61+SXgX7N-L._AC_UL320_.jpg"
@@ -333887,6 +335541,7 @@ const CTPRODUCTS = [
    "format:gel",
    "spf:50",
    "pa:++++",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "claim:hydrating",
    "claim:exfoliating",
@@ -333983,7 +335638,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51vrpZ6F0HL._AC_UL320_.jpg"
@@ -333998,6 +335654,7 @@ const CTPRODUCTS = [
    "spf:50",
    "pa:++++",
    "sun:chemical",
+   "water:unstated",
    "ing:saffron",
    "claim:hydrating",
    "claim:broad-spectrum",
@@ -334086,7 +335743,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51oaFUlc2OL._AC_UL320_.jpg"
@@ -334101,6 +335759,7 @@ const CTPRODUCTS = [
    "spf:50",
    "pa:++++",
    "sun:mineral",
+   "water:unstated",
    "claim:hydrating",
    "claim:no-white-cast",
    "claim:korean",
@@ -334189,7 +335848,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51Z7ifvDayL._AC_UL320_.jpg"
@@ -334202,6 +335862,7 @@ const CTPRODUCTS = [
    "format:gel",
    "spf:50+",
    "pa:++++",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "claim:oil-control",
@@ -334294,7 +335955,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61+WCBy0Z+L._AC_UL320_.jpg"
@@ -334309,6 +335971,7 @@ const CTPRODUCTS = [
    "spf:50+",
    "pa:+++",
    "sun:mineral",
+   "water:unstated",
    "ing:zinc",
    "ing:titanium-dioxide",
    "claim:oil-control",
@@ -334400,7 +336063,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61rHdwSrsjL._AC_UL320_.jpg"
@@ -334414,6 +336078,7 @@ const CTPRODUCTS = [
    "spf:50",
    "pa:+++",
    "sun:mineral",
+   "water:unstated",
    "claim:oil-control",
    "claim:hydrating",
    "claim:no-white-cast",
@@ -334622,7 +336287,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "2.9★ from 0 ratings"
+   "buyerEvidence": "2.9★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71p6CUr-FJL._AC_UL320_.jpg"
@@ -334638,6 +336304,7 @@ const CTPRODUCTS = [
    "format:wash",
    "format:kit",
    "spf:60",
+   "water:unstated",
    "ing:pha",
    "ing:hyaluronic-acid",
    "ing:alpha-lipoic-acid",
@@ -334731,7 +336398,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.6★ from 0 ratings"
+   "buyerEvidence": "3.6★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/81dnu-C32hL._AC_UL320_.jpg"
@@ -334747,6 +336415,7 @@ const CTPRODUCTS = [
    "format:wash",
    "format:kit",
    "spf:60",
+   "water:unstated",
    "ing:retinol",
    "ing:salicylic-acid-bha",
    "ing:pha",
@@ -334841,7 +336510,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71eAAdc0-9L._AC_UL320_.jpg"
@@ -334856,6 +336526,7 @@ const CTPRODUCTS = [
    "format:wash",
    "format:kit",
    "spf:50",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:pha",
@@ -334949,7 +336620,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.5★ from 0 ratings"
+   "buyerEvidence": "3.5★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/81+73Fu2AhL._AC_UL320_.jpg"
@@ -334964,6 +336636,7 @@ const CTPRODUCTS = [
    "format:wash",
    "format:kit",
    "spf:50",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:pha",
    "ing:vitamin-b5-panthenol",
@@ -337153,6 +338826,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:cream",
    "ing:niacinamide",
+   "ing:pdrn-polynucleotide",
    "claim:hydrating",
    "claim:korean",
    "free:vegan",
@@ -337252,6 +338926,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:cream",
    "ing:niacinamide",
+   "ing:pdrn-polynucleotide",
    "claim:acne",
    "claim:hydrating",
    "claim:soothing",
@@ -337459,6 +339134,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:cream",
    "ing:niacinamide",
+   "ing:pdrn-polynucleotide",
    "claim:acne",
    "claim:hydrating",
    "claim:soothing",
@@ -337662,6 +339338,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:cream",
    "ing:niacinamide",
+   "ing:pdrn-polynucleotide",
    "claim:acne",
    "claim:hydrating",
    "claim:soothing",
@@ -337765,6 +339442,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:cream",
    "ing:niacinamide",
+   "ing:pdrn-polynucleotide",
    "claim:acne",
    "claim:hydrating",
    "claim:barrier",
@@ -337868,6 +339546,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:cream",
    "ing:niacinamide",
+   "ing:pdrn-polynucleotide",
    "claim:acne",
    "claim:hydrating",
    "claim:soothing",
@@ -337970,6 +339649,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:cream",
    "ing:niacinamide",
+   "ing:pdrn-polynucleotide",
    "claim:acne",
    "claim:hydrating",
    "claim:korean",
@@ -338275,6 +339955,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:cream",
    "ing:niacinamide",
+   "ing:pdrn-polynucleotide",
    "claim:acne",
    "claim:hydrating",
    "claim:soothing",
@@ -338379,6 +340060,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:kit",
    "ing:niacinamide",
+   "ing:pdrn-polynucleotide",
    "claim:acne",
    "claim:hydrating",
    "claim:soothing",
@@ -338585,6 +340267,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:kit",
    "ing:niacinamide",
+   "ing:pdrn-polynucleotide",
    "claim:hydrating",
    "claim:korean",
    "skin:all",
@@ -338686,6 +340369,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:cream",
    "ing:niacinamide",
+   "ing:pdrn-polynucleotide",
    "claim:acne",
    "claim:hydrating",
    "claim:soothing",
@@ -338891,6 +340575,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:kit",
    "ing:niacinamide",
+   "ing:pdrn-polynucleotide",
    "claim:acne",
    "claim:hydrating",
    "claim:soothing",
@@ -338995,6 +340680,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:kit",
    "ing:niacinamide",
+   "ing:pdrn-polynucleotide",
    "claim:acne",
    "claim:hydrating",
    "claim:soothing",
@@ -339412,6 +341098,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:kit",
    "ing:niacinamide",
+   "ing:pdrn-polynucleotide",
    "claim:acne",
    "claim:hydrating",
    "claim:soothing",
@@ -339620,6 +341307,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:kit",
    "ing:niacinamide",
+   "ing:pdrn-polynucleotide",
    "claim:acne",
    "claim:hydrating",
    "claim:barrier",
@@ -340038,6 +341726,7 @@ const CTPRODUCTS = [
    "format:pack",
    "ing:niacinamide",
    "ing:vitamin-b5-panthenol",
+   "ing:pdrn-polynucleotide",
    "claim:acne",
    "claim:hydrating",
    "claim:soothing",
@@ -340654,6 +342343,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:kit",
    "ing:niacinamide",
+   "ing:pdrn-polynucleotide",
    "claim:acne",
    "claim:hydrating",
    "claim:soothing",
@@ -341060,7 +342750,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51M5iAR+YEL._AC_UL320_.jpg"
@@ -341071,6 +342762,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "spf:30",
+   "water:unstated",
    "ing:niacinamide",
    "ing:squalane",
    "ing:vitamin-b5-panthenol",
@@ -341175,6 +342867,7 @@ const CTPRODUCTS = [
    "scope:unstated",
    "format:cream",
    "ing:niacinamide",
+   "ing:pdrn-polynucleotide",
    "claim:acne",
    "claim:hydrating",
    "claim:soothing",
@@ -341265,7 +342958,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61lPl5U+PqL._AC_UL320_.jpg"
@@ -341277,6 +342971,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:cream",
    "spf:30",
+   "water:unstated",
    "ing:niacinamide",
    "ing:alpha-arbutin",
    "claim:oil-control",
@@ -342185,7 +343880,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61lPl5U+PqL._AC_UL320_.jpg"
@@ -342197,6 +343893,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:cream",
    "spf:30",
+   "water:unstated",
    "ing:niacinamide",
    "ing:alpha-arbutin",
    "claim:hydrating",
@@ -342387,7 +344084,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61lPl5U+PqL._AC_UL320_.jpg"
@@ -342399,6 +344097,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:cream",
    "spf:30",
+   "water:unstated",
    "ing:niacinamide",
    "ing:alpha-arbutin",
    "claim:hydrating",
@@ -342593,7 +344292,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61NohjmvirL._AC_UL320_.jpg"
@@ -342607,6 +344307,7 @@ const CTPRODUCTS = [
    "format:kit",
    "spf:50",
    "pa:++++",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
@@ -342802,7 +344503,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61lPl5U+PqL._AC_UL320_.jpg"
@@ -342814,6 +344516,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:cream",
    "spf:30",
+   "water:unstated",
    "ing:niacinamide",
    "ing:alpha-arbutin",
    "claim:brightening",
@@ -343317,7 +345020,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51TbXOYUDKL._SL1000_.jpg",
@@ -343332,6 +345036,7 @@ const CTPRODUCTS = [
    "format:serum",
    "spf:15",
    "pa:++++",
+   "water:unstated",
    "ing:niacinamide",
    "ing:rice-water",
    "claim:brightening",
@@ -343428,7 +345133,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51wjoeBHbqL._AC_UL320_.jpg"
@@ -343441,6 +345147,7 @@ const CTPRODUCTS = [
    "format:serum",
    "spf:15",
    "pa:++++",
+   "water:unstated",
    "ing:niacinamide",
    "ing:rice-water",
    "claim:brightening",
@@ -343534,7 +345241,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61H6LDJw+VL._AC_UL320_.jpg"
@@ -343546,7 +345254,9 @@ const CTPRODUCTS = [
    "scope:unstated",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:niacinamide",
+   "ing:pdrn-polynucleotide",
    "claim:hydrating",
    "claim:broad-spectrum",
    "claim:spf-claim",
@@ -343735,7 +345445,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51TbXOYUDKL._AC_UL320_.jpg"
@@ -343748,6 +345459,7 @@ const CTPRODUCTS = [
    "format:serum",
    "spf:15",
    "pa:++++",
+   "water:unstated",
    "ing:niacinamide",
    "ing:rice-water",
    "claim:brightening",
@@ -343841,7 +345553,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51TbXOYUDKL._AC_UL320_.jpg"
@@ -343854,6 +345567,7 @@ const CTPRODUCTS = [
    "format:serum",
    "spf:15",
    "pa:++++",
+   "water:unstated",
    "ing:niacinamide",
    "ing:rice-water",
    "claim:brightening",
@@ -344314,7 +346028,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Beiersdorf (Eucerin dermo-cosmetics) — Dermatology / pharmaceutical manufacturer",
-   "buyerEvidence": "4.4★ from 0 ratings"
+   "buyerEvidence": "4.4★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41Vny1ePwtL._AC_UL320_.jpg"
@@ -344326,6 +346041,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:cream",
    "spf:30",
+   "water:unstated",
    "ing:thiamidol",
    "claim:dark-spots",
    "claim:spf-claim",
@@ -344819,7 +346535,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61yYVYM7ExL._AC_UL320_.jpg"
@@ -344832,6 +346549,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:oil",
    "spf:30",
+   "water:unstated",
    "ing:kumkumadi",
    "claim:brightening",
    "claim:dark-spots",
@@ -345233,7 +346951,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61z8kACccsL._AC_UL320_.jpg"
@@ -345245,6 +346964,7 @@ const CTPRODUCTS = [
    "scope:unstated",
    "format:cream",
    "format:balm",
+   "water:unstated",
    "ing:shea-butter",
    "claim:brightening",
    "aud:unisex",
@@ -347416,7 +349136,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.4★ from 0 ratings"
+   "buyerEvidence": "3.4★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/711gHvugxML._SL1500_.jpg",
@@ -347432,6 +349153,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:cream",
    "spf:15",
+   "water:unstated",
    "claim:brightening",
    "claim:dark-spots",
    "claim:oil-control",
@@ -348545,7 +350267,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.6★ from 0 ratings"
+   "buyerEvidence": "3.6★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51QO3SL5NtL._AC_UL320_.jpg"
@@ -348556,6 +350279,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:cream",
+   "water:unstated",
    "ing:niacinamide",
    "ing:alpha-arbutin",
    "ing:glycerin",
@@ -359902,7 +361626,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Glenmark Pharmaceuticals — Dermatology / pharmaceutical manufacturer",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41f37N7XOHL._AC_UL320_.jpg"
@@ -359913,6 +361638,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "spf:30",
+   "water:unstated",
    "claim:acne",
    "claim:hydrating",
    "claim:lightweight",
@@ -360003,7 +361729,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Lotus Herbals — Established / listed Indian FMCG house",
-   "buyerEvidence": "3.6★ from 0 ratings"
+   "buyerEvidence": "3.6★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61K-fPMrCFL._AC_UL320_.jpg"
@@ -360017,6 +361744,7 @@ const CTPRODUCTS = [
    "spf:30",
    "pa:+++",
    "sun:mineral",
+   "water:unstated",
    "claim:oil-control",
    "claim:hydrating",
    "claim:barrier",
@@ -360108,7 +361836,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71851q6sigL._AC_UL320_.jpg"
@@ -360123,6 +361852,7 @@ const CTPRODUCTS = [
    "spf:30",
    "pa:+++",
    "sun:mineral",
+   "water:unstated",
    "ing:zinc",
    "claim:oil-control",
    "claim:broad-spectrum",
@@ -360211,7 +361941,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51lyBVBINdL._AC_UL320_.jpg"
@@ -360223,6 +361954,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:lotion",
    "spf:30",
+   "water:resistant",
    "claim:oil-control",
    "claim:hydrating",
    "claim:water-resistant",
@@ -360315,7 +362047,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61VTIlyG48L._AC_UL320_.jpg"
@@ -360330,6 +362063,7 @@ const CTPRODUCTS = [
    "spf:30",
    "pa:++++",
    "sun:chemical",
+   "water:unstated",
    "ing:saffron",
    "claim:broad-spectrum",
    "claim:spf-claim",
@@ -360418,7 +362152,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61yvbtPfNlL._AC_UL320_.jpg"
@@ -360431,6 +362166,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:kit",
    "spf:30",
+   "water:unstated",
    "ing:turmeric",
    "ing:saffron",
    "ing:kumkumadi",
@@ -360518,7 +362254,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
-   "buyerEvidence": "4.6★ from 0 ratings"
+   "buyerEvidence": "4.6★ from 0 ratings",
+   "waterResistance": "sweat resistant (per listing — not tested here, not scored)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51c42aoYEeL._AC_UL320_.jpg"
@@ -360531,6 +362268,7 @@ const CTPRODUCTS = [
    "format:cream",
    "spf:50",
    "pa:+++",
+   "water:sweat",
    "ing:ceramides",
    "ing:peptides",
    "ing:milk",
@@ -360623,7 +362361,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Bio Veda Action Research — Established / listed Indian FMCG house",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71WPcQiWF3L._AC_UL320_.jpg"
@@ -360634,6 +362373,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
+   "water:unstated",
    "claim:broad-spectrum",
    "aud:unisex",
    "size:travel",
@@ -360719,7 +362459,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61vYOnQUotL._AC_UL320_.jpg"
@@ -360732,6 +362473,7 @@ const CTPRODUCTS = [
    "format:kit",
    "spf:40",
    "pa:+++",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "claim:hydrating",
@@ -360821,7 +362563,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61xGMvHCTdL._AC_UL320_.jpg"
@@ -360833,6 +362576,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:cream",
    "spf:40",
+   "water:unstated",
    "ing:collagen",
    "claim:acne",
    "claim:hydrating",
@@ -360925,7 +362669,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "VLCC Health Care — Established / listed Indian FMCG house",
-   "buyerEvidence": "3.9★ from 0 ratings"
+   "buyerEvidence": "3.9★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61u+sdlpMNL._AC_UL320_.jpg"
@@ -360939,6 +362684,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:kit",
    "spf:40",
+   "water:unstated",
    "claim:brightening",
    "claim:dark-spots",
    "claim:oil-control",
@@ -361026,7 +362772,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Bio Veda Action Research — Established / listed Indian FMCG house",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41i30uHdusL._AC_UL320_.jpg"
@@ -361038,6 +362785,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:cream",
    "format:kit",
+   "water:unstated",
    "claim:soothing",
    "claim:broad-spectrum",
    "skin:all",
@@ -361125,7 +362873,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Lotus Herbals — Established / listed Indian FMCG house",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61jFtu3Bx9L._AC_UL320_.jpg"
@@ -361139,6 +362888,7 @@ const CTPRODUCTS = [
    "format:serum",
    "spf:15",
    "pa:+++",
+   "water:unstated",
    "claim:brightening",
    "claim:hydrating",
    "claim:ayurvedic",
@@ -361226,7 +362976,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Kreative Beauty Pvt Ltd (Hyphen) — Indian D2C brand with its own product company",
-   "buyerEvidence": "3.9★ from 0 ratings"
+   "buyerEvidence": "3.9★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51jCq8pHi6L._AC_UL320_.jpg"
@@ -361238,6 +362989,7 @@ const CTPRODUCTS = [
    "scope:unstated",
    "spf:50",
    "pa:++++",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:peptides",
    "claim:brightening",
@@ -361332,7 +363084,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61xCC0p9fCL._AC_UL320_.jpg"
@@ -361346,6 +363099,7 @@ const CTPRODUCTS = [
    "format:oil",
    "format:balm",
    "spf:40",
+   "water:unstated",
    "ing:coffee",
    "ing:shea-butter",
    "claim:brightening",
@@ -361436,7 +363190,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Lotus Herbals — Established / listed Indian FMCG house",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61S3sgXWCCL._AC_UL320_.jpg"
@@ -361449,6 +363204,7 @@ const CTPRODUCTS = [
    "format:cream",
    "spf:50+",
    "pa:+",
+   "water:unstated",
    "claim:hydrating",
    "claim:ayurvedic",
    "claim:spf-claim",
@@ -361536,7 +363292,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.9★ from 0 ratings"
+   "buyerEvidence": "3.9★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61GN0Fkh9mL._AC_UL320_.jpg"
@@ -361547,6 +363304,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "spf:40",
+   "water:unstated",
    "ing:niacinamide",
    "claim:brightening",
    "claim:oil-control",
@@ -361636,7 +363394,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Bio Veda Action Research — Established / listed Indian FMCG house",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71lkCcuyPYL._AC_UL320_.jpg"
@@ -361647,6 +363406,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
+   "water:unstated",
    "ing:aloe-vera",
    "aud:unisex",
    "size:travel",
@@ -361732,7 +363492,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 0 ratings"
+   "buyerEvidence": "4.4★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51ykqr4ZIDL._AC_UL320_.jpg"
@@ -361744,6 +363505,7 @@ const CTPRODUCTS = [
    "scope:unstated",
    "spf:50+",
    "pa:++++",
+   "water:unstated",
    "claim:brightening",
    "claim:hydrating",
    "claim:tinted",
@@ -361835,7 +363597,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51iepuZFfFL._AC_UL320_.jpg"
@@ -361848,6 +363611,7 @@ const CTPRODUCTS = [
    "format:cream",
    "spf:50",
    "pa:++++",
+   "water:resistant",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
@@ -361943,7 +363707,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.7★ from 0 ratings"
+   "buyerEvidence": "4.7★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71i97HZ24IL._AC_UL320_.jpg"
@@ -361955,6 +363720,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:balm",
    "format:kit",
+   "water:unstated",
    "claim:hydrating",
    "claim:spf-claim",
    "aud:unisex",
@@ -362039,7 +363805,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "VLCC Health Care — Established / listed Indian FMCG house",
-   "buyerEvidence": "3.9★ from 0 ratings"
+   "buyerEvidence": "3.9★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51qZ7IK7m8L._AC_UL320_.jpg"
@@ -362052,6 +363819,7 @@ const CTPRODUCTS = [
    "format:gel",
    "format:cream",
    "spf:40",
+   "water:unstated",
    "claim:brightening",
    "claim:dark-spots",
    "claim:oil-control",
@@ -362140,7 +363908,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.8★ from 0 ratings"
+   "buyerEvidence": "3.8★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61sSw8eJB7L._AC_UL320_.jpg"
@@ -362152,6 +363921,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:cream",
    "spf:50",
+   "water:unstated",
    "ing:collagen",
    "claim:acne",
    "claim:hydrating",
@@ -362246,7 +364016,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51Ag839MnjL._AC_UL320_.jpg"
@@ -362258,6 +364029,7 @@ const CTPRODUCTS = [
    "scope:face",
    "spf:50",
    "pa:+++",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "claim:oil-control",
@@ -362349,7 +364121,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.7★ from 0 ratings"
+   "buyerEvidence": "4.7★ from 0 ratings",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51oO6lr+qUL._AC_UL320_.jpg"
@@ -362364,6 +364137,7 @@ const CTPRODUCTS = [
    "format:kit",
    "spf:50",
    "pa:+++",
+   "water:resistant",
    "claim:oil-control",
    "claim:hydrating",
    "claim:water-resistant",
@@ -362455,7 +364229,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 0 ratings"
+   "buyerEvidence": "4.4★ from 0 ratings",
+   "waterResistance": "Water resistant — 80 minutes or more (very water resistant) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51YZpPjaAOL._AC_UL320_.jpg"
@@ -362469,6 +364244,7 @@ const CTPRODUCTS = [
    "format:cream",
    "spf:30",
    "pa:+++",
+   "water:80",
    "claim:acne",
    "claim:oil-control",
    "claim:water-resistant",
@@ -363097,7 +364873,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "L'Oréal — Global FMCG or beauty group",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51WLoREIXPL._SL1065_.jpg",
@@ -363115,6 +364892,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:peel",
    "spf:15",
+   "water:unstated",
    "ing:niacinamide",
    "ing:glycolic-acid",
    "ing:aha",
@@ -363308,7 +365086,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "L'Oréal — Global FMCG or beauty group",
-   "buyerEvidence": "4.4★ from 0 ratings"
+   "buyerEvidence": "4.4★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41PCuamCejL._AC_UL320_.jpg"
@@ -363322,6 +365101,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:kit",
    "spf:15",
+   "water:unstated",
    "ing:niacinamide",
    "ing:glycolic-acid",
    "claim:brightening",
@@ -364222,7 +366002,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.6★ from 0 ratings"
+   "buyerEvidence": "3.6★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61oWSipuisL._SL1500_.jpg",
@@ -364237,6 +366018,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
+   "water:unstated",
    "ing:niacinamide",
    "ing:glycolic-acid",
    "ing:kojic-acid",
@@ -364333,7 +366115,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71uEFYRzUDL._SL1500_.jpg",
@@ -364349,6 +366132,7 @@ const CTPRODUCTS = [
    "format:lotion",
    "spf:50+",
    "pa:+++",
+   "water:resistant",
    "ing:urea",
    "ing:glycerin",
    "claim:oil-control",
@@ -364362,6 +366146,7 @@ const CTPRODUCTS = [
    "claim:spf-claim",
    "claim:dry-skin-relief",
    "claim:makeup",
+   "claim:waterproof-makeup",
    "skin:sensitive",
    "skin:all",
    "free:paraben",
@@ -364453,7 +366238,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.9★ from 0 ratings"
+   "buyerEvidence": "3.9★ from 0 ratings",
+   "waterResistance": "marketed for swim / sport / outdoors (per listing — not tested here, not scored)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61gTWSDCe+L._SL1500_.jpg",
@@ -364470,6 +366256,8 @@ const CTPRODUCTS = [
    "format:cream",
    "spf:50",
    "pa:+++",
+   "water:unstated",
+   "water:sport",
    "ing:vitamin-c",
    "claim:hydrating",
    "claim:broad-spectrum",
@@ -364518,6 +366306,6830 @@ const CTPRODUCTS = [
     "url": null
    },
    "buyers": "3.9★ from 0 ratings"
+  }
+ },
+ {
+  "id": "vlcc-itm54de0ca827606",
+  "brand": "Vlcc",
+  "model": "Sunscreen - SPF 50 PA+++ De-Tan Gel Cream - For Sun Protection",
+  "price": 500,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Sunscreen · SPF 50",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Too few ingredients are recognisable INCI names to treat this as the declared list, so formula and safety are unscored — formula unscored"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6.3,
+   "experience": 7.2
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Sunscreen",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "SPF 50",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.1/5 (19,012 ratings, Flipkart)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Too few ingredients are recognisable INCI names to treat this as the declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Specifications › Composition",
+   "inciList": "Unverified seller line: Enriched with a powerful blend of Ceramide NP, Niacinamide, Vitamin E and extracts of Grape fruit, Mulberry root, Cucumber, Olive & Aloe vera.",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "VLCC Health Care — Established / listed Indian FMCG house",
+   "declaredManufacturer": "VLCC Personal Care Ltd, Industrial Growth Center, Matiya, Mornoi, Goalpara, Assam - 783101 , Plot No. 11 & 12, Sec. 6A, Sidcul, IIE, Haridwar, Uttarakhand - 249403, India. (as printed on the Flipkart listing — not scored)",
+   "buyerEvidence": "4.1★ from 19,012 ratings",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/r/9/y/-original-imahjxdajzkhhzzw.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-sunscreen/u/5/t/-original-imahjs27wtp98krj.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-sunscreen/d/z/4/-original-imahjs272ampkgng.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/t/x/u/-original-imahjs27xegnp9qm.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/cms-rpd-img/9bf503eb13f9461d9adfc3b6da700c75_1973ec1db5b_1.jpg.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/vlcc-sunscreen-spf-50-pa-de-tan-gel-cream-sun-protection/p/itm54de0ca827606",
+  "buyStore": "Flipkart",
+  "title": "VLCC Sunscreen - SPF 50 PA+++ De-Tan Gel Cream - For Sun Protection",
+  "tags": [
+   "scope:unstated",
+   "format:gel",
+   "format:cream",
+   "spf:50",
+   "pa:+++",
+   "water:unstated",
+   "claim:de-tan",
+   "claim:spf-claim",
+   "aud:unisex",
+   "rating:4.0",
+   "store:flipkart",
+   "inci:partial"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Specifications › Composition",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Enriched with a powerful blend of Ceramide NP, Niacinamide, Vitamin E and extracts of Grape fruit, Mulberry root, Cucumber, Olive & Aloe vera.",
+   "inciNote": "Too few ingredients are recognisable INCI names to treat this as the declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 0.86,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "VLCC Health Care",
+    "kind": "india",
+    "label": "Established / listed Indian FMCG house",
+    "pts": 6,
+    "url": "https://www.vlccwellness.com/"
+   },
+   "buyers": "4.1★ from 19,012 ratings"
+  }
+ },
+ {
+  "id": "vlcc-itmf556afjwrxfqh",
+  "brand": "Vlcc",
+  "model": "Sunscreen - SPF 60 PA+++ Water Resistant Sunscreen Gel Cream",
+  "price": 439,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Sunscreen · SPF 60",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 2 ingredients named — formula unscored"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6.3,
+   "experience": 7.6
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Sunscreen",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "SPF 60",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.2/5 (8,065 ratings, Flipkart)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Specifications › Composition",
+   "inciList": "Unverified seller line: Ceramide and Vitamin E - Helps strengthen skin barrier",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "VLCC Health Care — Established / listed Indian FMCG house",
+   "declaredManufacturer": "VLCC Personal Care Ltd. (as printed on the Flipkart listing — not scored)",
+   "buyerEvidence": "4.2★ from 8,065 ratings",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/v/s/x/-original-imahjxdaznmjgnpn.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/9/m/j/-original-imahbphcwnrhnfdg.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/z/4/c/-original-imahbphcgj5f62gv.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/v/a/j/-original-imahbphc6rgf9bad.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/cms-rpd-img/e5193c8e9f784fd7baa6d96be776ffa1_1973ebe6907_1.jpg.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/vlcc-sunscreen-spf-60-pa-de-tan-water-resistant-gel-cream-sun-protection/p/itmf556afjwrxfqh",
+  "buyStore": "Flipkart",
+  "title": "VLCC Sunscreen - SPF 60 PA+++ Water Resistant Sunscreen Gel Cream",
+  "tags": [
+   "scope:unstated",
+   "format:gel",
+   "format:cream",
+   "spf:60",
+   "pa:+++",
+   "water:resistant",
+   "claim:water-resistant",
+   "claim:spf-claim",
+   "aud:unisex",
+   "rating:4.0",
+   "store:flipkart",
+   "inci:partial"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Specifications › Composition",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Ceramide and Vitamin E - Helps strengthen skin barrier",
+   "inciNote": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 0.5,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "VLCC Health Care",
+    "kind": "india",
+    "label": "Established / listed Indian FMCG house",
+    "pts": 6,
+    "url": "https://www.vlccwellness.com/"
+   },
+   "buyers": "4.2★ from 8,065 ratings"
+  }
+ },
+ {
+  "id": "vlcc-itm5c9d60211b8f7",
+  "brand": "Vlcc",
+  "model": "Sunscreen - SPF 60 PA+++ De-Tan Water Resistant Sunscreen Gel Cream - For Sun Protection",
+  "price": 500,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Sunscreen · SPF 60",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 2 ingredients named — formula unscored"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6.3,
+   "experience": 7.6
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Sunscreen",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "SPF 60",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.2/5 (5,271 ratings, Flipkart)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Specifications › Composition",
+   "inciList": "Unverified seller line: Ceramide and Vitamin E - Helps strengthen skin barrier",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "VLCC Health Care — Established / listed Indian FMCG house",
+   "declaredManufacturer": "VLCC Personal Care Ltd, Industrial Growth Center, Matiya, Mornoi, Goalpara, Assam - 783101 , Plot No. 11 & 12, Sec. 6A, Sidcul, IIE, Haridwar, Uttarakhand - 249403, India. (as printed on the Flipkart listing — not scored)",
+   "buyerEvidence": "4.2★ from 5,271 ratings",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/v/s/x/-original-imahjxdaznmjgnpn.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/9/m/j/-original-imahbphcwnrhnfdg.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/z/4/c/-original-imahbphcgj5f62gv.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/v/a/j/-original-imahbphc6rgf9bad.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/cms-rpd-img/b9fc4d43c1ec4874980053a2e005eaa5_1974513552f_1.jpg.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/vlcc-sunscreen-spf-60-pa-de-tan-water-resistant-gel-cream-sun-protection/p/itm5c9d60211b8f7",
+  "buyStore": "Flipkart",
+  "title": "VLCC Sunscreen - SPF 60 PA+++ De-Tan Water Resistant Sunscreen Gel Cream - For Sun Protection",
+  "tags": [
+   "scope:unstated",
+   "format:gel",
+   "format:cream",
+   "spf:60",
+   "pa:+++",
+   "water:resistant",
+   "claim:de-tan",
+   "claim:water-resistant",
+   "claim:spf-claim",
+   "aud:unisex",
+   "rating:4.0",
+   "store:flipkart",
+   "inci:partial"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Specifications › Composition",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Ceramide and Vitamin E - Helps strengthen skin barrier",
+   "inciNote": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 0.5,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "VLCC Health Care",
+    "kind": "india",
+    "label": "Established / listed Indian FMCG house",
+    "pts": 6,
+    "url": "https://www.vlccwellness.com/"
+   },
+   "buyers": "4.2★ from 5,271 ratings"
+  }
+ },
+ {
+  "id": "the-plant-fix-plix-itm0b48e5e441404",
+  "brand": "The Plant Fix Plix",
+  "model": "Sunscreen - SPF 50 PA++++ Watermelon Protect & Hydrate 2 in 1 formula Moisturizer + Sunscr…",
+  "price": 269,
+  "capacityLine": "50 g",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Sunscreen · SPF 50 · ₹538/100g",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6,
+   "experience": 7.2
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹538/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, SPF 50",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.1/5 (3,816 ratings, Flipkart)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Marico (Plix) — Established / listed Indian FMCG house",
+   "buyerEvidence": "4.1★ from 3,816 ratings",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/q/j/q/50-watermelon-protect-hydrate-2-in-1-formula-moisturizer-original-imahnbm6jceddk7r.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/f/c/y/50-watermelon-protect-hydrate-2-in-1-formula-moisturizer-original-imahbva5ergguzyn.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/q/3/n/50-watermelon-protect-hydrate-2-in-1-formula-moisturizer-original-imahbva5fzeet2kp.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/n/o/j/50-watermelon-protect-hydrate-2-in-1-formula-moisturizer-original-imahnbm7t9mhfqrj.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/i/u/8/50-watermelon-protect-hydrate-2-in-1-formula-moisturizer-original-imahbva5bhgfcfeb.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/plant-fix-plix-sunscreen-spf-50-pa-watermelon-protect-hydrate-2-1-formula-moisturizer/p/itm0b48e5e441404",
+  "buyStore": "Flipkart",
+  "title": "The Plant Fix Plix Sunscreen - SPF 50 PA++++ Watermelon Protect & Hydrate 2 in 1 formula Moisturizer + Sunscreen",
+  "tags": [
+   "scope:unstated",
+   "format:gel",
+   "spf:50",
+   "pa:++++",
+   "water:unstated",
+   "ing:watermelon",
+   "claim:hydrating",
+   "claim:spf-claim",
+   "aud:women",
+   "size:travel",
+   "rating:4.0",
+   "store:flipkart",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Marico (Plix)",
+    "kind": "india",
+    "label": "Established / listed Indian FMCG house",
+    "pts": 6,
+    "url": "https://marico.com/india/brands"
+   },
+   "buyers": "4.1★ from 3,816 ratings"
+  }
+ },
+ {
+  "id": "tuco-itm5e4612272e07a",
+  "brand": "Tuco",
+  "model": "Sunscreen - SPF 30 PA++++ Kids Sunscreen SPF 30 PA++++ Saffron Face Cream and Sunscreen Br…",
+  "price": 200,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "saffron + squalane",
+  "featureLine": "Sunscreen · Paraben-free · SPF 30",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 7.3
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Sunscreen",
+   "keyIngredients": "saffron, squalane (per listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, SPF 30",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "4.2/5 (2,339 ratings, Flipkart)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "declaredManufacturer": "Organovedics (as printed on the Flipkart listing — not scored)",
+   "buyerEvidence": "4.2★ from 2,339 ratings",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/t/6/q/30-intelligent-kids-saffron-face-cream-sunscreen-50gm-broad-original-imahz89fhcjrggtt.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/m/g/y/30-intelligent-kids-saffron-face-cream-sunscreen-50gm-broad-original-imahhh77t6fn4vur.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/l/e/o/30-intelligent-kids-saffron-face-cream-sunscreen-50gm-broad-original-imahhh77kkq3phgj.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/5/v/e/30-intelligent-kids-saffron-face-cream-sunscreen-50gm-broad-original-imahhh77vjyutbsc.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/h/0/a/30-intelligent-kids-saffron-face-cream-sunscreen-50gm-broad-original-imahhh777cn28z5y.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/tuco-sunscreen-spf-30-pa-kids-saffron-face-cream-broad-spectrum-uv/p/itm5e4612272e07a",
+  "buyStore": "Flipkart",
+  "title": "TuCo Sunscreen - SPF 30 PA++++ Kids Sunscreen SPF 30 PA++++ Saffron Face Cream and Sunscreen Broad Spectrum UV",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "spf:30",
+   "pa:++++",
+   "water:unstated",
+   "ing:saffron",
+   "ing:squalane",
+   "ing:licorice",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:soothing",
+   "claim:broad-spectrum",
+   "claim:lightweight",
+   "claim:spf-claim",
+   "free:paraben",
+   "free:vegan",
+   "aud:kids",
+   "rating:4.0",
+   "store:flipkart",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.2★ from 2,339 ratings"
+  }
+ },
+ {
+  "id": "tuco-itm6419e4092d582",
+  "brand": "Tuco",
+  "model": "Sunscreen - SPF 50 PA++++ Kids Sunscreen SPF 50 PA++++ Saffron Face Cream and Sunscreen Br…",
+  "price": 398,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "saffron + squalane",
+  "featureLine": "Sunscreen · SPF 50",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 6.9
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Sunscreen",
+   "keyIngredients": "saffron, squalane (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, SPF 50",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.2/5 (1,335 ratings, Flipkart)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "declaredManufacturer": "BJain Pharmaceuticals Pvt Ltd, E-41/F, RICO Industrial Area, Khushkera, District Alwar, Bhiwadi, Rajasthan - 301707 (as printed on the Flipkart listing — not scored)",
+   "buyerEvidence": "4.2★ from 1,335 ratings",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/r/y/6/50-intelligent-kids-saffron-face-cream-sunscreen-50gm-broad-original-imahz89gbbgqk6qv.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/f/u/i/50-intelligent-kids-saffron-face-cream-sunscreen-50gm-broad-original-imahm44nvzmd76ph.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/i/t/h/50-intelligent-kids-saffron-face-cream-sunscreen-50gm-broad-original-imahm44nmfu2rxbk.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/o/w/j/50-intelligent-kids-saffron-face-cream-sunscreen-50gm-broad-original-imahm44nyk8hevmu.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/6/o/d/50-intelligent-kids-saffron-face-cream-sunscreen-50gm-broad-original-imahm44nhvkzqwfw.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/tuco-sunscreen-spf-50-pa-kids-saffron-face-cream-broad-spectrum-uv/p/itm6419e4092d582",
+  "buyStore": "Flipkart",
+  "title": "TuCo Sunscreen - SPF 50 PA++++ Kids Sunscreen SPF 50 PA++++ Saffron Face Cream and Sunscreen Broad Spectrum UV",
+  "tags": [
+   "scope:face",
+   "format:cream",
+   "spf:50",
+   "pa:++++",
+   "water:unstated",
+   "ing:saffron",
+   "ing:squalane",
+   "ing:licorice",
+   "claim:hydrating",
+   "claim:broad-spectrum",
+   "claim:spf-claim",
+   "skin:sensitive",
+   "free:sensitive-safe",
+   "aud:kids",
+   "rating:4.0",
+   "store:flipkart",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.2★ from 1,335 ratings"
+  }
+ },
+ {
+  "id": "lotus-organics-itm03412b0ba9c22",
+  "brand": "Lotus Organics+",
+  "model": "Sunscreen - SPF 30 PA++ Hydrating Gel Mineral Sunscreen|No White Cast|Fast Absorbing|SPF 3…",
+  "price": 273,
+  "capacityLine": "50 g",
+  "materialLine": "zinc",
+  "featureLine": "Sunscreen · Paraben-free · SPF 30 · ₹546/100g",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 1 ingredient named — formula unscored"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6.3,
+   "experience": 6.1
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹546/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "zinc (per listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, SPF 30",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types",
+   "rating": "4.2/5 (347 ratings, Flipkart)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: zinc oxide",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Lotus Herbals — Established / listed Indian FMCG house",
+   "buyerEvidence": "4.2★ from 347 ratings",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/u/p/z/-original-imahcht9dhjnxvzn.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/r/s/a/-original-imahcht92fzmpucy.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/v/r/c/-original-imahcht9gyzxkmhv.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/a/t/x/-original-imahcht9u96fddae.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/l/o/u/-original-imahcht9fptrytes.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/lotus-organics-sunscreen-spf-30-pa-hydrating-gel-mineral-sunscreen-no-white-cast-fast-absorbing-spf-pa/p/itm03412b0ba9c22",
+  "buyStore": "Flipkart",
+  "title": "Lotus Organics+ Sunscreen - SPF 30 PA++ Hydrating Gel Mineral Sunscreen|No White Cast|Fast Absorbing|SPF 30 | PA+++",
+  "tags": [
+   "scope:face",
+   "format:gel",
+   "format:cream",
+   "spf:30",
+   "pa:++",
+   "sun:mineral",
+   "water:unstated",
+   "ing:zinc",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:no-white-cast",
+   "claim:broad-spectrum",
+   "claim:lightweight",
+   "claim:spf-claim",
+   "skin:all",
+   "free:paraben",
+   "free:vegan",
+   "aud:women",
+   "size:travel",
+   "rating:4.0",
+   "store:flipkart",
+   "inci:partial"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "zinc oxide",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Lotus Herbals",
+    "kind": "india",
+    "label": "Established / listed Indian FMCG house",
+    "pts": 6,
+    "url": "https://www.lotusherbals.com/pages/about-us"
+   },
+   "buyers": "4.2★ from 347 ratings"
+  }
+ },
+ {
+  "id": "lotus-itm12f8e99676ef5",
+  "brand": "Lotus",
+  "model": "Organics+ Sunscreen - SPF 30 PA+++ Hydrating Gel Mineral | Hydrates & Repair Skin Barrier",
+  "price": 449,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Sunscreen · SPF 30",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 1 ingredient named — formula unscored"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6.3,
+   "experience": 5.8
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Sunscreen",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, SPF 30",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "4.1/5 (330 ratings, Flipkart)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Specifications › Composition",
+   "inciList": "Unverified seller line: Frangipani",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Lotus Herbals — Established / listed Indian FMCG house",
+   "declaredManufacturer": "LOTUS HERBALS PVT LTD (as printed on the Flipkart listing — not scored)",
+   "buyerEvidence": "4.1★ from 330 ratings",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/u/p/z/-original-imahcht9dhjnxvzn.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/r/s/a/-original-imahcht92fzmpucy.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/v/r/c/-original-imahcht9gyzxkmhv.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/a/t/x/-original-imahcht9u96fddae.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/l/o/u/-original-imahcht9fptrytes.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/lotus-organics-sunscreen-spf-30-pa-hydrating-gel-mineral-hydrates-repair-skin-barrier/p/itm12f8e99676ef5",
+  "buyStore": "Flipkart",
+  "title": "Lotus Organics+ Sunscreen - SPF 30 PA+++ Hydrating Gel Mineral | Hydrates & Repair Skin Barrier",
+  "tags": [
+   "scope:unstated",
+   "format:gel",
+   "spf:30",
+   "pa:+++",
+   "sun:mineral",
+   "water:unstated",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:spf-claim",
+   "aud:unisex",
+   "rating:4.0",
+   "store:flipkart",
+   "inci:partial"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Specifications › Composition",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Frangipani",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 0,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Lotus Herbals",
+    "kind": "india",
+    "label": "Established / listed Indian FMCG house",
+    "pts": 6,
+    "url": "https://www.lotusherbals.com/pages/about-us"
+   },
+   "buyers": "4.1★ from 330 ratings"
+  }
+ },
+ {
+  "id": "vlcc-itm7140f6c16e0ad",
+  "brand": "Vlcc",
+  "model": "Sunscreen - SPF 60 PA+++ Water Resistant Sunscreen Gel Cream",
+  "price": 648,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Sunscreen · SPF 60",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "Well-reviewed: 4.3★ from 198 ratings"
+  ],
+  "cons": [
+   "Only 2 ingredients named — formula unscored"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6.3,
+   "experience": 6.1
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Sunscreen",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "SPF 60",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.3/5 (198 ratings, Flipkart)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Specifications › Composition",
+   "inciList": "Unverified seller line: Ceramide and Vitamin E - Helps strengthen skin barrier",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "VLCC Health Care — Established / listed Indian FMCG house",
+   "declaredManufacturer": "VLCC Personal Care Ltd. (as printed on the Flipkart listing — not scored)",
+   "buyerEvidence": "4.3★ from 198 ratings",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/v/s/x/-original-imahjxdaznmjgnpn.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/9/m/j/-original-imahbphcwnrhnfdg.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/z/4/c/-original-imahbphcgj5f62gv.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/v/a/j/-original-imahbphc6rgf9bad.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/m/h/d/-original-imah8wzkfu2zrns3.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/vlcc-sunscreen-spf-60-pa-water-resistant-gel-cream/p/itm7140f6c16e0ad",
+  "buyStore": "Flipkart",
+  "title": "VLCC Sunscreen - SPF 60 PA+++ Water Resistant Sunscreen Gel Cream",
+  "tags": [
+   "scope:unstated",
+   "format:gel",
+   "format:cream",
+   "spf:60",
+   "pa:+++",
+   "water:resistant",
+   "claim:water-resistant",
+   "claim:spf-claim",
+   "aud:unisex",
+   "rating:4.0",
+   "store:flipkart",
+   "inci:partial"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Specifications › Composition",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Ceramide and Vitamin E - Helps strengthen skin barrier",
+   "inciNote": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 0.5,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "VLCC Health Care",
+    "kind": "india",
+    "label": "Established / listed Indian FMCG house",
+    "pts": 6,
+    "url": "https://www.vlccwellness.com/"
+   },
+   "buyers": "4.3★ from 198 ratings"
+  }
+ },
+ {
+  "id": "smartdrops-itmf027bac68d191",
+  "brand": "smartdrops",
+  "model": "Sunscreen - SPF 50 PA+++ Face Cream Sunscreen SPF 50 | Vitamin C Lotion | PA+++",
+  "price": 183,
+  "capacityLine": "120 g",
+  "materialLine": "vitamin C + hyaluronic acid + vitamin E",
+  "featureLine": "Sunscreen · SPF 50 · ₹153/100g",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 2 ingredients named — formula unscored",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "120 g",
+   "pricePer100": "₹153/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin C, hyaluronic acid, vitamin E (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim, SPF 50",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: Vitamin C, Vitamin E",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-sunscreen/y/z/n/100-face-sunscreen-cream-spf-50-vitamin-c-e-lotion-niacinamide-original-imahhvfpdygd6szx.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/u/u/p/200-0-vitamin-c-sunscreen-spf-50-niacinamide-face-cream-pa-50-original-imahhv5mdd6hz4pm.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/n/f/8/300-0-vitamin-c-sunscreen-spf-50-niacinamide-face-cream-pa-50-original-imahhv5mgprvhzpk.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/7/z/w/300-0-vitamin-c-sunscreen-spf-50-niacinamide-face-cream-pa-50-original-imahhv5m7cshgz4g.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/g/n/p/200-0-vitamin-c-sunscreen-spf-50-niacinamide-face-cream-pa-50-original-imahhv5mfwhjasxj.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/smartdrops-sunscreen-spf-50-pa-niacinamide-cream-lotion-vitamin-c-e/p/itmf027bac68d191",
+  "buyStore": "Flipkart",
+  "title": "smartdrops Sunscreen - SPF 50 PA+++ Face Cream Sunscreen SPF 50 | Vitamin C Lotion | PA+++",
+  "tags": [
+   "scope:both",
+   "format:gel",
+   "format:cream",
+   "format:lotion",
+   "spf:50",
+   "pa:+++",
+   "water:unstated",
+   "ing:vitamin-c",
+   "ing:hyaluronic-acid",
+   "ing:collagen",
+   "ing:vitamin-e",
+   "claim:brightening",
+   "claim:anti-aging",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:broad-spectrum",
+   "claim:spf-claim",
+   "skin:all",
+   "aud:women",
+   "size:standard",
+   "rating:none",
+   "store:flipkart",
+   "inci:partial"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Vitamin C, Vitamin E",
+   "inciNote": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "the-plant-fix-plix-itma5cc81cd98822",
+  "brand": "The Plant Fix Plix",
+  "model": "Sunscreen - SPF 50+ PA++++ Watermelon Protect & Hydrate 2 in 1 formula Moisturizer + Sunsc…",
+  "price": 673,
+  "capacityLine": "200 g (pack of 2)",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Sunscreen · Paraben-free · SPF 50 · ₹337/100g",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6,
+   "experience": 3.9
+  },
+  "fullSpec": {
+   "quantity": "100 g × 2 pack",
+   "pricePer100": "₹337/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, SPF 50",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types, Combination Skin, Dry Skin, Normal Skin, Oily Skin, Sensitive Skin",
+   "rating": "4/5 (26 ratings, Flipkart)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Marico (Plix) — Established / listed Indian FMCG house",
+   "buyerEvidence": "4★ from 26 ratings",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/n/c/w/100-watermelon-protect-hydrate-2-in-1-formula-moisturizer-original-imahnf4eumuzyvfr.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-combo-kit/q/c/u/guava-cleanser-watermelon-dual-sunscreen-guava-lip-tinted-balm-original-imahjqmgmayyh2zj.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/e/b/y/100-watermelon-protect-hydrate-2-in-1-formula-moisturizer-original-imahnf4ecdzwhhfh.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-combo-kit/j/a/e/guava-cleanser-watermelon-dual-sunscreen-guava-lip-tinted-balm-original-imahjqmgnag7fchj.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/q/j/q/50-watermelon-protect-hydrate-2-in-1-formula-moisturizer-original-imahnbm6jceddk7r.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/plant-fix-plix-sunscreen-spf-50-pa-watermelon-protect-hydrate-2-1-formula-moisturizer-pack/p/itma5cc81cd98822",
+  "buyStore": "Flipkart",
+  "title": "The Plant Fix Plix Sunscreen - SPF 50+ PA++++ Watermelon Protect & Hydrate 2 in 1 formula Moisturizer + Sunscreen Pack of 2",
+  "tags": [
+   "scope:unstated",
+   "format:gel",
+   "format:kit",
+   "spf:50+",
+   "pa:++++",
+   "water:unstated",
+   "ing:watermelon",
+   "claim:hydrating",
+   "claim:spf-claim",
+   "skin:oily",
+   "skin:dry",
+   "skin:combination",
+   "skin:sensitive",
+   "skin:normal",
+   "skin:all",
+   "free:paraben",
+   "free:sensitive-safe",
+   "aud:women",
+   "size:large",
+   "rating:4.0",
+   "store:flipkart",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": true,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Marico (Plix)",
+    "kind": "india",
+    "label": "Established / listed Indian FMCG house",
+    "pts": 6,
+    "url": "https://marico.com/india/brands"
+   },
+   "buyers": "4★ from 26 ratings"
+  }
+ },
+ {
+  "id": "sonavi-itmae2b735984064",
+  "brand": "Sonavi",
+  "model": "Sunscreen - SPF 50 Sunscreen SPF 50 PA+++ | Cica Calming Face Cream | Niacinamide Smooth F…",
+  "price": 188,
+  "capacityLine": "60 ml",
+  "materialLine": "niacinamide + centella/cica",
+  "featureLine": "Sunscreen · SPF 50 · ₹313/100ml",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "Well-reviewed: 4.7★ from 21 ratings"
+  ],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 6
+  },
+  "fullSpec": {
+   "quantity": "60 ml",
+   "pricePer100": "₹313/100ml",
+   "format": "Sunscreen",
+   "keyIngredients": "niacinamide, centella/cica (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "SPF 50",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "4.7/5 (21 ratings, Flipkart)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.7★ from 21 ratings",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/3/z/s/60-0-sunscreen-spf-50-pa-cica-calming-face-cream-niacinamide-original-imahm69r8nxfzy2e.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/2/j/u/60-cica-calming-sunscreen-spf-50-pa-niacinamide-face-cream-daily-original-imahm69ftc8ra3yp.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/o/w/d/60-cica-calming-sunscreen-spf-50-pa-niacinamide-face-cream-daily-original-imahm69fzgt9vuaa.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/x/e/0/60-cica-calming-sunscreen-spf-50-pa-niacinamide-face-cream-daily-original-imahm69fzyhmqu8v.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/q/5/i/180-0-face-sunscreen-spf-50-pa-cica-based-cream-niacinamide-skin-original-imahm6cd5datbkqh.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/sonavi-sunscreen-spf-50-pa-cica-calming-face-cream-niacinamide-smooth-finish/p/itmae2b735984064",
+  "buyStore": "Flipkart",
+  "title": "Sonavi Sunscreen - SPF 50 Sunscreen SPF 50 PA+++ | Cica Calming Face Cream | Niacinamide Smooth Finish",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "spf:50",
+   "pa:+++",
+   "water:unstated",
+   "ing:niacinamide",
+   "ing:centella-cica",
+   "claim:soothing",
+   "claim:spf-claim",
+   "skin:all",
+   "aud:women",
+   "size:standard",
+   "rating:4.5",
+   "store:flipkart",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.7★ from 21 ratings"
+  }
+ },
+ {
+  "id": "nimson-itma5ad72866c150",
+  "brand": "Nimson",
+  "model": "Sunscreen - SPF SPF 50 PA+++ Sunscreen Gel Cream Cooling UVA & UVB Protection Waterproof M…",
+  "price": 108,
+  "capacityLine": "60 ml",
+  "materialLine": "aloe vera",
+  "featureLine": "Sunscreen · Paraben-free · SPF 50 · ₹180/100ml",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 1 ingredient named — formula unscored",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 3.2
+  },
+  "fullSpec": {
+   "quantity": "60 ml",
+   "pricePer100": "₹180/100ml",
+   "format": "Sunscreen",
+   "keyIngredients": "aloe vera (per listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, SPF 50",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "3.9/5 (13 ratings, Flipkart)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: Aloevera Extract",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.9★ from 13 ratings",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/y/q/0/60-sunscreen-gel-cream-cooling-uva-uvb-protection-waterproof-original-imahcksubdyecvr7.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/4/h/b/60-sunscreen-gel-cream-cooling-uva-uvb-protection-waterproof-original-imahcksurqg7anjp.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/v/v/b/60-sunscreen-gel-cream-cooling-uva-uvb-protection-waterproof-original-imahcksuggpg6sma.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/v/o/w/60-sunscreen-gel-cream-cooling-uva-uvb-protection-waterproof-original-imahcksu5ysjxqgp.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/e/r/w/60-sunscreen-gel-cream-cooling-uva-uvb-protection-waterproof-original-imahcksugqxpexaw.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/nimson-sunscreen-spf-50-pa-gel-cream-cooling-uva-uvb-protection-waterproof-matte-finish-lotion/p/itma5ad72866c150",
+  "buyStore": "Flipkart",
+  "title": "Nimson Sunscreen - SPF SPF 50 PA+++ Sunscreen Gel Cream Cooling UVA & UVB Protection Waterproof Matte Finish Lotion",
+  "tags": [
+   "scope:both",
+   "format:gel",
+   "format:cream",
+   "format:lotion",
+   "spf:50",
+   "pa:+++",
+   "water:resistant",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:water-resistant",
+   "claim:broad-spectrum",
+   "claim:spf-claim",
+   "claim:cooling",
+   "skin:all",
+   "free:paraben",
+   "free:vegan",
+   "aud:women",
+   "size:standard",
+   "rating:3.5",
+   "store:flipkart",
+   "inci:partial"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": true,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Aloevera Extract",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.9★ from 13 ratings"
+  }
+ },
+ {
+  "id": "luzimaisa-itm49797d212b54b",
+  "brand": "Luzimaisa",
+  "model": "Sunscreen - SPF 50 PA++++ Daily Sunscreen Gel Cream SPF 50",
+  "price": 231,
+  "capacityLine": "40 g",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Sunscreen · SPF 50 · ₹578/100g",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "40 g",
+   "pricePer100": "₹578/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim, SPF 50",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/i/g/v/40-daily-hydration-and-moisturizing-waterproof-and-sweatproof-original-imahfbkjmqzxcbzm.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/i/c/v/40-daily-sunscreen-gel-cream-spf-50-50-luzimaisa-original-imahfbh99fgfsqhc.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/n/z/2/40-daily-sunscreen-gel-cream-spf-50-50-luzimaisa-original-imahfbh9q8gn46yg.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/v/h/p/100-sun-aid-sunscreen-lotion-spf50-p1-50-molcaro-original-imah2my3fmkzvpgf.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/n/g/z/50-360-water-gel-ultra-light-hydrating-sunscreen-for-dry-original-imahkyjhdehyzu8f.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/luzimaisa-sunscreen-spf-50-pa-daily-hydration-moisturizing-waterproof-sweatproof/p/itm49797d212b54b",
+  "buyStore": "Flipkart",
+  "title": "Luzimaisa Sunscreen - SPF 50 PA++++ Daily Sunscreen Gel Cream SPF 50",
+  "tags": [
+   "scope:both",
+   "format:gel",
+   "format:cream",
+   "spf:50",
+   "pa:++++",
+   "water:unstated",
+   "claim:brightening",
+   "claim:hydrating",
+   "claim:broad-spectrum",
+   "claim:korean",
+   "claim:spf-claim",
+   "skin:all",
+   "free:vegan",
+   "aud:women",
+   "size:travel",
+   "rating:none",
+   "store:flipkart",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "jiwoo-itm78705855342d8",
+  "brand": "Jiwoo",
+  "model": "Sunscreen - SPF 90+ PA+++ Sunscreen Moisturizing Cream With High Protection SPF 90+ PA+++",
+  "price": 306,
+  "capacityLine": "50 g",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Sunscreen · Paraben-free · SPF 90 · ₹612/100g",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹612/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, SPF 90",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistant / waterproof (duration not stated), sweat resistant, marketed for swim / sport / outdoors (per listing — not tested here, not scored)"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/w/z/f/50-sunscreen-moisturizing-cream-with-high-protection-spf-90-pa-original-imahnp23szbuscat.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/g/e/i/50-sunscreen-moisturizing-cream-with-high-protection-spf-90-pa-original-imahnp23zd3y8nhn.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/t/r/d/50-sunscreen-moisturizing-cream-with-high-protection-spf-90-pa-original-imahnp23dgxhyzx2.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-sunscreen/a/h/t/50-hydrating-korean-sun-cream-with-rice-extract-50ml-50-subhmun-original-imahnns8mh9u7bez.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/w/n/y/30-sunscreen-cream-spf-50-pa-non-greasy-daily-skin-protection-original-imahpwzfebz5ty2w.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/jiwoo-sunscreen-spf-90-pa-moisturizing-cream-high-protection/p/itm78705855342d8",
+  "buyStore": "Flipkart",
+  "title": "Jiwoo Sunscreen - SPF 90+ PA+++ Sunscreen Moisturizing Cream With High Protection SPF 90+ PA+++",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:lotion",
+   "spf:60",
+   "pa:+++",
+   "water:resistant",
+   "water:sweat",
+   "water:sport",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:water-resistant",
+   "claim:no-white-cast",
+   "claim:lightweight",
+   "claim:spf-claim",
+   "skin:all",
+   "free:paraben",
+   "aud:women",
+   "size:travel",
+   "rating:none",
+   "store:flipkart",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": true,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "gabbu-itmb45ec94d80185",
+  "brand": "GABBU",
+  "model": "Sunscreen - SPF 50 PA+++ Water Resistant SPF 50 PA+++ Sunscreen Gel Cream",
+  "price": 361,
+  "capacityLine": "100 g",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Sunscreen · Paraben-free · SPF 50 · ₹361/100g",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "100 g",
+   "pricePer100": "₹361/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "SPF 50",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/s/9/9/100-water-resistant-spf-50-pa-sunscreen-gel-cream-white-50-gabbu-original-imahqhjznw4yt845.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/a/j/t/100-brightening-sunscreen-spf50pa-sun-protection-sunblock-original-imahqhdf2pmkh3uv.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/x/9/9/30-sunscreen-cream-for-face-and-body-anti-aging-moisturizing-spf-original-imahnbkjz3zjh4yd.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/7/r/8/100-water-resistant-spf-50-pa-sunscreen-gel-cream-white-50-gabbu-original-imahqhdmnpms6zsy.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/y/x/w/100-brightening-sunscreen-spf50pa-sun-protection-sunblock-original-imahqhdfyqduedha.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/gabbu-sunscreen-spf-50-pa-water-resistant-gel-cream/p/itmb45ec94d80185",
+  "buyStore": "Flipkart",
+  "title": "GABBU Sunscreen - SPF 50 PA+++ Water Resistant SPF 50 PA+++ Sunscreen Gel Cream",
+  "tags": [
+   "scope:both",
+   "format:gel",
+   "format:cream",
+   "spf:50",
+   "pa:+++",
+   "water:resistant",
+   "claim:water-resistant",
+   "claim:spf-claim",
+   "skin:all",
+   "free:paraben",
+   "aud:women",
+   "size:standard",
+   "rating:none",
+   "store:flipkart",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": true,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "manasona-itm3b6dbb98d9bad",
+  "brand": "manasona",
+  "model": "Sunscreen - SPF 60 PA+++ Sunscreen - SPF 60 PA+++ Water Resistant Gel Cream For Sun Protec…",
+  "price": 422,
+  "capacityLine": "75 g",
+  "materialLine": "niacinamide + hyaluronic acid + green tea",
+  "featureLine": "Sunscreen · Paraben-free · SPF 60 · ₹563/100g",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "75 g",
+   "pricePer100": "₹563/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "niacinamide, hyaluronic acid, green tea, vitamin E (per listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "SPF 60",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types, Combination Skin, Dry Skin, Normal Skin, Oily Skin, Sensitive Skin",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/j/p/z/75-sunscreen-spf-60-pa-water-resistant-gel-cream-for-sun-original-imahb6zqbywsctae.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/w/r/p/75-sunscreen-spf-60-pa-water-resistant-gel-cream-for-sun-original-imahb6zqzayxjzfy.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/4/6/f/75-sunscreen-spf-60-pa-water-resistant-gel-cream-for-sun-original-imahb6zqwedggvcj.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/w/l/a/-original-imahdfk8eq9nyqsz.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/4/0/q/100-green-tea-sunscreen-0-60-maliao-original-imahnrgv2cg7d3zs.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/manasona-sunscreen-spf-60-pa-water-resistant-gel-cream-sun-protection/p/itm3b6dbb98d9bad",
+  "buyStore": "Flipkart",
+  "title": "manasona Sunscreen - SPF 60 PA+++ Sunscreen - SPF 60 PA+++ Water Resistant Gel Cream For Sun Protection",
+  "tags": [
+   "scope:body",
+   "format:gel",
+   "format:cream",
+   "spf:60",
+   "pa:+++",
+   "water:resistant",
+   "ing:niacinamide",
+   "ing:hyaluronic-acid",
+   "ing:green-tea",
+   "ing:vitamin-e",
+   "claim:water-resistant",
+   "claim:broad-spectrum",
+   "claim:spf-claim",
+   "skin:oily",
+   "skin:dry",
+   "skin:combination",
+   "skin:sensitive",
+   "skin:normal",
+   "skin:all",
+   "free:paraben",
+   "free:vegan",
+   "free:sensitive-safe",
+   "aud:women",
+   "size:standard",
+   "rating:none",
+   "store:flipkart",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "gabbu-itme988492d0bb51",
+  "brand": "GABBU",
+  "model": "Sunscreen - SPF SPF50 PA+++ SPF 50 PA+++ Water Resistant Sunscreen Gel Cream - For Sun Pro…",
+  "price": 547,
+  "capacityLine": "50 g",
+  "materialLine": "rice water + vitamin E + zinc",
+  "featureLine": "Sunscreen · Paraben-free · SPF 50 · ₹1094/100g",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹1094/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "rice water, vitamin E, zinc (per listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim, SPF 50",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/a/2/m/50-spf-50-pa-water-resistant-sunscreen-gel-cream-for-sun-original-imahz6hz5mhgbezc.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/c/y/p/200-professional-green-tea-sunscreen-lotion-for-face-60-reimichi-original-imahyczh3ztmhb3u.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/u/w/0/100-sun-expert-ultra-matte-lotion-sunscreen-45-evererin-original-imahhv5tny96yshm.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/e/w/m/60-ultra-pro-gel-60gm-35-sunban-original-imah2zy6rh4hbs3m.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/0/h/y/20-cream-skin-lightening-sunscreen-sunscreen-for-men-women-30-original-imahnbfz7mwtyykz.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/gabbu-sunscreen-spf-spf50-pa-50-water-resistant-gel-cream-sun-protection/p/itme988492d0bb51",
+  "buyStore": "Flipkart",
+  "title": "GABBU Sunscreen - SPF SPF50 PA+++ SPF 50 PA+++ Water Resistant Sunscreen Gel Cream - For Sun Protection",
+  "tags": [
+   "scope:both",
+   "format:gel",
+   "format:cream",
+   "spf:50",
+   "pa:+++",
+   "water:resistant",
+   "ing:rice-water",
+   "ing:vitamin-e",
+   "ing:zinc",
+   "claim:whitening-claim",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "claim:water-resistant",
+   "claim:broad-spectrum",
+   "claim:lightweight",
+   "claim:spf-claim",
+   "skin:all",
+   "free:paraben",
+   "aud:women",
+   "size:travel",
+   "rating:none",
+   "store:flipkart",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": true,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "buttr-itma78ead8b84932",
+  "brand": "Buttr",
+  "model": "Sunscreen - SPF 50 PA++++ Water based Hydrating Gel| No White Cast |For men & Women",
+  "price": 238,
+  "capacityLine": "50 g",
+  "materialLine": "niacinamide + rice water",
+  "featureLine": "Sunscreen · SPF 50 · ₹476/100g",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹476/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "niacinamide, rice water (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim, SPF 50",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "declaredManufacturer": "HAZELINTERNATIONAL01 (as printed on the Flipkart listing — not scored)",
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/7/j/n/50-water-based-hydrating-gel-no-white-cast-for-men-women-50-original-imahjsrdqpktsstu.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/b/e/t/50-water-based-hydrating-gel-no-white-cast-for-men-women-50-original-imahjsrdbdkyqbgq.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/r/u/u/50-water-based-hydrating-gel-no-white-cast-for-men-women-50-original-imahjsrdjhayaprh.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/r/t/p/50-water-based-hydrating-gel-no-white-cast-for-men-women-50-original-imahjsrdsf27rdyg.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/m/i/n/50-water-based-hydrating-gel-no-white-cast-for-men-women-50-original-imahjsrd6znyz6kr.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/buttr-sunscreen-spf-50-pa-water-based-hydrating-gel-no-white-cast-for-men-women/p/itma78ead8b84932",
+  "buyStore": "Flipkart",
+  "title": "Buttr Sunscreen - SPF 50 PA++++ Water based Hydrating Gel| No White Cast |For men & Women",
+  "tags": [
+   "scope:unstated",
+   "format:gel",
+   "format:cream",
+   "format:lotion",
+   "spf:50",
+   "pa:++++",
+   "water:unstated",
+   "ing:niacinamide",
+   "ing:rice-water",
+   "claim:brightening",
+   "claim:whitening-claim",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:no-white-cast",
+   "claim:broad-spectrum",
+   "claim:spf-claim",
+   "aud:women",
+   "size:travel",
+   "rating:none",
+   "store:flipkart",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "smartdrops-itm536ddfd9462ce",
+  "brand": "smartdrops",
+  "model": "Sunscreen - SPF 50 PA+++ SPF 50 PA+++ Men Sunscreen Cream with Moisturizer Smooth Finish",
+  "price": 197,
+  "capacityLine": "540 g (pack of 3)",
+  "materialLine": "vitamin C + niacinamide",
+  "featureLine": "Sunscreen · SPF 50 · ₹36/100g",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "180 g × 3 pack",
+   "pricePer100": "₹36/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin C, niacinamide (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, SPF 50",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/i/8/a/180-men-s-smooth-finish-scented-sunscreen-for-outdoors-50-original-imahkbpvnzgc9exg.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/6/s/g/60-men-fresh-fragrance-sunscreen-lotion-for-daily-use-50-original-imahk8m3zpdextdy.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/o/t/y/60-men-fresh-fragrance-sunscreen-lotion-for-daily-use-50-original-imahk8m3ctwsw9av.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/w/y/c/60-men-fresh-fragrance-sunscreen-lotion-for-daily-use-50-original-imahk8m3ghpcznfu.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/b/j/r/60-men-fresh-fragrance-sunscreen-lotion-for-daily-use-50-original-imahk8m3eyf9rh2n.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/smartdrops-sunscreen-spf-50-pa-mens-smooth-finish-scented-outdoors/p/itm536ddfd9462ce",
+  "buyStore": "Flipkart",
+  "title": "smartdrops Sunscreen - SPF 50 PA+++ SPF 50 PA+++ Men Sunscreen Cream with Moisturizer Smooth Finish",
+  "tags": [
+   "scope:unstated",
+   "format:cream",
+   "format:lotion",
+   "format:kit",
+   "spf:50",
+   "pa:+++",
+   "water:unstated",
+   "ing:vitamin-c",
+   "ing:niacinamide",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "claim:lightweight",
+   "claim:spf-claim",
+   "claim:cooling",
+   "aud:women",
+   "size:xl",
+   "rating:none",
+   "store:flipkart",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "smartdrops-itmcb1926669b39e",
+  "brand": "smartdrops",
+  "model": "Sunscreen - SPF 50 PA+++ Sun Protection Face Cream | SPF 50 PA+++ Lotion | UV Shield | Dai…",
+  "price": 191,
+  "capacityLine": "50 g",
+  "materialLine": "vitamin C + niacinamide",
+  "featureLine": "Sunscreen · SPF 50 · ₹382/100g",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹382/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin C, niacinamide (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "SPF 50",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-sunscreen/o/q/v/100-face-uv-guard-lotion-spf-50-pa-sun-screen-smooth-skin-original-imahhvbhhyhgzj3c.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/u/c/h/200-0-cica-sunscreen-spf-50-sunscreen-uv-shield-face-protection-original-imahhv5uzeagby4c.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/s/9/s/200-0-cica-sunscreen-spf-50-sunscreen-uv-shield-face-protection-original-imahhv5uzfzzu6r7.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/h/u/q/200-0-cica-sunscreen-spf-50-sunscreen-uv-shield-face-protection-original-imahhv5uupgubhrh.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/j/t/l/100-0-cica-sunscreen-spf-50-sunscreen-uv-shield-face-protection-original-imahhv5uenapvdzg.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/smartdrops-sunscreen-spf-50-pa-sun-protection-face-cream-lotion-uv-shield-daily-use/p/itmcb1926669b39e",
+  "buyStore": "Flipkart",
+  "title": "smartdrops Sunscreen - SPF 50 PA+++ Sun Protection Face Cream | SPF 50 PA+++ Lotion | UV Shield | Daily Use",
+  "tags": [
+   "scope:face",
+   "format:cream",
+   "format:lotion",
+   "spf:50",
+   "pa:+++",
+   "water:unstated",
+   "ing:vitamin-c",
+   "ing:niacinamide",
+   "claim:broad-spectrum",
+   "claim:spf-claim",
+   "skin:all",
+   "free:vegan",
+   "aud:women",
+   "size:travel",
+   "rating:none",
+   "store:flipkart",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "smartdrops-itma59d3edfea0b0",
+  "brand": "smartdrops",
+  "model": "Sunscreen - SPF 50 PA+++ Vitamin C Sunscreen SPF 50 | Niacinamide Face Cream | PA+++",
+  "price": 185,
+  "capacityLine": "200 ml",
+  "materialLine": "vitamin C + niacinamide + vitamin E",
+  "featureLine": "Sunscreen · SPF 50 · ₹93/100ml",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 2 ingredients named — formula unscored",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 0.8
+  },
+  "fullSpec": {
+   "quantity": "200 ml",
+   "pricePer100": "₹93/100ml",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin C, niacinamide, vitamin E (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "SPF 50",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "3.3/5 (3 ratings, Flipkart)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: Vitamin C, Vitamin E",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.3★ from 3 ratings",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/a/y/f/200-0-niacinamide-face-sunscreen-spf-50-pa-lotion-daily-care-50-original-imahhveftdn4dmfg.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/u/u/p/200-0-vitamin-c-sunscreen-spf-50-niacinamide-face-cream-pa-50-original-imahhv5mdd6hz4pm.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/q/b/i/300-0-face-sunscreen-spf-50-vitamin-c-e-lotion-broad-spectrum-50-original-imahhv6nxgzxz24y.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/7/z/w/300-0-vitamin-c-sunscreen-spf-50-niacinamide-face-cream-pa-50-original-imahhv5m7cshgz4g.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/q/3/s/240-collagen-sunscreen-for-dark-sun-burn-skin-solution-skin-glow-original-imahnz3rbp3jtq3x.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/smartdrops-sunscreen-spf-50-pa-vitamin-c-niacinamide-face-cream/p/itma59d3edfea0b0",
+  "buyStore": "Flipkart",
+  "title": "smartdrops Sunscreen - SPF 50 PA+++ Vitamin C Sunscreen SPF 50 | Niacinamide Face Cream | PA+++",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:lotion",
+   "spf:50",
+   "pa:+++",
+   "water:unstated",
+   "ing:vitamin-c",
+   "ing:niacinamide",
+   "ing:vitamin-e",
+   "claim:spf-claim",
+   "skin:all",
+   "aud:women",
+   "size:large",
+   "rating:low",
+   "store:flipkart",
+   "inci:partial"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Vitamin C, Vitamin E",
+   "inciNote": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.3★ from 3 ratings"
+  }
+ },
+ {
+  "id": "bodydaze-itm977a80253490f",
+  "brand": "BODYDAZE",
+  "model": "Sunscreen - SPF 50 PA++++ Fluid Face Cream for Oily Dry Skin UV Protection Ultra Texture L…",
+  "price": 267,
+  "capacityLine": "50 g",
+  "materialLine": "vitamin C + niacinamide",
+  "featureLine": "Sunscreen · SPF 50 · ₹534/100g",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹534/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin C, niacinamide (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "SPF 50",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/c/o/u/50-fluid-face-cream-for-oily-dry-skin-uv-protection-ultra-original-imahn4yjdv3jwmkt.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/c/8/f/50-fluid-face-cream-for-oily-dry-skin-uv-protection-ultra-original-imahn4y9f77qj4mt.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/f/o/f/50-fluid-face-cream-for-oily-dry-skin-uv-protection-ultra-original-imahn4y9qdpwpzhd.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/t/1/n/50-fluid-face-cream-for-oily-dry-skin-uv-protection-ultra-original-imahn4yprssvqtzx.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/v/h/p/100-sun-aid-sunscreen-lotion-spf50-p1-50-molcaro-original-imah2my3fmkzvpgf.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/bodydaze-sunscreen-spf-50-pa-fluid-face-cream-oily-dry-skin-uv-protection-ultra-texture-lotion/p/itm977a80253490f",
+  "buyStore": "Flipkart",
+  "title": "BODYDAZE Sunscreen - SPF 50 PA++++ Fluid Face Cream for Oily Dry Skin UV Protection Ultra Texture Lotion Sunscreen",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:lotion",
+   "format:emulsion",
+   "spf:50",
+   "pa:++++",
+   "water:unstated",
+   "ing:vitamin-c",
+   "ing:niacinamide",
+   "claim:exfoliating",
+   "claim:broad-spectrum",
+   "claim:spf-claim",
+   "skin:oily",
+   "skin:dry",
+   "aud:unisex",
+   "size:travel",
+   "rating:none",
+   "store:flipkart",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "smartdrops-itm21b4b93ea2ea9",
+  "brand": "smartdrops",
+  "model": "Sunscreen - SPF 50 PA+++ SPF 50 PA+++ Sunscreen | Vitamin C E Face Cream | Daily Use",
+  "price": 185,
+  "capacityLine": "50 g",
+  "materialLine": "vitamin C + niacinamide + aloe vera",
+  "featureLine": "Sunscreen · SPF 50 · ₹370/100g",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 2 ingredients named — formula unscored",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹370/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin C, niacinamide, aloe vera, vitamin E (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "SPF 50",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: Vitamin C, Vitamin E",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/i/5/y/300-0-spf-50-pa-sunscreen-vitamin-c-e-face-cream-daily-use-50-original-imahhv7n6cqtfxb6.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/u/u/p/200-0-vitamin-c-sunscreen-spf-50-niacinamide-face-cream-pa-50-original-imahhv5mdd6hz4pm.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/q/b/i/300-0-face-sunscreen-spf-50-vitamin-c-e-lotion-broad-spectrum-50-original-imahhv6nxgzxz24y.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/7/z/w/300-0-vitamin-c-sunscreen-spf-50-niacinamide-face-cream-pa-50-original-imahhv5m7cshgz4g.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/g/n/p/200-0-vitamin-c-sunscreen-spf-50-niacinamide-face-cream-pa-50-original-imahhv5mfwhjasxj.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/smartdrops-sunscreen-spf-50-pa-vitamin-c-e-face-cream-daily-use/p/itm21b4b93ea2ea9",
+  "buyStore": "Flipkart",
+  "title": "smartdrops Sunscreen - SPF 50 PA+++ SPF 50 PA+++ Sunscreen | Vitamin C E Face Cream | Daily Use",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:lotion",
+   "spf:50",
+   "pa:+++",
+   "water:unstated",
+   "ing:vitamin-c",
+   "ing:niacinamide",
+   "ing:aloe-vera",
+   "ing:vitamin-e",
+   "claim:broad-spectrum",
+   "claim:spf-claim",
+   "skin:all",
+   "aud:women",
+   "size:travel",
+   "rating:none",
+   "store:flipkart",
+   "inci:partial"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Vitamin C, Vitamin E",
+   "inciNote": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "sonavi-itm80c6a568bfbba",
+  "brand": "Sonavi",
+  "model": "Sunscreen - SPF 50 Sunscreen SPF 50 Face Cream | Rice Water Ceramide Smooth Finish",
+  "price": 213,
+  "capacityLine": "120 ml",
+  "materialLine": "ceramides + rice water",
+  "featureLine": "Sunscreen · SPF 50 · ₹178/100ml",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 2 ingredients named — formula unscored",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "120 ml",
+   "pricePer100": "₹178/100ml",
+   "format": "Sunscreen",
+   "keyIngredients": "ceramides, rice water (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "SPF 50",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: Rice Water, Ceramide",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/o/a/n/120-0-sunscreen-spf-50-face-cream-rice-water-ceramide-smooth-original-imahm6cfawkhbybf.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/x/r/a/180-0-rice-water-ceramide-sunscreen-spf-50-daily-uv-protection-original-imahm68vkbe6ywzp.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/r/l/y/60-0-rice-water-ceramide-sunscreen-spf-50-daily-uv-protection-original-imahm68vjdvtcfew.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/x/z/f/180-0-rice-water-ceramide-sunscreen-spf-50-daily-uv-protection-original-imahm68vwe2recty.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/6/p/q/60-0-rice-water-ceramide-sunscreen-spf-50-daily-uv-protection-original-imahm68vggyggcqu.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/sonavi-sunscreen-spf-50-face-cream-rice-water-ceramide-smooth-finish/p/itm80c6a568bfbba",
+  "buyStore": "Flipkart",
+  "title": "Sonavi Sunscreen - SPF 50 Sunscreen SPF 50 Face Cream | Rice Water Ceramide Smooth Finish",
+  "tags": [
+   "scope:face",
+   "format:cream",
+   "spf:50",
+   "water:unstated",
+   "ing:ceramides",
+   "ing:rice-water",
+   "claim:lightweight",
+   "claim:spf-claim",
+   "skin:all",
+   "aud:women",
+   "size:standard",
+   "rating:none",
+   "store:flipkart",
+   "inci:partial"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Rice Water, Ceramide",
+   "inciNote": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "drybins-itm47a211ee60296",
+  "brand": "DRYBINS",
+  "model": "Sunscreen - SPF 30 Firming Sunscreen SPF 50+ PA++++ Soluble Collagen Hyaluronic Acid Face …",
+  "price": 128,
+  "capacityLine": "180 g",
+  "materialLine": "niacinamide + hyaluronic acid + kojic acid",
+  "featureLine": "Sunscreen · Paraben-free · SPF 30 · ₹71/100g",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 4 ingredients named — formula unscored",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "180 g",
+   "pricePer100": "₹71/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "niacinamide, hyaluronic acid, kojic acid (per listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim, Anti-aging claim, SPF 30",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: Hyaluronic Acid,Niacinamide,Sun Protection Filters,Amino Acid Complex",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/r/t/3/180-0-spf-50-pa-sunscreen-lotion-with-collagen-hyaluronic-acid-original-imahz4z2z7exxmvu.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/i/c/r/60-0-collagen-firming-sunscreen-spf-50-pa-for-glow-whitening-original-imahnr3ympmurzzm.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/c/j/o/60-0-collagen-firming-sunscreen-spf-50-pa-for-glow-whitening-original-imahnr3fwmvmbubm.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/g/n/l/60-0-collagen-firming-sunscreen-spf-50-pa-for-glow-whitening-original-imahnr3fhfkqgdjf.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/6/x/e/240-0-collagen-firming-sunscreen-spf-50-pa-for-glow-whitening-original-imahnr3fgcxydx3g.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/drybins-sunscreen-spf-30-sun-cream-50-pa-collagen-firming-formula-hyaluronic-acid-whitening/p/itm47a211ee60296",
+  "buyStore": "Flipkart",
+  "title": "DRYBINS Sunscreen - SPF 30 Firming Sunscreen SPF 50+ PA++++ Soluble Collagen Hyaluronic Acid Face Cream",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:lotion",
+   "spf:30",
+   "pa:++++",
+   "water:unstated",
+   "ing:niacinamide",
+   "ing:hyaluronic-acid",
+   "ing:collagen",
+   "ing:kojic-acid",
+   "ing:vitamin-b5-panthenol",
+   "claim:brightening",
+   "claim:de-tan",
+   "claim:anti-aging",
+   "claim:hydrating",
+   "claim:spf-claim",
+   "skin:all",
+   "free:paraben",
+   "free:oil-free",
+   "aud:women",
+   "size:large",
+   "rating:none",
+   "store:flipkart",
+   "inci:partial"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Hyaluronic Acid,Niacinamide,Sun Protection Filters,Amino Acid Complex",
+   "inciNote": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 0.75,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "smartdrops-itm0c1eb0dd06a4e",
+  "brand": "smartdrops",
+  "model": "Sunscreen - SPF 50 PA++++ Ultra Smooth Sunscreen SPF 50+ PA++++ Rice Extract Face Cream",
+  "price": 132,
+  "capacityLine": "60 g",
+  "materialLine": "vitamin C + ceramides + kojic acid",
+  "featureLine": "Sunscreen · Paraben-free · SPF 50 · ₹220/100g",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 1 ingredient named — formula unscored",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "60 g",
+   "pricePer100": "₹220/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin C, ceramides, kojic acid, rice water, vitamin E (per listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim, SPF 50",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: Rice Extract",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/z/0/p/60-0-ultra-smooth-sunscreen-spf-50-pa-rice-extract-face-cream-50-original-imahh8vkhfkcbxz5.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/3/g/e/180-0-rice-probiotics-sunscreen-spf-50-pa-lightweight-cream-50-original-imahh6vrgxna3uhw.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/b/l/7/120-0-rice-probiotics-sunscreen-spf-50-pa-lightweight-cream-50-original-imahh6vrwrzfdgns.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/i/c/e/60-0-rice-probiotics-sunscreen-spf-50-pa-lightweight-cream-50-original-imahh6vrzfhzgfnh.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/u/7/c/60-0-rice-probiotics-sunscreen-spf-50-pa-lightweight-cream-50-original-imahh6vryrz6pfau.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/smartdrops-sunscreen-spf-50-pa-ultra-smooth-50-rice-extract-face-cream/p/itm0c1eb0dd06a4e",
+  "buyStore": "Flipkart",
+  "title": "smartdrops Sunscreen - SPF 50 PA++++ Ultra Smooth Sunscreen SPF 50+ PA++++ Rice Extract Face Cream",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "spf:50",
+   "pa:++++",
+   "water:unstated",
+   "ing:vitamin-c",
+   "ing:ceramides",
+   "ing:kojic-acid",
+   "ing:rice-water",
+   "ing:vitamin-e",
+   "claim:brightening",
+   "claim:de-tan",
+   "claim:exfoliating",
+   "claim:broad-spectrum",
+   "claim:lightweight",
+   "claim:spf-claim",
+   "skin:all",
+   "free:paraben",
+   "aud:women",
+   "size:standard",
+   "rating:none",
+   "store:flipkart",
+   "inci:partial"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Rice Extract",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "smartdrops-itm9450825131a80",
+  "brand": "smartdrops",
+  "model": "Sunscreen - SPF 50 PA+++ SPF 50 Korean Sunscreen Non Greasy Face Cream",
+  "price": 220,
+  "capacityLine": "240 g",
+  "materialLine": "niacinamide + hyaluronic acid + vitamin E",
+  "featureLine": "Sunscreen · SPF 50 · ₹92/100g",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 3 ingredients named — formula unscored",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "240 g",
+   "pricePer100": "₹92/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "niacinamide, hyaluronic acid, vitamin E (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim, SPF 50",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 3 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: Vitamin E, Niacinamide, Hydrolyzed Collagen",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/r/9/z/120-0-spf-50-korean-sunscreen-non-greasy-face-cream-50-original-imahh5r3u7ezwf7e.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/d/m/0/60-0-korean-sunscreen-spf-50-pa-non-greasy-daily-use-cream-50-original-imahh5mhhk3kq4f2.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/b/a/l/120-0-korean-sunscreen-spf-50-pa-non-greasy-daily-use-cream-50-original-imahh5mhzx3hp4mz.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/v/t/1/180-0-korean-sunscreen-spf-50-pa-non-greasy-daily-use-cream-50-original-imahh5mhbepmpghs.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/2/e/z/180-0-korean-sunscreen-spf-50-pa-non-greasy-daily-use-cream-50-original-imahh5mh4vkhuuh6.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/smartdrops-sunscreen-spf-50-pa-korean-non-greasy-face-cream/p/itm9450825131a80",
+  "buyStore": "Flipkart",
+  "title": "smartdrops Sunscreen - SPF 50 PA+++ SPF 50 Korean Sunscreen Non Greasy Face Cream",
+  "tags": [
+   "scope:both",
+   "format:gel",
+   "format:cream",
+   "format:kit",
+   "spf:50",
+   "pa:+++",
+   "water:unstated",
+   "ing:niacinamide",
+   "ing:hyaluronic-acid",
+   "ing:collagen",
+   "ing:vitamin-e",
+   "claim:brightening",
+   "claim:anti-aging",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:lightweight",
+   "claim:korean",
+   "claim:spf-claim",
+   "skin:all",
+   "aud:women",
+   "size:large",
+   "rating:none",
+   "store:flipkart",
+   "inci:partial"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Vitamin E, Niacinamide, Hydrolyzed Collagen",
+   "inciNote": "Only 3 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "luzimaisa-itm5c60c79a59a17",
+  "brand": "Luzimaisa",
+  "model": "Sunscreen - SPF 50 PA++++ Water Resistant Sun Screen Gel Cream",
+  "price": 363,
+  "capacityLine": "100 g",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Sunscreen · SPF 50 · ₹363/100g",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "100 g",
+   "pricePer100": "₹363/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, SPF 50",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/y/1/q/100-water-resistant-sun-screen-gel-cream-white-50-luzimaisa-original-imahqh2uyg4yprjx.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/luzimaisa-sunscreen-spf-50-pa-water-resistant-sun-screen-gel-cream/p/itm5c60c79a59a17",
+  "buyStore": "Flipkart",
+  "title": "Luzimaisa Sunscreen - SPF 50 PA++++ Water Resistant Sun Screen Gel Cream",
+  "tags": [
+   "scope:face",
+   "format:gel",
+   "format:cream",
+   "spf:50",
+   "pa:++++",
+   "water:resistant",
+   "claim:hydrating",
+   "claim:water-resistant",
+   "claim:broad-spectrum",
+   "claim:spf-claim",
+   "skin:all",
+   "free:vegan",
+   "aud:women",
+   "size:standard",
+   "rating:none",
+   "store:flipkart",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "gabbu-itmcea41b3e8af6b",
+  "brand": "GABBU",
+  "model": "Sunscreen - SPF 50 PA+++ Water Resistant SPF 50 PA+++ Sunscreen Gel Cream for women",
+  "price": 361,
+  "capacityLine": "100 g",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Sunscreen · Paraben-free · SPF 50 · ₹361/100g",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "100 g",
+   "pricePer100": "₹361/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "SPF 50",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/a/j/t/100-brightening-sunscreen-spf50pa-sun-protection-sunblock-original-imahqhdf2pmkh3uv.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/x/9/9/30-sunscreen-cream-for-face-and-body-anti-aging-moisturizing-spf-original-imahnbkjz3zjh4yd.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/7/r/8/100-water-resistant-spf-50-pa-sunscreen-gel-cream-white-50-gabbu-original-imahqhdmnpms6zsy.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/y/x/w/100-brightening-sunscreen-spf50pa-sun-protection-sunblock-original-imahqhdfyqduedha.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/gabbu-sunscreen-spf-50-pa-water-resistant-gel-cream-women/p/itmcea41b3e8af6b",
+  "buyStore": "Flipkart",
+  "title": "GABBU Sunscreen - SPF 50 PA+++ Water Resistant SPF 50 PA+++ Sunscreen Gel Cream for women",
+  "tags": [
+   "scope:both",
+   "format:gel",
+   "format:cream",
+   "spf:50",
+   "pa:+++",
+   "water:resistant",
+   "claim:water-resistant",
+   "claim:spf-claim",
+   "skin:all",
+   "free:paraben",
+   "aud:women",
+   "size:standard",
+   "rating:none",
+   "store:flipkart",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": true,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "smartdrops-itm79b1a2eca7c6a",
+  "brand": "smartdrops",
+  "model": "Sunscreen - SPF 50 PA+++ SPF 50 PA+++ Men Sunscreen Lotion with Moisturizer for Outdoor Us…",
+  "price": 145,
+  "capacityLine": "120 g",
+  "materialLine": "kojic acid",
+  "featureLine": "Sunscreen · SPF 50 · ₹121/100g",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "120 g",
+   "pricePer100": "₹121/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "kojic acid (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, SPF 50",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/d/6/b/120-0-spf-50-pa-men-sunscreen-lotion-with-moisturizer-for-original-imahhddyzyhmktbx.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/q/v/o/120-0-men-sunscreen-lotion-spf-50-pa-lightweight-outdoor-skin-original-imahh93mc7hdhgcr.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/c/b/x/120-0-men-sunscreen-lotion-spf-50-pa-lightweight-outdoor-skin-original-imahh93mhznrwhhf.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/4/9/w/60-0-men-sunscreen-lotion-spf-50-pa-lightweight-outdoor-skin-original-imahh93mxdr9dgae.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/2/r/6/120-0-men-sunscreen-lotion-spf-50-pa-lightweight-outdoor-skin-original-imahh93mrwugbwyy.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/smartdrops-sunscreen-spf-50-pa-mens-lightweight-scented-face-body/p/itm79b1a2eca7c6a",
+  "buyStore": "Flipkart",
+  "title": "smartdrops Sunscreen - SPF 50 PA+++ SPF 50 PA+++ Men Sunscreen Lotion with Moisturizer for Outdoor Use Skin",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:lotion",
+   "spf:50",
+   "pa:+++",
+   "water:unstated",
+   "ing:kojic-acid",
+   "claim:de-tan",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "claim:spf-claim",
+   "skin:all",
+   "aud:women",
+   "size:standard",
+   "rating:none",
+   "store:flipkart",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "aroma-care-itmc1db73a2beac2",
+  "brand": "AROMA CARE",
+  "model": "Sunscreen - SPF 50 PA+++ Sun Shield SPF 50 matt gel cream",
+  "price": 640,
+  "capacityLine": "60 g",
+  "materialLine": "vitamin E",
+  "featureLine": "Sunscreen · SPF 50 · ₹1067/100g",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "60 g",
+   "pricePer100": "₹1067/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin E (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "SPF 50",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types, Combination Skin, Dry Skin, Normal Skin, Oily Skin, Sensitive Skin",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/j/4/d/100-sun-shield-spf-50-matt-gel-cream-50-aroma-care-original-imagts2eawyfxvzw.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/o/8/c/100-sun-shield-whitening-spf-30-30-aroma-care-original-imagts2cqjkxyuq4.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/a/0/o/50-sunscreen-gel-abbotts-skincare-broad-spectrum-uva-uvb-original-imahgprktxgx9ttk.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/r/h/r/100-sunscreen-spray-with-vitamin-e-f-b5-high-uv-protection-original-imahq8ffebjnpwhy.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/z/z/n/50-glow-guard-prevents-sunburn-tanning-niacinamide-green-caviar-original-imahnshxwgmskr27.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/aroma-care-sunscreen-spf-50-pa-sun-shield-matt-gel-cream/p/itmc1db73a2beac2",
+  "buyStore": "Flipkart",
+  "title": "AROMA CARE Sunscreen - SPF 50 PA+++ Sun Shield SPF 50 matt gel cream",
+  "tags": [
+   "scope:face",
+   "format:gel",
+   "format:cream",
+   "format:lotion",
+   "format:mist",
+   "spf:50",
+   "pa:+++",
+   "water:unstated",
+   "ing:vitamin-e",
+   "claim:whitening-claim",
+   "claim:spf-claim",
+   "skin:oily",
+   "skin:dry",
+   "skin:combination",
+   "skin:sensitive",
+   "skin:normal",
+   "skin:all",
+   "free:sensitive-safe",
+   "aud:women",
+   "size:standard",
+   "rating:none",
+   "store:flipkart",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "msda-itm5685e23b41852",
+  "brand": "MSDA",
+  "model": "Sunscreen - SPF 90+ Lightweight Mineral Sun Shield SPF 90+ Daily Moisturizer",
+  "price": 289,
+  "capacityLine": "45 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Sunscreen · Paraben-free · SPF 90 · ₹642/100ml",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "45 ml",
+   "pricePer100": "₹642/100ml",
+   "format": "Sunscreen",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, SPF 90",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/h/1/1/45-hydrating-mineral-sunscreen-spf-90-lightweight-daily-uv-original-imahqgyqqbhh7pvz.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/msda-sunscreen-spf-90-long-lasting-mineral-daily-protection/p/itm5685e23b41852",
+  "buyStore": "Flipkart",
+  "title": "MSDA Sunscreen - SPF 90+ Lightweight Mineral Sun Shield SPF 90+ Daily Moisturizer",
+  "tags": [
+   "scope:unstated",
+   "format:cream",
+   "spf:60",
+   "sun:mineral",
+   "water:unstated",
+   "claim:hydrating",
+   "claim:broad-spectrum",
+   "claim:lightweight",
+   "claim:spf-claim",
+   "skin:all",
+   "free:paraben",
+   "aud:women",
+   "size:travel",
+   "rating:none",
+   "store:flipkart",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": true,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "qyexe-itmfc46b3ebc6711",
+  "brand": "QYEXE",
+  "model": "Sunscreen - SPF 90+ Daily UV Defense Mineral Sunscreen SPF 90+ Hydrating Cream",
+  "price": 280,
+  "capacityLine": "45 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Sunscreen · Paraben-free · SPF 90 · ₹622/100ml",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "45 ml",
+   "pricePer100": "₹622/100ml",
+   "format": "Sunscreen",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, SPF 90",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/l/o/y/45-daily-uv-defense-mineral-sunscreen-spf-90-hydrating-cream-original-imahqgykhw5ma2ff.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/u/j/y/45-hydrating-daily-mineral-uv-protection-spf-90-sunscreen-golden-original-imahqgykhvxhrxk7.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/e/o/x/45-daily-mineral-sunscreen-spf-90-hydrating-sun-protection-cream-original-imahqgykuymf4gsy.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/b/x/o/45-daily-mineral-sunscreen-spf-90-hydrating-sun-protection-cream-original-imahqgykz56bt2sb.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/qyexe-sunscreen-spf-90-daily-uv-defense-mineral-hydrating-cream/p/itmfc46b3ebc6711",
+  "buyStore": "Flipkart",
+  "title": "QYEXE Sunscreen - SPF 90+ Daily UV Defense Mineral Sunscreen SPF 90+ Hydrating Cream",
+  "tags": [
+   "scope:unstated",
+   "format:cream",
+   "spf:60",
+   "sun:mineral",
+   "water:unstated",
+   "claim:hydrating",
+   "claim:broad-spectrum",
+   "claim:spf-claim",
+   "skin:all",
+   "free:paraben",
+   "aud:women",
+   "size:travel",
+   "rating:none",
+   "store:flipkart",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": true,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "glowseren-itm84cdbc9149c32",
+  "brand": "glowseren",
+  "model": "Sunscreen - SPF 90+ Lightweight Mineral Sun Shield SPF 90+ Daily Moisturizer",
+  "price": 298,
+  "capacityLine": "50 g",
+  "materialLine": "rice water",
+  "featureLine": "Sunscreen · Paraben-free · SPF 90 · ₹596/100g",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹596/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "rice water (per listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Non-comedogenic (seller claim — not scored)",
+   "benefit": "Hydrating, Brightening/glow claim, SPF 90",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/n/z/g/45-long-lasting-mineral-sunscreen-spf-90-daily-protection-golden-original-imahp9kqzszybkaf.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/y/l/n/45-mineral-sun-protection-cream-spf-90-hydrating-daily-wear-original-imahp9khu2c3znej.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-sunscreen/v/j/n/45-daily-uv-defense-mineral-sunscreen-spf-90-hydrating-cream-90-original-imahp9kr3ua8e8q5.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-sunscreen/r/v/m/50-rice-extract-sunscreen-cream-for-sensitive-skin-50-subhmun-original-imahnnsawkwrr6zn.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-sunscreen/a/h/t/50-hydrating-korean-sun-cream-with-rice-extract-50ml-50-subhmun-original-imahnns8mh9u7bez.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/glowseren-sunscreen-spf-90-broad-spectrum-mineral-daily-skin-protection/p/itm84cdbc9149c32",
+  "buyStore": "Flipkart",
+  "title": "glowseren Sunscreen - SPF 90+ Lightweight Mineral Sun Shield SPF 90+ Daily Moisturizer",
+  "tags": [
+   "scope:unstated",
+   "format:cream",
+   "spf:60",
+   "pa:++",
+   "sun:mineral",
+   "water:unstated",
+   "ing:rice-water",
+   "claim:brightening",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:lightweight",
+   "claim:korean",
+   "claim:spf-claim",
+   "skin:sensitive",
+   "skin:all",
+   "free:paraben",
+   "free:non-comedogenic",
+   "free:sensitive-safe",
+   "aud:women",
+   "size:travel",
+   "rating:none",
+   "store:flipkart",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": true,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "absolutely-natural-itm860d2328f6bec",
+  "brand": "Absolutely Natural",
+  "model": "Sunscreen - SPF 30 SPF 30 Mineral Sunscreen - Broad Spectrum Water Resistant Moisturizer -…",
+  "price": 3099,
+  "capacityLine": "88 ml",
+  "materialLine": "rice water + vitamin E",
+  "featureLine": "Sunscreen · SPF 30 · ₹3522/100ml",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "88 ml",
+   "pricePer100": "₹3522/100ml",
+   "format": "Sunscreen",
+   "keyIngredients": "rice water, vitamin E (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim, SPF 30",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/2/p/b/88-spf-30-mineral-sunscreen-broad-spectrum-water-resistant-original-imahzv5y82wfpnuw.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/x/z/n/88-spf-30-mineral-sunscreen-broad-spectrum-water-resistant-original-imahzv5y7z2nheux.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/w/2/2/88-spf-30-mineral-sunscreen-broad-spectrum-water-resistant-original-imahzv5yv6yqfdzf.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/a/t/q/50-daily-protection-face-cream-with-spf-30-for-soft-hydrated-and-original-imahntbbsjcugzxh.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/r/d/o/50-touch-glow-advanced-radiance-spf-30-sunscreen-with-aloevera-original-imah5efhvnhwudh5.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/absolutely-natural-sunscreen-spf-30-mineral-broad-spectrum-water-resistant-moisturizer-88ml/p/itm860d2328f6bec",
+  "buyStore": "Flipkart",
+  "title": "Absolutely Natural Sunscreen - SPF 30 SPF 30 Mineral Sunscreen - Broad Spectrum Water Resistant Moisturizer -88ml",
+  "tags": [
+   "scope:face",
+   "format:cream",
+   "spf:30",
+   "pa:++++",
+   "sun:mineral",
+   "water:resistant",
+   "ing:rice-water",
+   "ing:vitamin-e",
+   "claim:brightening",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:water-resistant",
+   "claim:broad-spectrum",
+   "claim:tinted",
+   "claim:lightweight",
+   "claim:spf-claim",
+   "claim:makeup",
+   "aud:women",
+   "size:standard",
+   "rating:none",
+   "store:flipkart",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "lotus-organics-itm6495097757547",
+  "brand": "Lotus Organics+",
+  "model": "Sunscreen - SPF 30 PA+++ HYDRATING GEL MINERAL SUNSCREEN SPF 30 100G",
+  "price": 685,
+  "capacityLine": "100 g",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Sunscreen · SPF 30 · ₹685/100g",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "100 g",
+   "pricePer100": "₹685/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim, SPF 30",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Lotus Herbals — Established / listed Indian FMCG house",
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/f/h/c/100-hydrating-gel-mineral-sunscreen-spf-30-100g-30-lotus-original-imahmtrqyhzkqje6.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/c/5/j/100-sheer-brightening-mineral-sunscreen-spf-50-100g-50-lotus-original-imahmtrrzyquw84c.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/l/a/a/100-ultra-matte-mineral-sunscreen-spf-40-100g-40-lotus-organics-original-imahmtqqbywzbmzw.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/u/p/z/-original-imahcht9dhjnxvzn.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/r/d/m/-original-imahcht9jgghxbhh.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/lotus-organics-sunscreen-spf-30-pa-hydrating-gel-mineral-100g/p/itm6495097757547",
+  "buyStore": "Flipkart",
+  "title": "Lotus Organics+ Sunscreen - SPF 30 PA+++ HYDRATING GEL MINERAL SUNSCREEN SPF 30 100G",
+  "tags": [
+   "scope:unstated",
+   "format:gel",
+   "spf:30",
+   "pa:+++",
+   "sun:mineral",
+   "water:unstated",
+   "claim:brightening",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:tinted",
+   "claim:spf-claim",
+   "free:toxin-free",
+   "aud:women",
+   "size:standard",
+   "rating:none",
+   "store:flipkart",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Lotus Herbals",
+    "kind": "india",
+    "label": "Established / listed Indian FMCG house",
+    "pts": 6,
+    "url": "https://www.lotusherbals.com/pages/about-us"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "yawi-itm8f00a50384fce",
+  "brand": "YAWI",
+  "model": "Sunscreen - SPF 50 PA+++ SPF 30 Sunscreen for Kids, 2-in-1 Face Cream, PA++++,",
+  "price": 328,
+  "capacityLine": "100 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Sunscreen · Paraben-free · SPF 50 · ₹328/100ml",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "100 ml",
+   "pricePer100": "₹328/100ml",
+   "format": "Sunscreen",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "SPF 50",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types, Combination Skin, Dry Skin, Normal Skin, Oily Skin, Sensitive Skin",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/w/e/8/100-spf-30-sunscreen-for-kids-2-in-1-face-cream-pa-clear-50-yawi-original-imahqmgwaanpfmjt.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/yawi-sunscreen-spf-50-pa-30-kids-2-in-1-face-cream-pa/p/itm8f00a50384fce",
+  "buyStore": "Flipkart",
+  "title": "YAWI Sunscreen - SPF 50 PA+++ SPF 30 Sunscreen for Kids, 2-in-1 Face Cream, PA++++,",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "spf:50",
+   "pa:+++",
+   "water:unstated",
+   "claim:barrier",
+   "claim:spf-claim",
+   "skin:oily",
+   "skin:dry",
+   "skin:combination",
+   "skin:sensitive",
+   "skin:normal",
+   "skin:all",
+   "free:paraben",
+   "free:vegan",
+   "free:sensitive-safe",
+   "aud:kids",
+   "size:standard",
+   "rating:none",
+   "store:flipkart",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": true,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "andosa-itm53fb918c05b4a",
+  "brand": "Andosa",
+  "model": "Sunscreen - SPF 50 PA+++ SunBloom Tinted Sunscreen Moisturiser Broad Spectrum, Lightweight…",
+  "price": 730,
+  "capacityLine": "60 g",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Sunscreen · SPF 50 · ₹1217/100g",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "60 g",
+   "pricePer100": "₹1217/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim, SPF 50",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/w/r/t/100-sunbloom-tinted-sunscreen-moisturiser-broad-spectrum-original-imahp88bz3gzgdeb.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/p/y/c/100-sunbloom-tinted-sunscreen-moisturiser-broad-spectrum-original-imahp88bngzagufk.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/1/0/j/75-lite-face-moisturizing-gel-spf-50-pa-75gm-no-shade-50-olesoft-original-imahnhzdhswth6kr.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/b/v/x/50-mineral-sunscreen-spf-50-pa-white-50-the-healthcare-wellness-original-imahp8va2bzasgxz.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/1/1/v/60-matte-sunscreen-gel-with-uva-uvb-protection-50-s-shield-original-imahmazk86dzjfup.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/andosa-sunscreen-spf-50-pa-sunbloom-tinted-moisturiser-broad-spectrum-lightweight-matte-finish/p/itm53fb918c05b4a",
+  "buyStore": "Flipkart",
+  "title": "Andosa Sunscreen - SPF 50 PA+++ SunBloom Tinted Sunscreen Moisturiser Broad Spectrum, Lightweight, Matte Finish",
+  "tags": [
+   "scope:unstated",
+   "format:gel",
+   "format:kit",
+   "spf:50",
+   "pa:+++",
+   "water:unstated",
+   "claim:brightening",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:broad-spectrum",
+   "claim:tinted",
+   "claim:lightweight",
+   "claim:spf-claim",
+   "skin:oily",
+   "aud:unisex",
+   "size:standard",
+   "rating:none",
+   "store:flipkart",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "berrygood-itmaec8f5264ff4d",
+  "brand": "Berrygood",
+  "model": "Sunscreen - SPF 50 PA+++ SUNSCREEN MOISTURIZER SPF 50 PA+++",
+  "price": 426,
+  "capacityLine": "50 g",
+  "materialLine": "vitamin C + niacinamide + hyaluronic acid",
+  "featureLine": "Sunscreen · Paraben-free · SPF 50 · ₹852/100g",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No water phase or preservative declared — formula unscored",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹852/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin C, niacinamide, hyaluronic acid, rice water, aloe vera, rose, shea butter (per listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Acne/blemish claim, SPF 50",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No water phase or preservative declared — a seller “key ingredients” line, not a full INCI declaration, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: Hyaluronic Acid, Niacinamide, Vitamin C (Ethyl Ascorbic Acid), Shea Butter, Marula Oil, Avocado Oil, Aloe Vera Extract, Rose Extract, Vitamin B5 (D-Panthenol).",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/w/j/6/50-sunscreen-moisturizer-spf-50-pa-white-50-berrygood-original-imahph2st8et8emr.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/a/c/h/50-sunscreen-moisturizer-spf-50-pa-white-50-berrygood-original-imahph2sgvduekzy.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/o/m/u/50-sunscreen-moisturizer-spf-50-pa-white-50-berrygood-original-imahph2swb6wwh5z.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/j/0/d/50-uvedge-tinted-sunscreen-lotion-ultra-light-spf-50-50-ml-pack-original-imagry9qzav6ruck.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-sunscreen/a/h/t/50-hydrating-korean-sun-cream-with-rice-extract-50ml-50-subhmun-original-imahnns8mh9u7bez.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/berrygood-sunscreen-spf-50-pa-moisturizer/p/itmaec8f5264ff4d",
+  "buyStore": "Flipkart",
+  "title": "Berrygood Sunscreen - SPF 50 PA+++ SUNSCREEN MOISTURIZER SPF 50 PA+++",
+  "tags": [
+   "scope:both",
+   "format:gel",
+   "format:cream",
+   "format:oil",
+   "format:balm",
+   "format:emulsion",
+   "spf:50",
+   "pa:+++",
+   "water:unstated",
+   "ing:vitamin-c",
+   "ing:niacinamide",
+   "ing:hyaluronic-acid",
+   "ing:rice-water",
+   "ing:aloe-vera",
+   "ing:rose",
+   "ing:shea-butter",
+   "ing:vitamin-b5-panthenol",
+   "ing:avocado",
+   "claim:dark-spots",
+   "claim:acne",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:no-white-cast",
+   "claim:broad-spectrum",
+   "claim:lightweight",
+   "claim:korean",
+   "claim:spf-claim",
+   "skin:oily",
+   "skin:acne-prone",
+   "skin:all",
+   "free:paraben",
+   "free:oil-free",
+   "free:vegan",
+   "aud:women",
+   "size:travel",
+   "rating:none",
+   "store:flipkart",
+   "inci:partial"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Hyaluronic Acid, Niacinamide, Vitamin C (Ethyl Ascorbic Acid), Shea Butter, Marula Oil, Avocado Oil, Aloe Vera Extract, Rose Extract, Vitamin B5 (D-Panthenol).",
+   "inciNote": "No water phase or preservative declared — a seller “key ingredients” line, not a full INCI declaration, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 0.89,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "eswuta-itm1b61d1bc3c82a",
+  "brand": "ESWUTA",
+  "model": "Sunscreen - SPF 50+ PA+++ SPF 50+ Sunscreen Gel Cream for Daily Sun Protection & Skin Care",
+  "price": 141,
+  "capacityLine": "75 g",
+  "materialLine": "niacinamide + kojic acid",
+  "featureLine": "Sunscreen · SPF 50 · ₹188/100g",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "75 g",
+   "pricePer100": "₹188/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "niacinamide, kojic acid (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim, SPF 50",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types, Combination Skin, Dry Skin, Normal Skin, Oily Skin, Sensitive Skin",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/w/8/1/120-spf-50-sunscreen-gel-cream-for-daily-sun-protection-skin-original-imahntzbsvjdebwa.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/l/7/b/60-spf-50-sunscreen-cream-with-rice-extract-for-uva-uvb-original-imahnsjh9ehzg7sr.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/q/y/v/60-spf-50-sunscreen-cream-with-rice-extract-for-uva-uvb-original-imahnsjhhsfbpy74.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/j/7/z/60-spf-50-sunscreen-cream-with-rice-extract-for-uva-uvb-original-imahnsjhnkshyakq.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/d/x/4/100-sunscreen-spf-55-pa-lightweight-gel-sunscreen-no-white-cast-original-imah9zahfxkqhujh.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/eswuta-sunscreen-spf-50-pa-gel-cream-daily-sun-protection-skin-care/p/itm1b61d1bc3c82a",
+  "buyStore": "Flipkart",
+  "title": "ESWUTA Sunscreen - SPF 50+ PA+++ SPF 50+ Sunscreen Gel Cream for Daily Sun Protection & Skin Care",
+  "tags": [
+   "scope:both",
+   "format:gel",
+   "format:cream",
+   "spf:50+",
+   "pa:+++",
+   "water:unstated",
+   "ing:niacinamide",
+   "ing:collagen",
+   "ing:kojic-acid",
+   "ing:vitamin-b5-panthenol",
+   "claim:brightening",
+   "claim:de-tan",
+   "claim:broad-spectrum",
+   "claim:lightweight",
+   "claim:spf-claim",
+   "skin:oily",
+   "skin:dry",
+   "skin:combination",
+   "skin:sensitive",
+   "skin:normal",
+   "skin:all",
+   "free:sensitive-safe",
+   "aud:women",
+   "size:standard",
+   "rating:none",
+   "store:flipkart",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "glamveda-b0c3vqbqxz",
+  "brand": "Glamveda",
+  "model": "Rice & Ceramide Dewy Sunscreen SPF 50 PA+++ | Transparent, Ultra lightweight gel cream | N…",
+  "price": 263,
+  "capacityLine": "50 ml",
+  "materialLine": "ceramides + rice water",
+  "featureLine": "Sunscreen · SPF 50 · ₹526/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 1.9
+  },
+  "fullSpec": {
+   "quantity": "50 ml",
+   "pricePer100": "₹526/100ml",
+   "format": "Sunscreen",
+   "keyIngredients": "ceramides, rice water (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Dermatologically tested (seller claim — not scored)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, SPF 50",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4★ from 0 ratings",
+   "waterResistance": "Water resistant / waterproof (duration not stated), sweat resistant (per listing — not tested here, not scored)"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51FOowjZItL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61ufcAvA+bL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61l0WSenG6L._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61pinIl4e+L._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/618ZdTW+MCL._SL1080_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0C3VQBQXZ",
+  "buyStore": "Amazon",
+  "title": "Glamveda Rice & Ceramide Dewy Sunscreen SPF 50 PA+++ | Transparent, Ultra lightweight gel cream | No White Cast, Water & Sweat Proof | For Dry & Sensitive Skin Types 50 ml",
+  "tags": [
+   "scope:unstated",
+   "format:gel",
+   "format:cream",
+   "spf:50",
+   "pa:+++",
+   "water:resistant",
+   "water:sweat",
+   "ing:ceramides",
+   "ing:rice-water",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "claim:water-resistant",
+   "claim:no-white-cast",
+   "claim:broad-spectrum",
+   "claim:blue-light",
+   "claim:lightweight",
+   "claim:spf-claim",
+   "claim:makeup",
+   "skin:oily",
+   "skin:dry",
+   "skin:combination",
+   "skin:sensitive",
+   "skin:all",
+   "free:derm",
+   "free:sensitive-safe",
+   "aud:women",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": true,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "brinton-b0gyt5zn6g",
+  "brand": "Brinton",
+  "model": "UV Doux Face Moisturizer (100g) + Brinton UV Doux Face & Body Sunscreen Gel SPF 50 PA+++ (…",
+  "price": 1168,
+  "capacityLine": "100 g",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Sunscreen · SPF 50 · ₹1168/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "Made by Brinton Pharmaceuticals (dermatology / pharma maker)"
+  ],
+  "cons": [
+   "No ingredient list published on the listing"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 8,
+   "experience": 2.6
+  },
+  "fullSpec": {
+   "quantity": "100 g",
+   "pricePer100": "₹1168/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Non-comedogenic (seller claim — not scored)",
+   "benefit": "Hydrating, SPF 50",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.2/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Brinton Pharmaceuticals — Dermatology / pharmaceutical manufacturer",
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "waterResistance": "Water resistant / waterproof (duration not stated), sweat resistant, marketed for swim / sport / outdoors (per listing — not tested here, not scored)"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51qTh7C7abL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GYT5ZN6G",
+  "buyStore": "Amazon",
+  "title": "Brinton UV Doux Face Moisturizer (100g) + Brinton UV Doux Face & Body Sunscreen Gel SPF 50 PA+++ (50g), Water Resistant, Sweat-proof, Matte Finish, Oil-Free Sun Protection and Full Body Hydration",
+  "tags": [
+   "scope:both",
+   "format:gel",
+   "spf:50",
+   "pa:+++",
+   "water:resistant",
+   "water:sweat",
+   "water:sport",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:water-resistant",
+   "claim:spf-claim",
+   "claim:dry-skin-relief",
+   "free:oil-free",
+   "free:non-comedogenic",
+   "aud:unisex",
+   "size:standard",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none",
+   "inci:pharma-maker"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": true
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Brinton Pharmaceuticals",
+    "kind": "pharma",
+    "label": "Dermatology / pharmaceutical manufacturer",
+    "pts": 8,
+    "url": "https://www.brintonpharma.com/"
+   },
+   "buyers": "4.2★ from 0 ratings"
+  }
+ },
+ {
+  "id": "unbranded-b0fmfjx1lg",
+  "brand": "Unbranded",
+  "model": "Sunscreen SPF 50 for Men | Broad-Spectrum UV Defence Sunscreen | Oil-Free, Matte Finish, N…",
+  "price": 780,
+  "capacityLine": "50 g",
+  "materialLine": "niacinamide",
+  "featureLine": "Sunscreen · SPF 50 · ₹1560/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.6
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹1560/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "niacinamide (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Acne/blemish claim, SPF 50",
+   "audience": "Marketed for men",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.2/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "waterResistance": "Water resistant / waterproof (duration not stated), marketed for swim / sport / outdoors (per listing — not tested here, not scored)"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71u+-KGLmpL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71rLzm6oPGL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71Qaq1VDw5L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61ihy4lXAtL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61y4DnEfJnL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0FMFJX1LG",
+  "buyStore": "Amazon",
+  "title": "Sunscreen SPF 50 for Men | Broad-Spectrum UV Defence Sunscreen | Oil-Free, Matte Finish, Non-Greasy, Lightweight + Moisturizer for Face & Body | For Oily, Dry, Sensitive & Combination Skin | Korean Made | 50g",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:lotion",
+   "format:kit",
+   "spf:50",
+   "pa:++++",
+   "water:resistant",
+   "water:sport",
+   "ing:niacinamide",
+   "claim:dark-spots",
+   "claim:acne",
+   "claim:pores",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "claim:water-resistant",
+   "claim:broad-spectrum",
+   "claim:lightweight",
+   "claim:korean",
+   "claim:spf-claim",
+   "skin:oily",
+   "skin:dry",
+   "skin:combination",
+   "skin:sensitive",
+   "free:oil-free",
+   "free:sensitive-safe",
+   "aud:men",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": true,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.2★ from 0 ratings"
+  }
+ },
+ {
+  "id": "exoray-b0ggcw9bg5",
+  "brand": "Exoray",
+  "model": "Exosome Sunscreen SPF 50 PA++++ Face Gel Cream | Invisible Matte Finish for Men & Women | …",
+  "price": 495,
+  "capacityLine": "50 g",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Sunscreen · SPF 50 · ₹990/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 5
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹990/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Non-comedogenic (seller claim — not scored)",
+   "benefit": "Brightening/glow claim, Acne/blemish claim, SPF 50",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "5★ from 0 ratings",
+   "waterResistance": "Water resistant / waterproof (duration not stated), sweat resistant, marketed for swim / sport / outdoors (per listing — not tested here, not scored)"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71-xOzetKiL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71GvALkDQaL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71oegcRR5sL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81vjQDMc1UL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81CmyPGVLrL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GGCW9BG5",
+  "buyStore": "Amazon",
+  "title": "Exoray Exosome Sunscreen SPF 50 PA++++ Face Gel Cream | Invisible Matte Finish for Men & Women | New Gen Filters, Blue Light & Infrared Defense | Water Resistant, Non Oily, No White Cast (50g)",
+  "tags": [
+   "scope:face",
+   "format:gel",
+   "format:cream",
+   "format:oil",
+   "spf:50",
+   "pa:++++",
+   "sun:hybrid",
+   "water:resistant",
+   "water:sweat",
+   "water:sport",
+   "ing:collagen",
+   "ing:exosomes",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:acne",
+   "claim:oil-control",
+   "claim:barrier",
+   "claim:exfoliating",
+   "claim:water-resistant",
+   "claim:no-white-cast",
+   "claim:blue-light",
+   "claim:lightweight",
+   "claim:spf-claim",
+   "claim:makeup",
+   "skin:oily",
+   "skin:sensitive",
+   "skin:acne-prone",
+   "free:non-comedogenic",
+   "free:sensitive-safe",
+   "aud:women",
+   "size:travel",
+   "rating:4.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "5★ from 0 ratings"
+  }
+ },
+ {
+  "id": "orgatre-b0fc2nzg5h",
+  "brand": "Orgatre",
+  "model": "Sun Shield SPF 50 PA++++ Sunscreen for Women & Girls, Vitamin C, Niacinamide & Hyaluronic …",
+  "price": 166,
+  "capacityLine": "50 g",
+  "materialLine": "vitamin C + niacinamide + hyaluronic acid",
+  "featureLine": "Sunscreen · SPF 50 · ₹332/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 1
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹332/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin C, niacinamide, hyaluronic acid (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim, Acne/blemish claim, SPF 50",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "3.7/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.7★ from 0 ratings",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61eA5Vw5pjL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0FC2NZG5H",
+  "buyStore": "Amazon",
+  "title": "ORGATRE Sun Shield SPF 50 PA++++ Sunscreen for Women & Girls, Vitamin C, Niacinamide & Hyaluronic Acid, Non-Greasy, No White Cast, Water Resistant, Face Cream for Glowing Skin & Acne Prone Skin 50gm",
+  "tags": [
+   "scope:face",
+   "format:cream",
+   "format:kit",
+   "spf:50",
+   "pa:++++",
+   "water:resistant",
+   "ing:vitamin-c",
+   "ing:niacinamide",
+   "ing:hyaluronic-acid",
+   "claim:brightening",
+   "claim:acne",
+   "claim:oil-control",
+   "claim:water-resistant",
+   "claim:no-white-cast",
+   "claim:spf-claim",
+   "skin:acne-prone",
+   "aud:women",
+   "size:travel",
+   "rating:3.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.7★ from 0 ratings"
+  }
+ },
+ {
+  "id": "unbranded-b0fv2wtrjr",
+  "brand": "Unbranded",
+  "model": "Vitamin C Sun Cream SPF 90 PA+++ | UV Protection Hydrating Sunscreen | Non-Greasy, Waterpr…",
+  "price": 249,
+  "capacityLine": "50 ml",
+  "materialLine": "vitamin C + rose",
+  "featureLine": "Sunscreen · SPF 90 · ₹498/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only headline actives are listed — formula unscored",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 2.6
+  },
+  "fullSpec": {
+   "quantity": "50 ml",
+   "pricePer100": "₹498/100ml",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin C, rose (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim, SPF 90",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.2/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only headline actives are listed — no base / preservative ingredients, so this is not a full INCI declaration and formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: Diphenyl ketone,Ethyl salicylate,humolysate,sinoxate,phenyl dibenzimidazolium tetraxanthate disodium, butylmethoxydibenzoyl methane, ethyl hexy methoxycinnamate, licorice brass, plant extract, vitamin c.",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "waterResistance": "Water resistant / waterproof (duration not stated), sweat resistant (per listing — not tested here, not scored)"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/318r8nH+hBL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0FV2WTRJR",
+  "buyStore": "Amazon",
+  "title": "Vitamin C Sun Cream SPF 90 PA+++ | UV Protection Hydrating Sunscreen | Non-Greasy, Waterproof & Quick Absorbing Face Cream | Brightening & Nourishing Formula (50ml) (Rose)",
+  "tags": [
+   "scope:face",
+   "format:cream",
+   "spf:60",
+   "pa:+++",
+   "water:resistant",
+   "water:sweat",
+   "ing:vitamin-c",
+   "ing:rose",
+   "claim:brightening",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "claim:water-resistant",
+   "claim:broad-spectrum",
+   "claim:lightweight",
+   "claim:spf-claim",
+   "claim:makeup",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon",
+   "inci:partial"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Diphenyl ketone,Ethyl salicylate,humolysate,sinoxate,phenyl dibenzimidazolium tetraxanthate disodium, butylmethoxydibenzoyl methane, ethyl hexy methoxycinnamate, licorice brass, plant extract, vitamin c.",
+   "inciNote": "Only headline actives are listed — no base / preservative ingredients, so this is not a full INCI declaration and formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 0.8,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.2★ from 0 ratings"
+  }
+ },
+ {
+  "id": "unbranded-b0h4fwmbwg",
+  "brand": "Unbranded",
+  "model": "SPF 60+ PA++++ Aqua-Fresh Sunscreen Gel Cream with Rice Extract & Vitamin B5 | Lightweight…",
+  "price": 209,
+  "capacityLine": "60 ml",
+  "materialLine": "rice water",
+  "featureLine": "Sunscreen · SPF 60 · ₹348/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "60 ml",
+   "pricePer100": "₹348/100ml",
+   "format": "Sunscreen",
+   "keyIngredients": "rice water (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, SPF 60",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/41RrzhOm3jL._SL1364_.jpg",
+   "https://m.media-amazon.com/images/I/61rsEXWSv9L._SL1448_.jpg",
+   "https://m.media-amazon.com/images/I/61br-V3x8xL._SL1264_.jpg",
+   "https://m.media-amazon.com/images/I/61Jw-4jrCsL._SL1264_.jpg",
+   "https://m.media-amazon.com/images/I/61YgqQntY7L._SL1447_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H4FWMBWG",
+  "buyStore": "Amazon",
+  "title": "SPF 60+ PA++++ Aqua-Fresh Sunscreen Gel Cream with Rice Extract & Vitamin B5 | Lightweight Daily Sun Protection | No White Cast & Non-Greasy Formula | 60ml.",
+  "tags": [
+   "scope:unstated",
+   "format:gel",
+   "format:cream",
+   "spf:60",
+   "pa:++++",
+   "water:unstated",
+   "ing:rice-water",
+   "ing:vitamin-b5-panthenol",
+   "ing:glycerin",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:exfoliating",
+   "claim:no-white-cast",
+   "claim:broad-spectrum",
+   "claim:lightweight",
+   "claim:spf-claim",
+   "claim:cooling",
+   "skin:oily",
+   "skin:dry",
+   "skin:combination",
+   "skin:sensitive",
+   "skin:all",
+   "free:sensitive-safe",
+   "aud:unisex",
+   "size:standard",
+   "rating:none",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "sunprotect-b0dl5jn11w",
+  "brand": "Sunprotect",
+  "model": "RX Sunscreen Moisturizer SPF 50+ PA++++ for All Skin Types and Age Groups, Infused with Se…",
+  "price": 376,
+  "capacityLine": "50 ml",
+  "materialLine": "niacinamide + hyaluronic acid + aloe vera",
+  "featureLine": "Sunscreen · SPF 50 · ₹752/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 1.6
+  },
+  "fullSpec": {
+   "quantity": "50 ml",
+   "pricePer100": "₹752/100ml",
+   "format": "Sunscreen",
+   "keyIngredients": "niacinamide, hyaluronic acid, aloe vera, vitamin E, zinc (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, SPF 50",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "3.9/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.9★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/511xWP0L7ML._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/51rPrm3v7ZL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61QGIFMSvrL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61-H5pqIMvL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/51Y0RNefi8L._SL1080_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0DL5JN11W",
+  "buyStore": "Amazon",
+  "title": "Sunprotect RX Sunscreen Moisturizer SPF 50+ PA++++ for All Skin Types and Age Groups, Infused with SeaBoost, Niacinamide, Hyaluronic Acid, 50 Ml",
+  "tags": [
+   "scope:both",
+   "format:lotion",
+   "spf:50+",
+   "pa:++++",
+   "sun:mineral",
+   "water:unstated",
+   "ing:niacinamide",
+   "ing:hyaluronic-acid",
+   "ing:aloe-vera",
+   "ing:vitamin-e",
+   "ing:zinc",
+   "claim:hydrating",
+   "claim:soothing",
+   "claim:broad-spectrum",
+   "claim:spf-claim",
+   "skin:all",
+   "aud:unisex",
+   "size:travel",
+   "rating:3.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.9★ from 0 ratings"
+  }
+ },
+ {
+  "id": "unbranded-b0fcy4rvrg",
+  "brand": "Unbranded",
+  "model": "SPF 50+ PA+++ Sunscreen Face Cream | No White Cast, Lightweight & Non-Greasy | UVA/UVB Pro…",
+  "price": 149,
+  "capacityLine": "50 g",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Sunscreen · Paraben-free · SPF 50 · ₹298/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.9
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹298/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Non-comedogenic (seller claim — not scored)",
+   "benefit": "Hydrating, SPF 50",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.3/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "waterResistance": "Water resistant / waterproof (duration not stated), marketed for swim / sport / outdoors (per listing — not tested here, not scored)"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61ZKSfPCHQL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/91GN9-Cb-dL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81+rxP6VhrL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/715T5WaTi5L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81jDCZ9WFTL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0FCY4RVRG",
+  "buyStore": "Amazon",
+  "title": "SPF 50+ PA+++ Sunscreen Face Cream | No White Cast, Lightweight & Non-Greasy | UVA/UVB Protection for Oily, Combination & Normal Skin | Matte Finish Sunblock for Men & Women - 50g",
+  "tags": [
+   "scope:face",
+   "format:cream",
+   "spf:50+",
+   "pa:+++",
+   "water:resistant",
+   "water:sport",
+   "claim:pores",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:water-resistant",
+   "claim:no-white-cast",
+   "claim:broad-spectrum",
+   "claim:lightweight",
+   "claim:spf-claim",
+   "skin:oily",
+   "skin:combination",
+   "skin:normal",
+   "free:paraben",
+   "free:non-comedogenic",
+   "aud:women",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": true,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.3★ from 0 ratings"
+  }
+ },
+ {
+  "id": "unbranded-b0dlsz1zz5",
+  "brand": "Unbranded",
+  "model": "Sunscreen Lotion SPF 50 PA++++ | Broad Spectrum UVA & UVB Protection | Water Resistant Dai…",
+  "price": 499,
+  "capacityLine": "75 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Sunscreen · SPF 50 · ₹665/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.9
+  },
+  "fullSpec": {
+   "quantity": "75 ml",
+   "pricePer100": "₹665/100ml",
+   "format": "Sunscreen",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Acne/blemish claim, SPF 50",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.3/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61wh0JcKAKL._SL1448_.jpg",
+   "https://m.media-amazon.com/images/I/41W8p4LPBZL._SL1280_.jpg",
+   "https://m.media-amazon.com/images/I/61BjyJxZ+sL._SL1280_.jpg",
+   "https://m.media-amazon.com/images/I/61naPk8JjpL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0DLSZ1ZZ5",
+  "buyStore": "Amazon",
+  "title": "Sunscreen Lotion SPF 50 PA++++ | Broad Spectrum UVA & UVB Protection | Water Resistant Daily Matte Moisturizer for Oily & Acne-Prone Skin | Blue Light Protection | 75 ml",
+  "tags": [
+   "scope:unstated",
+   "format:lotion",
+   "spf:50",
+   "pa:++++",
+   "water:resistant",
+   "claim:acne",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:soothing",
+   "claim:water-resistant",
+   "claim:broad-spectrum",
+   "claim:blue-light",
+   "claim:spf-claim",
+   "skin:oily",
+   "skin:acne-prone",
+   "skin:all",
+   "aud:unisex",
+   "size:standard",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.3★ from 0 ratings"
+  }
+ },
+ {
+  "id": "soulmist-b0flp8531d",
+  "brand": "Soulmist",
+  "model": "Sunscreen + Moisturiser for Men & women | SPF 50+ PA++++ | Niacinamide & Vitamin C | Water…",
+  "price": 299,
+  "capacityLine": "50 ml",
+  "materialLine": "vitamin C + niacinamide",
+  "featureLine": "Sunscreen · SPF 50 · ₹598/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.9
+  },
+  "fullSpec": {
+   "quantity": "50 ml",
+   "pricePer100": "₹598/100ml",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin C, niacinamide (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim, Acne/blemish claim, SPF 50",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.3/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "waterResistance": "Water resistant / waterproof (duration not stated), sweat resistant (per listing — not tested here, not scored)"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/418JeH+i-IL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61ZfPQI2psL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/517XBrtOYsL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/510L-BsfXzL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/51N7Rte+XJL._SL1080_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0FLP8531D",
+  "buyStore": "Amazon",
+  "title": "Soulmist Sunscreen + Moisturiser for Men & women | SPF 50+ PA++++ | Niacinamide & Vitamin C | Water & Sweat Resistant | Matte Finish | Broad Spectrum UV Protection | 50ml",
+  "tags": [
+   "scope:unstated",
+   "spf:50+",
+   "pa:++++",
+   "water:resistant",
+   "water:sweat",
+   "ing:vitamin-c",
+   "ing:niacinamide",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:acne",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:water-resistant",
+   "claim:no-white-cast",
+   "claim:broad-spectrum",
+   "claim:lightweight",
+   "claim:spf-claim",
+   "skin:oily",
+   "skin:acne-prone",
+   "skin:all",
+   "aud:women",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.3★ from 0 ratings"
+  }
+ },
+ {
+  "id": "mitvana-b0h3lgz8s8",
+  "brand": "MITVANA",
+  "model": "SUNGUARD SPF 50 Sun Protection Face Cream | Broad Spectrum UVA & UVB Protection | PA++++ |…",
+  "price": 550,
+  "capacityLine": "100 g",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Sunscreen · SPF 50 · ₹550/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "100 g",
+   "pricePer100": "₹550/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "SPF 50",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistant / waterproof (duration not stated), sweat resistant (per listing — not tested here, not scored)"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71L8CAu59HL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71nMftNFZPL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81C2xy4pH2L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/719+3Db0K9L._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H3LGZ8S8",
+  "buyStore": "Amazon",
+  "title": "MITVANA SUNGUARD SPF 50 Sun Protection Face Cream | Broad Spectrum UVA & UVB Protection | PA++++ | Water & Sweat Resistant | Non-Greasy Lightweight Formula | No White Cast | With Palash, Grapes & Sunflower (100 g)",
+  "tags": [
+   "scope:face",
+   "format:cream",
+   "spf:50",
+   "pa:++++",
+   "water:resistant",
+   "water:sweat",
+   "claim:oil-control",
+   "claim:soothing",
+   "claim:water-resistant",
+   "claim:no-white-cast",
+   "claim:broad-spectrum",
+   "claim:lightweight",
+   "claim:spf-claim",
+   "aud:unisex",
+   "size:standard",
+   "rating:none",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "unbranded-b09xmzx19p",
+  "brand": "Unbranded",
+  "model": "Sun Protection Mattifying Gel Cream Spf50 Pa+++ | Sunscreen Gel Cream | Based Formula With…",
+  "price": 549,
+  "capacityLine": "100 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Sunscreen · SPF 50 · ₹549/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 1.3
+  },
+  "fullSpec": {
+   "quantity": "100 ml",
+   "pricePer100": "₹549/100ml",
+   "format": "Sunscreen",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim, SPF 50",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "3.8/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.8★ from 0 ratings",
+   "waterResistance": "sweat resistant (per listing — not tested here, not scored)"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/41a1e5XtyWL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/71ci-vM5sFL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81okUEUIseL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71uGAazoJlL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71LCgGGvhnL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B09XMZX19P",
+  "buyStore": "Amazon",
+  "title": "Sun Protection Mattifying Gel Cream Spf50 Pa+++ | Sunscreen Gel Cream | Based Formula With Uva/Uvb Rays, Non-Greasy & Sweat Proof Cream For Face & Body, No Harmful Chemicals, 100Ml, All",
+  "tags": [
+   "scope:both",
+   "format:gel",
+   "format:cream",
+   "spf:50",
+   "pa:+++",
+   "water:sweat",
+   "claim:brightening",
+   "claim:whitening-claim",
+   "claim:oil-control",
+   "claim:water-resistant",
+   "claim:broad-spectrum",
+   "claim:lightweight",
+   "claim:spf-claim",
+   "skin:oily",
+   "free:oil-free",
+   "free:toxin-free",
+   "aud:unisex",
+   "size:standard",
+   "rating:3.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.8★ from 0 ratings"
+  }
+ },
+ {
+  "id": "unbranded-b00y3ihuwq",
+  "brand": "Unbranded",
+  "model": "3rd Rock Sunblock Sunscreen - SPF 35+ / 100% Toxin Free Natural Organic Hypoallergenic Sun…",
+  "price": 4544,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "zinc",
+  "featureLine": "Sunscreen · SPF 35",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 1.6
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Sunscreen",
+   "keyIngredients": "zinc (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, SPF 35",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "3.9/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.9★ from 0 ratings",
+   "waterResistance": "Water resistant — 80 minutes or more (very water resistant) (per listing — not tested here, not scored)"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71jMWTlAXhL._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/61dpl5ZEhCL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/81+44cladgL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/91xcv8ILcZL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/A1Iv0+giEcL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B00Y3IHUWQ",
+  "buyStore": "Amazon",
+  "title": "3rd Rock Sunblock Sunscreen - SPF 35+ / 100% Toxin Free Natural Organic Hypoallergenic Sunscreen Lotion with Moisturizer / 80 minute water resistant - Face and Body - Broad UVA and UVB SPF - Patented Zinc Formulation",
+  "tags": [
+   "scope:both",
+   "format:lotion",
+   "spf:30",
+   "water:80",
+   "ing:zinc",
+   "claim:hydrating",
+   "claim:water-resistant",
+   "claim:broad-spectrum",
+   "claim:spf-claim",
+   "free:hypoallergenic",
+   "free:toxin-free",
+   "aud:unisex",
+   "rating:3.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.9★ from 0 ratings"
+  }
+ },
+ {
+  "id": "unbranded-b0fms2flrm",
+  "brand": "Unbranded",
+  "model": "Skin Doctors Sun Protection Face Cream, SPF 80, UVA+UVB Protection, 150ml, With Hyaluronic…",
+  "price": 750,
+  "capacityLine": "150 ml",
+  "materialLine": "hyaluronic acid",
+  "featureLine": "Sunscreen · SPF 80 · ₹500/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "150 ml",
+   "pricePer100": "₹500/100ml",
+   "format": "Sunscreen",
+   "keyIngredients": "hyaluronic acid (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, SPF 80",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51z0QEn8+ZL._SL1266_.jpg",
+   "https://m.media-amazon.com/images/I/510d1WgErhL._SL1266_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0FMS2FLRM",
+  "buyStore": "Amazon",
+  "title": "Skin Doctors Sun Protection Face Cream, SPF 80, UVA+UVB Protection, 150ml, With Hyaluronic Acid and Vitamins | made in thailand",
+  "tags": [
+   "scope:face",
+   "format:cream",
+   "spf:60",
+   "water:unstated",
+   "ing:hyaluronic-acid",
+   "claim:dark-spots",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:broad-spectrum",
+   "claim:spf-claim",
+   "skin:sensitive",
+   "aud:unisex",
+   "size:large",
+   "rating:none",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "unbranded-b0hg1bm4ph",
+  "brand": "Unbranded",
+  "model": "Unisex La Alpina Instant Cooling + Antiaging Sunscreen (Peptides, Cermides) SPF 50 | Sun P…",
+  "price": 999,
+  "capacityLine": "50 g",
+  "materialLine": "ceramides + peptides + aloe vera",
+  "featureLine": "Sunscreen · SPF 50 · ₹1998/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹1998/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "ceramides, peptides, aloe vera (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Non-comedogenic (seller claim — not scored)",
+   "benefit": "Anti-aging claim, Acne/blemish claim, SPF 50",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71CPfG7icmL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71kX5NS-UFL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71HBLc3kDfL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71m0DY0aR9L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81C06kH6wYL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0HG1BM4PH",
+  "buyStore": "Amazon",
+  "title": "Unisex La Alpina Instant Cooling + Antiaging Sunscreen (Peptides, Cermides) SPF 50 | Sun Protection Face Cream for Outdoor Skincare, Cooling Feel & UV Care | Facial Routine, Skin Care | Pack of 1, 50g",
+  "tags": [
+   "scope:face",
+   "format:cream",
+   "format:kit",
+   "spf:50",
+   "pa:++++",
+   "water:unstated",
+   "ing:ceramides",
+   "ing:peptides",
+   "ing:aloe-vera",
+   "ing:matrixyl",
+   "claim:dark-spots",
+   "claim:anti-aging",
+   "claim:acne",
+   "claim:barrier",
+   "claim:soothing",
+   "claim:exfoliating",
+   "claim:broad-spectrum",
+   "claim:lightweight",
+   "claim:spf-claim",
+   "claim:cooling",
+   "skin:oily",
+   "skin:all",
+   "free:non-comedogenic",
+   "aud:unisex",
+   "size:travel",
+   "rating:none",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "hydraxspf-b0gpvv9jw5",
+  "brand": "HydraXSPF",
+  "model": "Moisturizer with SPF 30 Sunscreen, Broad Spectrum, No White Cast, Fast Absorbing, 50g",
+  "price": 499,
+  "capacityLine": "50 g",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Sunscreen · SPF 30 · ₹998/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 5
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹998/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, SPF 30",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "5★ from 0 ratings",
+   "waterResistance": "marketed for swim / sport / outdoors (per listing — not tested here, not scored)"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61OWaUfNlIL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71fEyrnkDgL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/715QA4EYz7L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71Jmm2ExTUL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71CfaY2qVJL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GPVV9JW5",
+  "buyStore": "Amazon",
+  "title": "HydraXSPF Moisturizer with SPF 30 Sunscreen, Broad Spectrum, No White Cast, Fast Absorbing, 50g",
+  "tags": [
+   "scope:face",
+   "spf:30",
+   "water:unstated",
+   "water:sport",
+   "claim:pores",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "claim:no-white-cast",
+   "claim:broad-spectrum",
+   "claim:lightweight",
+   "claim:spf-claim",
+   "skin:oily",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "5★ from 0 ratings"
+  }
+ },
+ {
+  "id": "relief-b0gtm85hyr",
+  "brand": "Relief",
+  "model": "Sun Sunscreen SPF50+ PA++++ Korean Rice Probiotics Face Cream Lightweight Moisturizing Non…",
+  "price": 469,
+  "capacityLine": "50 ml",
+  "materialLine": "rice water",
+  "featureLine": "Sunscreen · SPF 50 · ₹938/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 1.9
+  },
+  "fullSpec": {
+   "quantity": "50 ml",
+   "pricePer100": "₹938/100ml",
+   "format": "Sunscreen",
+   "keyIngredients": "rice water (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Non-comedogenic (seller claim — not scored)",
+   "benefit": "Hydrating, Brightening/glow claim, Acne/blemish claim, SPF 50",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "4.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4★ from 0 ratings",
+   "waterResistance": "Water resistant / waterproof (duration not stated), sweat resistant, marketed for swim / sport / outdoors (per listing — not tested here, not scored)"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/512ZtqoIjjL._SL1024_.jpg",
+   "https://m.media-amazon.com/images/I/617iP8pUMVL._SL1024_.jpg",
+   "https://m.media-amazon.com/images/I/61nS-azximL._SL1024_.jpg",
+   "https://m.media-amazon.com/images/I/71aHp4mt99L._SL1248_.jpg",
+   "https://m.media-amazon.com/images/I/61uODCI+6kL._SL1024_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GTM85HYR",
+  "buyStore": "Amazon",
+  "title": "Relief Sun Sunscreen SPF50+ PA++++ Korean Rice Probiotics Face Cream Lightweight Moisturizing Non-Sticky UV Protection For Oily & All Skin Types Broad Spectrum UVA UVB 50ml/1.69 fl. oz.",
+  "tags": [
+   "scope:face",
+   "format:cream",
+   "spf:50+",
+   "pa:++++",
+   "water:resistant",
+   "water:sweat",
+   "water:sport",
+   "ing:rice-water",
+   "ing:probiotics",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:acne",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "claim:water-resistant",
+   "claim:broad-spectrum",
+   "claim:lightweight",
+   "claim:korean",
+   "claim:spf-claim",
+   "skin:oily",
+   "skin:combination",
+   "skin:sensitive",
+   "skin:acne-prone",
+   "skin:all",
+   "free:non-comedogenic",
+   "free:sensitive-safe",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "inatur-b081t5q5rb",
+  "brand": "inatur",
+  "model": "Vitamin E SPF 30 PA++++ Sunscreen Spray | Waterproof Sunscreen Spray | Broad Spectrum Prot…",
+  "price": 415,
+  "capacityLine": "50 ml",
+  "materialLine": "vitamin E",
+  "featureLine": "Sunscreen · Paraben-free · SPF 30 · ₹830/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.9
+  },
+  "fullSpec": {
+   "quantity": "50 ml",
+   "pricePer100": "₹830/100ml",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin E (per listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Non-comedogenic (seller claim — not scored)",
+   "benefit": "Hydrating, SPF 30",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "4.3/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "waterResistance": "Water resistant / waterproof (duration not stated), sweat resistant, marketed for swim / sport / outdoors (per listing — not tested here, not scored)"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71XDv7aZPHL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71YNzMPEx5L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71sKjzlOGvL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61QxHvUI09L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/811lN+ywcoL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B081T5Q5RB",
+  "buyStore": "Amazon",
+  "title": "inatur Vitamin E SPF 30 PA++++ Sunscreen Spray | Waterproof Sunscreen Spray | Broad Spectrum Protection + Moisturizer | Vegan & Natural | For All Skin Types | Lightweight & Non-Greasy | 50ml",
+  "tags": [
+   "scope:unstated",
+   "format:mist",
+   "spf:30",
+   "pa:++++",
+   "water:resistant",
+   "water:sweat",
+   "water:sport",
+   "ing:vitamin-e",
+   "claim:pores",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:water-resistant",
+   "claim:broad-spectrum",
+   "claim:lightweight",
+   "claim:spf-claim",
+   "claim:cooling",
+   "skin:all",
+   "free:paraben",
+   "free:non-comedogenic",
+   "free:vegan",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.3★ from 0 ratings"
   }
  }
 ];

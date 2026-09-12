@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-11.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-12.
 // Unknown fields are honestly marked, never invented.
 const NXPRODUCTS = [
  {
@@ -590,7 +590,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "L'Oréal Dermatological Beauty — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type, panthenol #5 on INCI, madecassoside #8 on INCI (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type, panthenol #5 on INCI, madecassoside #8 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/4/r/c/40-cicaplast-baume-b5-repair-moisturizer-balm-soothing-face-body-original-imahp2ybgffjxfsd.jpeg?q=90",
@@ -606,6 +607,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:balm",
+   "water:unstated",
    "claim:hydrating",
    "claim:barrier",
    "skin:oily",
@@ -764,7 +766,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "L'Oréal Dermatological Beauty — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type, panthenol #5 on INCI, madecassoside #8 on INCI (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type, panthenol #5 on INCI, madecassoside #8 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/c/e/a/40-cicaplast-baume-b5-skin-repair-balm-hydrating-soothing-original-imahp2yentghmjv5.jpeg?q=90",
@@ -780,6 +783,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:balm",
+   "water:unstated",
    "claim:hydrating",
    "claim:barrier",
    "claim:soothing",
@@ -937,7 +941,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/4/y/n/100-ai-lotion-001-physiogel-lotion-original-imahpgg6hwbrrtzg.jpeg?q=90",
@@ -954,6 +959,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:lotion",
+   "water:unstated",
    "claim:hydrating",
    "skin:oily",
    "skin:dry",
@@ -1056,7 +1062,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "L'Oréal Dermatological Beauty — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type, panthenol #5 on INCI, madecassoside #8 on INCI (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type, panthenol #5 on INCI, madecassoside #8 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/y/5/c/40-cicaplast-baume-b5-skin-moisturizer-fast-absorbing-repair-original-imahp2zfdp2hungk.jpeg?q=90",
@@ -1074,6 +1081,7 @@ const NXPRODUCTS = [
    "format:lotion",
    "format:balm",
    "format:pack",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:cocoa-butter",
    "claim:brightening",
@@ -1341,7 +1349,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.3★ from 58 ratings",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/i/6/f/50-rice-ceramide-gel-cream-moisturizer-fragrance-free-for-men-original-imahc7nvtxueqats.jpeg?q=90",
@@ -1357,6 +1366,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:cream",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "ing:rice-water",
@@ -1579,7 +1589,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "L'Oréal Dermatological Beauty — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type, panthenol #5 on INCI, madecassoside #8 on INCI (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type, panthenol #5 on INCI, madecassoside #8 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/4/r/c/40-cicaplast-baume-b5-repair-moisturizer-balm-soothing-face-body-original-imahp2ybgffjxfsd.jpeg?q=90",
@@ -1595,6 +1606,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:balm",
+   "water:unstated",
    "claim:hydrating",
    "claim:barrier",
    "skin:oily",
@@ -1750,7 +1762,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.2★ from 5 ratings",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/j/h/50-barrier-repair-gel-moisturizer-with-ceramides-niacinamide-original-imahqyyvcrhgprmp.jpeg?q=90",
@@ -1768,6 +1781,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:scrub",
    "format:wash",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:centella-cica",
@@ -1875,7 +1889,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "L'Oréal Dermatological Beauty — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/z/n/100-cicaplast-skin-repair-cream-b5-barrier-care-moisturizer-for-original-imahp3fzkrjnpstz.jpeg?q=90",
@@ -1894,6 +1909,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:cocoa-butter",
    "claim:brightening",
@@ -2001,7 +2017,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "L'Oréal Dermatological Beauty — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type, panthenol #5 on INCI, madecassoside #8 on INCI (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type, panthenol #5 on INCI, madecassoside #8 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/q/4/2/40-cicaplast-baume-b5-soothing-moisturizer-skin-recovery-original-imahp2z3bj5swyzg.jpeg?q=90",
@@ -2018,6 +2035,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:lotion",
    "format:balm",
+   "water:unstated",
    "ing:aloe-vera",
    "claim:hydrating",
    "claim:barrier",
@@ -2453,7 +2471,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/e/f/c/50-cica-repair-emulsion-with-vegan-collagen-for-healthy-skin-original-imahkjgwu9ygym3h.jpeg?q=90",
@@ -2473,6 +2492,7 @@ const NXPRODUCTS = [
    "format:capsule",
    "format:kit",
    "spf:50",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "ing:collagen",
@@ -14100,7 +14120,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "1.7★ from 3 ratings",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/d/y/i/100-ceramide-ha-intense-face-moisturizer-for-dry-skin-blush-fizz-original-imahkzy6xkm9gjfu.jpeg?q=90",
@@ -14115,6 +14136,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:ceramides",
    "claim:oil-control",
    "claim:hydrating",
@@ -14564,7 +14586,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4★ from 2 ratings",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/r/8/i/200-barrier-repair-moisturizer-with-phytolite-5x-butter-complex-original-imahzzhw38qt86hg.jpeg?q=90",
@@ -14580,6 +14603,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:lotion",
    "format:balm",
+   "water:unstated",
    "ing:ceramides",
    "claim:anti-aging",
    "claim:hydrating",
@@ -14681,7 +14705,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.5★ from 4 ratings",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/9/9/3/50-oil-free-moisturizer-with-ceramide-niacinamide-barrier-repair-original-imahkw65y2egydvm.jpeg?q=90",
@@ -14696,6 +14721,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:vitamin-e",
@@ -14795,7 +14821,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/j/1/150-ultra-moisturizing-cream-with-ceramide-hyaluronic-acid-original-imahn8ygtgvzcghb.jpeg?q=90",
@@ -14815,6 +14842,7 @@ const NXPRODUCTS = [
    "format:scrub",
    "format:wash",
    "format:kit",
+   "water:unstated",
    "ing:colloidal-oatmeal",
    "ing:hyaluronic-acid",
    "ing:ceramides",
@@ -16912,7 +16940,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "L'Oréal Dermatological Beauty — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type, panthenol #5 on INCI, madecassoside #8 on INCI (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type, panthenol #5 on INCI, madecassoside #8 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/1/0/f/100-cicaplast-balm-b5-moisturizing-cream-restores-protects-skin-original-imahp3ftbzdbqgje.jpeg?q=90",
@@ -16928,6 +16957,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:balm",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "claim:hydrating",
@@ -17501,7 +17531,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/a/f/15-organic-avocado-night-cream-hydrating-soothing-restores-original-imahj3ht6caqgtz7.jpeg?q=90",
@@ -17519,6 +17550,7 @@ const NXPRODUCTS = [
    "format:lotion",
    "format:balm",
    "format:kit",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:aloe-vera",
    "ing:cocoa-butter",
@@ -17954,7 +17986,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/c/o/x/100-ceramides-hyaluron-barrier-repair-moisturizer-cream-blush-original-imahkvkcrfx6weqg.jpeg?q=90",
@@ -17973,6 +18006,7 @@ const NXPRODUCTS = [
    "format:clay-mask",
    "format:powder",
    "format:kit",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "ing:aloe-vera",
@@ -18509,7 +18543,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/body-pain-relief/a/v/8/50-fragile-skin-repair-cream-deep-moisturizing-skin-barrier-original-imahzwfngj7mufga.jpeg?q=90",
@@ -18527,6 +18562,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:lotion",
    "format:kit",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:calamine",
    "claim:whitening-claim",
@@ -19085,7 +19121,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/f/z/3/100-0-fragile-skin-repair-deep-moisturizing-daily-care-cream-original-imahzzgghpxfaurg.jpeg?q=90",
@@ -19102,6 +19139,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:clay-mask",
    "format:scrub",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:collagen",
@@ -19201,7 +19239,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/9/2/b/150-skin-barrier-repair-hydrodum-cream-with-ceramide-squalane-original-imahjwcfneqjhdwp.jpeg?q=90",
@@ -19220,6 +19259,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:kit",
    "spf:30",
+   "water:unstated",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:ceramides",
@@ -19564,7 +19604,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/f/d/n/200-skin-barrier-repair-moisturizer-cream-dextron-cream-original-imahzbhr7zjapzvh.jpeg?q=90",
@@ -19583,6 +19624,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "format:kit",
+   "water:unstated",
    "ing:niacinamide",
    "ing:colloidal-oatmeal",
    "ing:ceramides",
@@ -19931,7 +19973,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/m/q/d/100-skin-barrier-complex-protective-moisturizer-with-ceramides-original-imahzu2ak75hnsa7.jpeg?q=90",
@@ -19947,6 +19990,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:lotion",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:ceramides",
    "ing:watermelon",
@@ -20455,7 +20499,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/0/o/o/50-non-greasy-moisturizing-cream-with-ceramide-niacinamide-and-original-imahnmhudcchxckc.jpeg?q=90",
@@ -20473,6 +20518,7 @@ const NXPRODUCTS = [
    "format:serum",
    "spf:15",
    "pa:++",
+   "water:unstated",
    "ing:niacinamide",
    "claim:brightening",
    "claim:dark-spots",
@@ -20923,7 +20969,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — niacinamide #2 on INCI; Dark spots — niacinamide #2 on INCI; Irritation — product type, ceramide ap #7 on INCI, ceramide eop #9 on INCI, ceramide np #11 on INCI, ceramide ns #12 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #2 on INCI; Dark spots — niacinamide #2 on INCI; Irritation — product type, ceramide ap #7 on INCI, ceramide eop #9 on INCI, ceramide np #11 on INCI, ceramide ns #12 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/r/2/v/50-ceramide-barrier-repair-moisturizer-cream-and-ultra-hydrating-original-imahmkmragrchq4d.jpeg?q=90",
@@ -20941,6 +20988,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:lotion",
    "format:foam",
+   "water:unstated",
    "ing:ceramides",
    "ing:papaya",
    "claim:brightening",
@@ -22124,7 +22172,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): parfum (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — niacinamide #3 on INCI; Dark spots — niacinamide #3 on INCI; Irritation — product type, aloe barbadensis leaf extract #2 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #3 on INCI; Dark spots — niacinamide #3 on INCI; Irritation — product type, aloe barbadensis leaf extract #2 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/c/i/n/50-barrier-repair-moisturising-lotion-seravolve-lotion-original-imahpg8wcgfehhgk.jpeg?q=90",
@@ -22141,6 +22190,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:lotion",
+   "water:unstated",
    "ing:ceramides",
    "ing:peptides",
    "ing:papaya",
@@ -24487,7 +24537,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "5★ from 1 ratings",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/j/b/w/50-ceradose-barrier-repair-ultra-hydrating-skin-moisturizer-original-imahz8qpjnq5cpvj.jpeg?q=90",
@@ -24502,6 +24553,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "ing:peptides",
@@ -24822,7 +24874,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.8★ from 6 ratings",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/m/s/h/50-hydronic-moisturizing-cream-50-g-barrier-repair-for-dry-original-imahgb9hcsg5ygzb.jpeg?q=90",
@@ -24838,6 +24891,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:balm",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:shea-butter",
    "ing:vitamin-b5-panthenol",
@@ -24938,7 +24992,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/5/s/30-ultra-moisturizing-cream-barrier-repair-for-dry-cracked-skin-original-imahmsv449zb4b7z.jpeg?q=90",
@@ -24955,6 +25010,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "spf:30",
+   "water:unstated",
    "claim:dark-spots",
    "claim:whitening-claim",
    "claim:anti-aging",
@@ -25503,7 +25559,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "L'Oréal Dermatological Beauty — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type, panthenol #5 on INCI, madecassoside #8 on INCI (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type, panthenol #5 on INCI, madecassoside #8 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/3/s/3/40-cicaplast-repair-balm-b5-barrier-repair-long-lasting-original-imahp2zyzbeyptpc.jpeg?q=90",
@@ -25520,6 +25577,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:lotion",
    "format:balm",
+   "water:unstated",
    "ing:aloe-vera",
    "claim:dark-spots",
    "claim:whitening-claim",
@@ -25912,7 +25970,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "L'Oréal Dermatological Beauty — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type, panthenol #5 on INCI, madecassoside #8 on INCI (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type, panthenol #5 on INCI, madecassoside #8 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/j/t/f/100-cicaplast-b5-daily-repair-cream-hydrating-skin-barrier-original-imahp324gjdtjmjj.jpeg?q=90",
@@ -25930,6 +25989,7 @@ const NXPRODUCTS = [
    "format:lotion",
    "format:balm",
    "format:kit",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "claim:oil-control",
@@ -26091,7 +26151,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "L'Oréal Dermatological Beauty — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type, panthenol #5 on INCI, madecassoside #8 on INCI (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type, panthenol #5 on INCI, madecassoside #8 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/0/n/n/100-cicaplast-b5-protective-cream-skin-barrier-repair-moisture-original-imahp328w5gdkewu.jpeg?q=90",
@@ -26108,6 +26169,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:balm",
    "format:kit",
+   "water:unstated",
    "claim:hydrating",
    "claim:barrier",
    "skin:oily",
@@ -26379,7 +26441,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/x/j/7/50-daily-moisturizing-barrier-cream-for-soft-nourished-and-original-imahz8sdkc4nywkq.jpeg?q=90",
@@ -26395,6 +26458,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:lotion",
+   "water:unstated",
    "claim:brightening",
    "claim:whitening-claim",
    "claim:hydrating",
@@ -26491,7 +26555,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/j/w/t/100-ceramide-moisturizer-hydrating-barrier-repair-cream-siniq-original-imahfsagywxhebmp.jpeg?q=90",
@@ -26509,6 +26574,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:lotion",
    "format:toner",
+   "water:unstated",
    "ing:urea",
    "ing:hyaluronic-acid",
    "ing:ceramides",
@@ -27158,7 +27224,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/q/r/0/face-wash-and-night-cream-combo-for-clean-soft-healthy-skin-2-original-imahpjennuqgspeq.jpeg?q=90",
@@ -27174,6 +27241,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:kit",
+   "water:unstated",
    "ing:ceramides",
    "ing:kojic-acid",
    "claim:brightening",
@@ -27276,7 +27344,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/g/6/m/100-moisturizer-cream-deep-hydration-skin-nourishment-100gm-original-imahfxyabw7hznms.jpeg?q=90",
@@ -27292,6 +27361,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:kit",
+   "water:unstated",
    "ing:ceramides",
    "claim:hydrating",
    "claim:barrier",
@@ -27386,7 +27456,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/e/x/100-ceramides-hyaluron-barrier-repair-moisturizer-probioties-original-imahkvkpcfh3zm67.jpeg?q=90",
@@ -27405,6 +27476,7 @@ const NXPRODUCTS = [
    "format:lotion",
    "format:oil",
    "format:kit",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "ing:rice-water",
@@ -27678,7 +27750,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI; Irritation — product type, ceramide np #12 on INCI, ceramide ap #13 on INCI, ceramide eop #14 on INCI, panthenol #20 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI; Irritation — product type, ceramide np #12 on INCI, ceramide ap #13 on INCI, ceramide eop #14 on INCI, panthenol #20 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/r/s/0/50-ceramide-barrier-repair-cream-ceramide-complex-deep-original-imahpzvrpbvs4khd.jpeg?q=90",
@@ -27691,6 +27764,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:ceramides",
@@ -28028,7 +28102,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Kreative Beauty Pvt Ltd (Hyphen) — Indian D2C brand with its own product company",
    "buyerEvidence": "4.3★ from 482 ratings",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/8/6/50-0-7-ceramides-nmf-face-cream-moisturizer-barrier-repair-original-imaheqsf33wrpybs.jpeg?q=90",
@@ -28044,6 +28119,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:balm",
+   "water:unstated",
    "ing:ceramides",
    "ing:shea-butter",
    "ing:vitamin-b5-panthenol",
@@ -30376,7 +30452,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "L'Oréal Dermatological Beauty — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type, panthenol #5 on INCI, madecassoside #8 on INCI (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type, panthenol #5 on INCI, madecassoside #8 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/s/n/d/40-cicaplast-baume-b5-moisturizer-skin-barrier-repair-deep-original-imahp2yfeyzgd4ny.jpeg?q=90",
@@ -30393,6 +30470,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:balm",
    "format:kit",
+   "water:unstated",
    "claim:dark-spots",
    "claim:whitening-claim",
    "claim:hydrating",
@@ -31137,7 +31215,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/6/e/b/50-daily-skin-barrier-moisturizing-cream-aavisu-cream-original-imahpbwdwb8e9gjz.jpeg?q=90",
@@ -31152,6 +31231,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "claim:hydrating",
    "claim:barrier",
    "claim:soothing",
@@ -32207,7 +32287,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/4/1/e/200-moisturizing-lotion-with-ceramides-shea-butter-daily-original-imahp7ffntagjuay.jpeg?q=90",
@@ -32226,6 +32307,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "format:kit",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:aloe-vera",
@@ -32664,7 +32746,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Brinton Pharmaceuticals — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/o/f/p/100-uv-doux-lightweight-daily-barrier-support-cream-for-dry-original-imahpjsft7ad5kza.jpeg?q=90",
@@ -32681,6 +32764,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:lotion",
    "format:kit",
+   "water:unstated",
    "claim:acne",
    "claim:oil-control",
    "claim:hydrating",
@@ -33825,7 +33909,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.7★ from 24 ratings",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/j/u/a/100-dewmaxz-skin-barrier-moisturizing-cream-dermazone-cream-original-imahjyvdb5jt34y6.jpeg?q=90",
@@ -33840,6 +33925,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:glycerin",
    "claim:oil-control",
    "claim:hydrating",
@@ -34168,7 +34254,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — niacinamide #8 on INCI; Dark spots — niacinamide #8 on INCI; Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #8 on INCI; Dark spots — niacinamide #8 on INCI; Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/j/s/s/50-zero-rituals-barrier-restore-moisturizer-ceramide-matrixyl-original-imahpp6pzkxty8ms.jpeg?q=90",
@@ -34185,6 +34272,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:kit",
+   "water:unstated",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:ceramides",
@@ -34468,7 +34556,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-moisturizer-cream/5/f/6/50-5-niacinamide-spf30-gel-cream-ceramide-cica-for-all-skin-original-imahndwznbgmsgz2.jpeg?q=90",
@@ -34486,6 +34575,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:kit",
    "spf:30",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:rice-water",
@@ -34595,7 +34685,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/x/l/q/50-barrier-support-lotion-with-2-microbiome-complex-niacinamide-original-imahp73pf3uzfw9g.jpeg?q=90",
@@ -34611,6 +34702,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:lotion",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "claim:brightening",
@@ -34827,7 +34919,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.9★ from 14 ratings",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/r/w/3/50-ai-cream-01-physiogel-cream-original-imahjd8upq5y2cwm.jpeg?q=90",
@@ -34842,6 +34935,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "claim:hydrating",
    "skin:all",
@@ -35854,7 +35948,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/j/d/u/250-elegent-ceramide-lotion-dermolite-lotion-original-imahn4y7cnpyfgs7.jpeg?q=90",
@@ -35873,6 +35968,7 @@ const NXPRODUCTS = [
    "format:lotion",
    "format:scrub",
    "format:wash",
+   "water:unstated",
    "ing:urea",
    "ing:hyaluronic-acid",
    "ing:ceramides",
@@ -42804,7 +42900,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "L'Oréal Dermatological Beauty — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type, panthenol #5 on INCI, madecassoside #8 on INCI (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type, panthenol #5 on INCI, madecassoside #8 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/i/r/100-cicaplast-skin-barrier-repair-cream-b5-moisturizing-soothing-original-imahp3f6pecfehpz.jpeg?q=90",
@@ -42820,6 +42917,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:balm",
+   "water:unstated",
    "claim:hydrating",
    "claim:barrier",
    "claim:soothing",
@@ -43080,7 +43178,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "L'Oréal Dermatological Beauty — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type, panthenol #5 on INCI, madecassoside #8 on INCI (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type, panthenol #5 on INCI, madecassoside #8 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/j/n/e/40-cicaplast-repair-moisturizer-balm-lightweight-hydration-skin-original-imahp2yh4tp2ag47.jpeg?q=90",
@@ -43098,6 +43197,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:lotion",
    "format:balm",
+   "water:unstated",
    "ing:aloe-vera",
    "claim:hydrating",
    "claim:barrier",
@@ -43374,7 +43474,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "L'Oréal Dermatological Beauty — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "3.2★ from 5 ratings",
-   "concernBasis": "Irritation — product type, panthenol #5 on INCI, madecassoside #8 on INCI (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type, panthenol #5 on INCI, madecassoside #8 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/a/g/5/40-cicaplast-baume-b5-repair-moisturizer-balm-la-roche-posay-original-imahzymzgpx4y3kh.jpeg?q=90",
@@ -43390,6 +43491,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:balm",
+   "water:unstated",
    "claim:hydrating",
    "claim:barrier",
    "skin:oily",
@@ -43548,7 +43650,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "L'Oréal Dermatological Beauty — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type, panthenol #5 on INCI, madecassoside #8 on INCI (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type, panthenol #5 on INCI, madecassoside #8 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/f/y/w/100-cicaplast-b5-skin-repair-cream-nourishing-formula-for-dry-original-imahp3fy8hmkqd49.jpeg?q=90",
@@ -43565,6 +43668,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:balm",
    "format:kit",
+   "water:unstated",
    "claim:hydrating",
    "claim:barrier",
    "skin:oily",
@@ -43721,7 +43825,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/f/3/f/50-ceramide-barrier-repair-hydrating-gel-daily-moisturizer-with-original-imahndtuzdaqwvgx.jpeg?q=90",
@@ -43737,6 +43842,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:centella-cica",
@@ -43944,7 +44050,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/z/a/o/50-barrier-repair-moisturizer-gel-non-greasy-face-hydration-with-original-imahndtv4hzzuswu.jpeg?q=90",
@@ -43960,6 +44067,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:centella-cica",
@@ -44292,7 +44400,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "L'Oréal Dermatological Beauty — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type, panthenol #5 on INCI, madecassoside #8 on INCI (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type, panthenol #5 on INCI, madecassoside #8 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/q/y/d/40-cicaplast-baume-b5-moisture-repair-cream-daily-hydrating-skin-original-imahp2yzne6vywrt.jpeg?q=90",
@@ -44310,6 +44419,7 @@ const NXPRODUCTS = [
    "format:lotion",
    "format:balm",
    "format:pack",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:cocoa-butter",
    "claim:brightening",
@@ -44471,7 +44581,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "L'Oréal Dermatological Beauty — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type, panthenol #5 on INCI, madecassoside #8 on INCI (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type, panthenol #5 on INCI, madecassoside #8 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/8/v/c/100-cicaplast-balm-b5-skin-recovery-cream-intensive-moisture-original-imahp32dber8vycz.jpeg?q=90",
@@ -44489,6 +44600,7 @@ const NXPRODUCTS = [
    "format:lotion",
    "format:balm",
    "format:pack",
+   "water:unstated",
    "ing:aloe-vera",
    "ing:cocoa-butter",
    "claim:brightening",
@@ -44652,7 +44764,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "L'Oréal Dermatological Beauty — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type, panthenol #5 on INCI, madecassoside #8 on INCI (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type, panthenol #5 on INCI, madecassoside #8 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/4/r/c/40-cicaplast-baume-b5-repair-moisturizer-balm-soothing-face-body-original-imahp2ybgffjxfsd.jpeg?q=90",
@@ -44670,6 +44783,7 @@ const NXPRODUCTS = [
    "format:lotion",
    "format:balm",
    "format:kit",
+   "water:unstated",
    "ing:niacinamide",
    "ing:urea",
    "ing:ceramides",
@@ -44831,7 +44945,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/a/w/5/50-barrier-repair-lightweight-oil-free-gel-moisturizer-acne-safe-original-imahne2dch6qfpaf.jpeg?q=90",
@@ -44847,6 +44962,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:centella-cica",
@@ -44954,7 +45070,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/s/b/l/50-acne-safe-barrier-repair-lightweight-gel-oil-free-24h-original-imahndwjqyyx4hba.jpeg?q=90",
@@ -44973,6 +45090,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:ceramides",
@@ -45087,7 +45205,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/u/s/v/50-barrier-repair-moisturizer-gel-ceramides-panthenol-cica-for-original-imahndtvhwkgauds.jpeg?q=90",
@@ -45103,6 +45222,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:centella-cica",
@@ -45208,7 +45328,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/e/a/u/50-lightweight-oil-free-barrier-repair-gel-moisturizer-acne-safe-original-imahndu9neexzfg5.jpeg?q=90",
@@ -45224,6 +45345,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:centella-cica",
@@ -45331,7 +45453,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/e/p/t/50-barrier-repair-gel-moisturizer-cica-niacinamide-formula-for-original-imahndtuxz3yz49w.jpeg?q=90",
@@ -45347,6 +45470,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:centella-cica",
@@ -45452,7 +45576,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/p/v/r/50-barrier-repair-face-gel-cream-lightweight-hydration-with-original-imahndtuvhfet8ah.jpeg?q=90",
@@ -45469,6 +45594,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:centella-cica",
@@ -45574,7 +45700,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/q/g/u/50-barrier-repair-gel-moisturizer-lightweight-oil-free-acne-safe-original-imahndtwbgv5udtq.jpeg?q=90",
@@ -45590,6 +45717,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:centella-cica",
@@ -45696,7 +45824,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/e/i/j/50-barrier-repair-gel-cream-for-face-non-greasy-hydration-with-original-imahndtvv5hfcu2r.jpeg?q=90",
@@ -45713,6 +45842,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:centella-cica",
@@ -45819,7 +45949,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/0/7/n/50-ceramides-complex-face-gel-daily-barrier-repair-for-healthy-original-imahndtvkg2ppfpc.jpeg?q=90",
@@ -45835,6 +45966,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:centella-cica",
@@ -45942,7 +46074,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/s/m/a/50-barrier-repair-hydrating-gel-cream-oil-free-daily-moisturizer-original-imahne2jdh9qqgg5.jpeg?q=90",
@@ -45959,6 +46092,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:centella-cica",
@@ -46061,7 +46195,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/a/p/p/50-barrier-repair-moisturizer-gel-lightweight-cica-hydration-for-original-imahndtucs3vcfyg.jpeg?q=90",
@@ -46077,6 +46212,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:centella-cica",
@@ -46183,7 +46319,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/q/c/m/50-barrier-repair-gel-moisturizer-fast-absorbing-formula-for-original-imahndtusev3mhsp.jpeg?q=90",
@@ -46199,6 +46336,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:centella-cica",
@@ -46305,7 +46443,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/v/d/6/50-barrier-repair-gel-cream-niacinamide-ceramides-cica-for-calm-original-imahndtvhb4mtvpq.jpeg?q=90",
@@ -46322,6 +46461,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:centella-cica",
@@ -46540,7 +46680,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/5/a/z/50-barrier-repair-gel-moisturizer-oil-free-lightweight-with-2-original-imahne46bfhuyesh.jpeg?q=90",
@@ -46556,6 +46697,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:centella-cica",
@@ -46662,7 +46804,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/4/j/h/50-ceramides-niacinamide-oil-free-gel-moisturizer-acne-safe-original-imahndtucr5ttyz3.jpeg?q=90",
@@ -46679,6 +46822,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:serum",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:ceramides",
@@ -46790,7 +46934,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/z/q/l/50-daily-barrier-repair-moisturizer-fast-absorbing-gel-with-original-imahndu4qkr2ajst.jpeg?q=90",
@@ -46806,6 +46951,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:centella-cica",
@@ -46911,7 +47057,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/y/x/x/50-oil-free-barrier-repair-moisturizer-cica-face-gel-for-original-imahndv74fd8vw4g.jpeg?q=90",
@@ -46927,6 +47074,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:centella-cica",
@@ -47034,7 +47182,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/v/8/1/50-ceramide-cica-face-moisturizer-gel-lightweight-hydration-for-original-imahndtvwst4vgt9.jpeg?q=90",
@@ -47050,6 +47199,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:centella-cica",
@@ -47270,7 +47420,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/s/t/j/50-oil-free-acne-safe-ceramides-gel-moisturizer-lightweight-skin-original-imahndu3zg4hpbw9.jpeg?q=90",
@@ -47286,6 +47437,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:centella-cica",
@@ -47508,7 +47660,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "L'Oréal Dermatological Beauty — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type, panthenol #5 on INCI, madecassoside #8 on INCI (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type, panthenol #5 on INCI, madecassoside #8 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/o/q/m/100-cicaplast-balm-b5-skin-barrier-repair-cream-la-roche-posay-original-imahzyjvy9zhkxds.jpeg?q=90",
@@ -47524,6 +47677,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:balm",
+   "water:unstated",
    "ing:vitamin-b5-panthenol",
    "claim:hydrating",
    "claim:barrier",
@@ -47684,7 +47838,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI; Irritation — product type, centella asiatica extract #5 on INCI, ceramide np #13 on INCI, ceramide ap #14 on INCI, ceramide eop #15 on INCI, madecassoside #18 on INCI, asiaticoside #19 on INCI, panthenol #25 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI; Irritation — product type, centella asiatica extract #5 on INCI, ceramide np #13 on INCI, ceramide ap #14 on INCI, ceramide eop #15 on INCI, madecassoside #18 on INCI, asiaticoside #19 on INCI, panthenol #25 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/b/q/n/50-cica-sensitive-skin-cream-madagascar-centella-madecassoside-original-imahpxasejajfbgm.jpeg?q=90",
@@ -47700,6 +47855,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "ing:centella-cica",
@@ -48169,7 +48325,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/s/9/100-cicaplast-baume-b5-spf50-laroche-posay-cream-original-imahpcsmdycebuzq.jpeg?q=90",
@@ -48186,6 +48343,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:balm",
    "spf:50",
+   "water:unstated",
    "ing:centella-cica",
    "ing:shea-butter",
    "ing:vitamin-e",
@@ -48291,7 +48449,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "L'Oréal Dermatological Beauty — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/p/n/100-cicaplast-balm-b5-face-cream-barrier-repair-long-lasting-original-imahp3fnhkjqxgff.jpeg?q=90",
@@ -48307,6 +48466,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:balm",
+   "water:unstated",
    "ing:vitamin-b5-panthenol",
    "claim:hydrating",
    "claim:barrier",
@@ -48411,7 +48571,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "L'Oréal Dermatological Beauty — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type, panthenol #5 on INCI, madecassoside #8 on INCI (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type, panthenol #5 on INCI, madecassoside #8 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/q/c/y/100-cicaplast-balm-b5-skin-barrier-repair-cream-soothing-original-imahp3f27axq9zqd.jpeg?q=90",
@@ -48430,6 +48591,7 @@ const NXPRODUCTS = [
    "format:lotion",
    "format:balm",
    "format:kit",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "claim:acne",
@@ -48593,7 +48755,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/m/x/1/50-barrier-repair-hydrating-gel-cream-with-ceramides-panthenol-original-imahndtvdagj4fpj.jpeg?q=90",
@@ -48610,6 +48773,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:centella-cica",
@@ -49031,7 +49195,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/5/3/6/50-cica-panthenol-face-gel-moisturizer-calms-redness-restores-original-imahndtvhzffzbft.jpeg?q=90",
@@ -49050,6 +49215,7 @@ const NXPRODUCTS = [
    "format:serum",
    "format:balm",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:centella-cica",
@@ -49285,7 +49451,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/n/0/v/50-barrier-repair-moisturizer-with-cica-soothing-hydrating-gel-original-imahne29gstxyqqg.jpeg?q=90",
@@ -49302,6 +49469,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:centella-cica",
@@ -49409,7 +49577,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "L'Oréal Dermatological Beauty — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type, panthenol #5 on INCI, madecassoside #8 on INCI (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type, panthenol #5 on INCI, madecassoside #8 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/d/9/q/100-cicaplast-balm-b5-multi-repair-cream-daily-hydrating-barrier-original-imahp32aasxjeh4b.jpeg?q=90",
@@ -49426,6 +49595,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:balm",
+   "water:unstated",
    "claim:dark-spots",
    "claim:hydrating",
    "claim:barrier",
@@ -49708,7 +49878,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "L'Oréal Dermatological Beauty — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "4.3★ from 28 ratings",
-   "concernBasis": "Irritation — product type, panthenol #6 on INCI, madecassoside #15 on INCI (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type, panthenol #6 on INCI, madecassoside #15 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/c/v/v/100-cicaplast-baume-b5-la-roche-posay-cream-original-imahj8rbrhgf9h5d.jpeg?q=90",
@@ -49724,6 +49895,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:balm",
+   "water:unstated",
    "ing:glycerin",
    "claim:brightening",
    "claim:anti-aging",
@@ -49882,7 +50054,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "L'Oréal Dermatological Beauty — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type, panthenol #5 on INCI, madecassoside #8 on INCI (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type, panthenol #5 on INCI, madecassoside #8 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/9/1/o/40-cicaplast-baume-b5-moisturizing-repair-balm-hydrating-skin-original-imahp2yczgw9q6vb.jpeg?q=90",
@@ -49899,6 +50072,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:balm",
    "format:kit",
+   "water:unstated",
    "claim:hydrating",
    "claim:barrier",
    "skin:oily",
@@ -50165,7 +50339,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "L'Oréal Dermatological Beauty — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type, panthenol #5 on INCI, madecassoside #8 on INCI (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type, panthenol #5 on INCI, madecassoside #8 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/d/n/s/40-cicaplast-baume-b5-daily-repair-cream-hydrating-barrier-original-imahp2yvphaf9jfg.jpeg?q=90",
@@ -50183,6 +50358,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:lotion",
    "format:balm",
+   "water:unstated",
    "ing:aloe-vera",
    "claim:brightening",
    "claim:acne",
@@ -50345,7 +50521,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "L'Oréal Dermatological Beauty — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type, panthenol #5 on INCI, madecassoside #8 on INCI (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type, panthenol #5 on INCI, madecassoside #8 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/4/r/c/40-cicaplast-baume-b5-repair-moisturizer-balm-soothing-face-body-original-imahp2ybgffjxfsd.jpeg?q=90",
@@ -50363,6 +50540,7 @@ const NXPRODUCTS = [
    "format:lotion",
    "format:balm",
    "format:kit",
+   "water:unstated",
    "ing:ceramides",
    "ing:aloe-vera",
    "ing:probiotics",
@@ -50526,7 +50704,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "L'Oréal Dermatological Beauty — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type, panthenol #5 on INCI, madecassoside #8 on INCI (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type, panthenol #5 on INCI, madecassoside #8 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/r/c/w/40-cicaplast-baume-b5-repair-cream-multi-purpose-moisturizer-for-original-imahp2ydfefhhc5k.jpeg?q=90",
@@ -50542,6 +50721,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:balm",
+   "water:unstated",
    "claim:hydrating",
    "claim:barrier",
    "claim:soothing",
@@ -51058,7 +51238,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/f/x/j/100-vitamin-b5-10-face-moisturizer-luminae-cream-original-imahkvkn2ywz2uvr.jpeg?q=90",
@@ -51073,6 +51254,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:ceramides",
    "claim:brightening",
    "claim:dark-spots",
@@ -51625,7 +51807,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "L'Oréal Dermatological Beauty — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type, panthenol #5 on INCI, madecassoside #8 on INCI (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type, panthenol #5 on INCI, madecassoside #8 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/v/j/1/100-cicaplast-barrier-repair-face-cream-vitamin-b5-hydrating-original-imahp3fx8evfkjxt.jpeg?q=90",
@@ -51642,6 +51825,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:balm",
    "format:kit",
+   "water:unstated",
    "ing:vitamin-b5-panthenol",
    "claim:brightening",
    "claim:whitening-claim",
@@ -51803,7 +51987,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "L'Oréal Dermatological Beauty — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type, panthenol #5 on INCI, madecassoside #8 on INCI (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type, panthenol #5 on INCI, madecassoside #8 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/x/d/l/40-cicaplast-baume-b5-repair-moisturizer-balm-soothing-face-body-original-imahp2ybrudxysc3.jpeg?q=90",
@@ -51819,6 +52004,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:balm",
+   "water:unstated",
    "claim:hydrating",
    "claim:barrier",
    "claim:soothing",
@@ -52224,7 +52410,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.9★ from 19 ratings",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/g/h/q/100-minster-hydrating-moisturizer-100-gm-spf-50-pa-minster-feel-original-imahnmpbqgn4bmn5.jpeg?q=90",
@@ -52237,6 +52424,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:gel",
+   "water:unstated",
    "ing:niacinamide",
    "ing:rice-water",
    "ing:vitamin-e",
@@ -52457,7 +52645,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/o/r/200-moisturizer-cream-deep-hydration-barrier-repair-lightweight-original-imahzgr32zv4eguc.jpeg?q=90",
@@ -52476,6 +52665,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "format:kit",
+   "water:unstated",
    "ing:niacinamide",
    "ing:colloidal-oatmeal",
    "ing:hyaluronic-acid",
@@ -52584,7 +52774,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/j/8/100-ceramides-hyaluronic-barrier-repair-moisturizer-luminae-original-imahjh5txhkxp8ha.jpeg?q=90",
@@ -52600,6 +52791,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:lotion",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:aha",
    "ing:hyaluronic-acid",
@@ -52700,7 +52892,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.3★ from 12 ratings",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/q/r/50-advanced-barrier-repair-face-moisturizer-with-ceramides-original-imahkhpp7pyutgrf.jpeg?q=90",
@@ -52715,6 +52908,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "ing:vitamin-e",
@@ -52816,7 +53010,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/i/y/w/100-heartleaf-and-mugwort-advanced-hydrating-face-moisturizer-original-imahzyqd2tqah63n.jpeg?q=90",
@@ -52831,6 +53026,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:ceramides",
@@ -52945,7 +53141,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/e/v/e/30-hydra-creme-ceramide-peptide-100h-face-moisturizer-hydration-original-imahm2fhmgdxzze5.jpeg?q=90",
@@ -52962,6 +53159,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:oil",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:ceramides",
    "ing:peptides",
@@ -53374,7 +53572,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/w/t/50-skinwise-nourish-repair-ceramide-cream-for-dry-skin-barrier-original-imahnzwfh4ztygsm.jpeg?q=90",
@@ -53389,6 +53588,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:niacinamide",
    "ing:retinol",
    "ing:ceramides",
@@ -53488,7 +53688,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.8★ from 4 ratings",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/y/u/v/50-aqua-dew-gel-moisturizer-furero-gel-original-imahz8x2hepmavup.jpeg?q=90",
@@ -53504,6 +53705,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:wash",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:peptides",
@@ -54138,7 +54340,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.3★ from 15 ratings",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/e/v/t/200-3-in-1-radiance-anti-aging-moisturiser-spf25-with-ceramide-original-imahg4gdrmkrxkqz.jpeg?q=90",
@@ -54154,6 +54357,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "spf:15",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:ceramides",
    "ing:vitamin-e",
@@ -55902,7 +56106,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/7/z/f/50-ceramide-face-cream-50gm-lufimoist-cream-original-imahqf8fzhyxb45h.jpeg?q=90",
@@ -55914,6 +56119,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:ceramides",
    "claim:hydrating",
    "skin:all",
@@ -56803,7 +57009,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "5★ from 5 ratings",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/y/c/150-olesoft-trucera-ceramide-moisturizer-150ml-intense-hydration-original-imahhzkjvk6pfe82.jpeg?q=90",
@@ -56818,6 +57025,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:lotion",
+   "water:unstated",
    "ing:ceramides",
    "claim:hydrating",
    "skin:all",
@@ -57256,7 +57464,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/f/x/100-hydrilla-daily-moisturizing-cream-with-ceramide-for-dry-skin-original-imahz5hbtszh4mbh.jpeg?q=90",
@@ -57274,6 +57483,7 @@ const NXPRODUCTS = [
    "format:lotion",
    "format:balm",
    "format:kit",
+   "water:unstated",
    "ing:ceramides",
    "ing:shea-butter",
    "ing:vitamin-e",
@@ -57377,7 +57587,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type, ceramide np #8 on INCI, ceramide ap #9 on INCI, ceramide eop #10 on INCI, panthenol #14 on INCI (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type, ceramide np #8 on INCI, ceramide ap #9 on INCI, ceramide eop #10 on INCI, panthenol #14 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/e/a/h/50-c-multi-ceramide-moisturizing-cream-50g-deep-nourish-skin-original-imahm8zkdfxyffdf.jpeg?q=90",
@@ -57393,6 +57604,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:lotion",
+   "water:unstated",
    "ing:ceramides",
    "claim:hydrating",
    "skin:all",
@@ -57922,7 +58134,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/f/j/d/100-max-intensive-moisturizing-cream-aquasoft-original-imahk66anuthpxec.jpeg?q=90",
@@ -57939,6 +58152,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:lotion",
    "format:kit",
+   "water:unstated",
    "ing:niacinamide",
    "ing:cucumber",
    "ing:lemon",
@@ -58039,7 +58253,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/w/n/150-moisturizing-hydrodum-cream-for-extra-dry-skin-with-original-imahjwcfpdjhzhfy.jpeg?q=90",
@@ -58055,6 +58270,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:balm",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "ing:squalane",
@@ -59445,7 +59661,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/0/p/100-ceramide-ha-intense-face-moisturizer-luminae-cream-original-imahhy7dfhxdswax.jpeg?q=90",
@@ -59463,6 +59680,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:lotion",
    "format:kit",
+   "water:unstated",
    "ing:urea",
    "ing:ceramides",
    "claim:brightening",
@@ -60240,7 +60458,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "L'Oréal Dermatological Beauty — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type, panthenol #5 on INCI, madecassoside #8 on INCI (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type, panthenol #5 on INCI, madecassoside #8 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/t/c/100-cicaplast-balm-b5-intensive-repair-cream-hydrates-soothes-original-imahp327cuy8tzxk.jpeg?q=90",
@@ -60258,6 +60477,7 @@ const NXPRODUCTS = [
    "format:lotion",
    "format:balm",
    "format:kit",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "ing:honey",
@@ -60422,7 +60642,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.9★ from 9 ratings",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/o/s/m/100-duvitin-moisturizing-cream-for-dryness-dehydration-with-original-imahzndxy6kggvuj.jpeg?q=90",
@@ -60439,6 +60660,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:ceramides",
    "ing:shea-butter",
    "ing:allantoin",
@@ -60539,7 +60761,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "L'Oréal Dermatological Beauty — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type, panthenol #5 on INCI, madecassoside #8 on INCI (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type, panthenol #5 on INCI, madecassoside #8 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/5/g/w/100-cicaplast-balm-b5-repair-cream-moisturizer-for-dry-sensitive-original-imahp3fkgqg9gvdp.jpeg?q=90",
@@ -60555,6 +60778,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:balm",
+   "water:unstated",
    "claim:brightening",
    "claim:hydrating",
    "claim:barrier",
@@ -60829,7 +61053,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "L'Oréal Dermatological Beauty — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type, panthenol #5 on INCI, madecassoside #8 on INCI (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type, panthenol #5 on INCI, madecassoside #8 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/f/b/a/100-cicaplast-b5-repair-face-cream-moisturizing-barrier-original-imahp329mz9mjuxj.jpeg?q=90",
@@ -60846,6 +61071,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:balm",
    "format:kit",
+   "water:unstated",
    "claim:dark-spots",
    "claim:whitening-claim",
    "claim:acne",
@@ -61123,7 +61349,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "L'Oréal Dermatological Beauty — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type, panthenol #5 on INCI, madecassoside #8 on INCI (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type, panthenol #5 on INCI, madecassoside #8 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/7/s/x/100-cicaplast-skin-barrier-moisturizer-b5-repair-cream-for-daily-original-imahp328fkkweq88.jpeg?q=90",
@@ -61138,6 +61365,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "claim:hydrating",
    "claim:barrier",
    "skin:oily",
@@ -61296,7 +61524,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "L'Oréal Dermatological Beauty — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type, panthenol #5 on INCI, madecassoside #8 on INCI (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type, panthenol #5 on INCI, madecassoside #8 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/8/m/p/100-cicaplast-balm-b5-cream-hydrating-repair-formula-for-original-imahp3fryevyvexh.jpeg?q=90",
@@ -61312,6 +61541,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:balm",
+   "water:unstated",
    "claim:hydrating",
    "claim:barrier",
    "skin:oily",
@@ -61470,7 +61700,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "L'Oréal Dermatological Beauty — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type, panthenol #5 on INCI, madecassoside #8 on INCI (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type, panthenol #5 on INCI, madecassoside #8 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/r/c/100-cicaplast-repair-cream-with-b5-soothing-moisturizer-for-original-imahp329tej9yzyp.jpeg?q=90",
@@ -61486,6 +61717,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:balm",
+   "water:unstated",
    "claim:hydrating",
    "claim:barrier",
    "claim:soothing",
@@ -61643,7 +61875,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/h/b/o/200-0-natural-whipped-tallow-honey-balm-deep-moisturizing-skin-original-imahz7nfzwdcrasw.jpeg?q=90",
@@ -61660,6 +61893,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:balm",
    "format:pack",
+   "water:unstated",
    "ing:honey",
    "claim:anti-aging",
    "claim:hydrating",
@@ -61872,7 +62106,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.8★ from 100 ratings",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/c/q/v/-original-imahq8zhzetxfqww.jpeg?q=90",
@@ -61888,6 +62123,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:balm",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "claim:brightening",
@@ -62638,7 +62874,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/2/s/50-madeca-cream-15ml-skin-barrier-repair-brightening-care-original-imahz4gtgyg9gsbq.jpeg?q=90",
@@ -62656,6 +62893,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:scrub",
    "format:wash",
+   "water:unstated",
    "ing:niacinamide",
    "ing:centella-cica",
    "ing:glycerin",
@@ -62973,7 +63211,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/6/3/r/150-skin-barrier-repair-hydrodum-cream-with-ceramide-squalane-original-imahjwcumwkter3b.jpeg?q=90",
@@ -62991,6 +63230,7 @@ const NXPRODUCTS = [
    "format:lotion",
    "format:balm",
    "format:kit",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "ing:squalane",
@@ -63099,7 +63339,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/q/6/q/50-345-relief-cream-moisturizer-beautivine-cream-original-imahngybpccrjquf.jpeg?q=90",
@@ -63114,6 +63355,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:vitamin-b5-panthenol",
@@ -63211,7 +63453,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/d/s/t/50-daily-face-moisturizer-cream-for-barrier-repair-with-ceramide-original-imahkt8umufrcgcs.jpeg?q=90",
@@ -63227,6 +63470,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:lotion",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "ing:vitamin-e",
@@ -63883,7 +64127,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/f/w/e/50-345-releif-cream-beautivine-cream-original-imahnkawphmbufr6.jpeg?q=90",
@@ -63898,6 +64143,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:vitamin-b5-panthenol",
@@ -64338,7 +64584,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.2★ from 1,153 ratings",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/m/f/100-korean-skin-rice-ceramide-moisturizer-cream-for-women-pack-original-imahpge9jbknwkg6.jpeg?q=90",
@@ -64355,6 +64602,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:oil",
    "format:kit",
+   "water:unstated",
    "ing:ceramides",
    "ing:rice-water",
    "ing:argan-oil",
@@ -65138,7 +65386,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "2.8★ from 4 ratings",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/v/r/0/50-345-relief-cream-daily-moisturizer-with-niacinamide-panthenol-original-imahng3wkjczgzxy.jpeg?q=90",
@@ -65153,6 +65402,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:vitamin-b5-panthenol",
@@ -65366,7 +65616,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/m/b/q/50-moisturizer-with-ceramides-hyaluronic-acid-cream-for-original-imahj5kda483rhr3.jpeg?q=90",
@@ -65383,6 +65634,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:lotion",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "ing:saffron",
@@ -65483,7 +65735,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/g/2/g/100-ceramide-oil-free-moisturizer-qtways-cream-original-imahq84jvrpkk6r6.jpeg?q=90",
@@ -65502,6 +65755,7 @@ const NXPRODUCTS = [
    "format:kit",
    "spf:30",
    "pa:++",
+   "water:unstated",
    "ing:ceramides",
    "ing:centella-cica",
    "ing:aloe-vera",
@@ -65970,7 +66224,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — niacinamide #3 on INCI; Dark spots — niacinamide #3 on INCI; Irritation — product type, panthenol #4 on INCI, ceramide np #5 on INCI, ceramide ap #6 on INCI, ceramide eop #7 on INCI, beta-glucan #17 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #3 on INCI; Dark spots — niacinamide #3 on INCI; Irritation — product type, panthenol #4 on INCI, ceramide np #5 on INCI, ceramide ap #6 on INCI, ceramide eop #7 on INCI, beta-glucan #17 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/f/i/u/50-2-ceramide-complex-oil-free-moisturizer-for-barrier-repair-original-imahj5k3uvhdyfnp.jpeg?q=90",
@@ -65986,6 +66241,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:lotion",
+   "water:unstated",
    "ing:retinol",
    "ing:ceramides",
    "ing:peptides",
@@ -66435,7 +66691,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/o/v/x/100-barrier-vault-gel-moisturizer-with-triple-ceramide-complex-original-imahqrywtqhqe2mz.jpeg?q=90",
@@ -66451,6 +66708,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:cream",
+   "water:unstated",
    "ing:ceramides",
    "claim:brightening",
    "claim:hydrating",
@@ -66546,7 +66804,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/x/8/y/50-moisturizer-oil-free-for-oily-sensitive-skin-barrier-repair-original-imahgnmnhtzhaskv.jpeg?q=90",
@@ -66561,6 +66820,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:ceramides",
    "claim:oil-control",
    "claim:hydrating",
@@ -67371,7 +67631,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — niacinamide #6 on INCI; Dark spots — niacinamide #6 on INCI, dipotassium glycyrrhizate #13 on INCI; Irritation — product type, panthenol #2 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #6 on INCI; Dark spots — niacinamide #6 on INCI, dipotassium glycyrrhizate #13 on INCI; Irritation — product type, panthenol #2 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/l/1/100-panthenol-cream-100-ml-bamboo-extract-vegan-moisturizer-original-imahegytjfp9zgex.jpeg?q=90",
@@ -67389,6 +67650,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:scrub",
    "format:wash",
+   "water:unstated",
    "ing:niacinamide",
    "ing:vitamin-b5-panthenol",
    "claim:brightening",
@@ -68040,7 +68302,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/q/3/100-bamboo-panthenol-cream-deep-hydration-barrier-repair-original-imahegytwuzdjzqf.jpeg?q=90",
@@ -68058,6 +68321,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:scrub",
    "format:wash",
+   "water:unstated",
    "ing:niacinamide",
    "ing:collagen",
    "ing:vitamin-b5-panthenol",
@@ -68319,7 +68583,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type, panthenol #2 on INCI, centella asiatica extract #15 on INCI, ceramide np #18 on INCI, asiaticoside #46 on INCI, ceramide ap #52 on INCI, ceramide eop #53 on INCI (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type, panthenol #2 on INCI, centella asiatica extract #15 on INCI, ceramide np #18 on INCI, asiaticoside #46 on INCI, ceramide ap #52 on INCI, ceramide eop #53 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/2/e/l/100-3-ceramide-panthenol-moisture-barrier-cream-hydrating-face-original-imahkbucwye9m8mb.jpeg?q=90",
@@ -68337,6 +68602,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:pack",
    "format:kit",
+   "water:unstated",
    "ing:ceramides",
    "ing:cocoa-butter",
    "ing:vitamin-b5-panthenol",
@@ -68986,7 +69252,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/x/g/50-50-g-ai-cream-physiogel-cream-original-imahpe3nkhrhwqwf.jpeg?q=90",
@@ -69003,6 +69270,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:lotion",
+   "water:unstated",
    "claim:brightening",
    "claim:whitening-claim",
    "claim:hydrating",
@@ -69100,7 +69368,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "L'Oréal Dermatological Beauty — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type, panthenol #5 on INCI, madecassoside #8 on INCI (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type, panthenol #5 on INCI, madecassoside #8 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/2/q/1/100-cicaplast-b5-repair-moisturizer-skin-barrier-strengthening-original-imahp3fkdybtjhwc.jpeg?q=90",
@@ -69116,6 +69385,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:balm",
+   "water:unstated",
    "claim:hydrating",
    "claim:barrier",
    "skin:oily",
@@ -69272,7 +69542,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/l/s/50-ai-cream-physiogel-cream-original-imahja4gpxugrj8u.jpeg?q=90",
@@ -69288,6 +69559,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:cream",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "claim:hydrating",
    "claim:soothing",
@@ -69384,7 +69656,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/5/a/m/75-cream-physiogel-cream-original-imahja4gzhytuja9.jpeg?q=90",
@@ -69402,6 +69675,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:lotion",
    "format:kit",
+   "water:unstated",
    "claim:hydrating",
    "skin:dry",
    "skin:sensitive",
@@ -69609,7 +69883,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/a/e/t/50-ai-cream-physiogel-cream-original-imahja4gyeuabzzr.jpeg?q=90",
@@ -69626,6 +69901,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:lotion",
+   "water:unstated",
    "claim:hydrating",
    "claim:soothing",
    "skin:all",
@@ -69720,7 +69996,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/1/b/100-lotion-physiogel-lotion-original-imahja4gfquupppw.jpeg?q=90",
@@ -69738,6 +70015,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:lotion",
    "format:wash",
+   "water:unstated",
    "claim:hydrating",
    "skin:all",
    "free:paraben",
@@ -69831,7 +70109,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/f/1/p/100-ai-lotion-physiogel-lotion-original-imahja4gtmsqyhxw.jpeg?q=90",
@@ -69848,6 +70127,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:lotion",
+   "water:unstated",
    "claim:hydrating",
    "skin:dry",
    "skin:all",
@@ -69942,7 +70222,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/1/b/100-lotion-physiogel-lotion-original-imahja4gfquupppw.jpeg?q=90",
@@ -69959,6 +70240,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:lotion",
+   "water:unstated",
    "claim:hydrating",
    "claim:soothing",
    "skin:all",
@@ -70054,7 +70336,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/5/j/j/75-daily-moisture-cream-physiogel-cream-original-imahkaqgsr56zvyk.jpeg?q=90",
@@ -70070,6 +70353,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:cream",
+   "water:unstated",
    "claim:hydrating",
    "claim:barrier",
    "claim:soothing",
@@ -70387,7 +70671,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.3★ from 19 ratings",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/d/y/g/75-cream-physiogel-cream-original-imahja4ggsuardgf.jpeg?q=90",
@@ -70403,6 +70688,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:cream",
+   "water:unstated",
    "claim:hydrating",
    "skin:all",
    "free:paraben",
@@ -70929,7 +71215,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.1★ from 271 ratings",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/t/g/a/75-hypoallergenic-daily-moisture-therapy-cream-physiogel-cream-original-imahgb5tzxz4jw82.jpeg?q=90",
@@ -70945,6 +71232,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:balm",
+   "water:unstated",
    "claim:hydrating",
    "skin:dry",
    "skin:sensitive",
@@ -71572,7 +71860,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.8★ from 8 ratings",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/d/y/g/75-cream-physiogel-cream-original-imahja4ggsuardgf.jpeg?q=90",
@@ -71588,6 +71877,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:cream",
+   "water:unstated",
    "claim:hydrating",
    "skin:all",
    "free:paraben",
@@ -71679,7 +71969,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.9★ from 19 ratings",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/d/y/g/75-cream-physiogel-cream-original-imahja4ggsuardgf.jpeg?q=90",
@@ -71695,6 +71986,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:cream",
+   "water:unstated",
    "claim:hydrating",
    "skin:all",
    "free:paraben",
@@ -71789,7 +72081,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.5★ from 2 ratings",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/l/s/50-ai-cream-physiogel-cream-original-imahja4gpxugrj8u.jpeg?q=90",
@@ -71804,6 +72097,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "claim:hydrating",
    "skin:all",
    "free:paraben",
@@ -71895,7 +72189,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "2.5★ from 2 ratings",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/l/s/50-ai-cream-physiogel-cream-original-imahja4gpxugrj8u.jpeg?q=90",
@@ -71910,6 +72205,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "claim:hydrating",
    "skin:all",
    "free:paraben",
@@ -72003,7 +72299,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.8★ from 5 ratings",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/d/m/t/100-a-i-lotion-for-dry-skin-hypoallergenic-moisturizer-100ml-original-imahdnj7mrpyeujc.jpeg?q=90",
@@ -72020,6 +72317,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:lotion",
    "format:kit",
+   "water:unstated",
    "claim:hydrating",
    "skin:dry",
    "skin:all",
@@ -72328,7 +72626,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/y/5/j/50-a-i-cream-for-sensitive-skin-calming-relief-50ml-pack-of-2-original-imahcdy9gjsk5bkh.jpeg?q=90",
@@ -72344,6 +72643,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:kit",
+   "water:unstated",
    "claim:hydrating",
    "claim:soothing",
    "skin:sensitive",
@@ -72653,7 +72953,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.1★ from 17 ratings",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/f/t/d/100-ai-lotion-physiogel-lotion-original-imahja4g2wnwvduu.jpeg?q=90",
@@ -72669,6 +72970,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:lotion",
+   "water:unstated",
    "claim:hydrating",
    "skin:all",
    "free:paraben",
@@ -72761,7 +73063,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/g/j/v/100-lotion-001-physiogel-lotion-original-imahpgevwnb5kpqa.jpeg?q=90",
@@ -72778,6 +73081,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:lotion",
+   "water:unstated",
    "ing:ceramides",
    "claim:hydrating",
    "claim:barrier",
@@ -72879,7 +73183,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/i/5/b/75-dmt-cream-003-physiogel-cream-original-imahphf8wgkf4tfz.jpeg?q=90",
@@ -72896,6 +73201,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:lotion",
+   "water:unstated",
    "claim:hydrating",
    "skin:oily",
    "skin:dry",
@@ -72996,7 +73302,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/r/6/b/100-a-i-calming-relief-lotion-physiogel-lotion-original-imahk535xjhamgbs.jpeg?q=90",
@@ -73013,6 +73320,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:lotion",
+   "water:unstated",
    "claim:hydrating",
    "claim:barrier",
    "claim:soothing",
@@ -73216,7 +73524,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/f/t/d/100-ai-lotion-physiogel-lotion-original-imahja4g2wnwvduu.jpeg?q=90",
@@ -73233,6 +73542,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:lotion",
+   "water:unstated",
    "claim:hydrating",
    "claim:barrier",
    "claim:soothing",
@@ -73331,7 +73641,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/q/a/x/75-cream-physiogel-cream-original-imahja4gepgcgrnk.jpeg?q=90",
@@ -73348,6 +73659,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:kit",
+   "water:unstated",
    "claim:hydrating",
    "skin:dry",
    "skin:sensitive",
@@ -73444,7 +73756,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/v/5/j/50-ai-cream-physiogel-cream-original-imahpg3uvhxxu7xf.jpeg?q=90",
@@ -73460,6 +73773,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:cream",
+   "water:unstated",
    "claim:hydrating",
    "claim:soothing",
    "skin:oily",
@@ -73562,7 +73876,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.7★ from 3 ratings",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/1/b/100-lotion-physiogel-lotion-original-imahja4gfquupppw.jpeg?q=90",
@@ -73578,6 +73893,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:lotion",
+   "water:unstated",
    "claim:hydrating",
    "skin:all",
    "free:paraben",
@@ -73671,7 +73987,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/z/v/75-hypoallergenic-moisturizer-cream-physiogel-cream-original-imahhfngchqy4c36.jpeg?q=90",
@@ -73688,6 +74005,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:kit",
+   "water:unstated",
    "ing:ceramides",
    "ing:glycerin",
    "claim:oil-control",
@@ -73790,7 +74108,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/o/y/7/75-dmt-cream-002-physiogel-cream-original-imahphffjajdjkgh.jpeg?q=90",
@@ -73806,6 +74125,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:cream",
+   "water:unstated",
    "claim:hydrating",
    "claim:barrier",
    "claim:soothing",
@@ -74022,7 +74342,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/m/y/w/100-lotion-001-physiogel-lotion-original-imahpgevekvsnzy7.jpeg?q=90",
@@ -74039,6 +74360,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:lotion",
+   "water:unstated",
    "claim:hydrating",
    "skin:oily",
    "skin:dry",
@@ -74138,7 +74460,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/o/h/p/50-ai-cream-003-physiogel-cream-original-imahpq6pw8cdbbvn.jpeg?q=90",
@@ -74153,6 +74476,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "claim:hydrating",
    "skin:oily",
    "skin:dry",
@@ -74252,7 +74576,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/n/w/x/100-ai-lotion-002-physiogel-lotion-original-imahpgg8hp5yyxcf.jpeg?q=90",
@@ -74269,6 +74594,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:lotion",
+   "water:unstated",
    "claim:hydrating",
    "skin:oily",
    "skin:dry",
@@ -74368,7 +74694,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/x/g/b/100-lotion-003-physiogel-lotion-original-imahpgezpsbghpt8.jpeg?q=90",
@@ -74385,6 +74712,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:lotion",
+   "water:unstated",
    "claim:hydrating",
    "skin:oily",
    "skin:dry",
@@ -74484,7 +74812,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/r/z/q/100-lotion-003-physiogel-lotion-original-imahpgezgkrtbvmg.jpeg?q=90",
@@ -74500,6 +74829,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:lotion",
+   "water:unstated",
    "claim:hydrating",
    "skin:oily",
    "skin:dry",
@@ -74599,7 +74929,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/6/c/100-lotion-002-physiogel-lotion-original-imahpgeytqahkwtq.jpeg?q=90",
@@ -74616,6 +74947,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:lotion",
+   "water:unstated",
    "claim:hydrating",
    "skin:oily",
    "skin:dry",
@@ -74715,7 +75047,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/v/f/f/75-cream-005-physiogel-cream-original-imahphfrtepzncja.jpeg?q=90",
@@ -74732,6 +75065,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:lotion",
+   "water:unstated",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "claim:acne",
@@ -74835,7 +75169,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/r/4/v/75-cream-03-physiogel-cream-original-imahphdyns2nvswh.jpeg?q=90",
@@ -74852,6 +75187,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:lotion",
+   "water:unstated",
    "claim:hydrating",
    "skin:all",
    "free:paraben",
@@ -74945,7 +75281,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/s/m/t/100-ai-lotion-002-physiogel-lotion-original-imahpgg9ey4u6wf5.jpeg?q=90",
@@ -74960,6 +75297,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:lotion",
+   "water:unstated",
    "claim:hydrating",
    "skin:oily",
    "skin:dry",
@@ -75059,7 +75397,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/o/n/v/100-ai-lotion-001-physiogel-lotion-original-imahpgg6herxtrhe.jpeg?q=90",
@@ -75075,6 +75414,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:lotion",
+   "water:unstated",
    "claim:hydrating",
    "skin:oily",
    "skin:dry",
@@ -75395,7 +75735,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/t/j/d/50-50-g-ai-cream-physiogel-cream-original-imahpe3napby9gt2.jpeg?q=90",
@@ -75414,6 +75755,7 @@ const NXPRODUCTS = [
    "format:lotion",
    "format:scrub",
    "format:wash",
+   "water:unstated",
    "claim:hydrating",
    "claim:soothing",
    "skin:dry",
@@ -75510,7 +75852,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/1/3/0/50-50-g-ai-cream-physiogel-cream-original-imahpe3nfxt79kg9.jpeg?q=90",
@@ -75524,6 +75867,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "claim:hydrating",
    "skin:oily",
    "skin:dry",
@@ -75730,7 +76074,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/j/p/a/50-physiogel-hypoallergenic-a-i-cream-calming-relief-original-imahz5svbk4pwscp.jpeg?q=90",
@@ -75745,6 +76090,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "claim:hydrating",
    "claim:barrier",
    "claim:soothing",
@@ -75951,7 +76297,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/6/y/75-physiogel-hypoallergenic-cream-daily-moisture-therapy-original-imahz5tfcfnhhctm.jpeg?q=90",
@@ -75967,6 +76314,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:cream",
+   "water:unstated",
    "claim:oil-control",
    "claim:hydrating",
    "claim:barrier",
@@ -77011,7 +77359,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/4/m/f/200-cream-hydration-barrier-repair-for-dry-irritated-skin-avexa-original-imahk8ghtwftwvhh.jpeg?q=90",
@@ -77028,6 +77377,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:lotion",
    "format:kit",
+   "water:unstated",
    "claim:dark-spots",
    "claim:whitening-claim",
    "claim:acne",
@@ -77237,7 +77587,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/3/g/150-lotion-with-multi-ceramides-barrier-repair-support-for-dry-original-imahk8gj26kptgrf.jpeg?q=90",
@@ -77254,6 +77605,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:lotion",
    "format:kit",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "claim:hydrating",
@@ -77578,7 +77930,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/f/p/s/20-0-retinol-caffeine-anti-wrinkle-face-cream-advanced-anti-original-imahz4hjyfur45gn.jpeg?q=90",
@@ -77593,6 +77946,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:coconut",
    "ing:gold",
    "claim:brightening",
@@ -77701,7 +78055,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/0/q/2/50-advanced-skin-repair-cream-for-sensitive-skin-aavisu-cream-original-imahpbwd7zsgwzr9.jpeg?q=90",
@@ -77716,6 +78071,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "claim:hydrating",
    "claim:barrier",
    "claim:soothing",
@@ -79771,7 +80127,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/q/2/8/200-hydrilla-ad-moisturizing-lotion-ceramide-shea-butter-skin-original-imahgbsgzk7kzjfg.jpeg?q=90",
@@ -79790,6 +80147,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:balm",
    "format:kit",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:almond",
@@ -80006,7 +80364,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/v/6/i/50-oil-free-lightweight-acne-safe-barrier-repair-gel-moisturizer-original-imahndtvhhesxchu.jpeg?q=90",
@@ -80022,6 +80381,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:pack",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:centella-cica",
@@ -81362,7 +81722,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/d/1/1/50-peach-niacinamide-moisture-cream-with-collagen-ceramide-50ml-original-imahqpptczkmqtad.jpeg?q=90",
@@ -81377,6 +81738,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:collagen",
@@ -81475,7 +81837,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/o/4/v/50-ceramide-moisture-lotion-with-hyaluronic-acid-for-smooth-original-imahqen62g6ysuhq.jpeg?q=90",
@@ -81490,6 +81853,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:lotion",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "skin:all",
@@ -81583,7 +81947,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/a/7/g/50-peach-niacinamide-cream-face-moisturizer-for-dry-skin-anua-original-imahersp75y3ajwy.jpeg?q=90",
@@ -81597,6 +81962,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:vitamin-b5-panthenol",
@@ -81694,7 +82060,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/t/y/o/50-anua-peach-niacinamide-cream-maree-cream-original-imahe5mwaycjejhd.jpeg?q=90",
@@ -81708,6 +82075,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:vitamin-b5-panthenol",
@@ -81918,7 +82286,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/f/6/1/60-hyaluronic-acid-face-moisturizer-glass-skin-skin-barrier-original-imahphpmunmhbzxz.jpeg?q=90",
@@ -81933,6 +82302,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:pdrn-polynucleotide",
@@ -82370,7 +82740,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/j/x/g/50-dry-feet-repair-cream-with-long-lasting-moisture-formula-original-imahz2tfhybeu7xw.jpeg?q=90",
@@ -82388,6 +82759,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:tea-tree",
    "ing:aloe-vera",
    "ing:neem",
@@ -82567,7 +82939,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/4/y/90-7-shea-butter-hand-repair-cream-burt-s-bees-cream-original-imah2spvk2fdcafa.jpeg?q=90",
@@ -82586,6 +82959,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:kit",
    "spf:30",
+   "water:unstated",
    "ing:shea-butter",
    "claim:hydrating",
    "claim:barrier",
@@ -83518,7 +83892,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.5★ from 31 ratings",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/b/x/s/60-scar-removal-cream-silicone-gel-advanced-scar-treatment-for-original-imahzh6f6ytxr6x7.jpeg?q=90",
@@ -83536,6 +83911,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:pack",
    "format:wash",
+   "water:unstated",
    "claim:dark-spots",
    "claim:anti-aging",
    "claim:acne",
@@ -83758,7 +84134,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/9/q/100-advanced-herbal-anti-stretch-mark-repair-cream-for-smooth-original-imahmjnxvfjwbjqq.jpeg?q=90",
@@ -83774,6 +84151,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:lotion",
+   "water:unstated",
    "ing:watermelon",
    "claim:hydrating",
    "claim:barrier",
@@ -83985,7 +84363,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/g/i/t/100-skin-repair-cream-for-stretch-marks-scars-alfa-youth-cream-original-imahmp95gpsqhzeh.jpeg?q=90",
@@ -84003,6 +84382,7 @@ const NXPRODUCTS = [
    "format:lotion",
    "format:serum",
    "format:kit",
+   "water:unstated",
    "ing:milk",
    "ing:watermelon",
    "claim:hydrating",
@@ -84331,7 +84711,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/v/3/100-advanced-herbal-anti-stretch-mark-repair-cream-for-smooth-original-imahmjzhngznk6yy.jpeg?q=90",
@@ -84347,6 +84728,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:lotion",
+   "water:unstated",
    "ing:watermelon",
    "claim:hydrating",
    "claim:barrier",
@@ -84444,7 +84826,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/jeka07k0/moisturizer-cream/5/b/p/473-dermatologist-developed-advanced-therapy-lotion-lubriderm-original-imaf385anf7cfgur.jpeg?q=90",
@@ -84462,6 +84845,7 @@ const NXPRODUCTS = [
    "format:lotion",
    "spf:30",
    "pa:+++",
+   "water:unstated",
    "ing:retinol",
    "ing:collagen",
    "claim:anti-aging",
@@ -84679,7 +85063,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/t/l/j/50-0-scar-repair-cream-for-face-body-skin-smoothing-moisturizing-original-imahp69ntjjqgrth.jpeg?q=90",
@@ -84696,6 +85081,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:lotion",
    "format:serum",
+   "water:unstated",
    "claim:brightening",
    "claim:whitening-claim",
    "claim:hydrating",
@@ -84795,7 +85181,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/t/l/j/50-0-scar-repair-cream-for-face-body-skin-smoothing-moisturizing-original-imahp69ntjjqgrth.jpeg?q=90",
@@ -84812,6 +85199,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "spf:30",
+   "water:unstated",
    "ing:collagen",
    "claim:acne",
    "claim:hydrating",
@@ -85143,7 +85531,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/6/a/50-the-real-noni-energy-repair-cream-50ml-subhmun-cream-original-imahpzbfphhpghvg.jpeg?q=90",
@@ -85159,6 +85548,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:scrub",
    "format:wash",
+   "water:unstated",
    "claim:anti-aging",
    "claim:hydrating",
    "claim:barrier",
@@ -85490,7 +85880,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/2/v/r/0-1-r-top-r-stretch-mark-removal-cream-anti-scar-skin-repair-original-imahgzfcsbtg6a6u.jpeg?q=90",
@@ -85507,6 +85898,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:lotion",
    "format:kit",
+   "water:unstated",
    "claim:anti-aging",
    "claim:hydrating",
    "claim:barrier",
@@ -86163,7 +86555,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "L'Oréal Dermatological Beauty — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type, panthenol #5 on INCI, madecassoside #8 on INCI (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type, panthenol #5 on INCI, madecassoside #8 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/q/z/d/40-cicaplast-b5-repair-moisturizer-soothing-balm-for-dry-original-imahp2ygk6escpwf.jpeg?q=90",
@@ -86181,6 +86574,7 @@ const NXPRODUCTS = [
    "format:lotion",
    "format:balm",
    "format:kit",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "claim:brightening",
@@ -86677,7 +87071,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/y/m/s/100-cream-hydration-barrier-repair-non-comedogenic-cream-for-dry-original-imahk8gf7373f2xh.jpeg?q=90",
@@ -86693,6 +87088,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:lotion",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
    "claim:brightening",
@@ -87287,7 +87683,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/n/l/w/advanced-skincare-5x-ceramide-barrier-repair-uv-protection-4-kx-original-imahmttfacrawbe2.jpeg?q=90",
@@ -87307,6 +87704,7 @@ const NXPRODUCTS = [
    "format:wash",
    "format:kit",
    "spf:50",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:ceramides",
    "ing:rice-water",
@@ -87525,7 +87923,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/5/f/4/50-noni-repair-cream-for-soft-supple-skin-50-ml-subhmun-cream-original-imahqy32jasusnyv.jpeg?q=90"
@@ -87536,6 +87935,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "claim:anti-aging",
    "claim:acne",
    "claim:barrier",
@@ -87631,7 +88031,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/6/e/y/50-noni-repair-cream-skin-hydration-formula-subhmun-cream-original-imahqy33ysryxmhv.jpeg?q=90"
@@ -87642,6 +88043,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "claim:anti-aging",
    "claim:acne",
    "claim:hydrating",
@@ -87738,7 +88140,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/t/j/u/50-noni-face-repair-cream-for-dry-normal-skin-subhmun-cream-original-imahqy32zmpzjay2.jpeg?q=90"
@@ -87749,6 +88152,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "claim:anti-aging",
    "claim:acne",
    "claim:barrier",
@@ -87846,7 +88250,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/x/e/t/50-noni-repair-cream-premium-daily-skin-care-50-ml-subhmun-cream-original-imahqy33sfyhxqgz.jpeg?q=90"
@@ -87857,6 +88262,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "claim:anti-aging",
    "claim:acne",
    "claim:barrier",
@@ -87952,7 +88358,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/i/b/f/50-noni-repair-cream-gentle-skin-care-subhmun-cream-original-imahqy32wbgv5wr3.jpeg?q=90"
@@ -87963,6 +88370,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "claim:anti-aging",
    "claim:acne",
    "claim:barrier",
@@ -88058,7 +88466,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/d/q/l/50-noni-nourishing-repair-cream-daily-use-50-ml-subhmun-cream-original-imahqy33h5sfzfgn.jpeg?q=90"
@@ -88069,6 +88478,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "claim:anti-aging",
    "claim:acne",
    "claim:hydrating",
@@ -88165,7 +88575,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/2/9/v/50-noni-moisture-lock-repair-cream-50-ml-subhmun-cream-original-imahqy32mpg2hzuw.jpeg?q=90"
@@ -88176,6 +88587,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "claim:anti-aging",
    "claim:acne",
    "claim:barrier",
@@ -88271,7 +88683,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/s/e/c/50-noni-repair-cream-fast-absorbing-face-moisturizer-subhmun-original-imahqy33mp943e9g.jpeg?q=90"
@@ -88282,6 +88695,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "claim:anti-aging",
    "claim:acne",
    "claim:hydrating",
@@ -88379,7 +88793,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/f/y/p/50-noni-repair-moisturizer-cream-for-healthy-looking-skin-original-imahqy32whcdvzhh.jpeg?q=90"
@@ -88390,6 +88805,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "claim:anti-aging",
    "claim:acne",
    "claim:hydrating",
@@ -88486,7 +88902,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/4/r/50-noni-hydrating-skin-repair-cream-lightweight-formula-subhmun-original-imahqy32jmyzcmhs.jpeg?q=90"
@@ -88497,6 +88914,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "claim:anti-aging",
    "claim:acne",
    "claim:hydrating",
@@ -88712,7 +89130,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.5★ from 2 ratings",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/t/e/z/60-dual-phase-pdrn-hydrating-capsule-cream-for-glass-skin-glow-original-imahmsyazwzaz8sy.jpeg?q=90",
@@ -88729,6 +89148,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:pack",
    "format:capsule",
+   "water:unstated",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:ceramides",
@@ -88832,7 +89252,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/n/6/x/180-rosy-quench-24h-hydrating-repair-moisturizer-with-rose-original-imahesndggjzftbf.jpeg?q=90",
@@ -88847,6 +89268,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:rose",
    "claim:brightening",
@@ -89859,7 +90281,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/n/z/8/100-natural-stretch-marks-scar-removal-oil-in-during-after-original-imah9ss496cmpuwu.jpeg?q=90",
@@ -89874,6 +90297,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "ing:neem",
@@ -90650,7 +91074,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/o/v/o/20-skin-repair-cream-with-1200ppm-pdrn-hydrating-calming-original-imahgmr9msngvbzs.jpeg?q=90",
@@ -90665,6 +91090,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:niacinamide",
    "ing:retinol",
    "ing:collagen",
@@ -91008,7 +91434,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/t/z/s/50-pdrn-advance-cream-glow-essence-repair-cream-pdrn1-activewow-original-imahnywehnupgbeg.jpeg?q=90",
@@ -91026,6 +91453,7 @@ const NXPRODUCTS = [
    "format:essence",
    "format:kit",
    "spf:15",
+   "water:unstated",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:peptides",
@@ -91254,7 +91682,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/n/a/y/50-pdrn-advance-cream-ultra-moist-repair-cream-pdrn1-activewow-original-imahnywqhr4sssxf.jpeg?q=90",
@@ -91271,6 +91700,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:kit",
    "spf:15",
+   "water:unstated",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:peptides",
@@ -91620,7 +92050,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/d/i/7/50-pdrn-advance-cream-moisture-surge-repair-cream-pdrn1-original-imahnywuvfqyqav2.jpeg?q=90",
@@ -91638,6 +92069,7 @@ const NXPRODUCTS = [
    "format:pack",
    "format:kit",
    "spf:15",
+   "water:unstated",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:peptides",
@@ -92113,7 +92545,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/d/a/p/50-pdrn-advance-cream-ultra-repair-cream-pdrn1-activewow-cream-original-imahnywux39ysdyw.jpeg?q=90",
@@ -92131,6 +92564,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:kit",
    "spf:15",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
@@ -92603,7 +93037,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/2/q/m/20-pdrn-repair-cream-1200ppm-deep-moisturizing-healing-formula-original-imahgmr88jhkpgv5.jpeg?q=90",
@@ -92618,6 +93053,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:niacinamide",
    "ing:collagen",
    "ing:vitamin-b5-panthenol",
@@ -92840,7 +93276,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/o/j/d/50-pdrn-advance-cream-ultra-fresh-repair-cream-pdrn1-activewow-original-imahnyw4mxxay7ku.jpeg?q=90",
@@ -92858,6 +93295,7 @@ const NXPRODUCTS = [
    "format:lotion",
    "format:kit",
    "spf:15",
+   "water:unstated",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:peptides",
@@ -93874,7 +94312,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/f/n/n/200-hydrating-moisturizer-cream-with-ceramides-and-hyaluronic-original-imahng2uhu2jkzhn.jpeg?q=90",
@@ -93896,6 +94335,7 @@ const NXPRODUCTS = [
    "format:wash",
    "format:roll-on",
    "format:kit",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "claim:brightening",
@@ -96494,7 +96934,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
    "buyerEvidence": "4.3★ from 0 ratings",
-   "concernBasis": "Irritation — product type, avena sativa kernel extract #10 on INCI, bisabolol #13 on INCI (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type, avena sativa kernel extract #10 on INCI, bisabolol #13 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41o1JZc+vmL._SL1001_.jpg",
@@ -96510,6 +96951,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:wash",
+   "water:unstated",
    "ing:colloidal-oatmeal",
    "ing:ceramides",
    "ing:vitamin-e",
@@ -97681,7 +98123,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.3★ from 0 ratings",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/516Y9ZBE0WL._SL1254_.jpg",
@@ -97698,6 +98141,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:serum",
    "format:emulsion",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "claim:hydrating",
@@ -97905,7 +98349,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "5★ from 0 ratings",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51tM5yh0TpL._SL1215_.jpg",
@@ -97920,6 +98365,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:cream",
+   "water:unstated",
    "ing:niacinamide",
    "ing:retinol",
    "ing:hyaluronic-acid",
@@ -98015,7 +98461,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.5★ from 0 ratings",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41-2L7rUTUL._SL1024_.jpg",
@@ -98033,6 +98480,7 @@ const NXPRODUCTS = [
    "format:serum",
    "format:oil",
    "format:balm",
+   "water:unstated",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:ceramides",
@@ -98366,7 +98814,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.2★ from 0 ratings",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71CaI8iTzCL._SL1500_.jpg",
@@ -98381,6 +98830,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
+   "water:unstated",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:ceramides",
@@ -99824,7 +100274,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61boDGwDoEL._SL1495_.jpg",
@@ -99840,6 +100291,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:cream",
+   "water:unstated",
    "ing:ceramides",
    "ing:peptides",
    "ing:copper-peptide",
@@ -101551,7 +102003,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "5★ from 0 ratings",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/617H9bihBVL._SL1500_.jpg",
@@ -101566,6 +102019,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
+   "water:unstated",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:ceramides",
@@ -102004,7 +102458,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.5★ from 0 ratings",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/5116Z+G0RRL._SL1402_.jpg",
@@ -102019,6 +102474,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
+   "water:unstated",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:ceramides",
@@ -102240,7 +102696,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41yvi3Z-bwL.jpg"
@@ -102252,6 +102709,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:cream",
    "format:wash",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "claim:oil-control",
@@ -103636,7 +104094,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.2★ from 0 ratings",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61AOhRCefjL._SL1500_.jpg",
@@ -103651,6 +104110,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:balm",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:shea-butter",
@@ -104979,7 +105439,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61vIOqW0ImL._SL1254_.jpg",
@@ -104994,6 +105455,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "ing:peptides",
@@ -105331,7 +105793,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.5★ from 0 ratings",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61otTk0YnXL._SL1500_.jpg",
@@ -105349,6 +105812,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:patch",
    "format:capsule",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:ceramides",
    "ing:alpha-arbutin",
@@ -107462,7 +107926,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.2★ from 0 ratings",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71qE3rXWKcL._SL1500_.jpg",
@@ -107479,6 +107944,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:oil",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:squalane",
@@ -112052,7 +112518,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41m2-CiEauL._SL1500_.jpg",
@@ -112066,6 +112533,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:wash",
+   "water:unstated",
    "ing:ceramides",
    "ing:squalane",
    "claim:oil-control",
@@ -112274,7 +112742,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "5★ from 0 ratings",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/710pGLAQ6IL._SL1500_.jpg",
@@ -112291,6 +112760,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:oil",
    "sun:mineral",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
    "ing:ceramides",
@@ -114375,7 +114845,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "5★ from 0 ratings",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71LzySlkYVL._SL1500_.jpg",
@@ -114393,6 +114864,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:kit",
    "sun:mineral",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
    "ing:ceramides",
@@ -114497,7 +114969,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.4★ from 0 ratings",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71NYgo5bluL._SL1500_.jpg",
@@ -114511,6 +114984,7 @@ const NXPRODUCTS = [
   "title": "Dr. Vitamins Ceramide Moisturizer with Niacinamide & Hyaluronic Acid | Barrier Repair, Deep Hydration & Oil-Balanced Glow | Lightweight Moisturizer for All Skin Types | 50ml",
   "tags": [
    "scope:unstated",
+   "water:unstated",
    "ing:niacinamide",
    "ing:colloidal-oatmeal",
    "ing:hyaluronic-acid",
@@ -116559,7 +117033,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.2★ from 0 ratings",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61s2Y44VoUL._SL1000_.jpg",
@@ -116578,6 +117053,7 @@ const NXPRODUCTS = [
    "format:serum",
    "format:wash",
    "format:capsule",
+   "water:unstated",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:peptides",
@@ -120093,7 +120569,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.3★ from 0 ratings",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61YN068z8CL._SL1500_.jpg",
@@ -120109,6 +120586,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:cream",
+   "water:unstated",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:ceramides",
@@ -121428,7 +121906,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.3★ from 0 ratings",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61fizAbJoDL._SL1353_.jpg",
@@ -121444,6 +121923,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:cream",
+   "water:unstated",
    "ing:vitamin-b5-panthenol",
    "claim:brightening",
    "claim:oil-control",
@@ -122562,7 +123042,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "5★ from 0 ratings",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/617-GSDp9hL._SL1500_.jpg",
@@ -122577,6 +123058,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "claim:hydrating",
@@ -123906,7 +124388,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.3★ from 0 ratings",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61H7oLHsciL._SL1500_.jpg",
@@ -123924,6 +124407,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:oil",
    "sun:mineral",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "ing:collagen",
@@ -125507,7 +125991,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): parfum/fragrance (−1.5)",
    "maker": "LG Household & Health Care — Global FMCG or beauty group",
    "buyerEvidence": "4.4★ from 0 ratings",
-   "concernBasis": "Irritation — product type, ceramide np #16 on INCI (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type, ceramide np #16 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41ruCqy7dAL._SL1081_.jpg",
@@ -125523,6 +126008,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:cream",
    "sun:mineral",
+   "water:unstated",
    "ing:ceramides",
    "ing:rice-water",
    "ing:mineral-oil",
@@ -127506,7 +127992,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "5★ from 0 ratings",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61k4BciKorL._SL1500_.jpg",
@@ -127521,6 +128008,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:cream",
+   "water:unstated",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:ceramides",
@@ -127621,7 +128109,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.4★ from 0 ratings",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61CD5Tzmf7L._SL1500_.jpg",
@@ -127636,6 +128125,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:cream",
+   "water:unstated",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:ceramides",
@@ -128842,7 +129332,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/611h1s3A3SL._SL1295_.jpg",
@@ -128857,6 +129348,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
+   "water:unstated",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:tranexamic-acid",
@@ -130545,7 +131037,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.3★ from 0 ratings",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61FI9GLiiZL._SL1500_.jpg",
@@ -130560,6 +131053,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:ceramides",
    "ing:alpha-arbutin",
    "claim:dark-spots",
@@ -135658,7 +136152,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.6★ from 0 ratings",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41LPftfWnLL._SL1080_.jpg",
@@ -135673,6 +136168,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
+   "water:unstated",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:collagen",
@@ -136356,7 +136852,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.3★ from 0 ratings",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/710pGLAQ6IL._SL1500_.jpg",
@@ -136375,6 +136872,7 @@ const NXPRODUCTS = [
    "format:oil",
    "format:kit",
    "sun:mineral",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
@@ -137280,7 +137778,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.3★ from 0 ratings",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71sJyOEqJiL._SL1500_.jpg",
@@ -137296,6 +137795,7 @@ const NXPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:cream",
+   "water:unstated",
    "ing:ceramides",
    "ing:peptides",
    "claim:acne",
@@ -138867,7 +139367,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "WishCare — Indian D2C brand with its own product company",
    "buyerEvidence": "4.4★ from 0 ratings",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51AAs3lPp9L._SL1500_.jpg",
@@ -138884,6 +139385,7 @@ const NXPRODUCTS = [
    "format:cream",
    "format:serum",
    "sun:mineral",
+   "water:unstated",
    "ing:ceramides",
    "claim:brightening",
    "claim:hydrating",
@@ -139340,7 +139842,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Kreative Beauty Pvt Ltd (Hyphen) — Indian D2C brand with its own product company",
    "buyerEvidence": "4★ from 0 ratings",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/514ldizUvNL._SL1100_.jpg",
@@ -139356,6 +139859,7 @@ const NXPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:balm",
+   "water:unstated",
    "ing:ceramides",
    "ing:shea-butter",
    "ing:vitamin-b5-panthenol",
@@ -140288,7 +140792,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51J95Rig4CL._SL1500_.jpg",
@@ -140303,6 +140808,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
+   "water:unstated",
    "ing:ceramides",
    "claim:brightening",
    "claim:anti-aging",
@@ -141451,7 +141957,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.3★ from 0 ratings",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71kFVF6MIqL._SL1500_.jpg"
@@ -141465,6 +141972,7 @@ const NXPRODUCTS = [
    "format:balm",
    "format:emulsion",
    "format:patch",
+   "water:unstated",
    "ing:shea-butter",
    "ing:vitamin-e",
    "ing:glycerin",
@@ -141904,7 +142412,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.5★ from 0 ratings",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41sQAHjzAFL._SL1024_.jpg",
@@ -141919,6 +142428,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
+   "water:unstated",
    "ing:ceramides",
    "claim:acne",
    "claim:pores",
@@ -142773,7 +143283,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.2★ from 0 ratings",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51xliF-0wdL._SL1254_.jpg",
@@ -142788,6 +143299,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
+   "water:unstated",
    "claim:hydrating",
    "claim:barrier",
    "claim:soothing",
@@ -143566,7 +144078,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.3★ from 0 ratings",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61XV5te+P2L._SL1500_.jpg",
@@ -143581,6 +144094,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:balm",
+   "water:unstated",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:ceramides",
@@ -144573,7 +145087,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.2★ from 0 ratings",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71AuSRdJt2L._SL1500_.jpg",
@@ -144590,6 +145105,7 @@ const NXPRODUCTS = [
    "format:gel",
    "format:cream",
    "sun:mineral",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:urea",
    "ing:green-tea",
@@ -145726,7 +146242,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.3★ from 0 ratings",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51Hat0RKNqL._SL1000_.jpg",
@@ -145741,6 +146258,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "ing:centella-cica",
@@ -151227,7 +151745,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.4★ from 0 ratings",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51XMQKsZI2L._SL1000_.jpg",
@@ -151241,6 +151760,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:cream",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:aloe-vera",
    "claim:pores",
@@ -153442,7 +153962,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.5★ from 0 ratings",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51wvqkD3f-L._SL1254_.jpg",
@@ -153457,6 +153978,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
+   "water:unstated",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "ing:centella-cica",
@@ -156430,7 +156952,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4★ from 0 ratings",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51O1lFuHpTL._SL1254_.jpg",
@@ -156445,6 +156968,7 @@ const NXPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
+   "water:unstated",
    "ing:niacinamide",
    "ing:retinol",
    "ing:bakuchiol",

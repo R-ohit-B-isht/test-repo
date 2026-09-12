@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-07.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-12.
 // Unknown fields are honestly marked, never invented.
 const CTPRODUCTS = [
  {
@@ -46,7 +46,8 @@ const CTPRODUCTS = [
    "evidenceActives": "urea (#2 on list, strong evidence); glycerin (#3 on list, strong evidence); butyrospermum parkii butter (#4 on list, moderate evidence); dimethicone (#12 on list, moderate evidence); ceramide np (#25 on list, moderate evidence); ceramide ap (#26 on list, moderate evidence); ceramide eop (#27 on list, moderate evidence); cholesterol (#29 on list, moderate evidence)",
    "safetyFlags": "Added fragrance (parfum): perfume (−1.5); Formaldehyde-releasing preservative: imidazolidinyl urea (−1.5)",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.4★ from 5,391 ratings"
+   "buyerEvidence": "4.4★ from 5,391 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/z/x/300-10-urea-body-lotion-48-hour-dry-skin-relief-for-very-dry-original-imahgg3nn3nv8jkf.jpeg?q=90",
@@ -61,6 +62,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:lotion",
+   "water:unstated",
    "ing:urea",
    "claim:hydrating",
    "claim:long-lasting",
@@ -233,7 +235,7 @@ const CTPRODUCTS = [
  {
   "id": "drmtlgy-itm69e375a4ee7d1",
   "brand": "Drmtlgy",
-  "model": "Keratosis Pilaris Treatment Lactic Acid Skin Lotion for R …",
+  "model": "Keratosis Pilaris Treatment Lactic Acid Skin Lotion for Rough And Bumpy Skin",
   "price": 4332,
   "capacityLine": "150 g (pack of 2)",
   "materialLine": "lactic acid + urea + tea tree",
@@ -282,7 +284,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/drmtlgy-keratosis-pilaris-treatment-lactic-acid-skin-lotion-rough-bumpy/p/itm69e375a4ee7d1",
   "buyStore": "Flipkart",
-  "title": "DRMTLGY Keratosis Pilaris Treatment Lactic Acid Skin Lotion for R …",
+  "title": "DRMTLGY Keratosis Pilaris Treatment Lactic Acid Skin Lotion for Rough And Bumpy Skin",
   "tags": [
    "scope:body",
    "format:cream",
@@ -346,11 +348,11 @@ const CTPRODUCTS = [
  {
   "id": "dr-sheth-s-itm304d9a447b98a",
   "brand": "Dr. Sheth's",
-  "model": "Tea Tree & Lactic Acid Body Lotion | Treats Body Acne …",
+  "model": "Tea Tree & Lactic Acid Body Lotion | Treats Body Acne, Exfoliating & Non Sticky",
   "price": 80,
   "capacityLine": "300 ml",
   "materialLine": "lactic acid + tea tree",
-  "featureLine": "Lotion · ₹27/100ml",
+  "featureLine": "Scrub / exfoliant · ₹27/100ml",
   "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Dr. Sheth's official website (drsheths.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "lactic acid high on the INCI list (strong evidence); dimethicone high on the INCI list (moderate evidence)"
@@ -367,7 +369,7 @@ const CTPRODUCTS = [
   "fullSpec": {
    "quantity": "300 ml",
    "pricePer100": "₹27/100ml",
-   "format": "Lotion",
+   "format": "Scrub / exfoliant",
    "keyIngredients": "lactic acid, tea tree (per listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
@@ -398,13 +400,15 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/dr-sheths-tea-tree-lactic-acid-body-lotion-treats-acne-exfoliating-non-sticky/p/itm304d9a447b98a",
   "buyStore": "Flipkart",
-  "title": "Dr. Sheth’s Tea Tree & Lactic Acid Body Lotion | Treats Body Acne …",
+  "title": "Dr. Sheth’s Tea Tree & Lactic Acid Body Lotion | Treats Body Acne, Exfoliating & Non Sticky",
   "tags": [
    "scope:body",
    "format:lotion",
    "ing:lactic-acid",
    "ing:tea-tree",
    "claim:acne",
+   "claim:oil-control",
+   "claim:exfoliating",
    "aud:unisex",
    "size:xl",
    "rating:4.0",
@@ -657,7 +661,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/l/s/200-0-urea-moisturizing-cream-for-dry-rough-skin-hands-feet-original-imahpbzjmpwxvt4j.jpeg?q=90",
@@ -672,6 +677,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:retinol",
    "ing:urea",
@@ -772,7 +778,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 11 ratings"
+   "buyerEvidence": "4.3★ from 11 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/l/o/50-dead-skin-spot-fading-urea-cream-vexana-cream-original-imahbzfhgmshmfzc.jpeg?q=90",
@@ -787,6 +794,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:urea",
    "claim:brightening",
    "claim:de-tan",
@@ -844,111 +852,6 @@ const CTPRODUCTS = [
     "url": null
    },
    "buyers": "4.3★ from 11 ratings"
-  }
- },
- {
-  "id": "bejoy-itm3082dc7b32286",
-  "brand": "Bejoy",
-  "model": "Intensive Urea Cream for Soft, Smooth Skin Moisturizing Car …",
-  "price": 161,
-  "capacityLine": "100 g",
-  "materialLine": "vitamin C + urea + aloe vera",
-  "featureLine": "Cream / gel · ₹161/100g",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "100 g",
-   "pricePer100": "₹161/100g",
-   "format": "Cream / gel",
-   "keyIngredients": "vitamin C, urea, aloe vera (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "All Skin Types",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/o/h/d/100-intensive-urea-cream-for-soft-smooth-skin-moisturizing-care-original-imahzem4d8qgzxb2.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/m/o/q/100-lotion-for-skin-protection-pack-of-1-cetarich-cream-original-imagh8g2vnpujfca.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/kkvhea80/moisturizer-cream/g/e/p/200-intense-moisturizing-cream-baidyanath-cream-original-imagy4e53fuym222.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/s/o/x/150-4-bhuja-charbhuja-underarm-brightening-cream-for-men-women-original-imahpggujgeahaz4.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/n/t/e/50-herbal-eczemaron-cream-50ml-pack-of-1-bejoy-gel-original-imahk3avd8uhhktj.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/bejoy-intensive-urea-cream-soft-smooth-skin-moisturizing-care-hands-feet/p/itm3082dc7b32286",
-  "buyStore": "Flipkart",
-  "title": "Bejoy Intensive Urea Cream for Soft, Smooth Skin Moisturizing Car …",
-  "tags": [
-   "scope:both",
-   "format:cream",
-   "ing:vitamin-c",
-   "ing:urea",
-   "ing:aloe-vera",
-   "claim:hydrating",
-   "skin:all",
-   "aud:women",
-   "size:standard",
-   "rating:none",
-   "store:flipkart",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -1587,7 +1490,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.6★ from 9 ratings"
+   "buyerEvidence": "4.6★ from 9 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/t/s/9/200-urea-derm-10-urea-cream-for-dry-and-itchy-skin-emcutix-cream-original-imahk259quzrvpt4.jpeg?q=90",
@@ -1602,6 +1506,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:urea",
    "ing:hyaluronic-acid",
    "ing:glycerin",
@@ -1696,7 +1601,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 24 ratings"
+   "buyerEvidence": "4.1★ from 24 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/d/2/v/100-20-moisturizing-urea-cream-aqurea-cream-original-imah87hphvu5y2n2.jpeg?q=90",
@@ -1711,6 +1617,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:urea",
    "ing:aloe-vera",
    "claim:hydrating",
@@ -1871,7 +1778,7 @@ const CTPRODUCTS = [
  {
   "id": "nmf-e-itm2ca0ef8f78303",
   "brand": "NMF e",
-  "model": "Urea 20% Cream for Severe Dry Skin & Xerosis With Shea Butt …",
+  "model": "Urea 20% Cream for Severe Dry Skin & Xerosis With Shea Butter",
   "price": 490,
   "capacityLine": "100 g",
   "materialLine": "urea + shea butter",
@@ -1922,7 +1829,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/nmf-e-urea-20-cream-severe-dry-skin-xerosis-shea-butter/p/itm2ca0ef8f78303",
   "buyStore": "Flipkart",
-  "title": "NMF e Urea 20% Cream for Severe Dry Skin & Xerosis With Shea Butt …",
+  "title": "NMF e Urea 20% Cream for Severe Dry Skin & Xerosis With Shea Butter",
   "tags": [
    "scope:both",
    "format:cream",
@@ -2466,7 +2373,7 @@ const CTPRODUCTS = [
  {
   "id": "velite-itm1a7123c1fa163",
   "brand": "velite",
-  "model": "Healz Cream Moisturising Cream With Urea & Lactic (75 g)",
+  "model": "Healz Cream Moisturising Cream With Urea & Lactic",
   "price": 412,
   "capacityLine": "75 g",
   "materialLine": "lactic acid + urea",
@@ -2504,7 +2411,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/r/x/75-healz-cream-moisturising-cream-with-urea-lactic-velite-cream-original-imahhvnbf7gm7atn.jpeg?q=90",
@@ -2515,12 +2423,13 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/velite-healz-cream-moisturising-urea-lactic/p/itm1a7123c1fa163",
   "buyStore": "Flipkart",
-  "title": "velite Healz Cream Moisturising Cream With Urea & Lactic (75 g)",
+  "title": "velite Healz Cream Moisturising Cream With Urea & Lactic",
   "tags": [
    "scope:both",
    "format:cream",
    "format:lotion",
    "format:roll-on",
+   "water:unstated",
    "ing:lactic-acid",
    "ing:urea",
    "ing:glycerin",
@@ -2613,7 +2522,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 7 ratings"
+   "buyerEvidence": "4.1★ from 7 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/a/t/e/100-urea-derm-moisturising-cream-emcutix-cream-original-imahjy7vrbkendgm.jpeg?q=90",
@@ -2629,6 +2539,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:cream",
+   "water:unstated",
    "ing:urea",
    "ing:glycerin",
    "claim:hydrating",
@@ -2684,7 +2595,7 @@ const CTPRODUCTS = [
  {
   "id": "raaso-itm7ebd9d4c5dca8",
   "brand": "RAASO",
-  "model": "Max 20% Urea Moisturizing Cream with Lactic Acid & Aloe Ver …",
+  "model": "Max 20% Urea Moisturizing Cream with Lactic Acid & Aloe Vera 100g",
   "price": 448,
   "capacityLine": "100 g",
   "materialLine": "lactic acid + urea + snail mucin",
@@ -2722,7 +2633,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/1/m/b/100-moisturizing-urea-cream-xerolene-max-cream-original-imahneywx2y4vhru.jpeg?q=90",
@@ -2733,13 +2645,14 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/raaso-max-20-urea-moisturizing-cream-lactic-acid-aloe-vera-100g/p/itm7ebd9d4c5dca8",
   "buyStore": "Flipkart",
-  "title": "RAASO Max 20% Urea Moisturizing Cream with Lactic Acid & Aloe Ver …",
+  "title": "RAASO Max 20% Urea Moisturizing Cream with Lactic Acid & Aloe Vera 100g",
   "tags": [
    "scope:both",
    "format:gel",
    "format:cream",
    "format:oil",
    "format:pack",
+   "water:unstated",
    "ing:lactic-acid",
    "ing:urea",
    "ing:collagen",
@@ -2949,7 +2862,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/j/j/k/100-olesoft-ppk-urea-cream-aesthetic-science-cream-original-imahqbmybu4v2hhc.jpeg?q=90"
@@ -2963,6 +2877,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:scrub",
    "format:wash",
+   "water:unstated",
    "ing:urea",
    "skin:all",
    "free:paraben",
@@ -3160,7 +3075,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 37 ratings"
+   "buyerEvidence": "4.4★ from 37 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/q/k/350-10-urea-body-lotion-0-5-hyaluronic-acid-4-niacinamide-original-imahgfckews3ccnt.jpeg?q=90",
@@ -3175,6 +3091,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:lotion",
+   "water:unstated",
    "ing:niacinamide",
    "ing:urea",
    "ing:hyaluronic-acid",
@@ -3477,7 +3394,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/2/2/n/100-spot-fading-vitamin-e-urea-cream-vitamash-cream-original-imahnyzg8dqegfzv.jpeg?q=90",
@@ -3495,6 +3413,7 @@ const CTPRODUCTS = [
    "format:lotion",
    "format:pack",
    "format:wash",
+   "water:unstated",
    "ing:urea",
    "ing:turmeric",
    "ing:honey",
@@ -3592,7 +3511,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/skin-treatment/y/m/7/40-0-60-urea-cream-for-extremely-dry-skin-moisturizing-original-imahq7xvmsyjzvch.jpeg?q=90",
@@ -3607,6 +3527,7 @@ const CTPRODUCTS = [
    "scope:body",
    "format:cream",
    "format:pack",
+   "water:unstated",
    "ing:urea",
    "claim:hydrating",
    "claim:exfoliating",
@@ -3699,7 +3620,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/skin-treatment/v/t/z/180-0-urea-42-cream-with-2-salicylic-acid-for-dry-skin-cracked-original-imahqrszz2rrfdgh.jpeg?q=90",
@@ -3716,6 +3638,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:oil",
    "format:pack",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:urea",
    "ing:tea-tree",
@@ -3811,7 +3734,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.5★ from 327 ratings"
+   "buyerEvidence": "4.5★ from 327 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/s/g/c/600-20-urea-body-lotion-for-very-dry-flaky-skin-repair-48h-original-imahgr9bvjrzj4cy.jpeg?q=90",
@@ -3827,6 +3751,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:lotion",
    "format:balm",
+   "water:unstated",
    "ing:urea",
    "ing:ceramides",
    "ing:shea-butter",
@@ -3930,7 +3855,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/e/s/l/100-max-intense-moisturizing-lotion-with-urea-hyaluronic-acid-original-imahhwegxgdntfga.jpeg?q=90",
@@ -3948,6 +3874,7 @@ const CTPRODUCTS = [
    "format:lotion",
    "format:serum",
    "format:kit",
+   "water:unstated",
    "ing:urea",
    "ing:hyaluronic-acid",
    "ing:milk",
@@ -4002,7 +3929,7 @@ const CTPRODUCTS = [
  {
   "id": "be-bodywise-itma9f9a08d12dc3",
   "brand": "Be Bodywise",
-  "model": "5% Lactic Acid Body Lotion | For Improving Skin Textu …",
+  "model": "5% Lactic Acid Body Lotion | For Improving Skin Texture & Strawberry Legs",
   "price": 224,
   "capacityLine": "Quantity not stated",
   "materialLine": "lactic acid",
@@ -4056,11 +3983,14 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/bodywise-5-lactic-acid-body-lotion-improving-skin-texture-strawberry-legs/p/itma9f9a08d12dc3",
   "buyStore": "Flipkart",
-  "title": "Be Bodywise 5% Lactic Acid Body Lotion | For Improving Skin Textu …",
+  "title": "Be Bodywise 5% Lactic Acid Body Lotion | For Improving Skin Texture & Strawberry Legs",
   "tags": [
    "scope:body",
    "format:lotion",
    "ing:lactic-acid",
+   "ing:strawberry",
+   "claim:exfoliating",
+   "claim:kp",
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
@@ -4155,11 +4085,11 @@ const CTPRODUCTS = [
  {
   "id": "fancyperks-itmb3e750228223c",
   "brand": "FANCYPERKS",
-  "model": "5% Lactic Acid Body Lotion (200 ml)",
+  "model": "5% Lactic Acid Body Lotion",
   "price": 215,
-  "capacityLine": "200 ml",
+  "capacityLine": "400 g",
   "materialLine": "lactic acid + ceramides + centella/cica",
-  "featureLine": "Scrub / exfoliant · Paraben-free · ₹108/100ml",
+  "featureLine": "Scrub / exfoliant · Paraben-free · ₹54/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -4174,8 +4104,8 @@ const CTPRODUCTS = [
    "experience": 0
   },
   "fullSpec": {
-   "quantity": "200 ml",
-   "pricePer100": "₹108/100ml",
+   "quantity": "400 g",
+   "pricePer100": "₹54/100g",
    "format": "Scrub / exfoliant",
    "keyIngredients": "lactic acid, ceramides, centella/cica, neem (per listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -4193,7 +4123,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/5/7/8/200-5-lactic-acid-body-lotion-fancyperks-lotion-original-imahpf9fbqjb2zpx.jpeg?q=90",
@@ -4204,12 +4135,13 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/fancyperks-5-lactic-acid-body-lotion/p/itmb3e750228223c",
   "buyStore": "Flipkart",
-  "title": "FANCYPERKS 5% Lactic Acid Body Lotion (200 ml)",
+  "title": "FANCYPERKS 5% Lactic Acid Body Lotion",
   "tags": [
    "scope:both",
    "format:gel",
    "format:cream",
    "format:lotion",
+   "water:unstated",
    "ing:lactic-acid",
    "ing:ceramides",
    "ing:centella-cica",
@@ -4226,7 +4158,7 @@ const CTPRODUCTS = [
    "free:paraben",
    "free:derm",
    "aud:women",
-   "size:large",
+   "size:xl",
    "rating:none",
    "store:flipkart",
    "inci:partial"
@@ -4272,7 +4204,7 @@ const CTPRODUCTS = [
  {
   "id": "samput-itmf8128be223950",
   "brand": "SAMPUT",
-  "model": "Tea Tree & Lactic Acid-Body Lotion For Men & Women-pack of …",
+  "model": "Tea Tree & Lactic Acid-Body Lotion For Men & Women-pack of 3",
   "price": 835,
   "capacityLine": "150 g (pack of 3)",
   "materialLine": "lactic acid + tea tree + aloe vera",
@@ -4310,7 +4242,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/m/a/b/250-tea-tree-lactic-acid-body-lotion-for-men-women-pack-of-3-original-imahkf5zgnuvezqe.jpeg?q=90",
@@ -4321,12 +4254,13 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/samput-tea-tree-lactic-acid-body-lotion-men-women-pack-3/p/itmf8128be223950",
   "buyStore": "Flipkart",
-  "title": "SAMPUT Tea Tree & Lactic Acid-Body Lotion For Men & Women-pack of …",
+  "title": "SAMPUT Tea Tree & Lactic Acid-Body Lotion For Men & Women-pack of 3",
   "tags": [
    "scope:both",
    "format:cream",
    "format:lotion",
    "format:kit",
+   "water:unstated",
    "ing:lactic-acid",
    "ing:tea-tree",
    "ing:aloe-vera",
@@ -4553,7 +4487,7 @@ const CTPRODUCTS = [
  {
   "id": "wow-itm4d934e5c6e1c9",
   "brand": "Wow",
-  "model": "SKIN SCIENCE Himalayan Rose With Lactic Acid Body Lotion (400 …",
+  "model": "SKIN SCIENCE Himalayan Rose With Lactic Acid Body Lotion",
   "price": 56,
   "capacityLine": "Quantity not stated",
   "materialLine": "lactic acid + rose",
@@ -4604,7 +4538,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/wow-skin-science-himalayan-rose-lactic-acid-body-lotion/p/itm4d934e5c6e1c9",
   "buyStore": "Flipkart",
-  "title": "WOW SKIN SCIENCE Himalayan Rose With Lactic Acid Body Lotion (400 …",
+  "title": "WOW SKIN SCIENCE Himalayan Rose With Lactic Acid Body Lotion",
   "tags": [
    "scope:body",
    "format:lotion",
@@ -4712,7 +4646,7 @@ const CTPRODUCTS = [
  {
   "id": "samput-itmbae9d4de2a4c8",
   "brand": "SAMPUT",
-  "model": "Tea Tree & Lactic Acid-Body Lotion For Men & Women-pack of …",
+  "model": "Tea Tree & Lactic Acid-Body Lotion For Men & Women-pack of 1",
   "price": 385,
   "capacityLine": "250 ml",
   "materialLine": "niacinamide + lactic acid + tea tree",
@@ -4750,7 +4684,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/k/2/250-tea-tree-lactic-acid-body-lotion-for-men-women-pack-of-1-original-imahhg6xmpebtkyg.jpeg?q=90",
@@ -4761,12 +4696,13 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/samput-tea-tree-lactic-acid-body-lotion-men-women-pack-1/p/itmbae9d4de2a4c8",
   "buyStore": "Flipkart",
-  "title": "SAMPUT Tea Tree & Lactic Acid-Body Lotion For Men & Women-pack of …",
+  "title": "SAMPUT Tea Tree & Lactic Acid-Body Lotion For Men & Women-pack of 1",
   "tags": [
    "scope:both",
    "format:cream",
    "format:lotion",
    "format:kit",
+   "water:unstated",
    "ing:niacinamide",
    "ing:lactic-acid",
    "ing:tea-tree",
@@ -5154,7 +5090,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/k/r/3/150-defitis-fix-lotion-ammonium-lactate-lotion-velite-cream-original-imahhdysm4wdgf2h.jpeg?q=90",
@@ -5170,6 +5107,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:lotion",
+   "water:unstated",
    "ing:vitamin-c",
    "ing:ammonium-lactate",
    "ing:ceramides",
@@ -5383,7 +5321,8 @@ const CTPRODUCTS = [
    "evidenceActives": "glycolic acid (#10 on list, strong evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 12 ratings"
+   "buyerEvidence": "4.2★ from 12 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/m/n/p/300-1-salicylic-acid-daily-exfoliating-body-lotion-dermease-original-imagzw4wmqh9aymr.jpeg?q=90",
@@ -5400,6 +5339,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:lotion",
    "format:body-wax",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
    "ing:cocoa-butter",
@@ -5957,7 +5897,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/7/7/n/300-cream-with-aloe-vera-urea-nmf-cream-original-imahqy5ysmffruhh.jpeg?q=90",
@@ -5969,6 +5910,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:urea",
    "ing:aloe-vera",
    "claim:hydrating",
@@ -6063,7 +6005,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.9★ from 8 ratings"
+   "buyerEvidence": "3.9★ from 8 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/l/z/100-20-urea-moisturizing-cream-for-severe-dryness-ichthyosis-original-imahfg97nhmhtdk9.jpeg?q=90",
@@ -6078,6 +6021,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:urea",
    "ing:allantoin",
    "ing:glycerin",
@@ -6176,7 +6120,8 @@ const CTPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — ceramide np #11 on INCI (matching only — not proof it works)"
+   "concernBasis": "Irritation — ceramide np #11 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/2/c/y/453-advanced-repair-body-cream-urea-enriched-unscented-body-original-imahptchgcdw3qqz.jpeg?q=90",
@@ -6191,6 +6136,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:aha",
    "ing:urea",
    "claim:oil-control",
@@ -6692,7 +6638,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.5★ from 4 ratings"
+   "buyerEvidence": "4.5★ from 4 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/s/w/50-dark-spot-spot-fading-urea-cream-vexana-cream-original-imahbzfhz9yqw3ek.jpeg?q=90",
@@ -6707,6 +6654,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
+   "water:unstated",
    "ing:urea",
    "claim:brightening",
    "claim:de-tan",
@@ -6908,7 +6856,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.5★ from 327 ratings"
+   "buyerEvidence": "4.5★ from 327 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/n/1/9/300-20-urea-body-lotion-48h-hydration-for-very-dry-flaky-skin-original-imahgg4fgys3jydu.jpeg?q=90",
@@ -6924,6 +6873,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:lotion",
    "format:balm",
+   "water:unstated",
    "ing:urea",
    "ing:ceramides",
    "ing:shea-butter",
@@ -7031,7 +6981,8 @@ const CTPRODUCTS = [
    "evidenceActives": "urea (#2 on list, strong evidence); glycerin (#3 on list, strong evidence); butyrospermum parkii butter (#4 on list, moderate evidence); dimethicone (#12 on list, moderate evidence); ceramide np (#25 on list, moderate evidence); ceramide ap (#26 on list, moderate evidence); ceramide eop (#27 on list, moderate evidence); cholesterol (#29 on list, moderate evidence)",
    "safetyFlags": "Added fragrance (parfum): perfume (−1.5); Formaldehyde-releasing preservative: imidazolidinyl urea (−1.5)",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.4★ from 5,400 ratings"
+   "buyerEvidence": "4.4★ from 5,400 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/x/r/q/400-10-urea-body-lotion-48-hour-dry-skin-relief-for-dry-flaky-original-imahgg4zghsj7yys.jpeg?q=90",
@@ -7046,6 +6997,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:lotion",
+   "water:unstated",
    "ing:urea",
    "ing:shea-butter",
    "claim:oil-control",
@@ -7220,7 +7172,7 @@ const CTPRODUCTS = [
  {
   "id": "borsalimedicare-itm7a5fb1bb30fb0",
   "brand": "BORSALIMEDICARE",
-  "model": "Aqurea 10 Urea Moisturizing Cream 100g | 10% Urea …",
+  "model": "Aqurea 10 Urea Moisturizing Cream 100g | 10% Urea with Lactic Acid",
   "price": 245,
   "capacityLine": "100 g",
   "materialLine": "vitamin C + lactic acid + urea",
@@ -7269,7 +7221,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/borsalimedicare-aqurea-10-urea-moisturizing-cream-100g-10-lactic-acid/p/itm7a5fb1bb30fb0",
   "buyStore": "Flipkart",
-  "title": "BORSALIMEDICARE Aqurea 10 Urea Moisturizing Cream 100g | 10% Urea …",
+  "title": "BORSALIMEDICARE Aqurea 10 Urea Moisturizing Cream 100g | 10% Urea with Lactic Acid",
   "tags": [
    "scope:both",
    "format:gel",
@@ -7327,7 +7279,7 @@ const CTPRODUCTS = [
  {
   "id": "dr-sheth-s-itm4bebbf598d5f7",
   "brand": "Dr. Sheth's",
-  "model": "Tea Tree & Lactic Acid Body Lotion, Helps to Reduce B …",
+  "model": "Tea Tree & Lactic Acid Body Lotion, Helps to Reduce Body Acne",
   "price": 80,
   "capacityLine": "Quantity not stated",
   "materialLine": "lactic acid + tea tree",
@@ -7353,7 +7305,7 @@ const CTPRODUCTS = [
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
-   "benefit": "Not stated in listing",
+   "benefit": "Acne/blemish claim",
    "audience": "Unisex / not stated",
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
@@ -7380,12 +7332,13 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/dr-sheths-tea-tree-lactic-acid-body-lotion-helps-reduce-acne/p/itm4bebbf598d5f7",
   "buyStore": "Flipkart",
-  "title": "Dr. Sheth’s Tea Tree & Lactic Acid Body Lotion, Helps to Reduce B …",
+  "title": "Dr. Sheth’s Tea Tree & Lactic Acid Body Lotion, Helps to Reduce Body Acne",
   "tags": [
    "scope:body",
    "format:lotion",
    "ing:lactic-acid",
    "ing:tea-tree",
+   "claim:acne",
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
@@ -7533,7 +7486,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 3 ratings"
+   "buyerEvidence": "4★ from 3 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/shopsy-moisturizer-cream/f/l/0/200-glycolic-acid-lactic-acid-exfoliating-body-lotion-for-smooth-original-imahq4tz8brmxyup.jpeg?q=90",
@@ -7549,6 +7503,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:lotion",
+   "water:unstated",
    "ing:glycolic-acid",
    "ing:lactic-acid",
    "ing:aha",
@@ -7608,7 +7563,7 @@ const CTPRODUCTS = [
  {
   "id": "odilo-itmf1829ab768cd7",
   "brand": "Odilo",
-  "model": "SKIN SCIENCE Shea Butter With Lactic Acid Body Lotion (500 …",
+  "model": "SKIN SCIENCE Shea Butter With Lactic Acid Body Lotion",
   "price": 154,
   "capacityLine": "500 ml",
   "materialLine": "lactic acid + shea butter",
@@ -7645,7 +7600,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 40 ratings"
+   "buyerEvidence": "4.1★ from 40 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/d/y/n/500-skin-science-shea-butter-with-lactic-acid-body-lotion-odilo-original-imahq99yhmjhgenk.jpeg?q=90",
@@ -7656,12 +7612,13 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/odilo-skin-science-shea-butter-lactic-acid-body-lotion/p/itmf1829ab768cd7",
   "buyStore": "Flipkart",
-  "title": "Odilo SKIN SCIENCE Shea Butter With Lactic Acid Body Lotion (500 …",
+  "title": "Odilo SKIN SCIENCE Shea Butter With Lactic Acid Body Lotion",
   "tags": [
    "scope:both",
    "format:cream",
    "format:lotion",
    "format:balm",
+   "water:unstated",
    "ing:lactic-acid",
    "ing:shea-butter",
    "claim:brightening",
@@ -7716,7 +7673,7 @@ const CTPRODUCTS = [
  {
   "id": "samput-itmc41c28b36cc67",
   "brand": "SAMPUT",
-  "model": "Tea Tree & Lactic Acid-Body Lotion For Men & Women-pack of …",
+  "model": "Tea Tree & Lactic Acid-Body Lotion For Men & Women-pack of 2",
   "price": 643,
   "capacityLine": "500 ml (pack of 2)",
   "materialLine": "lactic acid + tea tree + aloe vera",
@@ -7754,7 +7711,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/g/k/v/250-tea-tree-lactic-acid-body-lotion-for-men-women-pack-of-2-original-imahkf5ubhm8mndm.jpeg?q=90",
@@ -7765,13 +7723,14 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/samput-tea-tree-lactic-acid-body-lotion-men-women-pack-2/p/itmc41c28b36cc67",
   "buyStore": "Flipkart",
-  "title": "SAMPUT Tea Tree & Lactic Acid-Body Lotion For Men & Women-pack of …",
+  "title": "SAMPUT Tea Tree & Lactic Acid-Body Lotion For Men & Women-pack of 2",
   "tags": [
    "scope:both",
    "format:cream",
    "format:lotion",
    "format:balm",
    "format:kit",
+   "water:unstated",
    "ing:lactic-acid",
    "ing:tea-tree",
    "ing:aloe-vera",
@@ -7830,7 +7789,7 @@ const CTPRODUCTS = [
  {
   "id": "be-bodywise-itm23e3312d88b5e",
   "brand": "Be Bodywise",
-  "model": "5% Lactic Acid Body Lotion | 10% Niacinamide Hydratin …",
+  "model": "5% Lactic Acid Body Lotion | 10% Niacinamide Hydrating Body Lotion | Skin care",
   "price": 729,
   "capacityLine": "400 ml",
   "materialLine": "niacinamide + lactic acid",
@@ -7882,7 +7841,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/bodywise-5-lactic-acid-body-lotion-10-niacinamide-hydrating-skin-care/p/itm23e3312d88b5e",
   "buyStore": "Flipkart",
-  "title": "Be Bodywise 5% Lactic Acid Body Lotion | 10% Niacinamide Hydratin …",
+  "title": "Be Bodywise 5% Lactic Acid Body Lotion | 10% Niacinamide Hydrating Body Lotion | Skin care",
   "tags": [
    "scope:both",
    "format:lotion",
@@ -8171,7 +8130,7 @@ const CTPRODUCTS = [
  {
   "id": "pinkup-itma5a46e0f86d9d",
   "brand": "pinkup",
-  "model": "D-Tan Remover Body Lotion Saffron + Lactic Acid +Niacinami …",
+  "model": "D-Tan Remover Body Lotion Saffron + Lactic Acid +Niacinamide",
   "price": 170,
   "capacityLine": "200 g (pack of 2)",
   "materialLine": "niacinamide + lactic acid + tea tree",
@@ -8220,7 +8179,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/pinkup-d-tan-remover-body-lotion-saffron-lactic-acid-niacinamide/p/itma5a46e0f86d9d",
   "buyStore": "Flipkart",
-  "title": "pinkup D-Tan Remover Body Lotion Saffron + Lactic Acid +Niacinami …",
+  "title": "pinkup D-Tan Remover Body Lotion Saffron + Lactic Acid +Niacinamide",
   "tags": [
    "scope:both",
    "format:cream",
@@ -8292,11 +8251,11 @@ const CTPRODUCTS = [
  {
   "id": "ras-luxury-oils-itm32de5d3a06ebd",
   "brand": "RAS Luxury Oils",
-  "model": "Brighten Lactic Acid body lotion (200 ml)",
+  "model": "Brighten Lactic Acid body lotion",
   "price": 874,
-  "capacityLine": "400 ml (pack of 2)",
+  "capacityLine": "40 g (pack of 2)",
   "materialLine": "lactic acid + aloe vera",
-  "featureLine": "Lotion · Paraben-free · ₹219/100ml",
+  "featureLine": "Lotion · Paraben-free · ₹2185/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -8311,8 +8270,8 @@ const CTPRODUCTS = [
    "experience": 0
   },
   "fullSpec": {
-   "quantity": "200 ml × 2 pack",
-   "pricePer100": "₹219/100ml",
+   "quantity": "20 g × 2 pack",
+   "pricePer100": "₹2185/100g",
    "format": "Lotion",
    "keyIngredients": "lactic acid, aloe vera (per listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -8341,7 +8300,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/ras-luxury-oils-brighten-lactic-acid-body-lotion/p/itm32de5d3a06ebd",
   "buyStore": "Flipkart",
-  "title": "RAS Luxury Oils Brighten Lactic Acid body lotion (200 ml)",
+  "title": "RAS Luxury Oils Brighten Lactic Acid body lotion",
   "tags": [
    "scope:both",
    "format:cream",
@@ -8363,7 +8322,7 @@ const CTPRODUCTS = [
    "free:derm",
    "free:hypoallergenic",
    "aud:women",
-   "size:xl",
+   "size:travel",
    "rating:none",
    "store:flipkart",
    "inci:partial"
@@ -8409,7 +8368,7 @@ const CTPRODUCTS = [
  {
   "id": "bandido-itm4b0cb88626756",
   "brand": "BANDIDO",
-  "model": "Magic De‑Tan Body Lotion | Saffron + Lactic Acid + Niacin …",
+  "model": "Magic De‑Tan Body Lotion | Saffron + Lactic Acid + Niacinamide |",
   "price": 207,
   "capacityLine": "100 ml",
   "materialLine": "niacinamide + lactic acid + aloe vera",
@@ -8449,7 +8408,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4★ from 205 ratings",
-   "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI; Irritation — aloe barbadensis leaf extract #7 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI; Irritation — aloe barbadensis leaf extract #7 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/8/p/q/100-magic-de-tan-body-lotion-saffron-lactic-acid-niacinamide-original-imahpaytcgsphtyb.jpeg?q=90",
@@ -8460,13 +8420,14 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/bandido-magic-detan-body-lotion-saffron-lactic-acid-niacinamide/p/itm4b0cb88626756",
   "buyStore": "Flipkart",
-  "title": "BANDIDO Magic De‑Tan Body Lotion | Saffron + Lactic Acid + Niacin …",
+  "title": "BANDIDO Magic De‑Tan Body Lotion | Saffron + Lactic Acid + Niacinamide |",
   "tags": [
    "scope:both",
    "format:cream",
    "format:lotion",
    "format:balm",
    "format:body-wax",
+   "water:unstated",
    "ing:niacinamide",
    "ing:lactic-acid",
    "ing:aloe-vera",
@@ -8973,7 +8934,8 @@ const CTPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.5★ from 204 ratings",
-   "concernBasis": "Acne — niacinamide #12 on INCI, salicylic acid #13 on INCI; Dark spots — niacinamide #12 on INCI; Irritation — aloe barbadensis leaf juice #2 on INCI, panthenol #14 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #12 on INCI, salicylic acid #13 on INCI; Dark spots — niacinamide #12 on INCI; Irritation — aloe barbadensis leaf juice #2 on INCI, panthenol #14 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/s/l/l/400-10-aha-2-bha-body-lotion-spf-30-pa-for-back-body-acne-original-imahzrzhzdjh5rdr.jpeg?q=90",
@@ -8988,6 +8950,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:lotion",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:aha",
    "ing:strawberry",
@@ -9138,12 +9101,12 @@ const CTPRODUCTS = [
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "No ingredient list published on the listing"
+   "Only 2 ingredients named — formula unscored"
   ],
   "scores": {
    "ingredients": 0,
    "skin": 0,
-   "trust": 5,
+   "trust": 5.3,
    "experience": 2.2
   },
   "fullSpec": {
@@ -9160,9 +9123,9 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.1/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
+   "inciStatus": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: saffron,white lotus",
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
@@ -9196,7 +9159,7 @@ const CTPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "inci:partial"
   ],
   "filters": {
    "actives": true,
@@ -9205,23 +9168,23 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
+   "inci": "partial",
    "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
    "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
+   "inciUnverified": "saffron,white lotus",
+   "inciNote": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
    "declarationConfidence": null,
-   "recognised": null,
+   "recognised": 0,
    "actives": [],
    "support": [],
    "formulaNotes": [],
@@ -9719,13 +9682,13 @@ const CTPRODUCTS = [
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "No ingredient list published on the listing",
+   "Only 4 ingredients named — formula unscored",
    "Maker not verified — no parent company found"
   ],
   "scores": {
    "ingredients": 0,
    "skin": 0,
-   "trust": 3.5,
+   "trust": 3.8,
    "experience": 2.9
   },
   "fullSpec": {
@@ -9742,9 +9705,9 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.3/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
+   "inciStatus": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: Top notes: Citrus, Fruity Notes. Heart notes: Floral Notes. Base notes: Musk, Amber, Woody Notes",
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
@@ -9776,7 +9739,7 @@ const CTPRODUCTS = [
    "size:large",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "inci:partial"
   ],
   "filters": {
    "actives": true,
@@ -9785,23 +9748,23 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
+   "inci": "partial",
    "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
    "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
+   "inciUnverified": "Top notes: Citrus, Fruity Notes. Heart notes: Floral Notes. Base notes: Musk, Amber, Woody Notes",
+   "inciNote": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
    "declarationConfidence": null,
-   "recognised": null,
+   "recognised": 0.5,
    "actives": [],
    "support": [],
    "formulaNotes": [],
@@ -9958,7 +9921,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41B7JxLnZ5L._AC_UL320_.jpg"
@@ -9971,6 +9935,7 @@ const CTPRODUCTS = [
    "format:lotion",
    "format:oil",
    "spf:30",
+   "water:unstated",
    "ing:retinol",
    "ing:vitamin-b5-panthenol",
    "claim:hydrating",
@@ -13247,6 +13212,7 @@ const CTPRODUCTS = [
    "claim:kp",
    "claim:lightweight",
    "claim:ingrown",
+   "claim:razor-burn",
    "skin:dry",
    "skin:sensitive",
    "free:derm",
@@ -20020,15 +19986,17 @@ const CTPRODUCTS = [
   "capacityLine": "400 ml",
   "materialLine": "lactic acid + shea butter",
   "featureLine": "Lotion · ₹88/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. Scored from its published INCI list (Amazon.in listing — Important information › Ingredients): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "shea butter high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): fragrance"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 4.9,
+   "skin": 7.7,
+   "trust": 7,
    "experience": 2.2
   },
   "fullSpec": {
@@ -20045,13 +20013,14 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.1/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "\"Purified Water, Cetyl Alcohol, Dicaprylyl Carbonate, Glyceryl Monostearate, lsopropyl Myristate, Caprylic/ Capric Triglycerides, lsoamyl Laurate, Shea Butter, Cocoa Butter, Sodium PCA, Betaine Anhydrous, Beta Vulgaris (Beet) Root Extract, Moroccan Argan Oil, Sweet Almond Oil, Aloe Vera Extract, D Panthenol (Pro-Vitamin B5), Fragrance, Sodium Hyaluronate (Hyaluronic Acid), Allantoin, Disodium EDTA, Sodium Benzoate, Phenoxyethanol & Ethylhexylglycerin.\"",
+   "evidenceActives": "shea butter (#8 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Body Cupid — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "concernBasis": "Irritation — aloe barbadensis leaf extract #15 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/718P47IqeKL._AC_UL320_.jpg"
@@ -20074,7 +20043,8 @@ const CTPRODUCTS = [
    "size:xl",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "target:irritation",
+   "inci:full"
   ],
   "filters": {
    "actives": true,
@@ -20083,27 +20053,90 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "listing",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
+   "inci": "full",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
-   "inciText": null,
+   "inciText": "\"Purified Water, Cetyl Alcohol, Dicaprylyl Carbonate, Glyceryl Monostearate, lsopropyl Myristate, Caprylic/ Capric Triglycerides, lsoamyl Laurate, Shea Butter, Cocoa Butter, Sodium PCA, Betaine Anhydrous, Beta Vulgaris (Beet) Root Extract, Moroccan Argan Oil, Sweet Almond Oil, Aloe Vera Extract, D Panthenol (Pro-Vitamin B5), Fragrance, Sodium Hyaluronate (Hyaluronic Acid), Allantoin, Disodium EDTA, Sodium Benzoate, Phenoxyethanol & Ethylhexylglycerin.\"",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "shea butter",
+     "grade": "B",
+     "position": 8,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "cocoa butter",
+     "grade": "C",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "striae"
+    },
+    {
+     "name": "prunus amygdalus dulcis oil",
+     "grade": "B",
+     "position": 14,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "aloe barbadensis leaf extract",
+     "grade": "B",
+     "position": 15,
+     "core": false,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 18,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 19,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    }
+   ],
+   "support": [
+    "shea butter",
+    "sodium pca",
+    "sodium hyaluronate"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Body Cupid",
     "kind": "d2c",
@@ -22837,7 +22870,8 @@ const CTPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — niacinamide #14 on INCI, salicylic acid #15 on INCI; Dark spots — niacinamide #14 on INCI, glycyrrhiza glabra root extract #18 on INCI; Irritation — aloe barbadensis leaf juice #2 on INCI (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #14 on INCI, salicylic acid #15 on INCI; Dark spots — niacinamide #14 on INCI, glycyrrhiza glabra root extract #18 on INCI; Irritation — aloe barbadensis leaf juice #2 on INCI (matching only — not proof it works)",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/t/o/a/400-10-aha-2-bha-body-lotion-spf-30-for-bumpy-rough-strawberry-original-imahphzh4sekusf2.jpeg?q=90",
@@ -22853,6 +22887,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:lotion",
    "spf:30",
+   "water:unstated",
    "ing:salicylic-acid-bha",
    "ing:aha",
    "ing:strawberry",
@@ -24113,7 +24148,8 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61BXjbzLWBL._SL1500_.jpg"
@@ -24124,6 +24160,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:lotion",
+   "water:unstated",
    "ing:niacinamide",
    "ing:lactic-acid",
    "ing:turmeric",

@@ -19,7 +19,7 @@ interface Props {
 }
 
 const HIDDEN = new Set(['scope']); // scope has its own segmented control above the list
-const OPEN_BY_DEFAULT = new Set(['format', 'ing', 'claim', 'spf', 'sun', 'step']);
+const OPEN_BY_DEFAULT = new Set(['format', 'ing', 'claim', 'spf', 'sun', 'water', 'step']);
 const SHOW_LIMIT = 8;
 
 /** Multi-select facet panel. OR within a group (switchable to "match all" for ingredients / free-from), AND across groups. */
