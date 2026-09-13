@@ -1,0 +1,44 @@
+{
+  "name": "skincare-routines",
+  "private": true,
+  "version": "2.0.0",
+  "type": "module",
+  "scripts": {
+    "data": "node scripts/build-data.mjs",
+    "icons": "node scripts/pwa-icons.mjs",
+    "og": "npm run data && node scripts/og-image.mjs",
+    "dev": "npm run data && vite",
+    "build": "npm run data && tsc -b && vite build",
+    "lint": "oxlint src scripts",
+    "typecheck": "tsc -b",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@google/genai": "2.21.0",
+    "@gsap/react": "2.1.2",
+    "@number-flow/react": "0.6.2",
+    "@tanstack/react-virtual": "3.14.10",
+    "clsx": "2.1.1",
+    "framer-motion": "13.1.1",
+    "gsap": "3.15.0",
+    "lucide-react": "1.34.0",
+    "react": "19.2.8",
+    "react-dom": "19.2.8",
+    "react-router-dom": "7.18.2",
+    "tailwind-merge": "3.6.0"
+  },
+  "devDependencies": {
+    "@oxlint/binding-linux-x64-gnu": "^1.80.0",
+    "@tailwindcss/vite": "4.3.3",
+    "@types/node": "24.13.3",
+    "@types/react": "19.2.18",
+    "@types/react-dom": "19.2.5",
+    "@vitejs/plugin-react": "5.1.4",
+    "oxlint": "1.80.0",
+    "tailwindcss": "4.3.3",
+    "typescript": "5.9.3",
+    "vite": "6.4.3",
+    "vite-plugin-pwa": "^1.3.0",
+    "workbox-window": "^7.4.1"
+  }
+}

@@ -1,0 +1,41 @@
+import { Reveal } from '../fx/Reveal';
+import { CategoryCard, type ConcernPick } from './CategoryCard';
+import { concernCount } from '../../domain/concern';
+import { SectionHead } from '../ui/primitives';
+import type { CategoryMeta, Zone } from '../../lib/types';
+
+type SectionKey = Zone | 'protocol';
+const SECTIONS: { key: SectionKey; title: string; sub: string; tone: string }[] = [
+  { key: 'face', title: 'Face', sub: 'Cleansers, actives, treatments and care made for the face.', tone: 'zone-face' },
+  { key: 'both', title: 'Face + body', sub: 'Categories where face and body products sit side by side — split them with the Face / Body control inside.', tone: 'zone-both' },
+  { key: 'body', title: 'Body', sub: 'Below the neck: washes, lotions and rough-skin care.', tone: 'zone-body' },
+  { key: 'hair', title: 'Hair & scalp', sub: 'Shampoos, scalp treatments, conditioners, masks, oils, serums, leave-in creams, heat protectants and styling — split with the Scalp / Lengths control inside; scored on the published INCI, not the promise on the bottle.', tone: 'zone-hair' },
+  { key: 'protocol', title: 'Protocols', sub: 'Multi-step plans with the products for each step, plus the honest timeline.', tone: 'text-accent' },
+];
+const sectionOf = (c: CategoryMeta): SectionKey => (c.kicker === 'PROTOCOL' ? 'protocol' : c.zone);
+
+/** Category hub grouped by where the product goes — face, face + body, body, hair — so nothing is one big dump. */
+export function CategorySections({ categories, compact, concern }: { categories: CategoryMeta[]; compact?: boolean; concern?: ConcernPick }) {
+  const picked = concern?.picked ?? [];
+  const matches = (c: CategoryMeta) => (c.facets.includes('target') ? concernCount(c, picked) : 0);
+  return (
+    <div className="space-y-12">
+      {SECTIONS.map((s) => {
+        let cats = categories.filter((c) => sectionOf(c) === s.key);
+        if (picked.length) cats = [...cats].sort((a, b) => matches(b) - matches(a));
+        if (!cats.length) return null;
+        return (
+          <section key={s.key} aria-labelledby={`zone-${s.key}`}>
+            <SectionHead id={`zone-${s.key}`} title={s.title} tone={s.tone} sub={compact ? undefined : s.sub}
+              meta={picked.length
+                ? `${cats.filter((c) => matches(c) > 0).length} of ${cats.length} categories match · ${cats.reduce((n, c) => n + matches(c), 0).toLocaleString('en-IN')} listings`
+                : `${cats.length} categories · ${cats.reduce((n, c) => n + c.count, 0).toLocaleString('en-IN')} listings`} />
+            <Reveal className="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
+              {cats.map((c) => <CategoryCard key={c.id} cat={c} concern={concern} />)}
+            </Reveal>
+          </section>
+        );
+      })}
+    </div>
+  );
+}
