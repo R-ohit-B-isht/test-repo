@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-12.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-13.
 // Unknown fields are honestly marked, never invented.
 const NXPRODUCTS = [
  {
@@ -3335,17 +3335,19 @@ const NXPRODUCTS = [
   "capacityLine": "10 ml",
   "materialLine": "Hyaluronic acid + Collagen + PDRN / polynucleotide",
   "featureLine": "Lip balm · ₹16490/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (ANUA official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "dimethicone high on the INCI list (moderate evidence); panthenol high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "Only 4 ingredients named — formula unscored",
    "Maker not verified — no parent company found",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
+   "ingredients": 4.8,
+   "skin": 7,
+   "trust": 5.5,
    "experience": 0
   },
   "fullSpec": {
@@ -3364,11 +3366,14 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: PDRN, Hyaluronic Acid, Collagen, and moisturizing lip-care ingredients.",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "ANUA official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceUrl": "https://anua.us/products/pdrn-lip-serum",
+   "inciMatchedName": "PDRN Lip Serum (name match 100%)",
+   "listingIngredientLine": "PDRN, Hyaluronic Acid, Collagen, and moisturizing lip-care ingredients. (as printed on the Flipkart listing — incomplete, not scored)",
+   "inciList": "Polyisobutene, Diisostearyl Malate, Polyglyceryl-2 Triisostearate, Dipentaerythrityl Hexahydroxystearate/Hexastearate/Hexarosinate, Octyldodecanol, Microcrystalline Wax, Bis-Diglyceryl Polyacyladipate-2, Phytosteryl/Isostearyl/Cetyl/Stearyl/Behenyl Dimer Dilinoleate, Polyglyceryl-3 Polyricinoleate, 1,2-Hexanediol, Dextrin Palmitate, Silica Dimethyl Silylate, Simmondsia Chinensis (Jojooba) Seed Oil, Aqua/Water, Synthetic Wax, Pentylene Glycol, Ethylene/Propylene Copolymer, Butylene Glycol, Caprylyl Glycol, Dimethicone, Pentaerythrityl Tetra-di-t-butyl Hydroxyhydrocinnamate, Caprylic/Capric Triglyceride, Ethylhexylglycerin, Stearalkonium Hectorite, Polyglyceryl-3 Diisostearate, Rosa Damascena Flower Extract, Sodium DNA, Disodium EDTA, Panthenol, Glycerin, Ceramide NP, Hydrogenated Lecithin, Hyaluronic Acid, Hydrolyzed Collagen",
+   "evidenceActives": "dimethicone (#20 on list, moderate evidence); panthenol (#29 on list, moderate evidence); glycerin (#30 on list, strong evidence); ceramide np (#31 on list, moderate evidence); hyaluronic acid (#33 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing"
@@ -3400,7 +3405,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
-   "inci:partial"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -3408,25 +3415,89 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "partial",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "PDRN, Hyaluronic Acid, Collagen, and moisturizing lip-care ingredients.",
-   "inciNote": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 0.5,
-   "actives": [],
-   "support": [],
+   "inci": "full",
+   "inciSource": "ANUA official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://anua.us/products/pdrn-lip-serum",
+   "inciSourceRegion": "US",
+   "inciMatchedTitle": "PDRN Lip Serum",
+   "inciMatchScore": 1,
+   "inciText": "Polyisobutene, Diisostearyl Malate, Polyglyceryl-2 Triisostearate, Dipentaerythrityl Hexahydroxystearate/Hexastearate/Hexarosinate, Octyldodecanol, Microcrystalline Wax, Bis-Diglyceryl Polyacyladipate-2, Phytosteryl/Isostearyl/Cetyl/Stearyl/Behenyl Dimer Dilinoleate, Polyglyceryl-3 Polyricinoleate, 1,2-Hexanediol, Dextrin Palmitate, Silica Dimethyl Silylate, Simmondsia Chinensis (Jojooba) Seed Oil, Aqua/Water, Synthetic Wax, Pentylene Glycol, Ethylene/Propylene Copolymer, Butylene Glycol, Caprylyl Glycol, Dimethicone, Pentaerythrityl Tetra-di-t-butyl Hydroxyhydrocinnamate, Caprylic/Capric Triglyceride, Ethylhexylglycerin, Stearalkonium Hectorite, Polyglyceryl-3 Diisostearate, Rosa Damascena Flower Extract, Sodium DNA, Disodium EDTA, Panthenol, Glycerin, Ceramide NP, Hydrogenated Lecithin, Hyaluronic Acid, Hydrolyzed Collagen",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 0.97,
+   "actives": [
+    {
+     "name": "simmondsia chinensis seed oil",
+     "grade": "B",
+     "position": 13,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 20,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "sodium dna",
+     "grade": "B",
+     "position": 27,
+     "core": false,
+     "trace": true,
+     "src": "pdrn"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 29,
+     "core": true,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 30,
+     "core": true,
+     "trace": true,
+     "src": "glycerin"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 31,
+     "core": true,
+     "trace": true,
+     "src": "ceramide"
+    },
+    {
+     "name": "hyaluronic acid",
+     "grade": "B",
+     "position": 33,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "butylene glycol",
+    "dimethicone",
+    "panthenol",
+    "glycerin",
+    "ceramide np",
+    "hyaluronic acid"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -3751,17 +3822,19 @@ const NXPRODUCTS = [
   "capacityLine": "10 ml",
   "materialLine": "Hyaluronic acid + Collagen + PDRN / polynucleotide",
   "featureLine": "Serum · ₹16490/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (ANUA official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "dimethicone high on the INCI list (moderate evidence); panthenol high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "Only 4 ingredients named — formula unscored",
    "Maker not verified — no parent company found",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
+   "ingredients": 4.8,
+   "skin": 7,
+   "trust": 5.5,
    "experience": 0
   },
   "fullSpec": {
@@ -3780,11 +3853,14 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: PDRN, Hyaluronic Acid, Collagen, and moisturizing lip-care ingredients.",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "ANUA official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceUrl": "https://anua.us/products/pdrn-lip-serum",
+   "inciMatchedName": "PDRN Lip Serum (name match 100%)",
+   "listingIngredientLine": "PDRN, Hyaluronic Acid, Collagen, and moisturizing lip-care ingredients. (as printed on the Flipkart listing — incomplete, not scored)",
+   "inciList": "Polyisobutene, Diisostearyl Malate, Polyglyceryl-2 Triisostearate, Dipentaerythrityl Hexahydroxystearate/Hexastearate/Hexarosinate, Octyldodecanol, Microcrystalline Wax, Bis-Diglyceryl Polyacyladipate-2, Phytosteryl/Isostearyl/Cetyl/Stearyl/Behenyl Dimer Dilinoleate, Polyglyceryl-3 Polyricinoleate, 1,2-Hexanediol, Dextrin Palmitate, Silica Dimethyl Silylate, Simmondsia Chinensis (Jojooba) Seed Oil, Aqua/Water, Synthetic Wax, Pentylene Glycol, Ethylene/Propylene Copolymer, Butylene Glycol, Caprylyl Glycol, Dimethicone, Pentaerythrityl Tetra-di-t-butyl Hydroxyhydrocinnamate, Caprylic/Capric Triglyceride, Ethylhexylglycerin, Stearalkonium Hectorite, Polyglyceryl-3 Diisostearate, Rosa Damascena Flower Extract, Sodium DNA, Disodium EDTA, Panthenol, Glycerin, Ceramide NP, Hydrogenated Lecithin, Hyaluronic Acid, Hydrolyzed Collagen",
+   "evidenceActives": "dimethicone (#20 on list, moderate evidence); panthenol (#29 on list, moderate evidence); glycerin (#30 on list, strong evidence); ceramide np (#31 on list, moderate evidence); hyaluronic acid (#33 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing"
@@ -3816,7 +3892,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
-   "inci:partial"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -3824,25 +3902,89 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "partial",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "PDRN, Hyaluronic Acid, Collagen, and moisturizing lip-care ingredients.",
-   "inciNote": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 0.5,
-   "actives": [],
-   "support": [],
+   "inci": "full",
+   "inciSource": "ANUA official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://anua.us/products/pdrn-lip-serum",
+   "inciSourceRegion": "US",
+   "inciMatchedTitle": "PDRN Lip Serum",
+   "inciMatchScore": 1,
+   "inciText": "Polyisobutene, Diisostearyl Malate, Polyglyceryl-2 Triisostearate, Dipentaerythrityl Hexahydroxystearate/Hexastearate/Hexarosinate, Octyldodecanol, Microcrystalline Wax, Bis-Diglyceryl Polyacyladipate-2, Phytosteryl/Isostearyl/Cetyl/Stearyl/Behenyl Dimer Dilinoleate, Polyglyceryl-3 Polyricinoleate, 1,2-Hexanediol, Dextrin Palmitate, Silica Dimethyl Silylate, Simmondsia Chinensis (Jojooba) Seed Oil, Aqua/Water, Synthetic Wax, Pentylene Glycol, Ethylene/Propylene Copolymer, Butylene Glycol, Caprylyl Glycol, Dimethicone, Pentaerythrityl Tetra-di-t-butyl Hydroxyhydrocinnamate, Caprylic/Capric Triglyceride, Ethylhexylglycerin, Stearalkonium Hectorite, Polyglyceryl-3 Diisostearate, Rosa Damascena Flower Extract, Sodium DNA, Disodium EDTA, Panthenol, Glycerin, Ceramide NP, Hydrogenated Lecithin, Hyaluronic Acid, Hydrolyzed Collagen",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 0.97,
+   "actives": [
+    {
+     "name": "simmondsia chinensis seed oil",
+     "grade": "B",
+     "position": 13,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 20,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "sodium dna",
+     "grade": "B",
+     "position": 27,
+     "core": false,
+     "trace": true,
+     "src": "pdrn"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 29,
+     "core": true,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 30,
+     "core": true,
+     "trace": true,
+     "src": "glycerin"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 31,
+     "core": true,
+     "trace": true,
+     "src": "ceramide"
+    },
+    {
+     "name": "hyaluronic acid",
+     "grade": "B",
+     "position": 33,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "butylene glycol",
+    "dimethicone",
+    "panthenol",
+    "glycerin",
+    "ceramide np",
+    "hyaluronic acid"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -3863,17 +4005,19 @@ const NXPRODUCTS = [
   "capacityLine": "10 ml",
   "materialLine": "Hyaluronic acid + Collagen + PDRN / polynucleotide",
   "featureLine": "Serum · ₹16490/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (ANUA official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "dimethicone high on the INCI list (moderate evidence); panthenol high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "Only 4 ingredients named — formula unscored",
    "Maker not verified — no parent company found",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
+   "ingredients": 4.8,
+   "skin": 7,
+   "trust": 5.5,
    "experience": 0
   },
   "fullSpec": {
@@ -3892,11 +4036,14 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: PDRN, Hyaluronic Acid, Collagen, and moisturizing lip-care ingredients.",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "ANUA official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceUrl": "https://anua.us/products/pdrn-lip-serum",
+   "inciMatchedName": "PDRN Lip Serum (name match 100%)",
+   "listingIngredientLine": "PDRN, Hyaluronic Acid, Collagen, and moisturizing lip-care ingredients. (as printed on the Flipkart listing — incomplete, not scored)",
+   "inciList": "Polyisobutene, Diisostearyl Malate, Polyglyceryl-2 Triisostearate, Dipentaerythrityl Hexahydroxystearate/Hexastearate/Hexarosinate, Octyldodecanol, Microcrystalline Wax, Bis-Diglyceryl Polyacyladipate-2, Phytosteryl/Isostearyl/Cetyl/Stearyl/Behenyl Dimer Dilinoleate, Polyglyceryl-3 Polyricinoleate, 1,2-Hexanediol, Dextrin Palmitate, Silica Dimethyl Silylate, Simmondsia Chinensis (Jojooba) Seed Oil, Aqua/Water, Synthetic Wax, Pentylene Glycol, Ethylene/Propylene Copolymer, Butylene Glycol, Caprylyl Glycol, Dimethicone, Pentaerythrityl Tetra-di-t-butyl Hydroxyhydrocinnamate, Caprylic/Capric Triglyceride, Ethylhexylglycerin, Stearalkonium Hectorite, Polyglyceryl-3 Diisostearate, Rosa Damascena Flower Extract, Sodium DNA, Disodium EDTA, Panthenol, Glycerin, Ceramide NP, Hydrogenated Lecithin, Hyaluronic Acid, Hydrolyzed Collagen",
+   "evidenceActives": "dimethicone (#20 on list, moderate evidence); panthenol (#29 on list, moderate evidence); glycerin (#30 on list, strong evidence); ceramide np (#31 on list, moderate evidence); hyaluronic acid (#33 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing"
@@ -3928,7 +4075,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
-   "inci:partial"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -3936,25 +4085,89 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "partial",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "PDRN, Hyaluronic Acid, Collagen, and moisturizing lip-care ingredients.",
-   "inciNote": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 0.5,
-   "actives": [],
-   "support": [],
+   "inci": "full",
+   "inciSource": "ANUA official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://anua.us/products/pdrn-lip-serum",
+   "inciSourceRegion": "US",
+   "inciMatchedTitle": "PDRN Lip Serum",
+   "inciMatchScore": 1,
+   "inciText": "Polyisobutene, Diisostearyl Malate, Polyglyceryl-2 Triisostearate, Dipentaerythrityl Hexahydroxystearate/Hexastearate/Hexarosinate, Octyldodecanol, Microcrystalline Wax, Bis-Diglyceryl Polyacyladipate-2, Phytosteryl/Isostearyl/Cetyl/Stearyl/Behenyl Dimer Dilinoleate, Polyglyceryl-3 Polyricinoleate, 1,2-Hexanediol, Dextrin Palmitate, Silica Dimethyl Silylate, Simmondsia Chinensis (Jojooba) Seed Oil, Aqua/Water, Synthetic Wax, Pentylene Glycol, Ethylene/Propylene Copolymer, Butylene Glycol, Caprylyl Glycol, Dimethicone, Pentaerythrityl Tetra-di-t-butyl Hydroxyhydrocinnamate, Caprylic/Capric Triglyceride, Ethylhexylglycerin, Stearalkonium Hectorite, Polyglyceryl-3 Diisostearate, Rosa Damascena Flower Extract, Sodium DNA, Disodium EDTA, Panthenol, Glycerin, Ceramide NP, Hydrogenated Lecithin, Hyaluronic Acid, Hydrolyzed Collagen",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 0.97,
+   "actives": [
+    {
+     "name": "simmondsia chinensis seed oil",
+     "grade": "B",
+     "position": 13,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 20,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "sodium dna",
+     "grade": "B",
+     "position": 27,
+     "core": false,
+     "trace": true,
+     "src": "pdrn"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 29,
+     "core": true,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 30,
+     "core": true,
+     "trace": true,
+     "src": "glycerin"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 31,
+     "core": true,
+     "trace": true,
+     "src": "ceramide"
+    },
+    {
+     "name": "hyaluronic acid",
+     "grade": "B",
+     "position": 33,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "butylene glycol",
+    "dimethicone",
+    "panthenol",
+    "glycerin",
+    "ceramide np",
+    "hyaluronic acid"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -3975,17 +4188,19 @@ const NXPRODUCTS = [
   "capacityLine": "10 ml",
   "materialLine": "Hyaluronic acid + Collagen + PDRN / polynucleotide",
   "featureLine": "Serum · ₹16490/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (ANUA official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "dimethicone high on the INCI list (moderate evidence); panthenol high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "Only 4 ingredients named — formula unscored",
    "Maker not verified — no parent company found",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
+   "ingredients": 4.8,
+   "skin": 7,
+   "trust": 5.5,
    "experience": 0
   },
   "fullSpec": {
@@ -4004,11 +4219,14 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: PDRN, Hyaluronic Acid, Collagen, and moisturizing lip-care ingredients.",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "ANUA official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceUrl": "https://anua.us/products/pdrn-lip-serum",
+   "inciMatchedName": "PDRN Lip Serum (name match 88%)",
+   "listingIngredientLine": "PDRN, Hyaluronic Acid, Collagen, and moisturizing lip-care ingredients. (as printed on the Flipkart listing — incomplete, not scored)",
+   "inciList": "Polyisobutene, Diisostearyl Malate, Polyglyceryl-2 Triisostearate, Dipentaerythrityl Hexahydroxystearate/Hexastearate/Hexarosinate, Octyldodecanol, Microcrystalline Wax, Bis-Diglyceryl Polyacyladipate-2, Phytosteryl/Isostearyl/Cetyl/Stearyl/Behenyl Dimer Dilinoleate, Polyglyceryl-3 Polyricinoleate, 1,2-Hexanediol, Dextrin Palmitate, Silica Dimethyl Silylate, Simmondsia Chinensis (Jojooba) Seed Oil, Aqua/Water, Synthetic Wax, Pentylene Glycol, Ethylene/Propylene Copolymer, Butylene Glycol, Caprylyl Glycol, Dimethicone, Pentaerythrityl Tetra-di-t-butyl Hydroxyhydrocinnamate, Caprylic/Capric Triglyceride, Ethylhexylglycerin, Stearalkonium Hectorite, Polyglyceryl-3 Diisostearate, Rosa Damascena Flower Extract, Sodium DNA, Disodium EDTA, Panthenol, Glycerin, Ceramide NP, Hydrogenated Lecithin, Hyaluronic Acid, Hydrolyzed Collagen",
+   "evidenceActives": "dimethicone (#20 on list, moderate evidence); panthenol (#29 on list, moderate evidence); glycerin (#30 on list, strong evidence); ceramide np (#31 on list, moderate evidence); hyaluronic acid (#33 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing"
@@ -4041,7 +4259,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
-   "inci:partial"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -4049,25 +4269,89 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "partial",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "PDRN, Hyaluronic Acid, Collagen, and moisturizing lip-care ingredients.",
-   "inciNote": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 0.5,
-   "actives": [],
-   "support": [],
+   "inci": "full",
+   "inciSource": "ANUA official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://anua.us/products/pdrn-lip-serum",
+   "inciSourceRegion": "US",
+   "inciMatchedTitle": "PDRN Lip Serum",
+   "inciMatchScore": 0.88,
+   "inciText": "Polyisobutene, Diisostearyl Malate, Polyglyceryl-2 Triisostearate, Dipentaerythrityl Hexahydroxystearate/Hexastearate/Hexarosinate, Octyldodecanol, Microcrystalline Wax, Bis-Diglyceryl Polyacyladipate-2, Phytosteryl/Isostearyl/Cetyl/Stearyl/Behenyl Dimer Dilinoleate, Polyglyceryl-3 Polyricinoleate, 1,2-Hexanediol, Dextrin Palmitate, Silica Dimethyl Silylate, Simmondsia Chinensis (Jojooba) Seed Oil, Aqua/Water, Synthetic Wax, Pentylene Glycol, Ethylene/Propylene Copolymer, Butylene Glycol, Caprylyl Glycol, Dimethicone, Pentaerythrityl Tetra-di-t-butyl Hydroxyhydrocinnamate, Caprylic/Capric Triglyceride, Ethylhexylglycerin, Stearalkonium Hectorite, Polyglyceryl-3 Diisostearate, Rosa Damascena Flower Extract, Sodium DNA, Disodium EDTA, Panthenol, Glycerin, Ceramide NP, Hydrogenated Lecithin, Hyaluronic Acid, Hydrolyzed Collagen",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 0.97,
+   "actives": [
+    {
+     "name": "simmondsia chinensis seed oil",
+     "grade": "B",
+     "position": 13,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 20,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "sodium dna",
+     "grade": "B",
+     "position": 27,
+     "core": false,
+     "trace": true,
+     "src": "pdrn"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 29,
+     "core": true,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 30,
+     "core": true,
+     "trace": true,
+     "src": "glycerin"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 31,
+     "core": true,
+     "trace": true,
+     "src": "ceramide"
+    },
+    {
+     "name": "hyaluronic acid",
+     "grade": "B",
+     "position": 33,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "butylene glycol",
+    "dimethicone",
+    "panthenol",
+    "glycerin",
+    "ceramide np",
+    "hyaluronic acid"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -6974,17 +7258,18 @@ const NXPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "Cherry / acerola",
   "featureLine": "Lip balm",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
+   "butyrospermum parkii butter high on the INCI list (moderate evidence); tocopherol high on the INCI list (moderate evidence)",
    "Well-reviewed: 4.4★ from 48,437 ratings"
   ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): aroma"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 6.3,
+   "skin": 8.5,
+   "trust": 8.5,
    "experience": 8.2
   },
   "fullSpec": {
@@ -7002,14 +7287,17 @@ const NXPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.4/5 (48,437 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-cherry-shine-lip-balm-89042560204730213.html",
+   "inciMatchedName": "nivea cherry shine lip balm 89042560204730213 (name match 94%)",
+   "inciList": "Helianthus Annuus Hybrid Oil, Ricinus Communis Seed Oil, Helianthus Annuus Seed Cera, Hydrogenated Rapeseed Oil, Butyrospermum Parkii Butter, Aroma, CI 15850, Creatine, Ascorbyl Palmitate, Helianthus Annuus Seed Oil, Tocopherol, Ceramide NP, Lecithin, Olea Europaea Fruit Oil, 1-Methylhydantoin-2-Imide, CI 77492, CI 77499, Ceramide NP",
+   "evidenceActives": "butyrospermum parkii butter (#5 on list, moderate evidence); tocopherol (#11 on list, moderate evidence); ceramide np (#12 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): aroma (−1.5)",
    "maker": "Beiersdorf — Global FMCG or beauty group",
    "declaredManufacturer": "Nivea India Ltd. (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.4★ from 48,437 ratings"
+   "buyerEvidence": "4.4★ from 48,437 ratings",
+   "concernBasis": "Irritation — ceramide np #12 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/e/5/3/-enriched-transparent-original-imahguwnfz2shgnw.png?q=90",
@@ -7028,7 +7316,9 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
-   "inci:none"
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -7036,27 +7326,81 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-cherry-shine-lip-balm-89042560204730213.html",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "nivea cherry shine lip balm 89042560204730213",
+   "inciMatchScore": 0.94,
+   "inciText": "Helianthus Annuus Hybrid Oil, Ricinus Communis Seed Oil, Helianthus Annuus Seed Cera, Hydrogenated Rapeseed Oil, Butyrospermum Parkii Butter, Aroma, CI 15850, Creatine, Ascorbyl Palmitate, Helianthus Annuus Seed Oil, Tocopherol, Ceramide NP, Lecithin, Olea Europaea Fruit Oil, 1-Methylhydantoin-2-Imide, CI 77492, CI 77499, Ceramide NP",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.94,
+   "actives": [
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "ascorbyl palmitate",
+     "grade": "C",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "helianthus annuus seed oil",
+     "grade": "B",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 11,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 12,
+     "core": true,
+     "trace": false,
+     "src": "ceramide"
+    }
+   ],
+   "support": [
+    "butyrospermum parkii butter",
+    "ceramide np"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "aroma"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Beiersdorf",
     "kind": "global",
@@ -7177,17 +7521,18 @@ const NXPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "Cherry / acerola",
   "featureLine": "Lip balm",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
+   "butyrospermum parkii butter high on the INCI list (moderate evidence); tocopherol high on the INCI list (moderate evidence)",
    "Well-reviewed: 4.3★ from 42,335 ratings"
   ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): aroma"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 6.3,
+   "skin": 8.5,
+   "trust": 8.5,
    "experience": 7.9
   },
   "fullSpec": {
@@ -7205,14 +7550,17 @@ const NXPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.3/5 (42,335 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-cherry-shine-lip-balm-89042560204730213.html",
+   "inciMatchedName": "nivea cherry shine lip balm 89042560204730213 (name match 94%)",
+   "inciList": "Helianthus Annuus Hybrid Oil, Ricinus Communis Seed Oil, Helianthus Annuus Seed Cera, Hydrogenated Rapeseed Oil, Butyrospermum Parkii Butter, Aroma, CI 15850, Creatine, Ascorbyl Palmitate, Helianthus Annuus Seed Oil, Tocopherol, Ceramide NP, Lecithin, Olea Europaea Fruit Oil, 1-Methylhydantoin-2-Imide, CI 77492, CI 77499, Ceramide NP",
+   "evidenceActives": "butyrospermum parkii butter (#5 on list, moderate evidence); tocopherol (#11 on list, moderate evidence); ceramide np (#12 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): aroma (−1.5)",
    "maker": "Beiersdorf — Global FMCG or beauty group",
    "declaredManufacturer": "BEIERSDORF AG (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.3★ from 42,335 ratings"
+   "buyerEvidence": "4.3★ from 42,335 ratings",
+   "concernBasis": "Irritation — ceramide np #12 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/e/z/a/-enriched-transparent-original-imah2yqhvsts9xcy.png?q=90",
@@ -7231,7 +7579,9 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
-   "inci:none"
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -7239,27 +7589,81 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-cherry-shine-lip-balm-89042560204730213.html",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "nivea cherry shine lip balm 89042560204730213",
+   "inciMatchScore": 0.94,
+   "inciText": "Helianthus Annuus Hybrid Oil, Ricinus Communis Seed Oil, Helianthus Annuus Seed Cera, Hydrogenated Rapeseed Oil, Butyrospermum Parkii Butter, Aroma, CI 15850, Creatine, Ascorbyl Palmitate, Helianthus Annuus Seed Oil, Tocopherol, Ceramide NP, Lecithin, Olea Europaea Fruit Oil, 1-Methylhydantoin-2-Imide, CI 77492, CI 77499, Ceramide NP",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.94,
+   "actives": [
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "ascorbyl palmitate",
+     "grade": "C",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "helianthus annuus seed oil",
+     "grade": "B",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 11,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 12,
+     "core": true,
+     "trace": false,
+     "src": "ceramide"
+    }
+   ],
+   "support": [
+    "butyrospermum parkii butter",
+    "ceramide np"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "aroma"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Beiersdorf",
     "kind": "global",
@@ -7485,17 +7889,18 @@ const NXPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "Strawberry",
   "featureLine": "Lip balm",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
+   "cera alba high on the INCI list (moderate evidence); butyrospermum parkii butter high on the INCI list (moderate evidence)",
    "Well-reviewed: 4.3★ from 30,395 ratings"
   ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): aroma"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 6.3,
+   "skin": 8.5,
+   "trust": 8.5,
    "experience": 7.9
   },
   "fullSpec": {
@@ -7513,11 +7918,13 @@ const NXPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.3/5 (30,395 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-strawberry-shine-lip-balm-89042560204970213.html",
+   "inciMatchedName": "nivea strawberry shine lip balm 89042560204970213 (name match 94%)",
+   "inciList": "Octyldodecanol, Ricinus Communis Seed Oil, Cera Alba, Cocoglycerides, Bis-Diglyceryl Polyacyladipate-2, Butyrospermum Parkii Butter, Hydrogenated Castor Oil, Helianthus Annuus Seed Cera, Persea Gratissima Oil, Simmondsia Chinensis Seed Oil, Fragaria Ananassa Fruit Juice, Tocopherol, Ascorbyl Palmitate, Aqua, Propylene Glycol, Mica, BHT, Aroma, CI 15985, CI 77891, CI 15850",
+   "evidenceActives": "cera alba (#3 on list, moderate evidence); butyrospermum parkii butter (#6 on list, moderate evidence); tocopherol (#12 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): aroma (−1.5)",
    "maker": "Beiersdorf — Global FMCG or beauty group",
    "declaredManufacturer": "Nivea India Ltd. (as printed on the Flipkart listing — not scored)",
    "buyerEvidence": "4.3★ from 30,395 ratings"
@@ -7539,7 +7946,8 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -7547,27 +7955,80 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-strawberry-shine-lip-balm-89042560204970213.html",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "nivea strawberry shine lip balm 89042560204970213",
+   "inciMatchScore": 0.94,
+   "inciText": "Octyldodecanol, Ricinus Communis Seed Oil, Cera Alba, Cocoglycerides, Bis-Diglyceryl Polyacyladipate-2, Butyrospermum Parkii Butter, Hydrogenated Castor Oil, Helianthus Annuus Seed Cera, Persea Gratissima Oil, Simmondsia Chinensis Seed Oil, Fragaria Ananassa Fruit Juice, Tocopherol, Ascorbyl Palmitate, Aqua, Propylene Glycol, Mica, BHT, Aroma, CI 15985, CI 77891, CI 15850",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.95,
+   "actives": [
+    {
+     "name": "cera alba",
+     "grade": "B",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "simmondsia chinensis seed oil",
+     "grade": "B",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 12,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "ascorbyl palmitate",
+     "grade": "C",
+     "position": 13,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "butyrospermum parkii butter"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "aroma"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Beiersdorf",
     "kind": "global",
@@ -7586,15 +8047,16 @@ const NXPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "Licorice + Vitamin E + Coconut",
   "featureLine": "Lip balm",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "Ingredients are named by trade names (“Vitamin C”, “Aloe Vera”), not INCI names — formula unscored"
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (The Man Company official website (www.themancompany.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "butyrospermum parkii butter high on the INCI list (moderate evidence); cera alba high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.3,
+   "ingredients": 7.9,
+   "skin": 10,
+   "trust": 8,
    "experience": 6.6
   },
   "fullSpec": {
@@ -7612,11 +8074,14 @@ const NXPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "3.9/5 (28,566 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Ingredients are named by trade names (“Vitamin C”, “Aloe Vera”), not INCI names — a seller summary, not the declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Specifications › Composition",
-   "inciList": "Unverified seller line: Liquorice Oil, Vitamin E, Jojoba Oil (Simmondsia Chinensis), Coconut Oil (Cocos nucifera), Almond Oil (Prunus amygdalsus), Bees Wax (Cera alba), Shea Butter (Vitellaria paradoxa), Argan Oil (Argania Spinosa), Olive Oil (Olea europaea)",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "The Man Company official website (www.themancompany.com) — product page › Ingredients",
+   "inciSourceUrl": "https://www.themancompany.com/products/lightening-lip-balm-bulk-buy",
+   "inciMatchedName": "Lightening Lip Balm - Bulk Buy (name match 100%)",
+   "listingIngredientLine": "Liquorice Oil, Vitamin E, Jojoba Oil (Simmondsia Chinensis), Coconut Oil (Cocos nucifera), Almond Oil (Prunus amygdalsus), Bees Wax (Cera alba), Shea Butter (Vitellaria paradoxa), Argan Oil (Argania Spinosa), Olive Oil (Olea europaea) (as printed on the Flipkart listing — incomplete, not scored)",
+   "inciList": "Butyrospermum Parkii (Shea) Butter, Theobroma Cacao Seed Butter, Cera Alba (Beeswax), Homosalate, Octyl Methoxycinnamate, Glycyrrhiza Glabra (Licorice) Root Oil, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Argania Spinosa Kernel Oil, Olea Europaea (Olive) Fruit Oil, Cocos Nucifera Oil, Flavour, Vitamine E, Butylated Hydroxytoluene",
+   "evidenceActives": "butyrospermum parkii butter (#1 on list, moderate evidence); cera alba (#3 on list, moderate evidence); prunus amygdalus dulcis oil (#7 on list, moderate evidence); cocos nucifera oil (#10 on list, limited evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Emami — Established / listed Indian FMCG house",
    "declaredManufacturer": "Helios Lifestyle Private Limited (as printed on the Flipkart listing — not scored)",
    "buyerEvidence": "3.9★ from 28,566 ratings"
@@ -7642,7 +8107,9 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:3.5",
    "store:flipkart",
-   "inci:partial"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -7650,25 +8117,92 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "partial",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Specifications › Composition",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Liquorice Oil, Vitamin E, Jojoba Oil (Simmondsia Chinensis), Coconut Oil (Cocos nucifera), Almond Oil (Prunus amygdalsus), Bees Wax (Cera alba), Shea Butter (Vitellaria paradoxa), Argan Oil (Argania Spinosa), Olive Oil (Olea europaea)",
-   "inciNote": "Ingredients are named by trade names (“Vitamin C”, “Aloe Vera”), not INCI names — a seller summary, not the declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 1,
-   "actives": [],
-   "support": [],
+   "inci": "full",
+   "inciSource": "The Man Company official website (www.themancompany.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.themancompany.com/products/lightening-lip-balm-bulk-buy",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Lightening Lip Balm - Bulk Buy",
+   "inciMatchScore": 1,
+   "inciText": "Butyrospermum Parkii (Shea) Butter, Theobroma Cacao Seed Butter, Cera Alba (Beeswax), Homosalate, Octyl Methoxycinnamate, Glycyrrhiza Glabra (Licorice) Root Oil, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Argania Spinosa Kernel Oil, Olea Europaea (Olive) Fruit Oil, Cocos Nucifera Oil, Flavour, Vitamine E, Butylated Hydroxytoluene",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 1,
+   "recognised": 0.92,
+   "actives": [
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 1,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "theobroma cacao seed butter",
+     "grade": "C",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "striae"
+    },
+    {
+     "name": "cera alba",
+     "grade": "B",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "homosalate",
+     "grade": "A",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "ethylhexyl methoxycinnamate",
+     "grade": "A",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "prunus amygdalus dulcis oil",
+     "grade": "B",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "argania spinosa kernel oil",
+     "grade": "B",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "cocos nucifera oil",
+     "grade": "C",
+     "position": 10,
+     "core": true,
+     "trace": false,
+     "src": "squalane"
+    }
+   ],
+   "support": [
+    "butyrospermum parkii butter"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -8452,17 +8986,18 @@ const NXPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Lip balm",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
+   "butyrospermum parkii butter high on the INCI list (moderate evidence); glycerin high on the INCI list (strong evidence)",
    "Well-reviewed: 4.5★ from 18,052 ratings"
   ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): aroma"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 5.4,
+   "skin": 8.5,
+   "trust": 8.5,
    "experience": 8.5
   },
   "fullSpec": {
@@ -8480,11 +9015,13 @@ const NXPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.5/5 (18,052 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-blackberry-shine-lip-balm-89042560205720213.html",
+   "inciMatchedName": "nivea blackberry shine lip balm 89042560205720213 (name match 94%)",
+   "inciList": "Ricinus Communis Seed Oil, Polyisobutene, Octyldodecanol, Pentaerythrityl Tetraisostearate, Hydrogenated Polydecene, Candelilla Cera, Butyrospermum Parkii Butter, Cera Microcristallina, Isopropyl Palmitate, Synthetic Wax, Polyglyceryl-3 Diisostearate, Glycerin, Aqua, Mica, Silica, Propylene Glycol, BHT, Aroma, CI 77891, CI 15850, CI 77491, CI 42090",
+   "evidenceActives": "butyrospermum parkii butter (#7 on list, moderate evidence); glycerin (#12 on list, strong evidence)",
+   "safetyFlags": "Added fragrance (parfum): aroma (−1.5)",
    "maker": "Beiersdorf — Global FMCG or beauty group",
    "declaredManufacturer": "Nivea India Private Limited..... (as printed on the Flipkart listing — not scored)",
    "buyerEvidence": "4.5★ from 18,052 ratings"
@@ -8505,7 +9042,8 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.5",
    "store:flipkart",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -8513,27 +9051,57 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-blackberry-shine-lip-balm-89042560205720213.html",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "nivea blackberry shine lip balm 89042560205720213",
+   "inciMatchScore": 0.94,
+   "inciText": "Ricinus Communis Seed Oil, Polyisobutene, Octyldodecanol, Pentaerythrityl Tetraisostearate, Hydrogenated Polydecene, Candelilla Cera, Butyrospermum Parkii Butter, Cera Microcristallina, Isopropyl Palmitate, Synthetic Wax, Polyglyceryl-3 Diisostearate, Glycerin, Aqua, Mica, Silica, Propylene Glycol, BHT, Aroma, CI 77891, CI 15850, CI 77491, CI 42090",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.95,
+   "actives": [
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 12,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    }
+   ],
+   "support": [
+    "butyrospermum parkii butter",
+    "glycerin"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "aroma"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Beiersdorf",
     "kind": "global",
@@ -8819,15 +9387,17 @@ const NXPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "Strawberry",
   "featureLine": "Lip balm",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "cera alba high on the INCI list (moderate evidence); butyrospermum parkii butter high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): aroma"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 6.3,
+   "skin": 8.5,
+   "trust": 8.5,
    "experience": 7.6
   },
   "fullSpec": {
@@ -8845,11 +9415,13 @@ const NXPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.2/5 (15,783 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-strawberry-shine-lip-balm-89042560204970213.html",
+   "inciMatchedName": "nivea strawberry shine lip balm 89042560204970213 (name match 94%)",
+   "inciList": "Octyldodecanol, Ricinus Communis Seed Oil, Cera Alba, Cocoglycerides, Bis-Diglyceryl Polyacyladipate-2, Butyrospermum Parkii Butter, Hydrogenated Castor Oil, Helianthus Annuus Seed Cera, Persea Gratissima Oil, Simmondsia Chinensis Seed Oil, Fragaria Ananassa Fruit Juice, Tocopherol, Ascorbyl Palmitate, Aqua, Propylene Glycol, Mica, BHT, Aroma, CI 15985, CI 77891, CI 15850",
+   "evidenceActives": "cera alba (#3 on list, moderate evidence); butyrospermum parkii butter (#6 on list, moderate evidence); tocopherol (#12 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): aroma (−1.5)",
    "maker": "Beiersdorf — Global FMCG or beauty group",
    "declaredManufacturer": "BEIERSDORF AG (as printed on the Flipkart listing — not scored)",
    "buyerEvidence": "4.2★ from 15,783 ratings"
@@ -8871,7 +9443,8 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -8879,27 +9452,80 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-strawberry-shine-lip-balm-89042560204970213.html",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "nivea strawberry shine lip balm 89042560204970213",
+   "inciMatchScore": 0.94,
+   "inciText": "Octyldodecanol, Ricinus Communis Seed Oil, Cera Alba, Cocoglycerides, Bis-Diglyceryl Polyacyladipate-2, Butyrospermum Parkii Butter, Hydrogenated Castor Oil, Helianthus Annuus Seed Cera, Persea Gratissima Oil, Simmondsia Chinensis Seed Oil, Fragaria Ananassa Fruit Juice, Tocopherol, Ascorbyl Palmitate, Aqua, Propylene Glycol, Mica, BHT, Aroma, CI 15985, CI 77891, CI 15850",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.95,
+   "actives": [
+    {
+     "name": "cera alba",
+     "grade": "B",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "simmondsia chinensis seed oil",
+     "grade": "B",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 12,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "ascorbyl palmitate",
+     "grade": "C",
+     "position": 13,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "butyrospermum parkii butter"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "aroma"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Beiersdorf",
     "kind": "global",
@@ -10269,15 +10895,18 @@ const NXPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "Rose",
   "featureLine": "Lip balm",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "butyrospermum parkii butter high on the INCI list (moderate evidence); glycerin high on the INCI list (strong evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): perfume",
+   "Essential oil / volatile sensitiser: rosa damascena flower oil"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 5.7,
+   "skin": 8,
+   "trust": 8.5,
    "experience": 7.2
   },
   "fullSpec": {
@@ -10295,11 +10924,13 @@ const NXPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.1/5 (10,017 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-soft-rose-lip-balm-89042560204590213.html",
+   "inciMatchedName": "nivea soft rose lip balm 89042560204590213 (name match 94%)",
+   "inciList": "Cera Microcristallina, Octyldodecanol, Hydrogenated Polydecene, Cetyl Palmitate, Ricinus Communis Seed Oil, Myristyl Myristate, VP/Hexadecene Copolymer, Cetearyl Alcohol, Polyglyceryl-3 Diisostearate, Mica, Butyrospermum Parkii Butter, Cocoglycerides, Pentaerythrityl Tetraisostearate, C20-40 Alkyl Stearate, Glycerin, Copernicia Cerifera Cera, Rosa Gallica Flower Extract, Rosa Damascena Flower Oil, Glyceryl Glucoside, Aqua, Cera Alba, Perfume, CI 77891, CI 77492",
+   "evidenceActives": "butyrospermum parkii butter (#11 on list, moderate evidence); glycerin (#14 on list, strong evidence); cera alba (#20 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): perfume (−1.5); Essential oil / volatile sensitiser: rosa damascena flower oil (−0.5)",
    "maker": "Beiersdorf — Global FMCG or beauty group",
    "declaredManufacturer": "nivea india ltd (as printed on the Flipkart listing — not scored)",
    "buyerEvidence": "4.1★ from 10,017 ratings"
@@ -10321,7 +10952,8 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -10329,27 +10961,74 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-soft-rose-lip-balm-89042560204590213.html",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "nivea soft rose lip balm 89042560204590213",
+   "inciMatchScore": 0.94,
+   "inciText": "Cera Microcristallina, Octyldodecanol, Hydrogenated Polydecene, Cetyl Palmitate, Ricinus Communis Seed Oil, Myristyl Myristate, VP/Hexadecene Copolymer, Cetearyl Alcohol, Polyglyceryl-3 Diisostearate, Mica, Butyrospermum Parkii Butter, Cocoglycerides, Pentaerythrityl Tetraisostearate, C20-40 Alkyl Stearate, Glycerin, Copernicia Cerifera Cera, Rosa Gallica Flower Extract, Rosa Damascena Flower Oil, Glyceryl Glucoside, Aqua, Cera Alba, Perfume, CI 77891, CI 77492",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.96,
+   "actives": [
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 11,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 14,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "cera alba",
+     "grade": "B",
+     "position": 20,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    }
+   ],
+   "support": [
+    "butyrospermum parkii butter",
+    "glycerin"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "essentialOil",
+     "label": "Essential oil / volatile sensitiser",
+     "names": [
+      "rosa damascena flower oil"
+     ],
+     "penalty": 0.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Beiersdorf",
     "kind": "global",
@@ -10594,15 +11273,17 @@ const NXPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "Almond + Vitamin E + Olive",
   "featureLine": "Lip balm",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (The Man Company official website (www.themancompany.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "butyrospermum parkii butter high on the INCI list (moderate evidence); cera alba high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "Only 2 ingredients named — formula unscored"
+   "Added fragrance (parfum): fragrance"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.3,
+   "ingredients": 7.3,
+   "skin": 8.5,
+   "trust": 8,
    "experience": 6.9
   },
   "fullSpec": {
@@ -10620,11 +11301,14 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "4/5 (8,951 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Specifications › Composition",
-   "inciList": "Unverified seller line: Vitamin E, Almond Oil",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "The Man Company official website (www.themancompany.com) — product page › Ingredients",
+   "inciSourceUrl": "https://www.themancompany.com/products/lip-balm-vitamin-e-almond-oil-2",
+   "inciMatchedName": "Lip Balm | Vitamin E & Almond Oil (name match 95%)",
+   "listingIngredientLine": "Vitamin E, Almond Oil (as printed on the Flipkart listing — incomplete, not scored)",
+   "inciList": "Butyrospermum Parkii, Theobroma Cacao Seed Butter, Cera Alba (Beeswax), Prunus Amygdalus, Dulcis (Sweet Almond) Oil, Argania Spinosa Kernel Oil, Olea Europaea (Olive) Fruit Oil, Cocos Nucifera (Coconut) Oil, Tocopherol, Fragrance",
+   "evidenceActives": "butyrospermum parkii butter (#1 on list, moderate evidence); cera alba (#3 on list, moderate evidence); cocos nucifera oil (#8 on list, limited evidence); tocopherol (#9 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Emami — Established / listed Indian FMCG house",
    "declaredManufacturer": "Helios Lifestyle Private Limited (as printed on the Flipkart listing — not scored)",
    "buyerEvidence": "4★ from 8,951 ratings"
@@ -10651,7 +11335,8 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
-   "inci:partial"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -10659,27 +11344,88 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "partial",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Specifications › Composition",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Vitamin E, Almond Oil",
-   "inciNote": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
+   "inci": "full",
+   "inciSource": "The Man Company official website (www.themancompany.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.themancompany.com/products/lip-balm-vitamin-e-almond-oil-2",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Lip Balm | Vitamin E & Almond Oil",
+   "inciMatchScore": 0.95,
+   "inciText": "Butyrospermum Parkii, Theobroma Cacao Seed Butter, Cera Alba (Beeswax), Prunus Amygdalus, Dulcis (Sweet Almond) Oil, Argania Spinosa Kernel Oil, Olea Europaea (Olive) Fruit Oil, Cocos Nucifera (Coconut) Oil, Tocopherol, Fragrance",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 1,
    "recognised": 1,
-   "actives": [],
-   "support": [],
+   "actives": [
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 1,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "theobroma cacao seed butter",
+     "grade": "C",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "striae"
+    },
+    {
+     "name": "cera alba",
+     "grade": "B",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "argania spinosa kernel oil",
+     "grade": "B",
+     "position": 6,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "cocos nucifera oil",
+     "grade": "C",
+     "position": 8,
+     "core": true,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 9,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "butyrospermum parkii butter"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Emami",
     "kind": "india",
@@ -11218,15 +11964,17 @@ const NXPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Lip balm",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "butyrospermum parkii butter high on the INCI list (moderate evidence); glycerin high on the INCI list (strong evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): aroma"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 5.4,
+   "skin": 8.5,
+   "trust": 8.5,
    "experience": 7.2
   },
   "fullSpec": {
@@ -11244,11 +11992,13 @@ const NXPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.1/5 (7,666 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-peach-shine-lip-balm-89042560204110213.html",
+   "inciMatchedName": "nivea peach shine lip balm 89042560204110213 (name match 94%)",
+   "inciList": "Octyldodecanol, Polyisobutene, Ricinus Communis Seed Oil, Pentaerythrityl Tetraisostearate, Hydrogenated Polydecene, Candelilla Cera, Butyrospermum Parkii Butter, Cera Microcristallina, Isopropyl Palmitate, Synthetic Wax, Polyglyceryl-3 Diisostearate, Glycerin, Glyceryl Glucoside, Aqua, Prunus Persica Juice, Mica, Propylene Glycol, BHT, Aroma, CI 15985, CI 15850, CI 77891",
+   "evidenceActives": "butyrospermum parkii butter (#7 on list, moderate evidence); glycerin (#12 on list, strong evidence)",
+   "safetyFlags": "Added fragrance (parfum): aroma (−1.5)",
    "maker": "Beiersdorf — Global FMCG or beauty group",
    "declaredManufacturer": "nivea india ltd (as printed on the Flipkart listing — not scored)",
    "buyerEvidence": "4.1★ from 7,666 ratings"
@@ -11269,7 +12019,8 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -11277,27 +12028,57 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-peach-shine-lip-balm-89042560204110213.html",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "nivea peach shine lip balm 89042560204110213",
+   "inciMatchScore": 0.94,
+   "inciText": "Octyldodecanol, Polyisobutene, Ricinus Communis Seed Oil, Pentaerythrityl Tetraisostearate, Hydrogenated Polydecene, Candelilla Cera, Butyrospermum Parkii Butter, Cera Microcristallina, Isopropyl Palmitate, Synthetic Wax, Polyglyceryl-3 Diisostearate, Glycerin, Glyceryl Glucoside, Aqua, Prunus Persica Juice, Mica, Propylene Glycol, BHT, Aroma, CI 15985, CI 15850, CI 77891",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.95,
+   "actives": [
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 12,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    }
+   ],
+   "support": [
+    "butyrospermum parkii butter",
+    "glycerin"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "aroma"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Beiersdorf",
     "kind": "global",
@@ -11316,15 +12097,17 @@ const NXPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "Watermelon",
   "featureLine": "Lip balm",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "butyrospermum parkii butter high on the INCI list (moderate evidence); tocopherol high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): aroma"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 5.8,
+   "skin": 8.5,
+   "trust": 8.5,
    "experience": 7.2
   },
   "fullSpec": {
@@ -11342,11 +12125,13 @@ const NXPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.1/5 (7,674 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-watermelon-shine-lip-balm-89042560205580213.html",
+   "inciMatchedName": "nivea watermelon shine lip balm 89042560205580213 (name match 94%)",
+   "inciList": "Helianthus Annuus Hybrid Oil, Ricinus Communis Seed Oil, Helianthus Annuus Seed Cera, Hydrogenated Rapeseed Oil, Butyrospermum Parkii Butter, Aroma, Tocopherol, Ascorbyl Palmitate, Helianthus Annuus Seed Oil, Lecithin, CI 15850, CI 77492, CI 77891",
+   "evidenceActives": "butyrospermum parkii butter (#5 on list, moderate evidence); tocopherol (#7 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): aroma (−1.5)",
    "maker": "Beiersdorf — Global FMCG or beauty group",
    "declaredManufacturer": "Nivea India Pvt Ltd. (as printed on the Flipkart listing — not scored)",
    "buyerEvidence": "4.1★ from 7,674 ratings"
@@ -11368,7 +12153,8 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -11376,27 +12162,72 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-watermelon-shine-lip-balm-89042560205580213.html",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "nivea watermelon shine lip balm 89042560205580213",
+   "inciMatchScore": 0.94,
+   "inciText": "Helianthus Annuus Hybrid Oil, Ricinus Communis Seed Oil, Helianthus Annuus Seed Cera, Hydrogenated Rapeseed Oil, Butyrospermum Parkii Butter, Aroma, Tocopherol, Ascorbyl Palmitate, Helianthus Annuus Seed Oil, Lecithin, CI 15850, CI 77492, CI 77891",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "ascorbyl palmitate",
+     "grade": "C",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "helianthus annuus seed oil",
+     "grade": "B",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    }
+   ],
+   "support": [
+    "butyrospermum parkii butter"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "aroma"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Beiersdorf",
     "kind": "global",
@@ -11955,17 +12786,18 @@ const NXPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Lip balm",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
+   "butyrospermum parkii butter high on the INCI list (moderate evidence); glycerin high on the INCI list (strong evidence)",
    "Well-reviewed: 4.4★ from 5,802 ratings"
   ],
   "cons": [
-   "Only 4 ingredients named — formula unscored"
+   "Added fragrance (parfum): aroma"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.8,
+   "ingredients": 5.4,
+   "skin": 8.5,
+   "trust": 8.5,
    "experience": 8.2
   },
   "fullSpec": {
@@ -11983,11 +12815,14 @@ const NXPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.4/5 (5,802 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Specifications › Composition",
-   "inciList": "Unverified seller line: Shea Butter, Natural Oils, Vitamin C, Vitamin E",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-peach-shine-lip-balm-89042560204110213.html",
+   "inciMatchedName": "nivea peach shine lip balm 89042560204110213 (name match 94%)",
+   "listingIngredientLine": "Shea Butter, Natural Oils, Vitamin C, Vitamin E (as printed on the Flipkart listing — incomplete, not scored)",
+   "inciList": "Octyldodecanol, Polyisobutene, Ricinus Communis Seed Oil, Pentaerythrityl Tetraisostearate, Hydrogenated Polydecene, Candelilla Cera, Butyrospermum Parkii Butter, Cera Microcristallina, Isopropyl Palmitate, Synthetic Wax, Polyglyceryl-3 Diisostearate, Glycerin, Glyceryl Glucoside, Aqua, Prunus Persica Juice, Mica, Propylene Glycol, BHT, Aroma, CI 15985, CI 15850, CI 77891",
+   "evidenceActives": "butyrospermum parkii butter (#7 on list, moderate evidence); glycerin (#12 on list, strong evidence)",
+   "safetyFlags": "Added fragrance (parfum): aroma (−1.5)",
    "maker": "Beiersdorf — Global FMCG or beauty group",
    "declaredManufacturer": "nivra india ltd (as printed on the Flipkart listing — not scored)",
    "buyerEvidence": "4.4★ from 5,802 ratings"
@@ -12008,7 +12843,8 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
-   "inci:partial"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -12016,27 +12852,57 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "partial",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Specifications › Composition",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Shea Butter, Natural Oils, Vitamin C, Vitamin E",
-   "inciNote": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 1,
-   "actives": [],
-   "support": [],
+   "inci": "full",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-peach-shine-lip-balm-89042560204110213.html",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "nivea peach shine lip balm 89042560204110213",
+   "inciMatchScore": 0.94,
+   "inciText": "Octyldodecanol, Polyisobutene, Ricinus Communis Seed Oil, Pentaerythrityl Tetraisostearate, Hydrogenated Polydecene, Candelilla Cera, Butyrospermum Parkii Butter, Cera Microcristallina, Isopropyl Palmitate, Synthetic Wax, Polyglyceryl-3 Diisostearate, Glycerin, Glyceryl Glucoside, Aqua, Prunus Persica Juice, Mica, Propylene Glycol, BHT, Aroma, CI 15985, CI 15850, CI 77891",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 1,
+   "recognised": 0.95,
+   "actives": [
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 12,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    }
+   ],
+   "support": [
+    "butyrospermum parkii butter",
+    "glycerin"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "aroma"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Beiersdorf",
     "kind": "global",
@@ -12689,17 +13555,18 @@ const NXPRODUCTS = [
   "capacityLine": "16 g (pack of 2)",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Lip balm · SPF 15 · ₹2500/100g",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
+   "cera alba high on the INCI list (moderate evidence); butyrospermum parkii butter high on the INCI list (moderate evidence)",
    "Well-reviewed: 4.3★ from 5,396 ratings"
   ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): aroma"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 7.6,
+   "skin": 8.5,
+   "trust": 8.5,
    "experience": 7.9
   },
   "fullSpec": {
@@ -12718,11 +13585,13 @@ const NXPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.3/5 (5,396 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-men-active-lip-balm-89042560205100213.html",
+   "inciMatchedName": "nivea men active lip balm 89042560205100213 (name match 100%)",
+   "inciList": "Octyldodecanol, Ricinus Communis Seed Oil, Cera Alba, Helianthus Annuus Seed Cera, Butyrospermum Parkii Butter, Butyl Methoxydibenzoylmethane, Ethylhexyl Triazone, Hydrogenated Castor Oil, Tocopherol, Ascorbyl Palmitate, Helianthus Annuus Seed Oil, Aroma, CI 77891",
+   "evidenceActives": "cera alba (#3 on list, moderate evidence); butyrospermum parkii butter (#5 on list, moderate evidence); tocopherol (#9 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): aroma (−1.5)",
    "maker": "Beiersdorf — Global FMCG or beauty group",
    "declaredManufacturer": "Nivea India Pvt Ltd. (as printed on the Flipkart listing — not scored)",
    "buyerEvidence": "4.3★ from 5,396 ratings",
@@ -12749,7 +13618,8 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:flipkart",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -12757,27 +13627,96 @@ const NXPRODUCTS = [
    "derm": false,
    "men": true,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-men-active-lip-balm-89042560205100213.html",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "nivea men active lip balm 89042560205100213",
+   "inciMatchScore": 1,
+   "inciText": "Octyldodecanol, Ricinus Communis Seed Oil, Cera Alba, Helianthus Annuus Seed Cera, Butyrospermum Parkii Butter, Butyl Methoxydibenzoylmethane, Ethylhexyl Triazone, Hydrogenated Castor Oil, Tocopherol, Ascorbyl Palmitate, Helianthus Annuus Seed Oil, Aroma, CI 77891",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "cera alba",
+     "grade": "B",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "butyl methoxydibenzoylmethane",
+     "grade": "A",
+     "position": 6,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "ethylhexyl triazone",
+     "grade": "A",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 9,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "ascorbyl palmitate",
+     "grade": "C",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "helianthus annuus seed oil",
+     "grade": "B",
+     "position": 11,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    }
+   ],
+   "support": [
+    "butyrospermum parkii butter"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "aroma"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Beiersdorf",
     "kind": "global",
@@ -14010,17 +14949,17 @@ const NXPRODUCTS = [
   "capacityLine": "8 g",
   "materialLine": "Hyaluronic acid + Ceramides",
   "featureLine": "Lip balm · Fragrance-free · SPF 30 · ₹3550/100g",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Minimalist official website (beminimalist.co) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
+   "cera alba high on the INCI list (moderate evidence); butyrospermum parkii butter high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list",
    "Well-reviewed: 4.3★ from 4,128 ratings"
   ],
-  "cons": [
-   "Only 2 ingredients named — formula unscored"
-  ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.8,
+   "ingredients": 7.5,
+   "skin": 10,
+   "trust": 8.5,
    "experience": 7.9
   },
   "fullSpec": {
@@ -14039,13 +14978,17 @@ const NXPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.3/5 (4,128 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: Hyaluronic acid, Ceramides NP",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Minimalist official website (beminimalist.co) — product page › Ingredients",
+   "inciSourceUrl": "https://beminimalist.co/products/lip-balm-spf-30",
+   "inciMatchedName": "Lip Balm SPF 30 (name match 100%)",
+   "listingIngredientLine": "Hyaluronic acid, Ceramides NP (as printed on the Flipkart listing — incomplete, not scored)",
+   "inciList": "C12-18 Alkanoyl Glycerin/Sebacic Acid Copolymer, Hydrogenated Polyisobutene, Microcrystalline Wax, C18-38 Alkyl Hydroxystearoyl Stearate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Behenyl Alcohol, Persea Gratissima (Avocado) Oil, Diisopropyl Adipate, Propylene Glycol Dicaprylate/Dicaprate, Cera Alba, Cetearyl Alcohol, Neopentyl Glycol Diheptanoate, C12-15 Alkyl Benzoate, Diisopropyl Sebacate, Ethylhexyl Triazone, Butyrospermum Parkii (Shea) Butter, Candelilla Cera, Ozokerite, Hydrogenated Vegetable Oil, Ceteareth-20, Diisostearyl Malate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Tocopheryl Acetate, Propylene Glycol Dibenzoate, Sodium Hyaluronate, Ceramide NP, Ethylhexyl Palmitate, Trihydroxystearin, Glucomannan, BHT",
+   "evidenceActives": "cera alba (#8 on list, moderate evidence); butyrospermum parkii butter (#13 on list, moderate evidence); sodium hyaluronate (#22 on list, moderate evidence); ceramide np (#23 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
    "buyerEvidence": "4.3★ from 4,128 ratings",
+   "concernBasis": "Irritation — ceramide np #23 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
@@ -14073,7 +15016,10 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:flipkart",
-   "inci:partial"
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": true,
@@ -14081,25 +15027,94 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "partial",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Hyaluronic acid, Ceramides NP",
-   "inciNote": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 1,
-   "actives": [],
-   "support": [],
+   "inci": "full",
+   "inciSource": "Minimalist official website (beminimalist.co) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://beminimalist.co/products/lip-balm-spf-30",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Lip Balm SPF 30",
+   "inciMatchScore": 1,
+   "inciText": "C12-18 Alkanoyl Glycerin/Sebacic Acid Copolymer, Hydrogenated Polyisobutene, Microcrystalline Wax, C18-38 Alkyl Hydroxystearoyl Stearate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Behenyl Alcohol, Persea Gratissima (Avocado) Oil, Diisopropyl Adipate, Propylene Glycol Dicaprylate/Dicaprate, Cera Alba, Cetearyl Alcohol, Neopentyl Glycol Diheptanoate, C12-15 Alkyl Benzoate, Diisopropyl Sebacate, Ethylhexyl Triazone, Butyrospermum Parkii (Shea) Butter, Candelilla Cera, Ozokerite, Hydrogenated Vegetable Oil, Ceteareth-20, Diisostearyl Malate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Tocopheryl Acetate, Propylene Glycol Dibenzoate, Sodium Hyaluronate, Ceramide NP, Ethylhexyl Palmitate, Trihydroxystearin, Glucomannan, BHT",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 1,
+   "recognised": 0.89,
+   "actives": [
+    {
+     "name": "diethylamino hydroxybenzoyl hexyl benzoate",
+     "grade": "A",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "cera alba",
+     "grade": "B",
+     "position": 8,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "ethylhexyl triazone",
+     "grade": "A",
+     "position": 12,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 13,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "bis-ethylhexyloxyphenol methoxyphenyl triazine",
+     "grade": "A",
+     "position": 19,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 20,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 22,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 23,
+     "core": true,
+     "trace": false,
+     "src": "ceramide"
+    }
+   ],
+   "support": [
+    "butyrospermum parkii butter",
+    "sodium hyaluronate",
+    "ceramide np"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -14755,15 +15770,17 @@ const NXPRODUCTS = [
   "capacityLine": "5 g",
   "materialLine": "Vitamin C",
   "featureLine": "Lip balm · ₹6380/100g",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (The Derma Co official website (thedermaco.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "petrolatum high on the INCI list (strong evidence); butyrospermum parkii butter high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Hard abrasive particles (face): polyethylene"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6,
+   "ingredients": 9,
+   "skin": 9.2,
+   "trust": 8,
    "experience": 7.2
   },
   "fullSpec": {
@@ -14781,13 +15798,16 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "4.1/5 (3,395 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "The Derma Co official website (thedermaco.com) — product page › Ingredients",
+   "inciSourceUrl": "https://thedermaco.com/products/1-vitamin-c-brightening-lip-balm-4-5-g",
+   "inciMatchedName": "1% Vitamin C Brightening Lip Balm - 4.5g (name match 100%)",
+   "inciList": "Petrolatum,Hydrogenated Polyisobutene,PEG-40 Hydrogenated Castor Oil, Hydrogenated Vegetable Oil, Microcrystalline Wax, Ozokerite Wax, C12-15 Alkyl Benzoate, Ascorbyl Palmitate,Triisostearoyl Polyglyceryl-3 Dimer Dilinoleate,Paraffin Wax, Octyl Methoxycinnamate, Butyrospermum Parkii (Shea) Butter, Ricinus Communis (Castor) Seed Oil, Almond Oil, Propylene Glycol, Phenoxyethanol & Ethylhexylglycerin, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Ethylhexyl Palmitate/Trihydroxystearin/Sodium Hyaluronate, Niacinamide, Synthetic Beeswax, Polyethylene, Caprylic/Capric Triglyceride,Synthetic Wax, Propylene Glycol Dibenzoate, Phenyl Trimethicone, Tocopheryl Acetate, Simmondsia Chinensis (Jojoba) Seed Oil, Titanium Dioxide, Avocado Oil",
+   "evidenceActives": "petrolatum (#1 on list, strong evidence); butyrospermum parkii butter (#11 on list, moderate evidence); prunus amygdalus dulcis oil (#13 on list, moderate evidence); titanium dioxide (#27 on list, strong evidence)",
+   "safetyFlags": "Hard abrasive particles (face): polyethylene (−0.8)",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
-   "buyerEvidence": "4.1★ from 3,395 ratings"
+   "buyerEvidence": "4.1★ from 3,395 ratings",
+   "concernBasis": "Acne — niacinamide #18 on INCI; Dark spots — niacinamide #18 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/o/b/e/4-5-1-vitamin-c-brightening-lip-balm-protects-from-sun-damage-1-original-imaherzynbcrqyar.jpeg?q=90",
@@ -14812,7 +15832,11 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:flipkart",
-   "inci:none"
+   "target:acne",
+   "target:dark-spots",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -14820,27 +15844,122 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "The Derma Co official website (thedermaco.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thedermaco.com/products/1-vitamin-c-brightening-lip-balm-4-5-g",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "1% Vitamin C Brightening Lip Balm - 4.5g",
+   "inciMatchScore": 1,
+   "inciText": "Petrolatum,Hydrogenated Polyisobutene,PEG-40 Hydrogenated Castor Oil, Hydrogenated Vegetable Oil, Microcrystalline Wax, Ozokerite Wax, C12-15 Alkyl Benzoate, Ascorbyl Palmitate,Triisostearoyl Polyglyceryl-3 Dimer Dilinoleate,Paraffin Wax, Octyl Methoxycinnamate, Butyrospermum Parkii (Shea) Butter, Ricinus Communis (Castor) Seed Oil, Almond Oil, Propylene Glycol, Phenoxyethanol & Ethylhexylglycerin, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Ethylhexyl Palmitate/Trihydroxystearin/Sodium Hyaluronate, Niacinamide, Synthetic Beeswax, Polyethylene, Caprylic/Capric Triglyceride,Synthetic Wax, Propylene Glycol Dibenzoate, Phenyl Trimethicone, Tocopheryl Acetate, Simmondsia Chinensis (Jojoba) Seed Oil, Titanium Dioxide, Avocado Oil",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "petrolatum",
+     "grade": "A",
+     "position": 1,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "ascorbyl palmitate",
+     "grade": "C",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "ethylhexyl methoxycinnamate",
+     "grade": "A",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 11,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "prunus amygdalus dulcis oil",
+     "grade": "B",
+     "position": 13,
+     "core": true,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "diethylamino hydroxybenzoyl hexyl benzoate",
+     "grade": "A",
+     "position": 16,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 18,
+     "core": false,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 25,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "simmondsia chinensis seed oil",
+     "grade": "B",
+     "position": 26,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "titanium dioxide",
+     "grade": "A",
+     "position": 27,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    }
+   ],
+   "support": [
+    "petrolatum",
+    "butyrospermum parkii butter",
+    "niacinamide"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "abrasive",
+     "label": "Hard abrasive particles (face)",
+     "names": [
+      "polyethylene"
+     ],
+     "penalty": 0.8,
+     "src": "aadScrub"
+    }
+   ],
    "maker": {
     "parent": "Honasa Consumer (listed)",
     "kind": "india",
@@ -16438,17 +17557,18 @@ const NXPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Lip balm",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
+   "butyrospermum parkii butter high on the INCI list (moderate evidence); tocopherol high on the INCI list (moderate evidence)",
    "Well-reviewed: 4.4★ from 1,914 ratings"
   ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): aroma"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 5.8,
+   "skin": 8.5,
+   "trust": 8.5,
    "experience": 7.8
   },
   "fullSpec": {
@@ -16466,11 +17586,13 @@ const NXPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.4/5 (1,914 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-pomegranate-shine-lip-balm-89042560205340213.html",
+   "inciMatchedName": "nivea pomegranate shine lip balm 89042560205340213 (name match 94%)",
+   "inciList": "Helianthus Annuus Hybrid Oil, Ricinus Communis Seed Oil, Helianthus Annuus Seed Cera, Hydrogenated Rapeseed Oil, Butyrospermum Parkii Butter, Aroma, Tocopherol, Ascorbyl Palmitate, Helianthus Annuus Seed Oil, Lecithin, CI 45380, CI 15850, CI 77491, CI 77499",
+   "evidenceActives": "butyrospermum parkii butter (#5 on list, moderate evidence); tocopherol (#7 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): aroma (−1.5)",
    "maker": "Beiersdorf — Global FMCG or beauty group",
    "declaredManufacturer": "nivea india ltd (as printed on the Flipkart listing — not scored)",
    "buyerEvidence": "4.4★ from 1,914 ratings"
@@ -16491,7 +17613,8 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -16499,27 +17622,72 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-pomegranate-shine-lip-balm-89042560205340213.html",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "nivea pomegranate shine lip balm 89042560205340213",
+   "inciMatchScore": 0.94,
+   "inciText": "Helianthus Annuus Hybrid Oil, Ricinus Communis Seed Oil, Helianthus Annuus Seed Cera, Hydrogenated Rapeseed Oil, Butyrospermum Parkii Butter, Aroma, Tocopherol, Ascorbyl Palmitate, Helianthus Annuus Seed Oil, Lecithin, CI 45380, CI 15850, CI 77491, CI 77499",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "ascorbyl palmitate",
+     "grade": "C",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "helianthus annuus seed oil",
+     "grade": "B",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    }
+   ],
+   "support": [
+    "butyrospermum parkii butter"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "aroma"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Beiersdorf",
     "kind": "global",
@@ -16951,17 +18119,17 @@ const NXPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "Vitamin C + Squalane + Strawberry",
   "featureLine": "Lip balm",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Pilgrim official website (discoverpilgrim.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
+   "petrolatum high on the INCI list (strong evidence); prunus amygdalus dulcis oil high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list",
    "Well-reviewed: 4.3★ from 1,592 ratings"
   ],
-  "cons": [
-   "Only 3 ingredients named — formula unscored"
-  ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5.3,
+   "ingredients": 6.8,
+   "skin": 9,
+   "trust": 7,
    "experience": 7.4
   },
   "fullSpec": {
@@ -16979,11 +18147,14 @@ const NXPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.3/5 (1,592 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Only 3 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Specifications › Composition",
-   "inciList": "Unverified seller line: Sweet Almond Oil, Jojoba Oil, Squalane",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Pilgrim official website (discoverpilgrim.com) — product page › Ingredients",
+   "inciSourceUrl": "https://discoverpilgrim.com/products/vitamin-c-tinted-lip-balm",
+   "inciMatchedName": "Vitamin C Tinted Lip Balm (name match 100%)",
+   "listingIngredientLine": "Sweet Almond Oil, Jojoba Oil, Squalane (as printed on the Flipkart listing — incomplete, not scored)",
+   "inciList": "Petrolatum, Ethylhexyl Palmitate, Ricinus Communis (Castor) Seed Oil, Ethylhexyl Methoxycinnamate, Isopropyl Myristate, Caprylic Capric Triglyceride, Cetyl Alcohol, Microcrystalline Wax, Ozokerite Wax, Glyceryl Stearate, Sorbitan Tri Stearate, Flavour, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Simmondsia Chinensis (Jojoba) Seed Oil, Phenoxyethanol, Tocopheryl Acetate, Pentaerythrityl Tetra-di-t-butyl Hydroxyhydrocinnamate, Ascorbyl Tetraisopalmitate, Squalane, CI 15850, CI 77891, CI 19140, CI 45410, CI 77491, CI 77492, CI 42090",
+   "evidenceActives": "petrolatum (#1 on list, strong evidence); prunus amygdalus dulcis oil (#13 on list, moderate evidence); squalane (#19 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Heavenly Secrets — Indian D2C brand with its own product company",
    "declaredManufacturer": "Maxima Solutions, Plot No.- 56, Sector- IIDC, IIE, SIDCUL , Pantnagar District- Udham Singh Nagar, Uttarakhand, India - 263153 (as printed on the Flipkart listing — not scored)",
    "buyerEvidence": "4.3★ from 1,592 ratings"
@@ -17008,7 +18179,9 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
-   "inci:partial"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -17016,25 +18189,85 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "partial",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Specifications › Composition",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Sweet Almond Oil, Jojoba Oil, Squalane",
-   "inciNote": "Only 3 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 1,
-   "actives": [],
-   "support": [],
+   "inci": "full",
+   "inciSource": "Pilgrim official website (discoverpilgrim.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://discoverpilgrim.com/products/vitamin-c-tinted-lip-balm",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Vitamin C Tinted Lip Balm",
+   "inciMatchScore": 1,
+   "inciText": "Petrolatum, Ethylhexyl Palmitate, Ricinus Communis (Castor) Seed Oil, Ethylhexyl Methoxycinnamate, Isopropyl Myristate, Caprylic Capric Triglyceride, Cetyl Alcohol, Microcrystalline Wax, Ozokerite Wax, Glyceryl Stearate, Sorbitan Tri Stearate, Flavour, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Simmondsia Chinensis (Jojoba) Seed Oil, Phenoxyethanol, Tocopheryl Acetate, Pentaerythrityl Tetra-di-t-butyl Hydroxyhydrocinnamate, Ascorbyl Tetraisopalmitate, Squalane, CI 15850, CI 77891, CI 19140, CI 45410, CI 77491, CI 77492, CI 42090",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 0.96,
+   "actives": [
+    {
+     "name": "petrolatum",
+     "grade": "A",
+     "position": 1,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "ethylhexyl methoxycinnamate",
+     "grade": "A",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "prunus amygdalus dulcis oil",
+     "grade": "B",
+     "position": 13,
+     "core": true,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "simmondsia chinensis seed oil",
+     "grade": "B",
+     "position": 14,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 16,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "ascorbyl tetraisopalmitate",
+     "grade": "B",
+     "position": 18,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "squalane",
+     "grade": "B",
+     "position": 19,
+     "core": true,
+     "trace": true,
+     "src": "squalane"
+    }
+   ],
+   "support": [
+    "petrolatum",
+    "squalane"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -18150,15 +19383,17 @@ const NXPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "Peptides",
   "featureLine": "Lip balm",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Hyphen official website (www.letshyphen.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "squalane high on the INCI list (moderate evidence); butyrospermum parkii butter high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "Too few ingredients are recognisable INCI names to treat this as the declared list, so formula and safety are unscored — formula unscored"
+   "Hard abrasive particles (face): polyethylene"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5.3,
+   "ingredients": 6.3,
+   "skin": 8.3,
+   "trust": 7,
    "experience": 7.2
   },
   "fullSpec": {
@@ -18176,14 +19411,18 @@ const NXPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.2/5 (1,988 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Too few ingredients are recognisable INCI names to treat this as the declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Specifications › Composition",
-   "inciList": "Unverified seller line: Vitamin C: Rich in antioxidants this one helps lighten pigmentation., Vitamin E - 1%: A powerful antioxidant, it intensely hydrates and moisturizes dry lips., Kojic Acid-2%: Mild AHA that exfoliates lips & reduces pigmentation., Avocado Oil: It moisturizes lips and targets damage caused by UV rays., Pomegranate Oil: A natural exfoliator that removes dead skin & locks in moisture on your lips.",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Hyphen official website (www.letshyphen.com) — product page › Ingredients",
+   "inciSourceUrl": "https://www.letshyphen.com/products/vitamin-infused-peptide-lip-balm-vanilla-10g",
+   "inciMatchedName": "VITAMIN INFUSED PEPTIDE LIP BALM - VANILLA 10G (name match 100%)",
+   "listingIngredientLine": "Vitamin C: Rich in antioxidants this one helps lighten pigmentation., Vitamin E - 1%: A powerful antioxidant, it intensely hydrates and moisturizes dry lips., Kojic Acid-2%: Mild AHA that exfoliates lips & reduces pigmentation., Avocado Oil: It moisturizes lips and targets damage caused by UV rays., (as printed on the Flipkart listing — incomplete, not scored)",
+   "inciList": "Hydrogenated Polyisobutene, Helianthus Annuus (Sunflower) Oil, Olive Oil PEG-7 Esters, Polyethylene, Propylene Glycol, Squalane, Glyceryl behenate/Eicosadioate, Tocotrienol (Vitamin E), Butyrospermum Parkii (Shea) Butter, Linoleic Acid (Vitamin F), Tripeptide-1, Hexapeptide-9, Palmitoyl Tripeptide-5, Palmitoyl Pentapeptide-4, Palmitoyl Tetrapeptide-7, Vanillin, Caprylyl Glycol, Sucralose, Glycerin, Aqua (Water), Polysorbate 20, Flavor, Paraffin, Glycol Montanate, Synthetic Wax. Contains Natural Ingredients. Products with natural ingredients may change color but this does not change their effectiveness",
+   "evidenceActives": "squalane (#6 on list, moderate evidence); butyrospermum parkii butter (#9 on list, moderate evidence); glycerin (#19 on list, strong evidence)",
+   "safetyFlags": "Hard abrasive particles (face): polyethylene (−0.8)",
    "maker": "Kreative Beauty Pvt Ltd (Hyphen) — Indian D2C brand with its own product company",
    "declaredManufacturer": "Ananya Herbal Private Limited Ananya Herbal Private Limited (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.2★ from 1,988 ratings"
+   "buyerEvidence": "4.2★ from 1,988 ratings",
+   "concernBasis": "Aging — palmitoyl pentapeptide-4 #14 on INCI, palmitoyl tetrapeptide-7 #15 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/minutes_enrichment_original/-enriched-original-LPBGUZHPWEXDSN2M_0.jpg?q=90",
@@ -18202,7 +19441,10 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
-   "inci:partial"
+   "target:aging",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -18210,27 +19452,82 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "partial",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Specifications › Composition",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Vitamin C: Rich in antioxidants this one helps lighten pigmentation., Vitamin E - 1%: A powerful antioxidant, it intensely hydrates and moisturizes dry lips., Kojic Acid-2%: Mild AHA that exfoliates lips & reduces pigmentation., Avocado Oil: It moisturizes lips and targets damage caused by UV rays., Pomegranate Oil: A natural exfoliator that removes dead skin & locks in moisture on your lips.",
-   "inciNote": "Too few ingredients are recognisable INCI names to treat this as the declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 0.5,
-   "actives": [],
-   "support": [],
+   "inci": "full",
+   "inciSource": "Hyphen official website (www.letshyphen.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.letshyphen.com/products/vitamin-infused-peptide-lip-balm-vanilla-10g",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "VITAMIN INFUSED PEPTIDE LIP BALM - VANILLA 10G",
+   "inciMatchScore": 1,
+   "inciText": "Hydrogenated Polyisobutene, Helianthus Annuus (Sunflower) Oil, Olive Oil PEG-7 Esters, Polyethylene, Propylene Glycol, Squalane, Glyceryl behenate/Eicosadioate, Tocotrienol (Vitamin E), Butyrospermum Parkii (Shea) Butter, Linoleic Acid (Vitamin F), Tripeptide-1, Hexapeptide-9, Palmitoyl Tripeptide-5, Palmitoyl Pentapeptide-4, Palmitoyl Tetrapeptide-7, Vanillin, Caprylyl Glycol, Sucralose, Glycerin, Aqua (Water), Polysorbate 20, Flavor, Paraffin, Glycol Montanate, Synthetic Wax. Contains Natural Ingredients. Products with natural ingredients may change color but this does not change their effectiveness",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 0.88,
+   "actives": [
+    {
+     "name": "squalane",
+     "grade": "B",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 9,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "palmitoyl pentapeptide-4",
+     "grade": "B",
+     "position": 14,
+     "core": false,
+     "trace": false,
+     "src": "peptides"
+    },
+    {
+     "name": "palmitoyl tetrapeptide-7",
+     "grade": "B",
+     "position": 15,
+     "core": false,
+     "trace": false,
+     "src": "peptides"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 19,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    }
+   ],
+   "support": [
+    "squalane",
+    "butyrospermum parkii butter",
+    "glycerin"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "abrasive",
+     "label": "Hard abrasive particles (face)",
+     "names": [
+      "polyethylene"
+     ],
+     "penalty": 0.8,
+     "src": "aadScrub"
+    }
+   ],
    "maker": {
     "parent": "Kreative Beauty Pvt Ltd (Hyphen)",
     "kind": "d2c",
@@ -18463,16 +19760,18 @@ const NXPRODUCTS = [
   "capacityLine": "5 g",
   "materialLine": "Vitamin C + Hyaluronic acid + Shea butter",
   "featureLine": "Lip balm · SPF 30 · ₹2180/100g",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Renee official website (www.reneecosmetics.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "shea butter high on the INCI list (moderate evidence); beeswax high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "Only 3 ingredients named — formula unscored",
+   "Added fragrance (parfum): fragrance",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
+   "ingredients": 6.3,
+   "skin": 5.9,
+   "trust": 5.5,
    "experience": 6.7
   },
   "fullSpec": {
@@ -18491,11 +19790,14 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "4.1/5 (1,412 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Only 3 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: Shea butter: Helps repair dry lips & retains moisture, Vitamin C: Brightens & restores natural tone of the lips, SPF 30: Shields from sun & prevents pigmentation",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Renee official website (www.reneecosmetics.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.reneecosmetics.in/products/renee-everyday-lip-balm",
+   "inciMatchedName": "RENEE Everyday Lip Balm, 4.5 g (name match 100%)",
+   "listingIngredientLine": "Shea butter: Helps repair dry lips & retains moisture, Vitamin C: Brightens & restores natural tone of the lips, SPF 30: Shields from sun & prevents pigmentation (as printed on the Flipkart listing — incomplete, not scored)",
+   "inciList": "Shea butter, Cocoa butter, Capryl capric triglyceride, Iso propyl myristate, Bees wax, Castor oil, Almond oil, Hydrogenated poly isobutene, Octyl methoxycinnamate, Octocrylene, Vitamin E, Ascrobyl Palmitate, Hyaluronic Acid, Fragrance, CI 45410:2, CI 77491, CI 77891, CI 120851, TBHQ",
+   "evidenceActives": "shea butter (#1 on list, moderate evidence); beeswax (#5 on list, moderate evidence); prunus amygdalus dulcis oil (#7 on list, moderate evidence); tocopherol (#11 on list, moderate evidence); hyaluronic acid (#13 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.1★ from 1,412 ratings",
    "waterResistance": "Water resistance not stated in listing"
@@ -18533,7 +19835,8 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:flipkart",
-   "inci:partial"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -18541,27 +19844,113 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "partial",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Shea butter: Helps repair dry lips & retains moisture, Vitamin C: Brightens & restores natural tone of the lips, SPF 30: Shields from sun & prevents pigmentation",
-   "inciNote": "Only 3 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 0.67,
-   "actives": [],
-   "support": [],
+   "inci": "full",
+   "inciSource": "Renee official website (www.reneecosmetics.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.reneecosmetics.in/products/renee-everyday-lip-balm",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "RENEE Everyday Lip Balm, 4.5 g",
+   "inciMatchScore": 1,
+   "inciText": "Shea butter, Cocoa butter, Capryl capric triglyceride, Iso propyl myristate, Bees wax, Castor oil, Almond oil, Hydrogenated poly isobutene, Octyl methoxycinnamate, Octocrylene, Vitamin E, Ascrobyl Palmitate, Hyaluronic Acid, Fragrance, CI 45410:2, CI 77491, CI 77891, CI 120851, TBHQ",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 0.95,
+   "actives": [
+    {
+     "name": "shea butter",
+     "grade": "B",
+     "position": 1,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "cocoa butter",
+     "grade": "C",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "striae"
+    },
+    {
+     "name": "beeswax",
+     "grade": "B",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "prunus amygdalus dulcis oil",
+     "grade": "B",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "ethylhexyl methoxycinnamate",
+     "grade": "A",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "octocrylene",
+     "grade": "A",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 11,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "ascorbyl palmitate",
+     "grade": "C",
+     "position": 12,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "hyaluronic acid",
+     "grade": "B",
+     "position": 13,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "shea butter",
+    "hyaluronic acid"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -18803,15 +20192,16 @@ const NXPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Lip balm",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Plum official website (plumgoodness.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "butyrospermum parkii butter high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 4,
+   "skin": 9,
+   "trust": 7,
    "experience": 6.9
   },
   "fullSpec": {
@@ -18829,11 +20219,13 @@ const NXPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.2/5 (1,334 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Plum official website (plumgoodness.com) — product page › Ingredients",
+   "inciSourceUrl": "https://plumgoodness.com/products/plum-candy-melts-red-velvet-love-tinted-lip-balm-moisturizes-nourishes-hydrates-dry-chapped-lips-natural-flavour-100-vegan",
+   "inciMatchedName": "Candy Melts Red Velvet Love Tinted Lip Balm (name match 100%)",
+   "inciList": "Ricinus Communis (Castor) Seed Oil, Helianthus Annuus (Sunflower) Seed Oil, Synthetic Wax, Cera Microcristallina, Olea Europaea (Olive) Fruit Oil, Copernicia Cerifera (Carnauba) Wax, Cetearyl Alcohol, Olive Oil PEG-7 Esters, Flavour, Theobroma Cacao (Cocoa) Seed Butter, Butyrospermum Parkii (Shea) Butter, Daucus Carota Sativa (Carrot) Seed Oil, Sucralose, Isostearyl Hydroxystearate, Pentaerythrityl Tetra-di-t-butyl Hydroxyhydrocinnamate, CI 15850:1",
+   "evidenceActives": "butyrospermum parkii butter (#11 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
    "declaredManufacturer": "Maxima Solutions, Plot No. 56, Sector IIDC, IIE, SIDCUL, Pantnagar 263153, District U.S. Nagar, Uttarakhand. ML No. : M 6/C/UA/2015 (as printed on the Flipkart listing — not scored)",
    "buyerEvidence": "4.2★ from 1,334 ratings"
@@ -18857,7 +20249,9 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -18865,25 +20259,52 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Plum official website (plumgoodness.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://plumgoodness.com/products/plum-candy-melts-red-velvet-love-tinted-lip-balm-moisturizes-nourishes-hydrates-dry-chapped-lips-natural-flavour-100-vegan",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Candy Melts Red Velvet Love Tinted Lip Balm",
+   "inciMatchScore": 1,
+   "inciText": "Ricinus Communis (Castor) Seed Oil, Helianthus Annuus (Sunflower) Seed Oil, Synthetic Wax, Cera Microcristallina, Olea Europaea (Olive) Fruit Oil, Copernicia Cerifera (Carnauba) Wax, Cetearyl Alcohol, Olive Oil PEG-7 Esters, Flavour, Theobroma Cacao (Cocoa) Seed Butter, Butyrospermum Parkii (Shea) Butter, Daucus Carota Sativa (Carrot) Seed Oil, Sucralose, Isostearyl Hydroxystearate, Pentaerythrityl Tetra-di-t-butyl Hydroxyhydrocinnamate, CI 15850:1",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 0.88,
+   "actives": [
+    {
+     "name": "helianthus annuus seed oil",
+     "grade": "B",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "theobroma cacao seed butter",
+     "grade": "C",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "striae"
+    },
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 11,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    }
+   ],
+   "support": [
+    "butyrospermum parkii butter"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -19454,15 +20875,16 @@ const NXPRODUCTS = [
   "capacityLine": "8 g",
   "materialLine": "Coconut",
   "featureLine": "Lip balm · Paraben-free · ₹3750/100g",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (The Man Company official website (www.themancompany.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "butyrospermum parkii butter high on the INCI list (moderate evidence); cera alba high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6,
+   "ingredients": 7.9,
+   "skin": 10,
+   "trust": 8,
    "experience": 6.5
   },
   "fullSpec": {
@@ -19480,11 +20902,13 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "4.1/5 (1,155 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "The Man Company official website (www.themancompany.com) — product page › Ingredients",
+   "inciSourceUrl": "https://www.themancompany.com/products/lightening-lip-balm-bulk-buy",
+   "inciMatchedName": "Lightening Lip Balm - Bulk Buy (name match 100%)",
+   "inciList": "Butyrospermum Parkii (Shea) Butter, Theobroma Cacao Seed Butter, Cera Alba (Beeswax), Homosalate, Octyl Methoxycinnamate, Glycyrrhiza Glabra (Licorice) Root Oil, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Argania Spinosa Kernel Oil, Olea Europaea (Olive) Fruit Oil, Cocos Nucifera Oil, Flavour, Vitamine E, Butylated Hydroxytoluene",
+   "evidenceActives": "butyrospermum parkii butter (#1 on list, moderate evidence); cera alba (#3 on list, moderate evidence); prunus amygdalus dulcis oil (#7 on list, moderate evidence); cocos nucifera oil (#10 on list, limited evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Emami — Established / listed Indian FMCG house",
    "buyerEvidence": "4.1★ from 1,155 ratings"
   },
@@ -19512,7 +20936,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:flipkart",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": true,
@@ -19520,25 +20946,92 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "The Man Company official website (www.themancompany.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.themancompany.com/products/lightening-lip-balm-bulk-buy",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Lightening Lip Balm - Bulk Buy",
+   "inciMatchScore": 1,
+   "inciText": "Butyrospermum Parkii (Shea) Butter, Theobroma Cacao Seed Butter, Cera Alba (Beeswax), Homosalate, Octyl Methoxycinnamate, Glycyrrhiza Glabra (Licorice) Root Oil, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Argania Spinosa Kernel Oil, Olea Europaea (Olive) Fruit Oil, Cocos Nucifera Oil, Flavour, Vitamine E, Butylated Hydroxytoluene",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.92,
+   "actives": [
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 1,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "theobroma cacao seed butter",
+     "grade": "C",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "striae"
+    },
+    {
+     "name": "cera alba",
+     "grade": "B",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "homosalate",
+     "grade": "A",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "ethylhexyl methoxycinnamate",
+     "grade": "A",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "prunus amygdalus dulcis oil",
+     "grade": "B",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "argania spinosa kernel oil",
+     "grade": "B",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "cocos nucifera oil",
+     "grade": "C",
+     "position": 10,
+     "core": true,
+     "trace": false,
+     "src": "squalane"
+    }
+   ],
+   "support": [
+    "butyrospermum parkii butter"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -19775,15 +21268,17 @@ const NXPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "Peptides",
   "featureLine": "Lip balm",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Hyphen official website (www.letshyphen.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "squalane high on the INCI list (moderate evidence); butyrospermum parkii butter high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Hard abrasive particles (face): polyethylene"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 6.3,
+   "skin": 8.3,
+   "trust": 7,
    "experience": 6.8
   },
   "fullSpec": {
@@ -19801,14 +21296,17 @@ const NXPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.2/5 (1,133 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Hyphen official website (www.letshyphen.com) — product page › Ingredients",
+   "inciSourceUrl": "https://www.letshyphen.com/products/vitamin-infused-peptide-lip-balm-peach-10g",
+   "inciMatchedName": "VITAMIN INFUSED PEPTIDE LIP BALM - PEACH 10G (name match 100%)",
+   "inciList": "Hydrogenated Polyisobutene, Helianthus Annuus (Sunflower) Oil, Olive Oil PEG-7 Esters, Polyethylene, Propylene Glycol, Squalane, Glyceryl behenate/Eicosadioate, Tocotrienol (Vitamin E), Butyrospermum Parkii (Shea) Butter, Linoleic Acid (Vitamin F), Tripeptide-1, Hexapeptide-9, Palmitoyl Tripeptide-5, Palmitoyl Pentapeptide-4, Palmitoyl Tetrapeptide-7, Vanillin, Caprylyl Glycol, Sucralose, Glycerin, Aqua (Water), Polysorbate 20, Flavor, Paraffin, Glycol Montanate, Synthetic Wax. Contains Natural Ingredients. Products with natural ingredients may change color but this does not change their effectiveness",
+   "evidenceActives": "squalane (#6 on list, moderate evidence); butyrospermum parkii butter (#9 on list, moderate evidence); glycerin (#19 on list, strong evidence)",
+   "safetyFlags": "Hard abrasive particles (face): polyethylene (−0.8)",
    "maker": "Kreative Beauty Pvt Ltd (Hyphen) — Indian D2C brand with its own product company",
    "declaredManufacturer": "Ananya Herbal Pvt. Ltd. (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.2★ from 1,133 ratings"
+   "buyerEvidence": "4.2★ from 1,133 ratings",
+   "concernBasis": "Aging — palmitoyl pentapeptide-4 #14 on INCI, palmitoyl tetrapeptide-7 #15 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/h/s/p/10-vitamin-infused-peptide-lip-balm-peach-for-dry-chapped-lips-1-original-imah5y2c8qvaga9q.jpeg?q=90",
@@ -19829,7 +21327,10 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
-   "inci:none"
+   "target:aging",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -19837,27 +21338,82 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Hyphen official website (www.letshyphen.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.letshyphen.com/products/vitamin-infused-peptide-lip-balm-peach-10g",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "VITAMIN INFUSED PEPTIDE LIP BALM - PEACH 10G",
+   "inciMatchScore": 1,
+   "inciText": "Hydrogenated Polyisobutene, Helianthus Annuus (Sunflower) Oil, Olive Oil PEG-7 Esters, Polyethylene, Propylene Glycol, Squalane, Glyceryl behenate/Eicosadioate, Tocotrienol (Vitamin E), Butyrospermum Parkii (Shea) Butter, Linoleic Acid (Vitamin F), Tripeptide-1, Hexapeptide-9, Palmitoyl Tripeptide-5, Palmitoyl Pentapeptide-4, Palmitoyl Tetrapeptide-7, Vanillin, Caprylyl Glycol, Sucralose, Glycerin, Aqua (Water), Polysorbate 20, Flavor, Paraffin, Glycol Montanate, Synthetic Wax. Contains Natural Ingredients. Products with natural ingredients may change color but this does not change their effectiveness",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 0.88,
+   "actives": [
+    {
+     "name": "squalane",
+     "grade": "B",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 9,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "palmitoyl pentapeptide-4",
+     "grade": "B",
+     "position": 14,
+     "core": false,
+     "trace": false,
+     "src": "peptides"
+    },
+    {
+     "name": "palmitoyl tetrapeptide-7",
+     "grade": "B",
+     "position": 15,
+     "core": false,
+     "trace": false,
+     "src": "peptides"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 19,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    }
+   ],
+   "support": [
+    "squalane",
+    "butyrospermum parkii butter",
+    "glycerin"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "abrasive",
+     "label": "Hard abrasive particles (face)",
+     "names": [
+      "polyethylene"
+     ],
+     "penalty": 0.8,
+     "src": "aadScrub"
+    }
+   ],
    "maker": {
     "parent": "Kreative Beauty Pvt Ltd (Hyphen)",
     "kind": "d2c",
@@ -21390,16 +22946,18 @@ const NXPRODUCTS = [
   "capacityLine": "5 g",
   "materialLine": "Vitamin C + Hyaluronic acid + Rose",
   "featureLine": "Lip balm · SPF 30 · ₹2180/100g",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Renee official website (www.reneecosmetics.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "shea butter high on the INCI list (moderate evidence); beeswax high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "Only 4 ingredients named — formula unscored",
+   "Added fragrance (parfum): fragrance",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
+   "ingredients": 6.3,
+   "skin": 5.9,
+   "trust": 5.5,
    "experience": 6.3
   },
   "fullSpec": {
@@ -21418,11 +22976,14 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "4.1/5 (762 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: Shea butter: Helps repair dry lips & retains moisture, Vitamin C: Brightens & restores natural tone of the lips, Hyaluronic acid: Keeps lips soft & hydrated, SPF 30: Shields from sun & prevents pigmentation",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Renee official website (www.reneecosmetics.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.reneecosmetics.in/products/renee-everyday-lip-balm",
+   "inciMatchedName": "RENEE Everyday Lip Balm, 4.5 g (name match 100%)",
+   "listingIngredientLine": "Shea butter: Helps repair dry lips & retains moisture, Vitamin C: Brightens & restores natural tone of the lips, Hyaluronic acid: Keeps lips soft & hydrated, SPF 30: Shields from sun & prevents pigmentation (as printed on the Flipkart listing — incomplete, not scored)",
+   "inciList": "Shea butter, Cocoa butter, Capryl capric triglyceride, Iso propyl myristate, Bees wax, Castor oil, Almond oil, Hydrogenated poly isobutene, Octyl methoxycinnamate, Octocrylene, Vitamin E, Ascrobyl Palmitate, Hyaluronic Acid, Fragrance, CI 45410:2, CI 77491, CI 77891, CI 120851, TBHQ",
+   "evidenceActives": "shea butter (#1 on list, moderate evidence); beeswax (#5 on list, moderate evidence); prunus amygdalus dulcis oil (#7 on list, moderate evidence); tocopherol (#11 on list, moderate evidence); hyaluronic acid (#13 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.1★ from 762 ratings",
    "waterResistance": "Water resistance not stated in listing"
@@ -21460,7 +23021,8 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:flipkart",
-   "inci:partial"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -21468,27 +23030,113 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "partial",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Shea butter: Helps repair dry lips & retains moisture, Vitamin C: Brightens & restores natural tone of the lips, Hyaluronic acid: Keeps lips soft & hydrated, SPF 30: Shields from sun & prevents pigmentation",
-   "inciNote": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 0.75,
-   "actives": [],
-   "support": [],
+   "inci": "full",
+   "inciSource": "Renee official website (www.reneecosmetics.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.reneecosmetics.in/products/renee-everyday-lip-balm",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "RENEE Everyday Lip Balm, 4.5 g",
+   "inciMatchScore": 1,
+   "inciText": "Shea butter, Cocoa butter, Capryl capric triglyceride, Iso propyl myristate, Bees wax, Castor oil, Almond oil, Hydrogenated poly isobutene, Octyl methoxycinnamate, Octocrylene, Vitamin E, Ascrobyl Palmitate, Hyaluronic Acid, Fragrance, CI 45410:2, CI 77491, CI 77891, CI 120851, TBHQ",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 0.95,
+   "actives": [
+    {
+     "name": "shea butter",
+     "grade": "B",
+     "position": 1,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "cocoa butter",
+     "grade": "C",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "striae"
+    },
+    {
+     "name": "beeswax",
+     "grade": "B",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "prunus amygdalus dulcis oil",
+     "grade": "B",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "ethylhexyl methoxycinnamate",
+     "grade": "A",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "octocrylene",
+     "grade": "A",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 11,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "ascorbyl palmitate",
+     "grade": "C",
+     "position": 12,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "hyaluronic acid",
+     "grade": "B",
+     "position": 13,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "shea butter",
+    "hyaluronic acid"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -22169,17 +23817,17 @@ const NXPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "Strawberry",
   "featureLine": "Lip balm",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Plum official website (plumgoodness.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
+   "butyrospermum parkii butter high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list",
    "Well-reviewed: 4.3★ from 600 ratings"
   ],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 4,
+   "skin": 9,
+   "trust": 7,
    "experience": 6.8
   },
   "fullSpec": {
@@ -22197,11 +23845,13 @@ const NXPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.3/5 (600 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Plum official website (plumgoodness.com) — product page › Ingredients",
+   "inciSourceUrl": "https://plumgoodness.com/products/plum-candy-melts-strawberry-sorbet-tinted-lip-balm-moisturizes-nourishes-hydrates-dry-chapped-lips-natural-flavour-100-vegan",
+   "inciMatchedName": "Candy Melts Strawberry Sorbet Tinted Lip Balm (name match 100%)",
+   "inciList": "Ricinus Communis (Castor) Seed Oil, Helianthus Annuus (Sunflower) Seed Oil, Synthetic Wax, Cera Microcristallina, Olea Europaea (Olive) Fruit Oil, Copernicia Cerifera (Carnauba) Wax, Cetearyl Alcohol, Olive Oil PEG-7 Esters, Flavour, Theobroma Cacao (Cocoa) Seed Butter, Butyrospermum Parkii (Shea) Butter, Daucus Carota Sativa (Carrot) Seed Oil, Sucralose, Isostearyl Hydroxystearate, Pentaerythrityl Tetra-di-t-butyl Hydroxyhydrocinnamate, CI 15850:2",
+   "evidenceActives": "butyrospermum parkii butter (#11 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
    "declaredManufacturer": "Maxima Solutions, Plot No. - 56, Sector - IIDC, IIE, SIDCUL, Pantnagar - 263153. District - Udham Singh Nagar, Uttarakhand. M. L. No.: 6/C/UA/2028 (as printed on the Flipkart listing — not scored)",
    "buyerEvidence": "4.3★ from 600 ratings"
@@ -22226,7 +23876,9 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -22234,25 +23886,52 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Plum official website (plumgoodness.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://plumgoodness.com/products/plum-candy-melts-strawberry-sorbet-tinted-lip-balm-moisturizes-nourishes-hydrates-dry-chapped-lips-natural-flavour-100-vegan",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Candy Melts Strawberry Sorbet Tinted Lip Balm",
+   "inciMatchScore": 1,
+   "inciText": "Ricinus Communis (Castor) Seed Oil, Helianthus Annuus (Sunflower) Seed Oil, Synthetic Wax, Cera Microcristallina, Olea Europaea (Olive) Fruit Oil, Copernicia Cerifera (Carnauba) Wax, Cetearyl Alcohol, Olive Oil PEG-7 Esters, Flavour, Theobroma Cacao (Cocoa) Seed Butter, Butyrospermum Parkii (Shea) Butter, Daucus Carota Sativa (Carrot) Seed Oil, Sucralose, Isostearyl Hydroxystearate, Pentaerythrityl Tetra-di-t-butyl Hydroxyhydrocinnamate, CI 15850:2",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 0.88,
+   "actives": [
+    {
+     "name": "helianthus annuus seed oil",
+     "grade": "B",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "theobroma cacao seed butter",
+     "grade": "C",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "striae"
+    },
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 11,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    }
+   ],
+   "support": [
+    "butyrospermum parkii butter"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -28232,15 +29911,16 @@ const NXPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "Hyaluronic acid + Kojic acid + Alpha arbutin",
   "featureLine": "Lip balm",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (The Derma Co official website (thedermaco.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "beeswax high on the INCI list (moderate evidence); cocos nucifera oil high on the INCI list (limited evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6,
+   "ingredients": 9.5,
+   "skin": 10,
+   "trust": 8,
    "experience": 5.1
   },
   "fullSpec": {
@@ -28258,14 +29938,17 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "4.1/5 (111 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "The Derma Co official website (thedermaco.com) — product page › Ingredients",
+   "inciSourceUrl": "https://thedermaco.com/products/1-kojic-acid-lip-balm-with-alpha-arbutin-hyaluronic-acid-4g",
+   "inciMatchedName": "1% Kojic Acid Lip Balm With Alpha Arbutin & Hyaluronic Acid - 4.5g (name match 100%)",
+   "inciList": "Beeswax, Coconut Oil, Shea Butter, Castor Seed Oil, Ethylhexyl Methoxycinnamate, Candelilla Wax, Cocoa Butter, Almond Oil, Red Raspberry Oil, Jojoba Oil, Olive Oil, Calendula Oil, Carnauba Wax, Avocado Oil, Dicaprylyl Carbonate, Cetearyl Olivate, Sorbitan Olivate, Zinc Oxide, Titanium Dioxide, Kojic Acid Dipalmitate, Sodium Hyaluronate, Alpha Arbutin, Kestar Wax, Caprylyl Methicone, Vitamin E, Helianthus Annuus (Sunflower) Seed Oil (and) Zea Mays (Corn) Oil (and) Macadamia Integrifolia Seed Oil (and) Olea Europaea",
+   "evidenceActives": "beeswax (#1 on list, moderate evidence); cocos nucifera oil (#2 on list, limited evidence); shea butter (#3 on list, moderate evidence); prunus amygdalus dulcis oil (#8 on list, moderate evidence); zinc oxide (#18 on list, strong evidence); titanium dioxide (#19 on list, strong evidence); sodium hyaluronate (#21 on list, moderate evidence); tocopherol (#25 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "declaredManufacturer": "A G Organica Pvt. Ltd., Pl0t No C-11, Sector - 85, Noida, Uttar Pradesh, 201305 M.: UP16320000028 (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.1★ from 111 ratings"
+   "buyerEvidence": "4.1★ from 111 ratings",
+   "concernBasis": "Dark spots — kojic dipalmitate #20 on INCI, alpha-arbutin #22 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/d/e/a/4-1-ceramide-complex-lip-balm-with-ceramides-vitamin-e-for-dry-original-imagvynzkjhnnp74.jpeg?q=90",
@@ -28287,7 +29970,10 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
-   "inci:none"
+   "target:dark-spots",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -28295,25 +29981,141 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "The Derma Co official website (thedermaco.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thedermaco.com/products/1-kojic-acid-lip-balm-with-alpha-arbutin-hyaluronic-acid-4g",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "1% Kojic Acid Lip Balm With Alpha Arbutin & Hyaluronic Acid - 4.5g",
+   "inciMatchScore": 1,
+   "inciText": "Beeswax, Coconut Oil, Shea Butter, Castor Seed Oil, Ethylhexyl Methoxycinnamate, Candelilla Wax, Cocoa Butter, Almond Oil, Red Raspberry Oil, Jojoba Oil, Olive Oil, Calendula Oil, Carnauba Wax, Avocado Oil, Dicaprylyl Carbonate, Cetearyl Olivate, Sorbitan Olivate, Zinc Oxide, Titanium Dioxide, Kojic Acid Dipalmitate, Sodium Hyaluronate, Alpha Arbutin, Kestar Wax, Caprylyl Methicone, Vitamin E, Helianthus Annuus (Sunflower) Seed Oil (and) Zea Mays (Corn) Oil (and) Macadamia Integrifolia Seed Oil (and) Olea Europaea",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "beeswax",
+     "grade": "B",
+     "position": 1,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "cocos nucifera oil",
+     "grade": "C",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "shea butter",
+     "grade": "B",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "ethylhexyl methoxycinnamate",
+     "grade": "A",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "cocoa butter",
+     "grade": "C",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "striae"
+    },
+    {
+     "name": "prunus amygdalus dulcis oil",
+     "grade": "B",
+     "position": 8,
+     "core": true,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "simmondsia chinensis seed oil",
+     "grade": "B",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "zinc oxide",
+     "grade": "A",
+     "position": 18,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "titanium dioxide",
+     "grade": "A",
+     "position": 19,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "kojic dipalmitate",
+     "grade": "B",
+     "position": 20,
+     "core": false,
+     "trace": false,
+     "src": "pigment"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 21,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "alpha-arbutin",
+     "grade": "B",
+     "position": 22,
+     "core": false,
+     "trace": false,
+     "src": "pigment"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 25,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "helianthus annuus seed oil",
+     "grade": "B",
+     "position": 26,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    }
+   ],
+   "support": [
+    "shea butter",
+    "sodium hyaluronate"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -32275,15 +34077,17 @@ const NXPRODUCTS = [
   "capacityLine": "8 g",
   "materialLine": "Cherry / acerola + Watermelon",
   "featureLine": "Lip balm · ₹2775/100g",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "butyrospermum parkii butter high on the INCI list (moderate evidence); tocopherol high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): aroma"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 6.3,
+   "skin": 8.5,
+   "trust": 8.5,
    "experience": 3.8
   },
   "fullSpec": {
@@ -32301,13 +34105,16 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "4/5 (21 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-cherry-shine-lip-balm-89042560204730213.html",
+   "inciMatchedName": "nivea cherry shine lip balm 89042560204730213 (name match 100%)",
+   "inciList": "Helianthus Annuus Hybrid Oil, Ricinus Communis Seed Oil, Helianthus Annuus Seed Cera, Hydrogenated Rapeseed Oil, Butyrospermum Parkii Butter, Aroma, CI 15850, Creatine, Ascorbyl Palmitate, Helianthus Annuus Seed Oil, Tocopherol, Ceramide NP, Lecithin, Olea Europaea Fruit Oil, 1-Methylhydantoin-2-Imide, CI 77492, CI 77499, Ceramide NP",
+   "evidenceActives": "butyrospermum parkii butter (#5 on list, moderate evidence); tocopherol (#11 on list, moderate evidence); ceramide np (#12 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): aroma (−1.5)",
    "maker": "Beiersdorf — Global FMCG or beauty group",
-   "buyerEvidence": "4★ from 21 ratings"
+   "buyerEvidence": "4★ from 21 ratings",
+   "concernBasis": "Irritation — ceramide np #12 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/1/e/c/4-8-lip-balm-watermelon-shine-pack-of-1-1-nivea-original-imagssqdnxfzw468.jpeg?q=90",
@@ -32330,7 +34137,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:flipkart",
-   "inci:none"
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -32338,27 +34147,81 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-cherry-shine-lip-balm-89042560204730213.html",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "nivea cherry shine lip balm 89042560204730213",
+   "inciMatchScore": 1,
+   "inciText": "Helianthus Annuus Hybrid Oil, Ricinus Communis Seed Oil, Helianthus Annuus Seed Cera, Hydrogenated Rapeseed Oil, Butyrospermum Parkii Butter, Aroma, CI 15850, Creatine, Ascorbyl Palmitate, Helianthus Annuus Seed Oil, Tocopherol, Ceramide NP, Lecithin, Olea Europaea Fruit Oil, 1-Methylhydantoin-2-Imide, CI 77492, CI 77499, Ceramide NP",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.94,
+   "actives": [
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "ascorbyl palmitate",
+     "grade": "C",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "helianthus annuus seed oil",
+     "grade": "B",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 11,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 12,
+     "core": true,
+     "trace": false,
+     "src": "ceramide"
+    }
+   ],
+   "support": [
+    "butyrospermum parkii butter",
+    "ceramide np"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "aroma"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Beiersdorf",
     "kind": "global",
@@ -33835,15 +35698,17 @@ const NXPRODUCTS = [
   "capacityLine": "8 g",
   "materialLine": "Cherry / acerola",
   "featureLine": "Lip balm · ₹5763/100g",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "butyrospermum parkii butter high on the INCI list (moderate evidence); tocopherol high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): aroma"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 6.3,
+   "skin": 8.5,
+   "trust": 8.5,
    "experience": 5.1
   },
   "fullSpec": {
@@ -33861,13 +35726,16 @@ const NXPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.1/5 (110 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-cherry-shine-lip-balm-89042560204730213.html",
+   "inciMatchedName": "nivea cherry shine lip balm 89042560204730213 (name match 100%)",
+   "inciList": "Helianthus Annuus Hybrid Oil, Ricinus Communis Seed Oil, Helianthus Annuus Seed Cera, Hydrogenated Rapeseed Oil, Butyrospermum Parkii Butter, Aroma, CI 15850, Creatine, Ascorbyl Palmitate, Helianthus Annuus Seed Oil, Tocopherol, Ceramide NP, Lecithin, Olea Europaea Fruit Oil, 1-Methylhydantoin-2-Imide, CI 77492, CI 77499, Ceramide NP",
+   "evidenceActives": "butyrospermum parkii butter (#5 on list, moderate evidence); tocopherol (#11 on list, moderate evidence); ceramide np (#12 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): aroma (−1.5)",
    "maker": "Beiersdorf — Global FMCG or beauty group",
-   "buyerEvidence": "4.1★ from 110 ratings"
+   "buyerEvidence": "4.1★ from 110 ratings",
+   "concernBasis": "Irritation — ceramide np #12 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/g/w/i/-original-imahhcbmm8qcuhat.jpeg?q=90",
@@ -33887,7 +35755,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:flipkart",
-   "inci:none"
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -33895,27 +35765,81 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-cherry-shine-lip-balm-89042560204730213.html",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "nivea cherry shine lip balm 89042560204730213",
+   "inciMatchScore": 1,
+   "inciText": "Helianthus Annuus Hybrid Oil, Ricinus Communis Seed Oil, Helianthus Annuus Seed Cera, Hydrogenated Rapeseed Oil, Butyrospermum Parkii Butter, Aroma, CI 15850, Creatine, Ascorbyl Palmitate, Helianthus Annuus Seed Oil, Tocopherol, Ceramide NP, Lecithin, Olea Europaea Fruit Oil, 1-Methylhydantoin-2-Imide, CI 77492, CI 77499, Ceramide NP",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.94,
+   "actives": [
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "ascorbyl palmitate",
+     "grade": "C",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "helianthus annuus seed oil",
+     "grade": "B",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 11,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 12,
+     "core": true,
+     "trace": false,
+     "src": "ceramide"
+    }
+   ],
+   "support": [
+    "butyrospermum parkii butter",
+    "ceramide np"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "aroma"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Beiersdorf",
     "kind": "global",
@@ -34896,17 +36820,17 @@ const NXPRODUCTS = [
   "capacityLine": "10 g",
   "materialLine": "Coffee",
   "featureLine": "Lip balm · ₹3590/100g",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Plum official website (plumgoodness.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
+   "butyrospermum parkii butter high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list",
    "Well-reviewed: 4.3★ from 93 ratings"
   ],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 4.7,
+   "skin": 9,
+   "trust": 7,
    "experience": 5.6
   },
   "fullSpec": {
@@ -34924,13 +36848,16 @@ const NXPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.3/5 (93 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Plum official website (plumgoodness.com) — product page › Ingredients",
+   "inciSourceUrl": "https://plumgoodness.com/products/plum-bodylovin-kaapi-tiramisu-glassic-lip-balm-10g",
+   "inciMatchedName": "Kaapi Tiramisu Glassic Lip Balm by BodyLovin' (name match 100%)",
+   "inciList": "Polybutene, Paraffinum Liquidum, Cera Microcristallina, Octyldodecanol, Mineral Oil (&) Ethylene/Propylene/Styrene Copolymer (&) Butylene/Ethylene/Styrene Copolymer, Ricinus Communis (Castor) Seed Oil, Aliphatic Aromatic Copolymer, Corylus Avellana (Hazelnut) Seed Oil, Butyrospermum Parkii (Shea) Butter, Simmondsia Chinensis (Jojoba) Seed Oil, Argania Spinosa (Argan) Kernel Oil, PEG-8 Caprylic/Capric Glycerides (&) Aqua (Water) (&) Octyldodeceth-25 (&) Sodium Hyaluronate, Palmitoyl Tripeptide-1, Ceramide NP (&) Ceramide AP (&) Ceramide EOP (&) Phytosphingosine (&) Octyldodecanol (&) Pentylene Glycol, CI 77491, CI 77492, CI 77499, Flavour",
+   "evidenceActives": "butyrospermum parkii butter (#9 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.3★ from 93 ratings"
+   "buyerEvidence": "4.3★ from 93 ratings",
+   "concernBasis": "Aging — palmitoyl tripeptide-1 #13 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/e/g/i/10-bodylovin-kaapi-tiramisu-glassic-lip-balm-espresso-brown-original-imahm5fyhjfzgsnq.jpeg?q=90",
@@ -34951,7 +36878,10 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:flipkart",
-   "inci:none"
+   "target:aging",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -34959,25 +36889,68 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Plum official website (plumgoodness.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://plumgoodness.com/products/plum-bodylovin-kaapi-tiramisu-glassic-lip-balm-10g",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Kaapi Tiramisu Glassic Lip Balm by BodyLovin'",
+   "inciMatchScore": 1,
+   "inciText": "Polybutene, Paraffinum Liquidum, Cera Microcristallina, Octyldodecanol, Mineral Oil (&) Ethylene/Propylene/Styrene Copolymer (&) Butylene/Ethylene/Styrene Copolymer, Ricinus Communis (Castor) Seed Oil, Aliphatic Aromatic Copolymer, Corylus Avellana (Hazelnut) Seed Oil, Butyrospermum Parkii (Shea) Butter, Simmondsia Chinensis (Jojoba) Seed Oil, Argania Spinosa (Argan) Kernel Oil, PEG-8 Caprylic/Capric Glycerides (&) Aqua (Water) (&) Octyldodeceth-25 (&) Sodium Hyaluronate, Palmitoyl Tripeptide-1, Ceramide NP (&) Ceramide AP (&) Ceramide EOP (&) Phytosphingosine (&) Octyldodecanol (&) Pentylene Glycol, CI 77491, CI 77492, CI 77499, Flavour",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 0.89,
+   "actives": [
+    {
+     "name": "paraffinum liquidum",
+     "grade": "B",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 9,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "simmondsia chinensis seed oil",
+     "grade": "B",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "argania spinosa kernel oil",
+     "grade": "B",
+     "position": 11,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "palmitoyl tripeptide-1",
+     "grade": "B",
+     "position": 13,
+     "core": false,
+     "trace": false,
+     "src": "peptides"
+    }
+   ],
+   "support": [
+    "butyrospermum parkii butter"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -36182,17 +38155,17 @@ const NXPRODUCTS = [
   "capacityLine": "10 g",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Lip balm · ₹3590/100g",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Plum official website (plumgoodness.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
+   "butyrospermum parkii butter high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list",
    "Well-reviewed: 4.3★ from 85 ratings"
   ],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 4.7,
+   "skin": 9,
+   "trust": 7,
    "experience": 5.6
   },
   "fullSpec": {
@@ -36210,13 +38183,16 @@ const NXPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.3/5 (85 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Plum official website (plumgoodness.com) — product page › Ingredients",
+   "inciSourceUrl": "https://plumgoodness.com/products/plum-bodylovin-popcorn-n-pilates-glassic-lip-balm-10g",
+   "inciMatchedName": "Popcorn N' Pilates Glassic Lip Balm by BodyLovin' (name match 100%)",
+   "inciList": "Polybutene, Paraffinum Liquidum, Cera Microcristallina, Octyldodecanol, Mineral Oil (&) Ethylene/Propylene/Styrene Copolymer (&) Butylene/Ethylene/Styrene Copolymer, Ricinus Communis (Castor) Seed Oil, Aliphatic Aromatic Copolymer, Corylus Avellana (Hazelnut) Seed Oil, Butyrospermum Parkii (Shea) Butter, Simmondsia Chinensis (Jojoba) Seed Oil, Argania Spinosa (Argan) Kernel Oil, PEG-8 Caprylic/Capric Glycerides (&) Aqua (Water) (&) Octyldodeceth-25 (&) Sodium Hyaluronate, Palmitoyl Tripeptide-1, Ceramide NP (&) Ceramide AP (&) Ceramide EOP (&) Phytosphingosine (&) Octyldodecanol (&) Pentylene Glycol, CI 19140:1, Flavour",
+   "evidenceActives": "butyrospermum parkii butter (#9 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.3★ from 85 ratings"
+   "buyerEvidence": "4.3★ from 85 ratings",
+   "concernBasis": "Aging — palmitoyl tripeptide-1 #13 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/h/j/s/10-bodylovin-popcorn-n-pilates-glassic-lip-balm-caramel-brown-original-imahm5gcs7dkjccz.jpeg?q=90",
@@ -36236,7 +38212,10 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:flipkart",
-   "inci:none"
+   "target:aging",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -36244,25 +38223,68 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Plum official website (plumgoodness.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://plumgoodness.com/products/plum-bodylovin-popcorn-n-pilates-glassic-lip-balm-10g",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Popcorn N' Pilates Glassic Lip Balm by BodyLovin'",
+   "inciMatchScore": 1,
+   "inciText": "Polybutene, Paraffinum Liquidum, Cera Microcristallina, Octyldodecanol, Mineral Oil (&) Ethylene/Propylene/Styrene Copolymer (&) Butylene/Ethylene/Styrene Copolymer, Ricinus Communis (Castor) Seed Oil, Aliphatic Aromatic Copolymer, Corylus Avellana (Hazelnut) Seed Oil, Butyrospermum Parkii (Shea) Butter, Simmondsia Chinensis (Jojoba) Seed Oil, Argania Spinosa (Argan) Kernel Oil, PEG-8 Caprylic/Capric Glycerides (&) Aqua (Water) (&) Octyldodeceth-25 (&) Sodium Hyaluronate, Palmitoyl Tripeptide-1, Ceramide NP (&) Ceramide AP (&) Ceramide EOP (&) Phytosphingosine (&) Octyldodecanol (&) Pentylene Glycol, CI 19140:1, Flavour",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 0.88,
+   "actives": [
+    {
+     "name": "paraffinum liquidum",
+     "grade": "B",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 9,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "simmondsia chinensis seed oil",
+     "grade": "B",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "argania spinosa kernel oil",
+     "grade": "B",
+     "position": 11,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "palmitoyl tripeptide-1",
+     "grade": "B",
+     "position": 13,
+     "core": false,
+     "trace": false,
+     "src": "peptides"
+    }
+   ],
+   "support": [
+    "butyrospermum parkii butter"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -36790,17 +38812,18 @@ const NXPRODUCTS = [
   "capacityLine": "6 g",
   "materialLine": "Rose + Almond + Cherry / acerola",
   "featureLine": "Lip balm · ₹6583/100g",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
+   "butyrospermum parkii butter high on the INCI list (moderate evidence); tocopherol high on the INCI list (moderate evidence)",
    "Well-reviewed: 4.3★ from 76 ratings"
   ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): aroma"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 6.3,
+   "skin": 8.5,
+   "trust": 8.5,
    "experience": 5.5
   },
   "fullSpec": {
@@ -36818,13 +38841,16 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "4.3/5 (76 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-cherry-shine-lip-balm-89042560204730213.html",
+   "inciMatchedName": "nivea cherry shine lip balm 89042560204730213 (name match 90%)",
+   "inciList": "Helianthus Annuus Hybrid Oil, Ricinus Communis Seed Oil, Helianthus Annuus Seed Cera, Hydrogenated Rapeseed Oil, Butyrospermum Parkii Butter, Aroma, CI 15850, Creatine, Ascorbyl Palmitate, Helianthus Annuus Seed Oil, Tocopherol, Ceramide NP, Lecithin, Olea Europaea Fruit Oil, 1-Methylhydantoin-2-Imide, CI 77492, CI 77499, Ceramide NP",
+   "evidenceActives": "butyrospermum parkii butter (#5 on list, moderate evidence); tocopherol (#11 on list, moderate evidence); ceramide np (#12 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): aroma (−1.5)",
    "maker": "Beiersdorf — Global FMCG or beauty group",
-   "buyerEvidence": "4.3★ from 76 ratings"
+   "buyerEvidence": "4.3★ from 76 ratings",
+   "concernBasis": "Irritation — ceramide np #12 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/m/8/j/-original-imahhcbgmyzadzg3.jpeg?q=90",
@@ -36848,7 +38874,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:flipkart",
-   "inci:none"
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -36856,27 +38884,81 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-cherry-shine-lip-balm-89042560204730213.html",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "nivea cherry shine lip balm 89042560204730213",
+   "inciMatchScore": 0.9,
+   "inciText": "Helianthus Annuus Hybrid Oil, Ricinus Communis Seed Oil, Helianthus Annuus Seed Cera, Hydrogenated Rapeseed Oil, Butyrospermum Parkii Butter, Aroma, CI 15850, Creatine, Ascorbyl Palmitate, Helianthus Annuus Seed Oil, Tocopherol, Ceramide NP, Lecithin, Olea Europaea Fruit Oil, 1-Methylhydantoin-2-Imide, CI 77492, CI 77499, Ceramide NP",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.94,
+   "actives": [
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "ascorbyl palmitate",
+     "grade": "C",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "helianthus annuus seed oil",
+     "grade": "B",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 11,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 12,
+     "core": true,
+     "trace": false,
+     "src": "ceramide"
+    }
+   ],
+   "support": [
+    "butyrospermum parkii butter",
+    "ceramide np"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "aroma"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Beiersdorf",
     "kind": "global",
@@ -36895,15 +38977,16 @@ const NXPRODUCTS = [
   "capacityLine": "10 g",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Lip balm · ₹3590/100g",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Plum official website (plumgoodness.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "butyrospermum parkii butter high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 4.7,
+   "skin": 9,
+   "trust": 7,
    "experience": 5.2
   },
   "fullSpec": {
@@ -36921,13 +39004,16 @@ const NXPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.2/5 (75 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Plum official website (plumgoodness.com) — product page › Ingredients",
+   "inciSourceUrl": "https://plumgoodness.com/products/plum-bodylovin-gossippin-ginger-ale-glassic-lip-balm-10g",
+   "inciMatchedName": "Gossippin' Ginger Ale Glassic Lip Balm by BodyLovin' (name match 100%)",
+   "inciList": "Polybutene, Paraffinum Liquidum, Cera Microcristallina, Octyldodecanol, Mineral Oil (&) Ethylene/Propylene/Styrene Copolymer (&) Butylene/Ethylene/Styrene Copolymer, Ricinus Communis (Castor) Seed Oil, Aliphatic Aromatic Copolymer, Corylus Avellana (Hazelnut) Seed Oil, Butyrospermum Parkii (Shea) Butter, Simmondsia Chinensis (Jojoba) Seed Oil, Argania Spinosa (Argan) Kernel Oil, PEG-8 Caprylic/Capric Glycerides (&) Aqua (Water) (&) Octyldodeceth-25 (&) Sodium Hyaluronate, Palmitoyl Tripeptide-1, Ceramide NP (&) Ceramide AP (&) Ceramide EOP (&) Phytosphingosine (&) Octyldodecanol (&) Pentylene Glycol, CI 15850:2, CI 77019, CI 77891, Flavour",
+   "evidenceActives": "butyrospermum parkii butter (#9 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.2★ from 75 ratings"
+   "buyerEvidence": "4.2★ from 75 ratings",
+   "concernBasis": "Aging — palmitoyl tripeptide-1 #13 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/h/e/y/10-bodylovin-gossippin-ginger-ale-glassic-lip-balm-coral-pink-original-imahm5g4jyawzrvq.jpeg?q=90",
@@ -36947,7 +39033,10 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:flipkart",
-   "inci:none"
+   "target:aging",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -36955,25 +39044,68 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Plum official website (plumgoodness.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://plumgoodness.com/products/plum-bodylovin-gossippin-ginger-ale-glassic-lip-balm-10g",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Gossippin' Ginger Ale Glassic Lip Balm by BodyLovin'",
+   "inciMatchScore": 1,
+   "inciText": "Polybutene, Paraffinum Liquidum, Cera Microcristallina, Octyldodecanol, Mineral Oil (&) Ethylene/Propylene/Styrene Copolymer (&) Butylene/Ethylene/Styrene Copolymer, Ricinus Communis (Castor) Seed Oil, Aliphatic Aromatic Copolymer, Corylus Avellana (Hazelnut) Seed Oil, Butyrospermum Parkii (Shea) Butter, Simmondsia Chinensis (Jojoba) Seed Oil, Argania Spinosa (Argan) Kernel Oil, PEG-8 Caprylic/Capric Glycerides (&) Aqua (Water) (&) Octyldodeceth-25 (&) Sodium Hyaluronate, Palmitoyl Tripeptide-1, Ceramide NP (&) Ceramide AP (&) Ceramide EOP (&) Phytosphingosine (&) Octyldodecanol (&) Pentylene Glycol, CI 15850:2, CI 77019, CI 77891, Flavour",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 0.89,
+   "actives": [
+    {
+     "name": "paraffinum liquidum",
+     "grade": "B",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 9,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "simmondsia chinensis seed oil",
+     "grade": "B",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "argania spinosa kernel oil",
+     "grade": "B",
+     "position": 11,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "palmitoyl tripeptide-1",
+     "grade": "B",
+     "position": 13,
+     "core": false,
+     "trace": false,
+     "src": "peptides"
+    }
+   ],
+   "support": [
+    "butyrospermum parkii butter"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -37207,18 +39339,19 @@ const NXPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "Ceramides + Kojic acid",
   "featureLine": "Lip balm · SPF 50",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Aravi official website (araviorganic.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
+   "shea butter high on the INCI list (moderate evidence); prunus amygdalus dulcis oil high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list",
    "Well-reviewed: 4.5★ from 75 ratings"
   ],
   "cons": [
-   "Too few ingredients are recognisable INCI names to treat this as the declared list, so formula and safety are unscored — formula unscored",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
+   "ingredients": 6.8,
+   "skin": 7,
+   "trust": 5.5,
    "experience": 6.2
   },
   "fullSpec": {
@@ -37237,14 +39370,18 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "4.5/5 (75 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Too few ingredients are recognisable INCI names to treat this as the declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Specifications › Composition",
-   "inciList": "Unverified seller line: Kojic Acid, Ceramide, Peptide, Shea Butter, Vitamin E, Zinc Oxide & Titanium Dioxide",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Aravi official website (araviorganic.com) — product page › Ingredients",
+   "inciSourceUrl": "https://araviorganic.com/products/barrier-repair-lip-balm-spf-50-pa-dry-pigmented-lips-kojic-acid-ceramide-5g",
+   "inciMatchedName": "Barrier Repair Lip Balm SPF 50 PA++++ | Dry & Pigmented Lips | Kojic Acid & Ceramide | 5g (name match 98%)",
+   "listingIngredientLine": "Kojic Acid, Ceramide, Peptide, Shea Butter, Vitamin E, Zinc Oxide & Titanium Dioxide (as printed on the Flipkart listing — incomplete, not scored)",
+   "inciList": "Shea Butter, Cocoa Seed Butter, Carnauba Wax, Caprylic/Capric Triglyceride(Coconut Derived), Hydrogenated Polyisobutene, Tocopheryl Acetate (Vitamin E), Sweet Almond Oil, Zinc Oxide, Titanium Dioxide, Kojic Acid, Ceramide NP, Palmitoyl Peptide, Niacinamide, Pentaerythrityl Tetra-di-t-butyl Hydroxyhydrocinnamate, Ethylhexylglycerin",
+   "evidenceActives": "shea butter (#1 on list, moderate evidence); prunus amygdalus dulcis oil (#7 on list, moderate evidence); zinc oxide (#8 on list, strong evidence); titanium dioxide (#9 on list, strong evidence); ceramide np (#11 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "declaredManufacturer": "Janki Herbal Pvt. Ltd. Plot No.69, 70, 71, Govindji Industrial Estate - 1, Makna - Valan Road, Valan, Dist: Surat, Gujarat - 394525. Mfg. Lic. No. Gc/1804 (as printed on the Flipkart listing — not scored)",
    "buyerEvidence": "4.5★ from 75 ratings",
+   "concernBasis": "Acne — niacinamide #13 on INCI; Dark spots — kojic acid #10 on INCI, niacinamide #13 on INCI; Irritation — ceramide np #11 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
@@ -37271,7 +39408,12 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.5",
    "store:flipkart",
-   "inci:partial"
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -37279,25 +39421,94 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "partial",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Specifications › Composition",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Kojic Acid, Ceramide, Peptide, Shea Butter, Vitamin E, Zinc Oxide & Titanium Dioxide",
-   "inciNote": "Too few ingredients are recognisable INCI names to treat this as the declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
+   "inci": "full",
+   "inciSource": "Aravi official website (araviorganic.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://araviorganic.com/products/barrier-repair-lip-balm-spf-50-pa-dry-pigmented-lips-kojic-acid-ceramide-5g",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Barrier Repair Lip Balm SPF 50 PA++++ | Dry & Pigmented Lips | Kojic Acid & Ceramide | 5g",
+   "inciMatchScore": 0.98,
+   "inciText": "Shea Butter, Cocoa Seed Butter, Carnauba Wax, Caprylic/Capric Triglyceride(Coconut Derived), Hydrogenated Polyisobutene, Tocopheryl Acetate (Vitamin E), Sweet Almond Oil, Zinc Oxide, Titanium Dioxide, Kojic Acid, Ceramide NP, Palmitoyl Peptide, Niacinamide, Pentaerythrityl Tetra-di-t-butyl Hydroxyhydrocinnamate, Ethylhexylglycerin",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
    "recognised": 1,
-   "actives": [],
-   "support": [],
+   "actives": [
+    {
+     "name": "shea butter",
+     "grade": "B",
+     "position": 1,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 6,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "prunus amygdalus dulcis oil",
+     "grade": "B",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "zinc oxide",
+     "grade": "A",
+     "position": 8,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "titanium dioxide",
+     "grade": "A",
+     "position": 9,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "kojic acid",
+     "grade": "B",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "pigment"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 11,
+     "core": true,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 13,
+     "core": false,
+     "trace": false,
+     "src": "niacinamide"
+    }
+   ],
+   "support": [
+    "shea butter",
+    "ceramide np",
+    "niacinamide"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -40004,15 +42215,17 @@ const NXPRODUCTS = [
   "capacityLine": "16 g (pack of 2)",
   "materialLine": "Cherry / acerola",
   "featureLine": "Lip balm · ₹2394/100g",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "butyrospermum parkii butter high on the INCI list (moderate evidence); tocopherol high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): aroma"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 6.3,
+   "skin": 8.5,
+   "trust": 8.5,
    "experience": 4.1
   },
   "fullSpec": {
@@ -40030,13 +42243,16 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "3.9/5 (57 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-cherry-shine-lip-balm-89042560204730213.html",
+   "inciMatchedName": "nivea cherry shine lip balm 89042560204730213 (name match 94%)",
+   "inciList": "Helianthus Annuus Hybrid Oil, Ricinus Communis Seed Oil, Helianthus Annuus Seed Cera, Hydrogenated Rapeseed Oil, Butyrospermum Parkii Butter, Aroma, CI 15850, Creatine, Ascorbyl Palmitate, Helianthus Annuus Seed Oil, Tocopherol, Ceramide NP, Lecithin, Olea Europaea Fruit Oil, 1-Methylhydantoin-2-Imide, CI 77492, CI 77499, Ceramide NP",
+   "evidenceActives": "butyrospermum parkii butter (#5 on list, moderate evidence); tocopherol (#11 on list, moderate evidence); ceramide np (#12 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): aroma (−1.5)",
    "maker": "Beiersdorf — Global FMCG or beauty group",
-   "buyerEvidence": "3.9★ from 57 ratings"
+   "buyerEvidence": "3.9★ from 57 ratings",
+   "concernBasis": "Irritation — ceramide np #12 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/b/d/f/-original-imahhcbjbjmkp2sk.jpeg?q=90",
@@ -40059,7 +42275,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:3.5",
    "store:flipkart",
-   "inci:none"
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -40067,27 +42285,81 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-cherry-shine-lip-balm-89042560204730213.html",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "nivea cherry shine lip balm 89042560204730213",
+   "inciMatchScore": 0.94,
+   "inciText": "Helianthus Annuus Hybrid Oil, Ricinus Communis Seed Oil, Helianthus Annuus Seed Cera, Hydrogenated Rapeseed Oil, Butyrospermum Parkii Butter, Aroma, CI 15850, Creatine, Ascorbyl Palmitate, Helianthus Annuus Seed Oil, Tocopherol, Ceramide NP, Lecithin, Olea Europaea Fruit Oil, 1-Methylhydantoin-2-Imide, CI 77492, CI 77499, Ceramide NP",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.94,
+   "actives": [
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "ascorbyl palmitate",
+     "grade": "C",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "helianthus annuus seed oil",
+     "grade": "B",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 11,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 12,
+     "core": true,
+     "trace": false,
+     "src": "ceramide"
+    }
+   ],
+   "support": [
+    "butyrospermum parkii butter",
+    "ceramide np"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "aroma"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Beiersdorf",
     "kind": "global",
@@ -40973,15 +43245,17 @@ const NXPRODUCTS = [
   "capacityLine": "8 g",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Lip balm · ₹2750/100g",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "butyrospermum parkii butter high on the INCI list (moderate evidence); glycerin high on the INCI list (strong evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): aroma"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 5.4,
+   "skin": 8.5,
+   "trust": 8.5,
    "experience": 3.7
   },
   "fullSpec": {
@@ -40999,11 +43273,13 @@ const NXPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "3.8/5 (51 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-peach-shine-lip-balm-89042560204110213.html",
+   "inciMatchedName": "nivea peach shine lip balm 89042560204110213 (name match 94%)",
+   "inciList": "Octyldodecanol, Polyisobutene, Ricinus Communis Seed Oil, Pentaerythrityl Tetraisostearate, Hydrogenated Polydecene, Candelilla Cera, Butyrospermum Parkii Butter, Cera Microcristallina, Isopropyl Palmitate, Synthetic Wax, Polyglyceryl-3 Diisostearate, Glycerin, Glyceryl Glucoside, Aqua, Prunus Persica Juice, Mica, Propylene Glycol, BHT, Aroma, CI 15985, CI 15850, CI 77891",
+   "evidenceActives": "butyrospermum parkii butter (#7 on list, moderate evidence); glycerin (#12 on list, strong evidence)",
+   "safetyFlags": "Added fragrance (parfum): aroma (−1.5)",
    "maker": "Beiersdorf — Global FMCG or beauty group",
    "buyerEvidence": "3.8★ from 51 ratings"
   },
@@ -41024,7 +43300,8 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:3.5",
    "store:flipkart",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -41032,27 +43309,57 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-peach-shine-lip-balm-89042560204110213.html",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "nivea peach shine lip balm 89042560204110213",
+   "inciMatchScore": 0.94,
+   "inciText": "Octyldodecanol, Polyisobutene, Ricinus Communis Seed Oil, Pentaerythrityl Tetraisostearate, Hydrogenated Polydecene, Candelilla Cera, Butyrospermum Parkii Butter, Cera Microcristallina, Isopropyl Palmitate, Synthetic Wax, Polyglyceryl-3 Diisostearate, Glycerin, Glyceryl Glucoside, Aqua, Prunus Persica Juice, Mica, Propylene Glycol, BHT, Aroma, CI 15985, CI 15850, CI 77891",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.95,
+   "actives": [
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 12,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    }
+   ],
+   "support": [
+    "butyrospermum parkii butter",
+    "glycerin"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "aroma"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Beiersdorf",
     "kind": "global",
@@ -41071,15 +43378,16 @@ const NXPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "Coffee",
   "featureLine": "Lip balm",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Plum official website (plumgoodness.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "butyrospermum parkii butter high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 4.7,
+   "skin": 9,
+   "trust": 7,
    "experience": 4
   },
   "fullSpec": {
@@ -41097,13 +43405,16 @@ const NXPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "3.9/5 (50 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Plum official website (plumgoodness.com) — product page › Ingredients",
+   "inciSourceUrl": "https://plumgoodness.com/products/plum-bodylovin-kaapi-tiramisu-glassic-lip-balm-10g",
+   "inciMatchedName": "Kaapi Tiramisu Glassic Lip Balm by BodyLovin' (name match 100%)",
+   "inciList": "Polybutene, Paraffinum Liquidum, Cera Microcristallina, Octyldodecanol, Mineral Oil (&) Ethylene/Propylene/Styrene Copolymer (&) Butylene/Ethylene/Styrene Copolymer, Ricinus Communis (Castor) Seed Oil, Aliphatic Aromatic Copolymer, Corylus Avellana (Hazelnut) Seed Oil, Butyrospermum Parkii (Shea) Butter, Simmondsia Chinensis (Jojoba) Seed Oil, Argania Spinosa (Argan) Kernel Oil, PEG-8 Caprylic/Capric Glycerides (&) Aqua (Water) (&) Octyldodeceth-25 (&) Sodium Hyaluronate, Palmitoyl Tripeptide-1, Ceramide NP (&) Ceramide AP (&) Ceramide EOP (&) Phytosphingosine (&) Octyldodecanol (&) Pentylene Glycol, CI 77491, CI 77492, CI 77499, Flavour",
+   "evidenceActives": "butyrospermum parkii butter (#9 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
-   "buyerEvidence": "3.9★ from 50 ratings"
+   "buyerEvidence": "3.9★ from 50 ratings",
+   "concernBasis": "Aging — palmitoyl tripeptide-1 #13 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/2/u/v/3-bodylovin-kaapi-tiramisu-glassic-lip-balm-3g-1-plum-original-imahqkbzmhyaxzsm.jpeg?q=90",
@@ -41122,7 +43433,10 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:3.5",
    "store:flipkart",
-   "inci:none"
+   "target:aging",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -41130,25 +43444,68 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Plum official website (plumgoodness.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://plumgoodness.com/products/plum-bodylovin-kaapi-tiramisu-glassic-lip-balm-10g",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Kaapi Tiramisu Glassic Lip Balm by BodyLovin'",
+   "inciMatchScore": 1,
+   "inciText": "Polybutene, Paraffinum Liquidum, Cera Microcristallina, Octyldodecanol, Mineral Oil (&) Ethylene/Propylene/Styrene Copolymer (&) Butylene/Ethylene/Styrene Copolymer, Ricinus Communis (Castor) Seed Oil, Aliphatic Aromatic Copolymer, Corylus Avellana (Hazelnut) Seed Oil, Butyrospermum Parkii (Shea) Butter, Simmondsia Chinensis (Jojoba) Seed Oil, Argania Spinosa (Argan) Kernel Oil, PEG-8 Caprylic/Capric Glycerides (&) Aqua (Water) (&) Octyldodeceth-25 (&) Sodium Hyaluronate, Palmitoyl Tripeptide-1, Ceramide NP (&) Ceramide AP (&) Ceramide EOP (&) Phytosphingosine (&) Octyldodecanol (&) Pentylene Glycol, CI 77491, CI 77492, CI 77499, Flavour",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 0.89,
+   "actives": [
+    {
+     "name": "paraffinum liquidum",
+     "grade": "B",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 9,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "simmondsia chinensis seed oil",
+     "grade": "B",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "argania spinosa kernel oil",
+     "grade": "B",
+     "position": 11,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "palmitoyl tripeptide-1",
+     "grade": "B",
+     "position": 13,
+     "core": false,
+     "trace": false,
+     "src": "peptides"
+    }
+   ],
+   "support": [
+    "butyrospermum parkii butter"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -44335,15 +46692,17 @@ const NXPRODUCTS = [
   "capacityLine": "8 g",
   "materialLine": "Cherry / acerola",
   "featureLine": "Lip balm · ₹6000/100g",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "butyrospermum parkii butter high on the INCI list (moderate evidence); tocopherol high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): aroma"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 6.3,
+   "skin": 8.5,
+   "trust": 8.5,
    "experience": 3.8
   },
   "fullSpec": {
@@ -44361,13 +46720,16 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "3.9/5 (36 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-cherry-shine-lip-balm-89042560204730213.html",
+   "inciMatchedName": "nivea cherry shine lip balm 89042560204730213 (name match 94%)",
+   "inciList": "Helianthus Annuus Hybrid Oil, Ricinus Communis Seed Oil, Helianthus Annuus Seed Cera, Hydrogenated Rapeseed Oil, Butyrospermum Parkii Butter, Aroma, CI 15850, Creatine, Ascorbyl Palmitate, Helianthus Annuus Seed Oil, Tocopherol, Ceramide NP, Lecithin, Olea Europaea Fruit Oil, 1-Methylhydantoin-2-Imide, CI 77492, CI 77499, Ceramide NP",
+   "evidenceActives": "butyrospermum parkii butter (#5 on list, moderate evidence); tocopherol (#11 on list, moderate evidence); ceramide np (#12 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): aroma (−1.5)",
    "maker": "Beiersdorf — Global FMCG or beauty group",
-   "buyerEvidence": "3.9★ from 36 ratings"
+   "buyerEvidence": "3.9★ from 36 ratings",
+   "concernBasis": "Irritation — ceramide np #12 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/9/p/i/-original-imahhcbkpehgdjmf.jpeg?q=90",
@@ -44388,7 +46750,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:3.5",
    "store:flipkart",
-   "inci:none"
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -44396,27 +46760,81 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-cherry-shine-lip-balm-89042560204730213.html",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "nivea cherry shine lip balm 89042560204730213",
+   "inciMatchScore": 0.94,
+   "inciText": "Helianthus Annuus Hybrid Oil, Ricinus Communis Seed Oil, Helianthus Annuus Seed Cera, Hydrogenated Rapeseed Oil, Butyrospermum Parkii Butter, Aroma, CI 15850, Creatine, Ascorbyl Palmitate, Helianthus Annuus Seed Oil, Tocopherol, Ceramide NP, Lecithin, Olea Europaea Fruit Oil, 1-Methylhydantoin-2-Imide, CI 77492, CI 77499, Ceramide NP",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.94,
+   "actives": [
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "ascorbyl palmitate",
+     "grade": "C",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "helianthus annuus seed oil",
+     "grade": "B",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 11,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 12,
+     "core": true,
+     "trace": false,
+     "src": "ceramide"
+    }
+   ],
+   "support": [
+    "butyrospermum parkii butter",
+    "ceramide np"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "aroma"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Beiersdorf",
     "kind": "global",
@@ -48421,15 +50839,17 @@ const NXPRODUCTS = [
   "capacityLine": "8 g",
   "materialLine": "Watermelon",
   "featureLine": "Lip balm · ₹6250/100g",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "butyrospermum parkii butter high on the INCI list (moderate evidence); tocopherol high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): aroma"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 5.8,
+   "skin": 8.5,
+   "trust": 8.5,
    "experience": 4.2
   },
   "fullSpec": {
@@ -48447,11 +50867,13 @@ const NXPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.1/5 (24 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-watermelon-shine-lip-balm-89042560205580213.html",
+   "inciMatchedName": "nivea watermelon shine lip balm 89042560205580213 (name match 100%)",
+   "inciList": "Helianthus Annuus Hybrid Oil, Ricinus Communis Seed Oil, Helianthus Annuus Seed Cera, Hydrogenated Rapeseed Oil, Butyrospermum Parkii Butter, Aroma, Tocopherol, Ascorbyl Palmitate, Helianthus Annuus Seed Oil, Lecithin, CI 15850, CI 77492, CI 77891",
+   "evidenceActives": "butyrospermum parkii butter (#5 on list, moderate evidence); tocopherol (#7 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): aroma (−1.5)",
    "maker": "Beiersdorf — Global FMCG or beauty group",
    "buyerEvidence": "4.1★ from 24 ratings"
   },
@@ -48475,7 +50897,8 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:flipkart",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -48483,27 +50906,72 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-watermelon-shine-lip-balm-89042560205580213.html",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "nivea watermelon shine lip balm 89042560205580213",
+   "inciMatchScore": 1,
+   "inciText": "Helianthus Annuus Hybrid Oil, Ricinus Communis Seed Oil, Helianthus Annuus Seed Cera, Hydrogenated Rapeseed Oil, Butyrospermum Parkii Butter, Aroma, Tocopherol, Ascorbyl Palmitate, Helianthus Annuus Seed Oil, Lecithin, CI 15850, CI 77492, CI 77891",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "ascorbyl palmitate",
+     "grade": "C",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "helianthus annuus seed oil",
+     "grade": "B",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    }
+   ],
+   "support": [
+    "butyrospermum parkii butter"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "aroma"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Beiersdorf",
     "kind": "global",
@@ -53068,15 +55536,18 @@ const NXPRODUCTS = [
   "capacityLine": "16 g (pack of 2)",
   "materialLine": "Rose + Almond + Shea butter",
   "featureLine": "Lip balm · ₹2719/100g",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "butyrospermum parkii butter high on the INCI list (moderate evidence); glycerin high on the INCI list (strong evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): perfume",
+   "Essential oil / volatile sensitiser: rosa damascena flower oil"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 5.7,
+   "skin": 8,
+   "trust": 8.5,
    "experience": 3
   },
   "fullSpec": {
@@ -53094,11 +55565,13 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "3.8/5 (16 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-soft-rose-lip-balm-89042560204590213.html",
+   "inciMatchedName": "nivea soft rose lip balm 89042560204590213 (name match 90%)",
+   "inciList": "Cera Microcristallina, Octyldodecanol, Hydrogenated Polydecene, Cetyl Palmitate, Ricinus Communis Seed Oil, Myristyl Myristate, VP/Hexadecene Copolymer, Cetearyl Alcohol, Polyglyceryl-3 Diisostearate, Mica, Butyrospermum Parkii Butter, Cocoglycerides, Pentaerythrityl Tetraisostearate, C20-40 Alkyl Stearate, Glycerin, Copernicia Cerifera Cera, Rosa Gallica Flower Extract, Rosa Damascena Flower Oil, Glyceryl Glucoside, Aqua, Cera Alba, Perfume, CI 77891, CI 77492",
+   "evidenceActives": "butyrospermum parkii butter (#11 on list, moderate evidence); glycerin (#14 on list, strong evidence); cera alba (#20 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): perfume (−1.5); Essential oil / volatile sensitiser: rosa damascena flower oil (−0.5)",
    "maker": "Beiersdorf — Global FMCG or beauty group",
    "buyerEvidence": "3.8★ from 16 ratings"
   },
@@ -53125,7 +55598,8 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:3.5",
    "store:flipkart",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -53133,27 +55607,74 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-soft-rose-lip-balm-89042560204590213.html",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "nivea soft rose lip balm 89042560204590213",
+   "inciMatchScore": 0.9,
+   "inciText": "Cera Microcristallina, Octyldodecanol, Hydrogenated Polydecene, Cetyl Palmitate, Ricinus Communis Seed Oil, Myristyl Myristate, VP/Hexadecene Copolymer, Cetearyl Alcohol, Polyglyceryl-3 Diisostearate, Mica, Butyrospermum Parkii Butter, Cocoglycerides, Pentaerythrityl Tetraisostearate, C20-40 Alkyl Stearate, Glycerin, Copernicia Cerifera Cera, Rosa Gallica Flower Extract, Rosa Damascena Flower Oil, Glyceryl Glucoside, Aqua, Cera Alba, Perfume, CI 77891, CI 77492",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.96,
+   "actives": [
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 11,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 14,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "cera alba",
+     "grade": "B",
+     "position": 20,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    }
+   ],
+   "support": [
+    "butyrospermum parkii butter",
+    "glycerin"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "essentialOil",
+     "label": "Essential oil / volatile sensitiser",
+     "names": [
+      "rosa damascena flower oil"
+     ],
+     "penalty": 0.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Beiersdorf",
     "kind": "global",
@@ -57732,17 +60253,19 @@ const NXPRODUCTS = [
   "capacityLine": "14 g",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Lip mask · ₹5079/100g",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (The Face Shop official website (thefaceshop.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
+   "butyrospermum parkii butter high on the INCI list (moderate evidence); dimethicone high on the INCI list (moderate evidence)",
    "Well-reviewed: 4.7★ from 10 ratings"
   ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): fragrance",
+   "EU-declared fragrance allergen: limonene, linalool"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 8,
+   "skin": 7,
+   "trust": 8.5,
    "experience": 5.6
   },
   "fullSpec": {
@@ -57760,13 +60283,16 @@ const NXPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.7/5 (10 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "The Face Shop official website (thefaceshop.in) — product page › Ingredients",
+   "inciSourceUrl": "https://thefaceshop.in/products/the-face-shop-vitamin-lip-sleeping-mask-14g-1",
+   "inciMatchedName": "Vitamin Lip Sleeping Mask 14g (name match 100%)",
+   "inciList": "Phytosteryl/Isostearyl/Cetyl/Stearyl/Behenyl Dimer Dilinoleate, Diisostearyl Malate, Hydrogenated Polyisobutene, Butyrospermum Parkii (Shea) Butter, Tribehenin, Synthetic Wax, 1,2-Hexanediol, Microcrystalline Wax, Synthetic Fluorphlogopite, Ethylene/Propylene Copolymer, Simethicone, Ascorbic Acid(10ppm), Ascorbyl Glucoside, Niacinamide, Panthenol, Fragrance, Limonene, Linalool, Citral, Red 7 Lake(Ci 15850), Yellow 5 Lake(Ci 19140), Titanium Dioxide(Ci 77891)",
+   "evidenceActives": "butyrospermum parkii butter (#4 on list, moderate evidence); dimethicone (#11 on list, moderate evidence); panthenol (#15 on list, moderate evidence); titanium dioxide (#22 on list, strong evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5); EU-declared fragrance allergen: limonene, linalool, citral (−1.5)",
    "maker": "LG Household & Health Care — Global FMCG or beauty group",
-   "buyerEvidence": "4.7★ from 10 ratings"
+   "buyerEvidence": "4.7★ from 10 ratings",
+   "concernBasis": "Acne — niacinamide #14 on INCI; Dark spots — ascorbic acid #12 on INCI, ascorbyl glucoside #13 on INCI, niacinamide #14 on INCI; Aging — ascorbic acid #12 on INCI, ascorbyl glucoside #13 on INCI; Irritation — panthenol #15 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/y/t/q/-original-imahgfmrzn9hht6u.jpeg?q=90",
@@ -57792,7 +60318,12 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:flipkart",
-   "inci:none"
+   "target:acne",
+   "target:dark-spots",
+   "target:aging",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -57800,27 +60331,110 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "The Face Shop official website (thefaceshop.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thefaceshop.in/products/the-face-shop-vitamin-lip-sleeping-mask-14g-1",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Vitamin Lip Sleeping Mask 14g",
+   "inciMatchScore": 1,
+   "inciText": "Phytosteryl/Isostearyl/Cetyl/Stearyl/Behenyl Dimer Dilinoleate, Diisostearyl Malate, Hydrogenated Polyisobutene, Butyrospermum Parkii (Shea) Butter, Tribehenin, Synthetic Wax, 1,2-Hexanediol, Microcrystalline Wax, Synthetic Fluorphlogopite, Ethylene/Propylene Copolymer, Simethicone, Ascorbic Acid(10ppm), Ascorbyl Glucoside, Niacinamide, Panthenol, Fragrance, Limonene, Linalool, Citral, Red 7 Lake(Ci 15850), Yellow 5 Lake(Ci 19140), Titanium Dioxide(Ci 77891)",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.91,
+   "actives": [
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 11,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "ascorbic acid",
+     "grade": "A",
+     "position": 12,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "ascorbyl glucoside",
+     "grade": "B",
+     "position": 13,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 14,
+     "core": false,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 15,
+     "core": true,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "titanium dioxide",
+     "grade": "A",
+     "position": 22,
+     "core": true,
+     "trace": true,
+     "src": "sunFilters"
+    }
+   ],
+   "support": [
+    "butyrospermum parkii butter",
+    "dimethicone",
+    "niacinamide",
+    "panthenol"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "euAllergen",
+     "label": "EU-declared fragrance allergen",
+     "names": [
+      "limonene",
+      "linalool",
+      "citral"
+     ],
+     "penalty": 1.5,
+     "src": "eu1223"
+    }
+   ],
    "maker": {
     "parent": "LG Household & Health Care",
     "kind": "global",
@@ -58462,17 +61076,18 @@ const NXPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "Cherry / acerola",
   "featureLine": "Lip balm",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
+   "butyrospermum parkii butter high on the INCI list (moderate evidence); tocopherol high on the INCI list (moderate evidence)",
    "Well-reviewed: 4.3★ from 10 ratings"
   ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): aroma"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 6.3,
+   "skin": 8.5,
+   "trust": 8.5,
    "experience": 4.3
   },
   "fullSpec": {
@@ -58490,13 +61105,16 @@ const NXPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.3/5 (10 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-cherry-shine-lip-balm-89042560204730213.html",
+   "inciMatchedName": "nivea cherry shine lip balm 89042560204730213 (name match 90%)",
+   "inciList": "Helianthus Annuus Hybrid Oil, Ricinus Communis Seed Oil, Helianthus Annuus Seed Cera, Hydrogenated Rapeseed Oil, Butyrospermum Parkii Butter, Aroma, CI 15850, Creatine, Ascorbyl Palmitate, Helianthus Annuus Seed Oil, Tocopherol, Ceramide NP, Lecithin, Olea Europaea Fruit Oil, 1-Methylhydantoin-2-Imide, CI 77492, CI 77499, Ceramide NP",
+   "evidenceActives": "butyrospermum parkii butter (#5 on list, moderate evidence); tocopherol (#11 on list, moderate evidence); ceramide np (#12 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): aroma (−1.5)",
    "maker": "Beiersdorf — Global FMCG or beauty group",
-   "buyerEvidence": "4.3★ from 10 ratings"
+   "buyerEvidence": "4.3★ from 10 ratings",
+   "concernBasis": "Irritation — ceramide np #12 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/k7dnonk0/lip-balm/6/a/c/14-4-shine-caring-lip-balm-17-nivea-original-imafpmgrjgnuths3.jpeg?q=90",
@@ -58515,7 +61133,9 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
-   "inci:none"
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -58523,27 +61143,81 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-cherry-shine-lip-balm-89042560204730213.html",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "nivea cherry shine lip balm 89042560204730213",
+   "inciMatchScore": 0.9,
+   "inciText": "Helianthus Annuus Hybrid Oil, Ricinus Communis Seed Oil, Helianthus Annuus Seed Cera, Hydrogenated Rapeseed Oil, Butyrospermum Parkii Butter, Aroma, CI 15850, Creatine, Ascorbyl Palmitate, Helianthus Annuus Seed Oil, Tocopherol, Ceramide NP, Lecithin, Olea Europaea Fruit Oil, 1-Methylhydantoin-2-Imide, CI 77492, CI 77499, Ceramide NP",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.94,
+   "actives": [
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "ascorbyl palmitate",
+     "grade": "C",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "helianthus annuus seed oil",
+     "grade": "B",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 11,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 12,
+     "core": true,
+     "trace": false,
+     "src": "ceramide"
+    }
+   ],
+   "support": [
+    "butyrospermum parkii butter",
+    "ceramide np"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "aroma"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Beiersdorf",
     "kind": "global",
@@ -60803,15 +63477,17 @@ const NXPRODUCTS = [
   "capacityLine": "6 g",
   "materialLine": "Cherry / acerola",
   "featureLine": "Lip balm · ₹8000/100g",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "butyrospermum parkii butter high on the INCI list (moderate evidence); tocopherol high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): aroma"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 6.3,
+   "skin": 8.5,
+   "trust": 8.5,
    "experience": 1.7
   },
   "fullSpec": {
@@ -60829,13 +63505,16 @@ const NXPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "3.5/5 (8 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-cherry-shine-lip-balm-89042560204730213.html",
+   "inciMatchedName": "nivea cherry shine lip balm 89042560204730213 (name match 90%)",
+   "inciList": "Helianthus Annuus Hybrid Oil, Ricinus Communis Seed Oil, Helianthus Annuus Seed Cera, Hydrogenated Rapeseed Oil, Butyrospermum Parkii Butter, Aroma, CI 15850, Creatine, Ascorbyl Palmitate, Helianthus Annuus Seed Oil, Tocopherol, Ceramide NP, Lecithin, Olea Europaea Fruit Oil, 1-Methylhydantoin-2-Imide, CI 77492, CI 77499, Ceramide NP",
+   "evidenceActives": "butyrospermum parkii butter (#5 on list, moderate evidence); tocopherol (#11 on list, moderate evidence); ceramide np (#12 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): aroma (−1.5)",
    "maker": "Beiersdorf — Global FMCG or beauty group",
-   "buyerEvidence": "3.5★ from 8 ratings"
+   "buyerEvidence": "3.5★ from 8 ratings",
+   "concernBasis": "Irritation — ceramide np #12 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/k7dnonk0/lip-balm/a/g/f/9-6-shine-caring-lip-balm-8-nivea-original-imafpm2fyhxakzqg.jpeg?q=90",
@@ -60855,7 +63534,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:3.5",
    "store:flipkart",
-   "inci:none"
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -60863,27 +63544,81 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-cherry-shine-lip-balm-89042560204730213.html",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "nivea cherry shine lip balm 89042560204730213",
+   "inciMatchScore": 0.9,
+   "inciText": "Helianthus Annuus Hybrid Oil, Ricinus Communis Seed Oil, Helianthus Annuus Seed Cera, Hydrogenated Rapeseed Oil, Butyrospermum Parkii Butter, Aroma, CI 15850, Creatine, Ascorbyl Palmitate, Helianthus Annuus Seed Oil, Tocopherol, Ceramide NP, Lecithin, Olea Europaea Fruit Oil, 1-Methylhydantoin-2-Imide, CI 77492, CI 77499, Ceramide NP",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.94,
+   "actives": [
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "ascorbyl palmitate",
+     "grade": "C",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "helianthus annuus seed oil",
+     "grade": "B",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 11,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 12,
+     "core": true,
+     "trace": false,
+     "src": "ceramide"
+    }
+   ],
+   "support": [
+    "butyrospermum parkii butter",
+    "ceramide np"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "aroma"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Beiersdorf",
     "kind": "global",
@@ -62166,15 +64901,17 @@ const NXPRODUCTS = [
   "capacityLine": "8 g",
   "materialLine": "Strawberry",
   "featureLine": "Lip balm · ₹2813/100g",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "cera alba high on the INCI list (moderate evidence); butyrospermum parkii butter high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): aroma"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 6.3,
+   "skin": 8.5,
+   "trust": 8.5,
    "experience": 3.2
   },
   "fullSpec": {
@@ -62192,11 +64929,13 @@ const NXPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4/5 (7 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-strawberry-shine-lip-balm-89042560204970213.html",
+   "inciMatchedName": "nivea strawberry shine lip balm 89042560204970213 (name match 94%)",
+   "inciList": "Octyldodecanol, Ricinus Communis Seed Oil, Cera Alba, Cocoglycerides, Bis-Diglyceryl Polyacyladipate-2, Butyrospermum Parkii Butter, Hydrogenated Castor Oil, Helianthus Annuus Seed Cera, Persea Gratissima Oil, Simmondsia Chinensis Seed Oil, Fragaria Ananassa Fruit Juice, Tocopherol, Ascorbyl Palmitate, Aqua, Propylene Glycol, Mica, BHT, Aroma, CI 15985, CI 77891, CI 15850",
+   "evidenceActives": "cera alba (#3 on list, moderate evidence); butyrospermum parkii butter (#6 on list, moderate evidence); tocopherol (#12 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): aroma (−1.5)",
    "maker": "Beiersdorf — Global FMCG or beauty group",
    "buyerEvidence": "4★ from 7 ratings"
   },
@@ -62218,7 +64957,8 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:flipkart",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -62226,27 +64966,80 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-strawberry-shine-lip-balm-89042560204970213.html",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "nivea strawberry shine lip balm 89042560204970213",
+   "inciMatchScore": 0.94,
+   "inciText": "Octyldodecanol, Ricinus Communis Seed Oil, Cera Alba, Cocoglycerides, Bis-Diglyceryl Polyacyladipate-2, Butyrospermum Parkii Butter, Hydrogenated Castor Oil, Helianthus Annuus Seed Cera, Persea Gratissima Oil, Simmondsia Chinensis Seed Oil, Fragaria Ananassa Fruit Juice, Tocopherol, Ascorbyl Palmitate, Aqua, Propylene Glycol, Mica, BHT, Aroma, CI 15985, CI 77891, CI 15850",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.95,
+   "actives": [
+    {
+     "name": "cera alba",
+     "grade": "B",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "simmondsia chinensis seed oil",
+     "grade": "B",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 12,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "ascorbyl palmitate",
+     "grade": "C",
+     "position": 13,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "butyrospermum parkii butter"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "aroma"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Beiersdorf",
     "kind": "global",
@@ -68247,17 +71040,19 @@ const NXPRODUCTS = [
   "capacityLine": "16 g (pack of 2)",
   "materialLine": "Rose + Almond",
   "featureLine": "Lip balm · ₹5000/100g",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
+   "butyrospermum parkii butter high on the INCI list (moderate evidence); glycerin high on the INCI list (strong evidence)",
    "Well-reviewed: 4.3★ from 3 ratings"
   ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): perfume",
+   "Essential oil / volatile sensitiser: rosa damascena flower oil"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 5.7,
+   "skin": 8,
+   "trust": 8.5,
    "experience": 3.7
   },
   "fullSpec": {
@@ -68275,11 +71070,13 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "4.3/5 (3 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-soft-rose-lip-balm-89042560204590213.html",
+   "inciMatchedName": "nivea soft rose lip balm 89042560204590213 (name match 100%)",
+   "inciList": "Cera Microcristallina, Octyldodecanol, Hydrogenated Polydecene, Cetyl Palmitate, Ricinus Communis Seed Oil, Myristyl Myristate, VP/Hexadecene Copolymer, Cetearyl Alcohol, Polyglyceryl-3 Diisostearate, Mica, Butyrospermum Parkii Butter, Cocoglycerides, Pentaerythrityl Tetraisostearate, C20-40 Alkyl Stearate, Glycerin, Copernicia Cerifera Cera, Rosa Gallica Flower Extract, Rosa Damascena Flower Oil, Glyceryl Glucoside, Aqua, Cera Alba, Perfume, CI 77891, CI 77492",
+   "evidenceActives": "butyrospermum parkii butter (#11 on list, moderate evidence); glycerin (#14 on list, strong evidence); cera alba (#20 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): perfume (−1.5); Essential oil / volatile sensitiser: rosa damascena flower oil (−0.5)",
    "maker": "Beiersdorf — Global FMCG or beauty group",
    "buyerEvidence": "4.3★ from 3 ratings"
   },
@@ -68304,7 +71101,8 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:flipkart",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -68312,27 +71110,74 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-soft-rose-lip-balm-89042560204590213.html",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "nivea soft rose lip balm 89042560204590213",
+   "inciMatchScore": 1,
+   "inciText": "Cera Microcristallina, Octyldodecanol, Hydrogenated Polydecene, Cetyl Palmitate, Ricinus Communis Seed Oil, Myristyl Myristate, VP/Hexadecene Copolymer, Cetearyl Alcohol, Polyglyceryl-3 Diisostearate, Mica, Butyrospermum Parkii Butter, Cocoglycerides, Pentaerythrityl Tetraisostearate, C20-40 Alkyl Stearate, Glycerin, Copernicia Cerifera Cera, Rosa Gallica Flower Extract, Rosa Damascena Flower Oil, Glyceryl Glucoside, Aqua, Cera Alba, Perfume, CI 77891, CI 77492",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.96,
+   "actives": [
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 11,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 14,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "cera alba",
+     "grade": "B",
+     "position": 20,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    }
+   ],
+   "support": [
+    "butyrospermum parkii butter",
+    "glycerin"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "essentialOil",
+     "label": "Essential oil / volatile sensitiser",
+     "names": [
+      "rosa damascena flower oil"
+     ],
+     "penalty": 0.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Beiersdorf",
     "kind": "global",
@@ -68747,17 +71592,18 @@ const NXPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Lip balm",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
+   "butyrospermum parkii butter high on the INCI list (moderate evidence); glycerin high on the INCI list (strong evidence)",
    "Well-reviewed: 5★ from 3 ratings"
   ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): aroma"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 5.4,
+   "skin": 8.5,
+   "trust": 8.5,
    "experience": 5.8
   },
   "fullSpec": {
@@ -68775,11 +71621,13 @@ const NXPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "5/5 (3 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-blackberry-shine-lip-balm-89042560205720213.html",
+   "inciMatchedName": "nivea blackberry shine lip balm 89042560205720213 (name match 94%)",
+   "inciList": "Ricinus Communis Seed Oil, Polyisobutene, Octyldodecanol, Pentaerythrityl Tetraisostearate, Hydrogenated Polydecene, Candelilla Cera, Butyrospermum Parkii Butter, Cera Microcristallina, Isopropyl Palmitate, Synthetic Wax, Polyglyceryl-3 Diisostearate, Glycerin, Aqua, Mica, Silica, Propylene Glycol, BHT, Aroma, CI 77891, CI 15850, CI 77491, CI 42090",
+   "evidenceActives": "butyrospermum parkii butter (#7 on list, moderate evidence); glycerin (#12 on list, strong evidence)",
+   "safetyFlags": "Added fragrance (parfum): aroma (−1.5)",
    "maker": "Beiersdorf — Global FMCG or beauty group",
    "buyerEvidence": "5★ from 3 ratings"
   },
@@ -68799,7 +71647,8 @@ const NXPRODUCTS = [
    "aud:women",
    "rating:4.5",
    "store:flipkart",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -68807,27 +71656,57 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-blackberry-shine-lip-balm-89042560205720213.html",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "nivea blackberry shine lip balm 89042560205720213",
+   "inciMatchScore": 0.94,
+   "inciText": "Ricinus Communis Seed Oil, Polyisobutene, Octyldodecanol, Pentaerythrityl Tetraisostearate, Hydrogenated Polydecene, Candelilla Cera, Butyrospermum Parkii Butter, Cera Microcristallina, Isopropyl Palmitate, Synthetic Wax, Polyglyceryl-3 Diisostearate, Glycerin, Aqua, Mica, Silica, Propylene Glycol, BHT, Aroma, CI 77891, CI 15850, CI 77491, CI 42090",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.95,
+   "actives": [
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 12,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    }
+   ],
+   "support": [
+    "butyrospermum parkii butter",
+    "glycerin"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "aroma"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Beiersdorf",
     "kind": "global",
@@ -185449,16 +188328,18 @@ const NXPRODUCTS = [
   "capacityLine": "6 g",
   "materialLine": "Shea butter + Vitamin E + Glycerin",
   "featureLine": "Lip balm · SPF 30 · ₹8233/100g",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea Men official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "butyrospermum parkii butter high on the INCI list (moderate evidence); tocopherol high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No water phase or preservative declared — formula unscored",
+   "Added fragrance (parfum): aroma",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.8,
+   "ingredients": 6.3,
+   "skin": 8.5,
+   "trust": 8.5,
    "experience": 0
   },
   "fullSpec": {
@@ -185477,13 +188358,17 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No water phase or preservative declared — a seller “key ingredients” line, not a full INCI declaration, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: Ricinus Communis (Castor) Seed Oil, Octyldodecanol, Cera Microcristallina, Hydrogenated Polydecene, Butyrospermum Parkii (Shea Butter), Glycerin, Tocopherol (Vitamin E), Aroma",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Nivea Men official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-cherry-shine-lip-balm-89042560204730213.html",
+   "inciMatchedName": "nivea cherry shine lip balm 89042560204730213 (name match 88%)",
+   "listingIngredientLine": "Ricinus Communis (Castor) Seed Oil, Octyldodecanol, Cera Microcristallina, Hydrogenated Polydecene, Butyrospermum Parkii (Shea Butter), Glycerin, Tocopherol (Vitamin E), Aroma (as printed on the Flipkart listing — incomplete, not scored)",
+   "inciList": "Helianthus Annuus Hybrid Oil, Ricinus Communis Seed Oil, Helianthus Annuus Seed Cera, Hydrogenated Rapeseed Oil, Butyrospermum Parkii Butter, Aroma, CI 15850, Creatine, Ascorbyl Palmitate, Helianthus Annuus Seed Oil, Tocopherol, Ceramide NP, Lecithin, Olea Europaea Fruit Oil, 1-Methylhydantoin-2-Imide, CI 77492, CI 77499, Ceramide NP",
+   "evidenceActives": "butyrospermum parkii butter (#5 on list, moderate evidence); tocopherol (#11 on list, moderate evidence); ceramide np (#12 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): aroma (−1.5)",
    "maker": "Beiersdorf — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Irritation — ceramide np #12 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
@@ -185519,7 +188404,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
-   "inci:partial"
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -185527,27 +188414,81 @@ const NXPRODUCTS = [
    "derm": true,
    "men": false,
    "women": true,
-   "inci": "partial",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Ricinus Communis (Castor) Seed Oil, Octyldodecanol, Cera Microcristallina, Hydrogenated Polydecene, Butyrospermum Parkii (Shea Butter), Glycerin, Tocopherol (Vitamin E), Aroma",
-   "inciNote": "No water phase or preservative declared — a seller “key ingredients” line, not a full INCI declaration, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 1,
-   "actives": [],
-   "support": [],
+   "inci": "full",
+   "inciSource": "Nivea Men official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-cherry-shine-lip-balm-89042560204730213.html",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "nivea cherry shine lip balm 89042560204730213",
+   "inciMatchScore": 0.88,
+   "inciText": "Helianthus Annuus Hybrid Oil, Ricinus Communis Seed Oil, Helianthus Annuus Seed Cera, Hydrogenated Rapeseed Oil, Butyrospermum Parkii Butter, Aroma, CI 15850, Creatine, Ascorbyl Palmitate, Helianthus Annuus Seed Oil, Tocopherol, Ceramide NP, Lecithin, Olea Europaea Fruit Oil, 1-Methylhydantoin-2-Imide, CI 77492, CI 77499, Ceramide NP",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 1,
+   "recognised": 0.94,
+   "actives": [
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "ascorbyl palmitate",
+     "grade": "C",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "helianthus annuus seed oil",
+     "grade": "B",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 11,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 12,
+     "core": true,
+     "trace": false,
+     "src": "ceramide"
+    }
+   ],
+   "support": [
+    "butyrospermum parkii butter",
+    "ceramide np"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "aroma"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Beiersdorf",
     "kind": "global",
@@ -185784,16 +188725,18 @@ const NXPRODUCTS = [
   "capacityLine": "8 g",
   "materialLine": "Strawberry + Cherry / acerola + Watermelon",
   "featureLine": "Lip balm · ₹5663/100g",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "butyrospermum parkii butter high on the INCI list (moderate evidence); tocopherol high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "Only 1 ingredient named — formula unscored",
+   "Added fragrance (parfum): aroma",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.8,
+   "ingredients": 6.3,
+   "skin": 8.5,
+   "trust": 8.5,
    "experience": 0
   },
   "fullSpec": {
@@ -185811,13 +188754,17 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: N/A",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-cherry-shine-lip-balm-89042560204730213.html",
+   "inciMatchedName": "nivea cherry shine lip balm 89042560204730213 (name match 100%)",
+   "listingIngredientLine": "N/A (as printed on the Flipkart listing — incomplete, not scored)",
+   "inciList": "Helianthus Annuus Hybrid Oil, Ricinus Communis Seed Oil, Helianthus Annuus Seed Cera, Hydrogenated Rapeseed Oil, Butyrospermum Parkii Butter, Aroma, CI 15850, Creatine, Ascorbyl Palmitate, Helianthus Annuus Seed Oil, Tocopherol, Ceramide NP, Lecithin, Olea Europaea Fruit Oil, 1-Methylhydantoin-2-Imide, CI 77492, CI 77499, Ceramide NP",
+   "evidenceActives": "butyrospermum parkii butter (#5 on list, moderate evidence); tocopherol (#11 on list, moderate evidence); ceramide np (#12 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): aroma (−1.5)",
    "maker": "Beiersdorf — Global FMCG or beauty group",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Irritation — ceramide np #12 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/0/f/i/4-8-cherry-shine-lip-balm-with-long-lasting-moisturization-2-original-imahnwhtymafdckq.jpeg?q=90",
@@ -185843,7 +188790,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
-   "inci:partial"
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -185851,27 +188800,81 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "partial",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "N/A",
-   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 0,
-   "actives": [],
-   "support": [],
+   "inci": "full",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-cherry-shine-lip-balm-89042560204730213.html",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "nivea cherry shine lip balm 89042560204730213",
+   "inciMatchScore": 1,
+   "inciText": "Helianthus Annuus Hybrid Oil, Ricinus Communis Seed Oil, Helianthus Annuus Seed Cera, Hydrogenated Rapeseed Oil, Butyrospermum Parkii Butter, Aroma, CI 15850, Creatine, Ascorbyl Palmitate, Helianthus Annuus Seed Oil, Tocopherol, Ceramide NP, Lecithin, Olea Europaea Fruit Oil, 1-Methylhydantoin-2-Imide, CI 77492, CI 77499, Ceramide NP",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 1,
+   "recognised": 0.94,
+   "actives": [
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "ascorbyl palmitate",
+     "grade": "C",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "helianthus annuus seed oil",
+     "grade": "B",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 11,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 12,
+     "core": true,
+     "trace": false,
+     "src": "ceramide"
+    }
+   ],
+   "support": [
+    "butyrospermum parkii butter",
+    "ceramide np"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "aroma"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Beiersdorf",
     "kind": "global",
@@ -185890,16 +188893,18 @@ const NXPRODUCTS = [
   "capacityLine": "8 g",
   "materialLine": "Peptides + Rose + Cherry / acerola",
   "featureLine": "Lip balm · SPF 15 · ₹9988/100g",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "butyrospermum parkii butter high on the INCI list (moderate evidence); tocopherol high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): aroma",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 6.3,
+   "skin": 8.5,
+   "trust": 8.5,
    "experience": 0
   },
   "fullSpec": {
@@ -185918,13 +188923,16 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-cherry-shine-lip-balm-89042560204730213.html",
+   "inciMatchedName": "nivea cherry shine lip balm 89042560204730213 (name match 87%)",
+   "inciList": "Helianthus Annuus Hybrid Oil, Ricinus Communis Seed Oil, Helianthus Annuus Seed Cera, Hydrogenated Rapeseed Oil, Butyrospermum Parkii Butter, Aroma, CI 15850, Creatine, Ascorbyl Palmitate, Helianthus Annuus Seed Oil, Tocopherol, Ceramide NP, Lecithin, Olea Europaea Fruit Oil, 1-Methylhydantoin-2-Imide, CI 77492, CI 77499, Ceramide NP",
+   "evidenceActives": "butyrospermum parkii butter (#5 on list, moderate evidence); tocopherol (#11 on list, moderate evidence); ceramide np (#12 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): aroma (−1.5)",
    "maker": "Beiersdorf — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Irritation — ceramide np #12 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
@@ -185957,7 +188965,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
-   "inci:none"
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -185965,27 +188975,81 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-cherry-shine-lip-balm-89042560204730213.html",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "nivea cherry shine lip balm 89042560204730213",
+   "inciMatchScore": 0.87,
+   "inciText": "Helianthus Annuus Hybrid Oil, Ricinus Communis Seed Oil, Helianthus Annuus Seed Cera, Hydrogenated Rapeseed Oil, Butyrospermum Parkii Butter, Aroma, CI 15850, Creatine, Ascorbyl Palmitate, Helianthus Annuus Seed Oil, Tocopherol, Ceramide NP, Lecithin, Olea Europaea Fruit Oil, 1-Methylhydantoin-2-Imide, CI 77492, CI 77499, Ceramide NP",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.94,
+   "actives": [
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "ascorbyl palmitate",
+     "grade": "C",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "helianthus annuus seed oil",
+     "grade": "B",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 11,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 12,
+     "core": true,
+     "trace": false,
+     "src": "ceramide"
+    }
+   ],
+   "support": [
+    "butyrospermum parkii butter",
+    "ceramide np"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "aroma"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Beiersdorf",
     "kind": "global",
@@ -186004,16 +189068,18 @@ const NXPRODUCTS = [
   "capacityLine": "24 g (pack of 3)",
   "materialLine": "Rose + Almond + Shea butter",
   "featureLine": "Lip balm · SPF 15 · ₹2892/100g",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "butyrospermum parkii butter high on the INCI list (moderate evidence); glycerin high on the INCI list (strong evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): aroma",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 5.4,
+   "skin": 8.5,
+   "trust": 8.5,
    "experience": 0
   },
   "fullSpec": {
@@ -186032,11 +189098,13 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-peach-shine-lip-balm-89042560204110213.html",
+   "inciMatchedName": "nivea peach shine lip balm 89042560204110213 (name match 87%)",
+   "inciList": "Octyldodecanol, Polyisobutene, Ricinus Communis Seed Oil, Pentaerythrityl Tetraisostearate, Hydrogenated Polydecene, Candelilla Cera, Butyrospermum Parkii Butter, Cera Microcristallina, Isopropyl Palmitate, Synthetic Wax, Polyglyceryl-3 Diisostearate, Glycerin, Glyceryl Glucoside, Aqua, Prunus Persica Juice, Mica, Propylene Glycol, BHT, Aroma, CI 15985, CI 15850, CI 77891",
+   "evidenceActives": "butyrospermum parkii butter (#7 on list, moderate evidence); glycerin (#12 on list, strong evidence)",
+   "safetyFlags": "Added fragrance (parfum): aroma (−1.5)",
    "maker": "Beiersdorf — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet"
   },
@@ -186066,7 +189134,8 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -186074,27 +189143,57 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-peach-shine-lip-balm-89042560204110213.html",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "nivea peach shine lip balm 89042560204110213",
+   "inciMatchScore": 0.87,
+   "inciText": "Octyldodecanol, Polyisobutene, Ricinus Communis Seed Oil, Pentaerythrityl Tetraisostearate, Hydrogenated Polydecene, Candelilla Cera, Butyrospermum Parkii Butter, Cera Microcristallina, Isopropyl Palmitate, Synthetic Wax, Polyglyceryl-3 Diisostearate, Glycerin, Glyceryl Glucoside, Aqua, Prunus Persica Juice, Mica, Propylene Glycol, BHT, Aroma, CI 15985, CI 15850, CI 77891",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.95,
+   "actives": [
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 12,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    }
+   ],
+   "support": [
+    "butyrospermum parkii butter",
+    "glycerin"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "aroma"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Beiersdorf",
     "kind": "global",
@@ -186113,16 +189212,18 @@ const NXPRODUCTS = [
   "capacityLine": "16 g (pack of 2)",
   "materialLine": "Strawberry + Cherry / acerola",
   "featureLine": "Lip balm · SPF 30 · ₹2975/100g",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "cera alba high on the INCI list (moderate evidence); butyrospermum parkii butter high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): aroma",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 6.3,
+   "skin": 8.5,
+   "trust": 8.5,
    "experience": 0
   },
   "fullSpec": {
@@ -186141,11 +189242,13 @@ const NXPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-strawberry-shine-lip-balm-89042560204970213.html",
+   "inciMatchedName": "nivea strawberry shine lip balm 89042560204970213 (name match 100%)",
+   "inciList": "Octyldodecanol, Ricinus Communis Seed Oil, Cera Alba, Cocoglycerides, Bis-Diglyceryl Polyacyladipate-2, Butyrospermum Parkii Butter, Hydrogenated Castor Oil, Helianthus Annuus Seed Cera, Persea Gratissima Oil, Simmondsia Chinensis Seed Oil, Fragaria Ananassa Fruit Juice, Tocopherol, Ascorbyl Palmitate, Aqua, Propylene Glycol, Mica, BHT, Aroma, CI 15985, CI 77891, CI 15850",
+   "evidenceActives": "cera alba (#3 on list, moderate evidence); butyrospermum parkii butter (#6 on list, moderate evidence); tocopherol (#12 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): aroma (−1.5)",
    "maker": "Beiersdorf — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing"
@@ -186176,7 +189279,8 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -186184,27 +189288,80 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-strawberry-shine-lip-balm-89042560204970213.html",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "nivea strawberry shine lip balm 89042560204970213",
+   "inciMatchScore": 1,
+   "inciText": "Octyldodecanol, Ricinus Communis Seed Oil, Cera Alba, Cocoglycerides, Bis-Diglyceryl Polyacyladipate-2, Butyrospermum Parkii Butter, Hydrogenated Castor Oil, Helianthus Annuus Seed Cera, Persea Gratissima Oil, Simmondsia Chinensis Seed Oil, Fragaria Ananassa Fruit Juice, Tocopherol, Ascorbyl Palmitate, Aqua, Propylene Glycol, Mica, BHT, Aroma, CI 15985, CI 77891, CI 15850",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.95,
+   "actives": [
+    {
+     "name": "cera alba",
+     "grade": "B",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "simmondsia chinensis seed oil",
+     "grade": "B",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 12,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "ascorbyl palmitate",
+     "grade": "C",
+     "position": 13,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "butyrospermum parkii butter"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "aroma"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Beiersdorf",
     "kind": "global",
@@ -186223,16 +189380,18 @@ const NXPRODUCTS = [
   "capacityLine": "24 g (pack of 3)",
   "materialLine": "Green tea + Rose + Almond",
   "featureLine": "Lip balm · SPF 30 · ₹2892/100g",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "butyrospermum parkii butter high on the INCI list (moderate evidence); tocopherol high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): aroma",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 5.8,
+   "skin": 8.5,
+   "trust": 8.5,
    "experience": 0
   },
   "fullSpec": {
@@ -186251,11 +189410,13 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-watermelon-shine-lip-balm-89042560205580213.html",
+   "inciMatchedName": "nivea watermelon shine lip balm 89042560205580213 (name match 87%)",
+   "inciList": "Helianthus Annuus Hybrid Oil, Ricinus Communis Seed Oil, Helianthus Annuus Seed Cera, Hydrogenated Rapeseed Oil, Butyrospermum Parkii Butter, Aroma, Tocopherol, Ascorbyl Palmitate, Helianthus Annuus Seed Oil, Lecithin, CI 15850, CI 77492, CI 77891",
+   "evidenceActives": "butyrospermum parkii butter (#5 on list, moderate evidence); tocopherol (#7 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): aroma (−1.5)",
    "maker": "Beiersdorf — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing"
@@ -186290,7 +189451,8 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -186298,27 +189460,72 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-watermelon-shine-lip-balm-89042560205580213.html",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "nivea watermelon shine lip balm 89042560205580213",
+   "inciMatchScore": 0.87,
+   "inciText": "Helianthus Annuus Hybrid Oil, Ricinus Communis Seed Oil, Helianthus Annuus Seed Cera, Hydrogenated Rapeseed Oil, Butyrospermum Parkii Butter, Aroma, Tocopherol, Ascorbyl Palmitate, Helianthus Annuus Seed Oil, Lecithin, CI 15850, CI 77492, CI 77891",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "ascorbyl palmitate",
+     "grade": "C",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "helianthus annuus seed oil",
+     "grade": "B",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    }
+   ],
+   "support": [
+    "butyrospermum parkii butter"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "aroma"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Beiersdorf",
     "kind": "global",
@@ -186337,16 +189544,18 @@ const NXPRODUCTS = [
   "capacityLine": "16 g (pack of 2)",
   "materialLine": "Rose + Almond + Shea butter",
   "featureLine": "Lip balm · ₹2750/100g",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "cera alba high on the INCI list (moderate evidence); butyrospermum parkii butter high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): aroma",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 6.3,
+   "skin": 8.5,
+   "trust": 8.5,
    "experience": 0
   },
   "fullSpec": {
@@ -186364,11 +189573,13 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-strawberry-shine-lip-balm-89042560204970213.html",
+   "inciMatchedName": "nivea strawberry shine lip balm 89042560204970213 (name match 90%)",
+   "inciList": "Octyldodecanol, Ricinus Communis Seed Oil, Cera Alba, Cocoglycerides, Bis-Diglyceryl Polyacyladipate-2, Butyrospermum Parkii Butter, Hydrogenated Castor Oil, Helianthus Annuus Seed Cera, Persea Gratissima Oil, Simmondsia Chinensis Seed Oil, Fragaria Ananassa Fruit Juice, Tocopherol, Ascorbyl Palmitate, Aqua, Propylene Glycol, Mica, BHT, Aroma, CI 15985, CI 77891, CI 15850",
+   "evidenceActives": "cera alba (#3 on list, moderate evidence); butyrospermum parkii butter (#6 on list, moderate evidence); tocopherol (#12 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): aroma (−1.5)",
    "maker": "Beiersdorf — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet"
   },
@@ -186398,7 +189609,8 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -186406,27 +189618,80 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-strawberry-shine-lip-balm-89042560204970213.html",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "nivea strawberry shine lip balm 89042560204970213",
+   "inciMatchScore": 0.9,
+   "inciText": "Octyldodecanol, Ricinus Communis Seed Oil, Cera Alba, Cocoglycerides, Bis-Diglyceryl Polyacyladipate-2, Butyrospermum Parkii Butter, Hydrogenated Castor Oil, Helianthus Annuus Seed Cera, Persea Gratissima Oil, Simmondsia Chinensis Seed Oil, Fragaria Ananassa Fruit Juice, Tocopherol, Ascorbyl Palmitate, Aqua, Propylene Glycol, Mica, BHT, Aroma, CI 15985, CI 77891, CI 15850",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.95,
+   "actives": [
+    {
+     "name": "cera alba",
+     "grade": "B",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "simmondsia chinensis seed oil",
+     "grade": "B",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 12,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "ascorbyl palmitate",
+     "grade": "C",
+     "position": 13,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "butyrospermum parkii butter"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "aroma"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Beiersdorf",
     "kind": "global",
@@ -186445,16 +189710,19 @@ const NXPRODUCTS = [
   "capacityLine": "24 g (pack of 3)",
   "materialLine": "Green tea + Rose + Almond",
   "featureLine": "Lip balm · SPF 30 · ₹2371/100g",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "butyrospermum parkii butter high on the INCI list (moderate evidence); glycerin high on the INCI list (strong evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): perfume",
+   "Essential oil / volatile sensitiser: rosa damascena flower oil",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 5.7,
+   "skin": 8,
+   "trust": 8.5,
    "experience": 0
   },
   "fullSpec": {
@@ -186473,11 +189741,13 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-soft-rose-lip-balm-89042560204590213.html",
+   "inciMatchedName": "nivea soft rose lip balm 89042560204590213 (name match 87%)",
+   "inciList": "Cera Microcristallina, Octyldodecanol, Hydrogenated Polydecene, Cetyl Palmitate, Ricinus Communis Seed Oil, Myristyl Myristate, VP/Hexadecene Copolymer, Cetearyl Alcohol, Polyglyceryl-3 Diisostearate, Mica, Butyrospermum Parkii Butter, Cocoglycerides, Pentaerythrityl Tetraisostearate, C20-40 Alkyl Stearate, Glycerin, Copernicia Cerifera Cera, Rosa Gallica Flower Extract, Rosa Damascena Flower Oil, Glyceryl Glucoside, Aqua, Cera Alba, Perfume, CI 77891, CI 77492",
+   "evidenceActives": "butyrospermum parkii butter (#11 on list, moderate evidence); glycerin (#14 on list, strong evidence); cera alba (#20 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): perfume (−1.5); Essential oil / volatile sensitiser: rosa damascena flower oil (−0.5)",
    "maker": "Beiersdorf — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing"
@@ -186511,7 +189781,8 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -186519,27 +189790,74 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-soft-rose-lip-balm-89042560204590213.html",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "nivea soft rose lip balm 89042560204590213",
+   "inciMatchScore": 0.87,
+   "inciText": "Cera Microcristallina, Octyldodecanol, Hydrogenated Polydecene, Cetyl Palmitate, Ricinus Communis Seed Oil, Myristyl Myristate, VP/Hexadecene Copolymer, Cetearyl Alcohol, Polyglyceryl-3 Diisostearate, Mica, Butyrospermum Parkii Butter, Cocoglycerides, Pentaerythrityl Tetraisostearate, C20-40 Alkyl Stearate, Glycerin, Copernicia Cerifera Cera, Rosa Gallica Flower Extract, Rosa Damascena Flower Oil, Glyceryl Glucoside, Aqua, Cera Alba, Perfume, CI 77891, CI 77492",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.96,
+   "actives": [
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 11,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 14,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "cera alba",
+     "grade": "B",
+     "position": 20,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    }
+   ],
+   "support": [
+    "butyrospermum parkii butter",
+    "glycerin"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "essentialOil",
+     "label": "Essential oil / volatile sensitiser",
+     "names": [
+      "rosa damascena flower oil"
+     ],
+     "penalty": 0.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Beiersdorf",
     "kind": "global",
@@ -186558,16 +189876,18 @@ const NXPRODUCTS = [
   "capacityLine": "8 g",
   "materialLine": "Strawberry + Watermelon",
   "featureLine": "Lip balm · ₹9713/100g",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "cera alba high on the INCI list (moderate evidence); butyrospermum parkii butter high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): aroma",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 6.3,
+   "skin": 8.5,
+   "trust": 8.5,
    "experience": 0
   },
   "fullSpec": {
@@ -186585,11 +189905,13 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-strawberry-shine-lip-balm-89042560204970213.html",
+   "inciMatchedName": "nivea strawberry shine lip balm 89042560204970213 (name match 90%)",
+   "inciList": "Octyldodecanol, Ricinus Communis Seed Oil, Cera Alba, Cocoglycerides, Bis-Diglyceryl Polyacyladipate-2, Butyrospermum Parkii Butter, Hydrogenated Castor Oil, Helianthus Annuus Seed Cera, Persea Gratissima Oil, Simmondsia Chinensis Seed Oil, Fragaria Ananassa Fruit Juice, Tocopherol, Ascorbyl Palmitate, Aqua, Propylene Glycol, Mica, BHT, Aroma, CI 15985, CI 77891, CI 15850",
+   "evidenceActives": "cera alba (#3 on list, moderate evidence); butyrospermum parkii butter (#6 on list, moderate evidence); tocopherol (#12 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): aroma (−1.5)",
    "maker": "Beiersdorf — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet"
   },
@@ -186613,7 +189935,8 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -186621,27 +189944,80 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-strawberry-shine-lip-balm-89042560204970213.html",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "nivea strawberry shine lip balm 89042560204970213",
+   "inciMatchScore": 0.9,
+   "inciText": "Octyldodecanol, Ricinus Communis Seed Oil, Cera Alba, Cocoglycerides, Bis-Diglyceryl Polyacyladipate-2, Butyrospermum Parkii Butter, Hydrogenated Castor Oil, Helianthus Annuus Seed Cera, Persea Gratissima Oil, Simmondsia Chinensis Seed Oil, Fragaria Ananassa Fruit Juice, Tocopherol, Ascorbyl Palmitate, Aqua, Propylene Glycol, Mica, BHT, Aroma, CI 15985, CI 77891, CI 15850",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.95,
+   "actives": [
+    {
+     "name": "cera alba",
+     "grade": "B",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "simmondsia chinensis seed oil",
+     "grade": "B",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 12,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "ascorbyl palmitate",
+     "grade": "C",
+     "position": 13,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "butyrospermum parkii butter"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "aroma"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Beiersdorf",
     "kind": "global",
@@ -186660,16 +190036,19 @@ const NXPRODUCTS = [
   "capacityLine": "24 g (pack of 3)",
   "materialLine": "Rose + Almond + Cherry / acerola",
   "featureLine": "Lip balm · SPF 30 · ₹2658/100g",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "butyrospermum parkii butter high on the INCI list (moderate evidence); glycerin high on the INCI list (strong evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): perfume",
+   "Essential oil / volatile sensitiser: rosa damascena flower oil",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 5.7,
+   "skin": 8,
+   "trust": 8.5,
    "experience": 0
   },
   "fullSpec": {
@@ -186688,11 +190067,13 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-soft-rose-lip-balm-89042560204590213.html",
+   "inciMatchedName": "nivea soft rose lip balm 89042560204590213 (name match 100%)",
+   "inciList": "Cera Microcristallina, Octyldodecanol, Hydrogenated Polydecene, Cetyl Palmitate, Ricinus Communis Seed Oil, Myristyl Myristate, VP/Hexadecene Copolymer, Cetearyl Alcohol, Polyglyceryl-3 Diisostearate, Mica, Butyrospermum Parkii Butter, Cocoglycerides, Pentaerythrityl Tetraisostearate, C20-40 Alkyl Stearate, Glycerin, Copernicia Cerifera Cera, Rosa Gallica Flower Extract, Rosa Damascena Flower Oil, Glyceryl Glucoside, Aqua, Cera Alba, Perfume, CI 77891, CI 77492",
+   "evidenceActives": "butyrospermum parkii butter (#11 on list, moderate evidence); glycerin (#14 on list, strong evidence); cera alba (#20 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): perfume (−1.5); Essential oil / volatile sensitiser: rosa damascena flower oil (−0.5)",
    "maker": "Beiersdorf — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing"
@@ -186725,7 +190106,8 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -186733,27 +190115,74 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-soft-rose-lip-balm-89042560204590213.html",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "nivea soft rose lip balm 89042560204590213",
+   "inciMatchScore": 1,
+   "inciText": "Cera Microcristallina, Octyldodecanol, Hydrogenated Polydecene, Cetyl Palmitate, Ricinus Communis Seed Oil, Myristyl Myristate, VP/Hexadecene Copolymer, Cetearyl Alcohol, Polyglyceryl-3 Diisostearate, Mica, Butyrospermum Parkii Butter, Cocoglycerides, Pentaerythrityl Tetraisostearate, C20-40 Alkyl Stearate, Glycerin, Copernicia Cerifera Cera, Rosa Gallica Flower Extract, Rosa Damascena Flower Oil, Glyceryl Glucoside, Aqua, Cera Alba, Perfume, CI 77891, CI 77492",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.96,
+   "actives": [
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 11,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 14,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "cera alba",
+     "grade": "B",
+     "position": 20,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    }
+   ],
+   "support": [
+    "butyrospermum parkii butter",
+    "glycerin"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "essentialOil",
+     "label": "Essential oil / volatile sensitiser",
+     "names": [
+      "rosa damascena flower oil"
+     ],
+     "penalty": 0.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Beiersdorf",
     "kind": "global",
@@ -186772,16 +190201,18 @@ const NXPRODUCTS = [
   "capacityLine": "24 g (pack of 3)",
   "materialLine": "Rose + Almond + Shea butter",
   "featureLine": "Lip balm · SPF 30 · ₹2892/100g",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "butyrospermum parkii butter high on the INCI list (moderate evidence); tocopherol high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): aroma",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 5.8,
+   "skin": 8.5,
+   "trust": 8.5,
    "experience": 0
   },
   "fullSpec": {
@@ -186800,11 +190231,13 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-pomegranate-shine-lip-balm-89042560205340213.html",
+   "inciMatchedName": "nivea pomegranate shine lip balm 89042560205340213 (name match 85%)",
+   "inciList": "Helianthus Annuus Hybrid Oil, Ricinus Communis Seed Oil, Helianthus Annuus Seed Cera, Hydrogenated Rapeseed Oil, Butyrospermum Parkii Butter, Aroma, Tocopherol, Ascorbyl Palmitate, Helianthus Annuus Seed Oil, Lecithin, CI 45380, CI 15850, CI 77491, CI 77499",
+   "evidenceActives": "butyrospermum parkii butter (#5 on list, moderate evidence); tocopherol (#7 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): aroma (−1.5)",
    "maker": "Beiersdorf — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing"
@@ -186837,7 +190270,8 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -186845,27 +190279,72 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-pomegranate-shine-lip-balm-89042560205340213.html",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "nivea pomegranate shine lip balm 89042560205340213",
+   "inciMatchScore": 0.85,
+   "inciText": "Helianthus Annuus Hybrid Oil, Ricinus Communis Seed Oil, Helianthus Annuus Seed Cera, Hydrogenated Rapeseed Oil, Butyrospermum Parkii Butter, Aroma, Tocopherol, Ascorbyl Palmitate, Helianthus Annuus Seed Oil, Lecithin, CI 45380, CI 15850, CI 77491, CI 77499",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "ascorbyl palmitate",
+     "grade": "C",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "helianthus annuus seed oil",
+     "grade": "B",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    }
+   ],
+   "support": [
+    "butyrospermum parkii butter"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "aroma"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Beiersdorf",
     "kind": "global",
@@ -186884,16 +190363,18 @@ const NXPRODUCTS = [
   "capacityLine": "16 g (pack of 2)",
   "materialLine": "Strawberry + Watermelon",
   "featureLine": "Lip balm · ₹2938/100g",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "butyrospermum parkii butter high on the INCI list (moderate evidence); tocopherol high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): aroma",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 5.8,
+   "skin": 8.5,
+   "trust": 8.5,
    "experience": 0
   },
   "fullSpec": {
@@ -186911,11 +190392,13 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-watermelon-shine-lip-balm-89042560205580213.html",
+   "inciMatchedName": "nivea watermelon shine lip balm 89042560205580213 (name match 100%)",
+   "inciList": "Helianthus Annuus Hybrid Oil, Ricinus Communis Seed Oil, Helianthus Annuus Seed Cera, Hydrogenated Rapeseed Oil, Butyrospermum Parkii Butter, Aroma, Tocopherol, Ascorbyl Palmitate, Helianthus Annuus Seed Oil, Lecithin, CI 15850, CI 77492, CI 77891",
+   "evidenceActives": "butyrospermum parkii butter (#5 on list, moderate evidence); tocopherol (#7 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): aroma (−1.5)",
    "maker": "Beiersdorf — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet"
   },
@@ -186940,7 +190423,8 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -186948,27 +190432,72 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-watermelon-shine-lip-balm-89042560205580213.html",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "nivea watermelon shine lip balm 89042560205580213",
+   "inciMatchScore": 1,
+   "inciText": "Helianthus Annuus Hybrid Oil, Ricinus Communis Seed Oil, Helianthus Annuus Seed Cera, Hydrogenated Rapeseed Oil, Butyrospermum Parkii Butter, Aroma, Tocopherol, Ascorbyl Palmitate, Helianthus Annuus Seed Oil, Lecithin, CI 15850, CI 77492, CI 77891",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "ascorbyl palmitate",
+     "grade": "C",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "helianthus annuus seed oil",
+     "grade": "B",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    }
+   ],
+   "support": [
+    "butyrospermum parkii butter"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "aroma"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Beiersdorf",
     "kind": "global",
@@ -186987,16 +190516,18 @@ const NXPRODUCTS = [
   "capacityLine": "36 g (pack of 3)",
   "materialLine": "Rose + Cocoa butter + Vitamin E",
   "featureLine": "Lip balm · SPF 50 · ₹2161/100g",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "butyrospermum parkii butter high on the INCI list (moderate evidence); tocopherol high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "Only 1 ingredient named — formula unscored",
+   "Added fragrance (parfum): aroma",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.8,
+   "ingredients": 5.8,
+   "skin": 8.5,
+   "trust": 8.5,
    "experience": 0
   },
   "fullSpec": {
@@ -187015,11 +190546,14 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: VITAMIN E OIL",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-watermelon-shine-lip-balm-89042560205580213.html",
+   "inciMatchedName": "nivea watermelon shine lip balm 89042560205580213 (name match 94%)",
+   "listingIngredientLine": "VITAMIN E OIL (as printed on the Flipkart listing — incomplete, not scored)",
+   "inciList": "Helianthus Annuus Hybrid Oil, Ricinus Communis Seed Oil, Helianthus Annuus Seed Cera, Hydrogenated Rapeseed Oil, Butyrospermum Parkii Butter, Aroma, Tocopherol, Ascorbyl Palmitate, Helianthus Annuus Seed Oil, Lecithin, CI 15850, CI 77492, CI 77891",
+   "evidenceActives": "butyrospermum parkii butter (#5 on list, moderate evidence); tocopherol (#7 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): aroma (−1.5)",
    "maker": "Beiersdorf — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing"
@@ -187056,7 +190590,8 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
-   "inci:partial"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -187064,27 +190599,72 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "partial",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "VITAMIN E OIL",
-   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
+   "inci": "full",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-watermelon-shine-lip-balm-89042560205580213.html",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "nivea watermelon shine lip balm 89042560205580213",
+   "inciMatchScore": 0.94,
+   "inciText": "Helianthus Annuus Hybrid Oil, Ricinus Communis Seed Oil, Helianthus Annuus Seed Cera, Hydrogenated Rapeseed Oil, Butyrospermum Parkii Butter, Aroma, Tocopherol, Ascorbyl Palmitate, Helianthus Annuus Seed Oil, Lecithin, CI 15850, CI 77492, CI 77891",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 1,
    "recognised": 1,
-   "actives": [],
-   "support": [],
+   "actives": [
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "ascorbyl palmitate",
+     "grade": "C",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "helianthus annuus seed oil",
+     "grade": "B",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    }
+   ],
+   "support": [
+    "butyrospermum parkii butter"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "aroma"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Beiersdorf",
     "kind": "global",
@@ -187214,16 +190794,18 @@ const NXPRODUCTS = [
   "capacityLine": "24 g (pack of 3)",
   "materialLine": "Strawberry + Cherry / acerola + Watermelon",
   "featureLine": "Lip balm · SPF 15 · ₹2658/100g",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "butyrospermum parkii butter high on the INCI list (moderate evidence); tocopherol high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): aroma",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 5.8,
+   "skin": 8.5,
+   "trust": 8.5,
    "experience": 0
   },
   "fullSpec": {
@@ -187242,11 +190824,13 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-watermelon-shine-lip-balm-89042560205580213.html",
+   "inciMatchedName": "nivea watermelon shine lip balm 89042560205580213 (name match 100%)",
+   "inciList": "Helianthus Annuus Hybrid Oil, Ricinus Communis Seed Oil, Helianthus Annuus Seed Cera, Hydrogenated Rapeseed Oil, Butyrospermum Parkii Butter, Aroma, Tocopherol, Ascorbyl Palmitate, Helianthus Annuus Seed Oil, Lecithin, CI 15850, CI 77492, CI 77891",
+   "evidenceActives": "butyrospermum parkii butter (#5 on list, moderate evidence); tocopherol (#7 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): aroma (−1.5)",
    "maker": "Beiersdorf — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing"
@@ -187277,7 +190861,8 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -187285,27 +190870,72 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-watermelon-shine-lip-balm-89042560205580213.html",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "nivea watermelon shine lip balm 89042560205580213",
+   "inciMatchScore": 1,
+   "inciText": "Helianthus Annuus Hybrid Oil, Ricinus Communis Seed Oil, Helianthus Annuus Seed Cera, Hydrogenated Rapeseed Oil, Butyrospermum Parkii Butter, Aroma, Tocopherol, Ascorbyl Palmitate, Helianthus Annuus Seed Oil, Lecithin, CI 15850, CI 77492, CI 77891",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "ascorbyl palmitate",
+     "grade": "C",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "helianthus annuus seed oil",
+     "grade": "B",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    }
+   ],
+   "support": [
+    "butyrospermum parkii butter"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "aroma"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Beiersdorf",
     "kind": "global",
@@ -187425,16 +191055,18 @@ const NXPRODUCTS = [
   "capacityLine": "8 g",
   "materialLine": "Rose + Cherry / acerola",
   "featureLine": "Lip balm · ₹17113/100g",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "butyrospermum parkii butter high on the INCI list (moderate evidence); tocopherol high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): aroma",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 6.3,
+   "skin": 8.5,
+   "trust": 8.5,
    "experience": 0
   },
   "fullSpec": {
@@ -187452,13 +191084,16 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-cherry-shine-lip-balm-89042560204730213.html",
+   "inciMatchedName": "nivea cherry shine lip balm 89042560204730213 (name match 94%)",
+   "inciList": "Helianthus Annuus Hybrid Oil, Ricinus Communis Seed Oil, Helianthus Annuus Seed Cera, Hydrogenated Rapeseed Oil, Butyrospermum Parkii Butter, Aroma, CI 15850, Creatine, Ascorbyl Palmitate, Helianthus Annuus Seed Oil, Tocopherol, Ceramide NP, Lecithin, Olea Europaea Fruit Oil, 1-Methylhydantoin-2-Imide, CI 77492, CI 77499, Ceramide NP",
+   "evidenceActives": "butyrospermum parkii butter (#5 on list, moderate evidence); tocopherol (#11 on list, moderate evidence); ceramide np (#12 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): aroma (−1.5)",
    "maker": "Beiersdorf — Global FMCG or beauty group",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Irritation — ceramide np #12 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/k23m4cw0/lip-balm/s/e/x/28-8-cherry-shine-charming-cherry-lip-balm-4-8g-6-nivea-original-imafhgsyyzhzcs3h.jpeg?q=90",
@@ -187481,7 +191116,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
-   "inci:none"
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -187489,27 +191126,81 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-cherry-shine-lip-balm-89042560204730213.html",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "nivea cherry shine lip balm 89042560204730213",
+   "inciMatchScore": 0.94,
+   "inciText": "Helianthus Annuus Hybrid Oil, Ricinus Communis Seed Oil, Helianthus Annuus Seed Cera, Hydrogenated Rapeseed Oil, Butyrospermum Parkii Butter, Aroma, CI 15850, Creatine, Ascorbyl Palmitate, Helianthus Annuus Seed Oil, Tocopherol, Ceramide NP, Lecithin, Olea Europaea Fruit Oil, 1-Methylhydantoin-2-Imide, CI 77492, CI 77499, Ceramide NP",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.94,
+   "actives": [
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "ascorbyl palmitate",
+     "grade": "C",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "helianthus annuus seed oil",
+     "grade": "B",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 11,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 12,
+     "core": true,
+     "trace": false,
+     "src": "ceramide"
+    }
+   ],
+   "support": [
+    "butyrospermum parkii butter",
+    "ceramide np"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "aroma"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Beiersdorf",
     "kind": "global",
@@ -187632,16 +191323,18 @@ const NXPRODUCTS = [
   "capacityLine": "24 g (pack of 3)",
   "materialLine": "Green tea + Rose + Almond",
   "featureLine": "Lip balm · SPF 15 · ₹2529/100g",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "cera alba high on the INCI list (moderate evidence); butyrospermum parkii butter high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): aroma",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 6.3,
+   "skin": 8.5,
+   "trust": 8.5,
    "experience": 0
   },
   "fullSpec": {
@@ -187660,11 +191353,13 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-strawberry-shine-lip-balm-89042560204970213.html",
+   "inciMatchedName": "nivea strawberry shine lip balm 89042560204970213 (name match 87%)",
+   "inciList": "Octyldodecanol, Ricinus Communis Seed Oil, Cera Alba, Cocoglycerides, Bis-Diglyceryl Polyacyladipate-2, Butyrospermum Parkii Butter, Hydrogenated Castor Oil, Helianthus Annuus Seed Cera, Persea Gratissima Oil, Simmondsia Chinensis Seed Oil, Fragaria Ananassa Fruit Juice, Tocopherol, Ascorbyl Palmitate, Aqua, Propylene Glycol, Mica, BHT, Aroma, CI 15985, CI 77891, CI 15850",
+   "evidenceActives": "cera alba (#3 on list, moderate evidence); butyrospermum parkii butter (#6 on list, moderate evidence); tocopherol (#12 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): aroma (−1.5)",
    "maker": "Beiersdorf — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing"
@@ -187701,7 +191396,8 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -187709,27 +191405,80 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-strawberry-shine-lip-balm-89042560204970213.html",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "nivea strawberry shine lip balm 89042560204970213",
+   "inciMatchScore": 0.87,
+   "inciText": "Octyldodecanol, Ricinus Communis Seed Oil, Cera Alba, Cocoglycerides, Bis-Diglyceryl Polyacyladipate-2, Butyrospermum Parkii Butter, Hydrogenated Castor Oil, Helianthus Annuus Seed Cera, Persea Gratissima Oil, Simmondsia Chinensis Seed Oil, Fragaria Ananassa Fruit Juice, Tocopherol, Ascorbyl Palmitate, Aqua, Propylene Glycol, Mica, BHT, Aroma, CI 15985, CI 77891, CI 15850",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.95,
+   "actives": [
+    {
+     "name": "cera alba",
+     "grade": "B",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "simmondsia chinensis seed oil",
+     "grade": "B",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 12,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "ascorbyl palmitate",
+     "grade": "C",
+     "position": 13,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "butyrospermum parkii butter"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "aroma"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Beiersdorf",
     "kind": "global",
@@ -187748,16 +191497,19 @@ const NXPRODUCTS = [
   "capacityLine": "24 g (pack of 3)",
   "materialLine": "Rose + Almond + Shea butter",
   "featureLine": "Lip balm · ₹2875/100g",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "butyrospermum parkii butter high on the INCI list (moderate evidence); glycerin high on the INCI list (strong evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): perfume",
+   "Essential oil / volatile sensitiser: rosa damascena flower oil",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 5.7,
+   "skin": 8,
+   "trust": 8.5,
    "experience": 0
   },
   "fullSpec": {
@@ -187775,11 +191527,13 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-soft-rose-lip-balm-89042560204590213.html",
+   "inciMatchedName": "nivea soft rose lip balm 89042560204590213 (name match 87%)",
+   "inciList": "Cera Microcristallina, Octyldodecanol, Hydrogenated Polydecene, Cetyl Palmitate, Ricinus Communis Seed Oil, Myristyl Myristate, VP/Hexadecene Copolymer, Cetearyl Alcohol, Polyglyceryl-3 Diisostearate, Mica, Butyrospermum Parkii Butter, Cocoglycerides, Pentaerythrityl Tetraisostearate, C20-40 Alkyl Stearate, Glycerin, Copernicia Cerifera Cera, Rosa Gallica Flower Extract, Rosa Damascena Flower Oil, Glyceryl Glucoside, Aqua, Cera Alba, Perfume, CI 77891, CI 77492",
+   "evidenceActives": "butyrospermum parkii butter (#11 on list, moderate evidence); glycerin (#14 on list, strong evidence); cera alba (#20 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): perfume (−1.5); Essential oil / volatile sensitiser: rosa damascena flower oil (−0.5)",
    "maker": "Beiersdorf — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet"
   },
@@ -187809,7 +191563,8 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -187817,27 +191572,74 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-soft-rose-lip-balm-89042560204590213.html",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "nivea soft rose lip balm 89042560204590213",
+   "inciMatchScore": 0.87,
+   "inciText": "Cera Microcristallina, Octyldodecanol, Hydrogenated Polydecene, Cetyl Palmitate, Ricinus Communis Seed Oil, Myristyl Myristate, VP/Hexadecene Copolymer, Cetearyl Alcohol, Polyglyceryl-3 Diisostearate, Mica, Butyrospermum Parkii Butter, Cocoglycerides, Pentaerythrityl Tetraisostearate, C20-40 Alkyl Stearate, Glycerin, Copernicia Cerifera Cera, Rosa Gallica Flower Extract, Rosa Damascena Flower Oil, Glyceryl Glucoside, Aqua, Cera Alba, Perfume, CI 77891, CI 77492",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.96,
+   "actives": [
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 11,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 14,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "cera alba",
+     "grade": "B",
+     "position": 20,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    }
+   ],
+   "support": [
+    "butyrospermum parkii butter",
+    "glycerin"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "essentialOil",
+     "label": "Essential oil / volatile sensitiser",
+     "names": [
+      "rosa damascena flower oil"
+     ],
+     "penalty": 0.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Beiersdorf",
     "kind": "global",
@@ -187856,16 +191658,19 @@ const NXPRODUCTS = [
   "capacityLine": "200 ml",
   "materialLine": "Rose + Cocoa butter + Strawberry",
   "featureLine": "Lip balm · ₹276/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "butyrospermum parkii butter high on the INCI list (moderate evidence); glycerin high on the INCI list (strong evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): perfume",
+   "Essential oil / volatile sensitiser: rosa damascena flower oil",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 5.7,
+   "skin": 8,
+   "trust": 8.5,
    "experience": 0
   },
   "fullSpec": {
@@ -187883,11 +191688,13 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-soft-rose-lip-balm-89042560204590213.html",
+   "inciMatchedName": "nivea soft rose lip balm 89042560204590213 (name match 94%)",
+   "inciList": "Cera Microcristallina, Octyldodecanol, Hydrogenated Polydecene, Cetyl Palmitate, Ricinus Communis Seed Oil, Myristyl Myristate, VP/Hexadecene Copolymer, Cetearyl Alcohol, Polyglyceryl-3 Diisostearate, Mica, Butyrospermum Parkii Butter, Cocoglycerides, Pentaerythrityl Tetraisostearate, C20-40 Alkyl Stearate, Glycerin, Copernicia Cerifera Cera, Rosa Gallica Flower Extract, Rosa Damascena Flower Oil, Glyceryl Glucoside, Aqua, Cera Alba, Perfume, CI 77891, CI 77492",
+   "evidenceActives": "butyrospermum parkii butter (#11 on list, moderate evidence); glycerin (#14 on list, strong evidence); cera alba (#20 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): perfume (−1.5); Essential oil / volatile sensitiser: rosa damascena flower oil (−0.5)",
    "maker": "Beiersdorf — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet"
   },
@@ -187916,7 +191723,8 @@ const NXPRODUCTS = [
    "size:large",
    "rating:none",
    "store:flipkart",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -187924,27 +191732,74 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-soft-rose-lip-balm-89042560204590213.html",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "nivea soft rose lip balm 89042560204590213",
+   "inciMatchScore": 0.94,
+   "inciText": "Cera Microcristallina, Octyldodecanol, Hydrogenated Polydecene, Cetyl Palmitate, Ricinus Communis Seed Oil, Myristyl Myristate, VP/Hexadecene Copolymer, Cetearyl Alcohol, Polyglyceryl-3 Diisostearate, Mica, Butyrospermum Parkii Butter, Cocoglycerides, Pentaerythrityl Tetraisostearate, C20-40 Alkyl Stearate, Glycerin, Copernicia Cerifera Cera, Rosa Gallica Flower Extract, Rosa Damascena Flower Oil, Glyceryl Glucoside, Aqua, Cera Alba, Perfume, CI 77891, CI 77492",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.96,
+   "actives": [
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 11,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 14,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "cera alba",
+     "grade": "B",
+     "position": 20,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    }
+   ],
+   "support": [
+    "butyrospermum parkii butter",
+    "glycerin"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "essentialOil",
+     "label": "Essential oil / volatile sensitiser",
+     "names": [
+      "rosa damascena flower oil"
+     ],
+     "penalty": 0.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Beiersdorf",
     "kind": "global",
@@ -188427,16 +192282,19 @@ const NXPRODUCTS = [
   "capacityLine": "400 ml (pack of 2)",
   "materialLine": "Rose + Strawberry",
   "featureLine": "Lip balm · ₹171/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "butyrospermum parkii butter high on the INCI list (moderate evidence); glycerin high on the INCI list (strong evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): perfume",
+   "Essential oil / volatile sensitiser: rosa damascena flower oil",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 5.7,
+   "skin": 8,
+   "trust": 8.5,
    "experience": 0
   },
   "fullSpec": {
@@ -188454,11 +192312,13 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-soft-rose-lip-balm-89042560204590213.html",
+   "inciMatchedName": "nivea soft rose lip balm 89042560204590213 (name match 94%)",
+   "inciList": "Cera Microcristallina, Octyldodecanol, Hydrogenated Polydecene, Cetyl Palmitate, Ricinus Communis Seed Oil, Myristyl Myristate, VP/Hexadecene Copolymer, Cetearyl Alcohol, Polyglyceryl-3 Diisostearate, Mica, Butyrospermum Parkii Butter, Cocoglycerides, Pentaerythrityl Tetraisostearate, C20-40 Alkyl Stearate, Glycerin, Copernicia Cerifera Cera, Rosa Gallica Flower Extract, Rosa Damascena Flower Oil, Glyceryl Glucoside, Aqua, Cera Alba, Perfume, CI 77891, CI 77492",
+   "evidenceActives": "butyrospermum parkii butter (#11 on list, moderate evidence); glycerin (#14 on list, strong evidence); cera alba (#20 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): perfume (−1.5); Essential oil / volatile sensitiser: rosa damascena flower oil (−0.5)",
    "maker": "Beiersdorf — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet"
   },
@@ -188486,7 +192346,8 @@ const NXPRODUCTS = [
    "size:xl",
    "rating:none",
    "store:flipkart",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -188494,27 +192355,74 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-soft-rose-lip-balm-89042560204590213.html",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "nivea soft rose lip balm 89042560204590213",
+   "inciMatchScore": 0.94,
+   "inciText": "Cera Microcristallina, Octyldodecanol, Hydrogenated Polydecene, Cetyl Palmitate, Ricinus Communis Seed Oil, Myristyl Myristate, VP/Hexadecene Copolymer, Cetearyl Alcohol, Polyglyceryl-3 Diisostearate, Mica, Butyrospermum Parkii Butter, Cocoglycerides, Pentaerythrityl Tetraisostearate, C20-40 Alkyl Stearate, Glycerin, Copernicia Cerifera Cera, Rosa Gallica Flower Extract, Rosa Damascena Flower Oil, Glyceryl Glucoside, Aqua, Cera Alba, Perfume, CI 77891, CI 77492",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.96,
+   "actives": [
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 11,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 14,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "cera alba",
+     "grade": "B",
+     "position": 20,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    }
+   ],
+   "support": [
+    "butyrospermum parkii butter",
+    "glycerin"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "essentialOil",
+     "label": "Essential oil / volatile sensitiser",
+     "names": [
+      "rosa damascena flower oil"
+     ],
+     "penalty": 0.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Beiersdorf",
     "kind": "global",
@@ -188533,16 +192441,18 @@ const NXPRODUCTS = [
   "capacityLine": "300 ml",
   "materialLine": "Cherry / acerola",
   "featureLine": "Lip balm · ₹256/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "butyrospermum parkii butter high on the INCI list (moderate evidence); tocopherol high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): aroma",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 6.3,
+   "skin": 8.5,
+   "trust": 8.5,
    "experience": 0
   },
   "fullSpec": {
@@ -188560,13 +192470,16 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-cherry-shine-lip-balm-89042560204730213.html",
+   "inciMatchedName": "nivea cherry shine lip balm 89042560204730213 (name match 90%)",
+   "inciList": "Helianthus Annuus Hybrid Oil, Ricinus Communis Seed Oil, Helianthus Annuus Seed Cera, Hydrogenated Rapeseed Oil, Butyrospermum Parkii Butter, Aroma, CI 15850, Creatine, Ascorbyl Palmitate, Helianthus Annuus Seed Oil, Tocopherol, Ceramide NP, Lecithin, Olea Europaea Fruit Oil, 1-Methylhydantoin-2-Imide, CI 77492, CI 77499, Ceramide NP",
+   "evidenceActives": "butyrospermum parkii butter (#5 on list, moderate evidence); tocopherol (#11 on list, moderate evidence); ceramide np (#12 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): aroma (−1.5)",
    "maker": "Beiersdorf — Global FMCG or beauty group",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Irritation — ceramide np #12 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/n/x/3/cherry-shine-lip-balm-soft-creme-300-ml-2-3298643-nivea-original-imahgt8f89egnbvm.jpeg?q=90",
@@ -188590,7 +192503,9 @@ const NXPRODUCTS = [
    "size:xl",
    "rating:none",
    "store:flipkart",
-   "inci:none"
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -188598,27 +192513,81 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-cherry-shine-lip-balm-89042560204730213.html",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "nivea cherry shine lip balm 89042560204730213",
+   "inciMatchScore": 0.9,
+   "inciText": "Helianthus Annuus Hybrid Oil, Ricinus Communis Seed Oil, Helianthus Annuus Seed Cera, Hydrogenated Rapeseed Oil, Butyrospermum Parkii Butter, Aroma, CI 15850, Creatine, Ascorbyl Palmitate, Helianthus Annuus Seed Oil, Tocopherol, Ceramide NP, Lecithin, Olea Europaea Fruit Oil, 1-Methylhydantoin-2-Imide, CI 77492, CI 77499, Ceramide NP",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.94,
+   "actives": [
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "ascorbyl palmitate",
+     "grade": "C",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "helianthus annuus seed oil",
+     "grade": "B",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 11,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 12,
+     "core": true,
+     "trace": false,
+     "src": "ceramide"
+    }
+   ],
+   "support": [
+    "butyrospermum parkii butter",
+    "ceramide np"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "aroma"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Beiersdorf",
     "kind": "global",
@@ -188751,16 +192720,18 @@ const NXPRODUCTS = [
   "capacityLine": "300 ml",
   "materialLine": "Strawberry",
   "featureLine": "Lip balm · ₹256/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "cera alba high on the INCI list (moderate evidence); butyrospermum parkii butter high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): aroma",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 6.3,
+   "skin": 8.5,
+   "trust": 8.5,
    "experience": 0
   },
   "fullSpec": {
@@ -188778,11 +192749,13 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-strawberry-shine-lip-balm-89042560204970213.html",
+   "inciMatchedName": "nivea strawberry shine lip balm 89042560204970213 (name match 90%)",
+   "inciList": "Octyldodecanol, Ricinus Communis Seed Oil, Cera Alba, Cocoglycerides, Bis-Diglyceryl Polyacyladipate-2, Butyrospermum Parkii Butter, Hydrogenated Castor Oil, Helianthus Annuus Seed Cera, Persea Gratissima Oil, Simmondsia Chinensis Seed Oil, Fragaria Ananassa Fruit Juice, Tocopherol, Ascorbyl Palmitate, Aqua, Propylene Glycol, Mica, BHT, Aroma, CI 15985, CI 77891, CI 15850",
+   "evidenceActives": "cera alba (#3 on list, moderate evidence); butyrospermum parkii butter (#6 on list, moderate evidence); tocopherol (#12 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): aroma (−1.5)",
    "maker": "Beiersdorf — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet",
    "waterResistance": "Water resistance not stated in listing"
@@ -188812,7 +192785,8 @@ const NXPRODUCTS = [
    "size:xl",
    "rating:none",
    "store:flipkart",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -188820,27 +192794,80 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-strawberry-shine-lip-balm-89042560204970213.html",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "nivea strawberry shine lip balm 89042560204970213",
+   "inciMatchScore": 0.9,
+   "inciText": "Octyldodecanol, Ricinus Communis Seed Oil, Cera Alba, Cocoglycerides, Bis-Diglyceryl Polyacyladipate-2, Butyrospermum Parkii Butter, Hydrogenated Castor Oil, Helianthus Annuus Seed Cera, Persea Gratissima Oil, Simmondsia Chinensis Seed Oil, Fragaria Ananassa Fruit Juice, Tocopherol, Ascorbyl Palmitate, Aqua, Propylene Glycol, Mica, BHT, Aroma, CI 15985, CI 77891, CI 15850",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.95,
+   "actives": [
+    {
+     "name": "cera alba",
+     "grade": "B",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "simmondsia chinensis seed oil",
+     "grade": "B",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 12,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "ascorbyl palmitate",
+     "grade": "C",
+     "position": 13,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "butyrospermum parkii butter"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "aroma"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Beiersdorf",
     "kind": "global",
@@ -188859,16 +192886,18 @@ const NXPRODUCTS = [
   "capacityLine": "100 ml",
   "materialLine": "Coffee + Strawberry",
   "featureLine": "Lip balm · ₹433/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "butyrospermum parkii butter high on the INCI list (moderate evidence); glycerin high on the INCI list (strong evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): aroma",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 5.4,
+   "skin": 8.5,
+   "trust": 8.5,
    "experience": 0
   },
   "fullSpec": {
@@ -188886,11 +192915,13 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-peach-shine-lip-balm-89042560204110213.html",
+   "inciMatchedName": "nivea peach shine lip balm 89042560204110213 (name match 94%)",
+   "inciList": "Octyldodecanol, Polyisobutene, Ricinus Communis Seed Oil, Pentaerythrityl Tetraisostearate, Hydrogenated Polydecene, Candelilla Cera, Butyrospermum Parkii Butter, Cera Microcristallina, Isopropyl Palmitate, Synthetic Wax, Polyglyceryl-3 Diisostearate, Glycerin, Glyceryl Glucoside, Aqua, Prunus Persica Juice, Mica, Propylene Glycol, BHT, Aroma, CI 15985, CI 15850, CI 77891",
+   "evidenceActives": "butyrospermum parkii butter (#7 on list, moderate evidence); glycerin (#12 on list, strong evidence)",
+   "safetyFlags": "Added fragrance (parfum): aroma (−1.5)",
    "maker": "Beiersdorf — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet"
   },
@@ -188922,7 +192953,8 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:none",
    "store:flipkart",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -188930,27 +192962,57 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-peach-shine-lip-balm-89042560204110213.html",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "nivea peach shine lip balm 89042560204110213",
+   "inciMatchScore": 0.94,
+   "inciText": "Octyldodecanol, Polyisobutene, Ricinus Communis Seed Oil, Pentaerythrityl Tetraisostearate, Hydrogenated Polydecene, Candelilla Cera, Butyrospermum Parkii Butter, Cera Microcristallina, Isopropyl Palmitate, Synthetic Wax, Polyglyceryl-3 Diisostearate, Glycerin, Glyceryl Glucoside, Aqua, Prunus Persica Juice, Mica, Propylene Glycol, BHT, Aroma, CI 15985, CI 15850, CI 77891",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.95,
+   "actives": [
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 12,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    }
+   ],
+   "support": [
+    "butyrospermum parkii butter",
+    "glycerin"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "aroma"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Beiersdorf",
     "kind": "global",
@@ -189157,16 +193219,18 @@ const NXPRODUCTS = [
   "capacityLine": "60 ml",
   "materialLine": "Strawberry",
   "featureLine": "Lip balm · ₹708/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "butyrospermum parkii butter high on the INCI list (moderate evidence); glycerin high on the INCI list (strong evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): aroma",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 5.4,
+   "skin": 8.5,
+   "trust": 8.5,
    "experience": 0
   },
   "fullSpec": {
@@ -189184,11 +193248,13 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-peach-shine-lip-balm-89042560204110213.html",
+   "inciMatchedName": "nivea peach shine lip balm 89042560204110213 (name match 90%)",
+   "inciList": "Octyldodecanol, Polyisobutene, Ricinus Communis Seed Oil, Pentaerythrityl Tetraisostearate, Hydrogenated Polydecene, Candelilla Cera, Butyrospermum Parkii Butter, Cera Microcristallina, Isopropyl Palmitate, Synthetic Wax, Polyglyceryl-3 Diisostearate, Glycerin, Glyceryl Glucoside, Aqua, Prunus Persica Juice, Mica, Propylene Glycol, BHT, Aroma, CI 15985, CI 15850, CI 77891",
+   "evidenceActives": "butyrospermum parkii butter (#7 on list, moderate evidence); glycerin (#12 on list, strong evidence)",
+   "safetyFlags": "Added fragrance (parfum): aroma (−1.5)",
    "maker": "Beiersdorf — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet"
   },
@@ -189215,7 +193281,8 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:none",
    "store:flipkart",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -189223,27 +193290,57 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-peach-shine-lip-balm-89042560204110213.html",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "nivea peach shine lip balm 89042560204110213",
+   "inciMatchScore": 0.9,
+   "inciText": "Octyldodecanol, Polyisobutene, Ricinus Communis Seed Oil, Pentaerythrityl Tetraisostearate, Hydrogenated Polydecene, Candelilla Cera, Butyrospermum Parkii Butter, Cera Microcristallina, Isopropyl Palmitate, Synthetic Wax, Polyglyceryl-3 Diisostearate, Glycerin, Glyceryl Glucoside, Aqua, Prunus Persica Juice, Mica, Propylene Glycol, BHT, Aroma, CI 15985, CI 15850, CI 77891",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.95,
+   "actives": [
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 12,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    }
+   ],
+   "support": [
+    "butyrospermum parkii butter",
+    "glycerin"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "aroma"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Beiersdorf",
     "kind": "global",
@@ -189378,16 +193475,18 @@ const NXPRODUCTS = [
   "capacityLine": "50 g",
   "materialLine": "Aloe vera + Rose + Strawberry",
   "featureLine": "Lip balm · ₹900/100g",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "butyrospermum parkii butter high on the INCI list (moderate evidence); tocopherol high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): aroma",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 5.8,
+   "skin": 8.5,
+   "trust": 8.5,
    "experience": 0
   },
   "fullSpec": {
@@ -189406,11 +193505,13 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-pomegranate-shine-lip-balm-89042560205340213.html",
+   "inciMatchedName": "nivea pomegranate shine lip balm 89042560205340213 (name match 90%)",
+   "inciList": "Helianthus Annuus Hybrid Oil, Ricinus Communis Seed Oil, Helianthus Annuus Seed Cera, Hydrogenated Rapeseed Oil, Butyrospermum Parkii Butter, Aroma, Tocopherol, Ascorbyl Palmitate, Helianthus Annuus Seed Oil, Lecithin, CI 45380, CI 15850, CI 77491, CI 77499",
+   "evidenceActives": "butyrospermum parkii butter (#5 on list, moderate evidence); tocopherol (#7 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): aroma (−1.5)",
    "maker": "Beiersdorf — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet"
   },
@@ -189441,7 +193542,8 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -189449,27 +193551,72 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-pomegranate-shine-lip-balm-89042560205340213.html",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "nivea pomegranate shine lip balm 89042560205340213",
+   "inciMatchScore": 0.9,
+   "inciText": "Helianthus Annuus Hybrid Oil, Ricinus Communis Seed Oil, Helianthus Annuus Seed Cera, Hydrogenated Rapeseed Oil, Butyrospermum Parkii Butter, Aroma, Tocopherol, Ascorbyl Palmitate, Helianthus Annuus Seed Oil, Lecithin, CI 45380, CI 15850, CI 77491, CI 77499",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "ascorbyl palmitate",
+     "grade": "C",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "helianthus annuus seed oil",
+     "grade": "B",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    }
+   ],
+   "support": [
+    "butyrospermum parkii butter"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "aroma"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Beiersdorf",
     "kind": "global",
@@ -189488,16 +193635,18 @@ const NXPRODUCTS = [
   "capacityLine": "100 ml",
   "materialLine": "Strawberry + Cherry / acerola",
   "featureLine": "Lip balm · ₹433/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "butyrospermum parkii butter high on the INCI list (moderate evidence); tocopherol high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): aroma",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 6.3,
+   "skin": 8.5,
+   "trust": 8.5,
    "experience": 0
   },
   "fullSpec": {
@@ -189515,13 +193664,16 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-cherry-shine-lip-balm-89042560204730213.html",
+   "inciMatchedName": "nivea cherry shine lip balm 89042560204730213 (name match 94%)",
+   "inciList": "Helianthus Annuus Hybrid Oil, Ricinus Communis Seed Oil, Helianthus Annuus Seed Cera, Hydrogenated Rapeseed Oil, Butyrospermum Parkii Butter, Aroma, CI 15850, Creatine, Ascorbyl Palmitate, Helianthus Annuus Seed Oil, Tocopherol, Ceramide NP, Lecithin, Olea Europaea Fruit Oil, 1-Methylhydantoin-2-Imide, CI 77492, CI 77499, Ceramide NP",
+   "evidenceActives": "butyrospermum parkii butter (#5 on list, moderate evidence); tocopherol (#11 on list, moderate evidence); ceramide np (#12 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): aroma (−1.5)",
    "maker": "Beiersdorf — Global FMCG or beauty group",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Irritation — ceramide np #12 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/y/w/g/cherry-shine-lip-balm-creme-100-ml-2-3298642-nivea-original-imahgt7yhs7bsf73.jpeg?q=90",
@@ -189547,7 +193699,9 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:none",
    "store:flipkart",
-   "inci:none"
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -189555,27 +193709,81 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-cherry-shine-lip-balm-89042560204730213.html",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "nivea cherry shine lip balm 89042560204730213",
+   "inciMatchScore": 0.94,
+   "inciText": "Helianthus Annuus Hybrid Oil, Ricinus Communis Seed Oil, Helianthus Annuus Seed Cera, Hydrogenated Rapeseed Oil, Butyrospermum Parkii Butter, Aroma, CI 15850, Creatine, Ascorbyl Palmitate, Helianthus Annuus Seed Oil, Tocopherol, Ceramide NP, Lecithin, Olea Europaea Fruit Oil, 1-Methylhydantoin-2-Imide, CI 77492, CI 77499, Ceramide NP",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.94,
+   "actives": [
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "ascorbyl palmitate",
+     "grade": "C",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "helianthus annuus seed oil",
+     "grade": "B",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 11,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 12,
+     "core": true,
+     "trace": false,
+     "src": "ceramide"
+    }
+   ],
+   "support": [
+    "butyrospermum parkii butter",
+    "ceramide np"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "aroma"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Beiersdorf",
     "kind": "global",
@@ -189594,16 +193802,18 @@ const NXPRODUCTS = [
   "capacityLine": "400 ml (pack of 2)",
   "materialLine": "Niacinamide + Centella / cica",
   "featureLine": "Lip balm · ₹171/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "butyrospermum parkii butter high on the INCI list (moderate evidence); tocopherol high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): aroma",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 5.8,
+   "skin": 8.5,
+   "trust": 8.5,
    "experience": 0
   },
   "fullSpec": {
@@ -189621,11 +193831,13 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-pomegranate-shine-lip-balm-89042560205340213.html",
+   "inciMatchedName": "nivea pomegranate shine lip balm 89042560205340213 (name match 94%)",
+   "inciList": "Helianthus Annuus Hybrid Oil, Ricinus Communis Seed Oil, Helianthus Annuus Seed Cera, Hydrogenated Rapeseed Oil, Butyrospermum Parkii Butter, Aroma, Tocopherol, Ascorbyl Palmitate, Helianthus Annuus Seed Oil, Lecithin, CI 45380, CI 15850, CI 77491, CI 77499",
+   "evidenceActives": "butyrospermum parkii butter (#5 on list, moderate evidence); tocopherol (#7 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): aroma (−1.5)",
    "maker": "Beiersdorf — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet"
   },
@@ -189654,7 +193866,8 @@ const NXPRODUCTS = [
    "size:xl",
    "rating:none",
    "store:flipkart",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -189662,27 +193875,72 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-pomegranate-shine-lip-balm-89042560205340213.html",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "nivea pomegranate shine lip balm 89042560205340213",
+   "inciMatchScore": 0.94,
+   "inciText": "Helianthus Annuus Hybrid Oil, Ricinus Communis Seed Oil, Helianthus Annuus Seed Cera, Hydrogenated Rapeseed Oil, Butyrospermum Parkii Butter, Aroma, Tocopherol, Ascorbyl Palmitate, Helianthus Annuus Seed Oil, Lecithin, CI 45380, CI 15850, CI 77491, CI 77499",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "ascorbyl palmitate",
+     "grade": "C",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "helianthus annuus seed oil",
+     "grade": "B",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    }
+   ],
+   "support": [
+    "butyrospermum parkii butter"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "aroma"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Beiersdorf",
     "kind": "global",
@@ -189701,16 +193959,19 @@ const NXPRODUCTS = [
   "capacityLine": "50 g",
   "materialLine": "Rose + Cocoa butter + Milk",
   "featureLine": "Lip balm · ₹900/100g",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "butyrospermum parkii butter high on the INCI list (moderate evidence); glycerin high on the INCI list (strong evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): perfume",
+   "Essential oil / volatile sensitiser: rosa damascena flower oil",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 5.7,
+   "skin": 8,
+   "trust": 8.5,
    "experience": 0
   },
   "fullSpec": {
@@ -189729,11 +193990,13 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-soft-rose-lip-balm-89042560204590213.html",
+   "inciMatchedName": "nivea soft rose lip balm 89042560204590213 (name match 90%)",
+   "inciList": "Cera Microcristallina, Octyldodecanol, Hydrogenated Polydecene, Cetyl Palmitate, Ricinus Communis Seed Oil, Myristyl Myristate, VP/Hexadecene Copolymer, Cetearyl Alcohol, Polyglyceryl-3 Diisostearate, Mica, Butyrospermum Parkii Butter, Cocoglycerides, Pentaerythrityl Tetraisostearate, C20-40 Alkyl Stearate, Glycerin, Copernicia Cerifera Cera, Rosa Gallica Flower Extract, Rosa Damascena Flower Oil, Glyceryl Glucoside, Aqua, Cera Alba, Perfume, CI 77891, CI 77492",
+   "evidenceActives": "butyrospermum parkii butter (#11 on list, moderate evidence); glycerin (#14 on list, strong evidence); cera alba (#20 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): perfume (−1.5); Essential oil / volatile sensitiser: rosa damascena flower oil (−0.5)",
    "maker": "Beiersdorf — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet"
   },
@@ -189764,7 +194027,8 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -189772,27 +194036,74 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-soft-rose-lip-balm-89042560204590213.html",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "nivea soft rose lip balm 89042560204590213",
+   "inciMatchScore": 0.9,
+   "inciText": "Cera Microcristallina, Octyldodecanol, Hydrogenated Polydecene, Cetyl Palmitate, Ricinus Communis Seed Oil, Myristyl Myristate, VP/Hexadecene Copolymer, Cetearyl Alcohol, Polyglyceryl-3 Diisostearate, Mica, Butyrospermum Parkii Butter, Cocoglycerides, Pentaerythrityl Tetraisostearate, C20-40 Alkyl Stearate, Glycerin, Copernicia Cerifera Cera, Rosa Gallica Flower Extract, Rosa Damascena Flower Oil, Glyceryl Glucoside, Aqua, Cera Alba, Perfume, CI 77891, CI 77492",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.96,
+   "actives": [
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 11,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 14,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "cera alba",
+     "grade": "B",
+     "position": 20,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    }
+   ],
+   "support": [
+    "butyrospermum parkii butter",
+    "glycerin"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "essentialOil",
+     "label": "Essential oil / volatile sensitiser",
+     "names": [
+      "rosa damascena flower oil"
+     ],
+     "penalty": 0.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Beiersdorf",
     "kind": "global",
@@ -189811,16 +194122,18 @@ const NXPRODUCTS = [
   "capacityLine": "400 ml (pack of 2)",
   "materialLine": "Aloe vera + Watermelon",
   "featureLine": "Lip balm · ₹171/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "butyrospermum parkii butter high on the INCI list (moderate evidence); glycerin high on the INCI list (strong evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): aroma",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
+   "ingredients": 5.4,
+   "skin": 8.5,
+   "trust": 8.5,
    "experience": 0
   },
   "fullSpec": {
@@ -189838,11 +194151,13 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-peach-shine-lip-balm-89042560204110213.html",
+   "inciMatchedName": "nivea peach shine lip balm 89042560204110213 (name match 94%)",
+   "inciList": "Octyldodecanol, Polyisobutene, Ricinus Communis Seed Oil, Pentaerythrityl Tetraisostearate, Hydrogenated Polydecene, Candelilla Cera, Butyrospermum Parkii Butter, Cera Microcristallina, Isopropyl Palmitate, Synthetic Wax, Polyglyceryl-3 Diisostearate, Glycerin, Glyceryl Glucoside, Aqua, Prunus Persica Juice, Mica, Propylene Glycol, BHT, Aroma, CI 15985, CI 15850, CI 77891",
+   "evidenceActives": "butyrospermum parkii butter (#7 on list, moderate evidence); glycerin (#12 on list, strong evidence)",
+   "safetyFlags": "Added fragrance (parfum): aroma (−1.5)",
    "maker": "Beiersdorf — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet"
   },
@@ -189869,7 +194184,8 @@ const NXPRODUCTS = [
    "size:xl",
    "rating:none",
    "store:flipkart",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -189877,27 +194193,57 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-peach-shine-lip-balm-89042560204110213.html",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "nivea peach shine lip balm 89042560204110213",
+   "inciMatchScore": 0.94,
+   "inciText": "Octyldodecanol, Polyisobutene, Ricinus Communis Seed Oil, Pentaerythrityl Tetraisostearate, Hydrogenated Polydecene, Candelilla Cera, Butyrospermum Parkii Butter, Cera Microcristallina, Isopropyl Palmitate, Synthetic Wax, Polyglyceryl-3 Diisostearate, Glycerin, Glyceryl Glucoside, Aqua, Prunus Persica Juice, Mica, Propylene Glycol, BHT, Aroma, CI 15985, CI 15850, CI 77891",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.95,
+   "actives": [
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 12,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    }
+   ],
+   "support": [
+    "butyrospermum parkii butter",
+    "glycerin"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "aroma"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Beiersdorf",
     "kind": "global",

@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-12.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-13.
 // Unknown fields are honestly marked, never invented.
 const NXPRODUCTS = [
  {
@@ -104941,17 +104941,18 @@ const NXPRODUCTS = [
   "capacityLine": "200 ml",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Sunscreen · SPF 35 · ₹85/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Plum official website (plumgoodness.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
+   "ethylhexyl salicylate high on the INCI list (strong evidence); niacinamide high on the INCI list (strong evidence)",
    "Well-reviewed: 4.4★ from 1,183 ratings"
   ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): fragrance"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 8.8,
+   "skin": 7.7,
+   "trust": 7,
    "experience": 7.5
   },
   "fullSpec": {
@@ -104970,13 +104971,16 @@ const NXPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.4/5 (1,183 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Plum official website (plumgoodness.com) — product page › Ingredients",
+   "inciSourceUrl": "https://plumgoodness.com/products/lily-miss-sunshine-by-plum-bodylovin",
+   "inciMatchedName": "Lily Miss Sunshine Sunscreen Body Lotion SPF 35 PA+++ by BodyLovin' (name match 95%)",
+   "inciList": "Aqua, Ethylhexyl Salicylate, Glycerin, Glyceryl Stearate, PEG-100 Stearate, C12-15 Alkyl Benzoate, Niacinamide, Cetearyl Alcohol, Butyl Methoxydibenzoylmethane, Octocrylene, Fragrance, Aloe Barbadensis Leaf Juice, Phenylbenzimidazole Sulfonic Acid, Stearic Acid, Panthenol, Dibutyl Adipate, Sodium Hydroxide, Phenoxyethanol, Ethylhexylglycerin, Silica, Dimethicone, Carbomer, Xanthan Gum, Sodium Gluconate",
+   "evidenceActives": "ethylhexyl salicylate (#2 on list, strong evidence); niacinamide (#5 on list, strong evidence); butyl methoxydibenzoylmethane (#7 on list, strong evidence); octocrylene (#8 on list, strong evidence); aloe barbadensis leaf juice (#10 on list, moderate evidence); phenylbenzimidazole sulfonic acid (#11 on list, strong evidence); panthenol (#13 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
    "buyerEvidence": "4.4★ from 1,183 ratings",
+   "concernBasis": "Acne — niacinamide #5 on INCI; Dark spots — niacinamide #5 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
@@ -105005,7 +105009,10 @@ const NXPRODUCTS = [
    "size:large",
    "rating:4.0",
    "store:flipkart",
-   "inci:none"
+   "target:acne",
+   "target:dark-spots",
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -105013,27 +105020,115 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Plum official website (plumgoodness.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://plumgoodness.com/products/lily-miss-sunshine-by-plum-bodylovin",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Lily Miss Sunshine Sunscreen Body Lotion SPF 35 PA+++ by BodyLovin'",
+   "inciMatchScore": 0.95,
+   "inciText": "Aqua, Ethylhexyl Salicylate, Glycerin, Glyceryl Stearate, PEG-100 Stearate, C12-15 Alkyl Benzoate, Niacinamide, Cetearyl Alcohol, Butyl Methoxydibenzoylmethane, Octocrylene, Fragrance, Aloe Barbadensis Leaf Juice, Phenylbenzimidazole Sulfonic Acid, Stearic Acid, Panthenol, Dibutyl Adipate, Sodium Hydroxide, Phenoxyethanol, Ethylhexylglycerin, Silica, Dimethicone, Carbomer, Xanthan Gum, Sodium Gluconate",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "ethylhexyl salicylate",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "butyl methoxydibenzoylmethane",
+     "grade": "A",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "octocrylene",
+     "grade": "A",
+     "position": 8,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "aloe barbadensis leaf juice",
+     "grade": "B",
+     "position": 10,
+     "core": true,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "phenylbenzimidazole sulfonic acid",
+     "grade": "A",
+     "position": 11,
+     "core": true,
+     "trace": true,
+     "src": "sunFilters"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 13,
+     "core": true,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 19,
+     "core": false,
+     "trace": true,
+     "src": "petrolatum"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "niacinamide",
+    "panthenol",
+    "dimethicone"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Pureplay Skin Sciences",
     "kind": "d2c",
@@ -123621,16 +123716,18 @@ const NXPRODUCTS = [
   "capacityLine": "30 g",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Sunscreen · SPF 50 · ₹947/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Sanfe official website (sanfe.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "ethylhexyl triazone high on the INCI list (strong evidence); bis-ethylhexyloxyphenol methoxyphenyl triazine high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 6.3,
+   "skin": 7,
+   "trust": 5.5,
    "experience": 1.9
   },
   "fullSpec": {
@@ -123649,11 +123746,13 @@ const NXPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.0/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Sanfe official website (sanfe.in) — product page › Ingredients",
+   "inciSourceUrl": "https://sanfe.in/products/sanfe-invisible-instant-glow-sunscreen",
+   "inciMatchedName": "Sanfe Invisible Instant Glow Sunscreen (name match 100%)",
+   "inciList": "Purified Water, Suncat DE, Isopropyl Alcohol, Ethylhexyl Triazone, Glycerine, Polysorbate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Carbomer, Diethylamino Hydroxybenzoyl Hexyl Benzoate, EDTA",
+   "evidenceActives": "ethylhexyl triazone (#4 on list, strong evidence); bis-ethylhexyloxyphenol methoxyphenyl triazine (#7 on list, strong evidence); diethylamino hydroxybenzoyl hexyl benzoate (#9 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4★ from 0 ratings",
    "waterResistance": "Water resistance not stated in listing"
@@ -123684,7 +123783,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -123692,25 +123793,60 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Sanfe official website (sanfe.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://sanfe.in/products/sanfe-invisible-instant-glow-sunscreen",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Sanfe Invisible Instant Glow Sunscreen",
+   "inciMatchScore": 1,
+   "inciText": "Purified Water, Suncat DE, Isopropyl Alcohol, Ethylhexyl Triazone, Glycerine, Polysorbate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Carbomer, Diethylamino Hydroxybenzoyl Hexyl Benzoate, EDTA",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 0.9,
+   "actives": [
+    {
+     "name": "ethylhexyl triazone",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "bis-ethylhexyloxyphenol methoxyphenyl triazine",
+     "grade": "A",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "diethylamino hydroxybenzoyl hexyl benzoate",
+     "grade": "A",
+     "position": 9,
+     "core": true,
+     "trace": false,
+     "src": "sunFilters"
+    }
+   ],
+   "support": [
+    "glycerin"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {

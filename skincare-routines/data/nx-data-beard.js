@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-12.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-13.
 // Unknown fields are honestly marked, never invented.
 const NXPRODUCTS = [
  {

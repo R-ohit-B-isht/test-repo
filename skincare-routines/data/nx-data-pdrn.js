@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-12.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-13.
 // Unknown fields are honestly marked, never invented.
 const NXPRODUCTS = [
  {
@@ -7960,17 +7960,19 @@ const NXPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "Niacinamide + Azelaic acid + Hyaluronic acid",
   "featureLine": "Serum · ₹5483/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Anua official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "hydrolyzed hyaluronic acid high on the INCI list (moderate evidence); niacinamide high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "Only 1 ingredient named — formula unscored",
    "Maker not verified — no parent company found",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
+   "ingredients": 7,
+   "skin": 7,
+   "trust": 5.5,
    "experience": 0
   },
   "fullSpec": {
@@ -7989,14 +7991,17 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: PDRN-HYALURON",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Anua official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceUrl": "https://anua.us/products/pdrn-hyaluronic-acid-capsule-100-serum",
+   "inciMatchedName": "PDRN Hyaluronic Acid Capsule 100 Serum (name match 80%)",
+   "listingIngredientLine": "PDRN-HYALURON (as printed on the Flipkart listing — incomplete, not scored)",
+   "inciList": "Water, Butylene Glycol, Propanediol, Glycerin, Hydrolyzed Hyaluronic Acid, 1,2-Hexanediol, Niacinamide, Glyceryl Oleate, Lauryl Glucoside, Myristyl Glucoside, Polyglyceryl-6 Laurate, Hydrogenated Lecithin, Glutathione, Hydrolyzed Collagen, Sodium Hyaluronate, Coptis Japonica Root Extract, Adenosine, Melia Azadirachta Leaf Extract, Melia Azadirachta Flower Extract, Coccinia Indica Fruit Extract, Sodium DNA, Solanum Melongena (Eggplant) Fruit Extract, Hyaluronic Acid, Hydrolyzed Sodium Hyaluronate, Hydroxypropyltrimonium Hyaluronate, Potassium Hyaluronate, Sodium Hyaluronate Crosspolymer, Sodium Acetylated Hyaluronate, Ocimum Sanctum Leaf Extract, Citric Acid, Curcuma Longa (Turmeric) Root Extract, Corallina Officinalis Extract, Sodium Citrate, Pentylene Glycol",
+   "evidenceActives": "hydrolyzed hyaluronic acid (#5 on list, moderate evidence); niacinamide (#7 on list, strong evidence); sodium hyaluronate (#15 on list, moderate evidence); adenosine (#17 on list, moderate evidence); sodium dna (#21 on list, moderate evidence); hyaluronic acid (#23 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "concernBasis": "Acne — niacinamide #7 on INCI; Dark spots — niacinamide #7 on INCI; Aging — product type, adenosine #17 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
@@ -8037,8 +8042,12 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
    "target:aging",
-   "inci:partial"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -8046,25 +8055,122 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "partial",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "PDRN-HYALURON",
-   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
+   "inci": "full",
+   "inciSource": "Anua official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://anua.us/products/pdrn-hyaluronic-acid-capsule-100-serum",
+   "inciSourceRegion": "US",
+   "inciMatchedTitle": "PDRN Hyaluronic Acid Capsule 100 Serum",
+   "inciMatchScore": 0.8,
+   "inciText": "Water, Butylene Glycol, Propanediol, Glycerin, Hydrolyzed Hyaluronic Acid, 1,2-Hexanediol, Niacinamide, Glyceryl Oleate, Lauryl Glucoside, Myristyl Glucoside, Polyglyceryl-6 Laurate, Hydrogenated Lecithin, Glutathione, Hydrolyzed Collagen, Sodium Hyaluronate, Coptis Japonica Root Extract, Adenosine, Melia Azadirachta Leaf Extract, Melia Azadirachta Flower Extract, Coccinia Indica Fruit Extract, Sodium DNA, Solanum Melongena (Eggplant) Fruit Extract, Hyaluronic Acid, Hydrolyzed Sodium Hyaluronate, Hydroxypropyltrimonium Hyaluronate, Potassium Hyaluronate, Sodium Hyaluronate Crosspolymer, Sodium Acetylated Hyaluronate, Ocimum Sanctum Leaf Extract, Citric Acid, Curcuma Longa (Turmeric) Root Extract, Corallina Officinalis Extract, Sodium Citrate, Pentylene Glycol",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
    "recognised": 1,
-   "actives": [],
-   "support": [],
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "hydrolyzed hyaluronic acid",
+     "grade": "B",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "glutathione",
+     "grade": "C",
+     "position": 13,
+     "core": false,
+     "trace": false,
+     "src": "pigment"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 15,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "adenosine",
+     "grade": "B",
+     "position": 17,
+     "core": true,
+     "trace": false,
+     "src": "peptides"
+    },
+    {
+     "name": "sodium dna",
+     "grade": "B",
+     "position": 21,
+     "core": true,
+     "trace": false,
+     "src": "pdrn"
+    },
+    {
+     "name": "hyaluronic acid",
+     "grade": "B",
+     "position": 23,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "sodium acetylated hyaluronate",
+     "grade": "B",
+     "position": 28,
+     "core": false,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 30,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "curcuma longa root extract",
+     "grade": "C",
+     "position": 31,
+     "core": false,
+     "trace": false,
+     "src": "greenTea"
+    }
+   ],
+   "support": [
+    "butylene glycol",
+    "propanediol",
+    "glycerin",
+    "hydrolyzed hyaluronic acid",
+    "niacinamide",
+    "sodium hyaluronate",
+    "hyaluronic acid"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -8085,17 +8191,19 @@ const NXPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "Hyaluronic acid + PDRN / polynucleotide",
   "featureLine": "Serum · ₹5483/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Anua official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "hydrolyzed hyaluronic acid high on the INCI list (moderate evidence); niacinamide high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "Only 1 ingredient named — formula unscored",
    "Maker not verified — no parent company found",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
+   "ingredients": 7,
+   "skin": 7,
+   "trust": 5.5,
    "experience": 0
   },
   "fullSpec": {
@@ -8114,14 +8222,17 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: PDRN-HYALURON",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Anua official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceUrl": "https://anua.us/products/pdrn-hyaluronic-acid-capsule-100-serum",
+   "inciMatchedName": "PDRN Hyaluronic Acid Capsule 100 Serum (name match 100%)",
+   "listingIngredientLine": "PDRN-HYALURON (as printed on the Flipkart listing — incomplete, not scored)",
+   "inciList": "Water, Butylene Glycol, Propanediol, Glycerin, Hydrolyzed Hyaluronic Acid, 1,2-Hexanediol, Niacinamide, Glyceryl Oleate, Lauryl Glucoside, Myristyl Glucoside, Polyglyceryl-6 Laurate, Hydrogenated Lecithin, Glutathione, Hydrolyzed Collagen, Sodium Hyaluronate, Coptis Japonica Root Extract, Adenosine, Melia Azadirachta Leaf Extract, Melia Azadirachta Flower Extract, Coccinia Indica Fruit Extract, Sodium DNA, Solanum Melongena (Eggplant) Fruit Extract, Hyaluronic Acid, Hydrolyzed Sodium Hyaluronate, Hydroxypropyltrimonium Hyaluronate, Potassium Hyaluronate, Sodium Hyaluronate Crosspolymer, Sodium Acetylated Hyaluronate, Ocimum Sanctum Leaf Extract, Citric Acid, Curcuma Longa (Turmeric) Root Extract, Corallina Officinalis Extract, Sodium Citrate, Pentylene Glycol",
+   "evidenceActives": "hydrolyzed hyaluronic acid (#5 on list, moderate evidence); niacinamide (#7 on list, strong evidence); sodium hyaluronate (#15 on list, moderate evidence); adenosine (#17 on list, moderate evidence); sodium dna (#21 on list, moderate evidence); hyaluronic acid (#23 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "concernBasis": "Acne — niacinamide #7 on INCI; Dark spots — niacinamide #7 on INCI; Aging — product type, adenosine #17 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
@@ -8156,8 +8267,12 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
    "target:aging",
-   "inci:partial"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -8165,25 +8280,122 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "partial",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "PDRN-HYALURON",
-   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
+   "inci": "full",
+   "inciSource": "Anua official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://anua.us/products/pdrn-hyaluronic-acid-capsule-100-serum",
+   "inciSourceRegion": "US",
+   "inciMatchedTitle": "PDRN Hyaluronic Acid Capsule 100 Serum",
+   "inciMatchScore": 1,
+   "inciText": "Water, Butylene Glycol, Propanediol, Glycerin, Hydrolyzed Hyaluronic Acid, 1,2-Hexanediol, Niacinamide, Glyceryl Oleate, Lauryl Glucoside, Myristyl Glucoside, Polyglyceryl-6 Laurate, Hydrogenated Lecithin, Glutathione, Hydrolyzed Collagen, Sodium Hyaluronate, Coptis Japonica Root Extract, Adenosine, Melia Azadirachta Leaf Extract, Melia Azadirachta Flower Extract, Coccinia Indica Fruit Extract, Sodium DNA, Solanum Melongena (Eggplant) Fruit Extract, Hyaluronic Acid, Hydrolyzed Sodium Hyaluronate, Hydroxypropyltrimonium Hyaluronate, Potassium Hyaluronate, Sodium Hyaluronate Crosspolymer, Sodium Acetylated Hyaluronate, Ocimum Sanctum Leaf Extract, Citric Acid, Curcuma Longa (Turmeric) Root Extract, Corallina Officinalis Extract, Sodium Citrate, Pentylene Glycol",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
    "recognised": 1,
-   "actives": [],
-   "support": [],
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "hydrolyzed hyaluronic acid",
+     "grade": "B",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "glutathione",
+     "grade": "C",
+     "position": 13,
+     "core": false,
+     "trace": false,
+     "src": "pigment"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 15,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "adenosine",
+     "grade": "B",
+     "position": 17,
+     "core": true,
+     "trace": false,
+     "src": "peptides"
+    },
+    {
+     "name": "sodium dna",
+     "grade": "B",
+     "position": 21,
+     "core": true,
+     "trace": false,
+     "src": "pdrn"
+    },
+    {
+     "name": "hyaluronic acid",
+     "grade": "B",
+     "position": 23,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "sodium acetylated hyaluronate",
+     "grade": "B",
+     "position": 28,
+     "core": false,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 30,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "curcuma longa root extract",
+     "grade": "C",
+     "position": 31,
+     "core": false,
+     "trace": false,
+     "src": "greenTea"
+    }
+   ],
+   "support": [
+    "butylene glycol",
+    "propanediol",
+    "glycerin",
+    "hydrolyzed hyaluronic acid",
+    "niacinamide",
+    "sodium hyaluronate",
+    "hyaluronic acid"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -8321,16 +8533,18 @@ const NXPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "Hyaluronic acid + PDRN / polynucleotide",
   "featureLine": "Serum · ₹5483/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Anua official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "hydrolyzed hyaluronic acid high on the INCI list (moderate evidence); niacinamide high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "Only 1 ingredient named — formula unscored",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
+   "ingredients": 7,
+   "skin": 7,
+   "trust": 5.5,
    "experience": 1.8
   },
   "fullSpec": {
@@ -8349,14 +8563,17 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "3.7/5 (3 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: PDRN-HYALURON",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Anua official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceUrl": "https://anua.us/products/pdrn-hyaluronic-acid-capsule-100-serum",
+   "inciMatchedName": "PDRN Hyaluronic Acid Capsule 100 Serum (name match 100%)",
+   "listingIngredientLine": "PDRN-HYALURON (as printed on the Flipkart listing — incomplete, not scored)",
+   "inciList": "Water, Butylene Glycol, Propanediol, Glycerin, Hydrolyzed Hyaluronic Acid, 1,2-Hexanediol, Niacinamide, Glyceryl Oleate, Lauryl Glucoside, Myristyl Glucoside, Polyglyceryl-6 Laurate, Hydrogenated Lecithin, Glutathione, Hydrolyzed Collagen, Sodium Hyaluronate, Coptis Japonica Root Extract, Adenosine, Melia Azadirachta Leaf Extract, Melia Azadirachta Flower Extract, Coccinia Indica Fruit Extract, Sodium DNA, Solanum Melongena (Eggplant) Fruit Extract, Hyaluronic Acid, Hydrolyzed Sodium Hyaluronate, Hydroxypropyltrimonium Hyaluronate, Potassium Hyaluronate, Sodium Hyaluronate Crosspolymer, Sodium Acetylated Hyaluronate, Ocimum Sanctum Leaf Extract, Citric Acid, Curcuma Longa (Turmeric) Root Extract, Corallina Officinalis Extract, Sodium Citrate, Pentylene Glycol",
+   "evidenceActives": "hydrolyzed hyaluronic acid (#5 on list, moderate evidence); niacinamide (#7 on list, strong evidence); sodium hyaluronate (#15 on list, moderate evidence); adenosine (#17 on list, moderate evidence); sodium dna (#21 on list, moderate evidence); hyaluronic acid (#23 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.7★ from 3 ratings",
-   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "concernBasis": "Acne — niacinamide #7 on INCI; Dark spots — niacinamide #7 on INCI; Aging — product type, adenosine #17 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
@@ -8391,8 +8608,12 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:3.5",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
    "target:aging",
-   "inci:partial"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -8400,25 +8621,122 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "partial",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "PDRN-HYALURON",
-   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
+   "inci": "full",
+   "inciSource": "Anua official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://anua.us/products/pdrn-hyaluronic-acid-capsule-100-serum",
+   "inciSourceRegion": "US",
+   "inciMatchedTitle": "PDRN Hyaluronic Acid Capsule 100 Serum",
+   "inciMatchScore": 1,
+   "inciText": "Water, Butylene Glycol, Propanediol, Glycerin, Hydrolyzed Hyaluronic Acid, 1,2-Hexanediol, Niacinamide, Glyceryl Oleate, Lauryl Glucoside, Myristyl Glucoside, Polyglyceryl-6 Laurate, Hydrogenated Lecithin, Glutathione, Hydrolyzed Collagen, Sodium Hyaluronate, Coptis Japonica Root Extract, Adenosine, Melia Azadirachta Leaf Extract, Melia Azadirachta Flower Extract, Coccinia Indica Fruit Extract, Sodium DNA, Solanum Melongena (Eggplant) Fruit Extract, Hyaluronic Acid, Hydrolyzed Sodium Hyaluronate, Hydroxypropyltrimonium Hyaluronate, Potassium Hyaluronate, Sodium Hyaluronate Crosspolymer, Sodium Acetylated Hyaluronate, Ocimum Sanctum Leaf Extract, Citric Acid, Curcuma Longa (Turmeric) Root Extract, Corallina Officinalis Extract, Sodium Citrate, Pentylene Glycol",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
    "recognised": 1,
-   "actives": [],
-   "support": [],
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "hydrolyzed hyaluronic acid",
+     "grade": "B",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "glutathione",
+     "grade": "C",
+     "position": 13,
+     "core": false,
+     "trace": false,
+     "src": "pigment"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 15,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "adenosine",
+     "grade": "B",
+     "position": 17,
+     "core": true,
+     "trace": false,
+     "src": "peptides"
+    },
+    {
+     "name": "sodium dna",
+     "grade": "B",
+     "position": 21,
+     "core": true,
+     "trace": false,
+     "src": "pdrn"
+    },
+    {
+     "name": "hyaluronic acid",
+     "grade": "B",
+     "position": 23,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "sodium acetylated hyaluronate",
+     "grade": "B",
+     "position": 28,
+     "core": false,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 30,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "curcuma longa root extract",
+     "grade": "C",
+     "position": 31,
+     "core": false,
+     "trace": false,
+     "src": "greenTea"
+    }
+   ],
+   "support": [
+    "butylene glycol",
+    "propanediol",
+    "glycerin",
+    "hydrolyzed hyaluronic acid",
+    "niacinamide",
+    "sodium hyaluronate",
+    "hyaluronic acid"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -8439,17 +8757,19 @@ const NXPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "Niacinamide + Hyaluronic acid + Ceramides",
   "featureLine": "Serum · Fragrance-free · ₹5483/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Anua official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "hydrolyzed hyaluronic acid high on the INCI list (moderate evidence); niacinamide high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "Only 1 ingredient named — formula unscored",
    "Maker not verified — no parent company found",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
+   "ingredients": 7,
+   "skin": 7,
+   "trust": 5.5,
    "experience": 0
   },
   "fullSpec": {
@@ -8468,14 +8788,17 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: PDRN-HYALURON",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Anua official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceUrl": "https://anua.us/products/pdrn-hyaluronic-acid-capsule-100-serum",
+   "inciMatchedName": "PDRN Hyaluronic Acid Capsule 100 Serum (name match 73%)",
+   "listingIngredientLine": "PDRN-HYALURON (as printed on the Flipkart listing — incomplete, not scored)",
+   "inciList": "Water, Butylene Glycol, Propanediol, Glycerin, Hydrolyzed Hyaluronic Acid, 1,2-Hexanediol, Niacinamide, Glyceryl Oleate, Lauryl Glucoside, Myristyl Glucoside, Polyglyceryl-6 Laurate, Hydrogenated Lecithin, Glutathione, Hydrolyzed Collagen, Sodium Hyaluronate, Coptis Japonica Root Extract, Adenosine, Melia Azadirachta Leaf Extract, Melia Azadirachta Flower Extract, Coccinia Indica Fruit Extract, Sodium DNA, Solanum Melongena (Eggplant) Fruit Extract, Hyaluronic Acid, Hydrolyzed Sodium Hyaluronate, Hydroxypropyltrimonium Hyaluronate, Potassium Hyaluronate, Sodium Hyaluronate Crosspolymer, Sodium Acetylated Hyaluronate, Ocimum Sanctum Leaf Extract, Citric Acid, Curcuma Longa (Turmeric) Root Extract, Corallina Officinalis Extract, Sodium Citrate, Pentylene Glycol",
+   "evidenceActives": "hydrolyzed hyaluronic acid (#5 on list, moderate evidence); niacinamide (#7 on list, strong evidence); sodium hyaluronate (#15 on list, moderate evidence); adenosine (#17 on list, moderate evidence); sodium dna (#21 on list, moderate evidence); hyaluronic acid (#23 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "concernBasis": "Acne — niacinamide #7 on INCI; Dark spots — niacinamide #7 on INCI; Aging — product type, adenosine #17 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
@@ -8517,8 +8840,12 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
    "target:aging",
-   "inci:partial"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": true,
@@ -8526,25 +8853,122 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "partial",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "PDRN-HYALURON",
-   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
+   "inci": "full",
+   "inciSource": "Anua official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://anua.us/products/pdrn-hyaluronic-acid-capsule-100-serum",
+   "inciSourceRegion": "US",
+   "inciMatchedTitle": "PDRN Hyaluronic Acid Capsule 100 Serum",
+   "inciMatchScore": 0.73,
+   "inciText": "Water, Butylene Glycol, Propanediol, Glycerin, Hydrolyzed Hyaluronic Acid, 1,2-Hexanediol, Niacinamide, Glyceryl Oleate, Lauryl Glucoside, Myristyl Glucoside, Polyglyceryl-6 Laurate, Hydrogenated Lecithin, Glutathione, Hydrolyzed Collagen, Sodium Hyaluronate, Coptis Japonica Root Extract, Adenosine, Melia Azadirachta Leaf Extract, Melia Azadirachta Flower Extract, Coccinia Indica Fruit Extract, Sodium DNA, Solanum Melongena (Eggplant) Fruit Extract, Hyaluronic Acid, Hydrolyzed Sodium Hyaluronate, Hydroxypropyltrimonium Hyaluronate, Potassium Hyaluronate, Sodium Hyaluronate Crosspolymer, Sodium Acetylated Hyaluronate, Ocimum Sanctum Leaf Extract, Citric Acid, Curcuma Longa (Turmeric) Root Extract, Corallina Officinalis Extract, Sodium Citrate, Pentylene Glycol",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
    "recognised": 1,
-   "actives": [],
-   "support": [],
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "hydrolyzed hyaluronic acid",
+     "grade": "B",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "glutathione",
+     "grade": "C",
+     "position": 13,
+     "core": false,
+     "trace": false,
+     "src": "pigment"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 15,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "adenosine",
+     "grade": "B",
+     "position": 17,
+     "core": true,
+     "trace": false,
+     "src": "peptides"
+    },
+    {
+     "name": "sodium dna",
+     "grade": "B",
+     "position": 21,
+     "core": true,
+     "trace": false,
+     "src": "pdrn"
+    },
+    {
+     "name": "hyaluronic acid",
+     "grade": "B",
+     "position": 23,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "sodium acetylated hyaluronate",
+     "grade": "B",
+     "position": 28,
+     "core": false,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 30,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "curcuma longa root extract",
+     "grade": "C",
+     "position": 31,
+     "core": false,
+     "trace": false,
+     "src": "greenTea"
+    }
+   ],
+   "support": [
+    "butylene glycol",
+    "propanediol",
+    "glycerin",
+    "hydrolyzed hyaluronic acid",
+    "niacinamide",
+    "sodium hyaluronate",
+    "hyaluronic acid"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -8565,17 +8989,19 @@ const NXPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "Hyaluronic acid + PDRN / polynucleotide",
   "featureLine": "Serum · ₹5483/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Anua official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "hydrolyzed hyaluronic acid high on the INCI list (moderate evidence); niacinamide high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "Only 1 ingredient named — formula unscored",
    "Maker not verified — no parent company found",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
+   "ingredients": 7,
+   "skin": 7,
+   "trust": 5.5,
    "experience": 0
   },
   "fullSpec": {
@@ -8594,14 +9020,17 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: PDRN-HYALURON",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Anua official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceUrl": "https://anua.us/products/pdrn-hyaluronic-acid-capsule-100-serum",
+   "inciMatchedName": "PDRN Hyaluronic Acid Capsule 100 Serum (name match 75%)",
+   "listingIngredientLine": "PDRN-HYALURON (as printed on the Flipkart listing — incomplete, not scored)",
+   "inciList": "Water, Butylene Glycol, Propanediol, Glycerin, Hydrolyzed Hyaluronic Acid, 1,2-Hexanediol, Niacinamide, Glyceryl Oleate, Lauryl Glucoside, Myristyl Glucoside, Polyglyceryl-6 Laurate, Hydrogenated Lecithin, Glutathione, Hydrolyzed Collagen, Sodium Hyaluronate, Coptis Japonica Root Extract, Adenosine, Melia Azadirachta Leaf Extract, Melia Azadirachta Flower Extract, Coccinia Indica Fruit Extract, Sodium DNA, Solanum Melongena (Eggplant) Fruit Extract, Hyaluronic Acid, Hydrolyzed Sodium Hyaluronate, Hydroxypropyltrimonium Hyaluronate, Potassium Hyaluronate, Sodium Hyaluronate Crosspolymer, Sodium Acetylated Hyaluronate, Ocimum Sanctum Leaf Extract, Citric Acid, Curcuma Longa (Turmeric) Root Extract, Corallina Officinalis Extract, Sodium Citrate, Pentylene Glycol",
+   "evidenceActives": "hydrolyzed hyaluronic acid (#5 on list, moderate evidence); niacinamide (#7 on list, strong evidence); sodium hyaluronate (#15 on list, moderate evidence); adenosine (#17 on list, moderate evidence); sodium dna (#21 on list, moderate evidence); hyaluronic acid (#23 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "concernBasis": "Acne — niacinamide #7 on INCI; Dark spots — niacinamide #7 on INCI; Aging — product type, adenosine #17 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
@@ -8636,8 +9065,12 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
    "target:aging",
-   "inci:partial"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -8645,25 +9078,122 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "partial",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "PDRN-HYALURON",
-   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
+   "inci": "full",
+   "inciSource": "Anua official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://anua.us/products/pdrn-hyaluronic-acid-capsule-100-serum",
+   "inciSourceRegion": "US",
+   "inciMatchedTitle": "PDRN Hyaluronic Acid Capsule 100 Serum",
+   "inciMatchScore": 0.75,
+   "inciText": "Water, Butylene Glycol, Propanediol, Glycerin, Hydrolyzed Hyaluronic Acid, 1,2-Hexanediol, Niacinamide, Glyceryl Oleate, Lauryl Glucoside, Myristyl Glucoside, Polyglyceryl-6 Laurate, Hydrogenated Lecithin, Glutathione, Hydrolyzed Collagen, Sodium Hyaluronate, Coptis Japonica Root Extract, Adenosine, Melia Azadirachta Leaf Extract, Melia Azadirachta Flower Extract, Coccinia Indica Fruit Extract, Sodium DNA, Solanum Melongena (Eggplant) Fruit Extract, Hyaluronic Acid, Hydrolyzed Sodium Hyaluronate, Hydroxypropyltrimonium Hyaluronate, Potassium Hyaluronate, Sodium Hyaluronate Crosspolymer, Sodium Acetylated Hyaluronate, Ocimum Sanctum Leaf Extract, Citric Acid, Curcuma Longa (Turmeric) Root Extract, Corallina Officinalis Extract, Sodium Citrate, Pentylene Glycol",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
    "recognised": 1,
-   "actives": [],
-   "support": [],
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "hydrolyzed hyaluronic acid",
+     "grade": "B",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "glutathione",
+     "grade": "C",
+     "position": 13,
+     "core": false,
+     "trace": false,
+     "src": "pigment"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 15,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "adenosine",
+     "grade": "B",
+     "position": 17,
+     "core": true,
+     "trace": false,
+     "src": "peptides"
+    },
+    {
+     "name": "sodium dna",
+     "grade": "B",
+     "position": 21,
+     "core": true,
+     "trace": false,
+     "src": "pdrn"
+    },
+    {
+     "name": "hyaluronic acid",
+     "grade": "B",
+     "position": 23,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "sodium acetylated hyaluronate",
+     "grade": "B",
+     "position": 28,
+     "core": false,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 30,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "curcuma longa root extract",
+     "grade": "C",
+     "position": 31,
+     "core": false,
+     "trace": false,
+     "src": "greenTea"
+    }
+   ],
+   "support": [
+    "butylene glycol",
+    "propanediol",
+    "glycerin",
+    "hydrolyzed hyaluronic acid",
+    "niacinamide",
+    "sodium hyaluronate",
+    "hyaluronic acid"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -8801,17 +9331,19 @@ const NXPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "Niacinamide + Hyaluronic acid + PDRN / polynucleotide",
   "featureLine": "Serum · ₹4850/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Anua official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "hydrolyzed hyaluronic acid high on the INCI list (moderate evidence); niacinamide high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "Only 1 ingredient named — formula unscored",
    "Maker not verified — no parent company found",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
+   "ingredients": 7,
+   "skin": 7,
+   "trust": 5.5,
    "experience": 0
   },
   "fullSpec": {
@@ -8830,14 +9362,17 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: PDRN-HYALURON",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Anua official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceUrl": "https://anua.us/products/pdrn-hyaluronic-acid-capsule-100-serum",
+   "inciMatchedName": "PDRN Hyaluronic Acid Capsule 100 Serum (name match 100%)",
+   "listingIngredientLine": "PDRN-HYALURON (as printed on the Flipkart listing — incomplete, not scored)",
+   "inciList": "Water, Butylene Glycol, Propanediol, Glycerin, Hydrolyzed Hyaluronic Acid, 1,2-Hexanediol, Niacinamide, Glyceryl Oleate, Lauryl Glucoside, Myristyl Glucoside, Polyglyceryl-6 Laurate, Hydrogenated Lecithin, Glutathione, Hydrolyzed Collagen, Sodium Hyaluronate, Coptis Japonica Root Extract, Adenosine, Melia Azadirachta Leaf Extract, Melia Azadirachta Flower Extract, Coccinia Indica Fruit Extract, Sodium DNA, Solanum Melongena (Eggplant) Fruit Extract, Hyaluronic Acid, Hydrolyzed Sodium Hyaluronate, Hydroxypropyltrimonium Hyaluronate, Potassium Hyaluronate, Sodium Hyaluronate Crosspolymer, Sodium Acetylated Hyaluronate, Ocimum Sanctum Leaf Extract, Citric Acid, Curcuma Longa (Turmeric) Root Extract, Corallina Officinalis Extract, Sodium Citrate, Pentylene Glycol",
+   "evidenceActives": "hydrolyzed hyaluronic acid (#5 on list, moderate evidence); niacinamide (#7 on list, strong evidence); sodium hyaluronate (#15 on list, moderate evidence); adenosine (#17 on list, moderate evidence); sodium dna (#21 on list, moderate evidence); hyaluronic acid (#23 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "concernBasis": "Acne — niacinamide #7 on INCI; Dark spots — niacinamide #7 on INCI; Aging — product type, adenosine #17 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
@@ -8875,8 +9410,12 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
    "target:aging",
-   "inci:partial"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -8884,25 +9423,122 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "partial",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "PDRN-HYALURON",
-   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
+   "inci": "full",
+   "inciSource": "Anua official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://anua.us/products/pdrn-hyaluronic-acid-capsule-100-serum",
+   "inciSourceRegion": "US",
+   "inciMatchedTitle": "PDRN Hyaluronic Acid Capsule 100 Serum",
+   "inciMatchScore": 1,
+   "inciText": "Water, Butylene Glycol, Propanediol, Glycerin, Hydrolyzed Hyaluronic Acid, 1,2-Hexanediol, Niacinamide, Glyceryl Oleate, Lauryl Glucoside, Myristyl Glucoside, Polyglyceryl-6 Laurate, Hydrogenated Lecithin, Glutathione, Hydrolyzed Collagen, Sodium Hyaluronate, Coptis Japonica Root Extract, Adenosine, Melia Azadirachta Leaf Extract, Melia Azadirachta Flower Extract, Coccinia Indica Fruit Extract, Sodium DNA, Solanum Melongena (Eggplant) Fruit Extract, Hyaluronic Acid, Hydrolyzed Sodium Hyaluronate, Hydroxypropyltrimonium Hyaluronate, Potassium Hyaluronate, Sodium Hyaluronate Crosspolymer, Sodium Acetylated Hyaluronate, Ocimum Sanctum Leaf Extract, Citric Acid, Curcuma Longa (Turmeric) Root Extract, Corallina Officinalis Extract, Sodium Citrate, Pentylene Glycol",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
    "recognised": 1,
-   "actives": [],
-   "support": [],
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "hydrolyzed hyaluronic acid",
+     "grade": "B",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "glutathione",
+     "grade": "C",
+     "position": 13,
+     "core": false,
+     "trace": false,
+     "src": "pigment"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 15,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "adenosine",
+     "grade": "B",
+     "position": 17,
+     "core": true,
+     "trace": false,
+     "src": "peptides"
+    },
+    {
+     "name": "sodium dna",
+     "grade": "B",
+     "position": 21,
+     "core": true,
+     "trace": false,
+     "src": "pdrn"
+    },
+    {
+     "name": "hyaluronic acid",
+     "grade": "B",
+     "position": 23,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "sodium acetylated hyaluronate",
+     "grade": "B",
+     "position": 28,
+     "core": false,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 30,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "curcuma longa root extract",
+     "grade": "C",
+     "position": 31,
+     "core": false,
+     "trace": false,
+     "src": "greenTea"
+    }
+   ],
+   "support": [
+    "butylene glycol",
+    "propanediol",
+    "glycerin",
+    "hydrolyzed hyaluronic acid",
+    "niacinamide",
+    "sodium hyaluronate",
+    "hyaluronic acid"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -8923,17 +9559,19 @@ const NXPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "Niacinamide + Azelaic acid + Hyaluronic acid",
   "featureLine": "Serum · ₹4850/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Anua official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "hydrolyzed hyaluronic acid high on the INCI list (moderate evidence); niacinamide high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "Only 1 ingredient named — formula unscored",
    "Maker not verified — no parent company found",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
+   "ingredients": 7,
+   "skin": 7,
+   "trust": 5.5,
    "experience": 0
   },
   "fullSpec": {
@@ -8952,14 +9590,17 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: PDRN-HYALURON",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Anua official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceUrl": "https://anua.us/products/pdrn-hyaluronic-acid-capsule-100-serum",
+   "inciMatchedName": "PDRN Hyaluronic Acid Capsule 100 Serum (name match 73%)",
+   "listingIngredientLine": "PDRN-HYALURON (as printed on the Flipkart listing — incomplete, not scored)",
+   "inciList": "Water, Butylene Glycol, Propanediol, Glycerin, Hydrolyzed Hyaluronic Acid, 1,2-Hexanediol, Niacinamide, Glyceryl Oleate, Lauryl Glucoside, Myristyl Glucoside, Polyglyceryl-6 Laurate, Hydrogenated Lecithin, Glutathione, Hydrolyzed Collagen, Sodium Hyaluronate, Coptis Japonica Root Extract, Adenosine, Melia Azadirachta Leaf Extract, Melia Azadirachta Flower Extract, Coccinia Indica Fruit Extract, Sodium DNA, Solanum Melongena (Eggplant) Fruit Extract, Hyaluronic Acid, Hydrolyzed Sodium Hyaluronate, Hydroxypropyltrimonium Hyaluronate, Potassium Hyaluronate, Sodium Hyaluronate Crosspolymer, Sodium Acetylated Hyaluronate, Ocimum Sanctum Leaf Extract, Citric Acid, Curcuma Longa (Turmeric) Root Extract, Corallina Officinalis Extract, Sodium Citrate, Pentylene Glycol",
+   "evidenceActives": "hydrolyzed hyaluronic acid (#5 on list, moderate evidence); niacinamide (#7 on list, strong evidence); sodium hyaluronate (#15 on list, moderate evidence); adenosine (#17 on list, moderate evidence); sodium dna (#21 on list, moderate evidence); hyaluronic acid (#23 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "concernBasis": "Acne — niacinamide #7 on INCI; Dark spots — niacinamide #7 on INCI; Aging — product type, adenosine #17 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
@@ -8999,8 +9640,12 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
    "target:aging",
-   "inci:partial"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -9008,25 +9653,122 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "partial",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "PDRN-HYALURON",
-   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
+   "inci": "full",
+   "inciSource": "Anua official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://anua.us/products/pdrn-hyaluronic-acid-capsule-100-serum",
+   "inciSourceRegion": "US",
+   "inciMatchedTitle": "PDRN Hyaluronic Acid Capsule 100 Serum",
+   "inciMatchScore": 0.73,
+   "inciText": "Water, Butylene Glycol, Propanediol, Glycerin, Hydrolyzed Hyaluronic Acid, 1,2-Hexanediol, Niacinamide, Glyceryl Oleate, Lauryl Glucoside, Myristyl Glucoside, Polyglyceryl-6 Laurate, Hydrogenated Lecithin, Glutathione, Hydrolyzed Collagen, Sodium Hyaluronate, Coptis Japonica Root Extract, Adenosine, Melia Azadirachta Leaf Extract, Melia Azadirachta Flower Extract, Coccinia Indica Fruit Extract, Sodium DNA, Solanum Melongena (Eggplant) Fruit Extract, Hyaluronic Acid, Hydrolyzed Sodium Hyaluronate, Hydroxypropyltrimonium Hyaluronate, Potassium Hyaluronate, Sodium Hyaluronate Crosspolymer, Sodium Acetylated Hyaluronate, Ocimum Sanctum Leaf Extract, Citric Acid, Curcuma Longa (Turmeric) Root Extract, Corallina Officinalis Extract, Sodium Citrate, Pentylene Glycol",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
    "recognised": 1,
-   "actives": [],
-   "support": [],
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "hydrolyzed hyaluronic acid",
+     "grade": "B",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "glutathione",
+     "grade": "C",
+     "position": 13,
+     "core": false,
+     "trace": false,
+     "src": "pigment"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 15,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "adenosine",
+     "grade": "B",
+     "position": 17,
+     "core": true,
+     "trace": false,
+     "src": "peptides"
+    },
+    {
+     "name": "sodium dna",
+     "grade": "B",
+     "position": 21,
+     "core": true,
+     "trace": false,
+     "src": "pdrn"
+    },
+    {
+     "name": "hyaluronic acid",
+     "grade": "B",
+     "position": 23,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "sodium acetylated hyaluronate",
+     "grade": "B",
+     "position": 28,
+     "core": false,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 30,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "curcuma longa root extract",
+     "grade": "C",
+     "position": 31,
+     "core": false,
+     "trace": false,
+     "src": "greenTea"
+    }
+   ],
+   "support": [
+    "butylene glycol",
+    "propanediol",
+    "glycerin",
+    "hydrolyzed hyaluronic acid",
+    "niacinamide",
+    "sodium hyaluronate",
+    "hyaluronic acid"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -9957,17 +10699,19 @@ const NXPRODUCTS = [
   "capacityLine": "60 ml",
   "materialLine": "Niacinamide + Hyaluronic acid + Snail mucin",
   "featureLine": "Cream · Paraben-free · ₹3075/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Anua official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "niacinamide high on the INCI list (strong evidence); sodium dna high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "Only 2 ingredients named — formula unscored",
    "Maker not verified — no parent company found",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
+   "ingredients": 5.7,
+   "skin": 7,
+   "trust": 5.5,
    "experience": 0
   },
   "fullSpec": {
@@ -9986,11 +10730,14 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: NIACINAMIDE, PDRN",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Anua official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceUrl": "https://anua.us/products/pdrn-hyaluronic-acid-100-moisturizing-cream",
+   "inciMatchedName": "PDRN Hyaluronic Acid 100 Moisturizing Cream (name match 100%)",
+   "listingIngredientLine": "NIACINAMIDE, PDRN (as printed on the Flipkart listing — incomplete, not scored)",
+   "inciList": "Water, Squalane, Glycerin, Hydrolyzed Collagen, 1,2-Hexanediol, Methylpropanediol, Ethylhexylglycerin, Niacinamide, Butylene Glycol, Sodium DNA, Pentylene Glycol, PVM/MA Copolymer, Carbomer, Diphenylsiloxy Phenyl Trimethicone, PCA Dimethicone, Behenyl Alcohol, Ammonium Acryloyldimethyltaurate/VP Copolymer, Propanediol, C14-22 Alcohols, C12-20 Alkyl Glucoside, Diglycerin, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, C12-13 Alketh-9, Melia Azadirachta Leaf Extract, Melia Azadirachta Flower Extract, Coccinia Indica Fruit Extract, Solanum Melongena (Eggplant) Fruit Extract, Aloe Barbadensis Flower Extract, Ocimum Sanctum Leaf Extract, Corallina Officinalis Extract, Curcuma Longa (Turmeric) Root Extract, Sodium Hyaluronate, Dimethylsilanol Hyaluronate, Hydrolyzed Hyaluronic Acid, Hydrolyzed Sodium Hyaluronate, Potassium Hyaluronate, Hyaluronic Acid, Hydroxypropyltrimonium Hyaluronate, Sodium Hyaluronate Crosspolymer, Sodium Hyaluronate Dimethylsilanol, Sodium Acetylated Hyaluronate, Adenosine, Sodium Phytate, Aminomethyl Propanediol, Madecassoside, Asiaticoside, Centella Asiatica Leaf Extract",
+   "evidenceActives": "niacinamide (#8 on list, strong evidence); sodium dna (#10 on list, moderate evidence); sodium hyaluronate (#30 on list, moderate evidence); hydrolyzed hyaluronic acid (#32 on list, moderate evidence); hyaluronic acid (#35 on list, moderate evidence); adenosine (#40 on list, moderate evidence); madecassoside (#43 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Aging — product type (matching only — not proof it works)",
@@ -10032,7 +10779,9 @@ const NXPRODUCTS = [
    "rating:none",
    "store:flipkart",
    "target:aging",
-   "inci:partial"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": true,
@@ -10040,25 +10789,131 @@ const NXPRODUCTS = [
    "derm": true,
    "men": false,
    "women": true,
-   "inci": "partial",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "NIACINAMIDE, PDRN",
-   "inciNote": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 0.5,
-   "actives": [],
-   "support": [],
+   "inci": "full",
+   "inciSource": "Anua official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://anua.us/products/pdrn-hyaluronic-acid-100-moisturizing-cream",
+   "inciSourceRegion": "US",
+   "inciMatchedTitle": "PDRN Hyaluronic Acid 100 Moisturizing Cream",
+   "inciMatchScore": 1,
+   "inciText": "Water, Squalane, Glycerin, Hydrolyzed Collagen, 1,2-Hexanediol, Methylpropanediol, Ethylhexylglycerin, Niacinamide, Butylene Glycol, Sodium DNA, Pentylene Glycol, PVM/MA Copolymer, Carbomer, Diphenylsiloxy Phenyl Trimethicone, PCA Dimethicone, Behenyl Alcohol, Ammonium Acryloyldimethyltaurate/VP Copolymer, Propanediol, C14-22 Alcohols, C12-20 Alkyl Glucoside, Diglycerin, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, C12-13 Alketh-9, Melia Azadirachta Leaf Extract, Melia Azadirachta Flower Extract, Coccinia Indica Fruit Extract, Solanum Melongena (Eggplant) Fruit Extract, Aloe Barbadensis Flower Extract, Ocimum Sanctum Leaf Extract, Corallina Officinalis Extract, Curcuma Longa (Turmeric) Root Extract, Sodium Hyaluronate, Dimethylsilanol Hyaluronate, Hydrolyzed Hyaluronic Acid, Hydrolyzed Sodium Hyaluronate, Potassium Hyaluronate, Hyaluronic Acid, Hydroxypropyltrimonium Hyaluronate, Sodium Hyaluronate Crosspolymer, Sodium Hyaluronate Dimethylsilanol, Sodium Acetylated Hyaluronate, Adenosine, Sodium Phytate, Aminomethyl Propanediol, Madecassoside, Asiaticoside, Centella Asiatica Leaf Extract",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "squalane",
+     "grade": "B",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 8,
+     "core": true,
+     "trace": true,
+     "src": "niacinamide"
+    },
+    {
+     "name": "sodium dna",
+     "grade": "B",
+     "position": 10,
+     "core": true,
+     "trace": true,
+     "src": "pdrn"
+    },
+    {
+     "name": "curcuma longa root extract",
+     "grade": "C",
+     "position": 29,
+     "core": false,
+     "trace": true,
+     "src": "greenTea"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 30,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "hydrolyzed hyaluronic acid",
+     "grade": "B",
+     "position": 32,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "hyaluronic acid",
+     "grade": "B",
+     "position": 35,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "sodium acetylated hyaluronate",
+     "grade": "B",
+     "position": 39,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "adenosine",
+     "grade": "B",
+     "position": 40,
+     "core": true,
+     "trace": true,
+     "src": "peptides"
+    },
+    {
+     "name": "madecassoside",
+     "grade": "B",
+     "position": 43,
+     "core": true,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "asiaticoside",
+     "grade": "B",
+     "position": 44,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    }
+   ],
+   "support": [
+    "squalane",
+    "glycerin",
+    "niacinamide",
+    "butylene glycol",
+    "propanediol",
+    "sodium hyaluronate",
+    "hydrolyzed hyaluronic acid",
+    "hyaluronic acid"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -10079,17 +10934,19 @@ const NXPRODUCTS = [
   "capacityLine": "50 g",
   "materialLine": "Niacinamide + Hyaluronic acid + PDRN / polynucleotide",
   "featureLine": "Cream · Paraben-free · ₹3690/100g",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Anua official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "niacinamide high on the INCI list (strong evidence); sodium dna high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "Only 2 ingredients named — formula unscored",
    "Maker not verified — no parent company found",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
+   "ingredients": 5.7,
+   "skin": 7,
+   "trust": 5.5,
    "experience": 0
   },
   "fullSpec": {
@@ -10108,11 +10965,14 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: NIACINAMIDE, PDRN",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Anua official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceUrl": "https://anua.us/products/pdrn-hyaluronic-acid-100-moisturizing-cream",
+   "inciMatchedName": "PDRN Hyaluronic Acid 100 Moisturizing Cream (name match 100%)",
+   "listingIngredientLine": "NIACINAMIDE, PDRN (as printed on the Flipkart listing — incomplete, not scored)",
+   "inciList": "Water, Squalane, Glycerin, Hydrolyzed Collagen, 1,2-Hexanediol, Methylpropanediol, Ethylhexylglycerin, Niacinamide, Butylene Glycol, Sodium DNA, Pentylene Glycol, PVM/MA Copolymer, Carbomer, Diphenylsiloxy Phenyl Trimethicone, PCA Dimethicone, Behenyl Alcohol, Ammonium Acryloyldimethyltaurate/VP Copolymer, Propanediol, C14-22 Alcohols, C12-20 Alkyl Glucoside, Diglycerin, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, C12-13 Alketh-9, Melia Azadirachta Leaf Extract, Melia Azadirachta Flower Extract, Coccinia Indica Fruit Extract, Solanum Melongena (Eggplant) Fruit Extract, Aloe Barbadensis Flower Extract, Ocimum Sanctum Leaf Extract, Corallina Officinalis Extract, Curcuma Longa (Turmeric) Root Extract, Sodium Hyaluronate, Dimethylsilanol Hyaluronate, Hydrolyzed Hyaluronic Acid, Hydrolyzed Sodium Hyaluronate, Potassium Hyaluronate, Hyaluronic Acid, Hydroxypropyltrimonium Hyaluronate, Sodium Hyaluronate Crosspolymer, Sodium Hyaluronate Dimethylsilanol, Sodium Acetylated Hyaluronate, Adenosine, Sodium Phytate, Aminomethyl Propanediol, Madecassoside, Asiaticoside, Centella Asiatica Leaf Extract",
+   "evidenceActives": "niacinamide (#8 on list, strong evidence); sodium dna (#10 on list, moderate evidence); sodium hyaluronate (#30 on list, moderate evidence); hydrolyzed hyaluronic acid (#32 on list, moderate evidence); hyaluronic acid (#35 on list, moderate evidence); adenosine (#40 on list, moderate evidence); madecassoside (#43 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Aging — product type (matching only — not proof it works)",
@@ -10152,7 +11012,9 @@ const NXPRODUCTS = [
    "rating:none",
    "store:flipkart",
    "target:aging",
-   "inci:partial"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": true,
@@ -10160,25 +11022,131 @@ const NXPRODUCTS = [
    "derm": true,
    "men": false,
    "women": true,
-   "inci": "partial",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "NIACINAMIDE, PDRN",
-   "inciNote": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 0.5,
-   "actives": [],
-   "support": [],
+   "inci": "full",
+   "inciSource": "Anua official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://anua.us/products/pdrn-hyaluronic-acid-100-moisturizing-cream",
+   "inciSourceRegion": "US",
+   "inciMatchedTitle": "PDRN Hyaluronic Acid 100 Moisturizing Cream",
+   "inciMatchScore": 1,
+   "inciText": "Water, Squalane, Glycerin, Hydrolyzed Collagen, 1,2-Hexanediol, Methylpropanediol, Ethylhexylglycerin, Niacinamide, Butylene Glycol, Sodium DNA, Pentylene Glycol, PVM/MA Copolymer, Carbomer, Diphenylsiloxy Phenyl Trimethicone, PCA Dimethicone, Behenyl Alcohol, Ammonium Acryloyldimethyltaurate/VP Copolymer, Propanediol, C14-22 Alcohols, C12-20 Alkyl Glucoside, Diglycerin, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, C12-13 Alketh-9, Melia Azadirachta Leaf Extract, Melia Azadirachta Flower Extract, Coccinia Indica Fruit Extract, Solanum Melongena (Eggplant) Fruit Extract, Aloe Barbadensis Flower Extract, Ocimum Sanctum Leaf Extract, Corallina Officinalis Extract, Curcuma Longa (Turmeric) Root Extract, Sodium Hyaluronate, Dimethylsilanol Hyaluronate, Hydrolyzed Hyaluronic Acid, Hydrolyzed Sodium Hyaluronate, Potassium Hyaluronate, Hyaluronic Acid, Hydroxypropyltrimonium Hyaluronate, Sodium Hyaluronate Crosspolymer, Sodium Hyaluronate Dimethylsilanol, Sodium Acetylated Hyaluronate, Adenosine, Sodium Phytate, Aminomethyl Propanediol, Madecassoside, Asiaticoside, Centella Asiatica Leaf Extract",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "squalane",
+     "grade": "B",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 8,
+     "core": true,
+     "trace": true,
+     "src": "niacinamide"
+    },
+    {
+     "name": "sodium dna",
+     "grade": "B",
+     "position": 10,
+     "core": true,
+     "trace": true,
+     "src": "pdrn"
+    },
+    {
+     "name": "curcuma longa root extract",
+     "grade": "C",
+     "position": 29,
+     "core": false,
+     "trace": true,
+     "src": "greenTea"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 30,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "hydrolyzed hyaluronic acid",
+     "grade": "B",
+     "position": 32,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "hyaluronic acid",
+     "grade": "B",
+     "position": 35,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "sodium acetylated hyaluronate",
+     "grade": "B",
+     "position": 39,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "adenosine",
+     "grade": "B",
+     "position": 40,
+     "core": true,
+     "trace": true,
+     "src": "peptides"
+    },
+    {
+     "name": "madecassoside",
+     "grade": "B",
+     "position": 43,
+     "core": true,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "asiaticoside",
+     "grade": "B",
+     "position": 44,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    }
+   ],
+   "support": [
+    "squalane",
+    "glycerin",
+    "niacinamide",
+    "butylene glycol",
+    "propanediol",
+    "sodium hyaluronate",
+    "hydrolyzed hyaluronic acid",
+    "hyaluronic acid"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -11652,17 +12620,19 @@ const NXPRODUCTS = [
   "capacityLine": "10 ml",
   "materialLine": "Hyaluronic acid + Collagen + PDRN / polynucleotide",
   "featureLine": "Lip balm · ₹16490/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (ANUA official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "sodium dna high on the INCI list (moderate evidence); panthenol high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "Only 4 ingredients named — formula unscored",
    "Maker not verified — no parent company found",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
+   "ingredients": 4.4,
+   "skin": 7,
+   "trust": 5.5,
    "experience": 0
   },
   "fullSpec": {
@@ -11681,11 +12651,14 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: PDRN, Hyaluronic Acid, Collagen, and moisturizing lip-care ingredients.",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "ANUA official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceUrl": "https://anua.us/products/pdrn-lip-serum",
+   "inciMatchedName": "PDRN Lip Serum (name match 100%)",
+   "listingIngredientLine": "PDRN, Hyaluronic Acid, Collagen, and moisturizing lip-care ingredients. (as printed on the Flipkart listing — incomplete, not scored)",
+   "inciList": "Polyisobutene, Diisostearyl Malate, Polyglyceryl-2 Triisostearate, Dipentaerythrityl Hexahydroxystearate/Hexastearate/Hexarosinate, Octyldodecanol, Microcrystalline Wax, Bis-Diglyceryl Polyacyladipate-2, Phytosteryl/Isostearyl/Cetyl/Stearyl/Behenyl Dimer Dilinoleate, Polyglyceryl-3 Polyricinoleate, 1,2-Hexanediol, Dextrin Palmitate, Silica Dimethyl Silylate, Simmondsia Chinensis (Jojooba) Seed Oil, Aqua/Water, Synthetic Wax, Pentylene Glycol, Ethylene/Propylene Copolymer, Butylene Glycol, Caprylyl Glycol, Dimethicone, Pentaerythrityl Tetra-di-t-butyl Hydroxyhydrocinnamate, Caprylic/Capric Triglyceride, Ethylhexylglycerin, Stearalkonium Hectorite, Polyglyceryl-3 Diisostearate, Rosa Damascena Flower Extract, Sodium DNA, Disodium EDTA, Panthenol, Glycerin, Ceramide NP, Hydrogenated Lecithin, Hyaluronic Acid, Hydrolyzed Collagen",
+   "evidenceActives": "sodium dna (#27 on list, moderate evidence); panthenol (#29 on list, moderate evidence); ceramide np (#31 on list, moderate evidence); hyaluronic acid (#33 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Aging — product type (matching only — not proof it works)",
@@ -11719,7 +12692,9 @@ const NXPRODUCTS = [
    "rating:none",
    "store:flipkart",
    "target:aging",
-   "inci:partial"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -11727,25 +12702,89 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "partial",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "PDRN, Hyaluronic Acid, Collagen, and moisturizing lip-care ingredients.",
-   "inciNote": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 0.5,
-   "actives": [],
-   "support": [],
+   "inci": "full",
+   "inciSource": "ANUA official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://anua.us/products/pdrn-lip-serum",
+   "inciSourceRegion": "US",
+   "inciMatchedTitle": "PDRN Lip Serum",
+   "inciMatchScore": 1,
+   "inciText": "Polyisobutene, Diisostearyl Malate, Polyglyceryl-2 Triisostearate, Dipentaerythrityl Hexahydroxystearate/Hexastearate/Hexarosinate, Octyldodecanol, Microcrystalline Wax, Bis-Diglyceryl Polyacyladipate-2, Phytosteryl/Isostearyl/Cetyl/Stearyl/Behenyl Dimer Dilinoleate, Polyglyceryl-3 Polyricinoleate, 1,2-Hexanediol, Dextrin Palmitate, Silica Dimethyl Silylate, Simmondsia Chinensis (Jojooba) Seed Oil, Aqua/Water, Synthetic Wax, Pentylene Glycol, Ethylene/Propylene Copolymer, Butylene Glycol, Caprylyl Glycol, Dimethicone, Pentaerythrityl Tetra-di-t-butyl Hydroxyhydrocinnamate, Caprylic/Capric Triglyceride, Ethylhexylglycerin, Stearalkonium Hectorite, Polyglyceryl-3 Diisostearate, Rosa Damascena Flower Extract, Sodium DNA, Disodium EDTA, Panthenol, Glycerin, Ceramide NP, Hydrogenated Lecithin, Hyaluronic Acid, Hydrolyzed Collagen",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 0.97,
+   "actives": [
+    {
+     "name": "simmondsia chinensis seed oil",
+     "grade": "B",
+     "position": 13,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 20,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "sodium dna",
+     "grade": "B",
+     "position": 27,
+     "core": true,
+     "trace": true,
+     "src": "pdrn"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 29,
+     "core": true,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 30,
+     "core": false,
+     "trace": true,
+     "src": "glycerin"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 31,
+     "core": true,
+     "trace": true,
+     "src": "ceramide"
+    },
+    {
+     "name": "hyaluronic acid",
+     "grade": "B",
+     "position": 33,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "butylene glycol",
+    "dimethicone",
+    "panthenol",
+    "glycerin",
+    "ceramide np",
+    "hyaluronic acid"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -12928,16 +13967,18 @@ const NXPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "Hyaluronic acid + PDRN / polynucleotide",
   "featureLine": "Serum · ₹5483/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Anua official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "hydrolyzed hyaluronic acid high on the INCI list (moderate evidence); niacinamide high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "Only 1 ingredient named — formula unscored",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
+   "ingredients": 7,
+   "skin": 7,
+   "trust": 5.5,
    "experience": 1.3
   },
   "fullSpec": {
@@ -12955,14 +13996,17 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "3.5/5 (4 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: PDRN-HYALURON",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Anua official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceUrl": "https://anua.us/products/pdrn-hyaluronic-acid-capsule-100-serum",
+   "inciMatchedName": "PDRN Hyaluronic Acid Capsule 100 Serum (name match 100%)",
+   "listingIngredientLine": "PDRN-HYALURON (as printed on the Flipkart listing — incomplete, not scored)",
+   "inciList": "Water, Butylene Glycol, Propanediol, Glycerin, Hydrolyzed Hyaluronic Acid, 1,2-Hexanediol, Niacinamide, Glyceryl Oleate, Lauryl Glucoside, Myristyl Glucoside, Polyglyceryl-6 Laurate, Hydrogenated Lecithin, Glutathione, Hydrolyzed Collagen, Sodium Hyaluronate, Coptis Japonica Root Extract, Adenosine, Melia Azadirachta Leaf Extract, Melia Azadirachta Flower Extract, Coccinia Indica Fruit Extract, Sodium DNA, Solanum Melongena (Eggplant) Fruit Extract, Hyaluronic Acid, Hydrolyzed Sodium Hyaluronate, Hydroxypropyltrimonium Hyaluronate, Potassium Hyaluronate, Sodium Hyaluronate Crosspolymer, Sodium Acetylated Hyaluronate, Ocimum Sanctum Leaf Extract, Citric Acid, Curcuma Longa (Turmeric) Root Extract, Corallina Officinalis Extract, Sodium Citrate, Pentylene Glycol",
+   "evidenceActives": "hydrolyzed hyaluronic acid (#5 on list, moderate evidence); niacinamide (#7 on list, strong evidence); sodium hyaluronate (#15 on list, moderate evidence); adenosine (#17 on list, moderate evidence); sodium dna (#21 on list, moderate evidence); hyaluronic acid (#23 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.5★ from 4 ratings",
-   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "concernBasis": "Acne — niacinamide #7 on INCI; Dark spots — niacinamide #7 on INCI; Aging — product type, adenosine #17 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
@@ -12996,8 +14040,12 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:3.5",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
    "target:aging",
-   "inci:partial"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -13005,25 +14053,122 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "partial",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "PDRN-HYALURON",
-   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
+   "inci": "full",
+   "inciSource": "Anua official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://anua.us/products/pdrn-hyaluronic-acid-capsule-100-serum",
+   "inciSourceRegion": "US",
+   "inciMatchedTitle": "PDRN Hyaluronic Acid Capsule 100 Serum",
+   "inciMatchScore": 1,
+   "inciText": "Water, Butylene Glycol, Propanediol, Glycerin, Hydrolyzed Hyaluronic Acid, 1,2-Hexanediol, Niacinamide, Glyceryl Oleate, Lauryl Glucoside, Myristyl Glucoside, Polyglyceryl-6 Laurate, Hydrogenated Lecithin, Glutathione, Hydrolyzed Collagen, Sodium Hyaluronate, Coptis Japonica Root Extract, Adenosine, Melia Azadirachta Leaf Extract, Melia Azadirachta Flower Extract, Coccinia Indica Fruit Extract, Sodium DNA, Solanum Melongena (Eggplant) Fruit Extract, Hyaluronic Acid, Hydrolyzed Sodium Hyaluronate, Hydroxypropyltrimonium Hyaluronate, Potassium Hyaluronate, Sodium Hyaluronate Crosspolymer, Sodium Acetylated Hyaluronate, Ocimum Sanctum Leaf Extract, Citric Acid, Curcuma Longa (Turmeric) Root Extract, Corallina Officinalis Extract, Sodium Citrate, Pentylene Glycol",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
    "recognised": 1,
-   "actives": [],
-   "support": [],
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "hydrolyzed hyaluronic acid",
+     "grade": "B",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "glutathione",
+     "grade": "C",
+     "position": 13,
+     "core": false,
+     "trace": false,
+     "src": "pigment"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 15,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "adenosine",
+     "grade": "B",
+     "position": 17,
+     "core": true,
+     "trace": false,
+     "src": "peptides"
+    },
+    {
+     "name": "sodium dna",
+     "grade": "B",
+     "position": 21,
+     "core": true,
+     "trace": false,
+     "src": "pdrn"
+    },
+    {
+     "name": "hyaluronic acid",
+     "grade": "B",
+     "position": 23,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "sodium acetylated hyaluronate",
+     "grade": "B",
+     "position": 28,
+     "core": false,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 30,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "curcuma longa root extract",
+     "grade": "C",
+     "position": 31,
+     "core": false,
+     "trace": false,
+     "src": "greenTea"
+    }
+   ],
+   "support": [
+    "butylene glycol",
+    "propanediol",
+    "glycerin",
+    "hydrolyzed hyaluronic acid",
+    "niacinamide",
+    "sodium hyaluronate",
+    "hyaluronic acid"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -13387,17 +14532,19 @@ const NXPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "Niacinamide + Hyaluronic acid + PDRN / polynucleotide",
   "featureLine": "Serum · ₹5483/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Anua official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "hydrolyzed hyaluronic acid high on the INCI list (moderate evidence); niacinamide high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "Only 1 ingredient named — formula unscored",
    "Maker not verified — no parent company found",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
+   "ingredients": 7,
+   "skin": 7,
+   "trust": 5.5,
    "experience": 0
   },
   "fullSpec": {
@@ -13416,14 +14563,17 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: PDRN-HYALURON",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Anua official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceUrl": "https://anua.us/products/pdrn-hyaluronic-acid-capsule-100-serum",
+   "inciMatchedName": "PDRN Hyaluronic Acid Capsule 100 Serum (name match 100%)",
+   "listingIngredientLine": "PDRN-HYALURON (as printed on the Flipkart listing — incomplete, not scored)",
+   "inciList": "Water, Butylene Glycol, Propanediol, Glycerin, Hydrolyzed Hyaluronic Acid, 1,2-Hexanediol, Niacinamide, Glyceryl Oleate, Lauryl Glucoside, Myristyl Glucoside, Polyglyceryl-6 Laurate, Hydrogenated Lecithin, Glutathione, Hydrolyzed Collagen, Sodium Hyaluronate, Coptis Japonica Root Extract, Adenosine, Melia Azadirachta Leaf Extract, Melia Azadirachta Flower Extract, Coccinia Indica Fruit Extract, Sodium DNA, Solanum Melongena (Eggplant) Fruit Extract, Hyaluronic Acid, Hydrolyzed Sodium Hyaluronate, Hydroxypropyltrimonium Hyaluronate, Potassium Hyaluronate, Sodium Hyaluronate Crosspolymer, Sodium Acetylated Hyaluronate, Ocimum Sanctum Leaf Extract, Citric Acid, Curcuma Longa (Turmeric) Root Extract, Corallina Officinalis Extract, Sodium Citrate, Pentylene Glycol",
+   "evidenceActives": "hydrolyzed hyaluronic acid (#5 on list, moderate evidence); niacinamide (#7 on list, strong evidence); sodium hyaluronate (#15 on list, moderate evidence); adenosine (#17 on list, moderate evidence); sodium dna (#21 on list, moderate evidence); hyaluronic acid (#23 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "concernBasis": "Acne — niacinamide #7 on INCI; Dark spots — niacinamide #7 on INCI; Aging — product type, adenosine #17 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
@@ -13462,8 +14612,12 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
    "target:aging",
-   "inci:partial"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -13471,25 +14625,122 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "partial",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "PDRN-HYALURON",
-   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
+   "inci": "full",
+   "inciSource": "Anua official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://anua.us/products/pdrn-hyaluronic-acid-capsule-100-serum",
+   "inciSourceRegion": "US",
+   "inciMatchedTitle": "PDRN Hyaluronic Acid Capsule 100 Serum",
+   "inciMatchScore": 1,
+   "inciText": "Water, Butylene Glycol, Propanediol, Glycerin, Hydrolyzed Hyaluronic Acid, 1,2-Hexanediol, Niacinamide, Glyceryl Oleate, Lauryl Glucoside, Myristyl Glucoside, Polyglyceryl-6 Laurate, Hydrogenated Lecithin, Glutathione, Hydrolyzed Collagen, Sodium Hyaluronate, Coptis Japonica Root Extract, Adenosine, Melia Azadirachta Leaf Extract, Melia Azadirachta Flower Extract, Coccinia Indica Fruit Extract, Sodium DNA, Solanum Melongena (Eggplant) Fruit Extract, Hyaluronic Acid, Hydrolyzed Sodium Hyaluronate, Hydroxypropyltrimonium Hyaluronate, Potassium Hyaluronate, Sodium Hyaluronate Crosspolymer, Sodium Acetylated Hyaluronate, Ocimum Sanctum Leaf Extract, Citric Acid, Curcuma Longa (Turmeric) Root Extract, Corallina Officinalis Extract, Sodium Citrate, Pentylene Glycol",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
    "recognised": 1,
-   "actives": [],
-   "support": [],
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "hydrolyzed hyaluronic acid",
+     "grade": "B",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "glutathione",
+     "grade": "C",
+     "position": 13,
+     "core": false,
+     "trace": false,
+     "src": "pigment"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 15,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "adenosine",
+     "grade": "B",
+     "position": 17,
+     "core": true,
+     "trace": false,
+     "src": "peptides"
+    },
+    {
+     "name": "sodium dna",
+     "grade": "B",
+     "position": 21,
+     "core": true,
+     "trace": false,
+     "src": "pdrn"
+    },
+    {
+     "name": "hyaluronic acid",
+     "grade": "B",
+     "position": 23,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "sodium acetylated hyaluronate",
+     "grade": "B",
+     "position": 28,
+     "core": false,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 30,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "curcuma longa root extract",
+     "grade": "C",
+     "position": 31,
+     "core": false,
+     "trace": false,
+     "src": "greenTea"
+    }
+   ],
+   "support": [
+    "butylene glycol",
+    "propanediol",
+    "glycerin",
+    "hydrolyzed hyaluronic acid",
+    "niacinamide",
+    "sodium hyaluronate",
+    "hyaluronic acid"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -14045,17 +15296,19 @@ const NXPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "Peptides + PDRN / polynucleotide",
   "featureLine": "Serum · ₹3163/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Medicube official website (medicube.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "niacinamide high on the INCI list (strong evidence); sodium dna high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): fragrance",
    "Maker not verified — no parent company found",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 6.1,
+   "skin": 5.9,
+   "trust": 5.5,
    "experience": 0
   },
   "fullSpec": {
@@ -14074,14 +15327,16 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Medicube official website (medicube.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceUrl": "https://medicube.us/products/rose-pdrn-pink-peptide-serum",
+   "inciMatchedName": "PDRN Pink Peptide Serum (name match 100%)",
+   "inciList": "Water, Glycerin, Dipropylene Glycol, Isopropyl Myristate, Glycereth-26, Niacinamide, 1,2- Hexanediol, Sodium DNA, Butylene Glycol, Polyglycerin-3, Sodium Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Polyisobutene, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Milt Extract, Tromethamine, Glyceryl Acrylate/Acrylic Acid Copolymer, PVM/MA Copolymer, Ethylhexylglycerin, Caprylyl Glycol, Fragrance, Melia Azadirachta Leaf Extract, Adenosine, Caprylyl/Capryl Glucoside, Sorbitan Oleate, Melia Azadirachta Flower Extract, Sodium Hyaluronate, Disodium EDTA, Curcuma Longa (Turmeric) Root Extract, Cyanocobalamin, Hydrolyzed Collagen, Ubiquinone, Ocimum Sanctum Leaf Extract, Corallina Officinalis Extract, Palmitoyl Pentapeptide-4, Palmitoyl Tripeptide-1, Palmitoyl Tetrapeptide-7, Copper Tripeptide-1, Acetyl Hexapeptide-8, Salmon Egg Extract, Atelocollagen",
+   "evidenceActives": "niacinamide (#6 on list, strong evidence); sodium dna (#8 on list, moderate evidence); adenosine (#22 on list, moderate evidence); sodium hyaluronate (#26 on list, moderate evidence); palmitoyl tripeptide-1 (#35 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "concernBasis": "Acne — niacinamide #6 on INCI; Dark spots — niacinamide #6 on INCI; Aging — product type (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
@@ -14108,8 +15363,11 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
    "target:aging",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -14117,27 +15375,139 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Medicube official website (medicube.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://medicube.us/products/rose-pdrn-pink-peptide-serum",
+   "inciSourceRegion": "US",
+   "inciMatchedTitle": "PDRN Pink Peptide Serum",
+   "inciMatchScore": 1,
+   "inciText": "Water, Glycerin, Dipropylene Glycol, Isopropyl Myristate, Glycereth-26, Niacinamide, 1,2- Hexanediol, Sodium DNA, Butylene Glycol, Polyglycerin-3, Sodium Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Polyisobutene, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Milt Extract, Tromethamine, Glyceryl Acrylate/Acrylic Acid Copolymer, PVM/MA Copolymer, Ethylhexylglycerin, Caprylyl Glycol, Fragrance, Melia Azadirachta Leaf Extract, Adenosine, Caprylyl/Capryl Glucoside, Sorbitan Oleate, Melia Azadirachta Flower Extract, Sodium Hyaluronate, Disodium EDTA, Curcuma Longa (Turmeric) Root Extract, Cyanocobalamin, Hydrolyzed Collagen, Ubiquinone, Ocimum Sanctum Leaf Extract, Corallina Officinalis Extract, Palmitoyl Pentapeptide-4, Palmitoyl Tripeptide-1, Palmitoyl Tetrapeptide-7, Copper Tripeptide-1, Acetyl Hexapeptide-8, Salmon Egg Extract, Atelocollagen",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 0.98,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "sodium dna",
+     "grade": "B",
+     "position": 8,
+     "core": true,
+     "trace": false,
+     "src": "pdrn"
+    },
+    {
+     "name": "adenosine",
+     "grade": "B",
+     "position": 22,
+     "core": true,
+     "trace": true,
+     "src": "peptides"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 26,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "curcuma longa root extract",
+     "grade": "C",
+     "position": 28,
+     "core": false,
+     "trace": true,
+     "src": "greenTea"
+    },
+    {
+     "name": "ubiquinone",
+     "grade": "B",
+     "position": 31,
+     "core": false,
+     "trace": true,
+     "src": "greenTea"
+    },
+    {
+     "name": "palmitoyl pentapeptide-4",
+     "grade": "B",
+     "position": 34,
+     "core": false,
+     "trace": true,
+     "src": "peptides"
+    },
+    {
+     "name": "palmitoyl tripeptide-1",
+     "grade": "B",
+     "position": 35,
+     "core": true,
+     "trace": true,
+     "src": "peptides"
+    },
+    {
+     "name": "palmitoyl tetrapeptide-7",
+     "grade": "B",
+     "position": 36,
+     "core": false,
+     "trace": true,
+     "src": "peptides"
+    },
+    {
+     "name": "copper tripeptide-1",
+     "grade": "B",
+     "position": 37,
+     "core": false,
+     "trace": true,
+     "src": "peptides"
+    },
+    {
+     "name": "acetyl hexapeptide-8",
+     "grade": "B",
+     "position": 38,
+     "core": false,
+     "trace": true,
+     "src": "peptides"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "niacinamide",
+    "butylene glycol",
+    "sodium hyaluronate"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -14156,17 +15526,19 @@ const NXPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "Niacinamide + Azelaic acid + Hyaluronic acid",
   "featureLine": "Serum · ₹5483/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Anua official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "hydrolyzed hyaluronic acid high on the INCI list (moderate evidence); niacinamide high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "Only 1 ingredient named — formula unscored",
    "Maker not verified — no parent company found",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
+   "ingredients": 7,
+   "skin": 7,
+   "trust": 5.5,
    "experience": 0
   },
   "fullSpec": {
@@ -14185,14 +15557,17 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: PDRN-HYALURON",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Anua official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceUrl": "https://anua.us/products/pdrn-hyaluronic-acid-capsule-100-serum",
+   "inciMatchedName": "PDRN Hyaluronic Acid Capsule 100 Serum (name match 100%)",
+   "listingIngredientLine": "PDRN-HYALURON (as printed on the Flipkart listing — incomplete, not scored)",
+   "inciList": "Water, Butylene Glycol, Propanediol, Glycerin, Hydrolyzed Hyaluronic Acid, 1,2-Hexanediol, Niacinamide, Glyceryl Oleate, Lauryl Glucoside, Myristyl Glucoside, Polyglyceryl-6 Laurate, Hydrogenated Lecithin, Glutathione, Hydrolyzed Collagen, Sodium Hyaluronate, Coptis Japonica Root Extract, Adenosine, Melia Azadirachta Leaf Extract, Melia Azadirachta Flower Extract, Coccinia Indica Fruit Extract, Sodium DNA, Solanum Melongena (Eggplant) Fruit Extract, Hyaluronic Acid, Hydrolyzed Sodium Hyaluronate, Hydroxypropyltrimonium Hyaluronate, Potassium Hyaluronate, Sodium Hyaluronate Crosspolymer, Sodium Acetylated Hyaluronate, Ocimum Sanctum Leaf Extract, Citric Acid, Curcuma Longa (Turmeric) Root Extract, Corallina Officinalis Extract, Sodium Citrate, Pentylene Glycol",
+   "evidenceActives": "hydrolyzed hyaluronic acid (#5 on list, moderate evidence); niacinamide (#7 on list, strong evidence); sodium hyaluronate (#15 on list, moderate evidence); adenosine (#17 on list, moderate evidence); sodium dna (#21 on list, moderate evidence); hyaluronic acid (#23 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "concernBasis": "Acne — niacinamide #7 on INCI; Dark spots — niacinamide #7 on INCI; Aging — product type, adenosine #17 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
@@ -14233,8 +15608,12 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
    "target:aging",
-   "inci:partial"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -14242,25 +15621,122 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "partial",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "PDRN-HYALURON",
-   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
+   "inci": "full",
+   "inciSource": "Anua official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://anua.us/products/pdrn-hyaluronic-acid-capsule-100-serum",
+   "inciSourceRegion": "US",
+   "inciMatchedTitle": "PDRN Hyaluronic Acid Capsule 100 Serum",
+   "inciMatchScore": 1,
+   "inciText": "Water, Butylene Glycol, Propanediol, Glycerin, Hydrolyzed Hyaluronic Acid, 1,2-Hexanediol, Niacinamide, Glyceryl Oleate, Lauryl Glucoside, Myristyl Glucoside, Polyglyceryl-6 Laurate, Hydrogenated Lecithin, Glutathione, Hydrolyzed Collagen, Sodium Hyaluronate, Coptis Japonica Root Extract, Adenosine, Melia Azadirachta Leaf Extract, Melia Azadirachta Flower Extract, Coccinia Indica Fruit Extract, Sodium DNA, Solanum Melongena (Eggplant) Fruit Extract, Hyaluronic Acid, Hydrolyzed Sodium Hyaluronate, Hydroxypropyltrimonium Hyaluronate, Potassium Hyaluronate, Sodium Hyaluronate Crosspolymer, Sodium Acetylated Hyaluronate, Ocimum Sanctum Leaf Extract, Citric Acid, Curcuma Longa (Turmeric) Root Extract, Corallina Officinalis Extract, Sodium Citrate, Pentylene Glycol",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
    "recognised": 1,
-   "actives": [],
-   "support": [],
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "hydrolyzed hyaluronic acid",
+     "grade": "B",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "glutathione",
+     "grade": "C",
+     "position": 13,
+     "core": false,
+     "trace": false,
+     "src": "pigment"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 15,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "adenosine",
+     "grade": "B",
+     "position": 17,
+     "core": true,
+     "trace": false,
+     "src": "peptides"
+    },
+    {
+     "name": "sodium dna",
+     "grade": "B",
+     "position": 21,
+     "core": true,
+     "trace": false,
+     "src": "pdrn"
+    },
+    {
+     "name": "hyaluronic acid",
+     "grade": "B",
+     "position": 23,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "sodium acetylated hyaluronate",
+     "grade": "B",
+     "position": 28,
+     "core": false,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 30,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "curcuma longa root extract",
+     "grade": "C",
+     "position": 31,
+     "core": false,
+     "trace": false,
+     "src": "greenTea"
+    }
+   ],
+   "support": [
+    "butylene glycol",
+    "propanediol",
+    "glycerin",
+    "hydrolyzed hyaluronic acid",
+    "niacinamide",
+    "sodium hyaluronate",
+    "hyaluronic acid"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -39676,17 +41152,19 @@ const NXPRODUCTS = [
   "capacityLine": "10 ml",
   "materialLine": "Hyaluronic acid + Collagen + PDRN / polynucleotide",
   "featureLine": "Serum · ₹16490/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (ANUA official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "sodium dna high on the INCI list (moderate evidence); panthenol high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "Only 4 ingredients named — formula unscored",
    "Maker not verified — no parent company found",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
+   "ingredients": 4.4,
+   "skin": 7,
+   "trust": 5.5,
    "experience": 0
   },
   "fullSpec": {
@@ -39705,11 +41183,14 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: PDRN, Hyaluronic Acid, Collagen, and moisturizing lip-care ingredients.",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "ANUA official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceUrl": "https://anua.us/products/pdrn-lip-serum",
+   "inciMatchedName": "PDRN Lip Serum (name match 100%)",
+   "listingIngredientLine": "PDRN, Hyaluronic Acid, Collagen, and moisturizing lip-care ingredients. (as printed on the Flipkart listing — incomplete, not scored)",
+   "inciList": "Polyisobutene, Diisostearyl Malate, Polyglyceryl-2 Triisostearate, Dipentaerythrityl Hexahydroxystearate/Hexastearate/Hexarosinate, Octyldodecanol, Microcrystalline Wax, Bis-Diglyceryl Polyacyladipate-2, Phytosteryl/Isostearyl/Cetyl/Stearyl/Behenyl Dimer Dilinoleate, Polyglyceryl-3 Polyricinoleate, 1,2-Hexanediol, Dextrin Palmitate, Silica Dimethyl Silylate, Simmondsia Chinensis (Jojooba) Seed Oil, Aqua/Water, Synthetic Wax, Pentylene Glycol, Ethylene/Propylene Copolymer, Butylene Glycol, Caprylyl Glycol, Dimethicone, Pentaerythrityl Tetra-di-t-butyl Hydroxyhydrocinnamate, Caprylic/Capric Triglyceride, Ethylhexylglycerin, Stearalkonium Hectorite, Polyglyceryl-3 Diisostearate, Rosa Damascena Flower Extract, Sodium DNA, Disodium EDTA, Panthenol, Glycerin, Ceramide NP, Hydrogenated Lecithin, Hyaluronic Acid, Hydrolyzed Collagen",
+   "evidenceActives": "sodium dna (#27 on list, moderate evidence); panthenol (#29 on list, moderate evidence); ceramide np (#31 on list, moderate evidence); hyaluronic acid (#33 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Aging — product type (matching only — not proof it works)",
@@ -39743,7 +41224,9 @@ const NXPRODUCTS = [
    "rating:none",
    "store:flipkart",
    "target:aging",
-   "inci:partial"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -39751,25 +41234,89 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "partial",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "PDRN, Hyaluronic Acid, Collagen, and moisturizing lip-care ingredients.",
-   "inciNote": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 0.5,
-   "actives": [],
-   "support": [],
+   "inci": "full",
+   "inciSource": "ANUA official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://anua.us/products/pdrn-lip-serum",
+   "inciSourceRegion": "US",
+   "inciMatchedTitle": "PDRN Lip Serum",
+   "inciMatchScore": 1,
+   "inciText": "Polyisobutene, Diisostearyl Malate, Polyglyceryl-2 Triisostearate, Dipentaerythrityl Hexahydroxystearate/Hexastearate/Hexarosinate, Octyldodecanol, Microcrystalline Wax, Bis-Diglyceryl Polyacyladipate-2, Phytosteryl/Isostearyl/Cetyl/Stearyl/Behenyl Dimer Dilinoleate, Polyglyceryl-3 Polyricinoleate, 1,2-Hexanediol, Dextrin Palmitate, Silica Dimethyl Silylate, Simmondsia Chinensis (Jojooba) Seed Oil, Aqua/Water, Synthetic Wax, Pentylene Glycol, Ethylene/Propylene Copolymer, Butylene Glycol, Caprylyl Glycol, Dimethicone, Pentaerythrityl Tetra-di-t-butyl Hydroxyhydrocinnamate, Caprylic/Capric Triglyceride, Ethylhexylglycerin, Stearalkonium Hectorite, Polyglyceryl-3 Diisostearate, Rosa Damascena Flower Extract, Sodium DNA, Disodium EDTA, Panthenol, Glycerin, Ceramide NP, Hydrogenated Lecithin, Hyaluronic Acid, Hydrolyzed Collagen",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 0.97,
+   "actives": [
+    {
+     "name": "simmondsia chinensis seed oil",
+     "grade": "B",
+     "position": 13,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 20,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "sodium dna",
+     "grade": "B",
+     "position": 27,
+     "core": true,
+     "trace": true,
+     "src": "pdrn"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 29,
+     "core": true,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 30,
+     "core": false,
+     "trace": true,
+     "src": "glycerin"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 31,
+     "core": true,
+     "trace": true,
+     "src": "ceramide"
+    },
+    {
+     "name": "hyaluronic acid",
+     "grade": "B",
+     "position": 33,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "butylene glycol",
+    "dimethicone",
+    "panthenol",
+    "glycerin",
+    "ceramide np",
+    "hyaluronic acid"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -39994,17 +41541,19 @@ const NXPRODUCTS = [
   "capacityLine": "10 ml",
   "materialLine": "Hyaluronic acid + Collagen + PDRN / polynucleotide",
   "featureLine": "Serum · ₹16490/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (ANUA official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "sodium dna high on the INCI list (moderate evidence); panthenol high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "Only 4 ingredients named — formula unscored",
    "Maker not verified — no parent company found",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
+   "ingredients": 4.4,
+   "skin": 7,
+   "trust": 5.5,
    "experience": 0
   },
   "fullSpec": {
@@ -40023,11 +41572,14 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: PDRN, Hyaluronic Acid, Collagen, and moisturizing lip-care ingredients.",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "ANUA official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceUrl": "https://anua.us/products/pdrn-lip-serum",
+   "inciMatchedName": "PDRN Lip Serum (name match 100%)",
+   "listingIngredientLine": "PDRN, Hyaluronic Acid, Collagen, and moisturizing lip-care ingredients. (as printed on the Flipkart listing — incomplete, not scored)",
+   "inciList": "Polyisobutene, Diisostearyl Malate, Polyglyceryl-2 Triisostearate, Dipentaerythrityl Hexahydroxystearate/Hexastearate/Hexarosinate, Octyldodecanol, Microcrystalline Wax, Bis-Diglyceryl Polyacyladipate-2, Phytosteryl/Isostearyl/Cetyl/Stearyl/Behenyl Dimer Dilinoleate, Polyglyceryl-3 Polyricinoleate, 1,2-Hexanediol, Dextrin Palmitate, Silica Dimethyl Silylate, Simmondsia Chinensis (Jojooba) Seed Oil, Aqua/Water, Synthetic Wax, Pentylene Glycol, Ethylene/Propylene Copolymer, Butylene Glycol, Caprylyl Glycol, Dimethicone, Pentaerythrityl Tetra-di-t-butyl Hydroxyhydrocinnamate, Caprylic/Capric Triglyceride, Ethylhexylglycerin, Stearalkonium Hectorite, Polyglyceryl-3 Diisostearate, Rosa Damascena Flower Extract, Sodium DNA, Disodium EDTA, Panthenol, Glycerin, Ceramide NP, Hydrogenated Lecithin, Hyaluronic Acid, Hydrolyzed Collagen",
+   "evidenceActives": "sodium dna (#27 on list, moderate evidence); panthenol (#29 on list, moderate evidence); ceramide np (#31 on list, moderate evidence); hyaluronic acid (#33 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Aging — product type (matching only — not proof it works)",
@@ -40061,7 +41613,9 @@ const NXPRODUCTS = [
    "rating:none",
    "store:flipkart",
    "target:aging",
-   "inci:partial"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -40069,25 +41623,89 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "partial",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "PDRN, Hyaluronic Acid, Collagen, and moisturizing lip-care ingredients.",
-   "inciNote": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 0.5,
-   "actives": [],
-   "support": [],
+   "inci": "full",
+   "inciSource": "ANUA official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://anua.us/products/pdrn-lip-serum",
+   "inciSourceRegion": "US",
+   "inciMatchedTitle": "PDRN Lip Serum",
+   "inciMatchScore": 1,
+   "inciText": "Polyisobutene, Diisostearyl Malate, Polyglyceryl-2 Triisostearate, Dipentaerythrityl Hexahydroxystearate/Hexastearate/Hexarosinate, Octyldodecanol, Microcrystalline Wax, Bis-Diglyceryl Polyacyladipate-2, Phytosteryl/Isostearyl/Cetyl/Stearyl/Behenyl Dimer Dilinoleate, Polyglyceryl-3 Polyricinoleate, 1,2-Hexanediol, Dextrin Palmitate, Silica Dimethyl Silylate, Simmondsia Chinensis (Jojooba) Seed Oil, Aqua/Water, Synthetic Wax, Pentylene Glycol, Ethylene/Propylene Copolymer, Butylene Glycol, Caprylyl Glycol, Dimethicone, Pentaerythrityl Tetra-di-t-butyl Hydroxyhydrocinnamate, Caprylic/Capric Triglyceride, Ethylhexylglycerin, Stearalkonium Hectorite, Polyglyceryl-3 Diisostearate, Rosa Damascena Flower Extract, Sodium DNA, Disodium EDTA, Panthenol, Glycerin, Ceramide NP, Hydrogenated Lecithin, Hyaluronic Acid, Hydrolyzed Collagen",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 0.97,
+   "actives": [
+    {
+     "name": "simmondsia chinensis seed oil",
+     "grade": "B",
+     "position": 13,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 20,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "sodium dna",
+     "grade": "B",
+     "position": 27,
+     "core": true,
+     "trace": true,
+     "src": "pdrn"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 29,
+     "core": true,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 30,
+     "core": false,
+     "trace": true,
+     "src": "glycerin"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 31,
+     "core": true,
+     "trace": true,
+     "src": "ceramide"
+    },
+    {
+     "name": "hyaluronic acid",
+     "grade": "B",
+     "position": 33,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "butylene glycol",
+    "dimethicone",
+    "panthenol",
+    "glycerin",
+    "ceramide np",
+    "hyaluronic acid"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -40108,17 +41726,19 @@ const NXPRODUCTS = [
   "capacityLine": "10 ml",
   "materialLine": "Hyaluronic acid + Collagen + PDRN / polynucleotide",
   "featureLine": "Serum · ₹16490/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (ANUA official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "sodium dna high on the INCI list (moderate evidence); panthenol high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "Only 4 ingredients named — formula unscored",
    "Maker not verified — no parent company found",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
+   "ingredients": 4.4,
+   "skin": 7,
+   "trust": 5.5,
    "experience": 0
   },
   "fullSpec": {
@@ -40137,11 +41757,14 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: PDRN, Hyaluronic Acid, Collagen, and moisturizing lip-care ingredients.",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "ANUA official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceUrl": "https://anua.us/products/pdrn-lip-serum",
+   "inciMatchedName": "PDRN Lip Serum (name match 88%)",
+   "listingIngredientLine": "PDRN, Hyaluronic Acid, Collagen, and moisturizing lip-care ingredients. (as printed on the Flipkart listing — incomplete, not scored)",
+   "inciList": "Polyisobutene, Diisostearyl Malate, Polyglyceryl-2 Triisostearate, Dipentaerythrityl Hexahydroxystearate/Hexastearate/Hexarosinate, Octyldodecanol, Microcrystalline Wax, Bis-Diglyceryl Polyacyladipate-2, Phytosteryl/Isostearyl/Cetyl/Stearyl/Behenyl Dimer Dilinoleate, Polyglyceryl-3 Polyricinoleate, 1,2-Hexanediol, Dextrin Palmitate, Silica Dimethyl Silylate, Simmondsia Chinensis (Jojooba) Seed Oil, Aqua/Water, Synthetic Wax, Pentylene Glycol, Ethylene/Propylene Copolymer, Butylene Glycol, Caprylyl Glycol, Dimethicone, Pentaerythrityl Tetra-di-t-butyl Hydroxyhydrocinnamate, Caprylic/Capric Triglyceride, Ethylhexylglycerin, Stearalkonium Hectorite, Polyglyceryl-3 Diisostearate, Rosa Damascena Flower Extract, Sodium DNA, Disodium EDTA, Panthenol, Glycerin, Ceramide NP, Hydrogenated Lecithin, Hyaluronic Acid, Hydrolyzed Collagen",
+   "evidenceActives": "sodium dna (#27 on list, moderate evidence); panthenol (#29 on list, moderate evidence); ceramide np (#31 on list, moderate evidence); hyaluronic acid (#33 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
    "concernBasis": "Aging — product type (matching only — not proof it works)",
@@ -40176,7 +41799,9 @@ const NXPRODUCTS = [
    "rating:none",
    "store:flipkart",
    "target:aging",
-   "inci:partial"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -40184,25 +41809,89 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "partial",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "PDRN, Hyaluronic Acid, Collagen, and moisturizing lip-care ingredients.",
-   "inciNote": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 0.5,
-   "actives": [],
-   "support": [],
+   "inci": "full",
+   "inciSource": "ANUA official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://anua.us/products/pdrn-lip-serum",
+   "inciSourceRegion": "US",
+   "inciMatchedTitle": "PDRN Lip Serum",
+   "inciMatchScore": 0.88,
+   "inciText": "Polyisobutene, Diisostearyl Malate, Polyglyceryl-2 Triisostearate, Dipentaerythrityl Hexahydroxystearate/Hexastearate/Hexarosinate, Octyldodecanol, Microcrystalline Wax, Bis-Diglyceryl Polyacyladipate-2, Phytosteryl/Isostearyl/Cetyl/Stearyl/Behenyl Dimer Dilinoleate, Polyglyceryl-3 Polyricinoleate, 1,2-Hexanediol, Dextrin Palmitate, Silica Dimethyl Silylate, Simmondsia Chinensis (Jojooba) Seed Oil, Aqua/Water, Synthetic Wax, Pentylene Glycol, Ethylene/Propylene Copolymer, Butylene Glycol, Caprylyl Glycol, Dimethicone, Pentaerythrityl Tetra-di-t-butyl Hydroxyhydrocinnamate, Caprylic/Capric Triglyceride, Ethylhexylglycerin, Stearalkonium Hectorite, Polyglyceryl-3 Diisostearate, Rosa Damascena Flower Extract, Sodium DNA, Disodium EDTA, Panthenol, Glycerin, Ceramide NP, Hydrogenated Lecithin, Hyaluronic Acid, Hydrolyzed Collagen",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 0.97,
+   "actives": [
+    {
+     "name": "simmondsia chinensis seed oil",
+     "grade": "B",
+     "position": 13,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 20,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "sodium dna",
+     "grade": "B",
+     "position": 27,
+     "core": true,
+     "trace": true,
+     "src": "pdrn"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 29,
+     "core": true,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 30,
+     "core": false,
+     "trace": true,
+     "src": "glycerin"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 31,
+     "core": true,
+     "trace": true,
+     "src": "ceramide"
+    },
+    {
+     "name": "hyaluronic acid",
+     "grade": "B",
+     "position": 33,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "butylene glycol",
+    "dimethicone",
+    "panthenol",
+    "glycerin",
+    "ceramide np",
+    "hyaluronic acid"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -40397,17 +42086,19 @@ const NXPRODUCTS = [
   "capacityLine": "100 ml",
   "materialLine": "Collagen + PDRN / polynucleotide",
   "featureLine": "Mist / spray · Paraben-free · ₹2148/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (ANUA official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "panthenol high on the INCI list (moderate evidence); sodium dna high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
    "Maker not verified — no parent company found",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 6.3,
+   "skin": 7,
+   "trust": 5.5,
    "experience": 0
   },
   "fullSpec": {
@@ -40426,14 +42117,16 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "ANUA official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceUrl": "https://anua.us/products/pdrn-100-hyaluronic-acid-hydrating-capsule-mist-100ml",
+   "inciMatchedName": "PDRN Collagen Glow Facial Serum Spray (name match 75%)",
+   "inciList": "Water, Diphenyl Dimethicone, Dipropylene Glycol, Pentylene Glycol, 1,2-Hexanediol, Glycereth-26, Propanediol, Streptococcus Thermophilus Ferment, Butylene Glycol, Panthenol, Caprylic/Capric Triglyceride, Sodium DNA, Hydroxyethyl Urea, Hydroxyacetophenone, Castor Oil/IPDI Copolymer, Xylitylglucoside, Allantoin, Dipeptide-15, Gellan Gum, Anhydroxylitol, Calcium Chloride, Caprylyl Glycol, Adenosine, PPG-13-Decyltetradeceth-24, Glycerin, Sodium Citrate, Xylitol, Glycine Soja (Soybean) Seed Extract, Melia Azadirachta Leaf Extract, Sodium Hyaluronate, Citric Acid, Melia Azadirachta Flower Extract, Glycine Soja (Soybean) Oil, Pyrus Malus (Apple) Juice, Coccinia Indica Fruit Extract, Tocopherol, Cynanchum Atratum Extract, Solanum Melongena (Eggplant) Fruit Extract, Aloe Barbadensis Flower Extract, Octanediol, Ethylhexylglycerin, Simmondsia Chinensis (Jojoba) Seed Oil, Curcuma Longa (Turmeric) Root Extract, Ocimum Sanctum Leaf Extract, Corallina Officinalis Extract, Helianthus Annuus (Sunflower) Seed Oil, Althaea Rosea Flower Extract, Beta-Carotene, Daucus Carota Sativa (Carrot) Root Extract, Hydrolyzed Hyaluronic Acid, Hyaluronic Acid, Castanea Sativa (Chestnut) Seed Extract, Dipotassium Phosphate, Acetyl Glutamine, Agar, Magnesium Sulfate, Xanthan Gum, Diphenylsiloxy Phenyl Trimethicone, Phenyl Trimethicone, Propylene Glycol Dibenzoate, Pyrus Malus (Apple) Seed Oil, Hydrogenated Lecithin, Aureobasidium Pullulans Ferment, Hydrolyzed Collagen, Ceramide NP, Sodium Chloride, Hippophae Rhamnoides Oil, Copper Tripeptide-1, Cellulose Gum, Amber Powder, Sodium Bicarbonate, Candida Bombicola/Glucose/Methyl Rapeseedate Ferment, Moringa Oleifera Seed Oil, Potassium Chloride, Sodium Stearoyl Glutamate",
+   "evidenceActives": "panthenol (#10 on list, moderate evidence); sodium dna (#12 on list, moderate evidence); adenosine (#23 on list, moderate evidence); sodium hyaluronate (#29 on list, moderate evidence); hydrolyzed hyaluronic acid (#49 on list, moderate evidence); hyaluronic acid (#50 on list, moderate evidence); ceramide np (#64 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)",
+   "concernBasis": "Aging — product type, adenosine #23 on INCI; Irritation — panthenol #10 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
@@ -40471,7 +42164,10 @@ const NXPRODUCTS = [
    "rating:none",
    "store:flipkart",
    "target:aging",
-   "inci:none"
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": true,
@@ -40479,25 +42175,171 @@ const NXPRODUCTS = [
    "derm": true,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "ANUA official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://anua.us/products/pdrn-100-hyaluronic-acid-hydrating-capsule-mist-100ml",
+   "inciSourceRegion": "US",
+   "inciMatchedTitle": "PDRN Collagen Glow Facial Serum Spray",
+   "inciMatchScore": 0.75,
+   "inciText": "Water, Diphenyl Dimethicone, Dipropylene Glycol, Pentylene Glycol, 1,2-Hexanediol, Glycereth-26, Propanediol, Streptococcus Thermophilus Ferment, Butylene Glycol, Panthenol, Caprylic/Capric Triglyceride, Sodium DNA, Hydroxyethyl Urea, Hydroxyacetophenone, Castor Oil/IPDI Copolymer, Xylitylglucoside, Allantoin, Dipeptide-15, Gellan Gum, Anhydroxylitol, Calcium Chloride, Caprylyl Glycol, Adenosine, PPG-13-Decyltetradeceth-24, Glycerin, Sodium Citrate, Xylitol, Glycine Soja (Soybean) Seed Extract, Melia Azadirachta Leaf Extract, Sodium Hyaluronate, Citric Acid, Melia Azadirachta Flower Extract, Glycine Soja (Soybean) Oil, Pyrus Malus (Apple) Juice, Coccinia Indica Fruit Extract, Tocopherol, Cynanchum Atratum Extract, Solanum Melongena (Eggplant) Fruit Extract, Aloe Barbadensis Flower Extract, Octanediol, Ethylhexylglycerin, Simmondsia Chinensis (Jojoba) Seed Oil, Curcuma Longa (Turmeric) Root Extract, Ocimum Sanctum Leaf Extract, Corallina Officinalis Extract, Helianthus Annuus (Sunflower) Seed Oil, Althaea Rosea Flower Extract, Beta-Carotene, Daucus Carota Sativa (Carrot) Root Extract, Hydrolyzed Hyaluronic Acid, Hyaluronic Acid, Castanea Sativa (Chestnut) Seed Extract, Dipotassium Phosphate, Acetyl Glutamine, Agar, Magnesium Sulfate, Xanthan Gum, Diphenylsiloxy Phenyl Trimethicone, Phenyl Trimethicone, Propylene Glycol Dibenzoate, Pyrus Malus (Apple) Seed Oil, Hydrogenated Lecithin, Aureobasidium Pullulans Ferment, Hydrolyzed Collagen, Ceramide NP, Sodium Chloride, Hippophae Rhamnoides Oil, Copper Tripeptide-1, Cellulose Gum, Amber Powder, Sodium Bicarbonate, Candida Bombicola/Glucose/Methyl Rapeseedate Ferment, Moringa Oleifera Seed Oil, Potassium Chloride, Sodium Stearoyl Glutamate",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 0.99,
+   "actives": [
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 10,
+     "core": true,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "sodium dna",
+     "grade": "B",
+     "position": 12,
+     "core": true,
+     "trace": false,
+     "src": "pdrn"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 17,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "adenosine",
+     "grade": "B",
+     "position": 23,
+     "core": true,
+     "trace": false,
+     "src": "peptides"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 24,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 29,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 30,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 35,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "simmondsia chinensis seed oil",
+     "grade": "B",
+     "position": 41,
+     "core": false,
+     "trace": true,
+     "src": "squalane"
+    },
+    {
+     "name": "curcuma longa root extract",
+     "grade": "C",
+     "position": 42,
+     "core": false,
+     "trace": true,
+     "src": "greenTea"
+    },
+    {
+     "name": "helianthus annuus seed oil",
+     "grade": "B",
+     "position": 45,
+     "core": false,
+     "trace": true,
+     "src": "squalane"
+    },
+    {
+     "name": "hydrolyzed hyaluronic acid",
+     "grade": "B",
+     "position": 49,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "hyaluronic acid",
+     "grade": "B",
+     "position": 50,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 64,
+     "core": true,
+     "trace": true,
+     "src": "ceramide"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 65,
+     "core": false,
+     "trace": true,
+     "src": "aadScrub"
+    },
+    {
+     "name": "copper tripeptide-1",
+     "grade": "B",
+     "position": 67,
+     "core": false,
+     "trace": true,
+     "src": "peptides"
+    },
+    {
+     "name": "sodium bicarbonate",
+     "grade": "C",
+     "position": 70,
+     "core": false,
+     "trace": true,
+     "src": "deodorants"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "butylene glycol",
+    "panthenol",
+    "glycerin",
+    "sodium hyaluronate",
+    "hydrolyzed hyaluronic acid",
+    "hyaluronic acid",
+    "ceramide np"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {

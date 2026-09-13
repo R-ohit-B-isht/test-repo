@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-12.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-13.
 // Unknown fields are honestly marked, never invented.
 const NXPRODUCTS = [
  {
@@ -1999,17 +1999,17 @@ const NXPRODUCTS = [
   "capacityLine": "450 g",
   "materialLine": "Sandalwood",
   "featureLine": "Soap bar · ₹66/100g",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Fiama official website (www.fiama.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "Well-reviewed: 5★ from 3 ratings"
   ],
   "cons": [
-   "No ingredient list published on the listing"
+   "EU-declared fragrance allergen: benzyl salicylate, hexyl cinnamal"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6,
+   "ingredients": 3.1,
+   "skin": 9.4,
+   "trust": 8,
    "experience": 5.8
   },
   "fullSpec": {
@@ -2027,11 +2027,13 @@ const NXPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "5/5 (3 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Fiama official website (www.fiama.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.fiama.in/products/golden-sandalwood-oil-patchouli-gel-bar-125-g",
+   "inciMatchedName": "Golden Sandalwood Oil & Patchouli Gel Bar, 125 g (name match 92%)",
+   "inciList": "SODIUM SALTS OF FATTY ACIDS, AQUA, PROPYLENE GLYCOL GLYCERIN, SODIUM LAURETH SULFATE SORBITOL, SODIUM CHLORIDE, FRAGRANCE WITH SANDALWOOD OIL AND PATCHOULI, POLYETHYLENE GLYCOL BIS(CARBOXYMETHYL) ETHER, ACETIC ACID, TETRASODIUM EDTA, TETRASODIUM ETIDRONATE BHT ALPHA-ISOMETHYL IONONE, BENZYL SALICYLATE, CITRONELLOL COUMARIN EUGENOL GERANIOL, HEXYL CINNAMAL, LIMONENE LINALOOL, CI 19140, CI 45100, CI 74160",
+   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
+   "safetyFlags": "EU-declared fragrance allergen: benzyl salicylate, hexyl cinnamal (−0.6)",
    "maker": "ITC Ltd — Established / listed Indian FMCG house",
    "buyerEvidence": "5★ from 3 ratings"
   },
@@ -2056,7 +2058,8 @@ const NXPRODUCTS = [
    "size:xl",
    "rating:4.5",
    "store:flipkart",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -2064,27 +2067,47 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Fiama official website (www.fiama.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.fiama.in/products/golden-sandalwood-oil-patchouli-gel-bar-125-g",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Golden Sandalwood Oil & Patchouli Gel Bar, 125 g",
+   "inciMatchScore": 0.92,
+   "inciText": "SODIUM SALTS OF FATTY ACIDS, AQUA, PROPYLENE GLYCOL GLYCERIN, SODIUM LAURETH SULFATE SORBITOL, SODIUM CHLORIDE, FRAGRANCE WITH SANDALWOOD OIL AND PATCHOULI, POLYETHYLENE GLYCOL BIS(CARBOXYMETHYL) ETHER, ACETIC ACID, TETRASODIUM EDTA, TETRASODIUM ETIDRONATE BHT ALPHA-ISOMETHYL IONONE, BENZYL SALICYLATE, CITRONELLOL COUMARIN EUGENOL GERANIOL, HEXYL CINNAMAL, LIMONENE LINALOOL, CI 19140, CI 45100, CI 74160",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
+   "declarationConfidence": 1,
+   "recognised": 0.94,
+   "actives": [
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "aadScrub"
+    }
+   ],
    "support": [],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "euAllergen",
+     "label": "EU-declared fragrance allergen",
+     "names": [
+      "benzyl salicylate",
+      "hexyl cinnamal"
+     ],
+     "penalty": 0.6,
+     "src": "eu1223"
+    }
+   ],
    "maker": {
     "parent": "ITC Ltd",
     "kind": "india",
@@ -9794,17 +9817,19 @@ const NXPRODUCTS = [
   "capacityLine": "1500 g",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Soap bar · ₹62/100g",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Fiama official website (www.fiama.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
+   "glycerin high on the INCI list (strong evidence)",
    "Well-reviewed: 4.6★ from 41,170 ratings"
   ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): fragrance",
+   "EU-declared fragrance allergen: alpha-isomethyl-ionone, butylphenyl methylpropional"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6,
+   "ingredients": 4.9,
+   "skin": 7.7,
+   "trust": 8,
    "experience": 8.8
   },
   "fullSpec": {
@@ -9822,11 +9847,13 @@ const NXPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.6/5 (41,170 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Fiama official website (www.fiama.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.fiama.in/products/celebration-pack-multi-variant-gel-bar-125g-pack-of-5",
+   "inciMatchedName": "Celebration pack Multi-variant Gel Bar, 125g (Pack of 5) (name match 88%)",
+   "inciList": "SODIUM SALTS OF FATTY ACIDS, AQUA, PROPYLENE GLYCOL, SORBITOL, SODIUM LAURETH SULFATE, GLYCERIN, PEG-8, FRAGRANCE, POLY (ETHYLENE GLYCOL) BIS (CARBOXYMETHYL) ETHER, SODIUM CHLORIDE, TETRASODIUM EDTA, CI 77891, TETRASODIUM ETIDRONATE, BHT, DISODIUM DISTYRYLBIPHENYL DISULFONATE, PEG 90M, FRANGIPANI EXTRACT, ALMOND OIL, MILK CREAM, ALPHA-ISOMETHYL-IONONE, BUTYLPHENYL METHYLPROPIONAL, CITRONELLOL, GERANIOL, LINALOOL",
+   "evidenceActives": "glycerin (#6 on list, strong evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−0.8); EU-declared fragrance allergen: alpha-isomethyl-ionone, butylphenyl methylpropional, citronellol, geraniol, linalool (−1.5)",
    "maker": "ITC Ltd — Established / listed Indian FMCG house",
    "buyerEvidence": "4.6★ from 41,170 ratings"
   },
@@ -9852,7 +9879,8 @@ const NXPRODUCTS = [
    "size:xl",
    "rating:4.5",
    "store:flipkart",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -9860,27 +9888,77 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Fiama official website (www.fiama.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.fiama.in/products/celebration-pack-multi-variant-gel-bar-125g-pack-of-5",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Celebration pack Multi-variant Gel Bar, 125g (Pack of 5)",
+   "inciMatchScore": 0.88,
+   "inciText": "SODIUM SALTS OF FATTY ACIDS, AQUA, PROPYLENE GLYCOL, SORBITOL, SODIUM LAURETH SULFATE, GLYCERIN, PEG-8, FRAGRANCE, POLY (ETHYLENE GLYCOL) BIS (CARBOXYMETHYL) ETHER, SODIUM CHLORIDE, TETRASODIUM EDTA, CI 77891, TETRASODIUM ETIDRONATE, BHT, DISODIUM DISTYRYLBIPHENYL DISULFONATE, PEG 90M, FRANGIPANI EXTRACT, ALMOND OIL, MILK CREAM, ALPHA-ISOMETHYL-IONONE, BUTYLPHENYL METHYLPROPIONAL, CITRONELLOL, GERANIOL, LINALOOL",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.92,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 10,
+     "core": false,
+     "trace": true,
+     "src": "aadScrub"
+    },
+    {
+     "name": "prunus amygdalus dulcis oil",
+     "grade": "B",
+     "position": 18,
+     "core": false,
+     "trace": true,
+     "src": "squalane"
+    }
+   ],
+   "support": [
+    "glycerin"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 0.8,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "euAllergen",
+     "label": "EU-declared fragrance allergen",
+     "names": [
+      "alpha-isomethyl-ionone",
+      "butylphenyl methylpropional",
+      "citronellol",
+      "geraniol",
+      "linalool"
+     ],
+     "penalty": 1.5,
+     "src": "eu1223"
+    }
+   ],
    "maker": {
     "parent": "ITC Ltd",
     "kind": "india",
@@ -11684,17 +11762,17 @@ const NXPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "Ubtan",
   "featureLine": "Soap bar",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Mamaearth official website (mamaearth.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
+   "glycerin high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list",
    "Well-reviewed: 4.3★ from 11,495 ratings"
   ],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6,
+   "ingredients": 6.1,
+   "skin": 10,
+   "trust": 8,
    "experience": 7.9
   },
   "fullSpec": {
@@ -11712,11 +11790,13 @@ const NXPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.3/5 (11,495 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Mamaearth official website (mamaearth.in) — product page › Ingredients",
+   "inciSourceUrl": "https://mamaearth.in/products/ubtan-turmeric-soap",
+   "inciMatchedName": "Ubtan Moisturizing Lotion Soap (Value Pack of 4) - 125 g X 4 (name match 80%)",
+   "inciList": "Sodium Palmate, Sodium Palm Kernelate, Aqua (Water), IFRA Certified Allergen Free Fragrance, Glycerin, Mustard Butter, Sodium Chloride, Almond Shell Powder, Titanium Dioxide, Tetrasodium Etidronate, Tetrasodium EDTA, Stearic Acid, Glyceryl Stearate, Cetearyl Alcohol, Sandalwood Extract, Turmeric Extract, Citric Acid, Phenoxyethanol, Xylitylglucoside, Anhydroxylitol, Xylitol, Sweet Almond Oil, Olea Europaea (Olive) Fruit Oil, Sodium Hydroxide",
+   "evidenceActives": "glycerin (#5 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "declaredManufacturer": "VVF (India) Limited (as printed on the Flipkart listing — not scored)",
    "buyerEvidence": "4.3★ from 11,495 ratings"
@@ -11741,7 +11821,9 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -11749,25 +11831,68 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Mamaearth official website (mamaearth.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://mamaearth.in/products/ubtan-turmeric-soap",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Ubtan Moisturizing Lotion Soap (Value Pack of 4) - 125 g X 4",
+   "inciMatchScore": 0.8,
+   "inciText": "Sodium Palmate, Sodium Palm Kernelate, Aqua (Water), IFRA Certified Allergen Free Fragrance, Glycerin, Mustard Butter, Sodium Chloride, Almond Shell Powder, Titanium Dioxide, Tetrasodium Etidronate, Tetrasodium EDTA, Stearic Acid, Glyceryl Stearate, Cetearyl Alcohol, Sandalwood Extract, Turmeric Extract, Citric Acid, Phenoxyethanol, Xylitylglucoside, Anhydroxylitol, Xylitol, Sweet Almond Oil, Olea Europaea (Olive) Fruit Oil, Sodium Hydroxide",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "aadScrub"
+    },
+    {
+     "name": "titanium dioxide",
+     "grade": "A",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 17,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    },
+    {
+     "name": "prunus amygdalus dulcis oil",
+     "grade": "B",
+     "position": 22,
+     "core": false,
+     "trace": true,
+     "src": "squalane"
+    }
+   ],
+   "support": [
+    "glycerin"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -12835,17 +12960,17 @@ const NXPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "Vitamin C + Honey",
   "featureLine": "Soap bar",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Mamaearth official website (mamaearth.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
+   "glycerin high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list",
    "Well-reviewed: 4.3★ from 8,839 ratings"
   ],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6,
+   "ingredients": 6.1,
+   "skin": 10,
+   "trust": 8,
    "experience": 7.9
   },
   "fullSpec": {
@@ -12863,11 +12988,13 @@ const NXPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.3/5 (8,839 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Mamaearth official website (mamaearth.in) — product page › Ingredients",
+   "inciSourceUrl": "https://mamaearth.in/products/vitamin-c-honey-soap",
+   "inciMatchedName": "Vitamin C Moisturizing Lotion Soap with Vitamin C & Honey for Skin Illumination (Pack Of 4) - 125 g X 4 (name match 100%)",
+   "inciList": "Sodium Palmate, Sodium Palm Kernelate, Aqua (Water), IFRA Certified Allergen Free Fragrance, Glycerin, Brassica Campestris (Mustard) Seed Butter, Sodium Chloride, Titanium Dioxide, Tetrasodium Etidronate, Tetrasodium EDTA, Citrus Limon (Lemon) Extract, Stearic Acid, Glyceryl Stearate, Cetearyl Alcohol, Mel (Honey) Extract, Citric Acid, Phenoxyethanol, Xylitylglucoside, Anhydroxylitol, Xylitol, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Olea Europaea (Olive) Fruit Oil, Sodium Hydroxide, Disodium Distyrylbiphenyl Disulfonate",
+   "evidenceActives": "glycerin (#5 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "declaredManufacturer": "VVF (India) Limited (as printed on the Flipkart listing — not scored)",
    "buyerEvidence": "4.3★ from 8,839 ratings"
@@ -12892,7 +13019,9 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -12900,25 +13029,68 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Mamaearth official website (mamaearth.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://mamaearth.in/products/vitamin-c-honey-soap",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Vitamin C Moisturizing Lotion Soap with Vitamin C & Honey for Skin Illumination (Pack Of 4) - 125 g X 4",
+   "inciMatchScore": 1,
+   "inciText": "Sodium Palmate, Sodium Palm Kernelate, Aqua (Water), IFRA Certified Allergen Free Fragrance, Glycerin, Brassica Campestris (Mustard) Seed Butter, Sodium Chloride, Titanium Dioxide, Tetrasodium Etidronate, Tetrasodium EDTA, Citrus Limon (Lemon) Extract, Stearic Acid, Glyceryl Stearate, Cetearyl Alcohol, Mel (Honey) Extract, Citric Acid, Phenoxyethanol, Xylitylglucoside, Anhydroxylitol, Xylitol, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Olea Europaea (Olive) Fruit Oil, Sodium Hydroxide, Disodium Distyrylbiphenyl Disulfonate",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "aadScrub"
+    },
+    {
+     "name": "titanium dioxide",
+     "grade": "A",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 16,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    },
+    {
+     "name": "prunus amygdalus dulcis oil",
+     "grade": "B",
+     "position": 21,
+     "core": false,
+     "trace": true,
+     "src": "squalane"
+    }
+   ],
+   "support": [
+    "glycerin"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -34686,17 +34858,18 @@ const NXPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "Milk",
   "featureLine": "Soap bar",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Fiama official website (www.fiama.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
+   "glycerin high on the INCI list (strong evidence)",
    "Well-reviewed: 4.5★ from 433 ratings"
   ],
   "cons": [
-   "No ingredient list published on the listing"
+   "EU-declared fragrance allergen: benzyl salicylate, butylphenyl methylpropional"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6,
+   "ingredients": 5.4,
+   "skin": 8.2,
+   "trust": 8,
    "experience": 7.2
   },
   "fullSpec": {
@@ -34714,11 +34887,13 @@ const NXPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.5/5 (433 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Fiama official website (www.fiama.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.fiama.in/products/fiama-japanese-hokkaido-milk-bar-goji-berry-125g",
+   "inciMatchedName": "Fiama Japanese Hokkaido Milk Bar Goji Berry 125g (name match 88%)",
+   "inciList": "Sodium Salts of Fatty Acids, Aqua , Propylene Glycol, Glycerin, Sodium Laureth Sulfate, Sorbitol, Sodium Chloride, Soya Fatty acid, Fragrance Poly(ethylene glycol) bis(carboxymethyl) ether , Tetrasodium EDTA, Tetrasodium Etidronate, BHT, Disodium Distyrylbiphenyl Disulfonate, PEG-90M, Nonfat Dry Milk (Japanese Hokkaido Milk), Lycium Barbarum (Goji Berry) Fruit Extract Alpha-Isomethyl Ionone, Benzyl Salicylate , Butylphenyl methylpropional, Citronellol Coumarin, Geraniol , Hydroxycitronellal , Limonene , Linalool , CI 77891, CI 14700 CI 45100, CI 11680",
+   "evidenceActives": "glycerin (#4 on list, strong evidence)",
+   "safetyFlags": "EU-declared fragrance allergen: benzyl salicylate, butylphenyl methylpropional, geraniol, hydroxycitronellal, limonene, linalool (−1.8)",
    "maker": "ITC Ltd — Established / listed Indian FMCG house",
    "declaredManufacturer": "ITC limited , Manpura, Baddi, Solan, Himachal Pradesh-174101ITC limited, Plot no 1, sector 11,IIE, Ranipur, Haridwar, Uttarakhand-249403 (as printed on the Flipkart listing — not scored)",
    "buyerEvidence": "4.5★ from 433 ratings"
@@ -34742,7 +34917,8 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.5",
    "store:flipkart",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -34750,27 +34926,61 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Fiama official website (www.fiama.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.fiama.in/products/fiama-japanese-hokkaido-milk-bar-goji-berry-125g",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Fiama Japanese Hokkaido Milk Bar Goji Berry 125g",
+   "inciMatchScore": 0.88,
+   "inciText": "Sodium Salts of Fatty Acids, Aqua , Propylene Glycol, Glycerin, Sodium Laureth Sulfate, Sorbitol, Sodium Chloride, Soya Fatty acid, Fragrance Poly(ethylene glycol) bis(carboxymethyl) ether , Tetrasodium EDTA, Tetrasodium Etidronate, BHT, Disodium Distyrylbiphenyl Disulfonate, PEG-90M, Nonfat Dry Milk (Japanese Hokkaido Milk), Lycium Barbarum (Goji Berry) Fruit Extract Alpha-Isomethyl Ionone, Benzyl Salicylate , Butylphenyl methylpropional, Citronellol Coumarin, Geraniol , Hydroxycitronellal , Limonene , Linalool , CI 77891, CI 14700 CI 45100, CI 11680",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.96,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "aadScrub"
+    }
+   ],
+   "support": [
+    "glycerin"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "euAllergen",
+     "label": "EU-declared fragrance allergen",
+     "names": [
+      "benzyl salicylate",
+      "butylphenyl methylpropional",
+      "geraniol",
+      "hydroxycitronellal",
+      "limonene",
+      "linalool"
+     ],
+     "penalty": 1.8,
+     "src": "eu1223"
+    }
+   ],
    "maker": {
     "parent": "ITC Ltd",
     "kind": "india",

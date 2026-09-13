@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-12.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-13.
 // Unknown fields are honestly marked, never invented.
 const NXPRODUCTS = [
  {
@@ -9060,18 +9060,19 @@ const NXPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Serum",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Moxie official website (moxiebeauty.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
+   "centella asiatica extract high on the INCI list (moderate evidence); sodium hyaluronate high on the INCI list (moderate evidence)",
    "Well-reviewed: 4.9★ from 50 ratings"
   ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): fragrance",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 4.3,
+   "skin": 5.9,
+   "trust": 5.5,
    "experience": 7.2
   },
   "fullSpec": {
@@ -9089,15 +9090,17 @@ const NXPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.9/5 (50 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Moxie official website (moxiebeauty.in) — product page › Ingredients",
+   "inciSourceUrl": "https://moxiebeauty.in/products/daily-calming-leave-on-serum",
+   "inciMatchedName": "Daily Calming Leave On Serum 30ml (name match 100%)",
+   "inciList": "Aqua, Centella Asiatica (CICA) Extract, Withania Somnifera (Ashwagandha) Root Extract, Sodium Hyaluronate, Macadamia Integrifolia Seed Oil Glycereth-8 Esters, Phragmites Communis (Common Reed Extract) Extract, Poria Cocos (Hoelen Mushroom) Extract, Propanediol, Capryloyl Glycine, Undecylenoyl Glycine, Phenoxyethanol, Ethylhexylglycerin, Ammonium Acryloyldimethyltaurate/VP Copolymer, Fragrance, Sodium Gluconate, Alcohol, PEG-35 Castor Oil, Polysorbate 20, Aesculus Hippocastanum (Horse Chestnut) Seed Extract, Retinyl Palmitate, Tocopherol, Inositol, Calcium Pantothenate, Linoleic Acid, Biotin, Magnesium Aspartate, Zinc Gluconate, Copper Gluconate",
+   "evidenceActives": "centella asiatica extract (#2 on list, moderate evidence); sodium hyaluronate (#4 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "declaredManufacturer": "HBMK Global Private Limited (as printed on the Flipkart listing — not scored)",
    "buyerEvidence": "4.9★ from 50 ratings",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type, centella asiatica extract #2 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-serum/a/g/f/30-daily-calming-leave-on-serum-moxie-beauty-original-imahn89zjxphcgxg.jpeg?q=90",
@@ -9117,7 +9120,8 @@ const NXPRODUCTS = [
    "rating:4.5",
    "store:flipkart",
    "target:irritation",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -9125,27 +9129,73 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Moxie official website (moxiebeauty.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://moxiebeauty.in/products/daily-calming-leave-on-serum",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Daily Calming Leave On Serum 30ml",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Centella Asiatica (CICA) Extract, Withania Somnifera (Ashwagandha) Root Extract, Sodium Hyaluronate, Macadamia Integrifolia Seed Oil Glycereth-8 Esters, Phragmites Communis (Common Reed Extract) Extract, Poria Cocos (Hoelen Mushroom) Extract, Propanediol, Capryloyl Glycine, Undecylenoyl Glycine, Phenoxyethanol, Ethylhexylglycerin, Ammonium Acryloyldimethyltaurate/VP Copolymer, Fragrance, Sodium Gluconate, Alcohol, PEG-35 Castor Oil, Polysorbate 20, Aesculus Hippocastanum (Horse Chestnut) Seed Extract, Retinyl Palmitate, Tocopherol, Inositol, Calcium Pantothenate, Linoleic Acid, Biotin, Magnesium Aspartate, Zinc Gluconate, Copper Gluconate",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "centella asiatica extract",
+     "grade": "B",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "retinyl palmitate",
+     "grade": "C",
+     "position": 20,
+     "core": false,
+     "trace": true,
+     "src": "retinoids"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 21,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "sodium hyaluronate",
+    "propanediol"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -27281,16 +27331,18 @@ const NXPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "Centella / cica + Aloe vera + Licorice",
   "featureLine": "Ampoule · ₹2833/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (AXIS-Y official website (axis-y.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "sodium hyaluronate high on the INCI list (moderate evidence); centella asiatica extract high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 6.4,
+   "skin": 7,
+   "trust": 5.5,
    "experience": 3.2
   },
   "fullSpec": {
@@ -27308,14 +27360,16 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "4.4/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "AXIS-Y official website (axis-y.com) — product page › Ingredients",
+   "inciSourceUrl": "https://axis-y.com/products/artichoke-intensive-skin-barrier-ampoule",
+   "inciMatchedName": "Artichoke Intensive Skin Barrier Ampoule (name match 100%)",
+   "inciList": "Water, Aloe Barbadensis Leaf Water, Butylene Glycol, Sodium Hyaluronate, Centella Asiatica Extract, Glycerin, Betaine, Propanediol, Glycyrrhiza Uralensis (Licorice) Root Extract, Hieracium Umbellatum Extract, Cynara Scolymus (Artichoke) Leaf Extract (10,000ppm), Sorbitol, Aloe Barbadensis Leaf Extract, Dioscorea Japonica Root Extract, Laminaria Japonica Extract, 1,2-Hexanediol, Xanthan Gum, Carbomer, Linum Usitatissimum (Linseed) Seed Extract, Hibiscus Esculentus Fruit Extract, Aloe Barbadensis Leaf Juice, Arctium Lappa Root Extract, Hibiscus Mutabilis Flower Extract, Corchorus Olitorius Leaf Extract, Rheum Palmatum Root Extract, Althaea Rosea Flower Extract, Dimethyl Sulfone, Chlorphenesin, Ethylhexylglycerin, Polyglutamic Acid, Beta-Glucan, Arginine, Allantoin, Adenosine",
+   "evidenceActives": "sodium hyaluronate (#4 on list, moderate evidence); centella asiatica extract (#5 on list, moderate evidence); glycerin (#6 on list, strong evidence); aloe barbadensis leaf extract (#13 on list, moderate evidence); aloe barbadensis leaf juice (#21 on list, moderate evidence); beta-glucan (#31 on list, moderate evidence); allantoin (#33 on list, limited evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.4★ from 0 ratings",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Irritation — product type, centella asiatica extract #5 on INCI, aloe barbadensis leaf extract #13 on INCI, aloe barbadensis leaf juice #21 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/614ndLGNbHL._SL1500_.jpg",
@@ -27356,7 +27410,9 @@ const NXPRODUCTS = [
    "rating:4.0",
    "store:amazon",
    "target:irritation",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -27364,25 +27420,95 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "AXIS-Y official website (axis-y.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://axis-y.com/products/artichoke-intensive-skin-barrier-ampoule",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Artichoke Intensive Skin Barrier Ampoule",
+   "inciMatchScore": 1,
+   "inciText": "Water, Aloe Barbadensis Leaf Water, Butylene Glycol, Sodium Hyaluronate, Centella Asiatica Extract, Glycerin, Betaine, Propanediol, Glycyrrhiza Uralensis (Licorice) Root Extract, Hieracium Umbellatum Extract, Cynara Scolymus (Artichoke) Leaf Extract (10,000ppm), Sorbitol, Aloe Barbadensis Leaf Extract, Dioscorea Japonica Root Extract, Laminaria Japonica Extract, 1,2-Hexanediol, Xanthan Gum, Carbomer, Linum Usitatissimum (Linseed) Seed Extract, Hibiscus Esculentus Fruit Extract, Aloe Barbadensis Leaf Juice, Arctium Lappa Root Extract, Hibiscus Mutabilis Flower Extract, Corchorus Olitorius Leaf Extract, Rheum Palmatum Root Extract, Althaea Rosea Flower Extract, Dimethyl Sulfone, Chlorphenesin, Ethylhexylglycerin, Polyglutamic Acid, Beta-Glucan, Arginine, Allantoin, Adenosine",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "centella asiatica extract",
+     "grade": "B",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "aloe barbadensis leaf extract",
+     "grade": "B",
+     "position": 13,
+     "core": true,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "aloe barbadensis leaf juice",
+     "grade": "B",
+     "position": 21,
+     "core": true,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "beta-glucan",
+     "grade": "B",
+     "position": 31,
+     "core": true,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 33,
+     "core": true,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "adenosine",
+     "grade": "B",
+     "position": 34,
+     "core": false,
+     "trace": true,
+     "src": "peptides"
+    }
+   ],
+   "support": [
+    "butylene glycol",
+    "sodium hyaluronate",
+    "glycerin",
+    "propanediol"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -28650,16 +28776,18 @@ const NXPRODUCTS = [
   "capacityLine": "100 g",
   "materialLine": "Alpha arbutin + Coffee + Licorice",
   "featureLine": "Serum · ₹243/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Namyaa official website (namyaa.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence); niacinamide high on the INCI list (strong evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): fragrance",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 5,
+   "skin": 5.9,
+   "trust": 5.5,
    "experience": 1
   },
   "fullSpec": {
@@ -28677,14 +28805,16 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "3.7/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Namyaa official website (namyaa.in) — product page › Ingredients",
+   "inciSourceUrl": "https://namyaa.in/products/skin-lightening-serum",
+   "inciMatchedName": "Intimate Lightening Serum (name match 100%)",
+   "inciList": "Purified Water, Glycerin, Alpha Arbutin, Phenoxyethanol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Triethanolamine, Niacinamide, Allantoin, Fragrance, Lactic Acid, Curcuma Longa (Turmeric) Root Powder, Glycyrrhiza Glabra Root Powder, Coffea Arabica (Coffee) Seed Powder, Aloe Barbadensis Leaf Juice Powder, Jasminum Officinale (Jasmine) Flower Extract",
+   "evidenceActives": "glycerin (#2 on list, strong evidence); niacinamide (#7 on list, strong evidence); allantoin (#8 on list, limited evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.7★ from 0 ratings",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Dark spots — alpha-arbutin #3 on INCI; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41VL8f5yaJL._SL1000_.jpg",
@@ -28710,8 +28840,10 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:3.5",
    "store:amazon",
+   "target:dark-spots",
    "target:irritation",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -28719,27 +28851,89 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Namyaa official website (namyaa.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://namyaa.in/products/skin-lightening-serum",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Intimate Lightening Serum",
+   "inciMatchScore": 1,
+   "inciText": "Purified Water, Glycerin, Alpha Arbutin, Phenoxyethanol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Triethanolamine, Niacinamide, Allantoin, Fragrance, Lactic Acid, Curcuma Longa (Turmeric) Root Powder, Glycyrrhiza Glabra Root Powder, Coffea Arabica (Coffee) Seed Powder, Aloe Barbadensis Leaf Juice Powder, Jasminum Officinale (Jasmine) Flower Extract",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "alpha-arbutin",
+     "grade": "B",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "pigment"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 7,
+     "core": true,
+     "trace": true,
+     "src": "niacinamide"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 8,
+     "core": true,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 10,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    },
+    {
+     "name": "coffea arabica seed powder",
+     "grade": "C",
+     "position": 13,
+     "core": false,
+     "trace": true,
+     "src": "aadScrub"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "niacinamide"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",

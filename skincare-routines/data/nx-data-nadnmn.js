@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-12.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-13.
 // Unknown fields are honestly marked, never invented.
 const NXPRODUCTS = [
  {
@@ -1086,17 +1086,19 @@ const NXPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "Peptides + NAD+ / NMN",
   "featureLine": "Serum",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (EqqualBerry official website (eqqualberryglobal.com, KR site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "niacinamide high on the INCI list (strong evidence); nicotinamide mononucleotide high on the INCI list (limited evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
    "Maker not verified — no parent company found",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 7,
+   "skin": 7,
+   "trust": 5.5,
    "experience": 0
   },
   "fullSpec": {
@@ -1114,14 +1116,16 @@ const NXPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "EqqualBerry official website (eqqualberryglobal.com, KR site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceUrl": "https://eqqualberryglobal.com/products/nad-peptide-boosting-serum",
+   "inciMatchedName": "NAD+ Peptide Boosting Serum (name match 100%)",
+   "inciList": "Aqua/Water/Eau, Butylene Glycol, Glycerin, Cetyl Ethylhexanoate, 1,2-Hexanediol, Niacinamide, Hydrogenated Lecithin, Pentaerythrityl Tetrabehenate, Betaine, Diethoxyethyl Succinate, Nicotinamide Adenine Dinucleotide, Nicotinamide Mononucleotide, Copper Tripeptide-1, Acetyl Hexapeptide-8, Palmitoyl Pentapeptide-4, Palmitoyl Tripeptide-1, Tripeptide-1, Hexapeptide-9, Nonapeptide-1, Oligopeptide-32, Oligopeptide-29, Acetyl Tetrapeptide-2, Acetyl Tetrapeptide-3, Acetyl Octapeptide-3, Palmitoyl Tetrapeptide-7, Oligopeptide-6, Soluble Collagen, Ceramide NP, Ceramide NS, Ceramide AS, Ceramide AP, Ceramide EOP, Sodium Hyaluronate, Hydrolyzed Hyaluronic Acid, Hydrolyzed Sodium Hyaluronate, Hyaluronic Acid, Hydroxypropyltrimonium Hyaluronate, Potassium Hyaluronate, Sodium Hyaluronate Crosspolymer, Sodium Acetylated Hyaluronate, Hydroxyethyl Urea, Panthenol, Cetearyl Alcohol, Squalane, Carbomer, Butyrospermum Parkii (Shea) Butter, Tromethamine, Xanthan Gum, Allantoin, Ethylhexylglycerin, Adenosine, Disodium EDTA, Cyanocobalamin, 2,3-Butanediol, Dipropylene Glycol, Caprylyl Glycol, Rubus Fruticosus (Blackberry) Fruit Extract, Vaccinium Macrocarpon (Cranberry) Fruit Extract, Vaccinium Angustifolium (Blueberry) Fruit Extract, Rubus Idaeus (Raspberry) Fruit Extract, Sambucus Nigra Fruit Extract, Punica Granatum Fruit Extract, Polyglyceryl-10 Laurate, Octyldodecanol, Polyglyceryl-4 Caprate, Glyceryl Stearate, Methylpropanediol, Cholesterol, Pentylene Glycol, Astaxanthin",
+   "evidenceActives": "niacinamide (#6 on list, strong evidence); nicotinamide mononucleotide (#12 on list, limited evidence); acetyl hexapeptide-8 (#14 on list, moderate evidence); palmitoyl tripeptide-1 (#16 on list, moderate evidence); palmitoyl tetrapeptide-7 (#25 on list, moderate evidence); sodium hyaluronate (#33 on list, moderate evidence); hyaluronic acid (#36 on list, moderate evidence); adenosine (#51 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #6 on INCI; Dark spots — niacinamide #6 on INCI; Aging — product type, copper tripeptide-1 #13 on INCI, acetyl hexapeptide-8 #14 on INCI, palmitoyl pentapeptide-4 #15 on INCI, palmitoyl tripeptide-1 #16 on INCI, palmitoyl tetrapeptide-7 #25 on INCI; Irritation — ceramide np #28 on INCI, ceramide ns #29 on INCI, ceramide ap #31 on INCI, ceramide eop #32 on INCI, panthenol #42 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/v/o/q/30-nad-peptide-serum-skin-smoothing-firming-care-korean-skincare-original-imahjayxseztn5p2.jpeg?q=90",
@@ -1141,8 +1145,13 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
    "target:aging",
-   "inci:none"
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -1150,25 +1159,217 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "EqqualBerry official website (eqqualberryglobal.com, KR site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://eqqualberryglobal.com/products/nad-peptide-boosting-serum",
+   "inciSourceRegion": "KR",
+   "inciMatchedTitle": "NAD+ Peptide Boosting Serum",
+   "inciMatchScore": 1,
+   "inciText": "Aqua/Water/Eau, Butylene Glycol, Glycerin, Cetyl Ethylhexanoate, 1,2-Hexanediol, Niacinamide, Hydrogenated Lecithin, Pentaerythrityl Tetrabehenate, Betaine, Diethoxyethyl Succinate, Nicotinamide Adenine Dinucleotide, Nicotinamide Mononucleotide, Copper Tripeptide-1, Acetyl Hexapeptide-8, Palmitoyl Pentapeptide-4, Palmitoyl Tripeptide-1, Tripeptide-1, Hexapeptide-9, Nonapeptide-1, Oligopeptide-32, Oligopeptide-29, Acetyl Tetrapeptide-2, Acetyl Tetrapeptide-3, Acetyl Octapeptide-3, Palmitoyl Tetrapeptide-7, Oligopeptide-6, Soluble Collagen, Ceramide NP, Ceramide NS, Ceramide AS, Ceramide AP, Ceramide EOP, Sodium Hyaluronate, Hydrolyzed Hyaluronic Acid, Hydrolyzed Sodium Hyaluronate, Hyaluronic Acid, Hydroxypropyltrimonium Hyaluronate, Potassium Hyaluronate, Sodium Hyaluronate Crosspolymer, Sodium Acetylated Hyaluronate, Hydroxyethyl Urea, Panthenol, Cetearyl Alcohol, Squalane, Carbomer, Butyrospermum Parkii (Shea) Butter, Tromethamine, Xanthan Gum, Allantoin, Ethylhexylglycerin, Adenosine, Disodium EDTA, Cyanocobalamin, 2,3-Butanediol, Dipropylene Glycol, Caprylyl Glycol, Rubus Fruticosus (Blackberry) Fruit Extract, Vaccinium Macrocarpon (Cranberry) Fruit Extract, Vaccinium Angustifolium (Blueberry) Fruit Extract, Rubus Idaeus (Raspberry) Fruit Extract, Sambucus Nigra Fruit Extract, Punica Granatum Fruit Extract, Polyglyceryl-10 Laurate, Octyldodecanol, Polyglyceryl-4 Caprate, Glyceryl Stearate, Methylpropanediol, Cholesterol, Pentylene Glycol, Astaxanthin",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 0.97,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "nicotinamide mononucleotide",
+     "grade": "C",
+     "position": 12,
+     "core": true,
+     "trace": false,
+     "src": "nad"
+    },
+    {
+     "name": "copper tripeptide-1",
+     "grade": "B",
+     "position": 13,
+     "core": false,
+     "trace": false,
+     "src": "peptides"
+    },
+    {
+     "name": "acetyl hexapeptide-8",
+     "grade": "B",
+     "position": 14,
+     "core": true,
+     "trace": false,
+     "src": "peptides"
+    },
+    {
+     "name": "palmitoyl pentapeptide-4",
+     "grade": "B",
+     "position": 15,
+     "core": false,
+     "trace": false,
+     "src": "peptides"
+    },
+    {
+     "name": "palmitoyl tripeptide-1",
+     "grade": "B",
+     "position": 16,
+     "core": true,
+     "trace": false,
+     "src": "peptides"
+    },
+    {
+     "name": "palmitoyl tetrapeptide-7",
+     "grade": "B",
+     "position": 25,
+     "core": true,
+     "trace": false,
+     "src": "peptides"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 28,
+     "core": false,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "ceramide ns",
+     "grade": "B",
+     "position": 29,
+     "core": false,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "ceramide ap",
+     "grade": "B",
+     "position": 31,
+     "core": false,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "ceramide eop",
+     "grade": "B",
+     "position": 32,
+     "core": false,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 33,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "hydrolyzed hyaluronic acid",
+     "grade": "B",
+     "position": 34,
+     "core": false,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "hyaluronic acid",
+     "grade": "B",
+     "position": 36,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "sodium acetylated hyaluronate",
+     "grade": "B",
+     "position": 40,
+     "core": false,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 42,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "squalane",
+     "grade": "B",
+     "position": 44,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 46,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 49,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "adenosine",
+     "grade": "B",
+     "position": 51,
+     "core": true,
+     "trace": true,
+     "src": "peptides"
+    },
+    {
+     "name": "cholesterol",
+     "grade": "B",
+     "position": 68,
+     "core": false,
+     "trace": true,
+     "src": "ceramide"
+    }
+   ],
+   "support": [
+    "butylene glycol",
+    "glycerin",
+    "niacinamide",
+    "ceramide np",
+    "ceramide ns",
+    "ceramide ap",
+    "ceramide eop",
+    "sodium hyaluronate",
+    "hydrolyzed hyaluronic acid",
+    "hyaluronic acid",
+    "panthenol",
+    "squalane",
+    "butyrospermum parkii butter",
+    "cholesterol"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -1189,17 +1390,19 @@ const NXPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "Peptides + NAD+ / NMN",
   "featureLine": "Serum",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (EqqualBerry official website (eqqualberryglobal.com, KR site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "niacinamide high on the INCI list (strong evidence); nicotinamide mononucleotide high on the INCI list (limited evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
    "Maker not verified — no parent company found",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 7,
+   "skin": 7,
+   "trust": 5.5,
    "experience": 0
   },
   "fullSpec": {
@@ -1217,14 +1420,16 @@ const NXPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "EqqualBerry official website (eqqualberryglobal.com, KR site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceUrl": "https://eqqualberryglobal.com/products/nad-peptide-boosting-serum",
+   "inciMatchedName": "NAD+ Peptide Boosting Serum (name match 94%)",
+   "inciList": "Aqua/Water/Eau, Butylene Glycol, Glycerin, Cetyl Ethylhexanoate, 1,2-Hexanediol, Niacinamide, Hydrogenated Lecithin, Pentaerythrityl Tetrabehenate, Betaine, Diethoxyethyl Succinate, Nicotinamide Adenine Dinucleotide, Nicotinamide Mononucleotide, Copper Tripeptide-1, Acetyl Hexapeptide-8, Palmitoyl Pentapeptide-4, Palmitoyl Tripeptide-1, Tripeptide-1, Hexapeptide-9, Nonapeptide-1, Oligopeptide-32, Oligopeptide-29, Acetyl Tetrapeptide-2, Acetyl Tetrapeptide-3, Acetyl Octapeptide-3, Palmitoyl Tetrapeptide-7, Oligopeptide-6, Soluble Collagen, Ceramide NP, Ceramide NS, Ceramide AS, Ceramide AP, Ceramide EOP, Sodium Hyaluronate, Hydrolyzed Hyaluronic Acid, Hydrolyzed Sodium Hyaluronate, Hyaluronic Acid, Hydroxypropyltrimonium Hyaluronate, Potassium Hyaluronate, Sodium Hyaluronate Crosspolymer, Sodium Acetylated Hyaluronate, Hydroxyethyl Urea, Panthenol, Cetearyl Alcohol, Squalane, Carbomer, Butyrospermum Parkii (Shea) Butter, Tromethamine, Xanthan Gum, Allantoin, Ethylhexylglycerin, Adenosine, Disodium EDTA, Cyanocobalamin, 2,3-Butanediol, Dipropylene Glycol, Caprylyl Glycol, Rubus Fruticosus (Blackberry) Fruit Extract, Vaccinium Macrocarpon (Cranberry) Fruit Extract, Vaccinium Angustifolium (Blueberry) Fruit Extract, Rubus Idaeus (Raspberry) Fruit Extract, Sambucus Nigra Fruit Extract, Punica Granatum Fruit Extract, Polyglyceryl-10 Laurate, Octyldodecanol, Polyglyceryl-4 Caprate, Glyceryl Stearate, Methylpropanediol, Cholesterol, Pentylene Glycol, Astaxanthin",
+   "evidenceActives": "niacinamide (#6 on list, strong evidence); nicotinamide mononucleotide (#12 on list, limited evidence); acetyl hexapeptide-8 (#14 on list, moderate evidence); palmitoyl tripeptide-1 (#16 on list, moderate evidence); palmitoyl tetrapeptide-7 (#25 on list, moderate evidence); sodium hyaluronate (#33 on list, moderate evidence); hyaluronic acid (#36 on list, moderate evidence); adenosine (#51 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #6 on INCI; Dark spots — niacinamide #6 on INCI; Aging — product type, copper tripeptide-1 #13 on INCI, acetyl hexapeptide-8 #14 on INCI, palmitoyl pentapeptide-4 #15 on INCI, palmitoyl tripeptide-1 #16 on INCI, palmitoyl tetrapeptide-7 #25 on INCI; Irritation — ceramide np #28 on INCI, ceramide ns #29 on INCI, ceramide ap #31 on INCI, ceramide eop #32 on INCI, panthenol #42 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/g/w/u/30-peptide-boosting-smoothie-serum-with-nad-radiant-glow-face-original-imahjaywggtaemmx.jpeg?q=90",
@@ -1244,8 +1449,13 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
    "target:aging",
-   "inci:none"
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -1253,25 +1463,217 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "EqqualBerry official website (eqqualberryglobal.com, KR site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://eqqualberryglobal.com/products/nad-peptide-boosting-serum",
+   "inciSourceRegion": "KR",
+   "inciMatchedTitle": "NAD+ Peptide Boosting Serum",
+   "inciMatchScore": 0.94,
+   "inciText": "Aqua/Water/Eau, Butylene Glycol, Glycerin, Cetyl Ethylhexanoate, 1,2-Hexanediol, Niacinamide, Hydrogenated Lecithin, Pentaerythrityl Tetrabehenate, Betaine, Diethoxyethyl Succinate, Nicotinamide Adenine Dinucleotide, Nicotinamide Mononucleotide, Copper Tripeptide-1, Acetyl Hexapeptide-8, Palmitoyl Pentapeptide-4, Palmitoyl Tripeptide-1, Tripeptide-1, Hexapeptide-9, Nonapeptide-1, Oligopeptide-32, Oligopeptide-29, Acetyl Tetrapeptide-2, Acetyl Tetrapeptide-3, Acetyl Octapeptide-3, Palmitoyl Tetrapeptide-7, Oligopeptide-6, Soluble Collagen, Ceramide NP, Ceramide NS, Ceramide AS, Ceramide AP, Ceramide EOP, Sodium Hyaluronate, Hydrolyzed Hyaluronic Acid, Hydrolyzed Sodium Hyaluronate, Hyaluronic Acid, Hydroxypropyltrimonium Hyaluronate, Potassium Hyaluronate, Sodium Hyaluronate Crosspolymer, Sodium Acetylated Hyaluronate, Hydroxyethyl Urea, Panthenol, Cetearyl Alcohol, Squalane, Carbomer, Butyrospermum Parkii (Shea) Butter, Tromethamine, Xanthan Gum, Allantoin, Ethylhexylglycerin, Adenosine, Disodium EDTA, Cyanocobalamin, 2,3-Butanediol, Dipropylene Glycol, Caprylyl Glycol, Rubus Fruticosus (Blackberry) Fruit Extract, Vaccinium Macrocarpon (Cranberry) Fruit Extract, Vaccinium Angustifolium (Blueberry) Fruit Extract, Rubus Idaeus (Raspberry) Fruit Extract, Sambucus Nigra Fruit Extract, Punica Granatum Fruit Extract, Polyglyceryl-10 Laurate, Octyldodecanol, Polyglyceryl-4 Caprate, Glyceryl Stearate, Methylpropanediol, Cholesterol, Pentylene Glycol, Astaxanthin",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 0.97,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "nicotinamide mononucleotide",
+     "grade": "C",
+     "position": 12,
+     "core": true,
+     "trace": false,
+     "src": "nad"
+    },
+    {
+     "name": "copper tripeptide-1",
+     "grade": "B",
+     "position": 13,
+     "core": false,
+     "trace": false,
+     "src": "peptides"
+    },
+    {
+     "name": "acetyl hexapeptide-8",
+     "grade": "B",
+     "position": 14,
+     "core": true,
+     "trace": false,
+     "src": "peptides"
+    },
+    {
+     "name": "palmitoyl pentapeptide-4",
+     "grade": "B",
+     "position": 15,
+     "core": false,
+     "trace": false,
+     "src": "peptides"
+    },
+    {
+     "name": "palmitoyl tripeptide-1",
+     "grade": "B",
+     "position": 16,
+     "core": true,
+     "trace": false,
+     "src": "peptides"
+    },
+    {
+     "name": "palmitoyl tetrapeptide-7",
+     "grade": "B",
+     "position": 25,
+     "core": true,
+     "trace": false,
+     "src": "peptides"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 28,
+     "core": false,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "ceramide ns",
+     "grade": "B",
+     "position": 29,
+     "core": false,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "ceramide ap",
+     "grade": "B",
+     "position": 31,
+     "core": false,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "ceramide eop",
+     "grade": "B",
+     "position": 32,
+     "core": false,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 33,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "hydrolyzed hyaluronic acid",
+     "grade": "B",
+     "position": 34,
+     "core": false,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "hyaluronic acid",
+     "grade": "B",
+     "position": 36,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "sodium acetylated hyaluronate",
+     "grade": "B",
+     "position": 40,
+     "core": false,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 42,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "squalane",
+     "grade": "B",
+     "position": 44,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 46,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 49,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "adenosine",
+     "grade": "B",
+     "position": 51,
+     "core": true,
+     "trace": true,
+     "src": "peptides"
+    },
+    {
+     "name": "cholesterol",
+     "grade": "B",
+     "position": 68,
+     "core": false,
+     "trace": true,
+     "src": "ceramide"
+    }
+   ],
+   "support": [
+    "butylene glycol",
+    "glycerin",
+    "niacinamide",
+    "ceramide np",
+    "ceramide ns",
+    "ceramide ap",
+    "ceramide eop",
+    "sodium hyaluronate",
+    "hydrolyzed hyaluronic acid",
+    "hyaluronic acid",
+    "panthenol",
+    "squalane",
+    "butyrospermum parkii butter",
+    "cholesterol"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -1292,17 +1694,19 @@ const NXPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "Ceramides + Peptides + Collagen",
   "featureLine": "Serum",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (EqqualBerry official website (eqqualberryglobal.com, KR site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "niacinamide high on the INCI list (strong evidence); nicotinamide mononucleotide high on the INCI list (limited evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
    "Maker not verified — no parent company found",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 7,
+   "skin": 7,
+   "trust": 5.5,
    "experience": 0
   },
   "fullSpec": {
@@ -1320,14 +1724,16 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "EqqualBerry official website (eqqualberryglobal.com, KR site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceUrl": "https://eqqualberryglobal.com/products/nad-peptide-boosting-serum",
+   "inciMatchedName": "NAD+ Peptide Boosting Serum (name match 92%)",
+   "inciList": "Aqua/Water/Eau, Butylene Glycol, Glycerin, Cetyl Ethylhexanoate, 1,2-Hexanediol, Niacinamide, Hydrogenated Lecithin, Pentaerythrityl Tetrabehenate, Betaine, Diethoxyethyl Succinate, Nicotinamide Adenine Dinucleotide, Nicotinamide Mononucleotide, Copper Tripeptide-1, Acetyl Hexapeptide-8, Palmitoyl Pentapeptide-4, Palmitoyl Tripeptide-1, Tripeptide-1, Hexapeptide-9, Nonapeptide-1, Oligopeptide-32, Oligopeptide-29, Acetyl Tetrapeptide-2, Acetyl Tetrapeptide-3, Acetyl Octapeptide-3, Palmitoyl Tetrapeptide-7, Oligopeptide-6, Soluble Collagen, Ceramide NP, Ceramide NS, Ceramide AS, Ceramide AP, Ceramide EOP, Sodium Hyaluronate, Hydrolyzed Hyaluronic Acid, Hydrolyzed Sodium Hyaluronate, Hyaluronic Acid, Hydroxypropyltrimonium Hyaluronate, Potassium Hyaluronate, Sodium Hyaluronate Crosspolymer, Sodium Acetylated Hyaluronate, Hydroxyethyl Urea, Panthenol, Cetearyl Alcohol, Squalane, Carbomer, Butyrospermum Parkii (Shea) Butter, Tromethamine, Xanthan Gum, Allantoin, Ethylhexylglycerin, Adenosine, Disodium EDTA, Cyanocobalamin, 2,3-Butanediol, Dipropylene Glycol, Caprylyl Glycol, Rubus Fruticosus (Blackberry) Fruit Extract, Vaccinium Macrocarpon (Cranberry) Fruit Extract, Vaccinium Angustifolium (Blueberry) Fruit Extract, Rubus Idaeus (Raspberry) Fruit Extract, Sambucus Nigra Fruit Extract, Punica Granatum Fruit Extract, Polyglyceryl-10 Laurate, Octyldodecanol, Polyglyceryl-4 Caprate, Glyceryl Stearate, Methylpropanediol, Cholesterol, Pentylene Glycol, Astaxanthin",
+   "evidenceActives": "niacinamide (#6 on list, strong evidence); nicotinamide mononucleotide (#12 on list, limited evidence); acetyl hexapeptide-8 (#14 on list, moderate evidence); palmitoyl tripeptide-1 (#16 on list, moderate evidence); palmitoyl tetrapeptide-7 (#25 on list, moderate evidence); sodium hyaluronate (#33 on list, moderate evidence); hyaluronic acid (#36 on list, moderate evidence); adenosine (#51 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #6 on INCI; Dark spots — niacinamide #6 on INCI; Aging — product type, copper tripeptide-1 #13 on INCI, acetyl hexapeptide-8 #14 on INCI, palmitoyl pentapeptide-4 #15 on INCI, palmitoyl tripeptide-1 #16 on INCI, palmitoyl tetrapeptide-7 #25 on INCI; Irritation — ceramide np #28 on INCI, ceramide ns #29 on INCI, ceramide ap #31 on INCI, ceramide eop #32 on INCI, panthenol #42 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/4/u/o/30-nad-peptide-face-serum-with-ceramides-vegan-collagen-korean-original-imahjayvvthdvaeb.jpeg?q=90",
@@ -1350,8 +1756,13 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
    "target:aging",
-   "inci:none"
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -1359,25 +1770,217 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "EqqualBerry official website (eqqualberryglobal.com, KR site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://eqqualberryglobal.com/products/nad-peptide-boosting-serum",
+   "inciSourceRegion": "KR",
+   "inciMatchedTitle": "NAD+ Peptide Boosting Serum",
+   "inciMatchScore": 0.92,
+   "inciText": "Aqua/Water/Eau, Butylene Glycol, Glycerin, Cetyl Ethylhexanoate, 1,2-Hexanediol, Niacinamide, Hydrogenated Lecithin, Pentaerythrityl Tetrabehenate, Betaine, Diethoxyethyl Succinate, Nicotinamide Adenine Dinucleotide, Nicotinamide Mononucleotide, Copper Tripeptide-1, Acetyl Hexapeptide-8, Palmitoyl Pentapeptide-4, Palmitoyl Tripeptide-1, Tripeptide-1, Hexapeptide-9, Nonapeptide-1, Oligopeptide-32, Oligopeptide-29, Acetyl Tetrapeptide-2, Acetyl Tetrapeptide-3, Acetyl Octapeptide-3, Palmitoyl Tetrapeptide-7, Oligopeptide-6, Soluble Collagen, Ceramide NP, Ceramide NS, Ceramide AS, Ceramide AP, Ceramide EOP, Sodium Hyaluronate, Hydrolyzed Hyaluronic Acid, Hydrolyzed Sodium Hyaluronate, Hyaluronic Acid, Hydroxypropyltrimonium Hyaluronate, Potassium Hyaluronate, Sodium Hyaluronate Crosspolymer, Sodium Acetylated Hyaluronate, Hydroxyethyl Urea, Panthenol, Cetearyl Alcohol, Squalane, Carbomer, Butyrospermum Parkii (Shea) Butter, Tromethamine, Xanthan Gum, Allantoin, Ethylhexylglycerin, Adenosine, Disodium EDTA, Cyanocobalamin, 2,3-Butanediol, Dipropylene Glycol, Caprylyl Glycol, Rubus Fruticosus (Blackberry) Fruit Extract, Vaccinium Macrocarpon (Cranberry) Fruit Extract, Vaccinium Angustifolium (Blueberry) Fruit Extract, Rubus Idaeus (Raspberry) Fruit Extract, Sambucus Nigra Fruit Extract, Punica Granatum Fruit Extract, Polyglyceryl-10 Laurate, Octyldodecanol, Polyglyceryl-4 Caprate, Glyceryl Stearate, Methylpropanediol, Cholesterol, Pentylene Glycol, Astaxanthin",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 0.97,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "nicotinamide mononucleotide",
+     "grade": "C",
+     "position": 12,
+     "core": true,
+     "trace": false,
+     "src": "nad"
+    },
+    {
+     "name": "copper tripeptide-1",
+     "grade": "B",
+     "position": 13,
+     "core": false,
+     "trace": false,
+     "src": "peptides"
+    },
+    {
+     "name": "acetyl hexapeptide-8",
+     "grade": "B",
+     "position": 14,
+     "core": true,
+     "trace": false,
+     "src": "peptides"
+    },
+    {
+     "name": "palmitoyl pentapeptide-4",
+     "grade": "B",
+     "position": 15,
+     "core": false,
+     "trace": false,
+     "src": "peptides"
+    },
+    {
+     "name": "palmitoyl tripeptide-1",
+     "grade": "B",
+     "position": 16,
+     "core": true,
+     "trace": false,
+     "src": "peptides"
+    },
+    {
+     "name": "palmitoyl tetrapeptide-7",
+     "grade": "B",
+     "position": 25,
+     "core": true,
+     "trace": false,
+     "src": "peptides"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 28,
+     "core": false,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "ceramide ns",
+     "grade": "B",
+     "position": 29,
+     "core": false,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "ceramide ap",
+     "grade": "B",
+     "position": 31,
+     "core": false,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "ceramide eop",
+     "grade": "B",
+     "position": 32,
+     "core": false,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 33,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "hydrolyzed hyaluronic acid",
+     "grade": "B",
+     "position": 34,
+     "core": false,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "hyaluronic acid",
+     "grade": "B",
+     "position": 36,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "sodium acetylated hyaluronate",
+     "grade": "B",
+     "position": 40,
+     "core": false,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 42,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "squalane",
+     "grade": "B",
+     "position": 44,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 46,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 49,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "adenosine",
+     "grade": "B",
+     "position": 51,
+     "core": true,
+     "trace": true,
+     "src": "peptides"
+    },
+    {
+     "name": "cholesterol",
+     "grade": "B",
+     "position": 68,
+     "core": false,
+     "trace": true,
+     "src": "ceramide"
+    }
+   ],
+   "support": [
+    "butylene glycol",
+    "glycerin",
+    "niacinamide",
+    "ceramide np",
+    "ceramide ns",
+    "ceramide ap",
+    "ceramide eop",
+    "sodium hyaluronate",
+    "hydrolyzed hyaluronic acid",
+    "hyaluronic acid",
+    "panthenol",
+    "squalane",
+    "butyrospermum parkii butter",
+    "cholesterol"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -1398,17 +2001,19 @@ const NXPRODUCTS = [
   "capacityLine": "40 g",
   "materialLine": "Vitamin C + Niacinamide + Ceramides",
   "featureLine": "Serum · ₹3248/100g",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (EqqualBerry official website (eqqualberryglobal.com, KR site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "niacinamide high on the INCI list (strong evidence); nicotinamide mononucleotide high on the INCI list (limited evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
    "Maker not verified — no parent company found",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 7,
+   "skin": 7,
+   "trust": 5.5,
    "experience": 0
   },
   "fullSpec": {
@@ -1426,14 +2031,16 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "EqqualBerry official website (eqqualberryglobal.com, KR site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceUrl": "https://eqqualberryglobal.com/products/nad-peptide-boosting-serum",
+   "inciMatchedName": "NAD+ Peptide Boosting Serum (name match 94%)",
+   "inciList": "Aqua/Water/Eau, Butylene Glycol, Glycerin, Cetyl Ethylhexanoate, 1,2-Hexanediol, Niacinamide, Hydrogenated Lecithin, Pentaerythrityl Tetrabehenate, Betaine, Diethoxyethyl Succinate, Nicotinamide Adenine Dinucleotide, Nicotinamide Mononucleotide, Copper Tripeptide-1, Acetyl Hexapeptide-8, Palmitoyl Pentapeptide-4, Palmitoyl Tripeptide-1, Tripeptide-1, Hexapeptide-9, Nonapeptide-1, Oligopeptide-32, Oligopeptide-29, Acetyl Tetrapeptide-2, Acetyl Tetrapeptide-3, Acetyl Octapeptide-3, Palmitoyl Tetrapeptide-7, Oligopeptide-6, Soluble Collagen, Ceramide NP, Ceramide NS, Ceramide AS, Ceramide AP, Ceramide EOP, Sodium Hyaluronate, Hydrolyzed Hyaluronic Acid, Hydrolyzed Sodium Hyaluronate, Hyaluronic Acid, Hydroxypropyltrimonium Hyaluronate, Potassium Hyaluronate, Sodium Hyaluronate Crosspolymer, Sodium Acetylated Hyaluronate, Hydroxyethyl Urea, Panthenol, Cetearyl Alcohol, Squalane, Carbomer, Butyrospermum Parkii (Shea) Butter, Tromethamine, Xanthan Gum, Allantoin, Ethylhexylglycerin, Adenosine, Disodium EDTA, Cyanocobalamin, 2,3-Butanediol, Dipropylene Glycol, Caprylyl Glycol, Rubus Fruticosus (Blackberry) Fruit Extract, Vaccinium Macrocarpon (Cranberry) Fruit Extract, Vaccinium Angustifolium (Blueberry) Fruit Extract, Rubus Idaeus (Raspberry) Fruit Extract, Sambucus Nigra Fruit Extract, Punica Granatum Fruit Extract, Polyglyceryl-10 Laurate, Octyldodecanol, Polyglyceryl-4 Caprate, Glyceryl Stearate, Methylpropanediol, Cholesterol, Pentylene Glycol, Astaxanthin",
+   "evidenceActives": "niacinamide (#6 on list, strong evidence); nicotinamide mononucleotide (#12 on list, limited evidence); acetyl hexapeptide-8 (#14 on list, moderate evidence); palmitoyl tripeptide-1 (#16 on list, moderate evidence); palmitoyl tetrapeptide-7 (#25 on list, moderate evidence); sodium hyaluronate (#33 on list, moderate evidence); hyaluronic acid (#36 on list, moderate evidence); adenosine (#51 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Aging — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #6 on INCI; Dark spots — niacinamide #6 on INCI; Aging — product type, copper tripeptide-1 #13 on INCI, acetyl hexapeptide-8 #14 on INCI, palmitoyl pentapeptide-4 #15 on INCI, palmitoyl tripeptide-1 #16 on INCI, palmitoyl tetrapeptide-7 #25 on INCI; Irritation — ceramide np #28 on INCI, ceramide ns #29 on INCI, ceramide ap #31 on INCI, ceramide eop #32 on INCI, panthenol #42 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/w/s/q/30-nad-peptide-boosting-smoothie-serum-anti-aging-korean-skin-original-imahjayuzbvbtgye.jpeg?q=90",
@@ -1470,8 +2077,13 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
    "target:aging",
-   "inci:none"
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -1479,25 +2091,217 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "EqqualBerry official website (eqqualberryglobal.com, KR site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://eqqualberryglobal.com/products/nad-peptide-boosting-serum",
+   "inciSourceRegion": "KR",
+   "inciMatchedTitle": "NAD+ Peptide Boosting Serum",
+   "inciMatchScore": 0.94,
+   "inciText": "Aqua/Water/Eau, Butylene Glycol, Glycerin, Cetyl Ethylhexanoate, 1,2-Hexanediol, Niacinamide, Hydrogenated Lecithin, Pentaerythrityl Tetrabehenate, Betaine, Diethoxyethyl Succinate, Nicotinamide Adenine Dinucleotide, Nicotinamide Mononucleotide, Copper Tripeptide-1, Acetyl Hexapeptide-8, Palmitoyl Pentapeptide-4, Palmitoyl Tripeptide-1, Tripeptide-1, Hexapeptide-9, Nonapeptide-1, Oligopeptide-32, Oligopeptide-29, Acetyl Tetrapeptide-2, Acetyl Tetrapeptide-3, Acetyl Octapeptide-3, Palmitoyl Tetrapeptide-7, Oligopeptide-6, Soluble Collagen, Ceramide NP, Ceramide NS, Ceramide AS, Ceramide AP, Ceramide EOP, Sodium Hyaluronate, Hydrolyzed Hyaluronic Acid, Hydrolyzed Sodium Hyaluronate, Hyaluronic Acid, Hydroxypropyltrimonium Hyaluronate, Potassium Hyaluronate, Sodium Hyaluronate Crosspolymer, Sodium Acetylated Hyaluronate, Hydroxyethyl Urea, Panthenol, Cetearyl Alcohol, Squalane, Carbomer, Butyrospermum Parkii (Shea) Butter, Tromethamine, Xanthan Gum, Allantoin, Ethylhexylglycerin, Adenosine, Disodium EDTA, Cyanocobalamin, 2,3-Butanediol, Dipropylene Glycol, Caprylyl Glycol, Rubus Fruticosus (Blackberry) Fruit Extract, Vaccinium Macrocarpon (Cranberry) Fruit Extract, Vaccinium Angustifolium (Blueberry) Fruit Extract, Rubus Idaeus (Raspberry) Fruit Extract, Sambucus Nigra Fruit Extract, Punica Granatum Fruit Extract, Polyglyceryl-10 Laurate, Octyldodecanol, Polyglyceryl-4 Caprate, Glyceryl Stearate, Methylpropanediol, Cholesterol, Pentylene Glycol, Astaxanthin",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 0.97,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "nicotinamide mononucleotide",
+     "grade": "C",
+     "position": 12,
+     "core": true,
+     "trace": false,
+     "src": "nad"
+    },
+    {
+     "name": "copper tripeptide-1",
+     "grade": "B",
+     "position": 13,
+     "core": false,
+     "trace": false,
+     "src": "peptides"
+    },
+    {
+     "name": "acetyl hexapeptide-8",
+     "grade": "B",
+     "position": 14,
+     "core": true,
+     "trace": false,
+     "src": "peptides"
+    },
+    {
+     "name": "palmitoyl pentapeptide-4",
+     "grade": "B",
+     "position": 15,
+     "core": false,
+     "trace": false,
+     "src": "peptides"
+    },
+    {
+     "name": "palmitoyl tripeptide-1",
+     "grade": "B",
+     "position": 16,
+     "core": true,
+     "trace": false,
+     "src": "peptides"
+    },
+    {
+     "name": "palmitoyl tetrapeptide-7",
+     "grade": "B",
+     "position": 25,
+     "core": true,
+     "trace": false,
+     "src": "peptides"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 28,
+     "core": false,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "ceramide ns",
+     "grade": "B",
+     "position": 29,
+     "core": false,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "ceramide ap",
+     "grade": "B",
+     "position": 31,
+     "core": false,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "ceramide eop",
+     "grade": "B",
+     "position": 32,
+     "core": false,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 33,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "hydrolyzed hyaluronic acid",
+     "grade": "B",
+     "position": 34,
+     "core": false,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "hyaluronic acid",
+     "grade": "B",
+     "position": 36,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "sodium acetylated hyaluronate",
+     "grade": "B",
+     "position": 40,
+     "core": false,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 42,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "squalane",
+     "grade": "B",
+     "position": 44,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 46,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 49,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "adenosine",
+     "grade": "B",
+     "position": 51,
+     "core": true,
+     "trace": true,
+     "src": "peptides"
+    },
+    {
+     "name": "cholesterol",
+     "grade": "B",
+     "position": 68,
+     "core": false,
+     "trace": true,
+     "src": "ceramide"
+    }
+   ],
+   "support": [
+    "butylene glycol",
+    "glycerin",
+    "niacinamide",
+    "ceramide np",
+    "ceramide ns",
+    "ceramide ap",
+    "ceramide eop",
+    "sodium hyaluronate",
+    "hydrolyzed hyaluronic acid",
+    "hyaluronic acid",
+    "panthenol",
+    "squalane",
+    "butyrospermum parkii butter",
+    "cholesterol"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {

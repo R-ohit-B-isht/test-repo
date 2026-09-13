@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-12.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-13.
 // Unknown fields are honestly marked, never invented.
 const NXPRODUCTS = [
  {
@@ -6551,16 +6551,18 @@ const NXPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "Lactic acid + AHA",
   "featureLine": "Serum · ₹1730/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Love Earth official website (loveearth.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "lactic acid high on the INCI list (strong evidence); glycerin high on the INCI list (strong evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): fragrance",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 5.6,
+   "skin": 5.9,
+   "trust": 5.5,
    "experience": 3.1
   },
   "fullSpec": {
@@ -6578,11 +6580,13 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "4/5 (6 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Love Earth official website (loveearth.in) — product page › Ingredients",
+   "inciSourceUrl": "https://loveearth.in/products/aha-10-lactic-acid-serum",
+   "inciMatchedName": "AHA 10% Lactic Acid Serum (name match 100%)",
+   "inciList": "Purified Water, Lactic Acid, Glycerin, Propylene Glycol, Sodium Hydroxide, Polysorbate 20, Hyaluronic Acid, Papain, PEG-40 Hydrogenated Castor Oil, Fragrance, Potassium Sorbate, Sodium Benzoate, Allantoin, Chlorphenesin, Disodium EDTA, Daucus Carota Sativa (Carrot) Root Extract, Tamari",
+   "evidenceActives": "lactic acid (#2 on list, strong evidence); glycerin (#3 on list, strong evidence); allantoin (#13 on list, limited evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4★ from 6 ratings"
   },
@@ -6609,7 +6613,8 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:flipkart",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -6617,27 +6622,73 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Love Earth official website (loveearth.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://loveearth.in/products/aha-10-lactic-acid-serum",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "AHA 10% Lactic Acid Serum",
+   "inciMatchScore": 1,
+   "inciText": "Purified Water, Lactic Acid, Glycerin, Propylene Glycol, Sodium Hydroxide, Polysorbate 20, Hyaluronic Acid, Papain, PEG-40 Hydrogenated Castor Oil, Fragrance, Potassium Sorbate, Sodium Benzoate, Allantoin, Chlorphenesin, Disodium EDTA, Daucus Carota Sativa (Carrot) Root Extract, Tamari",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 0.88,
+   "actives": [
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "hyaluronic acid",
+     "grade": "B",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 13,
+     "core": true,
+     "trace": true,
+     "src": "panthenol"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "hyaluronic acid"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -17623,15 +17674,17 @@ const NXPRODUCTS = [
   "capacityLine": "100 ml",
   "materialLine": "Vitamin C + Lactic acid",
   "featureLine": "Cream · Paraben-free · ₹200/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Wow Skin Science official website (www.buywow.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "lactic acid high on the INCI list (strong evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): fragrance"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 3.8,
+   "skin": 7.7,
+   "trust": 7,
    "experience": 6.5
   },
   "fullSpec": {
@@ -17650,11 +17703,13 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "4.2/5 (699 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Wow Skin Science official website (www.buywow.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.buywow.in/products/vitamin-c-with-lactic-acid-cold-cream",
+   "inciMatchedName": "vitamin c with lactic acid cold cream (name match 97%)",
+   "inciList": "Purified Water, Ester Of Ethyl Olivate (and) Olive Oil Methyl Ester, Glyceryl Polysch Steareth-2, Steareth-21, Microcrystalline Wax, Cetearyl Alcohol, Hydrogenated Panvicoutine Cetostanyl Alcohol (and) Isopropyl Tetradecanoate (and) (and) Caprylic Capric Triglyceride, Lanolin Wax, Fragrance, Cera Alba (Beeswax). Imidating Wax, Phenoxyethanol, Butyrospermum Parkii (Shea Butter), Sodium (Catidinyl Urea, Lactic Acid, Carbomer, Triethanolamine, Aqua (and) Avena Sativa) (Oat) Kernel Extract (and Acid, Carbomend Citric Acid (and) Sodium Benzoate (and) Potassium Sorbate, Xanthan Gum (and 3). \\\\\\\\Butylated Hydroxytoluene, Disodium EDTA, Sodium Ascorbyl Phosphate, Mel (Honey) Extract and Stearic Acid\",\"keyIngredients\":[{\"title\":\"Sodium Ascorbyl Phosphate\",\"benefits\":[\"Brightens dull skin\",\"Supports an even-looking complexion\",\"Stable, water-soluble Vitamin C derivative\"],\"description\":\"Sodium Ascorbyl Phosphate is a stable, water-soluble form of Vitamin C that helps boost skin radiance and supports a more even-looking complexion with regular use.\"},{\"title\":\"Lactic Acid\",\"benefits\":[\"Gentle surface exfoliation\",\"Pr",
+   "evidenceActives": "lactic acid (#17 on list, strong evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Body Cupid — Indian D2C brand with its own product company",
    "buyerEvidence": "4.2★ from 699 ratings"
   },
@@ -17683,7 +17738,8 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:flipkart",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": true,
@@ -17691,27 +17747,64 @@ const NXPRODUCTS = [
    "derm": true,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Wow Skin Science official website (www.buywow.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.buywow.in/products/vitamin-c-with-lactic-acid-cold-cream",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "vitamin c with lactic acid cold cream",
+   "inciMatchScore": 0.97,
+   "inciText": "Purified Water, Ester Of Ethyl Olivate (and) Olive Oil Methyl Ester, Glyceryl Polysch Steareth-2, Steareth-21, Microcrystalline Wax, Cetearyl Alcohol, Hydrogenated Panvicoutine Cetostanyl Alcohol (and) Isopropyl Tetradecanoate (and) (and) Caprylic Capric Triglyceride, Lanolin Wax, Fragrance, Cera Alba (Beeswax). Imidating Wax, Phenoxyethanol, Butyrospermum Parkii (Shea Butter), Sodium (Catidinyl Urea, Lactic Acid, Carbomer, Triethanolamine, Aqua (and) Avena Sativa) (Oat) Kernel Extract (and Acid, Carbomend Citric Acid (and) Sodium Benzoate (and) Potassium Sorbate, Xanthan Gum (and 3). \\\\\\\\Butylated Hydroxytoluene, Disodium EDTA, Sodium Ascorbyl Phosphate, Mel (Honey) Extract and Stearic Acid\",\"keyIngredients\":[{\"title\":\"Sodium Ascorbyl Phosphate\",\"benefits\":[\"Brightens dull skin\",\"Supports an even-looking complexion\",\"Stable, water-soluble Vitamin C derivative\"],\"description\":\"Sodium Ascorbyl Phosphate is a stable, water-soluble form of Vitamin C that helps boost skin radiance and supports a more even-looking complexion with regular use.\"},{\"title\":\"Lactic Acid\",\"benefits\":[\"Gentle surface exfoliation\",\"Pr",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 0.85,
+   "actives": [
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 15,
+     "core": false,
+     "trace": true,
+     "src": "petrolatum"
+    },
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 17,
+     "core": true,
+     "trace": true,
+     "src": "aha"
+    },
+    {
+     "name": "sodium ascorbyl phosphate",
+     "grade": "B",
+     "position": 27,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "butyrospermum parkii butter"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Body Cupid",
     "kind": "d2c",

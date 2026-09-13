@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-12.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-13.
 // Unknown fields are honestly marked, never invented.
 const CTPRODUCTS = [
  {
@@ -23772,15 +23772,16 @@ const CTPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "niacinamide + zinc",
   "featureLine": "Serum",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "Only 2 ingredients named — formula unscored"
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (The Derma Co official website (thedermaco.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "niacinamide high on the INCI list (strong evidence); zinc pca high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.3,
+   "ingredients": 7.1,
+   "skin": 10,
+   "trust": 8,
    "experience": 7.6
   },
   "fullSpec": {
@@ -23797,14 +23798,18 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.2/5 (32,684 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Specifications › Composition",
-   "inciList": "Unverified seller line: Niacinamide, Zinc",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "The Derma Co official website (thedermaco.com) — product page › Ingredients",
+   "inciSourceUrl": "https://thedermaco.com/products/10-niacinamide-face-serum-50ml",
+   "inciMatchedName": "10% Niacinamide Face Serum with 2% Zinc PCA - 50ml (name match 86%)",
+   "listingIngredientLine": "Niacinamide, Zinc (as printed on the Flipkart listing — incomplete, not scored)",
+   "inciList": "Aqua, Niacinamide, 1,3-Propanediol, Ethoxydiglycol, Glycerin, Zinc PCA, Dimethyl Isosorbide, Pentylene Glycol, Xanthan Gum, Hydroxyethyl Cellulose, Algin, Phenoxyethanol, Sodium Benzoate, Ethylhexylglycerin, Calcium Chloride, Potassium Sorbate, Citric Acid",
+   "evidenceActives": "niacinamide (#2 on list, strong evidence); zinc pca (#6 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "declaredManufacturer": "Cheryl Laboratories Pvt. Ltd. (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.2★ from 32,684 ratings"
+   "buyerEvidence": "4.2★ from 32,684 ratings",
+   "concernBasis": "Acne — niacinamide #2 on INCI, zinc pca #6 on INCI; Dark spots — niacinamide #2 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/l/0/g/-original-imahpgbnnvpnrg2w.jpeg?q=90",
@@ -23829,7 +23834,11 @@ const CTPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
-   "inci:partial"
+   "target:acne",
+   "target:dark-spots",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -23838,25 +23847,61 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "partial",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Specifications › Composition",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Niacinamide, Zinc",
-   "inciNote": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
+   "inci": "full",
+   "inciSource": "The Derma Co official website (thedermaco.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://thedermaco.com/products/10-niacinamide-face-serum-50ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "10% Niacinamide Face Serum with 2% Zinc PCA - 50ml",
+   "inciMatchScore": 0.86,
+   "inciText": "Aqua, Niacinamide, 1,3-Propanediol, Ethoxydiglycol, Glycerin, Zinc PCA, Dimethyl Isosorbide, Pentylene Glycol, Xanthan Gum, Hydroxyethyl Cellulose, Algin, Phenoxyethanol, Sodium Benzoate, Ethylhexylglycerin, Calcium Chloride, Potassium Sorbate, Citric Acid",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 1,
    "recognised": 1,
-   "actives": [],
-   "support": [],
+   "actives": [
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "zinc pca",
+     "grade": "B",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 17,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    }
+   ],
+   "support": [
+    "niacinamide",
+    "glycerin"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -396978,15 +397023,16 @@ const CTPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "niacinamide",
   "featureLine": "Sunscreen · SPF 50",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "Only 3 ingredients named — formula unscored"
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Foxtale official website (foxtale-consumer.myshopify.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "niacinamide high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5.3,
+   "ingredients": 5.1,
+   "skin": 9,
+   "trust": 7,
    "experience": 7.6
   },
   "fullSpec": {
@@ -397003,11 +397049,14 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.2/5 (7,088 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Only 3 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Specifications › Composition",
-   "inciList": "Unverified seller line: Niacinamide, Vitamin B5, UV Filters",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Foxtale official website (foxtale-consumer.myshopify.com) — product page › Ingredients",
+   "inciSourceUrl": "https://foxtale-consumer.myshopify.com/products/matte-finish-sunscreen",
+   "inciMatchedName": "Ultra Matte Sunscreen SPF 50 PA ++++ for Oily Skin | In-Vivo Tested (name match 100%)",
+   "listingIngredientLine": "Niacinamide, Vitamin B5, UV Filters (as printed on the Flipkart listing — incomplete, not scored)",
+   "inciList": "Aqua, C12-15 Alkyl Benzoate, Propylene Glycol, Dimethicone, Silica, Tris-Biphenyl Triazine (and) Aqua (and) Decyl Glucoside (and) Butylene Glycol (and) Disodium Phosphate (and) Xanthan Gum, Cetearyl Olivate (and) Sorbitan Olivate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Ethylhexyl Triazone, Glyceryl Monostearate, Phenoxyethanol, Ethylhexylglycerin, Octenidine HCl, Niacinamide, Glycerin (and) Pentylene Glycol (and) Rosmarinus Officinalis Leaf Extract (and) Palmitoyl Tetrapeptide-7 (and) Chrysin, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Tocopherol, Triethanolamine, Disodium EDTA, Allergen Free Fragrance",
+   "evidenceActives": "niacinamide (#19 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Foxtale Consumer — Indian D2C brand with its own product company",
    "declaredManufacturer": "Harshvin Kare Products (as printed on the Flipkart listing — not scored)",
    "buyerEvidence": "4.2★ from 7,088 ratings",
@@ -397036,7 +397085,9 @@ const CTPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
-   "inci:partial"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -397045,25 +397096,95 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "partial",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Specifications › Composition",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Niacinamide, Vitamin B5, UV Filters",
-   "inciNote": "Only 3 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 0.33,
-   "actives": [],
-   "support": [],
+   "inci": "full",
+   "inciSource": "Foxtale official website (foxtale-consumer.myshopify.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://foxtale-consumer.myshopify.com/products/matte-finish-sunscreen",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Ultra Matte Sunscreen SPF 50 PA ++++ for Oily Skin | In-Vivo Tested",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, C12-15 Alkyl Benzoate, Propylene Glycol, Dimethicone, Silica, Tris-Biphenyl Triazine (and) Aqua (and) Decyl Glucoside (and) Butylene Glycol (and) Disodium Phosphate (and) Xanthan Gum, Cetearyl Olivate (and) Sorbitan Olivate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Ethylhexyl Triazone, Glyceryl Monostearate, Phenoxyethanol, Ethylhexylglycerin, Octenidine HCl, Niacinamide, Glycerin (and) Pentylene Glycol (and) Rosmarinus Officinalis Leaf Extract (and) Palmitoyl Tetrapeptide-7 (and) Chrysin, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Tocopherol, Triethanolamine, Disodium EDTA, Allergen Free Fragrance",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 0.93,
+   "actives": [
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "tris-biphenyl triazine",
+     "grade": "A",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "diethylamino hydroxybenzoyl hexyl benzoate",
+     "grade": "A",
+     "position": 13,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "ethylhexyl triazone",
+     "grade": "A",
+     "position": 14,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 19,
+     "core": true,
+     "trace": true,
+     "src": "niacinamide"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 20,
+     "core": false,
+     "trace": true,
+     "src": "glycerin"
+    },
+    {
+     "name": "palmitoyl tetrapeptide-7",
+     "grade": "B",
+     "position": 23,
+     "core": false,
+     "trace": true,
+     "src": "peptides"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 26,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "dimethicone",
+    "butylene glycol",
+    "niacinamide",
+    "glycerin"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -397200,15 +397321,17 @@ const CTPRODUCTS = [
   "capacityLine": "30 g",
   "materialLine": "niacinamide + rice water",
   "featureLine": "Sunscreen · SPF 50 · ₹847/100g",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Plum official website (plumgoodness.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "niacinamide high on the INCI list (strong evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing"
+   "EU-declared fragrance allergen: benzyl alcohol"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 5.9,
+   "skin": 8.6,
+   "trust": 7,
    "experience": 7
   },
   "fullSpec": {
@@ -397225,13 +397348,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.2/5 (1,609 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Plum official website (plumgoodness.com) — product page › Ingredients",
+   "inciSourceUrl": "https://plumgoodness.com/products/plum-2-niacinamide-rice-water-spf-50-pa-sunscreen-reduces-blemishes-brightens-skin-protects-from-uva-uvb-rays-fragrance-free-all-skin-types-100-vegan",
+   "inciMatchedName": "2% Niacinamide & Rice Water SPF 50 PA++++ Hybrid Sunscreen (name match 94%)",
+   "inciList": "Aqua, Ethylhexyl Methoxycinnamate, Butyl Methoxydibenzoylmethane, Benzophenone-3, Phospholipids, 1,3-Butylene Glycol, Propanediol, Niacinamide, Glycerin, Titanium Dioxide, Rice Ferment Filtrate, Oryza Sativa (Rice) Extract, Aluminum Hydroxide, Benzyl Alcohol, Hydroxyacetophenone, Stearic Acid, Caprylyl Glycol, Ammonium Acryloyldimethyltaurate/VP Copolymer, Sodium Polyacryloyldimethyl Taurate, Sodium Benzoate, Potassium Sorbate, Sodium Gluconate, D-Panthenol",
+   "evidenceActives": "niacinamide (#8 on list, strong evidence)",
+   "safetyFlags": "EU-declared fragrance allergen: benzyl alcohol (−0.5)",
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
    "buyerEvidence": "4.2★ from 1,609 ratings",
+   "concernBasis": "Acne — niacinamide #8 on INCI; Dark spots — niacinamide #8 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
@@ -397257,7 +397383,10 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:flipkart",
-   "inci:none"
+   "target:acne",
+   "target:dark-spots",
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "actives": true,
@@ -397266,27 +397395,108 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Plum official website (plumgoodness.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://plumgoodness.com/products/plum-2-niacinamide-rice-water-spf-50-pa-sunscreen-reduces-blemishes-brightens-skin-protects-from-uva-uvb-rays-fragrance-free-all-skin-types-100-vegan",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "2% Niacinamide & Rice Water SPF 50 PA++++ Hybrid Sunscreen",
+   "inciMatchScore": 0.94,
+   "inciText": "Aqua, Ethylhexyl Methoxycinnamate, Butyl Methoxydibenzoylmethane, Benzophenone-3, Phospholipids, 1,3-Butylene Glycol, Propanediol, Niacinamide, Glycerin, Titanium Dioxide, Rice Ferment Filtrate, Oryza Sativa (Rice) Extract, Aluminum Hydroxide, Benzyl Alcohol, Hydroxyacetophenone, Stearic Acid, Caprylyl Glycol, Ammonium Acryloyldimethyltaurate/VP Copolymer, Sodium Polyacryloyldimethyl Taurate, Sodium Benzoate, Potassium Sorbate, Sodium Gluconate, D-Panthenol",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "ethylhexyl methoxycinnamate",
+     "grade": "A",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "butyl methoxydibenzoylmethane",
+     "grade": "A",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "benzophenone-3",
+     "grade": "A",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 8,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "titanium dioxide",
+     "grade": "A",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "oryza sativa extract",
+     "grade": "C",
+     "position": 12,
+     "core": false,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 23,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    }
+   ],
+   "support": [
+    "butylene glycol",
+    "propanediol",
+    "niacinamide",
+    "glycerin",
+    "panthenol"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "euAllergen",
+     "label": "EU-declared fragrance allergen",
+     "names": [
+      "benzyl alcohol"
+     ],
+     "penalty": 0.5,
+     "src": "eu1223"
+    }
+   ],
    "maker": {
     "parent": "Pureplay Skin Sciences",
     "kind": "d2c",
@@ -397748,18 +397958,19 @@ const CTPRODUCTS = [
   "capacityLine": "50 g",
   "materialLine": "vitamin C + niacinamide + hyaluronic acid",
   "featureLine": "Sunscreen · Paraben-free · SPF 50 · ₹390/100g",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Orgatre official website (orgatre.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
+   "niacinamide high on the INCI list (strong evidence); hyaluronic acid high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list",
    "Well-reviewed: 4.3★ from 105 ratings"
   ],
   "cons": [
-   "Only 3 ingredients named — formula unscored",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
+   "ingredients": 4.5,
+   "skin": 7,
+   "trust": 5.5,
    "experience": 5.7
   },
   "fullSpec": {
@@ -397776,13 +397987,17 @@ const CTPRODUCTS = [
    "skinType": "All Skin Types",
    "rating": "4.3/5 (105 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Only 3 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: Vitamin C, Niacinamide, Hyaluronic Acid",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Orgatre official website (orgatre.com) — product page › Ingredients",
+   "inciSourceUrl": "https://orgatre.com/products/tinted-sunscreen-spf-50-pa-broad-spectrum-sun-protection-for-all-skin-types",
+   "inciMatchedName": "Niacinamide + Hyaluronic Acid | Tinted Sun Shield Sunscreen SPF 50 PA++++ (name match 91%)",
+   "listingIngredientLine": "Vitamin C, Niacinamide, Hyaluronic Acid (as printed on the Flipkart listing — incomplete, not scored)",
+   "inciList": "Aqua, Octyl Methoxycinnamate, Cyclopentasiloxane, Caprylic/Capric Triglyceride, Cyclopentasiloxane and PEG/PPG-18/18 Dimeticone, Talc, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Isononyl Isononanoate, Butylene Glycol, Panthenol, Titanium Dioxide, Niacinamide, Ethylhexyloxyphenol Methoxyphenyl Triazine, Dimethicone, Cetearyl Alcohol & Cetearyl Glucoside, VP/Acrylates/Lauryl Methacrylate Copolymer, Allantoin, Caprylyl Methicone, Phenyl Trimethicone, Tocopheryl Acetate, Polyacrylate-13 & Polyisobutene & Polysorbate 20, Glyceryl Monostearate, Stearic Acid, Ceto-Stearyl Alcohol, Disodium EDTA, Ascorbyl Palmitate, Hyaluronic Acid, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Simmondsia Chinensis (Jojoba) Seed Oil, Persea Gratissima (Avocado) Oil, Olea Europaea (Olive) Fruit Oil, Helianthus Annuus (Sunflower) Seed Oil, Linoleic Acid (and) Linolenic Acid",
+   "evidenceActives": "niacinamide (#13 on list, strong evidence); hyaluronic acid (#28 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.3★ from 105 ratings",
+   "concernBasis": "Acne — niacinamide #13 on INCI; Dark spots — niacinamide #13 on INCI; Irritation — panthenol #11 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
@@ -397814,7 +398029,12 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:flipkart",
-   "inci:partial"
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -397823,25 +398043,136 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "partial",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Vitamin C, Niacinamide, Hyaluronic Acid",
-   "inciNote": "Only 3 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
+   "inci": "full",
+   "inciSource": "Orgatre official website (orgatre.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://orgatre.com/products/tinted-sunscreen-spf-50-pa-broad-spectrum-sun-protection-for-all-skin-types",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Niacinamide + Hyaluronic Acid | Tinted Sun Shield Sunscreen SPF 50 PA++++",
+   "inciMatchScore": 0.91,
+   "inciText": "Aqua, Octyl Methoxycinnamate, Cyclopentasiloxane, Caprylic/Capric Triglyceride, Cyclopentasiloxane and PEG/PPG-18/18 Dimeticone, Talc, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Isononyl Isononanoate, Butylene Glycol, Panthenol, Titanium Dioxide, Niacinamide, Ethylhexyloxyphenol Methoxyphenyl Triazine, Dimethicone, Cetearyl Alcohol & Cetearyl Glucoside, VP/Acrylates/Lauryl Methacrylate Copolymer, Allantoin, Caprylyl Methicone, Phenyl Trimethicone, Tocopheryl Acetate, Polyacrylate-13 & Polyisobutene & Polysorbate 20, Glyceryl Monostearate, Stearic Acid, Ceto-Stearyl Alcohol, Disodium EDTA, Ascorbyl Palmitate, Hyaluronic Acid, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Simmondsia Chinensis (Jojoba) Seed Oil, Persea Gratissima (Avocado) Oil, Olea Europaea (Olive) Fruit Oil, Helianthus Annuus (Sunflower) Seed Oil, Linoleic Acid (and) Linolenic Acid",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
    "recognised": 1,
-   "actives": [],
-   "support": [],
+   "actives": [
+    {
+     "name": "ethylhexyl methoxycinnamate",
+     "grade": "A",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "diethylamino hydroxybenzoyl hexyl benzoate",
+     "grade": "A",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 11,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "titanium dioxide",
+     "grade": "A",
+     "position": 12,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 13,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 15,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 18,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 21,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "ascorbyl palmitate",
+     "grade": "C",
+     "position": 27,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "hyaluronic acid",
+     "grade": "B",
+     "position": 28,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "prunus amygdalus dulcis oil",
+     "grade": "B",
+     "position": 29,
+     "core": false,
+     "trace": true,
+     "src": "squalane"
+    },
+    {
+     "name": "simmondsia chinensis seed oil",
+     "grade": "B",
+     "position": 30,
+     "core": false,
+     "trace": true,
+     "src": "squalane"
+    },
+    {
+     "name": "helianthus annuus seed oil",
+     "grade": "B",
+     "position": 33,
+     "core": false,
+     "trace": true,
+     "src": "squalane"
+    }
+   ],
+   "support": [
+    "butylene glycol",
+    "panthenol",
+    "niacinamide",
+    "dimethicone",
+    "hyaluronic acid"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -397862,17 +398193,17 @@ const CTPRODUCTS = [
   "capacityLine": "80 ml",
   "materialLine": "niacinamide + ceramides + centella/cica",
   "featureLine": "Sunscreen · Paraben-free · SPF 50 · ₹903/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Wishcare official website (mywishcare.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
+   "niacinamide high on the INCI list (strong evidence); zinc pca high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list",
    "Well-reviewed: 4.3★ from 97 ratings"
   ],
-  "cons": [
-   "Only 3 ingredients named — formula unscored"
-  ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5.3,
+   "ingredients": 7.2,
+   "skin": 9,
+   "trust": 7,
    "experience": 5.7
   },
   "fullSpec": {
@@ -397889,13 +398220,17 @@ const CTPRODUCTS = [
    "skinType": "All Skin Types, Combination Skin, Oily Skin",
    "rating": "4.3/5 (97 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Only 3 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: Niacinamide, Zinc PCA, CICA & Ceramides",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Wishcare official website (mywishcare.com) — product page › Ingredients",
+   "inciSourceUrl": "https://mywishcare.com/products/niacinamide-oil-balance-fluid-spf-50-sunscreen",
+   "inciMatchedName": "Niacinamide Oil Balance Fluid Sunscreen | SPF50 PA++++ (name match 78%)",
+   "listingIngredientLine": "Niacinamide, Zinc PCA, CICA & Ceramides (as printed on the Flipkart listing — incomplete, not scored)",
+   "inciList": "Aqua, Cyclopentasiloxane, Octyl Salicylate, Niacinamide, Silica, Avobenzone, Octocrylene, Butylene Glycol, Glycerine, Homosalate, Tapioca Starch, Neopentyl Glycol Diheptanoate, AMPS/HEMA Crosspolymer(and) C13-15 Alkane (and) Coco-Glucoside,Octyldodecanol, Polysorbate-20, Zinc Oxide, Titanium Dioxide, Oats Extract, Zinc PCA, Cetearyl Olivate & Sorbitan Olivate, Ceramide AP, Ceramide NP, Ceramide EOS, D-Panthenol, Centella Asiatica Extract, Ethylhexyl Glycerine, Phenoxyethanol, Coco-Glucoside, Xanthan Gum, Tocopherol Acetate, Hyaluronic Acid, Citric Acid",
+   "evidenceActives": "niacinamide (#4 on list, strong evidence); zinc pca (#20 on list, moderate evidence); hyaluronic acid (#32 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "WishCare — Indian D2C brand with its own product company",
    "buyerEvidence": "4.3★ from 97 ratings",
+   "concernBasis": "Acne — niacinamide #4 on INCI, zinc pca #20 on INCI; Dark spots — niacinamide #4 on INCI; Irritation — ceramide ap #22 on INCI, ceramide np #23 on INCI, ceramide eos #24 on INCI, panthenol #25 on INCI, centella asiatica extract #26 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
@@ -397932,7 +398267,12 @@ const CTPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:flipkart",
-   "inci:partial"
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -397941,25 +398281,171 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "partial",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Niacinamide, Zinc PCA, CICA & Ceramides",
-   "inciNote": "Only 3 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
+   "inci": "full",
+   "inciSource": "Wishcare official website (mywishcare.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://mywishcare.com/products/niacinamide-oil-balance-fluid-spf-50-sunscreen",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Niacinamide Oil Balance Fluid Sunscreen | SPF50 PA++++",
+   "inciMatchScore": 0.78,
+   "inciText": "Aqua, Cyclopentasiloxane, Octyl Salicylate, Niacinamide, Silica, Avobenzone, Octocrylene, Butylene Glycol, Glycerine, Homosalate, Tapioca Starch, Neopentyl Glycol Diheptanoate, AMPS/HEMA Crosspolymer(and) C13-15 Alkane (and) Coco-Glucoside,Octyldodecanol, Polysorbate-20, Zinc Oxide, Titanium Dioxide, Oats Extract, Zinc PCA, Cetearyl Olivate & Sorbitan Olivate, Ceramide AP, Ceramide NP, Ceramide EOS, D-Panthenol, Centella Asiatica Extract, Ethylhexyl Glycerine, Phenoxyethanol, Coco-Glucoside, Xanthan Gum, Tocopherol Acetate, Hyaluronic Acid, Citric Acid",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
    "recognised": 1,
-   "actives": [],
-   "support": [],
+   "actives": [
+    {
+     "name": "ethylhexyl salicylate",
+     "grade": "A",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "avobenzone",
+     "grade": "A",
+     "position": 6,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "octocrylene",
+     "grade": "A",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "homosalate",
+     "grade": "A",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "zinc oxide",
+     "grade": "A",
+     "position": 17,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "titanium dioxide",
+     "grade": "A",
+     "position": 18,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "zinc pca",
+     "grade": "B",
+     "position": 20,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "ceramide ap",
+     "grade": "B",
+     "position": 22,
+     "core": false,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 23,
+     "core": false,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "ceramide eos",
+     "grade": "B",
+     "position": 24,
+     "core": false,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 25,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "centella asiatica extract",
+     "grade": "B",
+     "position": 26,
+     "core": false,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 31,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "hyaluronic acid",
+     "grade": "B",
+     "position": 32,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 33,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    }
+   ],
+   "support": [
+    "niacinamide",
+    "butylene glycol",
+    "glycerin",
+    "ceramide ap",
+    "ceramide np",
+    "ceramide eos",
+    "panthenol",
+    "hyaluronic acid"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -409340,16 +409826,18 @@ const CTPRODUCTS = [
   "capacityLine": "50 g",
   "materialLine": "vitamin C + niacinamide",
   "featureLine": "Sunscreen · Fragrance-free · SPF 50 · ₹598/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Dermatouch official website (dermatouch.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "niacinamide high on the INCI list (strong evidence); sodium hyaluronate high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 4.6,
+   "skin": 7,
+   "trust": 5.5,
    "experience": 1.6
   },
   "fullSpec": {
@@ -409366,13 +409854,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "3.9/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Dermatouch official website (dermatouch.in) — product page › Ingredients",
+   "inciSourceUrl": "https://dermatouch.in/products/niacinamide-2-vitamin-c-sunscreen-for-glowing-skin",
+   "inciMatchedName": "Niacinamide 2% Vitamin C SPF 50 PA++++ Sunscreen Gel for Sun Damage & Uneven Skin Tone (name match 100%)",
+   "inciList": "Aqua, Ethylhexyl Methoxycinnamate, Butyl Methoxydibenzoylmethane, Benzophenone-3, Phospholipids, 1,3-Butylene Glycol, Cyclopentasiloxane, Sodium Polyacryloyldimethyl Taurate, Hydrogenated Polydecene, Trideceth-10, Glycerin, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol, Decyl Glucoside, Propylene Glycol, Xanthan Gum, Niacinamide, Caprylic/Capric Triglyceride, Sodium Hyaluronate, Cica Extract, 3-O-Ethyl Ascorbic Acid, Glycine Soja (Soybean) Seed Extract, Houttuynia Cordata (Heart Leaf) Extract, Scutellaria Baicalensis (Chinese Skullcap) Root Extract, Rehmannia Chinensis Root Extract, Phellodendron Amurense (Amur Cork Tree) Bark Extract, Lactobacillus/Pear Juice Ferment Filtrate, Butylene Glycol, Glycolic Acid, PEG-60 Hydrogenated Castor Oil, Ethylhexylglycerin, Glyceryl Caprylate, O-Cymen-5-Ol, Phenoxyethanol, Dimethicone/Vinyl Dimethicone Crosspolymer, Silica",
+   "evidenceActives": "niacinamide (#16 on list, strong evidence); sodium hyaluronate (#18 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.9★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #16 on INCI; Dark spots — niacinamide #16 on INCI, 3-o-ethyl ascorbic acid #20 on INCI; Aging — 3-o-ethyl ascorbic acid #20 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
@@ -409412,7 +409903,12 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:3.5",
    "store:amazon",
-   "inci:none"
+   "target:acne",
+   "target:dark-spots",
+   "target:aging",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -409421,25 +409917,103 @@ const CTPRODUCTS = [
    "derm": true,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Dermatouch official website (dermatouch.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://dermatouch.in/products/niacinamide-2-vitamin-c-sunscreen-for-glowing-skin",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Niacinamide 2% Vitamin C SPF 50 PA++++ Sunscreen Gel for Sun Damage & Uneven Skin Tone",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Ethylhexyl Methoxycinnamate, Butyl Methoxydibenzoylmethane, Benzophenone-3, Phospholipids, 1,3-Butylene Glycol, Cyclopentasiloxane, Sodium Polyacryloyldimethyl Taurate, Hydrogenated Polydecene, Trideceth-10, Glycerin, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol, Decyl Glucoside, Propylene Glycol, Xanthan Gum, Niacinamide, Caprylic/Capric Triglyceride, Sodium Hyaluronate, Cica Extract, 3-O-Ethyl Ascorbic Acid, Glycine Soja (Soybean) Seed Extract, Houttuynia Cordata (Heart Leaf) Extract, Scutellaria Baicalensis (Chinese Skullcap) Root Extract, Rehmannia Chinensis Root Extract, Phellodendron Amurense (Amur Cork Tree) Bark Extract, Lactobacillus/Pear Juice Ferment Filtrate, Butylene Glycol, Glycolic Acid, PEG-60 Hydrogenated Castor Oil, Ethylhexylglycerin, Glyceryl Caprylate, O-Cymen-5-Ol, Phenoxyethanol, Dimethicone/Vinyl Dimethicone Crosspolymer, Silica",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 0.94,
+   "actives": [
+    {
+     "name": "ethylhexyl methoxycinnamate",
+     "grade": "A",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "butyl methoxydibenzoylmethane",
+     "grade": "A",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "benzophenone-3",
+     "grade": "A",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 11,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "methylene bis-benzotriazolyl tetramethylbutylphenol",
+     "grade": "A",
+     "position": 12,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 16,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 18,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "3-o-ethyl ascorbic acid",
+     "grade": "B",
+     "position": 20,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "glycolic acid",
+     "grade": "A",
+     "position": 28,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    }
+   ],
+   "support": [
+    "butylene glycol",
+    "glycerin",
+    "niacinamide",
+    "sodium hyaluronate"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -410281,16 +410855,18 @@ const CTPRODUCTS = [
   "capacityLine": "50 g",
   "materialLine": "vitamin C + niacinamide + hyaluronic acid",
   "featureLine": "Sunscreen · SPF 50 · ₹332/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Orgatre official website (orgatre.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "niacinamide high on the INCI list (strong evidence); hyaluronic acid high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 4.5,
+   "skin": 7,
+   "trust": 5.5,
    "experience": 1
   },
   "fullSpec": {
@@ -410307,13 +410883,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "3.7/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Orgatre official website (orgatre.com) — product page › Ingredients",
+   "inciSourceUrl": "https://orgatre.com/products/tinted-sunscreen-spf-50-pa-broad-spectrum-sun-protection-for-all-skin-types",
+   "inciMatchedName": "Niacinamide + Hyaluronic Acid | Tinted Sun Shield Sunscreen SPF 50 PA++++ (name match 100%)",
+   "inciList": "Aqua, Octyl Methoxycinnamate, Cyclopentasiloxane, Caprylic/Capric Triglyceride, Cyclopentasiloxane and PEG/PPG-18/18 Dimeticone, Talc, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Isononyl Isononanoate, Butylene Glycol, Panthenol, Titanium Dioxide, Niacinamide, Ethylhexyloxyphenol Methoxyphenyl Triazine, Dimethicone, Cetearyl Alcohol & Cetearyl Glucoside, VP/Acrylates/Lauryl Methacrylate Copolymer, Allantoin, Caprylyl Methicone, Phenyl Trimethicone, Tocopheryl Acetate, Polyacrylate-13 & Polyisobutene & Polysorbate 20, Glyceryl Monostearate, Stearic Acid, Ceto-Stearyl Alcohol, Disodium EDTA, Ascorbyl Palmitate, Hyaluronic Acid, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Simmondsia Chinensis (Jojoba) Seed Oil, Persea Gratissima (Avocado) Oil, Olea Europaea (Olive) Fruit Oil, Helianthus Annuus (Sunflower) Seed Oil, Linoleic Acid (and) Linolenic Acid",
+   "evidenceActives": "niacinamide (#13 on list, strong evidence); hyaluronic acid (#28 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.7★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #13 on INCI; Dark spots — niacinamide #13 on INCI; Irritation — panthenol #11 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
   },
   "images": [
@@ -410343,7 +410922,12 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:3.5",
    "store:amazon",
-   "inci:none"
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -410352,25 +410936,136 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Orgatre official website (orgatre.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://orgatre.com/products/tinted-sunscreen-spf-50-pa-broad-spectrum-sun-protection-for-all-skin-types",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Niacinamide + Hyaluronic Acid | Tinted Sun Shield Sunscreen SPF 50 PA++++",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Octyl Methoxycinnamate, Cyclopentasiloxane, Caprylic/Capric Triglyceride, Cyclopentasiloxane and PEG/PPG-18/18 Dimeticone, Talc, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Isononyl Isononanoate, Butylene Glycol, Panthenol, Titanium Dioxide, Niacinamide, Ethylhexyloxyphenol Methoxyphenyl Triazine, Dimethicone, Cetearyl Alcohol & Cetearyl Glucoside, VP/Acrylates/Lauryl Methacrylate Copolymer, Allantoin, Caprylyl Methicone, Phenyl Trimethicone, Tocopheryl Acetate, Polyacrylate-13 & Polyisobutene & Polysorbate 20, Glyceryl Monostearate, Stearic Acid, Ceto-Stearyl Alcohol, Disodium EDTA, Ascorbyl Palmitate, Hyaluronic Acid, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Simmondsia Chinensis (Jojoba) Seed Oil, Persea Gratissima (Avocado) Oil, Olea Europaea (Olive) Fruit Oil, Helianthus Annuus (Sunflower) Seed Oil, Linoleic Acid (and) Linolenic Acid",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "ethylhexyl methoxycinnamate",
+     "grade": "A",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "diethylamino hydroxybenzoyl hexyl benzoate",
+     "grade": "A",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 11,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "titanium dioxide",
+     "grade": "A",
+     "position": 12,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 13,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 15,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 18,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 21,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "ascorbyl palmitate",
+     "grade": "C",
+     "position": 27,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "hyaluronic acid",
+     "grade": "B",
+     "position": 28,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "prunus amygdalus dulcis oil",
+     "grade": "B",
+     "position": 29,
+     "core": false,
+     "trace": true,
+     "src": "squalane"
+    },
+    {
+     "name": "simmondsia chinensis seed oil",
+     "grade": "B",
+     "position": 30,
+     "core": false,
+     "trace": true,
+     "src": "squalane"
+    },
+    {
+     "name": "helianthus annuus seed oil",
+     "grade": "B",
+     "position": 33,
+     "core": false,
+     "trace": true,
+     "src": "squalane"
+    }
+   ],
+   "support": [
+    "butylene glycol",
+    "panthenol",
+    "niacinamide",
+    "dimethicone",
+    "hyaluronic acid"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -410505,15 +411200,16 @@ const CTPRODUCTS = [
   "capacityLine": "50 ml",
   "materialLine": "niacinamide + rose",
   "featureLine": "Sunscreen · SPF 50 · ₹978/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Dot & Key official website (www.dotandkey.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "sodium hyaluronate high on the INCI list (moderate evidence); niacinamide high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6,
+   "ingredients": 6.6,
+   "skin": 10,
+   "trust": 8,
    "experience": 2.9
   },
   "fullSpec": {
@@ -410530,13 +411226,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.3/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Dot & Key official website (www.dotandkey.com) — product page › Ingredients",
+   "inciSourceUrl": "https://www.dotandkey.com/products/strawberry-dew-tinted-sunscreen-spf-50-pa",
+   "inciMatchedName": "Strawberry Dew Tinted Sunscreen SPF 50+ PA++++ With New-Age UV Filters (name match 97%)",
+   "inciList": "Aqua, Ethylhexyl Methoxycinnamate (and) Butyl Methoxydibenzoylmethane (and) Benzophenone-3 (and) Phospholipids (and) 1,3-Butylene Glycol, Isododecane, Glycerine, Phenyl Trimethicone, Propanediol, Glyceryl Citrate/Lactate/Linoleate/Oleate, Titanium Dioxide (and) Triethoxycaprylylsilane (and) Polyhydroxystearic Acid, Cyclopentasiloxane, Cyclopentasiloxane (and) Dimethicone Cross polymer, Caprylic/Capric Triglyceride, Dicaprylyl Carbonate, Zea Mays (Corn) Starch, Fragaria Ananassa (Strawberry) Fruit Extract, Sodium Hyaluronate, Niacinamide, Panthenol, Tocopheryl acetate, Polyglyceryl-3 Polyricinoleate, Xanthan Gum, Polyacrylate Crosspolymer-6, Polyacrylate-13 (and) Polyisobutene (and) Polysorbate 20, Sodium Gluconate, Phenoxyethanol (and) Ethylhexylglycerin, Disodium EDTA, CI 77491 (and) Triethoxycaprylylsilane (and) Polyhydroxystearic Acid, CI 77492 (and) Triethoxycaprylylsilane (and) Polyhydroxystearic Acid, CI 77499 (and) Triethoxycaprylylsilane (and) Polyhydroxystearic Acid",
+   "evidenceActives": "sodium hyaluronate (#22 on list, moderate evidence); niacinamide (#23 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "4.3★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #23 on INCI; Dark spots — niacinamide #23 on INCI; Irritation — panthenol #24 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
@@ -410567,7 +411266,12 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -410576,25 +411280,105 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Dot & Key official website (www.dotandkey.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.dotandkey.com/products/strawberry-dew-tinted-sunscreen-spf-50-pa",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Strawberry Dew Tinted Sunscreen SPF 50+ PA++++ With New-Age UV Filters",
+   "inciMatchScore": 0.97,
+   "inciText": "Aqua, Ethylhexyl Methoxycinnamate (and) Butyl Methoxydibenzoylmethane (and) Benzophenone-3 (and) Phospholipids (and) 1,3-Butylene Glycol, Isododecane, Glycerine, Phenyl Trimethicone, Propanediol, Glyceryl Citrate/Lactate/Linoleate/Oleate, Titanium Dioxide (and) Triethoxycaprylylsilane (and) Polyhydroxystearic Acid, Cyclopentasiloxane, Cyclopentasiloxane (and) Dimethicone Cross polymer, Caprylic/Capric Triglyceride, Dicaprylyl Carbonate, Zea Mays (Corn) Starch, Fragaria Ananassa (Strawberry) Fruit Extract, Sodium Hyaluronate, Niacinamide, Panthenol, Tocopheryl acetate, Polyglyceryl-3 Polyricinoleate, Xanthan Gum, Polyacrylate Crosspolymer-6, Polyacrylate-13 (and) Polyisobutene (and) Polysorbate 20, Sodium Gluconate, Phenoxyethanol (and) Ethylhexylglycerin, Disodium EDTA, CI 77491 (and) Triethoxycaprylylsilane (and) Polyhydroxystearic Acid, CI 77492 (and) Triethoxycaprylylsilane (and) Polyhydroxystearic Acid, CI 77499 (and) Triethoxycaprylylsilane (and) Polyhydroxystearic Acid",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.98,
+   "actives": [
+    {
+     "name": "ethylhexyl methoxycinnamate",
+     "grade": "A",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "butyl methoxydibenzoylmethane",
+     "grade": "A",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "benzophenone-3",
+     "grade": "A",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "titanium dioxide",
+     "grade": "A",
+     "position": 12,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 22,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 23,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 24,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 25,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "butylene glycol",
+    "glycerin",
+    "propanediol",
+    "sodium hyaluronate",
+    "niacinamide",
+    "panthenol"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -410615,15 +411399,16 @@ const CTPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "niacinamide",
   "featureLine": "Sunscreen · Fragrance-free · SPF 50 · ₹950/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "Only 3 ingredients named — formula unscored"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Wishcare official website (mywishcare.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "niacinamide high on the INCI list (strong evidence); zinc pca high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5.3,
+   "ingredients": 7.2,
+   "skin": 9,
+   "trust": 7,
    "experience": 3.2
   },
   "fullSpec": {
@@ -410640,13 +411425,17 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.4/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Only 3 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Amazon.in listing — Important information › Ingredients",
-   "inciList": "Unverified seller line: Niacinamide, Zinc PCA, CICA & Ceramides",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Wishcare official website (mywishcare.com) — product page › Ingredients",
+   "inciSourceUrl": "https://mywishcare.com/products/niacinamide-oil-balance-fluid-spf-50-sunscreen",
+   "inciMatchedName": "Niacinamide Oil Balance Fluid Sunscreen | SPF50 PA++++ (name match 78%)",
+   "listingIngredientLine": "Niacinamide, Zinc PCA, CICA & Ceramides (as printed on the Amazon listing — incomplete, not scored)",
+   "inciList": "Aqua, Cyclopentasiloxane, Octyl Salicylate, Niacinamide, Silica, Avobenzone, Octocrylene, Butylene Glycol, Glycerine, Homosalate, Tapioca Starch, Neopentyl Glycol Diheptanoate, AMPS/HEMA Crosspolymer(and) C13-15 Alkane (and) Coco-Glucoside,Octyldodecanol, Polysorbate-20, Zinc Oxide, Titanium Dioxide, Oats Extract, Zinc PCA, Cetearyl Olivate & Sorbitan Olivate, Ceramide AP, Ceramide NP, Ceramide EOS, D-Panthenol, Centella Asiatica Extract, Ethylhexyl Glycerine, Phenoxyethanol, Coco-Glucoside, Xanthan Gum, Tocopherol Acetate, Hyaluronic Acid, Citric Acid",
+   "evidenceActives": "niacinamide (#4 on list, strong evidence); zinc pca (#20 on list, moderate evidence); hyaluronic acid (#32 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "WishCare — Indian D2C brand with its own product company",
    "buyerEvidence": "4.4★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #4 on INCI, zinc pca #20 on INCI; Dark spots — niacinamide #4 on INCI; Irritation — ceramide ap #22 on INCI, ceramide np #23 on INCI, ceramide eos #24 on INCI, panthenol #25 on INCI, centella asiatica extract #26 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
@@ -410682,7 +411471,12 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
-   "inci:partial"
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -410691,25 +411485,171 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "partial",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "partial",
-   "inciSource": "Amazon.in listing — Important information › Ingredients",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Niacinamide, Zinc PCA, CICA & Ceramides",
-   "inciNote": "Only 3 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
+   "inci": "full",
+   "inciSource": "Wishcare official website (mywishcare.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://mywishcare.com/products/niacinamide-oil-balance-fluid-spf-50-sunscreen",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Niacinamide Oil Balance Fluid Sunscreen | SPF50 PA++++",
+   "inciMatchScore": 0.78,
+   "inciText": "Aqua, Cyclopentasiloxane, Octyl Salicylate, Niacinamide, Silica, Avobenzone, Octocrylene, Butylene Glycol, Glycerine, Homosalate, Tapioca Starch, Neopentyl Glycol Diheptanoate, AMPS/HEMA Crosspolymer(and) C13-15 Alkane (and) Coco-Glucoside,Octyldodecanol, Polysorbate-20, Zinc Oxide, Titanium Dioxide, Oats Extract, Zinc PCA, Cetearyl Olivate & Sorbitan Olivate, Ceramide AP, Ceramide NP, Ceramide EOS, D-Panthenol, Centella Asiatica Extract, Ethylhexyl Glycerine, Phenoxyethanol, Coco-Glucoside, Xanthan Gum, Tocopherol Acetate, Hyaluronic Acid, Citric Acid",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
    "recognised": 1,
-   "actives": [],
-   "support": [],
+   "actives": [
+    {
+     "name": "ethylhexyl salicylate",
+     "grade": "A",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "avobenzone",
+     "grade": "A",
+     "position": 6,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "octocrylene",
+     "grade": "A",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "homosalate",
+     "grade": "A",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "zinc oxide",
+     "grade": "A",
+     "position": 17,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "titanium dioxide",
+     "grade": "A",
+     "position": 18,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "zinc pca",
+     "grade": "B",
+     "position": 20,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "ceramide ap",
+     "grade": "B",
+     "position": 22,
+     "core": false,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 23,
+     "core": false,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "ceramide eos",
+     "grade": "B",
+     "position": 24,
+     "core": false,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 25,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "centella asiatica extract",
+     "grade": "B",
+     "position": 26,
+     "core": false,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 31,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "hyaluronic acid",
+     "grade": "B",
+     "position": 32,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 33,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    }
+   ],
+   "support": [
+    "niacinamide",
+    "butylene glycol",
+    "glycerin",
+    "ceramide ap",
+    "ceramide np",
+    "ceramide eos",
+    "panthenol",
+    "hyaluronic acid"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -412544,16 +413484,18 @@ const CTPRODUCTS = [
   "capacityLine": "50 g",
   "materialLine": "niacinamide + aloe vera",
   "featureLine": "Sunscreen · Paraben-free · SPF 50 · ₹594/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Clensta official website (clensta.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "niacinamide high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 3.9,
+   "skin": 7,
+   "trust": 5.5,
    "experience": 2.9
   },
   "fullSpec": {
@@ -412570,13 +413512,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.3/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Clensta official website (clensta.com) — product page › Ingredients",
+   "inciSourceUrl": "https://clensta.com/products/red-aloe-daily-glow-sunscreen-spf-50-pa",
+   "inciMatchedName": "Red Aloe Vera Daily Glow Sunscreen With 2% Niacinamide and SPF 50 PA++++ (name match 100%)",
+   "inciList": "Purified Water, Sodium Polyacryloydimethyl Taurate, Hydrogenated Polydecene, Trideceth-10, Ethylhexyl Methoxycinnamate, Beraophenone-3, Phospholipids, 1,3-Butylene Glycol, Cyclomethicone, Methylene Bis-Benzotriazolyl Tetramethylbutlyphenol, Niacinamide, Red Aloe Vera Extract, Ethylhexylglycerin, Phenoxyethanol Dimethicone/Vinyl Dimethicone Crosspolymer, Silica, Titanium Dioxide, Octyl Methoxycinnamate",
+   "evidenceActives": "niacinamide (#11 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.3★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #11 on INCI; Dark spots — niacinamide #11 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
@@ -412608,7 +413553,11 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "target:acne",
+   "target:dark-spots",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -412617,25 +413566,69 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Clensta official website (clensta.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://clensta.com/products/red-aloe-daily-glow-sunscreen-spf-50-pa",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Red Aloe Vera Daily Glow Sunscreen With 2% Niacinamide and SPF 50 PA++++",
+   "inciMatchScore": 1,
+   "inciText": "Purified Water, Sodium Polyacryloydimethyl Taurate, Hydrogenated Polydecene, Trideceth-10, Ethylhexyl Methoxycinnamate, Beraophenone-3, Phospholipids, 1,3-Butylene Glycol, Cyclomethicone, Methylene Bis-Benzotriazolyl Tetramethylbutlyphenol, Niacinamide, Red Aloe Vera Extract, Ethylhexylglycerin, Phenoxyethanol Dimethicone/Vinyl Dimethicone Crosspolymer, Silica, Titanium Dioxide, Octyl Methoxycinnamate",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 0.94,
+   "actives": [
+    {
+     "name": "ethylhexyl methoxycinnamate",
+     "grade": "A",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "benzophenone-3",
+     "grade": "A",
+     "position": 6,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "methylene bis-benzotriazolyl tetramethylbutylphenol",
+     "grade": "A",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 11,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "titanium dioxide",
+     "grade": "A",
+     "position": 16,
+     "core": false,
+     "trace": true,
+     "src": "sunFilters"
+    }
+   ],
+   "support": [
+    "butylene glycol",
+    "niacinamide"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -412893,16 +413886,18 @@ const CTPRODUCTS = [
   "capacityLine": "50 ml",
   "materialLine": "niacinamide + peptides",
   "featureLine": "Sunscreen · SPF 70 · ₹578/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Renee official website (www.reneecosmetics.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "niacinamide high on the INCI list (strong evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): perfume",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 3.9,
+   "skin": 5.9,
+   "trust": 5.5,
    "experience": 2.9
   },
   "fullSpec": {
@@ -412919,13 +413914,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.3/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Renee official website (www.reneecosmetics.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.reneecosmetics.in/products/renee-pore-minimizing-sunscreen-spf-70",
+   "inciMatchedName": "RENEE Pore Minimizing Sunscreen SPF 70 With 2% Niacinamide, 2% Peptide Complex & 3% Multivitamins, 50Ml (name match 91%)",
+   "inciList": "Aqua, Ethylhexyl Methoxycinnamate, Octocrylene, and Butyl Methoxydibenzoylmethane, Mannitol (and) Phosphatidylcholine (and) Sodium Ascorbyl Phosphate (and) Cetyl Alcohol (and) Decyl Glucoside (and) Potassium Sorbate (and) Sodium Benzoate (and) Retinyl Palmitate (and) Tocopheryl Acetate (and) Xanthan Gum (and) Sodium Chloride, Vitamin B3 (Niacinamide), Acetyl tetrapeptide-5, Palmitoyl oligopeptide, Palmitoyl Pentapeptide-4, Palmitoyl Tripeptide-5, Glycine Max (Soybean) Polypeptide, Saccharomyces Polypeptides, 1,2- Hexanediol, Caprylic/Capric Triglyceride, Lecithin (and) Lysolecithin, Pentaerythrityl Stearate/Caprate/Caprylate/Adipate, Glycerin, Panthanol (Provitamin B5), Mannan (and) Citric Acid, Ammonium Acryloyldimethyltaurate/VP Copolymer, Ammonium Acryloyldimethyltaurate/Beheneth-25 Methacrylate Crosspolymer, Phenoxyethanol, Disodium EDTA, Perfume, Triethanolamine",
+   "evidenceActives": "niacinamide (#16 on list, strong evidence)",
+   "safetyFlags": "Added fragrance (parfum): perfume (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.3★ from 0 ratings",
+   "concernBasis": "Dark spots — sodium ascorbyl phosphate #7 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
@@ -412955,7 +413953,9 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "target:dark-spots",
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "actives": true,
@@ -412964,27 +413964,138 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Renee official website (www.reneecosmetics.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.reneecosmetics.in/products/renee-pore-minimizing-sunscreen-spf-70",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "RENEE Pore Minimizing Sunscreen SPF 70 With 2% Niacinamide, 2% Peptide Complex & 3% Multivitamins, 50Ml",
+   "inciMatchScore": 0.91,
+   "inciText": "Aqua, Ethylhexyl Methoxycinnamate, Octocrylene, and Butyl Methoxydibenzoylmethane, Mannitol (and) Phosphatidylcholine (and) Sodium Ascorbyl Phosphate (and) Cetyl Alcohol (and) Decyl Glucoside (and) Potassium Sorbate (and) Sodium Benzoate (and) Retinyl Palmitate (and) Tocopheryl Acetate (and) Xanthan Gum (and) Sodium Chloride, Vitamin B3 (Niacinamide), Acetyl tetrapeptide-5, Palmitoyl oligopeptide, Palmitoyl Pentapeptide-4, Palmitoyl Tripeptide-5, Glycine Max (Soybean) Polypeptide, Saccharomyces Polypeptides, 1,2- Hexanediol, Caprylic/Capric Triglyceride, Lecithin (and) Lysolecithin, Pentaerythrityl Stearate/Caprate/Caprylate/Adipate, Glycerin, Panthanol (Provitamin B5), Mannan (and) Citric Acid, Ammonium Acryloyldimethyltaurate/VP Copolymer, Ammonium Acryloyldimethyltaurate/Beheneth-25 Methacrylate Crosspolymer, Phenoxyethanol, Disodium EDTA, Perfume, Triethanolamine",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 0.95,
+   "actives": [
+    {
+     "name": "ethylhexyl methoxycinnamate",
+     "grade": "A",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "octocrylene",
+     "grade": "A",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "butyl methoxydibenzoylmethane",
+     "grade": "A",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "sodium ascorbyl phosphate",
+     "grade": "B",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "retinyl palmitate",
+     "grade": "C",
+     "position": 12,
+     "core": false,
+     "trace": true,
+     "src": "retinoids"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 13,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 15,
+     "core": false,
+     "trace": true,
+     "src": "aadScrub"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 16,
+     "core": true,
+     "trace": true,
+     "src": "niacinamide"
+    },
+    {
+     "name": "palmitoyl pentapeptide-4",
+     "grade": "B",
+     "position": 19,
+     "core": false,
+     "trace": true,
+     "src": "peptides"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 28,
+     "core": false,
+     "trace": true,
+     "src": "glycerin"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 29,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 31,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    }
+   ],
+   "support": [
+    "niacinamide",
+    "glycerin",
+    "panthenol"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",

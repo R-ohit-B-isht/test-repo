@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-12.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-13.
 // Unknown fields are honestly marked, never invented.
 const CTPRODUCTS = [
  {
@@ -22851,17 +22851,17 @@ const CTPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "hyaluronic acid",
   "featureLine": "Wash / cleanser",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Foxtale official website (foxtale-consumer.myshopify.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
+   "glycerin high on the INCI list (strong evidence); panthenol high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list",
    "Well-reviewed: 4.4★ from 9,274 ratings"
   ],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 8.3,
+   "skin": 9,
+   "trust": 7,
    "experience": 8.2
   },
   "fullSpec": {
@@ -22878,11 +22878,13 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.4/5 (9,274 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Foxtale official website (foxtale-consumer.myshopify.com) — product page › Ingredients",
+   "inciSourceUrl": "https://foxtale-consumer.myshopify.com/products/the-daily-duet-cleanser",
+   "inciMatchedName": "Hydrating Face Wash (name match 85%)",
+   "inciList": "Aqua, Sodium Cocoamphoacetate, Decyl Glucoside, Sodium Cocoyl Isethionate, PEG-7 Glyceryl cocoate, Acrylates copolymer, Cocoglucoside, Glyceryl Oleate, Glycol Distearate, Glycerin, Olive Oil PEG-7 Esters, Phenoxyethanol (and) Ethylhexylglycerin (and) Octenidine HCl, 1,3 propane diol, Triethanolamine, Polyquaternium 7, Sodium PCA, Panthenol, Sodium Hyaluronate, L-Proline, Hydroxyproline, Chondrus Crispus Extract, Citric Acid, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Disodium EDTA, Allergen free Fragrance",
+   "evidenceActives": "glycerin (#10 on list, strong evidence); panthenol (#19 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Foxtale Consumer — Indian D2C brand with its own product company",
    "declaredManufacturer": "Harshvin Kare Products (as printed on the Flipkart listing — not scored)",
    "buyerEvidence": "4.4★ from 9,274 ratings"
@@ -22907,7 +22909,9 @@ const CTPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -22916,25 +22920,67 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Foxtale official website (foxtale-consumer.myshopify.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://foxtale-consumer.myshopify.com/products/the-daily-duet-cleanser",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Hydrating Face Wash",
+   "inciMatchScore": 0.85,
+   "inciText": "Aqua, Sodium Cocoamphoacetate, Decyl Glucoside, Sodium Cocoyl Isethionate, PEG-7 Glyceryl cocoate, Acrylates copolymer, Cocoglucoside, Glyceryl Oleate, Glycol Distearate, Glycerin, Olive Oil PEG-7 Esters, Phenoxyethanol (and) Ethylhexylglycerin (and) Octenidine HCl, 1,3 propane diol, Triethanolamine, Polyquaternium 7, Sodium PCA, Panthenol, Sodium Hyaluronate, L-Proline, Hydroxyproline, Chondrus Crispus Extract, Citric Acid, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Disodium EDTA, Allergen free Fragrance",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 0.93,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 10,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 19,
+     "core": true,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 20,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 24,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    }
+   ],
+   "support": [
+    "sodium cocoamphoacetate",
+    "decyl glucoside",
+    "sodium cocoyl isethionate",
+    "coco-glucoside",
+    "glycerin",
+    "sodium pca",
+    "panthenol",
+    "sodium hyaluronate"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {

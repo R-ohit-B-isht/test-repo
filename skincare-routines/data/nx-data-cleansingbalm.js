@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-12.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-13.
 // Unknown fields are honestly marked, never invented.
 const NXPRODUCTS = [
  {
@@ -8900,18 +8900,19 @@ const NXPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Wipes",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Renee official website (www.reneecosmetics.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
+   "glycerin high on the INCI list (strong evidence)",
    "Well-reviewed: 4.4★ from 975 ratings"
   ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): fragrance",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 3,
+   "skin": 6.4,
+   "trust": 5.5,
    "experience": 7.4
   },
   "fullSpec": {
@@ -8929,11 +8930,13 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "4.4/5 (975 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Renee official website (www.reneecosmetics.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.reneecosmetics.in/products/renee-makeup-removal-wipes-30-count",
+   "inciMatchedName": "RENEE Makeup Removal Wipes, Pack of 30 (name match 88%)",
+   "inciList": "Aqua, 3-2 ethylhexyloxyl1,2,propandiol, Caprylic capric triglyceride, cucumis sativa extract, d-panthanol, propylene glycol, disodium cocoam diacetate, peg 40 hydrogenated caster oil, citric acid, phenoxyethanol, Polysorbate 20, alovera barbadensis leaf extract, Fragrance, Glycerine",
+   "evidenceActives": "glycerin (#15 on list, strong evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−0.8)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.4★ from 975 ratings"
   },
@@ -8958,7 +8961,8 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -8966,27 +8970,57 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Renee official website (www.reneecosmetics.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.reneecosmetics.in/products/renee-makeup-removal-wipes-30-count",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "RENEE Makeup Removal Wipes, Pack of 30",
+   "inciMatchScore": 0.88,
+   "inciText": "Aqua, 3-2 ethylhexyloxyl1,2,propandiol, Caprylic capric triglyceride, cucumis sativa extract, d-panthanol, propylene glycol, disodium cocoam diacetate, peg 40 hydrogenated caster oil, citric acid, phenoxyethanol, Polysorbate 20, alovera barbadensis leaf extract, Fragrance, Glycerine",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 0.93,
+   "actives": [
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 15,
+     "core": true,
+     "trace": true,
+     "src": "glycerin"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "glycerin"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 0.8,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -20996,18 +21030,19 @@ const NXPRODUCTS = [
   "capacityLine": "50 ml",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Cleansing balm · Paraben-free · ₹1556/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Iba official website (www.ibacosmetics.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "Well-reviewed: 4.5★ from 26 ratings"
   ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): perfume",
+   "Hard abrasive particles (face): polyethylene",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 3,
+   "skin": 5.9,
+   "trust": 5.5,
    "experience": 5.5
   },
   "fullSpec": {
@@ -21025,13 +21060,16 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "4.5/5 (26 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Iba official website (www.ibacosmetics.com) — product page › Ingredients",
+   "inciSourceUrl": "https://www.ibacosmetics.com/products/iba-makeup-removing-cleansing-balm",
+   "inciMatchedName": "Iba Makeup Removing Cleansing Balm, 50 g (name match 100%)",
+   "inciList": "Isopropyl Myristate, Peg-20 Glyceryl Triisostearate, Polyethylene, Propylene Glycol, Aqua, Butyrospermum Parki (Shea) Butter, Perfume, Butylated Hydroxy Toluene, Aloe Barbadensis (Aloe Vera) Oil, Argania Spinosa (Argan) Kernel Oil, Tocopheryl Acetate (Vitamin E), Ascorbyl Tetraisopalmitate (Vitamin C), Moringa Oleifera (Moringa) Seed Oil",
+   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
+   "safetyFlags": "Added fragrance (parfum): perfume (−0.8); Hard abrasive particles (face): polyethylene (−0.8)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.5★ from 26 ratings"
+   "buyerEvidence": "4.5★ from 26 ratings",
+   "concernBasis": "Dark spots — ascorbyl tetraisopalmitate #12 on INCI; Aging — ascorbyl tetraisopalmitate #12 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/make-up-remover/j/q/j/50-makeup-removing-cleansing-balm-hydrates-nourishes-skin-for-original-imahesqfcyvxjtkz.jpeg?q=90",
@@ -21058,7 +21096,10 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:flipkart",
-   "inci:none"
+   "target:dark-spots",
+   "target:aging",
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": true,
@@ -21066,27 +21107,81 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Iba official website (www.ibacosmetics.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.ibacosmetics.com/products/iba-makeup-removing-cleansing-balm",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Iba Makeup Removing Cleansing Balm, 50 g",
+   "inciMatchScore": 1,
+   "inciText": "Isopropyl Myristate, Peg-20 Glyceryl Triisostearate, Polyethylene, Propylene Glycol, Aqua, Butyrospermum Parki (Shea) Butter, Perfume, Butylated Hydroxy Toluene, Aloe Barbadensis (Aloe Vera) Oil, Argania Spinosa (Argan) Kernel Oil, Tocopheryl Acetate (Vitamin E), Ascorbyl Tetraisopalmitate (Vitamin C), Moringa Oleifera (Moringa) Seed Oil",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 6,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "argania spinosa kernel oil",
+     "grade": "B",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 11,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "ascorbyl tetraisopalmitate",
+     "grade": "B",
+     "position": 12,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "butyrospermum parkii butter"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 0.8,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "abrasive",
+     "label": "Hard abrasive particles (face)",
+     "names": [
+      "polyethylene"
+     ],
+     "penalty": 0.8,
+     "src": "aadScrub"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -50696,17 +50791,19 @@ const NXPRODUCTS = [
   "capacityLine": "100 g",
   "materialLine": "Niacinamide + Green tea + Aloe vera",
   "featureLine": "Wash / cleanser · ₹348/100g",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Clensta official website (clensta.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "niacinamide high on the INCI list (strong evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): perfume",
    "Maker not verified — no parent company found",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 4.3,
+   "skin": 6.4,
+   "trust": 5.5,
    "experience": 0
   },
   "fullSpec": {
@@ -50724,13 +50821,16 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Clensta official website (clensta.com) — product page › Ingredients",
+   "inciSourceUrl": "https://clensta.com/products/red-aloe-cleansing-milk",
+   "inciMatchedName": "Red Aloe Vera Cleansing Milk (name match 100%)",
+   "inciList": "DM Water, Decyl Glucoside, Isopropyl Myristate, Light Liquified Paraffin, Carbomer, Emulsifying Wax, Cetyl Alcohol, Red Aloe Vera Extract, Niacinamide, Phenoxy Ethanol, Perfume",
+   "evidenceActives": "niacinamide (#9 on list, strong evidence)",
+   "safetyFlags": "Added fragrance (parfum): perfume (−0.8)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — niacinamide #9 on INCI; Dark spots — niacinamide #9 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/make-up-remover/o/v/r/100-red-aloe-vera-cleansing-milk-clensta-original-imahfcx9s3cw7nst.jpeg?q=90",
@@ -50758,7 +50858,10 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:none",
    "store:flipkart",
-   "inci:none"
+   "target:acne",
+   "target:dark-spots",
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -50766,27 +50869,49 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Clensta official website (clensta.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://clensta.com/products/red-aloe-cleansing-milk",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Red Aloe Vera Cleansing Milk",
+   "inciMatchScore": 1,
+   "inciText": "DM Water, Decyl Glucoside, Isopropyl Myristate, Light Liquified Paraffin, Carbomer, Emulsifying Wax, Cetyl Alcohol, Red Aloe Vera Extract, Niacinamide, Phenoxy Ethanol, Perfume",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 9,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    }
+   ],
+   "support": [
+    "decyl glucoside",
+    "niacinamide"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 0.8,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -85261,16 +85386,18 @@ const NXPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "Aloe vera + Chamomile",
   "featureLine": "Wipes",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (FACESCANADA official website (facescanada.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): fragrance",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 3.4,
+   "skin": 6.4,
+   "trust": 5.5,
    "experience": 2.9
   },
   "fullSpec": {
@@ -85288,11 +85415,13 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "4.3/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "FACESCANADA official website (facescanada.com) — product page › Ingredients",
+   "inciSourceUrl": "https://facescanada.com/products/fresh-clean-glow-makeup-remover-wipes",
+   "inciMatchedName": "Fresh Clean Glow Makeup Remover Wipes (name match 100%)",
+   "inciList": "Aqua, DC 3021, DC 556, Propylene Glycol, Di Propylene Glycol, Fragrance, Glycerin, Ethyl Hexyl Glycerine & Phenoxy ethanol, Triethylene Glycol, Hexylene Glycol, Aloe Vera Extract, Disodium Cocoampho Diacetate, Polysorbate 20, Disodium EDTA, Peg - 40 Hydrogenated Castor Oil, Chamomile Extract, Cornflower Extract, Lactic Acid/TEA",
+   "evidenceActives": "glycerin (#7 on list, strong evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−0.8)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.3★ from 0 ratings"
   },
@@ -85321,7 +85450,8 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -85329,27 +85459,57 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "FACESCANADA official website (facescanada.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://facescanada.com/products/fresh-clean-glow-makeup-remover-wipes",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Fresh Clean Glow Makeup Remover Wipes",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, DC 3021, DC 556, Propylene Glycol, Di Propylene Glycol, Fragrance, Glycerin, Ethyl Hexyl Glycerine & Phenoxy ethanol, Triethylene Glycol, Hexylene Glycol, Aloe Vera Extract, Disodium Cocoampho Diacetate, Polysorbate 20, Disodium EDTA, Peg - 40 Hydrogenated Castor Oil, Chamomile Extract, Cornflower Extract, Lactic Acid/TEA",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 0.89,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 7,
+     "core": true,
+     "trace": true,
+     "src": "glycerin"
+    },
+    {
+     "name": "aloe barbadensis leaf extract",
+     "grade": "B",
+     "position": 11,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "disodium cocoamphodiacetate"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 0.8,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",

@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-12.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-13.
 // Unknown fields are honestly marked, never invented.
 const NXPRODUCTS = [
  {
@@ -64582,17 +64582,19 @@ const NXPRODUCTS = [
   "capacityLine": "100 ml",
   "materialLine": "Collagen + PDRN / polynucleotide",
   "featureLine": "Mist / spray · Paraben-free · ₹2148/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (ANUA official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "panthenol high on the INCI list (moderate evidence); allantoin high on the INCI list (limited evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
    "Maker not verified — no parent company found",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 5.9,
+   "skin": 7,
+   "trust": 5.5,
    "experience": 0
   },
   "fullSpec": {
@@ -64611,13 +64613,16 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "ANUA official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceUrl": "https://anua.us/products/pdrn-100-hyaluronic-acid-hydrating-capsule-mist-100ml",
+   "inciMatchedName": "PDRN Collagen Glow Facial Serum Spray (name match 75%)",
+   "inciList": "Water, Diphenyl Dimethicone, Dipropylene Glycol, Pentylene Glycol, 1,2-Hexanediol, Glycereth-26, Propanediol, Streptococcus Thermophilus Ferment, Butylene Glycol, Panthenol, Caprylic/Capric Triglyceride, Sodium DNA, Hydroxyethyl Urea, Hydroxyacetophenone, Castor Oil/IPDI Copolymer, Xylitylglucoside, Allantoin, Dipeptide-15, Gellan Gum, Anhydroxylitol, Calcium Chloride, Caprylyl Glycol, Adenosine, PPG-13-Decyltetradeceth-24, Glycerin, Sodium Citrate, Xylitol, Glycine Soja (Soybean) Seed Extract, Melia Azadirachta Leaf Extract, Sodium Hyaluronate, Citric Acid, Melia Azadirachta Flower Extract, Glycine Soja (Soybean) Oil, Pyrus Malus (Apple) Juice, Coccinia Indica Fruit Extract, Tocopherol, Cynanchum Atratum Extract, Solanum Melongena (Eggplant) Fruit Extract, Aloe Barbadensis Flower Extract, Octanediol, Ethylhexylglycerin, Simmondsia Chinensis (Jojoba) Seed Oil, Curcuma Longa (Turmeric) Root Extract, Ocimum Sanctum Leaf Extract, Corallina Officinalis Extract, Helianthus Annuus (Sunflower) Seed Oil, Althaea Rosea Flower Extract, Beta-Carotene, Daucus Carota Sativa (Carrot) Root Extract, Hydrolyzed Hyaluronic Acid, Hyaluronic Acid, Castanea Sativa (Chestnut) Seed Extract, Dipotassium Phosphate, Acetyl Glutamine, Agar, Magnesium Sulfate, Xanthan Gum, Diphenylsiloxy Phenyl Trimethicone, Phenyl Trimethicone, Propylene Glycol Dibenzoate, Pyrus Malus (Apple) Seed Oil, Hydrogenated Lecithin, Aureobasidium Pullulans Ferment, Hydrolyzed Collagen, Ceramide NP, Sodium Chloride, Hippophae Rhamnoides Oil, Copper Tripeptide-1, Cellulose Gum, Amber Powder, Sodium Bicarbonate, Candida Bombicola/Glucose/Methyl Rapeseedate Ferment, Moringa Oleifera Seed Oil, Potassium Chloride, Sodium Stearoyl Glutamate",
+   "evidenceActives": "panthenol (#10 on list, moderate evidence); allantoin (#17 on list, limited evidence); glycerin (#24 on list, strong evidence); sodium hyaluronate (#29 on list, moderate evidence); hydrolyzed hyaluronic acid (#49 on list, moderate evidence); hyaluronic acid (#50 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Aging — adenosine #23 on INCI; Irritation — panthenol #10 on INCI (matching only — not proof it works)",
    "waterResistance": "Water resistance not stated in listing"
   },
   "images": [
@@ -64654,7 +64659,11 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:none",
    "store:flipkart",
-   "inci:none"
+   "target:aging",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": true,
@@ -64662,25 +64671,171 @@ const NXPRODUCTS = [
    "derm": true,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "ANUA official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://anua.us/products/pdrn-100-hyaluronic-acid-hydrating-capsule-mist-100ml",
+   "inciSourceRegion": "US",
+   "inciMatchedTitle": "PDRN Collagen Glow Facial Serum Spray",
+   "inciMatchScore": 0.75,
+   "inciText": "Water, Diphenyl Dimethicone, Dipropylene Glycol, Pentylene Glycol, 1,2-Hexanediol, Glycereth-26, Propanediol, Streptococcus Thermophilus Ferment, Butylene Glycol, Panthenol, Caprylic/Capric Triglyceride, Sodium DNA, Hydroxyethyl Urea, Hydroxyacetophenone, Castor Oil/IPDI Copolymer, Xylitylglucoside, Allantoin, Dipeptide-15, Gellan Gum, Anhydroxylitol, Calcium Chloride, Caprylyl Glycol, Adenosine, PPG-13-Decyltetradeceth-24, Glycerin, Sodium Citrate, Xylitol, Glycine Soja (Soybean) Seed Extract, Melia Azadirachta Leaf Extract, Sodium Hyaluronate, Citric Acid, Melia Azadirachta Flower Extract, Glycine Soja (Soybean) Oil, Pyrus Malus (Apple) Juice, Coccinia Indica Fruit Extract, Tocopherol, Cynanchum Atratum Extract, Solanum Melongena (Eggplant) Fruit Extract, Aloe Barbadensis Flower Extract, Octanediol, Ethylhexylglycerin, Simmondsia Chinensis (Jojoba) Seed Oil, Curcuma Longa (Turmeric) Root Extract, Ocimum Sanctum Leaf Extract, Corallina Officinalis Extract, Helianthus Annuus (Sunflower) Seed Oil, Althaea Rosea Flower Extract, Beta-Carotene, Daucus Carota Sativa (Carrot) Root Extract, Hydrolyzed Hyaluronic Acid, Hyaluronic Acid, Castanea Sativa (Chestnut) Seed Extract, Dipotassium Phosphate, Acetyl Glutamine, Agar, Magnesium Sulfate, Xanthan Gum, Diphenylsiloxy Phenyl Trimethicone, Phenyl Trimethicone, Propylene Glycol Dibenzoate, Pyrus Malus (Apple) Seed Oil, Hydrogenated Lecithin, Aureobasidium Pullulans Ferment, Hydrolyzed Collagen, Ceramide NP, Sodium Chloride, Hippophae Rhamnoides Oil, Copper Tripeptide-1, Cellulose Gum, Amber Powder, Sodium Bicarbonate, Candida Bombicola/Glucose/Methyl Rapeseedate Ferment, Moringa Oleifera Seed Oil, Potassium Chloride, Sodium Stearoyl Glutamate",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 0.99,
+   "actives": [
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 10,
+     "core": true,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "sodium dna",
+     "grade": "B",
+     "position": 12,
+     "core": false,
+     "trace": false,
+     "src": "pdrn"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 17,
+     "core": true,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "adenosine",
+     "grade": "B",
+     "position": 23,
+     "core": false,
+     "trace": false,
+     "src": "peptides"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 24,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 29,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 30,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 35,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "simmondsia chinensis seed oil",
+     "grade": "B",
+     "position": 41,
+     "core": false,
+     "trace": true,
+     "src": "squalane"
+    },
+    {
+     "name": "curcuma longa root extract",
+     "grade": "C",
+     "position": 42,
+     "core": false,
+     "trace": true,
+     "src": "greenTea"
+    },
+    {
+     "name": "helianthus annuus seed oil",
+     "grade": "B",
+     "position": 45,
+     "core": false,
+     "trace": true,
+     "src": "squalane"
+    },
+    {
+     "name": "hydrolyzed hyaluronic acid",
+     "grade": "B",
+     "position": 49,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "hyaluronic acid",
+     "grade": "B",
+     "position": 50,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 64,
+     "core": false,
+     "trace": true,
+     "src": "ceramide"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 65,
+     "core": false,
+     "trace": true,
+     "src": "aadScrub"
+    },
+    {
+     "name": "copper tripeptide-1",
+     "grade": "B",
+     "position": 67,
+     "core": false,
+     "trace": true,
+     "src": "peptides"
+    },
+    {
+     "name": "sodium bicarbonate",
+     "grade": "C",
+     "position": 70,
+     "core": false,
+     "trace": true,
+     "src": "deodorants"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "butylene glycol",
+    "panthenol",
+    "glycerin",
+    "sodium hyaluronate",
+    "hydrolyzed hyaluronic acid",
+    "hyaluronic acid",
+    "ceramide np"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {

@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-12.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-13.
 // Unknown fields are honestly marked, never invented.
 const NXPRODUCTS = [
  {
@@ -127853,16 +127853,18 @@ const NXPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "Niacinamide + Collagen + PDRN / polynucleotide",
   "featureLine": "Cream",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (medicube official website (medicube.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence); niacinamide high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 7,
+   "skin": 7,
+   "trust": 5.5,
    "experience": 5
   },
   "fullSpec": {
@@ -127880,14 +127882,16 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "5.0/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "medicube official website (medicube.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceUrl": "https://medicube.us/products/pdrn-pink-collagen-capsule-cream",
+   "inciMatchedName": "PDRN Pink Collagen Capsule Cream (name match 100%)",
+   "inciList": "Water, Glycerin, Niacinamide, Methylpropanediol, Propanediol, 1,2-Hexanediol, Dipropylene Glycol, Caprylic/Capric Triglyceride, Butylene Glycol, Glycereth-26, Arginine, Carbomer, Cetearyl Alcohol, Cetearyl Olivate, Ethylhexyl Palmitate, Sorbitan Olivate, Squalane, Ammonium Acryloyldimethyltaurate/VP Copolymer, Simethicone, Ethylhexylglycerin, Lithospermum Erythrorhizon Root Extract, Adenosine, Helianthus Annuus (Sunflower) Seed Oil, Polyacrylate-13, Sodium DNA, Disodium EDTA, Polyisobutene, Glyceryl Stearate, Hydrolyzed Sclerotium Gum, Pyrus Communis (Pear) Fruit Extract, Alkanna Tinctoria Root Extract, Rosa Damascena Flower Water, Iris Florentina Root Extract, Polysorbate 20, Cucumis Melo (Melon) Fruit Extract, Sorbitan Isostearate, Hedera Helix (Ivy) Leaf/Stem Extract, Glutathione, Sodium Hyaluronate, Octyldodecanol, Salmon Egg Extract, Hydroxypropyltrimonium Hyaluronate, Tocopherol, Hydrogenated Lecithin, Ceramide NP, Cyanocobalamin, Thioctic Acid, Sodium Acetylated Hyaluronate, Hydrolyzed Collagen Extract, Hydrolyzed Hyaluronic Acid, Acetyl Hexapeptide-8, Copper Tripeptide-1, Caprylyl Glycol, Hyaluronic Acid, Palmitoyl Pentapeptide-4, Palmitoyl Hexapeptide-12, Sodium Hyaluronate Crosspolymer, Hydrolyzed Sodium Hyaluronate, Potassium Hyaluronate",
+   "evidenceActives": "glycerin (#2 on list, strong evidence); niacinamide (#3 on list, strong evidence); squalane (#17 on list, moderate evidence); dimethicone (#19 on list, moderate evidence); sodium hyaluronate (#39 on list, moderate evidence); ceramide np (#45 on list, moderate evidence); hyaluronic acid (#54 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "5★ from 0 ratings",
-   "concernBasis": "Irritation — product type (matching only — not proof it works)"
+   "concernBasis": "Acne — niacinamide #3 on INCI; Dark spots — niacinamide #3 on INCI; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61PJvTVbNVL._AC_UL320_.jpg"
@@ -127910,8 +127914,12 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
    "target:irritation",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -127919,25 +127927,173 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "medicube official website (medicube.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://medicube.us/products/pdrn-pink-collagen-capsule-cream",
+   "inciSourceRegion": "US",
+   "inciMatchedTitle": "PDRN Pink Collagen Capsule Cream",
+   "inciMatchScore": 1,
+   "inciText": "Water, Glycerin, Niacinamide, Methylpropanediol, Propanediol, 1,2-Hexanediol, Dipropylene Glycol, Caprylic/Capric Triglyceride, Butylene Glycol, Glycereth-26, Arginine, Carbomer, Cetearyl Alcohol, Cetearyl Olivate, Ethylhexyl Palmitate, Sorbitan Olivate, Squalane, Ammonium Acryloyldimethyltaurate/VP Copolymer, Simethicone, Ethylhexylglycerin, Lithospermum Erythrorhizon Root Extract, Adenosine, Helianthus Annuus (Sunflower) Seed Oil, Polyacrylate-13, Sodium DNA, Disodium EDTA, Polyisobutene, Glyceryl Stearate, Hydrolyzed Sclerotium Gum, Pyrus Communis (Pear) Fruit Extract, Alkanna Tinctoria Root Extract, Rosa Damascena Flower Water, Iris Florentina Root Extract, Polysorbate 20, Cucumis Melo (Melon) Fruit Extract, Sorbitan Isostearate, Hedera Helix (Ivy) Leaf/Stem Extract, Glutathione, Sodium Hyaluronate, Octyldodecanol, Salmon Egg Extract, Hydroxypropyltrimonium Hyaluronate, Tocopherol, Hydrogenated Lecithin, Ceramide NP, Cyanocobalamin, Thioctic Acid, Sodium Acetylated Hyaluronate, Hydrolyzed Collagen Extract, Hydrolyzed Hyaluronic Acid, Acetyl Hexapeptide-8, Copper Tripeptide-1, Caprylyl Glycol, Hyaluronic Acid, Palmitoyl Pentapeptide-4, Palmitoyl Hexapeptide-12, Sodium Hyaluronate Crosspolymer, Hydrolyzed Sodium Hyaluronate, Potassium Hyaluronate",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 0.98,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "squalane",
+     "grade": "B",
+     "position": 17,
+     "core": true,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 19,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "adenosine",
+     "grade": "B",
+     "position": 22,
+     "core": false,
+     "trace": true,
+     "src": "peptides"
+    },
+    {
+     "name": "helianthus annuus seed oil",
+     "grade": "B",
+     "position": 23,
+     "core": false,
+     "trace": true,
+     "src": "squalane"
+    },
+    {
+     "name": "sodium dna",
+     "grade": "B",
+     "position": 25,
+     "core": false,
+     "trace": true,
+     "src": "pdrn"
+    },
+    {
+     "name": "glutathione",
+     "grade": "C",
+     "position": 38,
+     "core": false,
+     "trace": true,
+     "src": "pigment"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 39,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 43,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 45,
+     "core": true,
+     "trace": true,
+     "src": "ceramide"
+    },
+    {
+     "name": "sodium acetylated hyaluronate",
+     "grade": "B",
+     "position": 48,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "hydrolyzed hyaluronic acid",
+     "grade": "B",
+     "position": 50,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "acetyl hexapeptide-8",
+     "grade": "B",
+     "position": 51,
+     "core": false,
+     "trace": true,
+     "src": "peptides"
+    },
+    {
+     "name": "copper tripeptide-1",
+     "grade": "B",
+     "position": 52,
+     "core": false,
+     "trace": true,
+     "src": "peptides"
+    },
+    {
+     "name": "hyaluronic acid",
+     "grade": "B",
+     "position": 54,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "palmitoyl pentapeptide-4",
+     "grade": "B",
+     "position": 55,
+     "core": false,
+     "trace": true,
+     "src": "peptides"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "niacinamide",
+    "propanediol",
+    "butylene glycol",
+    "squalane",
+    "dimethicone",
+    "sodium hyaluronate",
+    "ceramide np",
+    "hydrolyzed hyaluronic acid",
+    "hyaluronic acid"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
