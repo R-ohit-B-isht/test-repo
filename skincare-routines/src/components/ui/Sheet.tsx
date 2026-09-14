@@ -7,6 +7,12 @@ interface Props { open: boolean; onClose: () => void; title: string; children: R
 
 const EASE = [0.23, 1, 0.32, 1] as const;
 
+/** Escape closes only the sheet stacked on top (a product sheet opened over the chat drawer). */
+function isTopmost(panel: HTMLElement | null) {
+  const dialogs = document.querySelectorAll('[role="dialog"][aria-modal="true"]');
+  return !!panel && dialogs[dialogs.length - 1] === panel;
+}
+
 /** Right-side sheet (bottom sheet on phones). Focus is trapped inside, Esc closes, body scroll locks. `footer` pins a Booking-style action bar under the scroll area. */
 export function Sheet({ open, onClose, title, children, wide, narrow, footer, headerExtra, bodyClassName }: Props) {
   const panel = useRef<HTMLDivElement>(null);
@@ -14,11 +20,12 @@ export function Sheet({ open, onClose, title, children, wide, narrow, footer, he
   useEffect(() => {
     if (!open) return;
     const prev = document.activeElement as HTMLElement | null;
+    const prevOverflow = document.body.style.overflow;
     document.body.style.overflow = 'hidden';
     panel.current?.focus();
-    const onKey = (e: KeyboardEvent) => { if (e.key === 'Escape') onClose(); };
+    const onKey = (e: KeyboardEvent) => { if (e.key === 'Escape' && isTopmost(panel.current)) onClose(); };
     window.addEventListener('keydown', onKey);
-    return () => { document.body.style.overflow = ''; window.removeEventListener('keydown', onKey); prev?.focus(); };
+    return () => { document.body.style.overflow = prevOverflow; window.removeEventListener('keydown', onKey); prev?.focus(); };
   }, [open, onClose]);
   const dur = reduced ? 0 : 0.28;
   return (

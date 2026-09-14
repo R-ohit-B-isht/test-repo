@@ -7,6 +7,7 @@ import { closeChat, deleteConversation, newChat, openConversation, retryLast, se
 import { usePage } from '../../chat/pageContext';
 import { suggestionsFor } from '../../chat/suggestions';
 import { useDevPublish } from '../dev/devStore';
+import { ChatProductSheet } from './ChatProductSheet';
 import { Composer } from './Composer';
 import { HistoryList } from './HistoryList';
 import { MessageView } from './MessageView';
@@ -14,7 +15,7 @@ import { Suggestions } from './Suggestions';
 
 /** Site-wide Gemini drawer. Answers come only from chat-api tools over the same public/data the pages render. */
 export function ChatDrawer() {
-  const { open, view, messages, busy, activeId, conversations, storageOk } = useChat();
+  const { open, view, messages, busy, activeId, conversations, storageOk, preview } = useChat();
   const page = usePage();
   const manifest = useManifest();
   const [params] = useSearchParams();
@@ -52,6 +53,7 @@ export function ChatDrawer() {
     );
 
   return (
+    <>
     <Sheet open={open} onClose={closeChat} title={view === 'history' ? 'Chat history' : 'Ask the Ledger'} narrow bodyClassName="flex min-h-0 flex-1 flex-col"
       headerExtra={headerExtra}
       footer={view === 'history' ? undefined :
@@ -77,5 +79,7 @@ export function ChatDrawer() {
         )}
       </div>
     </Sheet>
+    <ChatProductSheet preview={open ? preview : null} />
+    </>
   );
 }

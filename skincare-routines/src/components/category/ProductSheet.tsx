@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { useState, type ReactNode } from 'react';
 import { ExternalLink } from 'lucide-react';
 import { clsx } from 'clsx';
 import { Sheet } from '../ui/Sheet';
@@ -9,15 +9,15 @@ import type { PlaceTag, ProductRow, ScoreKey, SourceRef, Zone } from '../../lib/
 import { scoreMetaFor } from '../../domain/scoreMeta';
 import { rupees, specLabel, storeLabel } from '../../lib/format';
 
-interface Props { category: string; zone: Zone; shards: number; row: ProductRow | null; rank: number; scope: PlaceTag; weights: Record<ScoreKey, number>; sources: Record<string, SourceRef>; onClose: () => void }
+interface Props { category: string; zone: Zone; shards: number; row: ProductRow | null; rank: number; scope: PlaceTag; weights: Record<ScoreKey, number>; sources: Record<string, SourceRef>; onClose: () => void; headerExtra?: ReactNode }
 
-export function ProductSheet({ category, zone, shards, row, rank, scope, weights, sources, onClose }: Props) {
+export function ProductSheet({ category, zone, shards, row, rank, scope, weights, sources, onClose, headerExtra }: Props) {
   const detail = useDetail(category, row?.id ?? null, shards);
   const scoreMeta = scoreMetaFor(zone);
   const [img, setImg] = useState(0);
   const title = row ? `${row.b} — ${row.m}` : '';
   return (
-    <Sheet open={!!row} onClose={onClose} title={title}
+    <Sheet open={!!row} onClose={onClose} title={title} headerExtra={headerExtra}
       footer={row && detail.status === 'ready' ? (
         <div className="flex items-center gap-3">
           <div className="min-w-0 flex-1">

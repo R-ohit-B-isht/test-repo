@@ -30,6 +30,8 @@ export interface CategoryMeta {
   byConcern: Record<string, number>;
   stores: { flipkart: number; amazon: number };
   priceMax: number;
+  /** Ingredient columns emitted for the assistant: rows with a verified INCI list vs. only a seller ingredient line. */
+  inci?: { verified: number; claimed: number; bytes: number };
 }
 
 export interface Manifest {
@@ -53,8 +55,26 @@ export interface Manifest {
   /** Cross-category search columns emitted for the in-browser assistant (see scripts/lib/search-index.mjs). */
   search?: { file: string; gzip: string; rows: number; bytes: number };
   /** Sourced ingredient knowledge (graded actives, flags, pairing/usage guidance) for the assistant (scripts/lib/knowledge-file.mjs). */
-  knowledge?: { file: string; actives: number; pairings: number; families: number };
+  knowledge?: { file: string; actives: number; pairings: number; families: number; aliases?: number };
+  /** Per-category ingredient columns (`<id>.<suffix>`) for ingredient-aware product filtering (scripts/lib/inci-index.mjs). */
+  inci?: { suffix: string; gzip: string; verified: number; claimed: number; bytes: number };
 }
+
+/** public/data/<category>.inci.json — aligned with `CategoryData.items`; normalised text (see scripts/lib/inci-aliases.cjs). */
+export interface InciColumns {
+  id: string;
+  generatedAt: string;
+  n: number;
+  verified: number;
+  claimedRows: number;
+  /** Normalised declared INCI for rows whose list is verified (full/partial); '' otherwise. */
+  inci: string[];
+  /** Normalised seller key-ingredients line for rows without a verified list; '' otherwise. */
+  claimed: string[];
+}
+
+/** One row of the common-name → INCI-name table (`whole` names must be the entire ingredient, e.g. "alcohol"). */
+export interface IngredientAlias { id: string; label: string; aliases: string[]; inci: string[]; whole: string[] }
 
 /** public/data/knowledge.json — the scorer's own ingredient tables plus sourced pairing guidance. `src` keys into `Manifest.sources`. */
 export interface IngredientFamily { id: string; label: string; aliases: string[]; inci: string[] }
@@ -78,6 +98,8 @@ export interface KnowledgeData {
   flags: KnowledgeFlag[];
   pairings: Pairing[];
   usage: UsageNote[];
+  /** Absent on datasets generated before ingredient search existed. */
+  ingredientAliases?: IngredientAlias[];
 }
 
 /** Columnar search file: one row per ranked placement; indices point into `cats` / `brands` / `stores` / `evKeys` / `esKeys`. */

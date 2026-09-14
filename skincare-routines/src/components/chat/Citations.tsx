@@ -1,12 +1,14 @@
 import { Link } from 'react-router-dom';
-import { ArrowUpRight, ExternalLink } from 'lucide-react';
+import { ChevronRight, ExternalLink } from 'lucide-react';
 import type { Citations as CitationsPayload, CitedProduct } from '../../chat/types';
+import { openProduct } from '../../chat/chatStore';
 import { rupees, storeLabel } from '../../lib/format';
 import { EvidenceBadge, ScoreBadge } from '../ui/primitives';
 
 interface Props { citations: CitationsPayload; cited: string[]; onNavigate: () => void }
 
-/** Yelp-Assistant-style ranked entity cards for the listings the answer cited, then category links and the external INCI / maker sources. */
+/** Yelp-Assistant-style ranked entity cards for the listings the answer cited — tap one and its product sheet opens over the
+ * chat, exactly as it does from the ranked list — then category links and the external INCI / maker sources. */
 export function Citations({ citations, cited, onNavigate }: Props) {
   const order = new Map(cited.map((id, i) => [id, i]));
   const products = citations.products.slice().sort((a, b) => (order.get(a.id) ?? 99) - (order.get(b.id) ?? 99)).slice(0, 6);
@@ -16,7 +18,7 @@ export function Citations({ citations, cited, onNavigate }: Props) {
     <div className="mt-3 space-y-3">
       {products.length > 0 && (
         <ul className="space-y-2" aria-label="Listings cited">
-          {products.map((p) => <ProductCiteCard key={p.id} p={p} onNavigate={onNavigate} />)}
+          {products.map((p) => <ProductCiteCard key={p.id} p={p} />)}
         </ul>
       )}
       {categories.length > 0 && (
@@ -52,11 +54,11 @@ const withoutBrand = (brand: string, title: string) => {
   return t.toLowerCase().startsWith(brand.toLowerCase()) ? t.slice(brand.length).replace(/^[\s\-–·:,]+/, '') || t : t;
 };
 
-function ProductCiteCard({ p, onNavigate }: { p: CitedProduct; onNavigate: () => void }) {
+function ProductCiteCard({ p }: { p: CitedProduct }) {
   return (
     <li>
-      <Link to={`/c/${p.category}?open=${encodeURIComponent(p.id)}`} onClick={onNavigate}
-        className="card card-hover press flex items-center gap-3 px-3 py-2.5 no-underline">
+      <button type="button" onClick={() => openProduct(p.category, p.id)} aria-label={`Open ${p.brand} ${p.title}`}
+        className="card card-hover press flex w-full items-center gap-3 px-3 py-2.5 text-left">
         <span className="mono w-14 shrink-0 text-[12px] font-bold text-secondary">{p.rank != null ? `#${p.rank}` : '—'}{p.of != null && <span className="font-medium text-muted"> /{p.of.toLocaleString('en-IN')}</span>}</span>
         <span className="min-w-0 flex-1">
           <span className="block truncate text-[13px] font-bold text-display">{p.brand} <span className="font-medium text-primary">{withoutBrand(p.brand, p.title)}</span></span>
@@ -67,8 +69,8 @@ function ProductCiteCard({ p, onNavigate }: { p: CitedProduct; onNavigate: () =>
           </span>
         </span>
         {p.score != null && <ScoreBadge score={p.score} showVerdict={false} />}
-        <ArrowUpRight size={14} className="shrink-0 text-muted" aria-hidden />
-      </Link>
+        <ChevronRight size={14} className="shrink-0 text-muted" aria-hidden />
+      </button>
     </li>
   );
 }

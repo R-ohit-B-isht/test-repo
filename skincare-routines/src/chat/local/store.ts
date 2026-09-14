@@ -2,9 +2,9 @@
  * files the pages render from (through the shared fetch-once cache), so the assistant can never disagree with the UI. */
 import { loadJson } from '../../data/fetchJson';
 import { buildIndex, type CategoryIndex } from '../../domain/index';
-import type { Benchmark, CategoryData, CategoryMeta, KnowledgeData, Manifest, ProductDetail, ProductRow, RoutinesData } from '../../lib/types';
+import type { Benchmark, CategoryData, CategoryMeta, InciColumns, IngredientAlias, KnowledgeData, Manifest, ProductDetail, ProductRow, RoutinesData } from '../../lib/types';
 import { SearchIndex } from './search';
-import { loadSearchColumns } from './searchFile';
+import { loadInciColumns, loadSearchColumns } from './searchFile';
 
 export class DataError extends Error {}
 
@@ -28,7 +28,13 @@ export class CategoryView {
 
   tagsOf(item: ProductRow) { return item.t.map((t) => this.tagIndex[t]); }
   hasTags(item: ProductRow, wanted: number[]) { return wanted.every((t) => item.t.includes(t)); }
+  /** Site filter-panel semantics: each group is one constraint (any of its tags, or all of them for `and` groups). */
+  matchesTagGroups(item: ProductRow, groups: TagGroupQuery[]) {
+    return groups.every((g) => (g.all ? g.tags.every((t) => item.t.includes(t)) : g.tags.some((t) => item.t.includes(t))));
+  }
 }
+
+export interface TagGroupQuery { group: string; tags: number[]; all: boolean }
 
 function shardOf(id: string, shards: number) {
   let h = 0;
@@ -39,6 +45,7 @@ function shardOf(id: string, shards: number) {
 export class LedgerStore {
   private readonly base: string;
   private readonly categories = new Map<string, CategoryView>();
+  private readonly inciCols = new Map<string, Promise<InciColumns>>();
   private searchPromise: Promise<SearchIndex> | null = null;
   private manifestCache: Manifest | null = null;
 
@@ -80,6 +87,28 @@ export class LedgerStore {
     const m = await this.manifest();
     if (!m.knowledge) throw new DataError('This dataset was generated without the ingredient knowledge file (knowledge.json).');
     return loadJson<KnowledgeData>(`${this.base}${m.knowledge.file}`);
+  }
+
+  /** Normalised INCI / seller-ingredient columns for one category, aligned with `CategoryView.items` (fetched once). */
+  inci(categoryId: string): Promise<InciColumns> {
+    const cached = this.inciCols.get(categoryId);
+    if (cached) return cached;
+    const p = this.manifest().then(async (m) => {
+      if (!m.inci) throw new DataError('This dataset was generated without ingredient columns (<category>.inci.json) — rebuild the data.');
+      const cols = await loadInciColumns(`${this.base}${categoryId}.${m.inci.suffix}`, `${this.base}${categoryId}.${m.inci.gzip}`);
+      if (cols.generatedAt !== m.generatedAt) throw new DataError(`Ingredient columns for ${categoryId} (${cols.generatedAt}) and manifest (${m.generatedAt}) are from different builds — reload the page.`);
+      return cols;
+    });
+    this.inciCols.set(categoryId, p);
+    p.catch(() => { this.inciCols.delete(categoryId); });
+    return p;
+  }
+
+  /** Common-name → INCI alias table from knowledge.json (empty on older datasets, so plain terms still work). */
+  async ingredientAliases(): Promise<IngredientAlias[]> {
+    const m = await this.manifest();
+    if (!m.knowledge) return [];
+    return (await loadJson<KnowledgeData>(`${this.base}${m.knowledge.file}`)).ingredientAliases ?? [];
   }
 
   /** The cross-category index is a few MB, so it is fetched once, on the first tool that needs it. */

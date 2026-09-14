@@ -9,9 +9,12 @@ import { transportFor } from './transport';
 import type { AssistantMessage, ChatEvent, Message, PageContext } from './types';
 
 export type ChatView = 'chat' | 'history';
+/** A cited listing opened from an answer; shown in the same product sheet the list pages use, over the chat. */
+export interface ProductPreview { category: string; id: string }
 export interface ChatState {
   open: boolean; view: ChatView; messages: Message[]; busy: boolean; lastPage: PageContext | null;
   activeId: string | null; conversations: ConversationSummary[];
+  preview: ProductPreview | null;
   /** false when the browser refused to persist (private mode / quota): chats then live only until the tab closes. */
   storageOk: boolean;
 }
@@ -22,7 +25,7 @@ const SAVE_DEBOUNCE_MS = 300;
 const loaded = storage.load();
 let conversations: Conversation[] = loaded.conversations;
 let state: ChatState = {
-  open: false, view: 'chat', busy: false, lastPage: null,
+  open: false, view: 'chat', busy: false, lastPage: null, preview: null,
   activeId: loaded.active, messages: conversations.find((c) => c.id === loaded.active)?.messages ?? [],
   conversations: conversations.map(summarise), storageOk: loaded.ok,
 };
@@ -58,7 +61,9 @@ function patchAssistant(convId: string, id: number, patch: Partial<AssistantMess
 }
 
 export const openChat = () => set({ open: true });
-export const closeChat = () => set({ open: false });
+export const closeChat = () => set({ open: false, preview: null });
+export const openProduct = (category: string, id: string) => set({ preview: { category, id } });
+export const closeProduct = () => set({ preview: null });
 export const toggleChat = () => set({ open: !state.open });
 export const showHistory = () => set({ view: 'history' });
 export const showChat = () => set({ view: 'chat' });

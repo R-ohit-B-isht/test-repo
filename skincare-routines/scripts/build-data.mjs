@@ -15,6 +15,7 @@ import { fileURLToPath } from 'node:url';
 import { CATEGORIES, WEIGHTS, CRITERIA, ROUTINE_WEIGHTS, ROUTINE_CRITERIA, PHASES, phaseOf, ROUTINE_CATEGORY_LABELS, ZONE_LABELS, SCOPE_KEYS, scopeGroupOf } from './lib/registry.mjs';
 import { assertBenchmarkSet, matchBenchmark, publicBenchmark } from './lib/benchmarks.mjs';
 import { SearchColumns } from './lib/search-index.mjs';
+import { InciColumns, INCI_GZIP_SUFFIX, INCI_SUFFIX } from './lib/inci-index.mjs';
 import { writeKnowledge } from './lib/knowledge-file.mjs';
 
 const require = createRequire(import.meta.url);
@@ -88,6 +89,7 @@ assertBenchmarkSet(BENCHMARKS, new Set(CATEGORIES.map((c) => c.id)));
 
 let grandTotal = 0;
 const search = new SearchColumns(manifest.generatedAt);
+const inciTotals = { verified: 0, claimed: 0, bytes: 0 };
 for (const cat of CATEGORIES) {
   const raw = loadGlobal(cat.file, cat.global);
   const seen = new Set();
@@ -96,6 +98,7 @@ for (const cat of CATEGORIES) {
   const tagCount = new Map();
   const items = [];
   const details = Array.from({ length: SHARDS }, () => ({}));
+  const inciCols = new InciColumns(cat.id, manifest.generatedAt);
   const scopeGroup = scopeGroupOf(cat);
   const byScope = Object.fromEntries(SCOPE_KEYS[scopeGroup].map((k) => [k, 0]));
   for (const rec of raw) {
@@ -117,6 +120,7 @@ for (const cat of CATEGORIES) {
       ...(rec.evidence.inci === 'full' && rec.evidence.inciSourceKind && rec.evidence.inciSourceKind !== 'listing' ? { es: rec.evidence.inciSourceKind } : {}),
       ...(rec.step ? { step: rec.step } : {}),
     });
+    inciCols.add(rec);
     details[shardOf(rec.id)][rec.id] = {
       title: rec.title, highlight: rec.highlight, pros: rec.pros, cons: rec.cons, fullSpec: rec.fullSpec,
       images: rec.images, buyUrl: rec.buyUrl, buyStore: rec.buyStore, tags: rec.tags, evidence: rec.evidence,
@@ -131,6 +135,8 @@ for (const cat of CATEGORIES) {
   }
   fs.writeFileSync(path.join(OUT, `${cat.id}.json`), JSON.stringify({ id: cat.id, count: items.length, tagIndex, facets, items }));
   search.addCategory(cat.id, items);
+  const inciMeta = inciCols.write(OUT);
+  inciTotals.verified += inciMeta.verified; inciTotals.claimed += inciMeta.claimed; inciTotals.bytes += inciMeta.bytes;
   details.forEach((d, i) => fs.writeFileSync(path.join(OUT, `${cat.id}.d${i}.json`), JSON.stringify(d)));
   manifest.categories.push({
     id: cat.id, label: cat.label, kicker: cat.kicker, zone: cat.zone, blurb: cat.blurb, facets: cat.facets, scopeGroup,
@@ -138,6 +144,7 @@ for (const cat of CATEGORIES) {
     byConcern: Object.fromEntries([...tagCount.entries()].filter(([tag]) => tag.startsWith('target:')).map(([tag, n]) => [tag.slice(7), n])),
     stores: { flipkart: tagCount.get('store:flipkart') || 0, amazon: tagCount.get('store:amazon') || 0 },
     priceMax: Math.max(...items.map((x) => x.p)),
+    inci: inciMeta,
   });
   grandTotal += items.length;
   const bench = BENCHMARKS.find((b) => b.category === cat.id);
@@ -170,7 +177,9 @@ for (const cat of CATEGORIES) {
 manifest.total = grandTotal;
 manifest.search = search.write(OUT);
 manifest.knowledge = writeKnowledge(OUT, manifest.generatedAt, CATEGORIES.map((c) => c.id));
-console.log(`knowledge      ${String(manifest.knowledge.actives).padStart(5)} actives, ${manifest.knowledge.pairings} pairings`);
+manifest.inci = { suffix: INCI_SUFFIX, gzip: INCI_GZIP_SUFFIX, ...inciTotals };
+console.log(`knowledge      ${String(manifest.knowledge.actives).padStart(5)} actives, ${manifest.knowledge.pairings} pairings, ${manifest.knowledge.aliases} ingredient aliases`);
+console.log(`inci index     ${String(inciTotals.verified).padStart(5)} verified lists, ${inciTotals.claimed} seller lines, ${(inciTotals.bytes / 1e6).toFixed(1)} MB raw`);
 console.log(`search index   ${String(manifest.search.rows).padStart(5)} rows, ${(manifest.search.bytes / 1e6).toFixed(1)} MB raw, ${(fs.statSync(path.join(OUT, 'search.json.gz')).size / 1e6).toFixed(1)} MB gz`);
 fs.writeFileSync(path.join(OUT, 'manifest.json'), JSON.stringify(manifest));
 console.log(`total products ${grandTotal} → ${path.relative(ROOT, OUT)}`);

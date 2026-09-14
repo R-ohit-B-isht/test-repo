@@ -11,6 +11,7 @@ import asyncio
 import time
 from collections import OrderedDict
 from collections.abc import Callable
+from dataclasses import dataclass
 from typing import Any
 
 from .search import SearchIndex
@@ -57,6 +58,13 @@ def shard_of(product_id: str, shards: int) -> int:
     return h % shards
 
 
+@dataclass(frozen=True)
+class TagGroupQuery:
+    group: str
+    tags: list[int]
+    all: bool
+
+
 class CategoryView:
     """A loaded compact category with its rank array and tag lookup."""
 
@@ -77,6 +85,11 @@ class CategoryView:
         have = set(item["t"])
         return all(t in have for t in wanted)
 
+    def matches_tag_groups(self, item: dict, groups: list[TagGroupQuery]) -> bool:
+        """Site filter-panel semantics: each group is one constraint (any of its tags, or all of them for `and` groups)."""
+        have = set(item["t"])
+        return all((all(t in have for t in g.tags) if g.all else any(t in have for t in g.tags)) for g in groups)
+
 
 class LedgerStore:
     def __init__(self, source: JsonSource, *, refresh_seconds: int, category_cache: int, shard_cache: int):
@@ -89,6 +102,7 @@ class LedgerStore:
         self.index = SearchIndex()
         self._categories = LRU(category_cache)
         self._shards = LRU(shard_cache)
+        self._inci = LRU(category_cache)
         self._checked_at = 0.0
         self._lock = asyncio.Lock()
         self._listeners: list[Callable[[str], None]] = []
@@ -133,6 +147,7 @@ class LedgerStore:
         self.knowledge = None
         self._categories.clear()
         self._shards.clear()
+        self._inci.clear()
         self.indexed_at = time.time()
         self.last_error = None
         for listener in self._listeners:
@@ -185,6 +200,28 @@ class LedgerStore:
                 raise DataError("This dataset was generated without the ingredient knowledge file (knowledge.json).")
             self.knowledge = await self.source.read(meta["file"])
         return self.knowledge
+
+    async def inci(self, category_id: str) -> dict:
+        """Normalised INCI / seller-ingredient columns aligned with the category's items (see scripts/lib/inci-index.mjs)."""
+        manifest = await self.ensure_fresh()
+        cached = self._inci.get(category_id)
+        if cached is not None:
+            return cached
+        meta = manifest.get("inci")
+        if not meta:
+            raise DataError("This dataset was generated without ingredient columns (<category>.inci.json) — rebuild the data.")
+        cols = await self.source.read(f"{category_id}.{meta['suffix']}")
+        if cols.get("generatedAt") != manifest.get("generatedAt"):
+            raise DataError(f"Ingredient columns for {category_id} and the manifest are from different builds — retry shortly.")
+        self._inci.put(category_id, cols)
+        return cols
+
+    async def ingredient_aliases(self) -> list[dict]:
+        """Common-name → INCI alias table from knowledge.json (empty on older datasets, so plain terms still work)."""
+        manifest = await self.ensure_fresh()
+        if not manifest.get("knowledge"):
+            return []
+        return list((await self.get_knowledge()).get("ingredientAliases", []))
 
     def stats(self) -> dict:
         return {

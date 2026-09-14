@@ -26,6 +26,10 @@ def _write_manifest(root: Path, manifest: dict, ids: list[str], version: str) ->
     m["benchmarks"] = [b for b in manifest.get("benchmarks", []) if b["category"] in ids]
     m["total"] = sum(c["count"] for c in m["categories"])
     (root / "manifest.json").write_text(json.dumps(m))
+    for cid in ids:  # ingredient columns are version-checked against the manifest, so they carry the test version too
+        cols = json.loads((DATA / f"{cid}.{manifest['inci']['suffix']}").read_text())
+        cols["generatedAt"] = version
+        (root / f"{cid}.{manifest['inci']['suffix']}").write_text(json.dumps(cols))
     return m
 
 

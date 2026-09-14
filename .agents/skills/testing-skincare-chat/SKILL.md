@@ -39,7 +39,10 @@ If a uvicorn process was started from an older checkout, its SSE error payload m
 - Trigger: `button[title="Ask the Ledger (?)"]`; `?` key toggles when focus is not in an input. With xdotool, send `shift+slash` — the `question` keysym may not fire the handler.
 - Drawer: `[role=dialog][aria-label="Ask the Ledger"]`; composer `textarea[aria-label="Ask the assistant"]`; Stop `button[aria-label="Stop generating"]`; New chat `button[aria-label="New chat"]`; Retry button text "Try again".
 - Lists: `[aria-label="Suggested questions"]`, `[aria-label="Follow-up questions"]`.
-- Citation deep-link format: `#/c/<category>?open=<listing-id>` opens the product sheet and closes the drawer.
+- Citation cards / inline `#rank` pills are `<button class="chat-cite">` (not anchors) and open a `ChatProductSheet` OVER the chat (second `[role=dialog]`, hash unchanged); header button reads "In <Category>" on desktop and collapses to "List" at ≤ sm — it navigates to `#/c/<cat>?open=<id>` (drawer closes, `?dev=1` is dropped, but the conversation persists when the drawer is reopened). Escape / X closes only the top dialog. Assert with `[...document.querySelectorAll('[role=dialog]')].map(d=>d.getAttribute('aria-label'))` → `["Ask the Ledger", "<Brand — Product…>"]`.
+- Ingredient lookup (≥ ingredient-aware `get_top_products`): trace args should show `ingredients`/`without_ingredients`/`title_words`/`tags` (same facet group = any-of; e.g. all `water:*` together). Reproduce the tool's counts offline with a node script over `public/data/<cat>.json` + `<cat>.inci.json` + `knowledge.json.ingredientAliases` (see /tmp/gt.mjs pattern in QA notes): `matched` / `sellerClaimedOnly` / `skippedNoVerifiedInci` must equal the numbers Gemini quotes. Seller-only cites legitimately render "unverified" pills here.
+- Navigating via the URL bar reloads the page and drops any console-installed `window.__errors` hook — re-install it after every hard navigation before reading it.
+- Screenshot coordinates ARE the click coordinates (1024×768 tool space); don't double them from a `scale: 0.5` screenshot — clicks > 1024 are clamped/lost.
 - Scroll lock check: `document.body.style.overflow === 'hidden'` while open.
 
 ## Real-Gemini answers

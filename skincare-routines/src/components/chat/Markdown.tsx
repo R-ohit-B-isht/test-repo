@@ -1,5 +1,6 @@
 import { useMemo } from 'react';
 import { Link } from 'react-router-dom';
+import { openProduct } from '../../chat/chatStore';
 import { clsx } from 'clsx';
 import { parseMarkdown, type Block, type Inline } from '../../chat/markdown';
 import type { CitedCategory, CitedProduct } from '../../chat/types';
@@ -60,9 +61,9 @@ function CitePill({ id, cites, onNavigate }: { id: string; cites: CiteIndex; onN
   const p = cites.products.get(id);
   if (p) {
     return (
-      <Link to={`/c/${p.category}?open=${encodeURIComponent(p.id)}`} onClick={onNavigate} className="chat-cite" title={`${p.brand} ${p.title}`}>
+      <button type="button" onClick={() => openProduct(p.category, p.id)} className="chat-cite" title={`${p.brand} ${p.title}`}>
         {p.rank != null ? `#${p.rank}` : p.brand}
-      </Link>
+      </button>
     );
   }
   return <span className="chat-cite chat-cite-unverified" title="Not returned by any site tool in this answer">unverified</span>;
