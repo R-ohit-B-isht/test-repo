@@ -17,6 +17,7 @@ import { InstallButton } from '../pwa/InstallButton';
 import { PwaStatus } from '../pwa/PwaStatus';
 
 const NAV = [
+  { to: '/personal', label: 'Your week', short: 'Your week' },
   { to: '/', label: 'Routines', end: true },
   { to: '/products', label: 'Products' },
   { to: '/c/pigmentation', label: 'Pigmentation protocol', short: 'Pigmentation' },

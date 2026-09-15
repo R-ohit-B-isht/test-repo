@@ -1,0 +1,74 @@
+.personal-page { max-width: 1248px; margin-inline: auto; }
+.personal-hero { display: grid; gap: 32px; padding-block: 56px 40px; }
+.personal-kicker-line { width: 24px; height: 2px; background: var(--accent); }
+.personal-hero h1 { margin-top: 24px; font-size: clamp(40px, 5.2vw, 64px); line-height: 1.08; letter-spacing: -.045em; }
+.personal-hero h1 span { color: var(--accent); }
+.personal-lede { max-width: 440px; margin-top: 24px; font-size: 16px; line-height: 1.65; color: var(--secondary); }
+.personal-hero-note { align-self: center; padding: 24px; border-left: 2px solid var(--accent); }
+.personal-hero-note > p { margin-block: 16px; font-size: 24px; line-height: 1.3; font-weight: 700; letter-spacing: -.025em; color: var(--display); }
+.personal-views { display: flex; gap: 24px; border-bottom: 1px solid var(--line); margin-bottom: 32px; }
+.personal-views button { min-height: 48px; padding: 12px 0; font-size: 14px; font-weight: 700; color: var(--secondary); border-bottom: 3px solid transparent; }
+.personal-views button[aria-pressed=true] { color: var(--accent); border-bottom-color: var(--accent); }
+.personal-layout { display: grid; gap: 40px; scroll-margin-top: 128px; }
+.personal-week { padding: 24px; }
+.personal-days { display: grid; grid-template-columns: repeat(7, minmax(0, 1fr)); gap: 8px; }
+.personal-day { display: flex; flex-direction: column; align-items: center; gap: 8px; padding: 12px 4px; border: 1px solid var(--line); border-radius: 16px; background: var(--surface); color: var(--secondary); font-size: 12px; }
+.personal-day strong { font-size: 20px; color: var(--display); font-variant-numeric: tabular-nums; }
+.personal-day[aria-pressed=true] { background: var(--accent); border-color: var(--accent); color: var(--accent-ink); }
+.personal-day[aria-pressed=true] strong { color: var(--accent-ink); }
+.personal-day-dot { height: 4px; width: 4px; border-radius: 50%; background: transparent; }
+.personal-day[aria-current=date] .personal-day-dot { background: currentColor; }
+.personal-period { display: flex; gap: 8px; margin-block: 24px 32px; padding: 4px; border: 1px solid var(--line); border-radius: 999px; background: var(--raised); }
+.personal-period button { display: flex; flex: 1; gap: 8px; justify-content: center; align-items: center; min-height: 44px; border-radius: 999px; color: var(--secondary); font-size: 14px; font-weight: 700; }
+.personal-period button span { font-size: 12px; font-weight: 400; }
+.personal-period button[aria-pressed=true] { background: var(--surface); color: var(--accent); box-shadow: var(--shadow); }
+.personal-session-heading { display: flex; align-items: center; justify-content: space-between; gap: 16px; }
+.personal-session-heading h2 { margin-top: 8px; font-size: 28px; color: var(--display); line-height: 1.25; letter-spacing: -.03em; }
+.personal-count { flex-shrink: 0; padding: 8px 12px; background: var(--raised); border-radius: 999px; font-size: 12px; color: var(--secondary); }
+.personal-progress { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 8px; margin-block: 24px 8px; font-size: 12px; color: var(--secondary); }
+.personal-progress button { display: inline-flex; align-items: center; gap: 4px; color: var(--accent); }
+.personal-progress button:disabled { opacity: .5; cursor: default; }
+.personal-progress progress { appearance: none; width: 100%; height: 4px; border: 0; border-radius: 999px; overflow: hidden; background: var(--raised); color: var(--accent); }
+.personal-progress progress::-webkit-progress-bar { background: var(--raised); }
+.personal-progress progress::-webkit-progress-value { background: var(--accent); }
+.personal-progress progress::-moz-progress-bar { background: var(--accent); }
+.personal-steps { list-style: none; }
+.personal-step { padding-bottom: 32px; }
+.personal-step:last-child { padding-bottom: 0; }
+.personal-step-heading { display: flex; align-items: center; gap: 16px; margin-bottom: 16px; }
+.personal-step-check { display: flex; justify-content: center; align-items: center; width: 40px; height: 40px; flex-shrink: 0; border: 1px solid var(--line); border-radius: 50%; background: var(--surface); color: var(--accent); font: 700 12px ui-monospace, monospace; }
+.personal-step-check[aria-pressed=true] { background: var(--accent); color: var(--accent-ink); border-color: var(--accent); }
+.personal-body-label { padding: 4px 8px; background: var(--raised); border-radius: 4px; font-size: 12px; color: var(--secondary); }
+.personal-product { min-width: 0; padding: 16px; border: 1px solid var(--line); background: var(--surface); border-radius: 16px; }
+.personal-product-image { display: flex; align-items: center; justify-content: center; width: 64px; height: 80px; flex-shrink: 0; overflow: hidden; border-radius: 8px; background: white; padding: 4px; }
+.personal-product-image img { width: 100%; height: 100%; object-fit: contain; }
+.personal-rank { display: inline-flex; flex-wrap: wrap; gap: 4px; border-radius: 4px; color: var(--accent); font-weight: 700; text-decoration: none; }
+.personal-rank:hover { text-decoration: underline; }
+.personal-detail-link { display: inline-flex; align-items: center; gap: 4px; min-height: 32px; color: var(--accent); font-size: 12px; font-weight: 700; }
+.personal-overview { padding: 20px; }
+.personal-overview summary { display: flex; align-items: center; gap: 12px; min-height: 44px; cursor: pointer; font-size: 16px; font-weight: 700; color: var(--display); }
+.personal-overview summary::after { content: '+'; margin-left: auto; color: var(--accent); }
+.personal-overview[open] summary::after { content: '−'; }
+.personal-overview[open] > .personal-steps { padding-top: 24px; }
+@media (min-width: 640px) {
+  .personal-step-content { margin-left: 56px; }
+  .personal-hero { padding-top: 64px; }
+}
+@media (min-width: 1024px) {
+  .personal-hero { grid-template-columns: minmax(0, 1fr) 320px; gap: 64px; }
+  .personal-layout { grid-template-columns: minmax(0, 1fr) 320px; gap: 40px; }
+  .personal-sidebar { align-self: start; position: sticky; top: 96px; }
+}
+@media (max-width: 639px) {
+  .personal-hero { padding-top: 32px; gap: 24px; }
+  .personal-hero-note { padding: 8px 0 8px 16px; }
+  .personal-hero-note > p { font-size: 20px; margin-block: 8px; }
+  .personal-days { gap: 4px; }
+  .personal-day { border-radius: 12px; }
+  .personal-views { gap: 20px; }
+  .personal-views button { font-size: 13px; }
+}
+@media (prefers-reduced-motion: no-preference) {
+  .personal-enter { animation: personal-enter 220ms var(--ease-out-expo); }
+  @keyframes personal-enter { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: translateY(0); } }
+}

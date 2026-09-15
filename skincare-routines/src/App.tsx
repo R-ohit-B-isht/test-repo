@@ -7,6 +7,7 @@ const HomePage = lazy(() => import('./pages/HomePage'));
 const ProductsHubPage = lazy(() => import('./pages/ProductsHubPage'));
 const CategoryPage = lazy(() => import('./pages/CategoryPage'));
 const RoutinePage = lazy(() => import('./pages/RoutinePage'));
+const PersonalPage = lazy(() => import('./pages/PersonalPage'));
 
 export function App() {
   return (
@@ -17,6 +18,7 @@ export function App() {
           <Route path="products" element={<Suspense fallback={<StatusBlock title="Loading…" />}><ProductsHubPage /></Suspense>} />
           <Route path="c/:id" element={<Suspense fallback={<StatusBlock title="Loading…" />}><CategoryPage /></Suspense>} />
           <Route path="routine" element={<Suspense fallback={<StatusBlock title="Loading…" />}><RoutinePage /></Suspense>} />
+          <Route path="personal" element={<Suspense fallback={<StatusBlock title="Loading…" />}><PersonalPage /></Suspense>} />
           <Route path="*" element={<StatusBlock title="Page not found" body="That route does not exist on this site." />} />
         </Route>
       </Routes>

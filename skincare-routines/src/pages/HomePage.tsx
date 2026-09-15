@@ -35,6 +35,10 @@ export default function HomePage() {
 
   return (
     <div className="pb-16">
+      <AppLink to="/personal" className="card mt-6 flex items-center justify-between gap-4 p-5 no-underline">
+        <span><strong className="block text-[16px] text-display">Your personal AM + PM schedule</strong><span className="mt-1 block text-[13px] text-secondary">Morning essentials, seven evenings, and products with category ranks and buyer ratings.</span></span>
+        <ArrowRight size={20} className="shrink-0 text-accent" aria-hidden />
+      </AppLink>
       <Hero kicker="Published skincare routines · ranked"
         title="Routines with a source behind them, scored on evidence first."
         lede="Transcribed from dermatology bodies, named methods and regional traditions, then mapped onto one 22-phase model so they can be compared step for step."
