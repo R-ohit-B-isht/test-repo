@@ -9,6 +9,8 @@ interface Props {
   proposals: Proposal[];
   fill: FillState;
   categoryLabel: (id: string) => string;
+  /** Live 1-based slot position of a saved step (null once it is gone) — keeps a pending reorder's “from” honest after manual moves. */
+  positionNow: (stepId: string) => number | null;
   onAccept: (id: string) => void;
   onEdit: (p: Proposal) => void;
   onReject: (id: string) => void;
@@ -23,7 +25,7 @@ interface Props {
 const plain = (text: string) => text.replace(/\[\[[^\]]*\]\]?/g, '').replace(/\*\*/g, '').replace(/[ \t]{2,}/g, ' ').trim();
 
 /** Pending proposals (Todoist inbox-style list): each card is Accept / Edit / Reject; nothing here is on the routine yet. */
-export function ProposalsPanel({ proposals, fill, categoryLabel, onAccept, onEdit, onReject, onAcceptAll, onRejectAll, onClearDecided, onRetry, onDismiss }: Props) {
+export function ProposalsPanel({ proposals, fill, categoryLabel, positionNow, onAccept, onEdit, onReject, onAcceptAll, onRejectAll, onClearDecided, onRetry, onDismiss }: Props) {
   const pending = proposals.filter((p) => p.status === 'pending');
   const decided = proposals.length - pending.length;
   const running = fill.phase === 'running';
@@ -76,7 +78,7 @@ export function ProposalsPanel({ proposals, fill, categoryLabel, onAccept, onEdi
         {pending.length > 0 && (
           <ul className="space-y-2.5">
             {pending.map((p) => (
-              <ProposalCard key={p.id} p={p} categoryLabel={categoryLabel} onAccept={() => onAccept(p.id)} onEdit={() => onEdit(p)} onReject={() => onReject(p.id)} />
+              <ProposalCard key={p.id} p={p} categoryLabel={categoryLabel} positionNow={positionNow} onAccept={() => onAccept(p.id)} onEdit={() => onEdit(p)} onReject={() => onReject(p.id)} />
             ))}
           </ul>
         )}
@@ -91,7 +93,7 @@ export function ProposalsPanel({ proposals, fill, categoryLabel, onAccept, onEdi
   );
 }
 
-function ProposalCard({ p, categoryLabel, onAccept, onEdit, onReject }: { p: Proposal; categoryLabel: (id: string) => string; onAccept: () => void; onEdit: () => void; onReject: () => void }) {
+function ProposalCard({ p, categoryLabel, positionNow, onAccept, onEdit, onReject }: { p: Proposal; categoryLabel: (id: string) => string; positionNow: Props['positionNow']; onAccept: () => void; onEdit: () => void; onReject: () => void }) {
   const s = p.step;
   const isEdit = !!p.edit;
   return (
@@ -101,7 +103,7 @@ function ProposalCard({ p, categoryLabel, onAccept, onEdit, onReject }: { p: Pro
         {!isEdit && <span className="label">{SLOT_LABEL[s.slot]} · {ZONE_LABEL[s.zone]} · {daysSummary(s.days)}{s.category ? ` · ${categoryLabel(s.category)}` : ''}</span>}
       </div>
       {p.why && <p className="mt-1.5 text-[13px] leading-relaxed text-primary">{plain(p.why)}</p>}
-      {p.edit ? <EditDiff edit={p.edit} after={s} categoryLabel={categoryLabel} /> : (
+      {p.edit ? <EditDiff edit={p.edit} after={s} categoryLabel={categoryLabel} positionNow={p.status === 'pending' ? positionNow(p.edit.targetStepId) : null} /> : (
         <div className="mt-3">
           {s.product ? <ProductSnippet product={s.product} categoryLabel={categoryLabel} /> : (
             <p className="rounded-[12px] border border-dashed border-line-strong px-3 py-2 text-[12.5px] text-secondary">No listing pinned — {s.category ? 'the assistant found nothing sound enough in this category for your setup' : 'a step without a product'}.</p>

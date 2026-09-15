@@ -16,7 +16,7 @@ import { blankStep, type StepDraft } from '../schedule/draft';
 import { toast } from '../state/toastStore';
 import { usePagePublish } from '../chat/pageContext';
 import { useDevPublish } from '../components/dev/devStore';
-import { EDIT_VERB, planAsText, SLOT_LABEL, type Day, type Proposal, type Slot, type Step } from '../schedule/model';
+import { EDIT_VERB, planAsText, positionOf, SLOT_LABEL, type Day, type Proposal, type Slot, type Step } from '../schedule/model';
 import {
   acceptAllPending, acceptProposal, addStep, clearDecided, clearPlan, dismissFill, moveStep, registerCategoryLabels,
   rejectAllPending, rejectProposal, removeStep, sortSlot, updateSetup, updateStep, useSchedule,
@@ -153,7 +153,7 @@ export default function RoutinePage() {
 
       {view === 'routine' && (
         <div className="min-w-0 space-y-6">
-          <ProposalsPanel proposals={plan.proposals} fill={fill} categoryLabel={categoryLabel}
+          <ProposalsPanel proposals={plan.proposals} fill={fill} categoryLabel={categoryLabel} positionNow={(id) => positionOf(plan.steps, id)}
             onAccept={accept} onEdit={(p) => setEditor({ kind: 'proposal', proposal: p })} onReject={rejectProposal}
             onAcceptAll={acceptAll} onRejectAll={rejectAllPending} onClearDecided={clearDecided}
             onRetry={() => setView('inventory')} onDismiss={dismissFill} />

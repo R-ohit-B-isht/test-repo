@@ -2,10 +2,10 @@ import { ArrowRight } from 'lucide-react';
 import { ProductSnippet } from './ProductSnippet';
 import { daysSummary, EDIT_VERB, SLOT_LABEL, ZONE_LABEL, type Proposal, type StepEdit } from '../../schedule/model';
 
-interface Props { edit: StepEdit; after: Proposal['step']; categoryLabel: (id: string) => string }
+interface Props { edit: StepEdit; after: Proposal['step']; categoryLabel: (id: string) => string; positionNow?: number | null }
 
 /** Before → after for an assistant edit to an existing step: only the fields that change are listed, the product as a card. */
-export function EditDiff({ edit, after, categoryLabel }: Props) {
+export function EditDiff({ edit, after, categoryLabel, positionNow = null }: Props) {
   const b = edit.before;
   const rows: { label: string; from: string; to: string }[] = [];
   if (edit.op !== 'remove') {
@@ -15,7 +15,7 @@ export function EditDiff({ edit, after, categoryLabel }: Props) {
     if (b.zone !== after.zone) rows.push({ label: 'Zone', from: ZONE_LABEL[b.zone], to: ZONE_LABEL[after.zone] });
     if (b.category !== after.category) rows.push({ label: 'Category', from: b.category ? categoryLabel(b.category) : '—', to: after.category ? categoryLabel(after.category) : '—' });
     if (b.note !== after.note) rows.push({ label: 'Note', from: b.note || '—', to: after.note || '—' });
-    if (edit.position) rows.push({ label: 'Order', from: `#${edit.position.from} in ${SLOT_LABEL[b.slot]}`, to: `#${edit.position.to} in ${SLOT_LABEL[after.slot]}` });
+    if (edit.position) rows.push({ label: 'Order', from: `#${positionNow ?? edit.position.from} in ${SLOT_LABEL[b.slot]}`, to: `#${edit.position.to} in ${SLOT_LABEL[after.slot]}` });
   }
   const productChanged = edit.op !== 'remove' && (b.product?.id ?? null) !== (after.product?.id ?? null);
   return (
