@@ -27,7 +27,7 @@ export const getSiteOverview: Tool = {
     return {
       generatedAt: m.generatedAt, totalListings: m.total, categories: m.categories.length, categoriesByZone: zones,
       zoneLabels: m.zoneLabels, concernFilters: m.concerns, referenceCeilings: m.benchmarks.length, routines: m.routines,
-      marketplaces: ['Flipkart', 'Amazon.in'],
+      marketplaces: ['Flipkart', 'Amazon.in', 'Brand store (the maker\u2019s own web store)'],
       siteSections: { routines: `${ctx.siteUrl}/#/`, products: `${ctx.siteUrl}/#/products` },
     };
   },

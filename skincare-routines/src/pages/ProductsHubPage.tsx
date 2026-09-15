@@ -39,7 +39,7 @@ export default function ProductsHubPage() {
     <div className="pb-16">
       <Hero kicker="Product rankings · India"
         title={hair > 0 ? 'Every skincare and hair category, ranked from real listings.' : 'Every skincare category, ranked from real listings.'}
-        lede="Captured live from Flipkart and Amazon.in product pages, scored from the published ingredient list, the accountable maker and real buyer ratings — seller marketing counts for nothing. Fields the seller never stated are shown as exactly that."
+        lede="Captured live from Flipkart, Amazon.in and the brands’ own web-store product pages, scored from the published ingredient list, the accountable maker and real buyer ratings — seller marketing counts for nothing. Fields the seller never stated are shown as exactly that."
         proofs={[`${fmt(m.total)} listings · ${m.categories.length} categories`, `${fmt(skin.face)} face · ${fmt(skin.both)} face + body · ${fmt(skin.body)} body${hair > 0 ? ` · ${fmt(hair)} hair` : ''}`, 'Price and seller claims never scored']}
         aside={
           <div className="card p-5">

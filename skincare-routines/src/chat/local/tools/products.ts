@@ -47,7 +47,7 @@ export const searchProducts: Tool = {
   description:
     'Find listings by brand and/or product name across every category (accent/apostrophe-insensitive). '
     + 'Returns rank, score, price, store and INCI state for each match. Returns an empty list when the product is not '
-    + 'sold on Flipkart/Amazon.in in this dataset — say so rather than guessing.',
+    + 'sold on Flipkart/Amazon.in or a collected brand store in this dataset — say so rather than guessing.',
   parameters: (manifest: Manifest) => ({
     type: 'object',
     properties: {
@@ -64,7 +64,7 @@ export const searchProducts: Tool = {
     const limit = clamp(args.limit, 8, 1, 25);
     const index = await ctx.store.search();
     const results = index.search(query, { category, limit }).map(({ strength, hit }) => hitSummary(hit, strength, ctx, ctx.store.categoryMeta(hit.category)?.count ?? null));
-    return { query, count: results.length, results, note: results.length ? null : 'No listing matches every word of the query. Try fewer words, or the product is not sold on Flipkart/Amazon.in.' };
+    return { query, count: results.length, results, note: results.length ? null : 'No listing matches every word of the query. Try fewer words, or the product is not sold on Flipkart/Amazon.in or a collected brand store.' };
   },
 };
 

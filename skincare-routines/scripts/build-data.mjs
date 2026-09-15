@@ -39,6 +39,15 @@ function loadGlobal(file, name) {
   return v;
 }
 
+// A category's records: the marketplace file, plus the brands' own web-store listings when that file exists
+// (data/bs-data-<id>.js, global BSPRODUCTS). Each store's copy stays its own listing, as Flipkart and Amazon copies do.
+const officialFileOf = (cat) => `bs-data-${cat.id}.js`;
+function loadRecords(cat) {
+  const marketplace = loadGlobal(cat.file, cat.global);
+  const official = fs.existsSync(path.join(DATA, officialFileOf(cat))) ? loadGlobal(officialFileOf(cat), 'BSPRODUCTS') : [];
+  return { marketplace, official, all: marketplace.concat(official) };
+}
+
 const overall = (scores) => Math.round(Object.keys(WEIGHTS).reduce((s, k) => s + (scores[k] ?? 0) * WEIGHTS[k], 0) * 100) / 10;
 
 function parseRating(s) {
@@ -91,7 +100,8 @@ let grandTotal = 0;
 const search = new SearchColumns(manifest.generatedAt);
 const inciTotals = { verified: 0, claimed: 0, bytes: 0 };
 for (const cat of CATEGORIES) {
-  const raw = loadGlobal(cat.file, cat.global);
+  const { official, all: raw } = loadRecords(cat);
+  const officialSet = new Set(official);
   const seen = new Set();
   const tagIndex = [];
   const tagPos = new Map();
@@ -102,7 +112,7 @@ for (const cat of CATEGORIES) {
   const scopeGroup = scopeGroupOf(cat);
   const byScope = Object.fromEntries(SCOPE_KEYS[scopeGroup].map((k) => [k, 0]));
   for (const rec of raw) {
-    assertReal(rec, cat.file);
+    assertReal(rec, officialSet.has(rec) ? officialFileOf(cat) : cat.file);
     if (seen.has(rec.id)) continue;
     seen.add(rec.id);
     const t = rec.tags.map((tag) => {
@@ -142,7 +152,7 @@ for (const cat of CATEGORIES) {
     id: cat.id, label: cat.label, kicker: cat.kicker, zone: cat.zone, blurb: cat.blurb, facets: cat.facets, scopeGroup,
     featured: cat.featured.filter((tag) => tagCount.has(tag)), count: items.length, byScope,
     byConcern: Object.fromEntries([...tagCount.entries()].filter(([tag]) => tag.startsWith('target:')).map(([tag, n]) => [tag.slice(7), n])),
-    stores: { flipkart: tagCount.get('store:flipkart') || 0, amazon: tagCount.get('store:amazon') || 0 },
+    stores: { flipkart: tagCount.get('store:flipkart') || 0, amazon: tagCount.get('store:amazon') || 0, 'brand-store': tagCount.get('store:brand-store') || 0 },
     priceMax: Math.max(...items.map((x) => x.p)),
     inci: inciMeta,
   });

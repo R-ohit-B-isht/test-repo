@@ -1,5 +1,6 @@
 import { useMemo } from 'react';
-import { AlertTriangle, RotateCcw, Sparkles } from 'lucide-react';
+import { Link } from 'react-router-dom';
+import { AlertTriangle, CalendarCheck, ChevronRight, RotateCcw, Sparkles } from 'lucide-react';
 import { clsx } from 'clsx';
 import type { AssistantMessage, Message, ToolCallTrace } from '../../chat/types';
 import { citedIds } from '../../chat/markdown';
@@ -45,6 +46,13 @@ function AssistantView({ m, isDev, onFollowup, onRetry, onNavigate, isLast }: Om
               <button type="button" onClick={onRetry} className="btn h-8 shrink-0 gap-1.5 px-3 text-[12px]"><RotateCcw size={12} /> Try again</button>
             )}
           </div>
+        )}
+        {m.phase !== 'connecting' && m.phase !== 'tools' && !!m.proposed && (
+          <Link to="/routine" onClick={onNavigate} className="mt-3 flex items-center gap-2 rounded-[12px] border border-line bg-surface px-3 py-2.5 text-[13px] no-underline hover:border-accent">
+            <CalendarCheck size={14} className="shrink-0 text-accent" aria-hidden />
+            <span className="min-w-0 flex-1 font-semibold text-primary">{m.proposed} change{m.proposed === 1 ? '' : 's'} waiting for your accept on My routine</span>
+            <ChevronRight size={14} className="shrink-0 text-muted" aria-hidden />
+          </Link>
         )}
         {m.phase === 'done' && m.citations && <Citations citations={m.citations} cited={cited} onNavigate={onNavigate} />}
         {m.phase === 'done' && m.followups.length > 0 && isLast && (
@@ -96,6 +104,8 @@ function describe(t: ToolCallTrace): string {
     }
     case 'list_categories': return 'Listing categories…';
     case 'get_site_overview': return 'Reading the site overview…';
+    case 'propose_routine_steps': return 'Checking the proposed steps against site data…';
+    case 'edit_routine_steps': return 'Checking the changes against your routine…';
     default: return `Running ${t.name}…`;
   }
 }

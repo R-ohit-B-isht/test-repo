@@ -51,7 +51,7 @@ class SearchProducts(Tool):
     description = (
         "Find listings by brand and/or product name across every category (accent/apostrophe-insensitive). "
         "Returns rank, score, price, store and INCI state for each match. Returns an empty list when the product is not "
-        "sold on Flipkart/Amazon.in in this dataset — say so rather than guessing."
+        "sold on Flipkart/Amazon.in or a collected brand store in this dataset — say so rather than guessing."
     )
 
     def parameters(self, manifest: dict) -> dict:
@@ -74,7 +74,7 @@ class SearchProducts(Tool):
         limit = clamp(args.get("limit"), 8, 1, 25)
         hits = ctx.store.index.search(query, category=category, limit=limit)
         results = [hit_summary(h, s, ctx, (ctx.store.category_meta(h.category) or {}).get("count")) for s, h in hits]
-        return {"query": query, "count": len(results), "results": results, "note": None if results else "No listing matches every word of the query. Try fewer words, or the product is not sold on Flipkart/Amazon.in."}
+        return {"query": query, "count": len(results), "results": results, "note": None if results else "No listing matches every word of the query. Try fewer words, or the product is not sold on Flipkart/Amazon.in or a collected brand store."}
 
 
 class GetTopProducts(Tool):

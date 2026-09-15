@@ -28,7 +28,7 @@ export interface CategoryMeta {
   byScope: Record<string, number>;
   /** Listings per skin concern (`target:*` tag id → count); empty for hair categories, which carry no skin-concern facet. */
   byConcern: Record<string, number>;
-  stores: { flipkart: number; amazon: number };
+  stores: { flipkart: number; amazon: number; 'brand-store'?: number };
   priceMax: number;
   /** Ingredient columns emitted for the assistant: rows with a verified INCI list vs. only a seller ingredient line. */
   inci?: { verified: number; claimed: number; bytes: number };

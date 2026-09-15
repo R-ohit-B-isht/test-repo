@@ -28,7 +28,7 @@ const GROUPS = {
   aud: { label: 'Audience', hint: 'Marketing audience', mode: 'or' },
   size: { label: 'Pack size', hint: 'From the stated quantity', mode: 'or' },
   rating: { label: 'Buyer rating', hint: 'Marketplace rating', mode: 'or' },
-  store: { label: 'Store', hint: 'Where it was found live', mode: 'or' },
+  store: { label: 'Store', hint: 'Where it was found live — marketplace or the brand\u2019s own web store', mode: 'or' },
   step: { label: 'Protocol step', hint: 'Which step of the fading protocol', mode: 'or' },
 };
 
@@ -383,7 +383,7 @@ const LABELS = { scope: {
   size: { travel: 'Travel (≤50 ml/g)', standard: 'Standard (51–120)', large: 'Large (121–250)', xl: 'XL (250+)' },
   rating: { 4.5: '4.5★ and up', 4.0: '4.0–4.4★', 3.5: '3.5–3.9★', low: 'Below 3.5★', none: 'No rating yet' },
   aud: { men: 'Men', women: 'Women', kids: 'Kids / baby', unisex: 'Unisex / not stated' },
-  store: { flipkart: 'Flipkart', amazon: 'Amazon' },
+  store: { flipkart: 'Flipkart', amazon: 'Amazon', 'brand-store': 'Brand store' },
 };
 for (const [id, label] of FORMATS.map(([i, l]) => [i, l])) (LABELS.format ||= {})[id] = label;
 for (const [name] of INGREDIENTS) (LABELS.ing ||= {})[slug(name)] = name;

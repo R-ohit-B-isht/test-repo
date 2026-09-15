@@ -38,7 +38,7 @@ class GetSiteOverview(Tool):
             "concernFilters": m.get("concerns"),
             "referenceCeilings": len(m.get("benchmarks", [])),
             "routines": m.get("routines"),
-            "marketplaces": ["Flipkart", "Amazon.in"],
+            "marketplaces": ["Flipkart", "Amazon.in", "Brand store (the maker’s own web store)"],
             "siteSections": {"routines": f"{ctx.site_url}/#/", "products": f"{ctx.site_url}/#/products"},
         }
 

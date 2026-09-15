@@ -19,7 +19,7 @@ export function scoreBand(score: number): 'good' | 'ok' | 'meh' | 'low' {
 }
 export const scoreClass = (score: number, size?: 'lg') => `score score-${scoreBand(score)}${size === 'lg' ? ' score-lg' : ''}`;
 
-export const STORE_LABEL: Record<string, string> = { flipkart: 'Flipkart', amazon: 'Amazon.in', Flipkart: 'Flipkart', Amazon: 'Amazon.in' };
+export const STORE_LABEL: Record<string, string> = { flipkart: 'Flipkart', amazon: 'Amazon.in', Flipkart: 'Flipkart', Amazon: 'Amazon.in', 'brand-store': 'Brand store', 'Brand store': 'Brand store' };
 export const storeLabel = (s: string) => STORE_LABEL[s] ?? s;
 
 export function usePrefersReducedMotion(): boolean {

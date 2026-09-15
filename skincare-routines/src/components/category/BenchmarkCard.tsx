@@ -85,7 +85,7 @@ export function BenchmarkCard({ bench, onOpenListing }: Props) {
             </button>
           </>
         ) : (
-          <p><span className="font-bold">Not sold on Flipkart / Amazon.in</span> <span className="text-[var(--fg-dim)]">· {market.note}</span></p>
+          <p><span className="font-bold">Not sold on Flipkart / Amazon.in / collected brand stores</span> <span className="text-[var(--fg-dim)]">· {market.note}</span></p>
         )}
       </div>
     </section>
