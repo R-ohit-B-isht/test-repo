@@ -57,4 +57,17 @@ export interface PageContext {
   benchmark?: string | null;
   /** My routine page: the user's setup and what is already planned, so a fill request can be answered from the drawer too. */
   routine?: { zones: string[]; concerns: string[]; skinType: string | null; maxPriceInr: number | null; steps: number; pending: number } | null;
+  /** The saved routine's accepted steps (published from any page), so the assistant can read and propose edits to them. */
+  routineSteps?: RoutineStepContext[];
+}
+
+export interface RoutineStepContext {
+  id: string;
+  title: string;
+  slot: string;
+  days: string[];
+  zone: string;
+  category: string | null;
+  note: string;
+  product: { id: string; category: string; brand: string; title: string; rank: number | null } | null;
 }

@@ -1,7 +1,9 @@
-import { Check, Moon, Send, Sparkles, Sun } from 'lucide-react';
+import { useState } from 'react';
+import { Check, Moon, Search, Send, Sparkles, Sun, X } from 'lucide-react';
 import { clsx } from 'clsx';
+import { ListingPicker } from '../ListingPicker';
 import { ProductSnippet } from '../ProductSnippet';
-import { daysSummary, SLOTS, SLOT_LABEL, ZONE_LABEL, type Day } from '../../../schedule/model';
+import { daysSummary, SLOTS, SLOT_LABEL, ZONE_LABEL, type Day, type StepProduct } from '../../../schedule/model';
 import type { Role } from '../../../schedule/planner/catalog';
 import type { PickResult } from '../../../schedule/planner/picker';
 import type { Review } from '../../../schedule/planner/review';
@@ -16,7 +18,7 @@ interface Props {
   day: Day | null;
   categoryLabel: (id: string) => string;
   effectivePick: (stepId: string) => PickResult['chosen'];
-  onChoose: (stepId: string, productId: string) => void;
+  onChoose: (stepId: string, product: StepProduct | null) => void;
   onPropose: (stepIds: string[]) => void;
 }
 
@@ -47,7 +49,7 @@ export function PlanStepList({ week, picks, picking, review, proposed, day, cate
               <ol className="mt-3 space-y-2.5">
                 {steps.map((s, i) => (
                   <StepRow key={s.id} index={i + 1} step={s} pick={picks[s.id]} picking={picking && !picks[s.id]} note={review?.notes[s.id] ?? null}
-                    chosen={effectivePick(s.id)} done={proposed.has(s.id)} categoryLabel={categoryLabel} onChoose={(id) => onChoose(s.id, id)} onPropose={() => onPropose([s.id])} />
+                    chosen={effectivePick(s.id)} done={proposed.has(s.id)} categoryLabel={categoryLabel} onChoose={(p) => onChoose(s.id, p)} onPropose={() => onPropose([s.id])} />
                 ))}
               </ol>
             )}
@@ -60,11 +62,12 @@ export function PlanStepList({ week, picks, picking, review, proposed, day, cate
 
 interface RowProps {
   index: number; step: PlanStep; pick: PickResult | undefined; picking: boolean; note: { why: string; pickId: string | null } | null;
-  chosen: PickResult['chosen']; done: boolean; categoryLabel: (id: string) => string; onChoose: (productId: string) => void; onPropose: () => void;
+  chosen: PickResult['chosen']; done: boolean; categoryLabel: (id: string) => string; onChoose: (product: StepProduct | null) => void; onPropose: () => void;
 }
 
 function StepRow({ index, step, pick, picking, note, chosen, done, categoryLabel, onChoose, onPropose }: RowProps) {
   const alternatives = pick?.candidates.filter((c) => c.id !== chosen?.id) ?? [];
+  const [search, setSearch] = useState(false);
   return (
     <li className={clsx('fade-in rounded-[14px] border p-4', done ? 'border-line bg-surface' : 'border-dashed border-accent/50 bg-accent-soft/30')}>
       <div className="flex flex-wrap items-baseline gap-x-2 gap-y-0.5">
@@ -96,7 +99,7 @@ function StepRow({ index, step, pick, picking, note, chosen, done, categoryLabel
                   {alternatives.map((c) => (
                     <li key={c.id} className="flex items-center justify-between gap-2 rounded-[10px] border border-line px-2.5 py-1.5">
                       <span className="min-w-0 truncate text-[12px] text-primary">{c.brand ? `${c.brand} · ` : ''}{c.title}<span className="text-muted"> · #{c.rank}{c.priceInr != null ? ` · ₹${c.priceInr.toLocaleString('en-IN')}` : ''}</span></span>
-                      <button type="button" className="btn h-7 shrink-0 px-2.5 text-[11.5px]" disabled={done} onClick={() => onChoose(c.id)}>Use this</button>
+                      <button type="button" className="btn h-7 shrink-0 px-2.5 text-[11.5px]" disabled={done} onClick={() => onChoose(c)}>Use this</button>
                     </li>
                   ))}
                 </ul>
@@ -107,6 +110,17 @@ function StepRow({ index, step, pick, picking, note, chosen, done, categoryLabel
           <p className="rounded-[12px] border border-dashed border-line-strong px-3 py-2 text-[12.5px] text-secondary">
             No listing pinned — {pick?.error ? `lookup failed: ${pick.error}` : pick?.how || 'no ranked page for this step yet'}. You can still add it and pick a product later.
           </p>
+        )}
+        {!picking && !done && (
+          <div className="mt-2 flex flex-wrap gap-1.5">
+            <button type="button" className="btn h-8 px-3 text-[12px]" aria-expanded={search} onClick={() => setSearch((o) => !o)}><Search size={12} aria-hidden />{search ? 'Hide search' : 'Pick another listing'}</button>
+            {chosen && <button type="button" className="btn h-8 px-3 text-[12px]" onClick={() => onChoose(null)}><X size={12} aria-hidden />No product</button>}
+          </div>
+        )}
+        {search && !done && (
+          <div className="mt-2">
+            <ListingPicker product={null} category={step.category} categoryLabel={categoryLabel} onChange={(p) => { onChoose(p); setSearch(false); }} hideEmpty />
+          </div>
         )}
       </div>
 

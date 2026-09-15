@@ -1,8 +1,9 @@
 import { AlertTriangle, Check, Pencil, Sparkles, X } from 'lucide-react';
 import { clsx } from 'clsx';
+import { EditDiff } from './EditDiff';
 import { ProductSnippet } from './ProductSnippet';
 import type { FillState } from '../../schedule/scheduleStore';
-import { daysSummary, SLOT_LABEL, ZONE_LABEL, type Proposal } from '../../schedule/model';
+import { daysSummary, EDIT_VERB, SLOT_LABEL, ZONE_LABEL, type Proposal } from '../../schedule/model';
 
 interface Props {
   proposals: Proposal[];
@@ -92,21 +93,24 @@ export function ProposalsPanel({ proposals, fill, categoryLabel, onAccept, onEdi
 
 function ProposalCard({ p, categoryLabel, onAccept, onEdit, onReject }: { p: Proposal; categoryLabel: (id: string) => string; onAccept: () => void; onEdit: () => void; onReject: () => void }) {
   const s = p.step;
+  const isEdit = !!p.edit;
   return (
     <li className="fade-in rounded-[14px] border border-accent/40 bg-accent-soft/40 p-4">
       <div className="flex flex-wrap items-baseline gap-x-2 gap-y-0.5">
-        <p className="text-[15px] font-extrabold text-display">{s.title}</p>
-        <span className="label">{SLOT_LABEL[s.slot]} · {ZONE_LABEL[s.zone]} · {daysSummary(s.days)}{s.category ? ` · ${categoryLabel(s.category)}` : ''}</span>
+        <p className="text-[15px] font-extrabold text-display">{isEdit ? `${EDIT_VERB[p.edit!.op]}: ${p.edit!.before.title}` : s.title}</p>
+        {!isEdit && <span className="label">{SLOT_LABEL[s.slot]} · {ZONE_LABEL[s.zone]} · {daysSummary(s.days)}{s.category ? ` · ${categoryLabel(s.category)}` : ''}</span>}
       </div>
       {p.why && <p className="mt-1.5 text-[13px] leading-relaxed text-primary">{plain(p.why)}</p>}
-      <div className="mt-3">
-        {s.product ? <ProductSnippet product={s.product} categoryLabel={categoryLabel} /> : (
-          <p className="rounded-[12px] border border-dashed border-line-strong px-3 py-2 text-[12.5px] text-secondary">No listing pinned — {s.category ? 'the assistant found nothing sound enough in this category for your setup' : 'a step without a product'}.</p>
-        )}
-      </div>
+      {p.edit ? <EditDiff edit={p.edit} after={s} categoryLabel={categoryLabel} /> : (
+        <div className="mt-3">
+          {s.product ? <ProductSnippet product={s.product} categoryLabel={categoryLabel} /> : (
+            <p className="rounded-[12px] border border-dashed border-line-strong px-3 py-2 text-[12.5px] text-secondary">No listing pinned — {s.category ? 'the assistant found nothing sound enough in this category for your setup' : 'a step without a product'}.</p>
+          )}
+        </div>
+      )}
       <div className="mt-3 flex flex-wrap gap-1.5">
-        <button type="button" className="btn btn-primary h-9" onClick={onAccept}><Check size={14} aria-hidden />Accept</button>
-        <button type="button" className="btn h-9" onClick={onEdit}><Pencil size={13} aria-hidden />Edit</button>
+        <button type="button" className="btn btn-primary h-9" onClick={onAccept}><Check size={14} aria-hidden />{isEdit ? 'Apply' : 'Accept'}</button>
+        {p.edit?.op !== 'remove' && <button type="button" className="btn h-9" onClick={onEdit}><Pencil size={13} aria-hidden />Edit</button>}
         <button type="button" className="btn h-9" onClick={onReject}><X size={14} aria-hidden />Reject</button>
       </div>
     </li>

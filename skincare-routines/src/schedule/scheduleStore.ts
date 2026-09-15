@@ -2,11 +2,11 @@
  * fill run. Proposals only ever enter as `pending`; the user moves them to a step (accept / edit) or rejects them. */
 import { useSyncExternalStore } from 'react';
 import { chatConfig } from '../chat/config';
-import { getPage } from '../chat/pageContext';
+import { getPage, publishPage } from '../chat/pageContext';
 import { transportFor } from '../chat/transport';
 import type { ChatEvent, ChatError } from '../chat/types';
 import { EMPTY_PLAN, newId, type Plan, type Proposal, type Setup, type Step } from './model';
-import { fillMessage, NUDGE_MESSAGE, PROPOSE_TOOL, problemsFrom, proposalsFrom, toolStatus, type FillScope } from './proposer';
+import { EDIT_TOOL, editsFrom, fillMessage, NUDGE_MESSAGE, PROPOSE_TOOL, problemsFrom, proposalsFrom, stepsForContext, toolStatus, type FillScope } from './proposer';
 import * as storage from './storage';
 
 export type FillPhase = 'idle' | 'running' | 'done' | 'error';
@@ -36,6 +36,8 @@ let state: ScheduleState = { plan: loaded.plan, fill: IDLE, storageOk: loaded.ok
 let controller: AbortController | null = null;
 let labelFor: (id: string) => string = (id) => id;
 const listeners = new Set<() => void>();
+// The assistant reads the saved steps through the page context from any route, so it can answer "swap my cleanser" anywhere.
+publishPage({ routineSteps: stepsForContext(state.plan.steps) });
 
 function set(patch: Partial<ScheduleState>) {
   state = { ...state, ...patch };
@@ -46,6 +48,7 @@ function commit(fn: (plan: Plan) => Plan) {
   const plan = { ...fn(state.plan), updatedAt: Date.now() };
   const ok = storage.save(plan);
   set({ plan, storageOk: ok });
+  publishPage({ routineSteps: stepsForContext(plan.steps) });
 }
 
 const patchFill = (patch: Partial<FillState> | ((f: FillState) => Partial<FillState>)) =>
@@ -82,22 +85,49 @@ export function moveStep(id: string, dir: -1 | 1) {
   });
 }
 
-/** Accept as proposed, or with the user's edits — either way it becomes a step and the proposal is marked accepted. */
-export function acceptProposal(id: string, edits?: Partial<Proposal['step']>) {
+/** Accept as proposed, or with the user's edits — either way it becomes a step and the proposal is marked accepted.
+ * An edit proposal changes (or removes) its target step instead; if that step has gone since, the proposal is rejected
+ * and the caller is told, so nothing is applied to the wrong step. */
+export function acceptProposal(id: string, edits?: Partial<Proposal['step']>): { applied: boolean; reason?: string } {
   const prop = state.plan.proposals.find((p) => p.id === id);
-  if (!prop || prop.status !== 'pending') return;
+  if (!prop || prop.status !== 'pending') return { applied: false };
   const step = { ...prop.step, ...edits, note: edits?.note ?? (prop.step.note || prop.why) };
+  const { edit } = prop;
+  if (edit) {
+    const target = state.plan.steps.find((s) => s.id === edit.targetStepId);
+    if (!target) {
+      commit((p) => ({ ...p, proposals: p.proposals.map((x) => (x.id === id ? { ...x, status: 'rejected' as const } : x)) }));
+      return { applied: false, reason: `“${edit.before.title}” is no longer in the routine, so this change was dropped.` };
+    }
+    const op = edit.op;
+    commit((p) => ({
+      ...p,
+      steps: op === 'remove'
+        ? p.steps.filter((s) => s.id !== target.id)
+        : p.steps.map((s) => (s.id === target.id ? { ...s, ...step, note: step.note || s.note, order: s.slot === step.slot ? s.order : nextOrder(p.steps, step.slot) } : s)),
+      proposals: p.proposals.map((x) => (x.id === id ? { ...x, status: 'accepted' as const } : x)),
+    }));
+    return { applied: true };
+  }
   commit((p) => ({
     ...p,
     steps: [...p.steps, { ...step, id: newId(), origin: 'ai' as const, order: nextOrder(p.steps, step.slot) }],
     proposals: p.proposals.map((x) => (x.id === id ? { ...x, status: 'accepted' as const } : x)),
   }));
+  return { applied: true };
 }
 
 export const rejectProposal = (id: string) =>
   commit((p) => ({ ...p, proposals: p.proposals.map((x) => (x.id === id && x.status === 'pending' ? { ...x, status: 'rejected' as const } : x)) }));
 
-export const acceptAllPending = () => state.plan.proposals.filter((p) => p.status === 'pending').forEach((p) => acceptProposal(p.id));
+export function acceptAllPending(): { applied: number; dropped: number } {
+  const out = { applied: 0, dropped: 0 };
+  for (const p of state.plan.proposals.filter((x) => x.status === 'pending')) {
+    if (acceptProposal(p.id).applied) out.applied += 1;
+    else out.dropped += 1;
+  }
+  return out;
+}
 export const rejectAllPending = () => commit((p) => ({ ...p, proposals: p.proposals.map((x) => (x.status === 'pending' ? { ...x, status: 'rejected' as const } : x)) }));
 
 /** Decided proposals are kept for the "what did the AI suggest" record; this drops them once the user is done. */
@@ -126,6 +156,14 @@ export function receiveProposals(result: Record<string, unknown>, batch: string)
   if (proposals.length) commit((p) => ({ ...p, proposals: [...p.proposals, ...proposals] }));
   return proposals.length;
 }
+
+/** An `edit_routine_steps` payload: each edit is matched to a step that exists right now and becomes a pending diff. */
+export function receiveEdits(result: Record<string, unknown>, batch: string): number {
+  const proposals = editsFrom(result, batch, state.plan.steps);
+  if (proposals.length) commit((p) => ({ ...p, proposals: [...p.proposals, ...proposals] }));
+  return proposals.length;
+}
+
 
 /** One Gemini run: same transport and prompt as the chat, so the answer is a real model call over real site data. */
 export async function fillWithAssistant(scope: FillScope = { slot: null, zone: null }) {
@@ -169,11 +207,11 @@ function apply(ev: ChatEvent, batch: string) {
     case 'tool_call':
       return patchFill({ status: toolStatus(ev.data.name, ev.data.args, labelFor) });
     case 'tool_result':
-      if (ev.data.name === PROPOSE_TOOL && ev.data.error) patchFill((f) => ({ problems: [...f.problems, ev.data.error as string] }));
+      if ((ev.data.name === PROPOSE_TOOL || ev.data.name === EDIT_TOOL) && ev.data.error) patchFill((f) => ({ problems: [...f.problems, ev.data.error as string] }));
       return;
     case 'tool_payload': {
-      if (ev.data.name !== PROPOSE_TOOL) return;
-      const n = receiveProposals(ev.data.result, batch);
+      if (ev.data.name !== PROPOSE_TOOL && ev.data.name !== EDIT_TOOL) return;
+      const n = ev.data.name === EDIT_TOOL ? receiveEdits(ev.data.result, batch) : receiveProposals(ev.data.result, batch);
       return patchFill((f) => ({ proposed: f.proposed + n, problems: [...f.problems, ...problemsFrom(ev.data.result)], status: 'Writing summary…' }));
     }
     case 'text':

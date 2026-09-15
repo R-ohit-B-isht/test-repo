@@ -3,8 +3,8 @@ import { chatConfig } from './config';
 import { newId, settleInterrupted, summarise, titleFor, type Conversation, type ConversationSummary } from './history/model';
 import * as storage from './history/storage';
 import { getPage } from './pageContext';
-import { PROPOSE_TOOL } from '../schedule/proposer';
-import { receiveProposals } from '../schedule/scheduleStore';
+import { EDIT_TOOL, PROPOSE_TOOL } from '../schedule/proposer';
+import { receiveEdits, receiveProposals } from '../schedule/scheduleStore';
 import { transportFor } from './transport';
 import type { AssistantMessage, ChatEvent, Message, PageContext } from './types';
 
@@ -172,8 +172,9 @@ function apply(convId: string, id: number, ev: ChatEvent) {
       });
     case 'tool_payload': {
       // Routine proposals land on the My routine page as pending cards; the transcript only records how many.
-      if (ev.data.name !== PROPOSE_TOOL) return;
-      const n = receiveProposals(ev.data.result, `chat-${convId}-${id}`);
+      if (ev.data.name !== PROPOSE_TOOL && ev.data.name !== EDIT_TOOL) return;
+      const batch = `chat-${convId}-${id}`;
+      const n = ev.data.name === EDIT_TOOL ? receiveEdits(ev.data.result, batch) : receiveProposals(ev.data.result, batch);
       return patchAssistant(convId, id, (m) => ({ proposed: (m.proposed ?? 0) + n }));
     }
     case 'text':

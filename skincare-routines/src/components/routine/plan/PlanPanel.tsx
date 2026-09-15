@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { AlertTriangle, ArrowRight, RefreshCw, Send, Sparkles, Square } from 'lucide-react';
+import { AlertTriangle, ArrowRight, ListRestart, RefreshCw, Send, Sparkles, Square } from 'lucide-react';
 import { clsx } from 'clsx';
 import { StageProgress } from './StageProgress';
 import { WeekHeatmap } from './WeekHeatmap';
@@ -7,19 +7,20 @@ import { PlanWarnings } from './PlanWarnings';
 import { PlanStepList } from './PlanStepList';
 import type { PlannerState } from '../../../schedule/plannerStore';
 import type { PickResult } from '../../../schedule/planner/picker';
-import type { Day } from '../../../schedule/model';
+import type { Day, StepProduct } from '../../../schedule/model';
 
 interface Props {
   planner: PlannerState;
   pendingInRoutine: number;
   categoryLabel: (id: string) => string;
   effectivePick: (stepId: string) => PickResult['chosen'];
-  onChoose: (stepId: string, productId: string) => void;
+  onChoose: (stepId: string, product: StepProduct | null) => void;
   onPropose: (stepIds: string[]) => void;
   onProposeAll: () => void;
   onReview: () => void;
   onStop: () => void;
   onRebuild: () => void;
+  onRegenerate: () => void;
   onGoRoutine: () => void;
 }
 
@@ -27,7 +28,7 @@ const plain = (text: string) => text.replace(/\[\[[^\]]*\]\]?/g, '').replace(/\*
 
 /** Stage 3 — the plan stays on screen while later stages run: heatmap first (the peak moment: seeing actives spaced out),
  * compatibility notes, then the step rows filling in with ranked picks, then the assistant's notes layered on top. */
-export function PlanPanel({ planner, pendingInRoutine, categoryLabel, effectivePick, onChoose, onPropose, onProposeAll, onReview, onStop, onRebuild, onGoRoutine }: Props) {
+export function PlanPanel({ planner, pendingInRoutine, categoryLabel, effectivePick, onChoose, onPropose, onProposeAll, onReview, onStop, onRebuild, onRegenerate, onGoRoutine }: Props) {
   const [day, setDay] = useState<Day | null>(null);
   const { week, stages, phase } = planner;
   const running = phase === 'running';
@@ -48,7 +49,12 @@ export function PlanPanel({ planner, pendingInRoutine, categoryLabel, effectiveP
             </p>
           </div>
           <div className="flex flex-wrap gap-1.5">
-            {running || reviewing ? <button type="button" className="btn h-9" onClick={onStop}><Square size={13} aria-hidden />Stop</button> : <button type="button" className="btn h-9" onClick={onRebuild}><RefreshCw size={13} aria-hidden />Change list</button>}
+            {running || reviewing ? <button type="button" className="btn h-9" onClick={onStop}><Square size={13} aria-hidden />Stop</button> : (
+              <>
+                <button type="button" className="btn h-9" onClick={onRegenerate} title="Run the planner again on the same list — a fresh batch of picks; anything already accepted on your routine stays."><RefreshCw size={13} aria-hidden />Regenerate</button>
+                <button type="button" className="btn h-9" onClick={onRebuild}><ListRestart size={13} aria-hidden />Change list</button>
+              </>
+            )}
             {week && productsDone && sent < total && <button type="button" className="btn btn-primary h-9" onClick={onProposeAll}><Send size={13} aria-hidden />Send all {total - sent} to routine</button>}
             {sent > 0 && <button type="button" className="btn btn-accent h-9" onClick={onGoRoutine}>Review {pendingInRoutine} pending<ArrowRight size={13} aria-hidden /></button>}
           </div>

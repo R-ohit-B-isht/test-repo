@@ -207,3 +207,37 @@ async def test_review_routine_plan_keeps_only_known_pick_ids(ctx: ToolContext):
     assert "not-a-real-id" in joined and "not a step id" in joined and "empty note" in joined
     err, _ = await reg.execute("review_routine_plan", {"notes": [], "warnings": []}, ctx)
     assert "error" in err
+
+
+async def test_edit_routine_steps_binds_to_page_steps_and_real_listings(ctx: ToolContext):
+    reg = ToolRegistry()
+    assert reg.surfaces("edit_routine_steps")
+    top, _ = await reg.execute("get_top_products", {"category": "kp", "limit": 2}, ctx)
+    current, other = top["results"][0], top["results"][1]
+    page = {"routineSteps": [
+        {"id": "s1", "title": "KP lotion", "slot": "pm", "days": ["mon", "wed"], "zone": "body", "category": "kp", "note": "", "product": {"id": current["id"], "category": "kp", "brand": current["brand"], "title": current["title"], "rank": current["rank"]}},
+        {"id": "s2", "title": "Cleanse", "slot": "am", "days": ["mon", "tue", "wed", "thu", "fri", "sat", "sun"], "zone": "body", "category": "bodyscrub", "note": "", "product": None},
+    ]}
+    ctx2 = ToolContext(store=ctx.store, site_url=ctx.site_url, page=page)
+    result, _ = await reg.execute("edit_routine_steps", {"edits": [
+        {"step_id": "s1", "op": "replace", "product_id": other["id"], "why": "cheaper"},
+        {"step_id": "s2", "op": "move", "slot": "pm", "days": "tue, thu", "why": "night"},
+        {"step_id": "s2", "op": "remove", "why": "not needed"},
+        {"step_id": "s1", "op": "replace", "product_id": "not-a-real-id", "why": "invented"},
+        {"step_id": "s1", "op": "replace", "product_id": current["id"], "why": "same"},
+        {"step_id": "nope", "op": "remove", "why": "stale"},
+        {"step_id": "s2", "op": "move", "why": "nothing given"},
+        {"step_id": "s1", "op": "replace", "product_id": "none", "why": "keep the step, drop the pin"},
+        {"step_id": "s2", "op": "update", "product_id": "none", "why": "nothing pinned here"},
+    ]}, ctx2)
+    assert result["edited"] == 4 and result["rejected"] == 5
+    assert result["edits"][3]["after"] == {"product": None}
+    ok = result["edits"]
+    assert ok[0]["op"] == "replace" and ok[0]["after"]["product"]["id"] == other["id"] and ok[0]["after"]["category"] == "kp"
+    assert ok[0]["before"]["id"] == "s1" and ok[0]["before"]["product"]["id"] == current["id"]
+    assert ok[1]["after"] == {"slot": "pm", "days": ["tue", "thu"]}
+    assert ok[2]["op"] == "remove" and ok[2]["after"] == {}
+    reasons = " ".join(" ".join(p["reasons"]) for p in result["problems"])
+    assert "not-a-real-id" in reasons and "already the product" in reasons and "no step with id 'nope'" in reasons and "needs days and/or slot" in reasons and "no product to unpin" in reasons
+    err, _ = await reg.execute("edit_routine_steps", {"edits": [{"step_id": "s1", "op": "remove", "why": "x"}]}, ctx)
+    assert "no saved routine steps" in err["error"]

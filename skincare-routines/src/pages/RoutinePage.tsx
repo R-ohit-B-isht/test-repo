@@ -1,6 +1,6 @@
 import { useCallback, useEffect, useMemo, useState } from 'react';
 import { useSearchParams } from 'react-router-dom';
-import { AlertTriangle, ClipboardCopy, Trash2 } from 'lucide-react';
+import { AlertTriangle, ClipboardCopy, RefreshCw, Trash2 } from 'lucide-react';
 import { useManifest } from '../data/hooks';
 import { Hero } from '../components/layout/Hero';
 import { StatusBlock } from '../components/ui/primitives';
@@ -16,7 +16,7 @@ import { blankStep, type StepDraft } from '../schedule/draft';
 import { toast } from '../state/toastStore';
 import { usePagePublish } from '../chat/pageContext';
 import { useDevPublish } from '../components/dev/devStore';
-import { planAsText, SLOT_LABEL, type Day, type Proposal, type Slot, type Step } from '../schedule/model';
+import { EDIT_VERB, planAsText, SLOT_LABEL, type Day, type Proposal, type Slot, type Step } from '../schedule/model';
 import {
   acceptAllPending, acceptProposal, addStep, clearDecided, clearPlan, dismissFill, moveStep, registerCategoryLabels,
   rejectAllPending, rejectProposal, removeStep, updateSetup, updateStep, useSchedule,
@@ -77,20 +77,36 @@ export default function RoutinePage() {
     if (!editor) return;
     if (editor.kind === 'add') { addStep(draft); toast(`Added to ${SLOT_LABEL[draft.slot].toLowerCase()} routine`); }
     else if (editor.kind === 'edit') updateStep(editor.step.id, draft);
-    else { acceptProposal(editor.proposal.id, draft); toast(`Accepted “${draft.title}” with your edits`); }
+    else {
+      const r = acceptProposal(editor.proposal.id, draft);
+      toast(r.applied ? (editor.proposal.edit ? `Applied “${draft.title}” with your edits` : `Accepted “${draft.title}” with your edits`) : r.reason ?? 'That proposal is no longer pending');
+    }
     setEditor(null);
   };
   const accept = (id: string) => {
     const p = plan.proposals.find((x) => x.id === id);
-    acceptProposal(id);
-    if (p) toast(`“${p.step.title}” added to ${SLOT_LABEL[p.step.slot].toLowerCase()} routine`);
+    const r = acceptProposal(id);
+    if (!p) return;
+    if (!r.applied) toast(r.reason ?? 'That proposal is no longer pending');
+    else if (p.edit) toast(p.edit.op === 'remove' ? `“${p.edit.before.title}” removed` : `${EDIT_VERB[p.edit.op]} applied to “${p.edit.before.title}”`);
+    else toast(`“${p.step.title}” added to ${SLOT_LABEL[p.step.slot].toLowerCase()} routine`);
   };
-  const acceptAll = () => { acceptAllPending(); toast(`${pending} proposal${pending === 1 ? '' : 's'} added to your routine`); };
+  const acceptAll = () => {
+    const r = acceptAllPending();
+    toast(r.dropped ? `${r.applied} applied · ${r.dropped} dropped (their steps were gone)` : `${r.applied} proposal${r.applied === 1 ? '' : 's'} applied to your routine`);
+  };
   const copyPlan = async () => {
     try { await navigator.clipboard.writeText(planAsText(plan, categoryLabel)); toast('Routine copied as text'); }
     catch { toast('Could not copy — clipboard access was refused'); }
   };
   const build = () => { setView('plan'); void buildPlan(plan.setup); };
+  const regenerate = () => {
+    if (planner.phase === 'running') stopPlanner();
+    const stale = plan.proposals.filter((p) => p.status === 'pending' && !p.edit).length;
+    setView('plan');
+    void buildPlan(plan.setup);
+    toast(stale ? `Fresh run started · ${stale} older pending proposal${stale === 1 ? '' : 's'} still waiting on My routine` : 'Fresh run started — accepted steps stay as they are');
+  };
   const propose = (ids: string[]) => {
     const n = proposeSteps(ids);
     if (n) toast(`${n} step${n === 1 ? '' : 's'} sent to your routine as pending`);
@@ -132,7 +148,7 @@ export default function RoutinePage() {
       {view === 'plan' && (
         <PlanPanel planner={planner} pendingInRoutine={pending} categoryLabel={categoryLabel} effectivePick={effectivePick} onChoose={choosePick}
           onPropose={propose} onProposeAll={() => propose(planner.week?.steps.map((s) => s.id) ?? [])} onReview={() => void reviewWithAssistant(plan.setup)}
-          onStop={stopPlanner} onRebuild={() => { resetPlanner(); setView('inventory'); }} onGoRoutine={() => setView('routine')} />
+          onStop={stopPlanner} onRebuild={() => { resetPlanner(); setView('inventory'); }} onRegenerate={regenerate} onGoRoutine={() => setView('routine')} />
       )}
 
       {view === 'routine' && (
@@ -148,6 +164,7 @@ export default function RoutinePage() {
           {(plan.steps.length > 0 || plan.proposals.length > 0) && (
             <div className="flex flex-wrap gap-2">
               <button type="button" className="btn" onClick={() => void copyPlan()} disabled={plan.steps.length === 0}><ClipboardCopy size={14} aria-hidden />Copy as text</button>
+              {planner.week && <button type="button" className="btn" onClick={regenerate}><RefreshCw size={14} aria-hidden />Regenerate week</button>}
               <button type="button" className="btn text-danger" onClick={() => { if (window.confirm('Remove every step and proposal from your routine?')) clearPlan(); }}><Trash2 size={14} aria-hidden />Clear routine</button>
             </div>
           )}

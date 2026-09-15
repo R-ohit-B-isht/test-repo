@@ -37,6 +37,14 @@ export interface Step {
 }
 
 export type ProposalStatus = 'pending' | 'accepted' | 'rejected';
+export type EditOp = 'replace' | 'move' | 'update' | 'remove';
+/** A proposal that changes an existing step instead of adding one: `step` holds the step as it would look after the change. */
+export interface StepEdit {
+  op: EditOp;
+  targetStepId: string;
+  /** The target as it was when proposed — shown as the "before" half of the diff and used to notice it changed since. */
+  before: Omit<Step, 'id' | 'origin' | 'order'>;
+}
 export interface Proposal {
   id: string;
   step: Omit<Step, 'id' | 'origin' | 'order'>;
@@ -44,7 +52,11 @@ export interface Proposal {
   status: ProposalStatus;
   createdAt: number;
   batch: string;
+  /** Present on edit proposals; absent (or undefined) on plain "add this step" ones. */
+  edit?: StepEdit;
 }
+
+export const EDIT_VERB: Record<EditOp, string> = { replace: 'Swap product', move: 'Move', update: 'Change', remove: 'Remove' };
 
 export interface Setup {
   zones: PlanZone[];

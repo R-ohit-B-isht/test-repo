@@ -1,8 +1,11 @@
 /** localStorage adapter for the routine plan (Memento: the store hands over a snapshot, this file persists/restores it).
  * Corrupt or unavailable storage yields the empty plan plus a flag — never an invented routine. */
 import {
-  EMPTY_PLAN, EMPTY_SETUP, isDay, isPlanZone, isSlot, SKIN_TYPES, type Plan, type Proposal, type Setup, type Step, type StepProduct,
+  EMPTY_PLAN, EMPTY_SETUP, isDay, isPlanZone, isSlot, SKIN_TYPES, type EditOp, type Plan, type Proposal, type Setup, type Step, type StepEdit, type StepProduct,
 } from './model';
+
+const EDIT_OPS: readonly EditOp[] = ['replace', 'move', 'update', 'remove'];
+export const isEditOp = (v: unknown): v is EditOp => typeof v === 'string' && (EDIT_OPS as readonly string[]).includes(v);
 
 const KEY = 'ledger.routine.v1';
 const MAX_STEPS = 60;
@@ -33,6 +36,18 @@ function validStep(v: unknown): Step | null {
   };
 }
 
+export function validEdit(v: unknown): StepEdit | null {
+  if (!isRecord(v) || !isEditOp(v.op) || typeof v.targetStepId !== 'string' || !isRecord(v.before)) return null;
+  const b = v.before;
+  if (typeof b.title !== 'string' || !isSlot(b.slot) || !isPlanZone(b.zone) || !Array.isArray(b.days)) return null;
+  const days = [...new Set(b.days.filter(isDay))];
+  if (!days.length) return null;
+  return {
+    op: v.op, targetStepId: v.targetStepId,
+    before: { title: b.title, slot: b.slot, zone: b.zone, days, category: typeof b.category === 'string' ? b.category : null, product: validProduct(b.product), note: str(b.note) },
+  };
+}
+
 function validProposal(v: unknown): Proposal | null {
   if (!isRecord(v) || typeof v.id !== 'string' || typeof v.createdAt !== 'number') return null;
   const step = validStep({ ...(isRecord(v.step) ? v.step : {}), id: v.id });
@@ -40,7 +55,8 @@ function validProposal(v: unknown): Proposal | null {
   const { id: _id, origin: _o, order: _n, ...rest } = step;
   void _id; void _o; void _n;
   const status = v.status === 'accepted' || v.status === 'rejected' ? v.status : 'pending';
-  return { id: v.id, step: rest, why: str(v.why), status, createdAt: v.createdAt, batch: str(v.batch) };
+  const edit = validEdit(v.edit);
+  return { id: v.id, step: rest, why: str(v.why), status, createdAt: v.createdAt, batch: str(v.batch), ...(edit ? { edit } : {}) };
 }
 
 function validSetup(v: unknown): Setup {

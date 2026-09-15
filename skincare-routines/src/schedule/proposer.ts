@@ -2,12 +2,21 @@
  * proposals. Every product on a proposal was already validated against the search index by the tool; this side only
  * re-checks shape so a malformed payload degrades to "nothing proposed", never to an invented step. */
 import { PROPOSE_TOOL } from '../chat/local/tools/routine';
-import { validProduct } from './storage';
+import { EDIT_TOOL } from '../chat/local/tools/routineEdit';
+import type { RoutineStepContext } from '../chat/types';
+import { isEditOp, validProduct } from './storage';
 import {
   DAY_LABEL, isDay, isPlanZone, isSlot, newId, SLOT_LABEL, ZONE_LABEL, type Plan, type Proposal, type Slot, type Step,
 } from './model';
 
-export { PROPOSE_TOOL };
+export { EDIT_TOOL, PROPOSE_TOOL };
+
+/** The accepted steps as the assistant sees them in the page context (ids included so it can name a step to edit). */
+export const stepsForContext = (steps: Step[]): RoutineStepContext[] =>
+  [...steps].sort((a, b) => (a.slot === b.slot ? a.order - b.order : a.slot === 'am' ? -1 : 1)).slice(0, 60).map((s) => ({
+    id: s.id, title: s.title, slot: s.slot, days: s.days, zone: s.zone, category: s.category, note: s.note,
+    product: s.product ? { id: s.product.id, category: s.product.category, brand: s.product.brand, title: s.product.title, rank: s.product.rank } : null,
+  }));
 
 const isRecord = (v: unknown): v is Record<string, unknown> => typeof v === 'object' && v !== null;
 
@@ -64,6 +73,36 @@ export function proposalsFrom(result: Record<string, unknown>, batch: string): P
   return out;
 }
 
+/** Parse an `edit_routine_steps` payload (`{edits:[{step_id,op,after:{...},why}]}`) into pending edit proposals. Each edit is
+ * bound to a step that exists in `steps` right now; the proposal's `step` is that step with the change applied, so the card
+ * can show before → after. Edits whose target has gone are dropped, never re-targeted. */
+export function editsFrom(result: Record<string, unknown>, batch: string, steps: Step[]): Proposal[] {
+  const raw = Array.isArray(result.edits) ? result.edits : [];
+  const now = Date.now();
+  const out: Proposal[] = [];
+  for (const entry of raw) {
+    if (!isRecord(entry) || typeof entry.step_id !== 'string' || !isEditOp(entry.op)) continue;
+    const target = steps.find((s) => s.id === entry.step_id);
+    if (!target) continue;
+    const after = isRecord(entry.after) ? entry.after : {};
+    const days = Array.isArray(after.days) ? [...new Set(after.days.filter(isDay))] : target.days;
+    if (!days.length) continue;
+    const product = 'product' in after ? validProduct(after.product) : target.product;
+    out.push({
+      id: newId(), status: 'pending', createdAt: now, batch,
+      why: typeof entry.why === 'string' ? entry.why : '',
+      edit: { op: entry.op, targetStepId: target.id, before: { title: target.title, slot: target.slot, zone: target.zone, days: target.days, category: target.category, product: target.product, note: target.note } },
+      step: {
+        slot: isSlot(after.slot) ? after.slot : target.slot, zone: target.zone, days,
+        title: typeof after.title === 'string' && after.title.trim() ? after.title.trim() : target.title,
+        category: typeof after.category === 'string' ? after.category : target.category,
+        product, note: typeof after.note === 'string' ? after.note : target.note,
+      },
+    });
+  }
+  return out;
+}
+
 /** Problems the tool reported back (steps it refused because the id was invented, the slot was wrong…). */
 export function problemsFrom(result: Record<string, unknown>): string[] {
   const raw = Array.isArray(result.problems) ? result.problems : [];
@@ -80,6 +119,7 @@ export function toolStatus(name: string, args: Record<string, unknown>, category
     case 'search_products': return typeof args.query === 'string' ? `Searching “${args.query}”…` : 'Searching listings…';
     case 'get_category_filters': return 'Reading category filters…';
     case PROPOSE_TOOL: return 'Validating proposed products against site data…';
+    case EDIT_TOOL: return 'Checking the changes against your routine…';
     default: return 'Reading site data…';
   }
 }

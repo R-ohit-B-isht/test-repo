@@ -10,11 +10,12 @@ from .knowledge import GetIngredientKnowledge
 from .products import CompareProducts, GetCategoryFilters, GetProduct, GetTopProducts, SearchProducts
 from .plan_review import ReviewRoutinePlan
 from .routine import ProposeRoutineSteps
+from .routine_edit import EditRoutineSteps
 
 ALL_TOOLS: list[Tool] = [
     GetSiteOverview(), ListCategories(), GetScoringMethod(), GetReferenceCeiling(), GetRoutines(),
     SearchProducts(), GetTopProducts(), GetCategoryFilters(), GetProduct(), CompareProducts(), GetIngredientKnowledge(),
-    ProposeRoutineSteps(), ReviewRoutinePlan(),
+    ProposeRoutineSteps(), EditRoutineSteps(), ReviewRoutinePlan(),
 ]
 
 

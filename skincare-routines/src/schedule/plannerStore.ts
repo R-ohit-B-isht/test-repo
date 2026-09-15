@@ -8,7 +8,7 @@ import { LedgerStore } from '../chat/local/store';
 import { getPage } from '../chat/pageContext';
 import { transportFor } from '../chat/transport';
 import type { ChatError, ChatEvent } from '../chat/types';
-import { newId, type Proposal, type Setup } from './model';
+import { newId, type Proposal, type Setup, type StepProduct } from './model';
 import { catalogItem, parseInventory, type Inventory } from './planner/inventory';
 import { pickForStep, type PickResult } from './planner/picker';
 import { REVIEW_TOOL, reviewFrom, reviewMessage, type Review } from './planner/review';
@@ -237,13 +237,14 @@ export function effectivePick(stepId: string): PickResult['chosen'] {
   return (swap && pick.candidates.find((c) => c.id === swap)) ?? pick.chosen;
 }
 
-/** Overrides the pick from the step's own candidate list (user choice in the UI). */
-export function choosePick(stepId: string, productId: string) {
-  const pick = state.picks[stepId];
-  const chosen = pick?.candidates.find((c) => c.id === productId);
-  if (!pick || !chosen) return;
+/** Overrides the pick with any real listing (a ranked candidate or one found by search) or with no product at all. */
+export function choosePick(stepId: string, chosen: StepProduct | null) {
+  const step = state.week?.steps.find((s) => s.id === stepId);
+  if (!step) return;
+  const pick: PickResult = state.picks[stepId] ?? { stepId, chosen: null, candidates: [], relaxed: [], error: null, how: 'Picked by you.' };
+  const candidates = chosen && !pick.candidates.some((c) => c.id === chosen.id) ? [chosen, ...pick.candidates] : pick.candidates;
   const review = state.review ? { ...state.review, notes: { ...state.review.notes, [stepId]: { why: state.review.notes[stepId]?.why ?? '', pickId: null } } } : null;
-  set({ picks: { ...state.picks, [stepId]: { ...pick, chosen } }, review });
+  set({ picks: { ...state.picks, [stepId]: { ...pick, chosen, candidates } }, review });
 }
 
 function proposalOf(step: PlanStep, batch: string): Proposal {

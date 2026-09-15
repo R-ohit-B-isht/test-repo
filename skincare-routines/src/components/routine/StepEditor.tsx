@@ -1,7 +1,7 @@
 import { useState, type ReactNode } from 'react';
 import { clsx } from 'clsx';
 import { Sheet } from '../ui/Sheet';
-import { ProductSnippet } from './ProductSnippet';
+import { ListingPicker } from './ListingPicker';
 import type { CategoryMeta } from '../../lib/types';
 import { zoneMatches, type StepDraft } from '../../schedule/draft';
 import { DAYS, DAY_LABEL, PLAN_ZONES, SLOTS, SLOT_LABEL, ZONE_LABEL, type Day } from '../../schedule/model';
@@ -25,8 +25,8 @@ const PRESETS: { label: string; days: Day[] }[] = [
   { label: 'Twice a week', days: ['tue', 'sat'] },
 ];
 
-/** One form for adding a step, editing one, or editing an assistant proposal before accepting it. The pinned product can only be
- *  kept or removed here — a listing is never typed in by hand, so every product on the plan is one the site actually ranks. */
+/** One form for adding a step, editing one, or editing an assistant proposal before accepting it. The pinned product is picked
+ *  from the site's own ranked listings (search or top of the category) or left empty — never typed in by hand. */
 export function StepEditor({ open, title, submitLabel, initial, categories, categoryLabel, onClose, onSubmit }: Props) {
   return (
     <Sheet open={open} onClose={onClose} title={title} narrow
@@ -57,7 +57,7 @@ function StepForm({ initial, categories, categoryLabel, onSubmit }: Pick<Props, 
     if (!draft.title.trim() || draft.days.length === 0) return;
     onSubmit({ ...draft, title: draft.title.trim(), note: draft.note.trim() });
   };
-  const options = categories.filter((c) => zoneMatches(c, draft.zone));
+  const options = categories.filter((c) => zoneMatches(c, draft.zone) || c.id === draft.category);
   return (
     <form id={FORM_ID} className="space-y-6" onSubmit={(e) => { e.preventDefault(); submit(); }} noValidate>
         <Field label="Step" error={titleError}>
@@ -106,12 +106,10 @@ function StepForm({ initial, categories, categoryLabel, onSubmit }: Pick<Props, 
             {options.map((c) => <option key={c.id} value={c.id}>{c.label}</option>)}
           </select>
         </Field>
-        {draft.product && (
-          <Field label="Pinned listing" hint="Copied from the site's ranking; remove it if you want the step without a specific product.">
-            <ProductSnippet product={draft.product} categoryLabel={categoryLabel} />
-            <button type="button" className="btn mt-2 h-9" onClick={() => patch({ product: null })}>Remove listing</button>
-          </Field>
-        )}
+        <Field label="Product" hint={draft.product ? 'Rank, score and evidence exactly as the site shows them.' : undefined}>
+          <ListingPicker product={draft.product} category={draft.category} categoryLabel={categoryLabel}
+            onChange={(product) => patch({ product, category: product ? product.category : draft.category })} />
+        </Field>
         <Field label="Note" hint="How to use it, what to watch for.">
           <textarea id="step-note" className="field min-h-[88px] w-full resize-y py-2.5 leading-relaxed" value={draft.note} maxLength={400}
             onChange={(e) => patch({ note: e.target.value })} placeholder="e.g. Pea-sized amount, wait 20 min before moisturiser" />
