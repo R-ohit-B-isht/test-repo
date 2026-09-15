@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-13.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-15.
 // Unknown fields are honestly marked, never invented.
 const NXPRODUCTS = [
  {
@@ -2238,11 +2238,12 @@ const NXPRODUCTS = [
    "Well-reviewed: 4.3★ from 4,567 ratings"
   ],
   "cons": [
-   "Added fragrance (parfum): perfume"
+   "Added fragrance (parfum): perfume",
+   "Formaldehyde-releasing preservative: imidazolidinyl urea"
   ],
   "scores": {
    "ingredients": 5.9,
-   "skin": 7.7,
+   "skin": 6.3,
    "trust": 7,
    "experience": 7.9
   },
@@ -2266,9 +2267,9 @@ const NXPRODUCTS = [
    "inciSourceUrl": "https://bebodywise.com/product/5-lactic-acid-body-lotion",
    "inciMatchedName": "5 lactic acid body lotion (name match 94%)",
    "listingIngredientLine": "5% Lactic Acid, Cica Extract, Aloe vera Extract, Vitamin E, Sunflower Oil, Argan Oil, Cucumber Extract (as printed on the Flipkart listing — incomplete, not scored)",
-   "inciList": "Aqua, Sodium lactate, Glycerin , Butyrospermum Parkii (Shea) Butter, Cetearyl Alcohol (and) Ceteareth-20 , Mangifera Indica (Mango) Seed Butter, Theobroma Cacao (Cocoa) Seed Butter, Cyclopentasiloxane, Stearyl Alcohol, Dimethicone , Glycerin (and) Glyceryl Glucoside, Phenoxyethanol (and) Ethylhexylglycerin, Perfume, Polyacrylate-13 and Polyisobutene and Polysorbate-20, Stearic acid, Butylated Hydroxytoluene , Disodium EDTA , Imidazolidinyl Urea Formulated Without Mineral Oil, Phthalates, SLS, Parabens",
+   "inciList": "Aqua, Sodium lactate, Glycerin , Butyrospermum Parkii (Shea) Butter, Cetearyl Alcohol (and) Ceteareth-20 , Mangifera Indica (Mango) Seed Butter, Theobroma Cacao (Cocoa) Seed Butter, Cyclopentasiloxane, Stearyl Alcohol, Dimethicone , Glycerin (and) Glyceryl Glucoside, Phenoxyethanol (and) Ethylhexylglycerin, Perfume, Polyacrylate-13 and Polyisobutene and Polysorbate-20, Stearic acid, Butylated Hydroxytoluene , Disodium EDTA , Imidazolidinyl Urea",
    "evidenceActives": "glycerin (#3 on list, strong evidence)",
-   "safetyFlags": "Added fragrance (parfum): perfume (−1.5)",
+   "safetyFlags": "Added fragrance (parfum): perfume (−1.5); Formaldehyde-releasing preservative: imidazolidinyl urea (−1.5)",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "declaredManufacturer": "Bili Lifescience Llp, 36, 27, Tulsi Industrial Estate, B/F Changodar Bridge, Changodar, Ahmedabad - 382213, Gujarat (as printed on the Flipkart listing — not scored)",
    "buyerEvidence": "4.3★ from 4,567 ratings"
@@ -2314,11 +2315,11 @@ const NXPRODUCTS = [
    "inciSourceRegion": "IN",
    "inciMatchedTitle": "5 lactic acid body lotion",
    "inciMatchScore": 0.94,
-   "inciText": "Aqua, Sodium lactate, Glycerin , Butyrospermum Parkii (Shea) Butter, Cetearyl Alcohol (and) Ceteareth-20 , Mangifera Indica (Mango) Seed Butter, Theobroma Cacao (Cocoa) Seed Butter, Cyclopentasiloxane, Stearyl Alcohol, Dimethicone , Glycerin (and) Glyceryl Glucoside, Phenoxyethanol (and) Ethylhexylglycerin, Perfume, Polyacrylate-13 and Polyisobutene and Polysorbate-20, Stearic acid, Butylated Hydroxytoluene , Disodium EDTA , Imidazolidinyl Urea Formulated Without Mineral Oil, Phthalates, SLS, Parabens",
+   "inciText": "Aqua, Sodium lactate, Glycerin , Butyrospermum Parkii (Shea) Butter, Cetearyl Alcohol (and) Ceteareth-20 , Mangifera Indica (Mango) Seed Butter, Theobroma Cacao (Cocoa) Seed Butter, Cyclopentasiloxane, Stearyl Alcohol, Dimethicone , Glycerin (and) Glyceryl Glucoside, Phenoxyethanol (and) Ethylhexylglycerin, Perfume, Polyacrylate-13 and Polyisobutene and Polysorbate-20, Stearic acid, Butylated Hydroxytoluene , Disodium EDTA , Imidazolidinyl Urea",
    "inciUnverified": null,
    "inciNote": null,
    "declarationConfidence": 0.9,
-   "recognised": 0.88,
+   "recognised": 0.96,
    "actives": [
     {
      "name": "glycerin",
@@ -2368,6 +2369,15 @@ const NXPRODUCTS = [
      ],
      "penalty": 1.5,
      "src": "acdsFragrance"
+    },
+    {
+     "id": "formaldehydeReleaser",
+     "label": "Formaldehyde-releasing preservative",
+     "names": [
+      "imidazolidinyl urea"
+     ],
+     "penalty": 1.5,
+     "src": "eu2019_831"
     }
    ],
    "maker": {
@@ -2394,11 +2404,12 @@ const NXPRODUCTS = [
    "Well-reviewed: 4.5★ from 75 ratings"
   ],
   "cons": [
-   "Added fragrance (parfum): perfume"
+   "Added fragrance (parfum): perfume",
+   "Formaldehyde-releasing preservative: imidazolidinyl urea"
   ],
   "scores": {
    "ingredients": 5.9,
-   "skin": 7.7,
+   "skin": 6.3,
    "trust": 7,
    "experience": 6.2
   },
@@ -2422,9 +2433,9 @@ const NXPRODUCTS = [
    "inciSource": "Be Bodywise official website (bebodywise.com) — product page › Ingredients",
    "inciSourceUrl": "https://bebodywise.com/product/5-lactic-acid-body-lotion",
    "inciMatchedName": "5 lactic acid body lotion (name match 94%)",
-   "inciList": "Aqua, Sodium lactate, Glycerin , Butyrospermum Parkii (Shea) Butter, Cetearyl Alcohol (and) Ceteareth-20 , Mangifera Indica (Mango) Seed Butter, Theobroma Cacao (Cocoa) Seed Butter, Cyclopentasiloxane, Stearyl Alcohol, Dimethicone , Glycerin (and) Glyceryl Glucoside, Phenoxyethanol (and) Ethylhexylglycerin, Perfume, Polyacrylate-13 and Polyisobutene and Polysorbate-20, Stearic acid, Butylated Hydroxytoluene , Disodium EDTA , Imidazolidinyl Urea Formulated Without Mineral Oil, Phthalates, SLS, Parabens",
+   "inciList": "Aqua, Sodium lactate, Glycerin , Butyrospermum Parkii (Shea) Butter, Cetearyl Alcohol (and) Ceteareth-20 , Mangifera Indica (Mango) Seed Butter, Theobroma Cacao (Cocoa) Seed Butter, Cyclopentasiloxane, Stearyl Alcohol, Dimethicone , Glycerin (and) Glyceryl Glucoside, Phenoxyethanol (and) Ethylhexylglycerin, Perfume, Polyacrylate-13 and Polyisobutene and Polysorbate-20, Stearic acid, Butylated Hydroxytoluene , Disodium EDTA , Imidazolidinyl Urea",
    "evidenceActives": "glycerin (#3 on list, strong evidence)",
-   "safetyFlags": "Added fragrance (parfum): perfume (−1.5)",
+   "safetyFlags": "Added fragrance (parfum): perfume (−1.5); Formaldehyde-releasing preservative: imidazolidinyl urea (−1.5)",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "buyerEvidence": "4.5★ from 75 ratings"
   },
@@ -2485,11 +2496,11 @@ const NXPRODUCTS = [
    "inciSourceRegion": "IN",
    "inciMatchedTitle": "5 lactic acid body lotion",
    "inciMatchScore": 0.94,
-   "inciText": "Aqua, Sodium lactate, Glycerin , Butyrospermum Parkii (Shea) Butter, Cetearyl Alcohol (and) Ceteareth-20 , Mangifera Indica (Mango) Seed Butter, Theobroma Cacao (Cocoa) Seed Butter, Cyclopentasiloxane, Stearyl Alcohol, Dimethicone , Glycerin (and) Glyceryl Glucoside, Phenoxyethanol (and) Ethylhexylglycerin, Perfume, Polyacrylate-13 and Polyisobutene and Polysorbate-20, Stearic acid, Butylated Hydroxytoluene , Disodium EDTA , Imidazolidinyl Urea Formulated Without Mineral Oil, Phthalates, SLS, Parabens",
+   "inciText": "Aqua, Sodium lactate, Glycerin , Butyrospermum Parkii (Shea) Butter, Cetearyl Alcohol (and) Ceteareth-20 , Mangifera Indica (Mango) Seed Butter, Theobroma Cacao (Cocoa) Seed Butter, Cyclopentasiloxane, Stearyl Alcohol, Dimethicone , Glycerin (and) Glyceryl Glucoside, Phenoxyethanol (and) Ethylhexylglycerin, Perfume, Polyacrylate-13 and Polyisobutene and Polysorbate-20, Stearic acid, Butylated Hydroxytoluene , Disodium EDTA , Imidazolidinyl Urea",
    "inciUnverified": null,
    "inciNote": null,
    "declarationConfidence": 0.9,
-   "recognised": 0.88,
+   "recognised": 0.96,
    "actives": [
     {
      "name": "glycerin",
@@ -2539,6 +2550,15 @@ const NXPRODUCTS = [
      ],
      "penalty": 1.5,
      "src": "acdsFragrance"
+    },
+    {
+     "id": "formaldehydeReleaser",
+     "label": "Formaldehyde-releasing preservative",
+     "names": [
+      "imidazolidinyl urea"
+     ],
+     "penalty": 1.5,
+     "src": "eu2019_831"
     }
    ],
    "maker": {
@@ -21411,15 +21431,18 @@ const NXPRODUCTS = [
   "capacityLine": "200 g",
   "materialLine": "Glycolic acid + Lactic acid",
   "featureLine": "Scrub · ₹244/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (FoxTale official website (foxtale-consumer.myshopify.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence); niacinamide high on the INCI list (strong evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): fragrance",
+   "EU-declared fragrance allergen: citral, citronellol"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 6.6,
+   "skin": 5.9,
+   "trust": 7,
    "experience": 3.8
   },
   "fullSpec": {
@@ -21437,13 +21460,16 @@ const NXPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.6/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "FoxTale official website (foxtale-consumer.myshopify.com) — product page › Ingredients",
+   "inciSourceUrl": "https://foxtale-consumer.myshopify.com/products/foaming-de-tan-body-scrub-v2",
+   "inciMatchedName": "Foaming De-Tan Body Scrub (name match 89%)",
+   "inciList": "Aqua, C 12-15 alkyl benzoate, Propylene glycol, Glyceryl stearate, PEG 100 stearate, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol, Decyl Glucoside, Glycerin, Ceteareth 20, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Cetyl alcohol, Ethylhexyl triazone, Niacinamide, Dimethicone, Phenoxyethanol, Fragrance, Ethyl ascorbic acid, Tocopherol, Ethylhexylglycerin, Octenidine HCl, Carbomer, Cetearyl alcohol, Cetearyl glucoside, Triethanolamine, Silica, Titanium dioxide, Mica, Tin oxide, Disodium EDTA, Xanthan Gum, Simethicone, Citral, Citronellol, Coumarine, d-limonene, Geraniol, Linalool",
+   "evidenceActives": "glycerin (#8 on list, strong evidence); niacinamide (#13 on list, strong evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5); EU-declared fragrance allergen: citral, citronellol, coumarine, geraniol, linalool (−2)",
    "maker": "Foxtale Consumer — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.6★ from 0 ratings"
+   "buyerEvidence": "4.6★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #13 on INCI; Dark spots — niacinamide #13 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51nJ5d5MAmL._SL1080_.jpg",
@@ -21470,7 +21496,10 @@ const NXPRODUCTS = [
    "size:large",
    "rating:4.5",
    "store:amazon",
-   "inci:none"
+   "target:acne",
+   "target:dark-spots",
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -21478,27 +21507,127 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "FoxTale official website (foxtale-consumer.myshopify.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://foxtale-consumer.myshopify.com/products/foaming-de-tan-body-scrub-v2",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Foaming De-Tan Body Scrub",
+   "inciMatchScore": 0.89,
+   "inciText": "Aqua, C 12-15 alkyl benzoate, Propylene glycol, Glyceryl stearate, PEG 100 stearate, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol, Decyl Glucoside, Glycerin, Ceteareth 20, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Cetyl alcohol, Ethylhexyl triazone, Niacinamide, Dimethicone, Phenoxyethanol, Fragrance, Ethyl ascorbic acid, Tocopherol, Ethylhexylglycerin, Octenidine HCl, Carbomer, Cetearyl alcohol, Cetearyl glucoside, Triethanolamine, Silica, Titanium dioxide, Mica, Tin oxide, Disodium EDTA, Xanthan Gum, Simethicone, Citral, Citronellol, Coumarine, d-limonene, Geraniol, Linalool",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 0.97,
+   "actives": [
+    {
+     "name": "methylene bis-benzotriazolyl tetramethylbutylphenol",
+     "grade": "A",
+     "position": 6,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 8,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "diethylamino hydroxybenzoyl hexyl benzoate",
+     "grade": "A",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "ethylhexyl triazone",
+     "grade": "A",
+     "position": 12,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 13,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 14,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "ethyl ascorbic acid",
+     "grade": "B",
+     "position": 17,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 18,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "titanium dioxide",
+     "grade": "A",
+     "position": 26,
+     "core": false,
+     "trace": true,
+     "src": "sunFilters"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "niacinamide",
+    "dimethicone"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "euAllergen",
+     "label": "EU-declared fragrance allergen",
+     "names": [
+      "citral",
+      "citronellol",
+      "coumarine",
+      "geraniol",
+      "linalool"
+     ],
+     "penalty": 2,
+     "src": "eu1223"
+    }
+   ],
    "maker": {
     "parent": "Foxtale Consumer",
     "kind": "d2c",
@@ -53993,15 +54122,18 @@ const NXPRODUCTS = [
   "capacityLine": "75 g",
   "materialLine": "Glycolic acid + Lactic acid",
   "featureLine": "Scrub · ₹372/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (FoxTale official website (foxtale-consumer.myshopify.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence); niacinamide high on the INCI list (strong evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): fragrance",
+   "EU-declared fragrance allergen: citral, citronellol"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 6.6,
+   "skin": 5.9,
+   "trust": 7,
    "experience": 3.2
   },
   "fullSpec": {
@@ -54019,13 +54151,16 @@ const NXPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.4/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "FoxTale official website (foxtale-consumer.myshopify.com) — product page › Ingredients",
+   "inciSourceUrl": "https://foxtale-consumer.myshopify.com/products/foaming-de-tan-body-scrub-v2",
+   "inciMatchedName": "Foaming De-Tan Body Scrub (name match 89%)",
+   "inciList": "Aqua, C 12-15 alkyl benzoate, Propylene glycol, Glyceryl stearate, PEG 100 stearate, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol, Decyl Glucoside, Glycerin, Ceteareth 20, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Cetyl alcohol, Ethylhexyl triazone, Niacinamide, Dimethicone, Phenoxyethanol, Fragrance, Ethyl ascorbic acid, Tocopherol, Ethylhexylglycerin, Octenidine HCl, Carbomer, Cetearyl alcohol, Cetearyl glucoside, Triethanolamine, Silica, Titanium dioxide, Mica, Tin oxide, Disodium EDTA, Xanthan Gum, Simethicone, Citral, Citronellol, Coumarine, d-limonene, Geraniol, Linalool",
+   "evidenceActives": "glycerin (#8 on list, strong evidence); niacinamide (#13 on list, strong evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5); EU-declared fragrance allergen: citral, citronellol, coumarine, geraniol, linalool (−2)",
    "maker": "Foxtale Consumer — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.4★ from 0 ratings"
+   "buyerEvidence": "4.4★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #13 on INCI; Dark spots — niacinamide #13 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71Qlm65woaL._SL1500_.jpg",
@@ -54052,7 +54187,10 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "target:acne",
+   "target:dark-spots",
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -54060,27 +54198,127 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "FoxTale official website (foxtale-consumer.myshopify.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://foxtale-consumer.myshopify.com/products/foaming-de-tan-body-scrub-v2",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Foaming De-Tan Body Scrub",
+   "inciMatchScore": 0.89,
+   "inciText": "Aqua, C 12-15 alkyl benzoate, Propylene glycol, Glyceryl stearate, PEG 100 stearate, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol, Decyl Glucoside, Glycerin, Ceteareth 20, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Cetyl alcohol, Ethylhexyl triazone, Niacinamide, Dimethicone, Phenoxyethanol, Fragrance, Ethyl ascorbic acid, Tocopherol, Ethylhexylglycerin, Octenidine HCl, Carbomer, Cetearyl alcohol, Cetearyl glucoside, Triethanolamine, Silica, Titanium dioxide, Mica, Tin oxide, Disodium EDTA, Xanthan Gum, Simethicone, Citral, Citronellol, Coumarine, d-limonene, Geraniol, Linalool",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 0.97,
+   "actives": [
+    {
+     "name": "methylene bis-benzotriazolyl tetramethylbutylphenol",
+     "grade": "A",
+     "position": 6,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 8,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "diethylamino hydroxybenzoyl hexyl benzoate",
+     "grade": "A",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "ethylhexyl triazone",
+     "grade": "A",
+     "position": 12,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 13,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 14,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "ethyl ascorbic acid",
+     "grade": "B",
+     "position": 17,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 18,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "titanium dioxide",
+     "grade": "A",
+     "position": 26,
+     "core": false,
+     "trace": true,
+     "src": "sunFilters"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "niacinamide",
+    "dimethicone"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "euAllergen",
+     "label": "EU-declared fragrance allergen",
+     "names": [
+      "citral",
+      "citronellol",
+      "coumarine",
+      "geraniol",
+      "linalool"
+     ],
+     "penalty": 2,
+     "src": "eu1223"
+    }
+   ],
    "maker": {
     "parent": "Foxtale Consumer",
     "kind": "d2c",

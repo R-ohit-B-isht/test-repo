@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-13.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-15.
 // Unknown fields are honestly marked, never invented.
 const NXPRODUCTS = [
  {
@@ -80564,14 +80564,13 @@ const NXPRODUCTS = [
   "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Be Bodywise official website (bebodywise.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "dimethicone high on the INCI list (moderate evidence); panthenol high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list",
    "Well-reviewed: 4.3★ from 207 ratings"
   ],
-  "cons": [
-   "Added fragrance (parfum): fragrance"
-  ],
+  "cons": [],
   "scores": {
-   "ingredients": 8,
-   "skin": 7.7,
+   "ingredients": 7.9,
+   "skin": 9,
    "trust": 7,
    "experience": 6.1
   },
@@ -80594,9 +80593,9 @@ const NXPRODUCTS = [
    "inciSource": "Be Bodywise official website (bebodywise.com) — product page › Ingredients",
    "inciSourceUrl": "https://bebodywise.com/product/1-peptide-ceramide-moisturizer",
    "inciMatchedName": "1 peptide ceramide moisturizer (name match 92%)",
-   "inciList": "Ingredient Names Aqua, 1.2- Propandiol, Ethoxydiglycol, Dicaprylyl Carbonate, Caprylic Capric Triglyceride, Dimethicone, Arachidyl Alcohol (and) Behenyl Alcohol (and) Arachidyl Glucoside, Copper Tripeptide-1 (2000 ppm), D-Panthenol, Sodium Acrylates Copolymer (and) Lecithin, Phenoxyethanol (and) Ethylhexylglycerin, Ceramide NP (and) Ceramide AP (and) Ceramide EOP (and) Phytosphingosine (and) Cholesterol (and) Sodium Lauroyl Lactylate (and) Carbomer (and) Xanthan Gum, Tocopheryl Acetate, Allantoin, Hyaluronic Acid , Disodium EDTA, Xanthan Gum. Formulated Without Paraben, Fragrance, Mineral Oil, Allergen, Alcohol",
+   "inciList": "Aqua, 1.2- Propandiol, Ethoxydiglycol, Dicaprylyl Carbonate, Caprylic Capric Triglyceride, Dimethicone, Arachidyl Alcohol (and) Behenyl Alcohol (and) Arachidyl Glucoside, Copper Tripeptide-1 (2000 ppm), D-Panthenol, Sodium Acrylates Copolymer (and) Lecithin, Phenoxyethanol (and) Ethylhexylglycerin, Ceramide NP (and) Ceramide AP (and) Ceramide EOP (and) Phytosphingosine (and) Cholesterol (and) Sodium Lauroyl Lactylate (and) Carbomer (and) Xanthan Gum, Tocopheryl Acetate, Allantoin, Hyaluronic Acid , Disodium EDTA, Xanthan Gum",
    "evidenceActives": "dimethicone (#5 on list, moderate evidence); panthenol (#10 on list, moderate evidence); ceramide np (#15 on list, moderate evidence); ceramide ap (#16 on list, moderate evidence); ceramide eop (#17 on list, moderate evidence); cholesterol (#19 on list, moderate evidence); allantoin (#24 on list, limited evidence); hyaluronic acid (#25 on list, moderate evidence)",
-   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "buyerEvidence": "4.3★ from 207 ratings",
    "concernBasis": "Aging — copper tripeptide-1 #9 on INCI; Irritation — product type, panthenol #10 on INCI (matching only — not proof it works)"
@@ -80627,7 +80626,8 @@ const NXPRODUCTS = [
    "target:aging",
    "target:irritation",
    "inci:full",
-   "inci:brand-site"
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -80647,11 +80647,11 @@ const NXPRODUCTS = [
    "inciSourceRegion": "IN",
    "inciMatchedTitle": "1 peptide ceramide moisturizer",
    "inciMatchScore": 0.92,
-   "inciText": "Ingredient Names Aqua, 1.2- Propandiol, Ethoxydiglycol, Dicaprylyl Carbonate, Caprylic Capric Triglyceride, Dimethicone, Arachidyl Alcohol (and) Behenyl Alcohol (and) Arachidyl Glucoside, Copper Tripeptide-1 (2000 ppm), D-Panthenol, Sodium Acrylates Copolymer (and) Lecithin, Phenoxyethanol (and) Ethylhexylglycerin, Ceramide NP (and) Ceramide AP (and) Ceramide EOP (and) Phytosphingosine (and) Cholesterol (and) Sodium Lauroyl Lactylate (and) Carbomer (and) Xanthan Gum, Tocopheryl Acetate, Allantoin, Hyaluronic Acid , Disodium EDTA, Xanthan Gum. Formulated Without Paraben, Fragrance, Mineral Oil, Allergen, Alcohol",
+   "inciText": "Aqua, 1.2- Propandiol, Ethoxydiglycol, Dicaprylyl Carbonate, Caprylic Capric Triglyceride, Dimethicone, Arachidyl Alcohol (and) Behenyl Alcohol (and) Arachidyl Glucoside, Copper Tripeptide-1 (2000 ppm), D-Panthenol, Sodium Acrylates Copolymer (and) Lecithin, Phenoxyethanol (and) Ethylhexylglycerin, Ceramide NP (and) Ceramide AP (and) Ceramide EOP (and) Phytosphingosine (and) Cholesterol (and) Sodium Lauroyl Lactylate (and) Carbomer (and) Xanthan Gum, Tocopheryl Acetate, Allantoin, Hyaluronic Acid , Disodium EDTA, Xanthan Gum",
    "inciUnverified": null,
    "inciNote": null,
    "declarationConfidence": 0.9,
-   "recognised": 0.97,
+   "recognised": 1,
    "actives": [
     {
      "name": "dimethicone",
@@ -80732,14 +80732,6 @@ const NXPRODUCTS = [
      "core": true,
      "trace": true,
      "src": "ha"
-    },
-    {
-     "name": "mineral oil",
-     "grade": "B",
-     "position": 29,
-     "core": false,
-     "trace": true,
-     "src": "petrolatum"
     }
    ],
    "support": [
@@ -80752,17 +80744,7 @@ const NXPRODUCTS = [
     "hyaluronic acid"
    ],
    "formulaNotes": [],
-   "flags": [
-    {
-     "id": "fragrance",
-     "label": "Added fragrance (parfum)",
-     "names": [
-      "fragrance"
-     ],
-     "penalty": 1.5,
-     "src": "acdsFragrance"
-    }
-   ],
+   "flags": [],
    "maker": {
     "parent": "Chemist at Play / Bodywise",
     "kind": "d2c",
@@ -143976,14 +143958,13 @@ const NXPRODUCTS = [
   "featureLine": "Cream · Fragrance-free · ₹918/100g",
   "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Be Bodywise official website (bebodywise.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
-   "dimethicone high on the INCI list (moderate evidence); panthenol high on the INCI list (moderate evidence)"
+   "dimethicone high on the INCI list (moderate evidence); panthenol high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
-  "cons": [
-   "Added fragrance (parfum): fragrance"
-  ],
+  "cons": [],
   "scores": {
-   "ingredients": 8,
-   "skin": 7.7,
+   "ingredients": 7.9,
+   "skin": 9,
    "trust": 7,
    "experience": 2.9
   },
@@ -144006,9 +143987,9 @@ const NXPRODUCTS = [
    "inciSource": "Be Bodywise official website (bebodywise.com) — product page › Ingredients",
    "inciSourceUrl": "https://bebodywise.com/product/1-peptide-ceramide-moisturizer",
    "inciMatchedName": "1 peptide ceramide moisturizer (name match 92%)",
-   "inciList": "Ingredient Names Aqua, 1.2- Propandiol, Ethoxydiglycol, Dicaprylyl Carbonate, Caprylic Capric Triglyceride, Dimethicone, Arachidyl Alcohol (and) Behenyl Alcohol (and) Arachidyl Glucoside, Copper Tripeptide-1 (2000 ppm), D-Panthenol, Sodium Acrylates Copolymer (and) Lecithin, Phenoxyethanol (and) Ethylhexylglycerin, Ceramide NP (and) Ceramide AP (and) Ceramide EOP (and) Phytosphingosine (and) Cholesterol (and) Sodium Lauroyl Lactylate (and) Carbomer (and) Xanthan Gum, Tocopheryl Acetate, Allantoin, Hyaluronic Acid , Disodium EDTA, Xanthan Gum. Formulated Without Paraben, Fragrance, Mineral Oil, Allergen, Alcohol",
+   "inciList": "Aqua, 1.2- Propandiol, Ethoxydiglycol, Dicaprylyl Carbonate, Caprylic Capric Triglyceride, Dimethicone, Arachidyl Alcohol (and) Behenyl Alcohol (and) Arachidyl Glucoside, Copper Tripeptide-1 (2000 ppm), D-Panthenol, Sodium Acrylates Copolymer (and) Lecithin, Phenoxyethanol (and) Ethylhexylglycerin, Ceramide NP (and) Ceramide AP (and) Ceramide EOP (and) Phytosphingosine (and) Cholesterol (and) Sodium Lauroyl Lactylate (and) Carbomer (and) Xanthan Gum, Tocopheryl Acetate, Allantoin, Hyaluronic Acid , Disodium EDTA, Xanthan Gum",
    "evidenceActives": "dimethicone (#5 on list, moderate evidence); panthenol (#10 on list, moderate evidence); ceramide np (#15 on list, moderate evidence); ceramide ap (#16 on list, moderate evidence); ceramide eop (#17 on list, moderate evidence); cholesterol (#19 on list, moderate evidence); allantoin (#24 on list, limited evidence); hyaluronic acid (#25 on list, moderate evidence)",
-   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "buyerEvidence": "4.3★ from 0 ratings",
    "concernBasis": "Aging — copper tripeptide-1 #9 on INCI; Irritation — product type, panthenol #10 on INCI (matching only — not proof it works)"
@@ -144046,7 +144027,8 @@ const NXPRODUCTS = [
    "target:aging",
    "target:irritation",
    "inci:full",
-   "inci:brand-site"
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": true,
@@ -144066,11 +144048,11 @@ const NXPRODUCTS = [
    "inciSourceRegion": "IN",
    "inciMatchedTitle": "1 peptide ceramide moisturizer",
    "inciMatchScore": 0.92,
-   "inciText": "Ingredient Names Aqua, 1.2- Propandiol, Ethoxydiglycol, Dicaprylyl Carbonate, Caprylic Capric Triglyceride, Dimethicone, Arachidyl Alcohol (and) Behenyl Alcohol (and) Arachidyl Glucoside, Copper Tripeptide-1 (2000 ppm), D-Panthenol, Sodium Acrylates Copolymer (and) Lecithin, Phenoxyethanol (and) Ethylhexylglycerin, Ceramide NP (and) Ceramide AP (and) Ceramide EOP (and) Phytosphingosine (and) Cholesterol (and) Sodium Lauroyl Lactylate (and) Carbomer (and) Xanthan Gum, Tocopheryl Acetate, Allantoin, Hyaluronic Acid , Disodium EDTA, Xanthan Gum. Formulated Without Paraben, Fragrance, Mineral Oil, Allergen, Alcohol",
+   "inciText": "Aqua, 1.2- Propandiol, Ethoxydiglycol, Dicaprylyl Carbonate, Caprylic Capric Triglyceride, Dimethicone, Arachidyl Alcohol (and) Behenyl Alcohol (and) Arachidyl Glucoside, Copper Tripeptide-1 (2000 ppm), D-Panthenol, Sodium Acrylates Copolymer (and) Lecithin, Phenoxyethanol (and) Ethylhexylglycerin, Ceramide NP (and) Ceramide AP (and) Ceramide EOP (and) Phytosphingosine (and) Cholesterol (and) Sodium Lauroyl Lactylate (and) Carbomer (and) Xanthan Gum, Tocopheryl Acetate, Allantoin, Hyaluronic Acid , Disodium EDTA, Xanthan Gum",
    "inciUnverified": null,
    "inciNote": null,
    "declarationConfidence": 0.9,
-   "recognised": 0.97,
+   "recognised": 1,
    "actives": [
     {
      "name": "dimethicone",
@@ -144151,14 +144133,6 @@ const NXPRODUCTS = [
      "core": true,
      "trace": true,
      "src": "ha"
-    },
-    {
-     "name": "mineral oil",
-     "grade": "B",
-     "position": 29,
-     "core": false,
-     "trace": true,
-     "src": "petrolatum"
     }
    ],
    "support": [
@@ -144171,17 +144145,7 @@ const NXPRODUCTS = [
     "hyaluronic acid"
    ],
    "formulaNotes": [],
-   "flags": [
-    {
-     "id": "fragrance",
-     "label": "Added fragrance (parfum)",
-     "names": [
-      "fragrance"
-     ],
-     "penalty": 1.5,
-     "src": "acdsFragrance"
-    }
-   ],
+   "flags": [],
    "maker": {
     "parent": "Chemist at Play / Bodywise",
     "kind": "d2c",

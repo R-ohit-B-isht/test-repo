@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-13.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-15.
 // Unknown fields are honestly marked, never invented.
 const NXPRODUCTS = [
  {
@@ -250,126 +250,6 @@ const NXPRODUCTS = [
     "url": null
    },
    "buyers": "4.2★ from 110 ratings"
-  }
- },
- {
-  "id": "aravi-organic-itm160b70c31f313",
-  "brand": "Aravi Organic",
-  "model": "Barrier Repair Lip Balm + Underarm Roll On + Mineral Sunscreen Spray SPF50",
-  "price": 847,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Niacinamide + Salicylic acid (BHA) + Glycolic acid",
-  "featureLine": "Lip balm · Paraben-free · SPF 50",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "Only headline actives are listed — formula unscored",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Lip balm",
-   "appliesTo": "Face + body (per listing)",
-   "keyIngredients": "Niacinamide, Salicylic acid (BHA), Glycolic acid, Lactic acid, Mandelic acid, Hyaluronic acid, Kojic acid (named on listing)",
-   "freeFrom": "Paraben-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Barrier repair, SPF included (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "sunProtection": "SPF 50 (as labelled)",
-   "regulated": "Contains / references a drug-grade active (adapalene, tretinoin, clindamycin, IP/USP) — follow label directions; not a cosmetic claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Only headline actives are listed — no base / preservative ingredients, so this is not a full INCI declaration and formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: Salicylic Acid, Kojic Acid, Niacinamide, Hyaluronic Acid, Glycolic Acid, Lactic Acid, Mandelic Acid, Symdeo+, Melazero",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet",
-   "waterResistance": "Water resistance not stated in listing"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/m/i/o/barrier-repair-lip-balm-underarm-roll-on-mineral-sunscreen-spray-original-imahnefkcyykdqhd.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/4/z/c/korean-glass-skin-rice-ceramide-6-step-daily-skincare-routine-original-imahj3bdfx5dwy6h.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/a/t/u/jade-roller-derma-roller-hair-scalp-massager-combo-3-in-1-face-original-imahzuyhvgnd3fmz.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/u/b/d/glass-skin-rice-ceramide-7-step-weekly-skincare-routine-for-original-imahj83ybtzhvqzb.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/f/x/c/optimals-opt-optimals-even-out-serum-30ml-with-tender-care-2-original-imahjwgu2kfqjksb.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/aravi-organic-barrier-repair-lip-balm-underarm-roll-mineral-sunscreen-spray-spf50/p/itm160b70c31f313",
-  "buyStore": "Flipkart",
-  "title": "Aravi Organic Barrier Repair Lip Balm + Underarm Roll On + Mineral Sunscreen Spray SPF50",
-  "tags": [
-   "scope:both",
-   "format:mist",
-   "format:balm",
-   "format:pack",
-   "format:roll-on",
-   "format:kit",
-   "spf:50",
-   "sun:mineral",
-   "water:unstated",
-   "ing:niacinamide",
-   "ing:salicylic-acid-bha",
-   "ing:glycolic-acid",
-   "ing:lactic-acid",
-   "ing:mandelic-acid",
-   "ing:hyaluronic-acid",
-   "ing:kojic-acid",
-   "claim:barrier",
-   "claim:spf-claim",
-   "free:paraben",
-   "free:vegan",
-   "aud:women",
-   "rating:none",
-   "store:flipkart",
-   "inci:partial"
-  ],
-  "filters": {
-   "freefrom": true,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "partial",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Salicylic Acid, Kojic Acid, Niacinamide, Hyaluronic Acid, Glycolic Acid, Lactic Acid, Mandelic Acid, Symdeo+, Melazero",
-   "inciNote": "Only headline actives are listed — no base / preservative ingredients, so this is not a full INCI declaration and formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 0.78,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -5243,13 +5123,14 @@ const NXPRODUCTS = [
   "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Be Bodywise official website (bebodywise.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "glycerin high on the INCI list (strong evidence)",
-   "No fragrance / flagged irritant on the INCI list",
    "Well-reviewed: 4.3★ from 41 ratings"
   ],
-  "cons": [],
+  "cons": [
+   "Added fragrance (parfum): perfume"
+  ],
   "scores": {
    "ingredients": 5.4,
-   "skin": 9,
+   "skin": 7.7,
    "trust": 7,
    "experience": 5.2
   },
@@ -5272,9 +5153,9 @@ const NXPRODUCTS = [
    "inciSource": "Be Bodywise official website (bebodywise.com) — product page › Ingredients",
    "inciSourceUrl": "https://bebodywise.com/product/4-aha-bha-underarm-roll-on",
    "inciMatchedName": "4 aha bha underarm roll on (name match 94%)",
-   "inciList": "Ingredient Names Aqua, Propylene Glycol, Butyrospermum Parkii (Shea) Butter, Lactic Acid, Sodium Lactate, Glycerin, Lysolecithin (and) Sclerotium Gum (and) Xanthan Gum (and) Pullulan, Mandelic Acid, Salicylic Acid, Aqua (and) Sodium Benzoate (and) Potassium Sorbate, Polysorbate 20, Alpha Arbutin, Tocopheryl Acetate, Silica, Perfume. Formulated Without Alcohol, Aluminium, Paraben, Silicone, Harmful Chemicals, Soda, Mineral, Phthalate, Petroleum, Sulfate",
+   "inciList": "Aqua, Propylene Glycol, Butyrospermum Parkii (Shea) Butter, Lactic Acid, Sodium Lactate, Glycerin, Lysolecithin (and) Sclerotium Gum (and) Xanthan Gum (and) Pullulan, Mandelic Acid, Salicylic Acid, Aqua (and) Sodium Benzoate (and) Potassium Sorbate, Polysorbate 20, Alpha Arbutin, Tocopheryl Acetate, Silica, Perfume",
    "evidenceActives": "glycerin (#6 on list, strong evidence)",
-   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "safetyFlags": "Added fragrance (parfum): perfume (−1.5)",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "buyerEvidence": "4.3★ from 41 ratings",
    "concernBasis": "Acne — salicylic acid #12 on INCI (matching only — not proof it works)"
@@ -5307,8 +5188,7 @@ const NXPRODUCTS = [
    "store:flipkart",
    "target:acne",
    "inci:full",
-   "inci:brand-site",
-   "inci:no-fragrance"
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": true,
@@ -5328,11 +5208,11 @@ const NXPRODUCTS = [
    "inciSourceRegion": "IN",
    "inciMatchedTitle": "4 aha bha underarm roll on",
    "inciMatchScore": 0.94,
-   "inciText": "Ingredient Names Aqua, Propylene Glycol, Butyrospermum Parkii (Shea) Butter, Lactic Acid, Sodium Lactate, Glycerin, Lysolecithin (and) Sclerotium Gum (and) Xanthan Gum (and) Pullulan, Mandelic Acid, Salicylic Acid, Aqua (and) Sodium Benzoate (and) Potassium Sorbate, Polysorbate 20, Alpha Arbutin, Tocopheryl Acetate, Silica, Perfume. Formulated Without Alcohol, Aluminium, Paraben, Silicone, Harmful Chemicals, Soda, Mineral, Phthalate, Petroleum, Sulfate",
+   "inciText": "Aqua, Propylene Glycol, Butyrospermum Parkii (Shea) Butter, Lactic Acid, Sodium Lactate, Glycerin, Lysolecithin (and) Sclerotium Gum (and) Xanthan Gum (and) Pullulan, Mandelic Acid, Salicylic Acid, Aqua (and) Sodium Benzoate (and) Potassium Sorbate, Polysorbate 20, Alpha Arbutin, Tocopheryl Acetate, Silica, Perfume",
    "inciUnverified": null,
    "inciNote": null,
    "declarationConfidence": 0.9,
-   "recognised": 0.83,
+   "recognised": 1,
    "actives": [
     {
      "name": "butyrospermum parkii butter",
@@ -5396,7 +5276,17 @@ const NXPRODUCTS = [
     "glycerin"
    ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Chemist at Play / Bodywise",
     "kind": "d2c",
@@ -7808,13 +7698,14 @@ const NXPRODUCTS = [
   "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Be Bodywise official website (bebodywise.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "glycerin high on the INCI list (strong evidence)",
-   "No fragrance / flagged irritant on the INCI list",
    "Well-reviewed: 4.4★ from 11,755 ratings"
   ],
-  "cons": [],
+  "cons": [
+   "Added fragrance (parfum): perfume"
+  ],
   "scores": {
    "ingredients": 5.4,
-   "skin": 9,
+   "skin": 7.7,
    "trust": 7,
    "experience": 8.2
   },
@@ -7837,9 +7728,9 @@ const NXPRODUCTS = [
    "inciSource": "Be Bodywise official website (bebodywise.com) — product page › Ingredients",
    "inciSourceUrl": "https://bebodywise.com/product/4-aha-bha-underarm-roll-on",
    "inciMatchedName": "4 aha bha underarm roll on (name match 94%)",
-   "inciList": "Ingredient Names Aqua, Propylene Glycol, Butyrospermum Parkii (Shea) Butter, Lactic Acid, Sodium Lactate, Glycerin, Lysolecithin (and) Sclerotium Gum (and) Xanthan Gum (and) Pullulan, Mandelic Acid, Salicylic Acid, Aqua (and) Sodium Benzoate (and) Potassium Sorbate, Polysorbate 20, Alpha Arbutin, Tocopheryl Acetate, Silica, Perfume. Formulated Without Alcohol, Aluminium, Paraben, Silicone, Harmful Chemicals, Soda, Mineral, Phthalate, Petroleum, Sulfate",
+   "inciList": "Aqua, Propylene Glycol, Butyrospermum Parkii (Shea) Butter, Lactic Acid, Sodium Lactate, Glycerin, Lysolecithin (and) Sclerotium Gum (and) Xanthan Gum (and) Pullulan, Mandelic Acid, Salicylic Acid, Aqua (and) Sodium Benzoate (and) Potassium Sorbate, Polysorbate 20, Alpha Arbutin, Tocopheryl Acetate, Silica, Perfume",
    "evidenceActives": "glycerin (#6 on list, strong evidence)",
-   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "safetyFlags": "Added fragrance (parfum): perfume (−1.5)",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "buyerEvidence": "4.4★ from 11,755 ratings",
    "concernBasis": "Acne — salicylic acid #12 on INCI (matching only — not proof it works)"
@@ -7870,8 +7761,7 @@ const NXPRODUCTS = [
    "store:flipkart",
    "target:acne",
    "inci:full",
-   "inci:brand-site",
-   "inci:no-fragrance"
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -7891,11 +7781,11 @@ const NXPRODUCTS = [
    "inciSourceRegion": "IN",
    "inciMatchedTitle": "4 aha bha underarm roll on",
    "inciMatchScore": 0.94,
-   "inciText": "Ingredient Names Aqua, Propylene Glycol, Butyrospermum Parkii (Shea) Butter, Lactic Acid, Sodium Lactate, Glycerin, Lysolecithin (and) Sclerotium Gum (and) Xanthan Gum (and) Pullulan, Mandelic Acid, Salicylic Acid, Aqua (and) Sodium Benzoate (and) Potassium Sorbate, Polysorbate 20, Alpha Arbutin, Tocopheryl Acetate, Silica, Perfume. Formulated Without Alcohol, Aluminium, Paraben, Silicone, Harmful Chemicals, Soda, Mineral, Phthalate, Petroleum, Sulfate",
+   "inciText": "Aqua, Propylene Glycol, Butyrospermum Parkii (Shea) Butter, Lactic Acid, Sodium Lactate, Glycerin, Lysolecithin (and) Sclerotium Gum (and) Xanthan Gum (and) Pullulan, Mandelic Acid, Salicylic Acid, Aqua (and) Sodium Benzoate (and) Potassium Sorbate, Polysorbate 20, Alpha Arbutin, Tocopheryl Acetate, Silica, Perfume",
    "inciUnverified": null,
    "inciNote": null,
    "declarationConfidence": 0.9,
-   "recognised": 0.83,
+   "recognised": 1,
    "actives": [
     {
      "name": "butyrospermum parkii butter",
@@ -7959,7 +7849,17 @@ const NXPRODUCTS = [
     "glycerin"
    ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Chemist at Play / Bodywise",
     "kind": "d2c",
@@ -11717,13 +11617,14 @@ const NXPRODUCTS = [
   "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Be Bodywise official website (bebodywise.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "glycerin high on the INCI list (strong evidence)",
-   "No fragrance / flagged irritant on the INCI list",
    "Well-reviewed: 4.4★ from 13,626 ratings"
   ],
-  "cons": [],
+  "cons": [
+   "Added fragrance (parfum): perfume"
+  ],
   "scores": {
    "ingredients": 5.4,
-   "skin": 9,
+   "skin": 7.7,
    "trust": 7,
    "experience": 8.2
   },
@@ -11746,9 +11647,9 @@ const NXPRODUCTS = [
    "inciSource": "Be Bodywise official website (bebodywise.com) — product page › Ingredients",
    "inciSourceUrl": "https://bebodywise.com/product/4-aha-bha-underarm-roll-on",
    "inciMatchedName": "4 aha bha underarm roll on (name match 94%)",
-   "inciList": "Ingredient Names Aqua, Propylene Glycol, Butyrospermum Parkii (Shea) Butter, Lactic Acid, Sodium Lactate, Glycerin, Lysolecithin (and) Sclerotium Gum (and) Xanthan Gum (and) Pullulan, Mandelic Acid, Salicylic Acid, Aqua (and) Sodium Benzoate (and) Potassium Sorbate, Polysorbate 20, Alpha Arbutin, Tocopheryl Acetate, Silica, Perfume. Formulated Without Alcohol, Aluminium, Paraben, Silicone, Harmful Chemicals, Soda, Mineral, Phthalate, Petroleum, Sulfate",
+   "inciList": "Aqua, Propylene Glycol, Butyrospermum Parkii (Shea) Butter, Lactic Acid, Sodium Lactate, Glycerin, Lysolecithin (and) Sclerotium Gum (and) Xanthan Gum (and) Pullulan, Mandelic Acid, Salicylic Acid, Aqua (and) Sodium Benzoate (and) Potassium Sorbate, Polysorbate 20, Alpha Arbutin, Tocopheryl Acetate, Silica, Perfume",
    "evidenceActives": "glycerin (#6 on list, strong evidence)",
-   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "safetyFlags": "Added fragrance (parfum): perfume (−1.5)",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "buyerEvidence": "4.4★ from 13,626 ratings",
    "concernBasis": "Acne — salicylic acid #12 on INCI (matching only — not proof it works)"
@@ -11781,8 +11682,7 @@ const NXPRODUCTS = [
    "store:flipkart",
    "target:acne",
    "inci:full",
-   "inci:brand-site",
-   "inci:no-fragrance"
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": true,
@@ -11802,11 +11702,11 @@ const NXPRODUCTS = [
    "inciSourceRegion": "IN",
    "inciMatchedTitle": "4 aha bha underarm roll on",
    "inciMatchScore": 0.94,
-   "inciText": "Ingredient Names Aqua, Propylene Glycol, Butyrospermum Parkii (Shea) Butter, Lactic Acid, Sodium Lactate, Glycerin, Lysolecithin (and) Sclerotium Gum (and) Xanthan Gum (and) Pullulan, Mandelic Acid, Salicylic Acid, Aqua (and) Sodium Benzoate (and) Potassium Sorbate, Polysorbate 20, Alpha Arbutin, Tocopheryl Acetate, Silica, Perfume. Formulated Without Alcohol, Aluminium, Paraben, Silicone, Harmful Chemicals, Soda, Mineral, Phthalate, Petroleum, Sulfate",
+   "inciText": "Aqua, Propylene Glycol, Butyrospermum Parkii (Shea) Butter, Lactic Acid, Sodium Lactate, Glycerin, Lysolecithin (and) Sclerotium Gum (and) Xanthan Gum (and) Pullulan, Mandelic Acid, Salicylic Acid, Aqua (and) Sodium Benzoate (and) Potassium Sorbate, Polysorbate 20, Alpha Arbutin, Tocopheryl Acetate, Silica, Perfume",
    "inciUnverified": null,
    "inciNote": null,
    "declarationConfidence": 0.9,
-   "recognised": 0.83,
+   "recognised": 1,
    "actives": [
     {
      "name": "butyrospermum parkii butter",
@@ -11870,7 +11770,17 @@ const NXPRODUCTS = [
     "glycerin"
    ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Chemist at Play / Bodywise",
     "kind": "d2c",
@@ -13031,13 +12941,14 @@ const NXPRODUCTS = [
   "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Be Bodywise official website (bebodywise.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "glycerin high on the INCI list (strong evidence)",
-   "No fragrance / flagged irritant on the INCI list",
    "Well-reviewed: 4.4★ from 2,538 ratings"
   ],
-  "cons": [],
+  "cons": [
+   "Added fragrance (parfum): perfume"
+  ],
   "scores": {
    "ingredients": 5.4,
-   "skin": 9,
+   "skin": 7.7,
    "trust": 7,
    "experience": 8
   },
@@ -13060,9 +12971,9 @@ const NXPRODUCTS = [
    "inciSource": "Be Bodywise official website (bebodywise.com) — product page › Ingredients",
    "inciSourceUrl": "https://bebodywise.com/product/4-aha-bha-underarm-roll-on",
    "inciMatchedName": "4 aha bha underarm roll on (name match 94%)",
-   "inciList": "Ingredient Names Aqua, Propylene Glycol, Butyrospermum Parkii (Shea) Butter, Lactic Acid, Sodium Lactate, Glycerin, Lysolecithin (and) Sclerotium Gum (and) Xanthan Gum (and) Pullulan, Mandelic Acid, Salicylic Acid, Aqua (and) Sodium Benzoate (and) Potassium Sorbate, Polysorbate 20, Alpha Arbutin, Tocopheryl Acetate, Silica, Perfume. Formulated Without Alcohol, Aluminium, Paraben, Silicone, Harmful Chemicals, Soda, Mineral, Phthalate, Petroleum, Sulfate",
+   "inciList": "Aqua, Propylene Glycol, Butyrospermum Parkii (Shea) Butter, Lactic Acid, Sodium Lactate, Glycerin, Lysolecithin (and) Sclerotium Gum (and) Xanthan Gum (and) Pullulan, Mandelic Acid, Salicylic Acid, Aqua (and) Sodium Benzoate (and) Potassium Sorbate, Polysorbate 20, Alpha Arbutin, Tocopheryl Acetate, Silica, Perfume",
    "evidenceActives": "glycerin (#6 on list, strong evidence)",
-   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "safetyFlags": "Added fragrance (parfum): perfume (−1.5)",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "buyerEvidence": "4.4★ from 2,538 ratings",
    "concernBasis": "Acne — salicylic acid #12 on INCI (matching only — not proof it works)"
@@ -13094,8 +13005,7 @@ const NXPRODUCTS = [
    "store:flipkart",
    "target:acne",
    "inci:full",
-   "inci:brand-site",
-   "inci:no-fragrance"
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": true,
@@ -13115,11 +13025,11 @@ const NXPRODUCTS = [
    "inciSourceRegion": "IN",
    "inciMatchedTitle": "4 aha bha underarm roll on",
    "inciMatchScore": 0.94,
-   "inciText": "Ingredient Names Aqua, Propylene Glycol, Butyrospermum Parkii (Shea) Butter, Lactic Acid, Sodium Lactate, Glycerin, Lysolecithin (and) Sclerotium Gum (and) Xanthan Gum (and) Pullulan, Mandelic Acid, Salicylic Acid, Aqua (and) Sodium Benzoate (and) Potassium Sorbate, Polysorbate 20, Alpha Arbutin, Tocopheryl Acetate, Silica, Perfume. Formulated Without Alcohol, Aluminium, Paraben, Silicone, Harmful Chemicals, Soda, Mineral, Phthalate, Petroleum, Sulfate",
+   "inciText": "Aqua, Propylene Glycol, Butyrospermum Parkii (Shea) Butter, Lactic Acid, Sodium Lactate, Glycerin, Lysolecithin (and) Sclerotium Gum (and) Xanthan Gum (and) Pullulan, Mandelic Acid, Salicylic Acid, Aqua (and) Sodium Benzoate (and) Potassium Sorbate, Polysorbate 20, Alpha Arbutin, Tocopheryl Acetate, Silica, Perfume",
    "inciUnverified": null,
    "inciNote": null,
    "declarationConfidence": 0.9,
-   "recognised": 0.83,
+   "recognised": 1,
    "actives": [
     {
      "name": "butyrospermum parkii butter",
@@ -13183,7 +13093,17 @@ const NXPRODUCTS = [
     "glycerin"
    ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Chemist at Play / Bodywise",
     "kind": "d2c",
@@ -42054,109 +41974,6 @@ const NXPRODUCTS = [
   }
  },
  {
-  "id": "salve-itm1a8f730baca8f",
-  "brand": "salve",
-  "model": "Sweatgo Hyperhidrosis Anti perspirant Hyperhidrosis Sweat Free Healthy Skin For Men in Wom…",
-  "price": 722,
-  "capacityLine": "240 ml (pack of 4)",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Roll-on · ₹301/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 3
-  },
-  "fullSpec": {
-   "quantity": "60 ml × 4 pack",
-   "pricePer100": "₹301/100ml",
-   "format": "Roll-on",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Antiperspirant / sweat control, Odour control / freshness (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "rating": "3.8/5 (17 ratings, Flipkart)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.8★ from 17 ratings"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/sweat-pad/n/f/w/4-sweatgo-hyperhidrosis-anti-perspirant-hyperhidrosis-sweat-free-original-imahgv7hjcchfzf9.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/sweat-pad/b/d/o/4-sweatgo-hyperhidrosis-anti-perspirant-hyperhidrosis-sweat-free-original-imahgv7huapdfyer.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/sweat-pad/d/9/a/4-sweatgo-hyperhidrosis-anti-perspirant-hyperhidrosis-sweat-free-original-imahgv7hydgwhsbv.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/sweat-pad/y/h/2/4-sweatgo-hyperhidrosis-anti-perspirant-hyperhidrosis-sweat-free-original-imahgv7hkzv4zhgp.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/sweat-pad/v/d/a/1-sweatgo60mlpackof3-salve-original-imahgv7jtdqczx3h.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/salve-sweatgo-hyperhidrosis-anti-perspirant-sweat-free-healthy-skin-men-women-exclusive-fragrance-musk-60-ml-pack-4-deodorant-roll-on-60-ml-pads/p/itm1a8f730baca8f",
-  "buyStore": "Flipkart",
-  "title": "salve Sweatgo Hyperhidrosis Anti perspirant Hyperhidrosis Sweat Free Healthy Skin For Men in Women Exclusive Fragrance -Musk,60 ml (Pack of 4) Deodorant Roll-on - For Men & Women (60 ml) Sweat Pads",
-  "tags": [
-   "scope:unstated",
-   "format:pads",
-   "format:roll-on",
-   "format:kit",
-   "claim:antiperspirant",
-   "claim:odour",
-   "aud:women",
-   "size:large",
-   "rating:3.5",
-   "store:flipkart",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "3.8★ from 17 ratings"
-  }
- },
- {
   "id": "cosmo-itmeb744b0cf1b29",
   "brand": "COSMO",
   "model": "Men Advance Body Anti-Perspirant Deodorant Spray 48H Shower Fresh 6 in 1 Deodorant Spray -…",
@@ -49041,107 +48858,6 @@ const NXPRODUCTS = [
   }
  },
  {
-  "id": "salve-itmfdxhse7spaws8",
-  "brand": "salve",
-  "model": "Sweatgo Anti Perspirant Hyperhidrosis Sweat Free Healthy Skin For women in Exclusive Fragr…",
-  "price": 350,
-  "capacityLine": "60 ml",
-  "materialLine": "Lavender",
-  "featureLine": "Other · ₹583/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 2.2
-  },
-  "fullSpec": {
-   "quantity": "60 ml",
-   "pricePer100": "₹583/100ml",
-   "format": "Other",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Lavender (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Antiperspirant / sweat control (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "rating": "3.6/5 (13 ratings, Flipkart)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.6★ from 13 ratings"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/sweat-pad/m/u/o/2-sweatgo-anti-perspirant-hyperhidrosis-sweat-free-healthy-skin-original-imahgv7nmcrqhmtr.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/sweat-pad/t/4/l/2-sweatgo-anti-perspirant-hyperhidrosis-sweat-free-healthy-skin-original-imahgv7ndfnmnx9j.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/sweat-pad/g/8/y/2-sweatgo-anti-perspirant-hyperhidrosis-sweat-free-healthy-skin-original-imahgv7n9udnbqa8.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/sweat-pad/a/y/w/2-sweatgo-anti-perspirant-hyperhidrosis-sweat-free-healthy-skin-original-imahgv7nzehgjeze.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/sweat-pad/u/q/b/2-sweatgo-anti-perspirant-hyperhidrosis-sweat-free-healthy-skin-original-imahgv7nmpa5ky7y.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/salve-sweatgo-anti-perspirant-hyperhidrosis-sweat-free-healthy-skin-women-exclusive-fragrance-lavender-60-ml-pads/p/itmfdxhse7spaws8",
-  "buyStore": "Flipkart",
-  "title": "salve Sweatgo Anti Perspirant Hyperhidrosis Sweat Free Healthy Skin For women in Exclusive Fragrance - Lavender,60 ml Sweat Pads",
-  "tags": [
-   "scope:unstated",
-   "format:pads",
-   "ing:lavender",
-   "claim:antiperspirant",
-   "aud:women",
-   "size:standard",
-   "rating:3.5",
-   "store:flipkart",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "3.6★ from 13 ratings"
-  }
- },
- {
   "id": "nivea-men-itma1bd7daae0a29",
   "brand": "Nivea Men",
   "model": "Pearl & Beauty 50ml Underarm Roll On + Pearl & Beauty Fine Fragrance 50ml Underarm Roll On…",
@@ -50643,109 +50359,6 @@ const NXPRODUCTS = [
   }
  },
  {
-  "id": "onexi-itm8a84f7c64e52d",
-  "brand": "OneXI",
-  "model": "Disposable Underarm Antiperspirant 12 Sweat Pads",
-  "price": 132,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Other",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [
-   "Well-reviewed: 4.6★ from 20 ratings"
-  ],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 5.7
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Other",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Antiperspirant / sweat control, Odour control / freshness (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.6/5 (20 ratings, Flipkart)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "declaredManufacturer": "HR ENTERPRISE (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.6★ from 20 ratings"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/sweat-pad/s/p/w/12-odor-control-for-men-women-underarm-gel-one-xi-original-imahnkpukwwvz8ys.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/sweat-pad/z/2/j/12-wedding-party-wear-underarm-protection-for-men-women-one-xi-original-imahzpg2qjuthbzz.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/sweat-pad/y/z/u/24-premium-gel-infused-underarm-one-xi-original-imahmuvvkapahtyk.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/icons/original-SWEHHSY38YUBMHAQ_1.jpg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/icons/original-SWEHHSY38YUBMHAQ_2.jpg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/onexi-disposable-underarm-antiperspirant-12-sweat-pads/p/itm8a84f7c64e52d",
-  "buyStore": "Flipkart",
-  "title": "OneXI Disposable Underarm Antiperspirant 12 Sweat Pads",
-  "tags": [
-   "scope:body",
-   "format:pads",
-   "claim:antiperspirant",
-   "claim:odour",
-   "aud:unisex",
-   "rating:4.5",
-   "store:flipkart",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.6★ from 20 ratings"
-  }
- },
- {
   "id": "elecsera-itm8ab88a89d2504",
   "brand": "Elecsera",
   "model": "Roll On Deodorant For Women, Antiperspirant, Removes Odour, Keeps Skin Fresh Deodorant Rol…",
@@ -51597,107 +51210,6 @@ const NXPRODUCTS = [
     "url": null
    },
    "buyers": "4.1★ from 398 ratings"
-  }
- },
- {
-  "id": "flytouch-itm790d1a8b9901f",
-  "brand": "FlyTouch",
-  "model": "Disposable Underarm Sweat Pad Customized Antiperspirant Sweat Underarm Pads Sweat Pads",
-  "price": 99,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Other",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Other",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "No white cast, Antiperspirant / sweat control (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/sweat-pad/e/r/f/10-disposable-underarm-sweat-pad-customized-antiperspirant-sweat-original-imagza6ssbvnheyg.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/sweat-pad/g/o/9/10-disposable-armpit-sweat-pads-unisex-underarm-sweat-pads-stick-original-imagza6sms8wsanj.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-sweat-pad/n/v/e/10-armpit-sweat-pads-underarm-for-underarms-disposable-armpit-original-imahbzw3yh6yxzh2.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/sweat-pad/q/e/c/20-gyvm-underarm-sweat-pad-sweatguard-002-gyvm-enterprise-original-imahp3ycf6xzvpcf.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/sweat-pad/h/v/g/30-disposable-underarm-sweat-pads-for-men-and-women-30-pads-original-imahjaz3zmkzkvas.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/flytouch-disposable-underarm-sweat-pad-customized-antiperspirant-pads/p/itm790d1a8b9901f",
-  "buyStore": "Flipkart",
-  "title": "FlyTouch Disposable Underarm Sweat Pad Customized Antiperspirant Sweat Underarm Pads Sweat Pads",
-  "tags": [
-   "scope:body",
-   "format:pads",
-   "claim:no-white-cast",
-   "claim:antiperspirant",
-   "aud:women",
-   "rating:none",
-   "store:flipkart",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -53766,13 +53278,14 @@ const NXPRODUCTS = [
   "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Be Bodywise official website (bebodywise.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "glycerin high on the INCI list (strong evidence)",
-   "No fragrance / flagged irritant on the INCI list",
    "Well-reviewed: 4.4★ from 99 ratings"
   ],
-  "cons": [],
+  "cons": [
+   "Added fragrance (parfum): perfume"
+  ],
   "scores": {
    "ingredients": 5.4,
-   "skin": 9,
+   "skin": 7.7,
    "trust": 7,
    "experience": 6
   },
@@ -53795,9 +53308,9 @@ const NXPRODUCTS = [
    "inciSource": "Be Bodywise official website (bebodywise.com) — product page › Ingredients",
    "inciSourceUrl": "https://bebodywise.com/product/4-aha-bha-underarm-roll-on",
    "inciMatchedName": "4 aha bha underarm roll on (name match 94%)",
-   "inciList": "Ingredient Names Aqua, Propylene Glycol, Butyrospermum Parkii (Shea) Butter, Lactic Acid, Sodium Lactate, Glycerin, Lysolecithin (and) Sclerotium Gum (and) Xanthan Gum (and) Pullulan, Mandelic Acid, Salicylic Acid, Aqua (and) Sodium Benzoate (and) Potassium Sorbate, Polysorbate 20, Alpha Arbutin, Tocopheryl Acetate, Silica, Perfume. Formulated Without Alcohol, Aluminium, Paraben, Silicone, Harmful Chemicals, Soda, Mineral, Phthalate, Petroleum, Sulfate",
+   "inciList": "Aqua, Propylene Glycol, Butyrospermum Parkii (Shea) Butter, Lactic Acid, Sodium Lactate, Glycerin, Lysolecithin (and) Sclerotium Gum (and) Xanthan Gum (and) Pullulan, Mandelic Acid, Salicylic Acid, Aqua (and) Sodium Benzoate (and) Potassium Sorbate, Polysorbate 20, Alpha Arbutin, Tocopheryl Acetate, Silica, Perfume",
    "evidenceActives": "glycerin (#6 on list, strong evidence)",
-   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "safetyFlags": "Added fragrance (parfum): perfume (−1.5)",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "buyerEvidence": "4.4★ from 99 ratings",
    "concernBasis": "Acne — salicylic acid #12 on INCI (matching only — not proof it works)"
@@ -53829,8 +53342,7 @@ const NXPRODUCTS = [
    "store:flipkart",
    "target:acne",
    "inci:full",
-   "inci:brand-site",
-   "inci:no-fragrance"
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": true,
@@ -53850,11 +53362,11 @@ const NXPRODUCTS = [
    "inciSourceRegion": "IN",
    "inciMatchedTitle": "4 aha bha underarm roll on",
    "inciMatchScore": 0.94,
-   "inciText": "Ingredient Names Aqua, Propylene Glycol, Butyrospermum Parkii (Shea) Butter, Lactic Acid, Sodium Lactate, Glycerin, Lysolecithin (and) Sclerotium Gum (and) Xanthan Gum (and) Pullulan, Mandelic Acid, Salicylic Acid, Aqua (and) Sodium Benzoate (and) Potassium Sorbate, Polysorbate 20, Alpha Arbutin, Tocopheryl Acetate, Silica, Perfume. Formulated Without Alcohol, Aluminium, Paraben, Silicone, Harmful Chemicals, Soda, Mineral, Phthalate, Petroleum, Sulfate",
+   "inciText": "Aqua, Propylene Glycol, Butyrospermum Parkii (Shea) Butter, Lactic Acid, Sodium Lactate, Glycerin, Lysolecithin (and) Sclerotium Gum (and) Xanthan Gum (and) Pullulan, Mandelic Acid, Salicylic Acid, Aqua (and) Sodium Benzoate (and) Potassium Sorbate, Polysorbate 20, Alpha Arbutin, Tocopheryl Acetate, Silica, Perfume",
    "inciUnverified": null,
    "inciNote": null,
    "declarationConfidence": 0.9,
-   "recognised": 0.83,
+   "recognised": 1,
    "actives": [
     {
      "name": "butyrospermum parkii butter",
@@ -53918,7 +53430,17 @@ const NXPRODUCTS = [
     "glycerin"
    ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Chemist at Play / Bodywise",
     "kind": "d2c",
@@ -53939,13 +53461,14 @@ const NXPRODUCTS = [
   "featureLine": "Roll-on · Paraben-free · ₹731/100ml",
   "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Be Bodywise official website (bebodywise.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
-   "glycerin high on the INCI list (strong evidence)",
-   "No fragrance / flagged irritant on the INCI list"
+   "glycerin high on the INCI list (strong evidence)"
   ],
-  "cons": [],
+  "cons": [
+   "Added fragrance (parfum): perfume"
+  ],
   "scores": {
    "ingredients": 5.4,
-   "skin": 9,
+   "skin": 7.7,
    "trust": 7,
    "experience": 3.1
   },
@@ -53968,9 +53491,9 @@ const NXPRODUCTS = [
    "inciSource": "Be Bodywise official website (bebodywise.com) — product page › Ingredients",
    "inciSourceUrl": "https://bebodywise.com/product/4-aha-bha-underarm-roll-on",
    "inciMatchedName": "4 aha bha underarm roll on (name match 94%)",
-   "inciList": "Ingredient Names Aqua, Propylene Glycol, Butyrospermum Parkii (Shea) Butter, Lactic Acid, Sodium Lactate, Glycerin, Lysolecithin (and) Sclerotium Gum (and) Xanthan Gum (and) Pullulan, Mandelic Acid, Salicylic Acid, Aqua (and) Sodium Benzoate (and) Potassium Sorbate, Polysorbate 20, Alpha Arbutin, Tocopheryl Acetate, Silica, Perfume. Formulated Without Alcohol, Aluminium, Paraben, Silicone, Harmful Chemicals, Soda, Mineral, Phthalate, Petroleum, Sulfate",
+   "inciList": "Aqua, Propylene Glycol, Butyrospermum Parkii (Shea) Butter, Lactic Acid, Sodium Lactate, Glycerin, Lysolecithin (and) Sclerotium Gum (and) Xanthan Gum (and) Pullulan, Mandelic Acid, Salicylic Acid, Aqua (and) Sodium Benzoate (and) Potassium Sorbate, Polysorbate 20, Alpha Arbutin, Tocopheryl Acetate, Silica, Perfume",
    "evidenceActives": "glycerin (#6 on list, strong evidence)",
-   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "safetyFlags": "Added fragrance (parfum): perfume (−1.5)",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "buyerEvidence": "4★ from 6 ratings",
    "concernBasis": "Acne — salicylic acid #12 on INCI (matching only — not proof it works)"
@@ -54002,8 +53525,7 @@ const NXPRODUCTS = [
    "store:flipkart",
    "target:acne",
    "inci:full",
-   "inci:brand-site",
-   "inci:no-fragrance"
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": true,
@@ -54023,11 +53545,11 @@ const NXPRODUCTS = [
    "inciSourceRegion": "IN",
    "inciMatchedTitle": "4 aha bha underarm roll on",
    "inciMatchScore": 0.94,
-   "inciText": "Ingredient Names Aqua, Propylene Glycol, Butyrospermum Parkii (Shea) Butter, Lactic Acid, Sodium Lactate, Glycerin, Lysolecithin (and) Sclerotium Gum (and) Xanthan Gum (and) Pullulan, Mandelic Acid, Salicylic Acid, Aqua (and) Sodium Benzoate (and) Potassium Sorbate, Polysorbate 20, Alpha Arbutin, Tocopheryl Acetate, Silica, Perfume. Formulated Without Alcohol, Aluminium, Paraben, Silicone, Harmful Chemicals, Soda, Mineral, Phthalate, Petroleum, Sulfate",
+   "inciText": "Aqua, Propylene Glycol, Butyrospermum Parkii (Shea) Butter, Lactic Acid, Sodium Lactate, Glycerin, Lysolecithin (and) Sclerotium Gum (and) Xanthan Gum (and) Pullulan, Mandelic Acid, Salicylic Acid, Aqua (and) Sodium Benzoate (and) Potassium Sorbate, Polysorbate 20, Alpha Arbutin, Tocopheryl Acetate, Silica, Perfume",
    "inciUnverified": null,
    "inciNote": null,
    "declarationConfidence": 0.9,
-   "recognised": 0.83,
+   "recognised": 1,
    "actives": [
     {
      "name": "butyrospermum parkii butter",
@@ -54091,7 +53613,17 @@ const NXPRODUCTS = [
     "glycerin"
    ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Chemist at Play / Bodywise",
     "kind": "d2c",
@@ -55321,13 +54853,14 @@ const NXPRODUCTS = [
   "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Be Bodywise official website (bebodywise.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "glycerin high on the INCI list (strong evidence)",
-   "No fragrance / flagged irritant on the INCI list",
    "Well-reviewed: 4.4★ from 65,154 ratings"
   ],
-  "cons": [],
+  "cons": [
+   "Added fragrance (parfum): perfume"
+  ],
   "scores": {
    "ingredients": 5.4,
-   "skin": 9,
+   "skin": 7.7,
    "trust": 7,
    "experience": 8.2
   },
@@ -55350,9 +54883,9 @@ const NXPRODUCTS = [
    "inciSource": "Be Bodywise official website (bebodywise.com) — product page › Ingredients",
    "inciSourceUrl": "https://bebodywise.com/product/4-aha-bha-underarm-roll-on",
    "inciMatchedName": "4 aha bha underarm roll on (name match 94%)",
-   "inciList": "Ingredient Names Aqua, Propylene Glycol, Butyrospermum Parkii (Shea) Butter, Lactic Acid, Sodium Lactate, Glycerin, Lysolecithin (and) Sclerotium Gum (and) Xanthan Gum (and) Pullulan, Mandelic Acid, Salicylic Acid, Aqua (and) Sodium Benzoate (and) Potassium Sorbate, Polysorbate 20, Alpha Arbutin, Tocopheryl Acetate, Silica, Perfume. Formulated Without Alcohol, Aluminium, Paraben, Silicone, Harmful Chemicals, Soda, Mineral, Phthalate, Petroleum, Sulfate",
+   "inciList": "Aqua, Propylene Glycol, Butyrospermum Parkii (Shea) Butter, Lactic Acid, Sodium Lactate, Glycerin, Lysolecithin (and) Sclerotium Gum (and) Xanthan Gum (and) Pullulan, Mandelic Acid, Salicylic Acid, Aqua (and) Sodium Benzoate (and) Potassium Sorbate, Polysorbate 20, Alpha Arbutin, Tocopheryl Acetate, Silica, Perfume",
    "evidenceActives": "glycerin (#6 on list, strong evidence)",
-   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "safetyFlags": "Added fragrance (parfum): perfume (−1.5)",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "declaredManufacturer": "N.G. Electro Products Pvt. Ltd., Unit Ii, Plot No.- 36, Himuda Industrial Area, Phase-Iv, Bhatolikala, Baddi, Dist: Solan,(H.P) 173205. Mfg. Lic. No.: Him/Cos/18/266 (as printed on the Flipkart listing — not scored)",
    "buyerEvidence": "4.4★ from 65,154 ratings",
@@ -55380,8 +54913,7 @@ const NXPRODUCTS = [
    "store:flipkart",
    "target:acne",
    "inci:full",
-   "inci:brand-site",
-   "inci:no-fragrance"
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -55401,11 +54933,11 @@ const NXPRODUCTS = [
    "inciSourceRegion": "IN",
    "inciMatchedTitle": "4 aha bha underarm roll on",
    "inciMatchScore": 0.94,
-   "inciText": "Ingredient Names Aqua, Propylene Glycol, Butyrospermum Parkii (Shea) Butter, Lactic Acid, Sodium Lactate, Glycerin, Lysolecithin (and) Sclerotium Gum (and) Xanthan Gum (and) Pullulan, Mandelic Acid, Salicylic Acid, Aqua (and) Sodium Benzoate (and) Potassium Sorbate, Polysorbate 20, Alpha Arbutin, Tocopheryl Acetate, Silica, Perfume. Formulated Without Alcohol, Aluminium, Paraben, Silicone, Harmful Chemicals, Soda, Mineral, Phthalate, Petroleum, Sulfate",
+   "inciText": "Aqua, Propylene Glycol, Butyrospermum Parkii (Shea) Butter, Lactic Acid, Sodium Lactate, Glycerin, Lysolecithin (and) Sclerotium Gum (and) Xanthan Gum (and) Pullulan, Mandelic Acid, Salicylic Acid, Aqua (and) Sodium Benzoate (and) Potassium Sorbate, Polysorbate 20, Alpha Arbutin, Tocopheryl Acetate, Silica, Perfume",
    "inciUnverified": null,
    "inciNote": null,
    "declarationConfidence": 0.9,
-   "recognised": 0.83,
+   "recognised": 1,
    "actives": [
     {
      "name": "butyrospermum parkii butter",
@@ -55469,7 +55001,17 @@ const NXPRODUCTS = [
     "glycerin"
    ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Chemist at Play / Bodywise",
     "kind": "d2c",
@@ -55491,13 +55033,14 @@ const NXPRODUCTS = [
   "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Be Bodywise official website (bebodywise.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "glycerin high on the INCI list (strong evidence)",
-   "No fragrance / flagged irritant on the INCI list",
    "Well-reviewed: 4.4★ from 3,476 ratings"
   ],
-  "cons": [],
+  "cons": [
+   "Added fragrance (parfum): perfume"
+  ],
   "scores": {
    "ingredients": 5.4,
-   "skin": 9,
+   "skin": 7.7,
    "trust": 7,
    "experience": 8.2
   },
@@ -55520,9 +55063,9 @@ const NXPRODUCTS = [
    "inciSource": "Be Bodywise official website (bebodywise.com) — product page › Ingredients",
    "inciSourceUrl": "https://bebodywise.com/product/4-aha-bha-underarm-roll-on",
    "inciMatchedName": "4 aha bha underarm roll on (name match 94%)",
-   "inciList": "Ingredient Names Aqua, Propylene Glycol, Butyrospermum Parkii (Shea) Butter, Lactic Acid, Sodium Lactate, Glycerin, Lysolecithin (and) Sclerotium Gum (and) Xanthan Gum (and) Pullulan, Mandelic Acid, Salicylic Acid, Aqua (and) Sodium Benzoate (and) Potassium Sorbate, Polysorbate 20, Alpha Arbutin, Tocopheryl Acetate, Silica, Perfume. Formulated Without Alcohol, Aluminium, Paraben, Silicone, Harmful Chemicals, Soda, Mineral, Phthalate, Petroleum, Sulfate",
+   "inciList": "Aqua, Propylene Glycol, Butyrospermum Parkii (Shea) Butter, Lactic Acid, Sodium Lactate, Glycerin, Lysolecithin (and) Sclerotium Gum (and) Xanthan Gum (and) Pullulan, Mandelic Acid, Salicylic Acid, Aqua (and) Sodium Benzoate (and) Potassium Sorbate, Polysorbate 20, Alpha Arbutin, Tocopheryl Acetate, Silica, Perfume",
    "evidenceActives": "glycerin (#6 on list, strong evidence)",
-   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "safetyFlags": "Added fragrance (parfum): perfume (−1.5)",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "buyerEvidence": "4.4★ from 3,476 ratings",
    "concernBasis": "Acne — salicylic acid #12 on INCI (matching only — not proof it works)"
@@ -55554,8 +55097,7 @@ const NXPRODUCTS = [
    "store:flipkart",
    "target:acne",
    "inci:full",
-   "inci:brand-site",
-   "inci:no-fragrance"
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -55575,11 +55117,11 @@ const NXPRODUCTS = [
    "inciSourceRegion": "IN",
    "inciMatchedTitle": "4 aha bha underarm roll on",
    "inciMatchScore": 0.94,
-   "inciText": "Ingredient Names Aqua, Propylene Glycol, Butyrospermum Parkii (Shea) Butter, Lactic Acid, Sodium Lactate, Glycerin, Lysolecithin (and) Sclerotium Gum (and) Xanthan Gum (and) Pullulan, Mandelic Acid, Salicylic Acid, Aqua (and) Sodium Benzoate (and) Potassium Sorbate, Polysorbate 20, Alpha Arbutin, Tocopheryl Acetate, Silica, Perfume. Formulated Without Alcohol, Aluminium, Paraben, Silicone, Harmful Chemicals, Soda, Mineral, Phthalate, Petroleum, Sulfate",
+   "inciText": "Aqua, Propylene Glycol, Butyrospermum Parkii (Shea) Butter, Lactic Acid, Sodium Lactate, Glycerin, Lysolecithin (and) Sclerotium Gum (and) Xanthan Gum (and) Pullulan, Mandelic Acid, Salicylic Acid, Aqua (and) Sodium Benzoate (and) Potassium Sorbate, Polysorbate 20, Alpha Arbutin, Tocopheryl Acetate, Silica, Perfume",
    "inciUnverified": null,
    "inciNote": null,
    "declarationConfidence": 0.9,
-   "recognised": 0.83,
+   "recognised": 1,
    "actives": [
     {
      "name": "butyrospermum parkii butter",
@@ -55643,7 +55185,17 @@ const NXPRODUCTS = [
     "glycerin"
    ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Chemist at Play / Bodywise",
     "kind": "d2c",
@@ -58954,13 +58506,14 @@ const NXPRODUCTS = [
   "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Be Bodywise official website (bebodywise.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "glycerin high on the INCI list (strong evidence)",
-   "No fragrance / flagged irritant on the INCI list",
    "Well-reviewed: 4.3★ from 344 ratings"
   ],
-  "cons": [],
+  "cons": [
+   "Added fragrance (parfum): perfume"
+  ],
   "scores": {
    "ingredients": 5.4,
-   "skin": 9,
+   "skin": 7.7,
    "trust": 7,
    "experience": 6.4
   },
@@ -58983,9 +58536,9 @@ const NXPRODUCTS = [
    "inciSource": "Be Bodywise official website (bebodywise.com) — product page › Ingredients",
    "inciSourceUrl": "https://bebodywise.com/product/4-aha-bha-underarm-roll-on",
    "inciMatchedName": "4 aha bha underarm roll on (name match 94%)",
-   "inciList": "Ingredient Names Aqua, Propylene Glycol, Butyrospermum Parkii (Shea) Butter, Lactic Acid, Sodium Lactate, Glycerin, Lysolecithin (and) Sclerotium Gum (and) Xanthan Gum (and) Pullulan, Mandelic Acid, Salicylic Acid, Aqua (and) Sodium Benzoate (and) Potassium Sorbate, Polysorbate 20, Alpha Arbutin, Tocopheryl Acetate, Silica, Perfume. Formulated Without Alcohol, Aluminium, Paraben, Silicone, Harmful Chemicals, Soda, Mineral, Phthalate, Petroleum, Sulfate",
+   "inciList": "Aqua, Propylene Glycol, Butyrospermum Parkii (Shea) Butter, Lactic Acid, Sodium Lactate, Glycerin, Lysolecithin (and) Sclerotium Gum (and) Xanthan Gum (and) Pullulan, Mandelic Acid, Salicylic Acid, Aqua (and) Sodium Benzoate (and) Potassium Sorbate, Polysorbate 20, Alpha Arbutin, Tocopheryl Acetate, Silica, Perfume",
    "evidenceActives": "glycerin (#6 on list, strong evidence)",
-   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "safetyFlags": "Added fragrance (parfum): perfume (−1.5)",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "buyerEvidence": "4.3★ from 344 ratings",
    "concernBasis": "Acne — salicylic acid #12 on INCI (matching only — not proof it works)"
@@ -59017,8 +58570,7 @@ const NXPRODUCTS = [
    "store:flipkart",
    "target:acne",
    "inci:full",
-   "inci:brand-site",
-   "inci:no-fragrance"
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": true,
@@ -59038,11 +58590,11 @@ const NXPRODUCTS = [
    "inciSourceRegion": "IN",
    "inciMatchedTitle": "4 aha bha underarm roll on",
    "inciMatchScore": 0.94,
-   "inciText": "Ingredient Names Aqua, Propylene Glycol, Butyrospermum Parkii (Shea) Butter, Lactic Acid, Sodium Lactate, Glycerin, Lysolecithin (and) Sclerotium Gum (and) Xanthan Gum (and) Pullulan, Mandelic Acid, Salicylic Acid, Aqua (and) Sodium Benzoate (and) Potassium Sorbate, Polysorbate 20, Alpha Arbutin, Tocopheryl Acetate, Silica, Perfume. Formulated Without Alcohol, Aluminium, Paraben, Silicone, Harmful Chemicals, Soda, Mineral, Phthalate, Petroleum, Sulfate",
+   "inciText": "Aqua, Propylene Glycol, Butyrospermum Parkii (Shea) Butter, Lactic Acid, Sodium Lactate, Glycerin, Lysolecithin (and) Sclerotium Gum (and) Xanthan Gum (and) Pullulan, Mandelic Acid, Salicylic Acid, Aqua (and) Sodium Benzoate (and) Potassium Sorbate, Polysorbate 20, Alpha Arbutin, Tocopheryl Acetate, Silica, Perfume",
    "inciUnverified": null,
    "inciNote": null,
    "declarationConfidence": 0.9,
-   "recognised": 0.83,
+   "recognised": 1,
    "actives": [
     {
      "name": "butyrospermum parkii butter",
@@ -59106,7 +58658,17 @@ const NXPRODUCTS = [
     "glycerin"
    ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Chemist at Play / Bodywise",
     "kind": "d2c",
@@ -127692,13 +127254,14 @@ const NXPRODUCTS = [
   "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Be Bodywise official website (bebodywise.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "glycerin high on the INCI list (strong evidence)",
-   "No fragrance / flagged irritant on the INCI list",
    "Well-reviewed: 4.5★ from 6,597 ratings"
   ],
-  "cons": [],
+  "cons": [
+   "Added fragrance (parfum): perfume"
+  ],
   "scores": {
    "ingredients": 5.4,
-   "skin": 9,
+   "skin": 7.7,
    "trust": 7,
    "experience": 8.5
   },
@@ -127721,9 +127284,9 @@ const NXPRODUCTS = [
    "inciSource": "Be Bodywise official website (bebodywise.com) — product page › Ingredients",
    "inciSourceUrl": "https://bebodywise.com/product/4-aha-bha-underarm-roll-on",
    "inciMatchedName": "4 aha bha underarm roll on (name match 94%)",
-   "inciList": "Ingredient Names Aqua, Propylene Glycol, Butyrospermum Parkii (Shea) Butter, Lactic Acid, Sodium Lactate, Glycerin, Lysolecithin (and) Sclerotium Gum (and) Xanthan Gum (and) Pullulan, Mandelic Acid, Salicylic Acid, Aqua (and) Sodium Benzoate (and) Potassium Sorbate, Polysorbate 20, Alpha Arbutin, Tocopheryl Acetate, Silica, Perfume. Formulated Without Alcohol, Aluminium, Paraben, Silicone, Harmful Chemicals, Soda, Mineral, Phthalate, Petroleum, Sulfate",
+   "inciList": "Aqua, Propylene Glycol, Butyrospermum Parkii (Shea) Butter, Lactic Acid, Sodium Lactate, Glycerin, Lysolecithin (and) Sclerotium Gum (and) Xanthan Gum (and) Pullulan, Mandelic Acid, Salicylic Acid, Aqua (and) Sodium Benzoate (and) Potassium Sorbate, Polysorbate 20, Alpha Arbutin, Tocopheryl Acetate, Silica, Perfume",
    "evidenceActives": "glycerin (#6 on list, strong evidence)",
-   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "safetyFlags": "Added fragrance (parfum): perfume (−1.5)",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "buyerEvidence": "4.5★ from 6,597 ratings",
    "concernBasis": "Acne — salicylic acid #12 on INCI (matching only — not proof it works)"
@@ -127755,8 +127318,7 @@ const NXPRODUCTS = [
    "store:flipkart",
    "target:acne",
    "inci:full",
-   "inci:brand-site",
-   "inci:no-fragrance"
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": true,
@@ -127776,11 +127338,11 @@ const NXPRODUCTS = [
    "inciSourceRegion": "IN",
    "inciMatchedTitle": "4 aha bha underarm roll on",
    "inciMatchScore": 0.94,
-   "inciText": "Ingredient Names Aqua, Propylene Glycol, Butyrospermum Parkii (Shea) Butter, Lactic Acid, Sodium Lactate, Glycerin, Lysolecithin (and) Sclerotium Gum (and) Xanthan Gum (and) Pullulan, Mandelic Acid, Salicylic Acid, Aqua (and) Sodium Benzoate (and) Potassium Sorbate, Polysorbate 20, Alpha Arbutin, Tocopheryl Acetate, Silica, Perfume. Formulated Without Alcohol, Aluminium, Paraben, Silicone, Harmful Chemicals, Soda, Mineral, Phthalate, Petroleum, Sulfate",
+   "inciText": "Aqua, Propylene Glycol, Butyrospermum Parkii (Shea) Butter, Lactic Acid, Sodium Lactate, Glycerin, Lysolecithin (and) Sclerotium Gum (and) Xanthan Gum (and) Pullulan, Mandelic Acid, Salicylic Acid, Aqua (and) Sodium Benzoate (and) Potassium Sorbate, Polysorbate 20, Alpha Arbutin, Tocopheryl Acetate, Silica, Perfume",
    "inciUnverified": null,
    "inciNote": null,
    "declarationConfidence": 0.9,
-   "recognised": 0.83,
+   "recognised": 1,
    "actives": [
     {
      "name": "butyrospermum parkii butter",
@@ -127844,7 +127406,17 @@ const NXPRODUCTS = [
     "glycerin"
    ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Chemist at Play / Bodywise",
     "kind": "d2c",
@@ -139980,108 +139552,6 @@ const NXPRODUCTS = [
     "url": null
    },
    "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "salve-itm39c70cf224267",
-  "brand": "salve",
-  "model": "1 Sweat Pads",
-  "price": 405,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Other",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [
-   "Well-reviewed: 4.4★ from 8 ratings"
-  ],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 4.5
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Other",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Antiperspirant / sweat control, Odour control / freshness (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.4/5 (8 ratings, Flipkart)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 8 ratings"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/k0r15e80/sweat-pad/5/s/z/1-1-salve-original-imafkgvqvgghzwnu.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/k0r15e80/sweat-pad/5/s/z/1-1-salve-original-imafkgvqhgt4stjj.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/k0r15e80/sweat-pad/5/s/z/1-bluesweatgo-2-salve-original-imafkgvq2dhgdwy8.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/k0r15e80/sweat-pad/5/s/z/1-1-salve-original-imafkgvqnfthbads.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/sweat-pad/s/5/s/2-sweatgo-hyperhidrosis-anti-perspirant-for-sweat-free-healthy-original-imahkezr5zftu3yb.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/salve-1-sweat-pads/p/itm39c70cf224267",
-  "buyStore": "Flipkart",
-  "title": "salve 1 Sweat Pads",
-  "tags": [
-   "scope:unstated",
-   "format:pads",
-   "claim:antiperspirant",
-   "claim:odour",
-   "aud:women",
-   "rating:4.0",
-   "store:flipkart",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.4★ from 8 ratings"
   }
  },
  {
@@ -202922,1061 +202392,6 @@ const NXPRODUCTS = [
   }
  },
  {
-  "id": "newsio-itm4ba5f0d6aaa5f",
-  "brand": "Newsio",
-  "model": "Sunscreen - SPF 50 PA+++ Sunscreen Roll On Broad Spectrum , Water Resistant UVA & UVB Prot…",
-  "price": 141,
-  "capacityLine": "23 g",
-  "materialLine": "Centella / cica + Aloe vera + Shea butter",
-  "featureLine": "Roll-on · Paraben-free · SPF 50 · ₹613/100g",
-  "highlight": "Live Flipkart listing. Scored from its published INCI list (Flipkart listing — Composition field): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [
-   "aloe barbadensis leaf extract high on the INCI list (moderate evidence); glycerin high on the INCI list (strong evidence)",
-   "No fragrance / flagged irritant on the INCI list"
-  ],
-  "cons": [
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 5.4,
-   "skin": 7,
-   "trust": 5.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "23 g",
-   "pricePer100": "₹613/100g",
-   "format": "Roll-on",
-   "appliesTo": "Face + body (per listing)",
-   "keyIngredients": "Centella / cica, Aloe vera, Shea butter, Zinc, Titanium dioxide, Glycerin, Coconut (named on listing)",
-   "freeFrom": "Paraben-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening / glow, Whitening / fairness (claim), Water / sweat resistant, Broad spectrum UVA/UVB, Korean / K-beauty, SPF included (seller claim — not clinical proof)",
-   "skinType": "All skin types",
-   "sunProtection": "SPF 50 · PA+++ (as labelled)",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Zinc Oxide (Non-Nano), Titanium Dioxide (Non-Nano) , Aloe Vera Extract ,Glycerin ,Shea Butter ,Coconut Oil with Natural Fruit Extracts",
-   "evidenceActives": "aloe barbadensis leaf extract (#3 on list, moderate evidence); glycerin (#4 on list, strong evidence)",
-   "safetyFlags": "No flagged irritant / allergen on the INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Irritation — aloe barbadensis leaf extract #3 on INCI (matching only — not proof it works)",
-   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/c/0/l/50-sunscreen-roll-on-broad-spectrum-water-resistant-uva-uvb-original-imahc2ddjgn5wmpa.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/n/t/l/-original-imahqzwfbpucggby.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/1/o/w/-original-imahqzwfmnwvwxsw.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/o/o/z/23-quick-sunstick-high-protection-spf50-glow-finish-korean-original-imahhyggefzerqdh.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/y/h/l/18-beauty-of-korean-sun-stick-18gm-skin-fairness-face-glowing-original-imahhxmdcgjcfvgu.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/newsio-sunscreen-spf-50-pa-roll-broad-spectrum-water-resistant-uva-uvb-protection/p/itm4ba5f0d6aaa5f",
-  "buyStore": "Flipkart",
-  "title": "Newsio Sunscreen - SPF 50 PA+++ Sunscreen Roll On Broad Spectrum , Water Resistant UVA & UVB Protection",
-  "tags": [
-   "scope:both",
-   "format:mist",
-   "format:stick",
-   "format:oil",
-   "format:balm",
-   "format:bar",
-   "format:roll-on",
-   "spf:50",
-   "pa:+++",
-   "sun:mineral",
-   "water:resistant",
-   "ing:centella-cica",
-   "ing:aloe-vera",
-   "ing:shea-butter",
-   "ing:zinc",
-   "ing:titanium-dioxide",
-   "ing:glycerin",
-   "ing:coconut",
-   "claim:brightening",
-   "claim:whitening-claim",
-   "claim:water-resistant",
-   "claim:broad-spectrum",
-   "claim:korean",
-   "claim:spf-claim",
-   "skin:all",
-   "free:paraben",
-   "free:vegan",
-   "aud:kids",
-   "size:travel",
-   "rating:none",
-   "store:flipkart",
-   "target:irritation",
-   "inci:full",
-   "inci:no-fragrance"
-  ],
-  "filters": {
-   "freefrom": true,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "full",
-   "inciSrc": "listing",
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "full",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": "Zinc Oxide (Non-Nano), Titanium Dioxide (Non-Nano) , Aloe Vera Extract ,Glycerin ,Shea Butter ,Coconut Oil with Natural Fruit Extracts",
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": 0.7,
-   "recognised": 1,
-   "actives": [
-    {
-     "name": "zinc oxide",
-     "grade": "A",
-     "position": 1,
-     "core": false,
-     "trace": false,
-     "src": "sunFilters"
-    },
-    {
-     "name": "titanium dioxide",
-     "grade": "A",
-     "position": 2,
-     "core": false,
-     "trace": false,
-     "src": "sunFilters"
-    },
-    {
-     "name": "aloe barbadensis leaf extract",
-     "grade": "B",
-     "position": 3,
-     "core": true,
-     "trace": false,
-     "src": "centella"
-    },
-    {
-     "name": "glycerin",
-     "grade": "A",
-     "position": 4,
-     "core": true,
-     "trace": false,
-     "src": "glycerin"
-    },
-    {
-     "name": "shea butter",
-     "grade": "B",
-     "position": 5,
-     "core": false,
-     "trace": false,
-     "src": "petrolatum"
-    }
-   ],
-   "support": [
-    "glycerin",
-    "shea butter"
-   ],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "the-love-co-itm63ceab972aecf",
-  "brand": "THE LOVE CO.",
-  "model": "Sunscreen - SPF 50 PA++++ Sun Barrier Sunscreen Body Spray - UVA & UVB Protection",
-  "price": 248,
-  "capacityLine": "100 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Aerosol / body spray · Paraben-free · SPF 50 · ₹248/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "Only 1 ingredient named — formula unscored",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
-   "experience": 1.6
-  },
-  "fullSpec": {
-   "quantity": "100 ml",
-   "pricePer100": "₹248/100ml",
-   "format": "Aerosol / body spray",
-   "appliesTo": "Face + body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Paraben-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening / glow, Hydrating / moisturizing, Barrier repair, Broad spectrum UVA/UVB, SPF included (seller claim — not clinical proof)",
-   "skinType": "All skin types",
-   "sunProtection": "SPF 50 · PA++++ (as labelled)",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "rating": "3.4/5 (14 ratings, Flipkart)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: Hydrated & Glowing Skin",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.4★ from 14 ratings",
-   "waterResistance": "Water resistance not stated in listing"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/n/s/5/100-sun-barrier-sunscreen-body-spray-uva-uvb-protection-50-the-original-imahb4ggdpanduat.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/p/n/y/100-sun-barrier-sunscreen-body-spray-uva-uvb-protection-50-the-original-imahb4gg5fjxf8cs.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/0/w/f/100-sun-barrier-sunscreen-body-spray-uva-uvb-protection-50-the-original-imahb4ggvw5pesqd.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/p/n/r/100-sun-barrier-sunscreen-body-spray-uva-uvb-protection-50-the-original-imahb4ggnbc8suby.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/l/o/g/325-sunscreen-body-lotion-uva-uvb-protection-hydration-skin-original-imahcgjutfsgntg2.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/love-co-sunscreen-spf-50-pa-sun-barrier-body-spray-uva-uvb-protection/p/itm63ceab972aecf",
-  "buyStore": "Flipkart",
-  "title": "THE LOVE CO Sunscreen - SPF 50 PA++++ Sun Barrier Sunscreen Body Spray - UVA & UVB Protection",
-  "tags": [
-   "scope:both",
-   "format:mist",
-   "format:aerosol",
-   "spf:50",
-   "pa:++++",
-   "water:unstated",
-   "claim:brightening",
-   "claim:hydrating",
-   "claim:barrier",
-   "claim:broad-spectrum",
-   "claim:spf-claim",
-   "skin:all",
-   "free:paraben",
-   "free:vegan",
-   "aud:women",
-   "size:standard",
-   "rating:low",
-   "store:flipkart",
-   "inci:partial"
-  ],
-  "filters": {
-   "freefrom": true,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "partial",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Hydrated & Glowing Skin",
-   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 0,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "3.4★ from 14 ratings"
-  }
- },
- {
-  "id": "luzimaisa-itma4c5c64bb6006",
-  "brand": "Luzimaisa",
-  "model": "Sunscreen - SPF 40 PA+++ Korean Matte Face Sunscreen SPF 40 Travel Sunscreen Roll On for F…",
-  "price": 339,
-  "capacityLine": "40 g",
-  "materialLine": "Rice water + Probiotics",
-  "featureLine": "Roll-on · SPF 40 · ₹848/100g",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "40 g",
-   "pricePer100": "₹848/100g",
-   "format": "Roll-on",
-   "appliesTo": "Face + body (per listing)",
-   "keyIngredients": "Rice water, Probiotics (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Oil control / matte / non-greasy, Hydrating / moisturizing, Broad spectrum UVA/UVB, Tinted, Korean / K-beauty, SPF included (seller claim — not clinical proof)",
-   "skinType": "All skin types",
-   "sunProtection": "SPF 40 · PA+++ (as labelled)",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet",
-   "waterResistance": "Water resistance not stated in listing"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/p/v/z/40-korean-matte-face-sunscreen-spf-40-travel-sunscreen-roll-on-original-imahfbjz275awpyz.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/v/z/f/40-acne-oil-correct-sunscreen-spf-cream-40-luzimaisa-original-imahfbjjjpkswvjm.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/w/f/q/150-assuree-spf-40-sun-protection-cream-40-kinjpa-original-imahkufu5zpkjfut.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/h/j/r/20-aqua-surge-sunscreen-stick-with-hyaluronic-acid-ceramides-for-original-imahhjxsvfcbxfbf.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/9/d/1/40-7in1-sunscreen-base-face-cream-makeup-corrector-primer-original-imahpsh47jmjuhdj.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/luzimaisa-sunscreen-spf-40-pa-korean-matte-face-travel-roll-body/p/itma4c5c64bb6006",
-  "buyStore": "Flipkart",
-  "title": "Luzimaisa Sunscreen - SPF 40 PA+++ Korean Matte Face Sunscreen SPF 40 Travel Sunscreen Roll On for Face Body",
-  "tags": [
-   "scope:both",
-   "format:cream",
-   "format:serum",
-   "format:essence",
-   "format:roll-on",
-   "spf:40",
-   "pa:+++",
-   "water:unstated",
-   "ing:rice-water",
-   "ing:probiotics",
-   "claim:oil-control",
-   "claim:hydrating",
-   "claim:broad-spectrum",
-   "claim:tinted",
-   "claim:korean",
-   "claim:spf-claim",
-   "skin:all",
-   "free:vegan",
-   "aud:women",
-   "size:travel",
-   "rating:none",
-   "store:flipkart",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "aravi-itm63bfccfcba16a",
-  "brand": "Aravi",
-  "model": "Organic Sunscreen - SPF 50 PA++++ Sunscreen - SPF 50 PA++++ Dual Mineral Sunscreen Body Sp…",
-  "price": 324,
-  "capacityLine": "200 ml",
-  "materialLine": "Zinc",
-  "featureLine": "Aerosol / body spray · SPF 50 · ₹162/100ml",
-  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Aravi official website (araviorganic.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [
-   "glycerin high on the INCI list (strong evidence)",
-   "No fragrance / flagged irritant on the INCI list"
-  ],
-  "cons": [
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 4.2,
-   "skin": 7,
-   "trust": 5.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "200 ml",
-   "pricePer100": "₹162/100ml",
-   "format": "Aerosol / body spray",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Zinc (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating / moisturizing, Broad spectrum UVA/UVB, SPF included (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "sunProtection": "SPF 50 · PA++++ (as labelled)",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
-   "inciSource": "Aravi official website (araviorganic.com) — product page › Ingredients",
-   "inciSourceUrl": "https://araviorganic.com/products/dual-mineral-sunscreen-body-spray-with-spf-50-pa",
-   "inciMatchedName": "Dual Mineral Sunscreen Spray SPF 50 PA++++ | In-Vivo Tested | Face & Body | 100ml (name match 92%)",
-   "inciList": "Aqua, Ethylhexyl Methoxycinnamate (and) Butyl Methoxydibenzoylmethane (and) Phospholipids (and) 1,3-Butylene Glycol (and) Phenoxyethanol Polyacrylamide (and) C13-14 Isoalkane (Formerly C13-14 Isoparaffin) (and) Laureth-7, Zinc oxide, Micronized Titanium Dioxide, Potassium Cetyl Phosphate, Phenoxyethanol With Ethylhexylglycerin, Glycerine, Sodium PCA, Isopropyl myristate, Niacinamide, Sodium Hylauronate, Cucumber Extract, Curcuma Longa Extract, Chamomile Flower Extract, Carrot Seed Extract, Grape Seed Extract, Xylitylglucoside (and) Anhydroxylitol (and) Xylitol",
-   "evidenceActives": "glycerin (#12 on list, strong evidence)",
-   "safetyFlags": "No flagged irritant / allergen on the INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet",
-   "concernBasis": "Acne — niacinamide #15 on INCI; Dark spots — niacinamide #15 on INCI (matching only — not proof it works)",
-   "waterResistance": "Water resistance not stated in listing"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/m/f/a/200-sunscreen-spf-50-pa-dual-mineral-sunscreen-body-spray-with-original-imahjf8c6h8hpk7b.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/4/u/a/200-sunscreen-spf-50-pa-dual-mineral-sunscreen-body-spray-with-original-imahjf8cxrwgjjc3.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/9/t/r/200-sunscreen-spf-50-pa-dual-mineral-sunscreen-body-spray-with-original-imahjf8cgwmcxqdy.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/i/m/v/300-sunscreen-spf-50-pa-dual-mineral-sunscreen-body-spray-with-original-imahjyfjgmzktazs.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/h/y/n/200-sunscreen-spf-50-pa-dual-mineral-sunscreen-body-spray-with-original-imahjf8cng7pcgep.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/aravi-organic-sunscreen-spf-50-pa-dual-mineral-body-spray-zinc-oxide/p/itm63bfccfcba16a",
-  "buyStore": "Flipkart",
-  "title": "Aravi Organic Sunscreen - SPF 50 PA++++ Sunscreen - SPF 50 PA++++ Dual Mineral Sunscreen Body Spray with Zinc Oxide",
-  "tags": [
-   "scope:body",
-   "format:lotion",
-   "format:mist",
-   "format:aerosol",
-   "spf:50",
-   "pa:++++",
-   "sun:mineral",
-   "water:unstated",
-   "ing:zinc",
-   "claim:hydrating",
-   "claim:broad-spectrum",
-   "claim:spf-claim",
-   "free:oil-free",
-   "aud:unisex",
-   "size:large",
-   "rating:none",
-   "store:flipkart",
-   "target:acne",
-   "target:dark-spots",
-   "inci:full",
-   "inci:brand-site",
-   "inci:no-fragrance"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "full",
-   "inciSrc": "brand-site",
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "full",
-   "inciSource": "Aravi official website (araviorganic.com) — product page › Ingredients",
-   "inciSourceKind": "brand-site",
-   "inciSourceUrl": "https://araviorganic.com/products/dual-mineral-sunscreen-body-spray-with-spf-50-pa",
-   "inciSourceRegion": "IN",
-   "inciMatchedTitle": "Dual Mineral Sunscreen Spray SPF 50 PA++++ | In-Vivo Tested | Face & Body | 100ml",
-   "inciMatchScore": 0.92,
-   "inciText": "Aqua, Ethylhexyl Methoxycinnamate (and) Butyl Methoxydibenzoylmethane (and) Phospholipids (and) 1,3-Butylene Glycol (and) Phenoxyethanol Polyacrylamide (and) C13-14 Isoalkane (Formerly C13-14 Isoparaffin) (and) Laureth-7, Zinc oxide, Micronized Titanium Dioxide, Potassium Cetyl Phosphate, Phenoxyethanol With Ethylhexylglycerin, Glycerine, Sodium PCA, Isopropyl myristate, Niacinamide, Sodium Hylauronate, Cucumber Extract, Curcuma Longa Extract, Chamomile Flower Extract, Carrot Seed Extract, Grape Seed Extract, Xylitylglucoside (and) Anhydroxylitol (and) Xylitol",
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": 0.7,
-   "recognised": 1,
-   "actives": [
-    {
-     "name": "ethylhexyl methoxycinnamate",
-     "grade": "A",
-     "position": 2,
-     "core": false,
-     "trace": false,
-     "src": "sunFilters"
-    },
-    {
-     "name": "butyl methoxydibenzoylmethane",
-     "grade": "A",
-     "position": 3,
-     "core": false,
-     "trace": false,
-     "src": "sunFilters"
-    },
-    {
-     "name": "zinc oxide",
-     "grade": "A",
-     "position": 8,
-     "core": false,
-     "trace": false,
-     "src": "sunFilters"
-    },
-    {
-     "name": "glycerin",
-     "grade": "A",
-     "position": 12,
-     "core": true,
-     "trace": false,
-     "src": "glycerin"
-    },
-    {
-     "name": "niacinamide",
-     "grade": "A",
-     "position": 15,
-     "core": false,
-     "trace": false,
-     "src": "niacinamide"
-    },
-    {
-     "name": "sodium hyaluronate",
-     "grade": "B",
-     "position": 16,
-     "core": false,
-     "trace": false,
-     "src": "ha"
-    }
-   ],
-   "support": [
-    "butylene glycol",
-    "glycerin",
-    "sodium pca",
-    "niacinamide",
-    "sodium hyaluronate"
-   ],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "cosmo-itmacd19534761f2",
-  "brand": "COSMO",
-  "model": "Hyaluronic Sunscreen Sun Roll-On SPF 50+ UVA + UVB Protection Non-Greasy Deodorant Roll-on…",
-  "price": 428,
-  "capacityLine": "100 ml (pack of 2)",
-  "materialLine": "Salicylic acid (BHA) + AHA + Hyaluronic acid",
-  "featureLine": "Roll-on · SPF 50 · ₹428/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "50 ml × 2 pack",
-   "pricePer100": "₹428/100ml",
-   "format": "Roll-on",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Salicylic acid (BHA), AHA, Hyaluronic acid, Watermelon (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Dark spots / pigmentation, Oil control / matte / non-greasy, Broad spectrum UVA/UVB, SPF included, Antiperspirant / sweat control, Odour control / freshness (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "sunProtection": "SPF 50 (as labelled)",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "CavinKare — Established / listed Indian FMCG house",
-   "buyerEvidence": "No buyer ratings yet",
-   "waterResistance": "Water resistance not stated in listing"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/deodorant/u/t/j/50-hyaluronic-sunscreen-sun-roll-on-spf-50-uva-uvb-protection-original-imahjrqkx9gkhgp2.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/deodorant/0/1/7/50-for-long-lasting-relief-from-excessive-sweat-and-body-odor-50-original-imahhju5mqvbzz5q.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/deodorant/y/t/e/75-6-aha-bha-underarm-roll-on-reduces-pigmentation-odour-flora-1-original-imahkz3fcegyyreg.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/deodorant/3/s/6/50-roll-on-controls-excess-sweat-provides-long-lasting-freshness-original-imahkzy5rhfwqacb.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/deodorant/d/u/v/50-pearl-and-beauty-roll-on-25mlx2-2-deodorant-roll-on-nivea-men-original-imagxxgbdfymurra.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/cosmo-hyaluronic-sunscreen-sun-roll-on-spf-50-uva-uvb-protection-non-greasy-deodorant-men-women/p/itmacd19534761f2",
-  "buyStore": "Flipkart",
-  "title": "COSMO Hyaluronic Sunscreen Sun Roll-On SPF 50+ UVA + UVB Protection Non-Greasy Deodorant Roll-on - For Men & Women",
-  "tags": [
-   "scope:body",
-   "format:roll-on",
-   "format:kit",
-   "spf:50+",
-   "water:unstated",
-   "ing:salicylic-acid-bha",
-   "ing:aha",
-   "ing:hyaluronic-acid",
-   "ing:watermelon",
-   "claim:dark-spots",
-   "claim:oil-control",
-   "claim:broad-spectrum",
-   "claim:spf-claim",
-   "claim:antiperspirant",
-   "claim:odour",
-   "aud:women",
-   "size:standard",
-   "rating:none",
-   "store:flipkart",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "CavinKare",
-    "kind": "india",
-    "label": "Established / listed Indian FMCG house",
-    "pts": 6,
-    "url": "https://www.cavinkare.com/brands/"
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "mildcares-itm3863c0b596c74",
-  "brand": "MILDCARES",
-  "model": "Sunscreen - SPF Protect and nourish your skin with Sea Buckthorn Sunscreen SPF 50 Underarm…",
-  "price": 723,
-  "capacityLine": "120 g",
-  "materialLine": "Sea buckthorn",
-  "featureLine": "Roll-on · Paraben-free · SPF 50 · ₹603/100g",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "Only 1 ingredient named — formula unscored",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "120 g",
-   "pricePer100": "₹603/100g",
-   "format": "Roll-on",
-   "appliesTo": "Face + body (per listing)",
-   "keyIngredients": "Sea buckthorn (named on listing)",
-   "freeFrom": "Paraben-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Oil control / matte / non-greasy, Hydrating / moisturizing, Broad spectrum UVA/UVB, Tinted, SPF included (seller claim — not clinical proof)",
-   "skinType": "All skin types",
-   "sunProtection": "SPF 50 · PA+++ (as labelled)",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: 1 x Pure Sea Buckthorn Sunscreen Gel (80g)",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet",
-   "waterResistance": "Water resistance not stated in listing"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/n/t/l/-original-imahqzwfbpucggby.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/1/o/w/-original-imahqzwfmnwvwxsw.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/j/t/c/160-spf-50-broad-spectrum-sun-protection-suitable-for-all-skin-original-imahc5k5nqzmwvzg.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/t/s/y/50-silicone-sunscreen-spf-50-pa-ultra-matte-gel-for-face-body-original-imah936vyywnrtfr.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/keg02a80/sunscreen/j/w/e/30-face-guard-silicone-sunscreen-30-tvaksh-original-imafv44dfxyqh8za.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/mildcares-sunscreen-spf-protect-nourish-your-skin-sea-buckthorn-50-underarm-pa-roll-on-ideal-daily-use-providing-uva-uvb-protection-smooth-care/p/itm3863c0b596c74",
-  "buyStore": "Flipkart",
-  "title": "MILDCARES Sunscreen - SPF Protect and nourish your skin with Sea Buckthorn Sunscreen SPF 50 Underarm PA+++ Roll-On. Ideal for daily use, providing UVA/UVB protection & smooth skin care",
-  "tags": [
-   "scope:both",
-   "format:gel",
-   "format:roll-on",
-   "spf:50",
-   "pa:+++",
-   "water:unstated",
-   "ing:sea-buckthorn",
-   "claim:oil-control",
-   "claim:hydrating",
-   "claim:broad-spectrum",
-   "claim:tinted",
-   "claim:spf-claim",
-   "skin:all",
-   "free:paraben",
-   "free:vegan",
-   "aud:women",
-   "size:standard",
-   "rating:none",
-   "store:flipkart",
-   "inci:partial"
-  ],
-  "filters": {
-   "freefrom": true,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "partial",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "1 x Pure Sea Buckthorn Sunscreen Gel (80g)",
-   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 0,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "fixderma-itm3637eae975031",
-  "brand": "Fixderma",
-  "model": "Sunscreen - SPF 50 PA+++ Shadow Roll On Sunscreen SPF 50 PA+++, Water Resistant, UVA & UVB…",
-  "price": 608,
-  "capacityLine": "30 g",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Roll-on · Paraben-free · SPF 50 · ₹2027/100g",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [
-   "Made by Fixderma India (dermatology company) (dermatology / pharma maker)",
-   "Well-reviewed: 4.5★ from 39 ratings"
-  ],
-  "cons": [
-   "Only 3 ingredients named — formula unscored"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 8.3,
-   "experience": 5.8
-  },
-  "fullSpec": {
-   "quantity": "30 g",
-   "pricePer100": "₹2027/100g",
-   "format": "Roll-on",
-   "appliesTo": "Face + body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Paraben-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating / moisturizing, Water / sweat resistant, No white cast, Broad spectrum UVA/UVB, Lightweight / fast-absorbing, SPF included (seller claim — not clinical proof)",
-   "skinType": "Oily skin, Combination skin, Sensitive skin",
-   "sunProtection": "SPF 50 · PA+++ (as labelled)",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.5/5 (39 ratings, Flipkart)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Only 3 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: GOLDEN SEAWEED, PHYTOSTEROL, OCTOCRYLENE",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Fixderma India (dermatology company) — Dermatology / pharmaceutical manufacturer",
-   "buyerEvidence": "4.5★ from 39 ratings",
-   "waterResistance": "Water resistant / waterproof (duration not stated) (per listing — not tested here, not scored)"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/s/e/5/30-shadow-roll-on-sunscreen-spf-50-pa-water-resistant-uva-uvb-original-imahj4hzupnudsz5.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/6/d/i/30-shadow-roll-on-sunscreen-spf-50-pa-water-resistant-uva-uvb-original-imahj4hztdtyzuzg.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/x/s/8/30-shadow-roll-on-sunscreen-spf-50-pa-water-resistant-uva-uvb-original-imahj4hzchmpbrnm.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/7/o/a/30-shadow-roll-on-sunscreen-spf-50-pa-water-resistant-uva-uvb-original-imahj4hz2hvwtsjk.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/l/6/x/30-shadow-roll-on-sunscreen-spf-50-pa-water-resistant-uva-uvb-original-imahj4hzgpg2yst2.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/fixderma-sunscreen-spf-50-pa-shadow-roll-pa-water-resistant-uva-uvb-protection/p/itm3637eae975031",
-  "buyStore": "Flipkart",
-  "title": "Fixderma Sunscreen - SPF 50 PA+++ Shadow Roll On Sunscreen SPF 50 PA+++, Water Resistant, UVA & UVB Protection",
-  "tags": [
-   "scope:both",
-   "format:gel",
-   "format:roll-on",
-   "spf:50",
-   "pa:+++",
-   "sun:chemical",
-   "water:resistant",
-   "claim:hydrating",
-   "claim:water-resistant",
-   "claim:no-white-cast",
-   "claim:broad-spectrum",
-   "claim:lightweight",
-   "claim:spf-claim",
-   "skin:oily",
-   "skin:combination",
-   "skin:sensitive",
-   "free:paraben",
-   "free:oil-free",
-   "free:vegan",
-   "free:sensitive-safe",
-   "aud:women",
-   "size:travel",
-   "rating:4.5",
-   "store:flipkart",
-   "inci:partial",
-   "inci:pharma-maker"
-  ],
-  "filters": {
-   "freefrom": true,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "partial",
-   "inciSrc": null,
-   "pharma": true
-  },
-  "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "GOLDEN SEAWEED, PHYTOSTEROL, OCTOCRYLENE",
-   "inciNote": "Only 3 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 0.67,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Fixderma India (dermatology company)",
-    "kind": "pharma",
-    "label": "Dermatology / pharmaceutical manufacturer",
-    "pts": 8,
-    "url": "https://www.fixderma.com/"
-   },
-   "buyers": "4.5★ from 39 ratings"
-  }
- },
- {
-  "id": "namyaa-itm690b54f6fabbd",
-  "brand": "Namyaa",
-  "model": "Sunscreen SPF 40 PA+++ Spray 50ml With Underarm Roll On 6% Brightening Complex 50ml",
-  "price": 461,
-  "capacityLine": "50 ml",
-  "materialLine": "Turmeric + Sandalwood",
-  "featureLine": "Roll-on · Paraben-free · SPF 40 · ₹922/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "50 ml",
-   "pricePer100": "₹922/100ml",
-   "format": "Roll-on",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Turmeric, Sandalwood (named on listing)",
-   "freeFrom": "Paraben-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening / glow, Dark spots / pigmentation, SPF included, Intimate hygiene, Makeup-related (setting / priming / removing) (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "sunProtection": "SPF 40 · PA+++ (as labelled)",
-   "regulated": "Contains / references a drug-grade active (adapalene, tretinoin, clindamycin, IP/USP) — follow label directions; not a cosmetic claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet",
-   "waterResistance": "Water resistance not stated in listing"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/n/s/x/sunscreen-spf-40-pa-spray-50ml-with-underarm-roll-on-6-original-imahjzgfq8vmbyjx.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/deodorant/r/t/3/50-underarm-roll-on-4-aha-bha-6-brightening-complex-reduces-original-imahhmyvgccfqyxz.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/q/e/6/50-spray-uva-uvb-pa-water-resistant-non-aerosol-no-white-cast-original-imahd2razc4wateq.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/s/p/s/50-spray-uva-uvb-pa-water-resistant-non-aerosol-no-white-cast-original-imahd2racvn6kxkp.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-combo-kit/e/h/g/haldi-chandan-intimate-glow-kit-for-dark-intimate-area-serum-original-imahhhgyhjyqfz4h.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/namyaa-sunscreen-spf-40-pa-spray-50ml-underarm-roll-6-brightening-complex/p/itm690b54f6fabbd",
-  "buyStore": "Flipkart",
-  "title": "Namyaa Sunscreen SPF 40 PA+++ Spray 50ml With Underarm Roll On 6% Brightening Complex 50ml",
-  "tags": [
-   "scope:body",
-   "format:serum",
-   "format:mist",
-   "format:pack",
-   "format:wash",
-   "format:roll-on",
-   "format:kit",
-   "spf:40",
-   "pa:+++",
-   "water:unstated",
-   "ing:turmeric",
-   "ing:sandalwood",
-   "claim:brightening",
-   "claim:dark-spots",
-   "claim:spf-claim",
-   "claim:intimate-hygiene",
-   "claim:makeup",
-   "free:paraben",
-   "free:vegan",
-   "aud:women",
-   "size:travel",
-   "rating:none",
-   "store:flipkart",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": true,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
   "id": "pokonut-itm9cea91909140b",
   "brand": "Pokonut",
   "model": "Stretch Mark Roll on Pack of 3 | Reduces Old & New Stretch Marks | Hyaluronic Acid",
@@ -236220,237 +234635,6 @@ const NXPRODUCTS = [
   }
  },
  {
-  "id": "forest-essentials-b0f1tr82yz",
-  "brand": "Forest Essentials",
-  "model": "Sheer Sunscreen Body Spray SPF 50|PA++++ | Weightless Mist, Invisible Protection | 1st Ayu…",
-  "price": 2250,
-  "capacityLine": "130 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Aerosol / body spray · SPF 50 · ₹1731/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6,
-   "experience": 5
-  },
-  "fullSpec": {
-   "quantity": "130 ml",
-   "pricePer100": "₹1731/100ml",
-   "format": "Aerosol / body spray",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating / moisturizing, No white cast, Ayurvedic / herbal, SPF included (seller claim — not clinical proof)",
-   "skinType": "Oily skin",
-   "sunProtection": "SPF 50 · PA++++ (as labelled)",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "5.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Forest Essentials (Mountain Valley Springs) — Established / listed Indian FMCG house",
-   "buyerEvidence": "5★ from 0 ratings",
-   "waterResistance": "Water resistance not stated in listing"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61E0MwLWecL._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/71+Z31OWkEL._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/71LZ2gsPmzL._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/81iKdcMHjEL._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/81XSMRzdBPL._SL1500_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0F1TR82YZ",
-  "buyStore": "Amazon",
-  "title": "Forest Essentials Sheer Sunscreen Body Spray SPF 50|PA++++ | Weightless Mist, Invisible Protection | 1st Ayurvedic Sunscreen Spray | No White Cast | Hydrating Formula| Dry, Normal, Oily Skin | 130 ml",
-  "tags": [
-   "scope:body",
-   "format:mist",
-   "format:aerosol",
-   "spf:50",
-   "pa:++++",
-   "water:unstated",
-   "claim:hydrating",
-   "claim:no-white-cast",
-   "claim:ayurvedic",
-   "claim:spf-claim",
-   "skin:oily",
-   "aud:unisex",
-   "size:large",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Forest Essentials (Mountain Valley Springs)",
-    "kind": "india",
-    "label": "Established / listed Indian FMCG house",
-    "pts": 6,
-    "url": "https://www.forestessentialsindia.com/"
-   },
-   "buyers": "5★ from 0 ratings"
-  }
- },
- {
-  "id": "kt-kids-b0g7krd4n4",
-  "brand": "KT Kids",
-  "model": "Sunscreen SPF25+ Face & Body Spray | Pediatrician Approved | UV Shield & Frizz Control wit…",
-  "price": 1118,
-  "capacityLine": "200 ml (pack of 2)",
-  "materialLine": "Mineral oil",
-  "featureLine": "Aerosol / body spray · Paraben-free · SPF 25 · ₹559/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "100 ml × 2 pack",
-   "pricePer100": "₹559/100ml",
-   "format": "Aerosol / body spray",
-   "appliesTo": "Face + body (per listing)",
-   "keyIngredients": "Mineral oil (named on listing)",
-   "freeFrom": "Paraben-free (seller claim — not scored)",
-   "dermTested": "Dermatologically tested (seller claim — not scored)",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Oil control / matte / non-greasy, Hydrating / moisturizing, Barrier repair, Soothing / calming, Lightweight / fast-absorbing, SPF included, Dry / very dry skin relief (seller claim — not clinical proof)",
-   "skinType": "Sensitive skin",
-   "sunProtection": "SPF 25 (as labelled)",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet",
-   "waterResistance": "marketed for swim / sport / outdoors (per listing — not tested here, not scored)"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71UZPr+ulzL._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/710wvgfHYpL._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/61edfWjdtIL._SL1000_.jpg",
-   "https://m.media-amazon.com/images/I/61Xe+0LiHkL._SL1000_.jpg",
-   "https://m.media-amazon.com/images/I/61PPBjytivL._SL1000_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0G7KRD4N4",
-  "buyStore": "Amazon",
-  "title": "Sunscreen SPF25+ Face & Body Spray | Pediatrician Approved | UV Shield & Frizz Control with Blueberry & Cranberry | Non-Greasy | 100ml (Pack of 2)",
-  "tags": [
-   "scope:both",
-   "format:mist",
-   "format:kit",
-   "format:aerosol",
-   "spf:15",
-   "sun:mineral",
-   "water:unstated",
-   "water:sport",
-   "ing:mineral-oil",
-   "claim:oil-control",
-   "claim:hydrating",
-   "claim:barrier",
-   "claim:soothing",
-   "claim:lightweight",
-   "claim:spf-claim",
-   "claim:dry-skin-relief",
-   "skin:sensitive",
-   "free:paraben",
-   "free:derm",
-   "free:hypoallergenic",
-   "free:vegan",
-   "free:toxin-free",
-   "aud:kids",
-   "size:large",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": true,
-   "natural": true,
-   "derm": true,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
   "id": "glomama-b0g1n3vgy1",
   "brand": "GLOMAMA",
   "model": "GLO Mama Stretch Mark Oil Roll On with Centella Asiatica & Striover | Pregnancy-Safe, Reti…",
@@ -249126,13 +247310,14 @@ const NXPRODUCTS = [
   "featureLine": "Roll-on · ₹798/100ml",
   "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Be Bodywise official website (bebodywise.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
-   "glycerin high on the INCI list (strong evidence)",
-   "No fragrance / flagged irritant on the INCI list"
+   "glycerin high on the INCI list (strong evidence)"
   ],
-  "cons": [],
+  "cons": [
+   "Added fragrance (parfum): perfume"
+  ],
   "scores": {
    "ingredients": 5.4,
-   "skin": 9,
+   "skin": 7.7,
    "trust": 7,
    "experience": 3.2
   },
@@ -249155,9 +247340,9 @@ const NXPRODUCTS = [
    "inciSource": "Be Bodywise official website (bebodywise.com) — product page › Ingredients",
    "inciSourceUrl": "https://bebodywise.com/product/4-aha-bha-underarm-roll-on",
    "inciMatchedName": "4 aha bha underarm roll on (name match 94%)",
-   "inciList": "Ingredient Names Aqua, Propylene Glycol, Butyrospermum Parkii (Shea) Butter, Lactic Acid, Sodium Lactate, Glycerin, Lysolecithin (and) Sclerotium Gum (and) Xanthan Gum (and) Pullulan, Mandelic Acid, Salicylic Acid, Aqua (and) Sodium Benzoate (and) Potassium Sorbate, Polysorbate 20, Alpha Arbutin, Tocopheryl Acetate, Silica, Perfume. Formulated Without Alcohol, Aluminium, Paraben, Silicone, Harmful Chemicals, Soda, Mineral, Phthalate, Petroleum, Sulfate",
+   "inciList": "Aqua, Propylene Glycol, Butyrospermum Parkii (Shea) Butter, Lactic Acid, Sodium Lactate, Glycerin, Lysolecithin (and) Sclerotium Gum (and) Xanthan Gum (and) Pullulan, Mandelic Acid, Salicylic Acid, Aqua (and) Sodium Benzoate (and) Potassium Sorbate, Polysorbate 20, Alpha Arbutin, Tocopheryl Acetate, Silica, Perfume",
    "evidenceActives": "glycerin (#6 on list, strong evidence)",
-   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "safetyFlags": "Added fragrance (parfum): perfume (−1.5)",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "buyerEvidence": "4.4★ from 0 ratings",
    "concernBasis": "Acne — salicylic acid #12 on INCI (matching only — not proof it works)"
@@ -249190,8 +247375,7 @@ const NXPRODUCTS = [
    "store:amazon",
    "target:acne",
    "inci:full",
-   "inci:brand-site",
-   "inci:no-fragrance"
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -249211,11 +247395,11 @@ const NXPRODUCTS = [
    "inciSourceRegion": "IN",
    "inciMatchedTitle": "4 aha bha underarm roll on",
    "inciMatchScore": 0.94,
-   "inciText": "Ingredient Names Aqua, Propylene Glycol, Butyrospermum Parkii (Shea) Butter, Lactic Acid, Sodium Lactate, Glycerin, Lysolecithin (and) Sclerotium Gum (and) Xanthan Gum (and) Pullulan, Mandelic Acid, Salicylic Acid, Aqua (and) Sodium Benzoate (and) Potassium Sorbate, Polysorbate 20, Alpha Arbutin, Tocopheryl Acetate, Silica, Perfume. Formulated Without Alcohol, Aluminium, Paraben, Silicone, Harmful Chemicals, Soda, Mineral, Phthalate, Petroleum, Sulfate",
+   "inciText": "Aqua, Propylene Glycol, Butyrospermum Parkii (Shea) Butter, Lactic Acid, Sodium Lactate, Glycerin, Lysolecithin (and) Sclerotium Gum (and) Xanthan Gum (and) Pullulan, Mandelic Acid, Salicylic Acid, Aqua (and) Sodium Benzoate (and) Potassium Sorbate, Polysorbate 20, Alpha Arbutin, Tocopheryl Acetate, Silica, Perfume",
    "inciUnverified": null,
    "inciNote": null,
    "declarationConfidence": 0.9,
-   "recognised": 0.83,
+   "recognised": 1,
    "actives": [
     {
      "name": "butyrospermum parkii butter",
@@ -249279,7 +247463,17 @@ const NXPRODUCTS = [
     "glycerin"
    ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Chemist at Play / Bodywise",
     "kind": "d2c",
@@ -256293,13 +254487,14 @@ const NXPRODUCTS = [
   "featureLine": "Roll-on · Aluminium-free · ₹798/100ml",
   "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Be Bodywise official website (bebodywise.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
-   "glycerin high on the INCI list (strong evidence)",
-   "No fragrance / flagged irritant on the INCI list"
+   "glycerin high on the INCI list (strong evidence)"
   ],
-  "cons": [],
+  "cons": [
+   "Added fragrance (parfum): perfume"
+  ],
   "scores": {
    "ingredients": 5.4,
-   "skin": 9,
+   "skin": 7.7,
    "trust": 7,
    "experience": 1.3
   },
@@ -256322,9 +254517,9 @@ const NXPRODUCTS = [
    "inciSource": "Be Bodywise official website (bebodywise.com) — product page › Ingredients",
    "inciSourceUrl": "https://bebodywise.com/product/4-aha-bha-underarm-roll-on",
    "inciMatchedName": "4 aha bha underarm roll on (name match 90%)",
-   "inciList": "Ingredient Names Aqua, Propylene Glycol, Butyrospermum Parkii (Shea) Butter, Lactic Acid, Sodium Lactate, Glycerin, Lysolecithin (and) Sclerotium Gum (and) Xanthan Gum (and) Pullulan, Mandelic Acid, Salicylic Acid, Aqua (and) Sodium Benzoate (and) Potassium Sorbate, Polysorbate 20, Alpha Arbutin, Tocopheryl Acetate, Silica, Perfume. Formulated Without Alcohol, Aluminium, Paraben, Silicone, Harmful Chemicals, Soda, Mineral, Phthalate, Petroleum, Sulfate",
+   "inciList": "Aqua, Propylene Glycol, Butyrospermum Parkii (Shea) Butter, Lactic Acid, Sodium Lactate, Glycerin, Lysolecithin (and) Sclerotium Gum (and) Xanthan Gum (and) Pullulan, Mandelic Acid, Salicylic Acid, Aqua (and) Sodium Benzoate (and) Potassium Sorbate, Polysorbate 20, Alpha Arbutin, Tocopheryl Acetate, Silica, Perfume",
    "evidenceActives": "glycerin (#6 on list, strong evidence)",
-   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "safetyFlags": "Added fragrance (parfum): perfume (−1.5)",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "buyerEvidence": "3.8★ from 0 ratings",
    "concernBasis": "Acne — salicylic acid #12 on INCI (matching only — not proof it works)"
@@ -256361,8 +254556,7 @@ const NXPRODUCTS = [
    "store:amazon",
    "target:acne",
    "inci:full",
-   "inci:brand-site",
-   "inci:no-fragrance"
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": true,
@@ -256382,11 +254576,11 @@ const NXPRODUCTS = [
    "inciSourceRegion": "IN",
    "inciMatchedTitle": "4 aha bha underarm roll on",
    "inciMatchScore": 0.9,
-   "inciText": "Ingredient Names Aqua, Propylene Glycol, Butyrospermum Parkii (Shea) Butter, Lactic Acid, Sodium Lactate, Glycerin, Lysolecithin (and) Sclerotium Gum (and) Xanthan Gum (and) Pullulan, Mandelic Acid, Salicylic Acid, Aqua (and) Sodium Benzoate (and) Potassium Sorbate, Polysorbate 20, Alpha Arbutin, Tocopheryl Acetate, Silica, Perfume. Formulated Without Alcohol, Aluminium, Paraben, Silicone, Harmful Chemicals, Soda, Mineral, Phthalate, Petroleum, Sulfate",
+   "inciText": "Aqua, Propylene Glycol, Butyrospermum Parkii (Shea) Butter, Lactic Acid, Sodium Lactate, Glycerin, Lysolecithin (and) Sclerotium Gum (and) Xanthan Gum (and) Pullulan, Mandelic Acid, Salicylic Acid, Aqua (and) Sodium Benzoate (and) Potassium Sorbate, Polysorbate 20, Alpha Arbutin, Tocopheryl Acetate, Silica, Perfume",
    "inciUnverified": null,
    "inciNote": null,
    "declarationConfidence": 0.9,
-   "recognised": 0.83,
+   "recognised": 1,
    "actives": [
     {
      "name": "butyrospermum parkii butter",
@@ -256450,7 +254644,17 @@ const NXPRODUCTS = [
     "glycerin"
    ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Chemist at Play / Bodywise",
     "kind": "d2c",
@@ -259811,121 +258015,6 @@ const NXPRODUCTS = [
   }
  },
  {
-  "id": "the-love-co-b0cb4h9l19",
-  "brand": "THE LOVE CO.",
-  "model": "Sun barrier quick dry body spray SPF 50 PA ++++ 100 ml",
-  "price": 249,
-  "capacityLine": "100 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Aerosol / body spray · SPF 50 · ₹249/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0.6
-  },
-  "fullSpec": {
-   "quantity": "100 ml",
-   "pricePer100": "₹249/100ml",
-   "format": "Aerosol / body spray",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating / moisturizing, Barrier repair, No white cast, Broad spectrum UVA/UVB, Lightweight / fast-absorbing, SPF included (seller claim — not clinical proof)",
-   "skinType": "Sensitive skin, All skin types",
-   "sunProtection": "SPF 50 · PA++++ (as labelled)",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "3.6/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.6★ from 0 ratings",
-   "waterResistance": "Water resistance not stated in listing"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/41bskGmxukL._SL1100_.jpg",
-   "https://m.media-amazon.com/images/I/51BIhl4j2oL._SL1100_.jpg",
-   "https://m.media-amazon.com/images/I/51IBor5HvtL._SL1100_.jpg",
-   "https://m.media-amazon.com/images/I/61RGZfJkyHL._SL1100_.jpg",
-   "https://m.media-amazon.com/images/I/617c+W8YVBL._SL1100_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0CB4H9L19",
-  "buyStore": "Amazon",
-  "title": "Sun barrier quick dry body spray SPF 50 PA ++++ 100 ml",
-  "tags": [
-   "scope:body",
-   "format:mist",
-   "format:aerosol",
-   "spf:50",
-   "pa:++++",
-   "water:unstated",
-   "claim:hydrating",
-   "claim:barrier",
-   "claim:no-white-cast",
-   "claim:broad-spectrum",
-   "claim:lightweight",
-   "claim:spf-claim",
-   "skin:sensitive",
-   "skin:all",
-   "free:oil-free",
-   "free:sensitive-safe",
-   "aud:unisex",
-   "size:standard",
-   "rating:3.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "3.6★ from 0 ratings"
-  }
- },
- {
   "id": "adidas-b0f1pstwkp",
   "brand": "adidas",
   "model": "Vibes Happy Feel Fragrance Hair & Body Mist 236ml | Long Lasting Hair & Body Mist for Wome…",
@@ -261115,13 +259204,14 @@ const NXPRODUCTS = [
   "featureLine": "Roll-on · Fragrance-free · ₹798/100ml",
   "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Be Bodywise official website (bebodywise.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
-   "glycerin high on the INCI list (strong evidence)",
-   "No fragrance / flagged irritant on the INCI list"
+   "glycerin high on the INCI list (strong evidence)"
   ],
-  "cons": [],
+  "cons": [
+   "Added fragrance (parfum): perfume"
+  ],
   "scores": {
    "ingredients": 5.4,
-   "skin": 9,
+   "skin": 7.7,
    "trust": 7,
    "experience": 3.2
   },
@@ -261145,9 +259235,9 @@ const NXPRODUCTS = [
    "inciSourceUrl": "https://bebodywise.com/product/4-aha-bha-underarm-roll-on",
    "inciMatchedName": "4 aha bha underarm roll on (name match 90%)",
    "listingIngredientLine": "4% Lactic Acid, 1% Mandelic Acid, 2% Dermawhite (as printed on the Amazon listing — incomplete, not scored)",
-   "inciList": "Ingredient Names Aqua, Propylene Glycol, Butyrospermum Parkii (Shea) Butter, Lactic Acid, Sodium Lactate, Glycerin, Lysolecithin (and) Sclerotium Gum (and) Xanthan Gum (and) Pullulan, Mandelic Acid, Salicylic Acid, Aqua (and) Sodium Benzoate (and) Potassium Sorbate, Polysorbate 20, Alpha Arbutin, Tocopheryl Acetate, Silica, Perfume. Formulated Without Alcohol, Aluminium, Paraben, Silicone, Harmful Chemicals, Soda, Mineral, Phthalate, Petroleum, Sulfate",
+   "inciList": "Aqua, Propylene Glycol, Butyrospermum Parkii (Shea) Butter, Lactic Acid, Sodium Lactate, Glycerin, Lysolecithin (and) Sclerotium Gum (and) Xanthan Gum (and) Pullulan, Mandelic Acid, Salicylic Acid, Aqua (and) Sodium Benzoate (and) Potassium Sorbate, Polysorbate 20, Alpha Arbutin, Tocopheryl Acetate, Silica, Perfume",
    "evidenceActives": "glycerin (#6 on list, strong evidence)",
-   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "safetyFlags": "Added fragrance (parfum): perfume (−1.5)",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "buyerEvidence": "4.4★ from 0 ratings",
    "concernBasis": "Acne — salicylic acid #12 on INCI (matching only — not proof it works)"
@@ -261184,8 +259274,7 @@ const NXPRODUCTS = [
    "store:amazon",
    "target:acne",
    "inci:full",
-   "inci:brand-site",
-   "inci:no-fragrance"
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": true,
@@ -261205,11 +259294,11 @@ const NXPRODUCTS = [
    "inciSourceRegion": "IN",
    "inciMatchedTitle": "4 aha bha underarm roll on",
    "inciMatchScore": 0.9,
-   "inciText": "Ingredient Names Aqua, Propylene Glycol, Butyrospermum Parkii (Shea) Butter, Lactic Acid, Sodium Lactate, Glycerin, Lysolecithin (and) Sclerotium Gum (and) Xanthan Gum (and) Pullulan, Mandelic Acid, Salicylic Acid, Aqua (and) Sodium Benzoate (and) Potassium Sorbate, Polysorbate 20, Alpha Arbutin, Tocopheryl Acetate, Silica, Perfume. Formulated Without Alcohol, Aluminium, Paraben, Silicone, Harmful Chemicals, Soda, Mineral, Phthalate, Petroleum, Sulfate",
+   "inciText": "Aqua, Propylene Glycol, Butyrospermum Parkii (Shea) Butter, Lactic Acid, Sodium Lactate, Glycerin, Lysolecithin (and) Sclerotium Gum (and) Xanthan Gum (and) Pullulan, Mandelic Acid, Salicylic Acid, Aqua (and) Sodium Benzoate (and) Potassium Sorbate, Polysorbate 20, Alpha Arbutin, Tocopheryl Acetate, Silica, Perfume",
    "inciUnverified": null,
    "inciNote": null,
    "declarationConfidence": 0.9,
-   "recognised": 0.83,
+   "recognised": 1,
    "actives": [
     {
      "name": "butyrospermum parkii butter",
@@ -261273,7 +259362,17 @@ const NXPRODUCTS = [
     "glycerin"
    ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Chemist at Play / Bodywise",
     "kind": "d2c",
@@ -263207,121 +261306,6 @@ const NXPRODUCTS = [
   }
  },
  {
-  "id": "aroma-b0gknxjpc5",
-  "brand": "Aroma",
-  "model": "Treasures Khus Sun Care Mist 60ml | Cooling & Soothing Face & Body Spray | Hydrating Sun C…",
-  "price": 539,
-  "capacityLine": "60 ml",
-  "materialLine": "Aloe vera",
-  "featureLine": "Aerosol / body spray · ₹898/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 3.2
-  },
-  "fullSpec": {
-   "quantity": "60 ml",
-   "pricePer100": "₹898/100ml",
-   "format": "Aerosol / body spray",
-   "appliesTo": "Face + body (per listing)",
-   "keyIngredients": "Aloe vera (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "De-tan / tan removal, Oil control / matte / non-greasy, Hydrating / moisturizing, Soothing / calming, Lightweight / fast-absorbing, Cooling / refreshing (seller claim — not clinical proof)",
-   "skinType": "Oily skin, Combination skin, All skin types",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "4.4/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 0 ratings",
-   "waterResistance": "marketed for swim / sport / outdoors (per listing — not tested here, not scored)"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/41KSuQmDHtL.jpg",
-   "https://m.media-amazon.com/images/I/41nsOAqVljL.jpg",
-   "https://m.media-amazon.com/images/I/41UHx3N9CeL.jpg",
-   "https://m.media-amazon.com/images/I/415FoSnVe5L.jpg",
-   "https://m.media-amazon.com/images/I/41MQxiI6HTL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GKNXJPC5",
-  "buyStore": "Amazon",
-  "title": "Aroma Treasures Khus Sun Care Mist 60ml | Cooling & Soothing Face & Body Spray | Hydrating Sun Care Mist with Essential Oils | Detan, Refresh & Nourish Skin | Apply Before Sunscreen & After Sun Exposure",
-  "tags": [
-   "scope:both",
-   "format:mist",
-   "format:oil",
-   "format:aerosol",
-   "water:unstated",
-   "water:sport",
-   "ing:aloe-vera",
-   "claim:de-tan",
-   "claim:oil-control",
-   "claim:hydrating",
-   "claim:soothing",
-   "claim:lightweight",
-   "claim:cooling",
-   "skin:oily",
-   "skin:combination",
-   "skin:all",
-   "free:vegan",
-   "aud:women",
-   "size:standard",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.4★ from 0 ratings"
-  }
- },
- {
   "id": "inmyo-b0h2b6lxpr",
   "brand": "INMYO",
   "model": "Inti Glow Brightening Roll-On for Women 40ml|Azelaic Acid, Alpha & Beta Arbutin|Brightenin…",
@@ -264702,13 +262686,14 @@ const NXPRODUCTS = [
   "featureLine": "Roll-on · ₹665/100ml",
   "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Be Bodywise official website (bebodywise.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
-   "glycerin high on the INCI list (strong evidence)",
-   "No fragrance / flagged irritant on the INCI list"
+   "glycerin high on the INCI list (strong evidence)"
   ],
-  "cons": [],
+  "cons": [
+   "Added fragrance (parfum): perfume"
+  ],
   "scores": {
    "ingredients": 5.4,
-   "skin": 9,
+   "skin": 7.7,
    "trust": 7,
    "experience": 3.2
   },
@@ -264731,9 +262716,9 @@ const NXPRODUCTS = [
    "inciSource": "Be Bodywise official website (bebodywise.com) — product page › Ingredients",
    "inciSourceUrl": "https://bebodywise.com/product/4-aha-bha-underarm-roll-on",
    "inciMatchedName": "4 aha bha underarm roll on (name match 94%)",
-   "inciList": "Ingredient Names Aqua, Propylene Glycol, Butyrospermum Parkii (Shea) Butter, Lactic Acid, Sodium Lactate, Glycerin, Lysolecithin (and) Sclerotium Gum (and) Xanthan Gum (and) Pullulan, Mandelic Acid, Salicylic Acid, Aqua (and) Sodium Benzoate (and) Potassium Sorbate, Polysorbate 20, Alpha Arbutin, Tocopheryl Acetate, Silica, Perfume. Formulated Without Alcohol, Aluminium, Paraben, Silicone, Harmful Chemicals, Soda, Mineral, Phthalate, Petroleum, Sulfate",
+   "inciList": "Aqua, Propylene Glycol, Butyrospermum Parkii (Shea) Butter, Lactic Acid, Sodium Lactate, Glycerin, Lysolecithin (and) Sclerotium Gum (and) Xanthan Gum (and) Pullulan, Mandelic Acid, Salicylic Acid, Aqua (and) Sodium Benzoate (and) Potassium Sorbate, Polysorbate 20, Alpha Arbutin, Tocopheryl Acetate, Silica, Perfume",
    "evidenceActives": "glycerin (#6 on list, strong evidence)",
-   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "safetyFlags": "Added fragrance (parfum): perfume (−1.5)",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "buyerEvidence": "4.4★ from 0 ratings",
    "concernBasis": "Acne — salicylic acid #12 on INCI (matching only — not proof it works)"
@@ -264766,8 +262751,7 @@ const NXPRODUCTS = [
    "store:amazon",
    "target:acne",
    "inci:full",
-   "inci:brand-site",
-   "inci:no-fragrance"
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -264787,11 +262771,11 @@ const NXPRODUCTS = [
    "inciSourceRegion": "IN",
    "inciMatchedTitle": "4 aha bha underarm roll on",
    "inciMatchScore": 0.94,
-   "inciText": "Ingredient Names Aqua, Propylene Glycol, Butyrospermum Parkii (Shea) Butter, Lactic Acid, Sodium Lactate, Glycerin, Lysolecithin (and) Sclerotium Gum (and) Xanthan Gum (and) Pullulan, Mandelic Acid, Salicylic Acid, Aqua (and) Sodium Benzoate (and) Potassium Sorbate, Polysorbate 20, Alpha Arbutin, Tocopheryl Acetate, Silica, Perfume. Formulated Without Alcohol, Aluminium, Paraben, Silicone, Harmful Chemicals, Soda, Mineral, Phthalate, Petroleum, Sulfate",
+   "inciText": "Aqua, Propylene Glycol, Butyrospermum Parkii (Shea) Butter, Lactic Acid, Sodium Lactate, Glycerin, Lysolecithin (and) Sclerotium Gum (and) Xanthan Gum (and) Pullulan, Mandelic Acid, Salicylic Acid, Aqua (and) Sodium Benzoate (and) Potassium Sorbate, Polysorbate 20, Alpha Arbutin, Tocopheryl Acetate, Silica, Perfume",
    "inciUnverified": null,
    "inciNote": null,
    "declarationConfidence": 0.9,
-   "recognised": 0.83,
+   "recognised": 1,
    "actives": [
     {
      "name": "butyrospermum parkii butter",
@@ -264855,7 +262839,17 @@ const NXPRODUCTS = [
     "glycerin"
    ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Chemist at Play / Bodywise",
     "kind": "d2c",
@@ -280766,357 +278760,6 @@ const NXPRODUCTS = [
     "url": null
    },
    "buyers": "3.6★ from 0 ratings"
-  }
- },
- {
-  "id": "seshavi-b0hcz4wsfv",
-  "brand": "SESHAVI",
-  "model": "3-in-1 Summer Defense Cream SPF 30 | Moisturizer, Deodorant & Sunscreen | pH Balanced Dail…",
-  "price": 249,
-  "capacityLine": "50 g",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Sunscreen · SPF 30 · ₹498/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "50 g",
-   "pricePer100": "₹498/100g",
-   "format": "Sunscreen",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Oil control / matte / non-greasy, Hydrating / moisturizing, Lightweight / fast-absorbing, SPF included, Odour control / freshness, Cooling / refreshing (seller claim — not clinical proof)",
-   "skinType": "Oily skin",
-   "sunProtection": "SPF 30 (as labelled)",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet",
-   "waterResistance": "Water resistance not stated in listing"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51lrSXZVjoL._SL1024_.jpg",
-   "https://m.media-amazon.com/images/I/61FghfvyC8L._SL1024_.jpg",
-   "https://m.media-amazon.com/images/I/61-RXGan6YL._SL1024_.jpg",
-   "https://m.media-amazon.com/images/I/61wZk-sM8mL._SL1024_.jpg",
-   "https://m.media-amazon.com/images/I/61WIzmY9YFL._SL1024_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0HCZ4WSFV",
-  "buyStore": "Amazon",
-  "title": "3-in-1 Summer Defense Cream SPF 30 | Moisturizer, Deodorant & Sunscreen | pH Balanced Daily Hydrating Cream for Men & Women | Lightweight Non-Greasy Formula | 50g",
-  "tags": [
-   "scope:unstated",
-   "format:cream",
-   "spf:30",
-   "water:unstated",
-   "claim:oil-control",
-   "claim:hydrating",
-   "claim:lightweight",
-   "claim:spf-claim",
-   "claim:odour",
-   "claim:cooling",
-   "skin:oily",
-   "free:ph-balanced",
-   "aud:women",
-   "size:travel",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "neutrogena-b0bm47j437",
-  "brand": "Neutrogena",
-  "model": "Beach Defense Sunscreen For All Skin Types Spray Spf50 Water Resistant Sunscreen For All S…",
-  "price": 1498,
-  "capacityLine": "184 g",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Aerosol / body spray · SPF 50 · ₹814/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [
-   "Made by Kenvue (dermatology / pharma maker)"
-  ],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 8,
-   "experience": 2.9
-  },
-  "fullSpec": {
-   "quantity": "184 g",
-   "pricePer100": "₹814/100g",
-   "format": "Aerosol / body spray",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Water / sweat resistant, Lightweight / fast-absorbing, SPF included (seller claim — not clinical proof)",
-   "skinType": "All skin types",
-   "sunProtection": "SPF 50 (as labelled)",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.3/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Kenvue — Dermatology / pharmaceutical manufacturer",
-   "buyerEvidence": "4.3★ from 0 ratings",
-   "waterResistance": "Water resistant / waterproof (duration not stated), marketed for swim / sport / outdoors (per listing — not tested here, not scored)"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/5145lN+VUgL._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/71W8vngTM+L._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/81qul8aeI2L._SL1500_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0BM47J437",
-  "buyStore": "Amazon",
-  "title": "Neutrogena Beach Defense Sunscreen For All Skin Types Spray Spf50 Water Resistant Sunscreen For All Skin Types Body Spray 184G, Pack Of 1",
-  "tags": [
-   "scope:body",
-   "format:mist",
-   "format:kit",
-   "format:aerosol",
-   "spf:50",
-   "water:resistant",
-   "water:sport",
-   "claim:water-resistant",
-   "claim:lightweight",
-   "claim:spf-claim",
-   "skin:all",
-   "free:oil-free",
-   "aud:unisex",
-   "size:large",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none",
-   "inci:pharma-maker"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": true
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Kenvue",
-    "kind": "pharma",
-    "label": "Dermatology / pharmaceutical manufacturer",
-    "pts": 8,
-    "url": "https://www.kenvue.com/our-brands"
-   },
-   "buyers": "4.3★ from 0 ratings"
-  }
- },
- {
-  "id": "skinvest-b0cv5hwcs2",
-  "brand": "SKINVEST",
-  "model": "Light It Up SPF 40 PA++++ Sunscreen Body Spray | No White Cast, Non-Greasy & Alcohol-Free …",
-  "price": 749,
-  "capacityLine": "100 ml",
-  "materialLine": "Bakuchiol + Squalane + Kumkumadi",
-  "featureLine": "Aerosol / body spray · Alcohol-free · SPF 40 · ₹749/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 2.9
-  },
-  "fullSpec": {
-   "quantity": "100 ml",
-   "pricePer100": "₹749/100ml",
-   "format": "Aerosol / body spray",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Bakuchiol, Squalane, Kumkumadi, Licorice, Vitamin E (named on listing)",
-   "freeFrom": "Alcohol-free (seller claim — not scored)",
-   "dermTested": "Dermatologically tested (seller claim — not scored)",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening / glow, De-tan / tan removal, Dark spots / pigmentation, Oil control / matte / non-greasy, Hydrating / moisturizing, No white cast, Broad spectrum UVA/UVB, Lightweight / fast-absorbing, SPF included, Stretch marks (seller claim — not clinical proof)",
-   "skinType": "Oily skin, Sensitive skin, All skin types",
-   "sunProtection": "SPF 40 · PA++++ (as labelled)",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "4.3/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings",
-   "waterResistance": "marketed for swim / sport / outdoors (per listing — not tested here, not scored)"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51m93Hh3oFL._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/61Q9VBryCRL._SL1200_.jpg",
-   "https://m.media-amazon.com/images/I/61ot7BSVVNL._SL1200_.jpg",
-   "https://m.media-amazon.com/images/I/61yLFf8o48L._SL1200_.jpg",
-   "https://m.media-amazon.com/images/I/618as-Ebt3L._SL1200_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0CV5HWCS2",
-  "buyStore": "Amazon",
-  "title": "Skinvest Light It Up SPF 40 PA++++ Sunscreen Body Spray | No White Cast, Non-Greasy & Alcohol-Free | De-Tan, Brighten & Hydrate Body Skin | Easy Reapplication | 100ml",
-  "tags": [
-   "scope:body",
-   "format:mist",
-   "format:oil",
-   "format:aerosol",
-   "spf:40",
-   "pa:++++",
-   "water:unstated",
-   "water:sport",
-   "ing:bakuchiol",
-   "ing:squalane",
-   "ing:kumkumadi",
-   "ing:licorice",
-   "ing:vitamin-e",
-   "claim:brightening",
-   "claim:de-tan",
-   "claim:dark-spots",
-   "claim:oil-control",
-   "claim:hydrating",
-   "claim:no-white-cast",
-   "claim:broad-spectrum",
-   "claim:lightweight",
-   "claim:spf-claim",
-   "claim:stretch-marks",
-   "skin:oily",
-   "skin:sensitive",
-   "skin:all",
-   "free:alcohol",
-   "free:derm",
-   "free:sensitive-safe",
-   "aud:unisex",
-   "size:standard",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": true,
-   "natural": true,
-   "derm": true,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.3★ from 0 ratings"
   }
  },
  {
@@ -302999,238 +300642,6 @@ const NXPRODUCTS = [
   }
  },
  {
-  "id": "nivea-b07svx99p3",
-  "brand": "Nivea",
-  "model": "Body Lotion, Extra Whitening Cell Repair SPF 15, For All Skin Types, 400ml And NIVEA Deodo…",
-  "price": 484,
-  "capacityLine": "400 ml",
-  "materialLine": "Vitamin C",
-  "featureLine": "Roll-on · SPF 15 · ₹121/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
-   "experience": 3.2
-  },
-  "fullSpec": {
-   "quantity": "400 ml",
-   "pricePer100": "₹121/100ml",
-   "format": "Roll-on",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Vitamin C (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Dermatologically tested (seller claim — not scored)",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Dark spots / pigmentation, Whitening / fairness (claim), Pores / blackheads, Hydrating / moisturizing, Barrier repair, SPF included, Odour control / freshness (seller claim — not clinical proof)",
-   "skinType": "Dry skin, All skin types",
-   "sunProtection": "SPF 15 (as labelled)",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.4/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Beiersdorf — Global FMCG or beauty group",
-   "buyerEvidence": "4.4★ from 0 ratings",
-   "waterResistance": "Water resistance not stated in listing"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51Y0CS-hBuL._SL1085_.jpg",
-   "https://m.media-amazon.com/images/I/51Oit0Ioa3L._SL1100_.jpg",
-   "https://m.media-amazon.com/images/I/61oFd1xvcfL._SL1000_.jpg",
-   "https://m.media-amazon.com/images/I/61rN51A00tL._SL1000_.jpg",
-   "https://m.media-amazon.com/images/I/714Qp4ljpBL._SL1500_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B07SVX99P3",
-  "buyStore": "Amazon",
-  "title": "NIVEA Body Lotion, Extra Whitening Cell Repair SPF 15, For All Skin Types, 400ml And NIVEA Deodorant Roll-on, Whitening Smooth Skin, 50ml",
-  "tags": [
-   "scope:body",
-   "format:lotion",
-   "format:roll-on",
-   "spf:15",
-   "water:unstated",
-   "ing:vitamin-c",
-   "claim:dark-spots",
-   "claim:whitening-claim",
-   "claim:pores",
-   "claim:hydrating",
-   "claim:barrier",
-   "claim:spf-claim",
-   "claim:odour",
-   "skin:dry",
-   "skin:all",
-   "free:derm",
-   "aud:unisex",
-   "size:xl",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": true,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Beiersdorf",
-    "kind": "global",
-    "label": "Global FMCG or beauty group",
-    "pts": 6.5,
-    "url": "https://www.beiersdorf.com/brands/nivea"
-   },
-   "buyers": "4.4★ from 0 ratings"
-  }
- },
- {
-  "id": "codeskin-b0ctfbvf4x",
-  "brand": "CODESKIN",
-  "model": "Ultralite Body Spray Sunscreen for Men & Women - 50ml | SPF 50+ PA++++ | Suitable For All …",
-  "price": 1200,
-  "capacityLine": "50 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Aerosol / body spray · Fragrance-free · SPF 50 · ₹2400/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 3.5
-  },
-  "fullSpec": {
-   "quantity": "50 ml",
-   "pricePer100": "₹2400/100ml",
-   "format": "Aerosol / body spray",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Fragrance-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Oil control / matte / non-greasy, Exfoliating, Water / sweat resistant, Broad spectrum UVA/UVB, Lightweight / fast-absorbing, SPF included (seller claim — not clinical proof)",
-   "skinType": "Oily skin, Sensitive skin, All skin types",
-   "sunProtection": "SPF 50 · PA++++ (as labelled)",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "4.5/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.5★ from 0 ratings",
-   "waterResistance": "Water resistant — 80 minutes or more (very water resistant), sweat resistant (per listing — not tested here, not scored)"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/6195HJ1KXZL._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/81Br8PL9BKL._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/71XxiFLMRuL._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/719HtOBkA1L._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/71gM000jchL._SL1500_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0CTFBVF4X",
-  "buyStore": "Amazon",
-  "title": "Ultralite Body Spray Sunscreen for Men & Women - 50ml | SPF 50+ PA++++ | Suitable For All Skin Types | Lightweight Dewy Skin Effect | UVA & UVB Sun Protection | Sweat/Water Resistant Formula | Non-Greasy Texture | Fragrance-Free",
-  "tags": [
-   "scope:body",
-   "format:mist",
-   "format:aerosol",
-   "spf:50+",
-   "pa:++++",
-   "water:80",
-   "water:sweat",
-   "claim:oil-control",
-   "claim:exfoliating",
-   "claim:water-resistant",
-   "claim:broad-spectrum",
-   "claim:lightweight",
-   "claim:spf-claim",
-   "skin:oily",
-   "skin:sensitive",
-   "skin:all",
-   "free:fragrance",
-   "free:vegan",
-   "free:sensitive-safe",
-   "aud:women",
-   "size:travel",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": true,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.5★ from 0 ratings"
-  }
- },
- {
   "id": "tnw-the-b09rqkls59",
   "brand": "TNW-THE",
   "model": "NATURAL WASH Stretch Mark Oil with Roll On for Reducing Scars & Pigmentation | With Lavend…",
@@ -304908,13 +302319,14 @@ const NXPRODUCTS = [
   "featureLine": "Roll-on · Fragrance-free · ₹698/100ml",
   "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Be Bodywise official website (bebodywise.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
-   "glycerin high on the INCI list (strong evidence)",
-   "No fragrance / flagged irritant on the INCI list"
+   "glycerin high on the INCI list (strong evidence)"
   ],
-  "cons": [],
+  "cons": [
+   "Added fragrance (parfum): perfume"
+  ],
   "scores": {
    "ingredients": 5.4,
-   "skin": 9,
+   "skin": 7.7,
    "trust": 7,
    "experience": 2.9
   },
@@ -304937,9 +302349,9 @@ const NXPRODUCTS = [
    "inciSource": "Be Bodywise official website (bebodywise.com) — product page › Ingredients",
    "inciSourceUrl": "https://bebodywise.com/product/4-aha-bha-underarm-roll-on",
    "inciMatchedName": "4 aha bha underarm roll on (name match 90%)",
-   "inciList": "Ingredient Names Aqua, Propylene Glycol, Butyrospermum Parkii (Shea) Butter, Lactic Acid, Sodium Lactate, Glycerin, Lysolecithin (and) Sclerotium Gum (and) Xanthan Gum (and) Pullulan, Mandelic Acid, Salicylic Acid, Aqua (and) Sodium Benzoate (and) Potassium Sorbate, Polysorbate 20, Alpha Arbutin, Tocopheryl Acetate, Silica, Perfume. Formulated Without Alcohol, Aluminium, Paraben, Silicone, Harmful Chemicals, Soda, Mineral, Phthalate, Petroleum, Sulfate",
+   "inciList": "Aqua, Propylene Glycol, Butyrospermum Parkii (Shea) Butter, Lactic Acid, Sodium Lactate, Glycerin, Lysolecithin (and) Sclerotium Gum (and) Xanthan Gum (and) Pullulan, Mandelic Acid, Salicylic Acid, Aqua (and) Sodium Benzoate (and) Potassium Sorbate, Polysorbate 20, Alpha Arbutin, Tocopheryl Acetate, Silica, Perfume",
    "evidenceActives": "glycerin (#6 on list, strong evidence)",
-   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "safetyFlags": "Added fragrance (parfum): perfume (−1.5)",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "buyerEvidence": "4.3★ from 0 ratings",
    "concernBasis": "Acne — salicylic acid #12 on INCI (matching only — not proof it works)"
@@ -304978,8 +302390,7 @@ const NXPRODUCTS = [
    "store:amazon",
    "target:acne",
    "inci:full",
-   "inci:brand-site",
-   "inci:no-fragrance"
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": true,
@@ -304999,11 +302410,11 @@ const NXPRODUCTS = [
    "inciSourceRegion": "IN",
    "inciMatchedTitle": "4 aha bha underarm roll on",
    "inciMatchScore": 0.9,
-   "inciText": "Ingredient Names Aqua, Propylene Glycol, Butyrospermum Parkii (Shea) Butter, Lactic Acid, Sodium Lactate, Glycerin, Lysolecithin (and) Sclerotium Gum (and) Xanthan Gum (and) Pullulan, Mandelic Acid, Salicylic Acid, Aqua (and) Sodium Benzoate (and) Potassium Sorbate, Polysorbate 20, Alpha Arbutin, Tocopheryl Acetate, Silica, Perfume. Formulated Without Alcohol, Aluminium, Paraben, Silicone, Harmful Chemicals, Soda, Mineral, Phthalate, Petroleum, Sulfate",
+   "inciText": "Aqua, Propylene Glycol, Butyrospermum Parkii (Shea) Butter, Lactic Acid, Sodium Lactate, Glycerin, Lysolecithin (and) Sclerotium Gum (and) Xanthan Gum (and) Pullulan, Mandelic Acid, Salicylic Acid, Aqua (and) Sodium Benzoate (and) Potassium Sorbate, Polysorbate 20, Alpha Arbutin, Tocopheryl Acetate, Silica, Perfume",
    "inciUnverified": null,
    "inciNote": null,
    "declarationConfidence": 0.9,
-   "recognised": 0.83,
+   "recognised": 1,
    "actives": [
     {
      "name": "butyrospermum parkii butter",
@@ -305067,7 +302478,17 @@ const NXPRODUCTS = [
     "glycerin"
    ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Chemist at Play / Bodywise",
     "kind": "d2c",
@@ -321065,131 +318486,6 @@ const NXPRODUCTS = [
     "url": "https://www.hul.co.in/brands/"
    },
    "buyers": "4.4★ from 0 ratings"
-  }
- },
- {
-  "id": "niconi-b0fr26p9cz",
-  "brand": "NICONI",
-  "model": "GLUTA-KOJIC SPF 65+ PA ++++ FACE AND BODY SPRAY | 180ml",
-  "price": 1499,
-  "capacityLine": "180 ml",
-  "materialLine": "Vitamin C + Hyaluronic acid + Kojic acid",
-  "featureLine": "Aerosol / body spray · SPF 65 · ₹833/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 1.6
-  },
-  "fullSpec": {
-   "quantity": "180 ml",
-   "pricePer100": "₹833/100ml",
-   "format": "Aerosol / body spray",
-   "appliesTo": "Face + body (per listing)",
-   "keyIngredients": "Vitamin C, Hyaluronic acid, Kojic acid, Alpha arbutin, Glutathione (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening / glow, De-tan / tan removal, Dark spots / pigmentation, Hydrating / moisturizing, Water / sweat resistant, No white cast, Broad spectrum UVA/UVB, Lightweight / fast-absorbing, SPF included (seller claim — not clinical proof)",
-   "skinType": "Oily skin, Dry skin, Combination skin, Sensitive skin",
-   "sunProtection": "SPF 65 · PA++++ (as labelled)",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "rating": "3.9/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.9★ from 0 ratings",
-   "waterResistance": "Water resistant / waterproof (duration not stated), marketed for swim / sport / outdoors (per listing — not tested here, not scored)"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/41Blli4RPtL._SL1080_.jpg",
-   "https://m.media-amazon.com/images/I/61FtHPvGHgL._SL1080_.jpg",
-   "https://m.media-amazon.com/images/I/61AK8ng9v7L._SL1080_.jpg",
-   "https://m.media-amazon.com/images/I/61EngDhPcIL._SL1080_.jpg",
-   "https://m.media-amazon.com/images/I/51YLrNTpeCL._SL1080_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0FR26P9CZ",
-  "buyStore": "Amazon",
-  "title": "NICONI GLUTA-KOJIC SPF 65+ PA ++++ FACE AND BODY SPRAY | 180ml",
-  "tags": [
-   "scope:both",
-   "format:mist",
-   "format:aerosol",
-   "spf:60",
-   "pa:++++",
-   "water:resistant",
-   "water:sport",
-   "ing:vitamin-c",
-   "ing:hyaluronic-acid",
-   "ing:kojic-acid",
-   "ing:alpha-arbutin",
-   "ing:glutathione",
-   "claim:brightening",
-   "claim:de-tan",
-   "claim:dark-spots",
-   "claim:hydrating",
-   "claim:water-resistant",
-   "claim:no-white-cast",
-   "claim:broad-spectrum",
-   "claim:lightweight",
-   "claim:spf-claim",
-   "skin:oily",
-   "skin:dry",
-   "skin:combination",
-   "skin:sensitive",
-   "free:sensitive-safe",
-   "aud:women",
-   "size:large",
-   "rating:3.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "3.9★ from 0 ratings"
   }
  },
  {
@@ -339021,231 +336317,6 @@ const NXPRODUCTS = [
   }
  },
  {
-  "id": "kt-kids-b0g7hsksjy",
-  "brand": "KT Kids",
-  "model": "Sunscreen SPF30+ Face & Body Spray for Kids 3-12 Years | UV Shield & Frizz Control with Bl…",
-  "price": 329,
-  "capacityLine": "100 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Aerosol / body spray · SPF 30 · ₹329/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 2.2
-  },
-  "fullSpec": {
-   "quantity": "100 ml",
-   "pricePer100": "₹329/100ml",
-   "format": "Aerosol / body spray",
-   "appliesTo": "Face + body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Oil control / matte / non-greasy, Hydrating / moisturizing, Barrier repair, Lightweight / fast-absorbing, SPF included, Dry / very dry skin relief (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "sunProtection": "SPF 30 (as labelled)",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "4.1/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 0 ratings",
-   "waterResistance": "marketed for swim / sport / outdoors (per listing — not tested here, not scored)"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61173HoOPzL._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/71NpthBkntL._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/71xQoQ260rL._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/614ViOX-sTL._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/717A4oxS6RL._SL1500_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0G7HSKSJY",
-  "buyStore": "Amazon",
-  "title": "Sunscreen SPF30+ Face & Body Spray for Kids 3-12 Years | UV Shield & Frizz Control with Blueberry & Cranberry | Non-Greasy | 100ml",
-  "tags": [
-   "scope:both",
-   "format:mist",
-   "format:aerosol",
-   "spf:30",
-   "water:unstated",
-   "water:sport",
-   "claim:oil-control",
-   "claim:hydrating",
-   "claim:barrier",
-   "claim:lightweight",
-   "claim:spf-claim",
-   "claim:dry-skin-relief",
-   "free:vegan",
-   "aud:kids",
-   "size:standard",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.1★ from 0 ratings"
-  }
- },
- {
-  "id": "purastone-b0hh97qkmg",
-  "brand": "PURASTONE",
-  "model": "Ultra Light UV Defence Body Spray SPF 50+ PA++++, Water & Sweat Resistant, Lightweight Non…",
-  "price": 809,
-  "capacityLine": "80 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Aerosol / body spray · Alcohol-free · SPF 50 · ₹1011/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "80 ml",
-   "pricePer100": "₹1011/100ml",
-   "format": "Aerosol / body spray",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Alcohol-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Oil control / matte / non-greasy, Water / sweat resistant, Lightweight / fast-absorbing, SPF included (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "sunProtection": "SPF 50 · PA++++ (as labelled)",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet",
-   "waterResistance": "Water resistant / waterproof (duration not stated), sweat resistant (per listing — not tested here, not scored)"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/610wfhbI+KL._SL1000_.jpg",
-   "https://m.media-amazon.com/images/I/61ZKEOjKEeL._SL1000_.jpg",
-   "https://m.media-amazon.com/images/I/61aNLBDD0JL._SL1000_.jpg",
-   "https://m.media-amazon.com/images/I/610uQxrQupL._SL1000_.jpg",
-   "https://m.media-amazon.com/images/I/61JWvxQVwQL._SL1000_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0HH97QKMG",
-  "buyStore": "Amazon",
-  "title": "Ultra Light UV Defence Body Spray SPF 50+ PA++++, Water & Sweat Resistant, Lightweight Non-Greasy Sunscreen Spray, Fragrance & Alcohol Free, 80 ml",
-  "tags": [
-   "scope:body",
-   "format:mist",
-   "format:pack",
-   "format:aerosol",
-   "spf:50+",
-   "pa:++++",
-   "water:resistant",
-   "water:sweat",
-   "claim:oil-control",
-   "claim:water-resistant",
-   "claim:lightweight",
-   "claim:spf-claim",
-   "free:alcohol",
-   "aud:unisex",
-   "size:standard",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": true,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
   "id": "glomama-b0g6nhhxh6",
   "brand": "GLOMAMA",
   "model": "GLO Mama Stretch Mark Oil Roll On with Centella Asiatica & Striover | Pregnancy-Safe, Reti…",
@@ -339979,688 +337050,6 @@ const NXPRODUCTS = [
     "url": null
    },
    "buyers": "4★ from 0 ratings"
-  }
- },
- {
-  "id": "kt-kids-itm3c8d05776bd5d",
-  "brand": "KT Kids",
-  "model": "Sunscreen - SPF 25+ Sunscreen SPF 25+ Face & Body Spray with Blueberry & Cranberry",
-  "price": 426,
-  "capacityLine": "100 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Aerosol / body spray · Paraben-free · SPF 25 · ₹426/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [
-   "Well-reviewed: 5★ from 2 ratings"
-  ],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 5.7
-  },
-  "fullSpec": {
-   "quantity": "100 ml",
-   "pricePer100": "₹426/100ml",
-   "format": "Aerosol / body spray",
-   "appliesTo": "Face + body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Paraben-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating / moisturizing, Broad spectrum UVA/UVB, SPF included (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "sunProtection": "SPF 25 (as labelled)",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "5/5 (2 ratings, Flipkart)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 2 ratings",
-   "waterResistance": "Water resistance not stated in listing"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/c/q/d/100-sunscreen-spf-25-face-body-spray-with-blueberry-cranberry-25-original-imahmrghbqyc94hk.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/y/5/7/100-sunscreen-spf-25-face-body-spray-with-blueberry-cranberry-25-original-imahmrghysaxfjhg.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/z/j/x/100-sunscreen-spf-25-face-body-spray-with-blueberry-cranberry-25-original-imahmrghxsvfdtdd.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/e/v/3/100-sunscreen-spf-25-face-body-spray-with-blueberry-cranberry-25-original-imahmrghhzmzy6yy.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/r/8/l/100-sunscreen-spf-25-face-body-spray-with-blueberry-cranberry-25-original-imahmrghmttnrnkk.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/kt-kids-sunscreen-spf-25-face-body-spray-blueberry-cranberry/p/itm3c8d05776bd5d",
-  "buyStore": "Flipkart",
-  "title": "KT KIDS Sunscreen - SPF 25+ Sunscreen SPF 25+ Face & Body Spray with Blueberry & Cranberry",
-  "tags": [
-   "scope:both",
-   "format:mist",
-   "format:aerosol",
-   "spf:15",
-   "water:unstated",
-   "claim:hydrating",
-   "claim:broad-spectrum",
-   "claim:spf-claim",
-   "free:paraben",
-   "aud:kids",
-   "size:standard",
-   "rating:4.5",
-   "store:flipkart",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": true,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "5★ from 2 ratings"
-  }
- },
- {
-  "id": "purastone-itm77cec5b8312fa",
-  "brand": "PURASTONE",
-  "model": "Sunscreen - SPF 50 PA++++ Spray, UV Defence Body Spray, Water-Sweat Resistant, Lightweight…",
-  "price": 809,
-  "capacityLine": "80 ml",
-  "materialLine": "Niacinamide + Aloe vera + Zinc",
-  "featureLine": "Aerosol / body spray · Paraben-free · SPF 50 · ₹1011/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "Only 4 ingredients named — formula unscored",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "80 ml",
-   "pricePer100": "₹1011/100ml",
-   "format": "Aerosol / body spray",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Niacinamide, Aloe vera, Zinc (named on listing)",
-   "freeFrom": "Paraben-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Oil control / matte / non-greasy, Water / sweat resistant, Broad spectrum UVA/UVB, Lightweight / fast-absorbing, SPF included (seller claim — not clinical proof)",
-   "skinType": "All skin types",
-   "sunProtection": "SPF 50 · PA++++ (as labelled)",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: Aqua, Aloe Leaf Extract, Niacinamide, Zinc Oxide",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet",
-   "waterResistance": "sweat resistant (per listing — not tested here, not scored)"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/s/c/q/80-spray-uv-defence-body-spray-water-sweat-resistant-lightweight-original-imahqsfukbpgte9j.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/c/t/q/80-spray-uv-defence-body-spray-water-sweat-resistant-lightweight-original-imahqsfucsk2gpzt.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/r/3/i/80-spray-uv-defence-body-spray-water-sweat-resistant-lightweight-original-imahqsfuqdjemcbx.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/5/r/9/80-spray-uv-defence-body-spray-water-sweat-resistant-lightweight-original-imahqsfuzvbgrzqe.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/n/8/3/80-spray-uv-defence-body-spray-water-sweat-resistant-lightweight-original-imahqsfu2b7ftjbp.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/purastone-sunscreen-spf-50-pa-spray-uv-defence-body-water-sweat-resistant-lightweight-non-greasy/p/itm77cec5b8312fa",
-  "buyStore": "Flipkart",
-  "title": "PURASTONE Sunscreen - SPF 50 PA++++ Spray, UV Defence Body Spray, Water-Sweat Resistant, Lightweight, Non-Greasy",
-  "tags": [
-   "scope:body",
-   "format:mist",
-   "format:aerosol",
-   "spf:50",
-   "pa:++++",
-   "sun:mineral",
-   "water:sweat",
-   "ing:niacinamide",
-   "ing:aloe-vera",
-   "ing:zinc",
-   "claim:oil-control",
-   "claim:water-resistant",
-   "claim:broad-spectrum",
-   "claim:lightweight",
-   "claim:spf-claim",
-   "skin:all",
-   "free:paraben",
-   "free:vegan",
-   "aud:women",
-   "size:standard",
-   "rating:none",
-   "store:flipkart",
-   "inci:partial"
-  ],
-  "filters": {
-   "freefrom": true,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "partial",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Aqua, Aloe Leaf Extract, Niacinamide, Zinc Oxide",
-   "inciNote": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 1,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "kt-itm8765c01c745f5",
-  "brand": "KT",
-  "model": "KIDS Sunscreen - SPF 30+ Sunscreen SPF 30 Body Spray with Carrot & Pomegranate",
-  "price": 400,
-  "capacityLine": "100 g",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Aerosol / body spray · SPF 30 · ₹400/100g",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "Only 2 ingredients named — formula unscored",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "100 g",
-   "pricePer100": "₹400/100g",
-   "format": "Aerosol / body spray",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Ayurvedic / herbal, SPF included (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "sunProtection": "SPF 30 · PA+++ (as labelled)",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Specifications › Composition",
-   "inciList": "Unverified seller line: Carrot – Protect skin cells from damage caused by sun exposure, Pomegranate – Pomegranate seed oil is rich in fatty acids that keep skin moisturized—important since sun exposure can dry out the skin.",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "declaredManufacturer": "M/S. CCIGMAALIFESTYLES PVT LTD 102 / Mittal Industrial Estate , Marol Naka Andheri, 450009 (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "No buyer ratings yet",
-   "waterResistance": "Water resistance not stated in listing"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/e/e/c/100-peppa-pig-moisturizing-sunscreen-body-spray-spf-30-100ml-30-original-imahnerpwgzccnak.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/t/l/z/100-peppa-pig-moisturizing-sunscreen-body-spray-spf-30-30-kt-original-imahmhgyafyagujh.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/6/4/s/100-peppa-pig-moisturizing-sunscreen-body-spray-spf-30-30-kt-original-imahmhgysmzzefzz.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/8/v/1/100-peppa-pig-moisturizing-sunscreen-body-spray-spf-30-30-kt-original-imahmhgygxufeskz.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/icons/original-SNRHMHGYVMGCHVPZ_1.jpg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/kt-kids-sunscreen-spf-30-30-body-spray-carrot-pomegranate/p/itm8765c01c745f5",
-  "buyStore": "Flipkart",
-  "title": "KT KIDS Sunscreen - SPF 30+ Sunscreen SPF 30 Body Spray with Carrot & Pomegranate",
-  "tags": [
-   "scope:body",
-   "format:cream",
-   "format:lotion",
-   "format:mist",
-   "format:kit",
-   "format:aerosol",
-   "spf:30",
-   "pa:+++",
-   "sun:mineral",
-   "water:unstated",
-   "claim:ayurvedic",
-   "claim:spf-claim",
-   "aud:kids",
-   "size:standard",
-   "rating:none",
-   "store:flipkart",
-   "inci:partial"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "partial",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Specifications › Composition",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Carrot – Protect skin cells from damage caused by sun exposure, Pomegranate – Pomegranate seed oil is rich in fatty acids that keep skin moisturized—important since sun exposure can dry out the skin.",
-   "inciNote": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 0.5,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "clariteens-itm90242527dfc98",
-  "brand": "clariteens",
-  "model": "Sunscreen - SPF 40 PA++ Sunscreen, Lip & Cheek Tint & Sugar Mist Fragrance Roll-On For Kid…",
-  "price": 1829,
-  "capacityLine": "50 g",
-  "materialLine": "Sugar",
-  "featureLine": "Roll-on · Paraben-free · SPF 40 · ₹3658/100g",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "50 g",
-   "pricePer100": "₹3658/100g",
-   "format": "Roll-on",
-   "appliesTo": "Face (per listing)",
-   "keyIngredients": "Sugar (named on listing)",
-   "freeFrom": "Paraben-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Soothing / calming, Broad spectrum UVA/UVB, Tinted, SPF included (seller claim — not clinical proof)",
-   "skinType": "All skin types",
-   "sunProtection": "SPF 40 · PA++ (as labelled)",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet",
-   "waterResistance": "Water resistance not stated in listing"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/6/d/m/50-sunscreen-lip-cheek-tint-sugar-mist-fragrance-roll-on-for-original-imahqfh6fzdva9hf.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/s/v/0/50-grwm-kit-40-clariteens-original-imahn83jmvejzwge.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/baby-care-combo/e/u/x/kids-sunscreen-spf-40-moiturizer-4yr-combo-pack-1-shiny-sprouts-original-imahmmb2aywhafyn.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/deodorant/8/n/g/50-sugar-mist-skin-friendly-alcohol-free-fragrance-1-deodorant-original-imahmz5du27s3hwy.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/lip-balm/h/b/2/12-lip-cheek-tint-natural-kid-safe-2-in-1-color-organic-long-original-imahmz5gg2dqrdgj.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/clariteens-sunscreen-spf-40-pa-sunscreen-lip-cheek-tint-sugar-mist-fragrance-roll-on-kids/p/itm90242527dfc98",
-  "buyStore": "Flipkart",
-  "title": "clariteens Sunscreen - SPF 40 PA++ Sunscreen, Lip & Cheek Tint & Sugar Mist Fragrance Roll-On For Kids",
-  "tags": [
-   "scope:face",
-   "format:cream",
-   "format:mist",
-   "format:roll-on",
-   "format:kit",
-   "spf:40",
-   "pa:++",
-   "sun:mineral",
-   "water:unstated",
-   "ing:sugar",
-   "claim:soothing",
-   "claim:broad-spectrum",
-   "claim:tinted",
-   "claim:spf-claim",
-   "skin:all",
-   "free:paraben",
-   "aud:kids",
-   "size:travel",
-   "rating:none",
-   "store:flipkart",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": true,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "fixderma-b0c5cs5f77",
-  "brand": "Fixderma",
-  "model": "Shadow Sunscreen SPF 50 Roll On Pa+++ | Transparent with Broad Spectrum UVA & UVB Protecti…",
-  "price": 641,
-  "capacityLine": "30 g",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Roll-on · SPF 50 · ₹2137/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [
-   "Made by Fixderma India (dermatology company) (dermatology / pharma maker)"
-  ],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 8,
-   "experience": 2.9
-  },
-  "fullSpec": {
-   "quantity": "30 g",
-   "pricePer100": "₹2137/100g",
-   "format": "Roll-on",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Water / sweat resistant, No white cast, Broad spectrum UVA/UVB, Lightweight / fast-absorbing, SPF included (seller claim — not clinical proof)",
-   "skinType": "Sensitive skin, All skin types",
-   "sunProtection": "SPF 50 · PA+++ (as labelled)",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.3/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Fixderma India (dermatology company) — Dermatology / pharmaceutical manufacturer",
-   "buyerEvidence": "4.3★ from 0 ratings",
-   "waterResistance": "Water resistant / waterproof (duration not stated), marketed for swim / sport / outdoors (per listing — not tested here, not scored)"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/818EQ0klXnL._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/51yM58carEL._SL1080_.jpg",
-   "https://m.media-amazon.com/images/I/61nQ-b7hfeL._SL1080_.jpg",
-   "https://m.media-amazon.com/images/I/61IkW7GmU7L._SL1080_.jpg",
-   "https://m.media-amazon.com/images/I/51xsqkE8fYL._SL1080_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0C5CS5F77",
-  "buyStore": "Amazon",
-  "title": "Fixderma Shadow Sunscreen SPF 50 Roll On Pa+++ | Transparent with Broad Spectrum UVA & UVB Protection | Lightweight | Water Resistant | For Sensitive Skin | Sunscreen for Women & Men | 30gm",
-  "tags": [
-   "scope:unstated",
-   "format:roll-on",
-   "spf:50",
-   "pa:+++",
-   "water:resistant",
-   "water:sport",
-   "claim:water-resistant",
-   "claim:no-white-cast",
-   "claim:broad-spectrum",
-   "claim:lightweight",
-   "claim:spf-claim",
-   "skin:sensitive",
-   "skin:all",
-   "free:sensitive-safe",
-   "aud:women",
-   "size:travel",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none",
-   "inci:pharma-maker"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": true
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Fixderma India (dermatology company)",
-    "kind": "pharma",
-    "label": "Dermatology / pharmaceutical manufacturer",
-    "pts": 8,
-    "url": "https://www.fixderma.com/"
-   },
-   "buyers": "4.3★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b0fr51k2sv",
-  "brand": "Unbranded",
-  "model": "Kids Roll-On Sunscreen SPF 50 | Water Resistant, Non-Greasy & Lightweight | Easy-Apply Sun…",
-  "price": 749,
-  "capacityLine": "50 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Roll-on · SPF 50 · ₹1498/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 2.9
-  },
-  "fullSpec": {
-   "quantity": "50 ml",
-   "pricePer100": "₹1498/100ml",
-   "format": "Roll-on",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Oil control / matte / non-greasy, Exfoliating, Water / sweat resistant, Broad spectrum UVA/UVB, Lightweight / fast-absorbing, SPF included (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "sunProtection": "SPF 50 (as labelled)",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.3/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings",
-   "waterResistance": "Water resistant / waterproof (duration not stated), marketed for swim / sport / outdoors (per listing — not tested here, not scored)"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51XwUH6EgTL._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/61dEWolzliL._SL1386_.jpg",
-   "https://m.media-amazon.com/images/I/71M2QxPUj1L._SL1254_.jpg",
-   "https://m.media-amazon.com/images/I/7172zJcZHlL._SL1254_.jpg",
-   "https://m.media-amazon.com/images/I/71gOl5SjlCL._SL1254_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0FR51K2SV",
-  "buyStore": "Amazon",
-  "title": "Kids Roll-On Sunscreen SPF 50 | Water Resistant, Non-Greasy & Lightweight | Easy-Apply Sunscreen for Kids | 50ml",
-  "tags": [
-   "scope:unstated",
-   "format:roll-on",
-   "spf:50",
-   "water:resistant",
-   "water:sport",
-   "claim:oil-control",
-   "claim:exfoliating",
-   "claim:water-resistant",
-   "claim:broad-spectrum",
-   "claim:lightweight",
-   "claim:spf-claim",
-   "aud:kids",
-   "size:travel",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.3★ from 0 ratings"
   }
  }
 ];
