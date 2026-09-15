@@ -6,7 +6,7 @@ import { EDIT_TOOL } from '../chat/local/tools/routineEdit';
 import type { RoutineStepContext } from '../chat/types';
 import { isEditOp, validProduct } from './storage';
 import {
-  DAY_LABEL, isDay, isPlanZone, isSlot, newId, SLOT_LABEL, ZONE_LABEL, type Plan, type Proposal, type Slot, type Step,
+  DAY_LABEL, isDay, isPlanZone, isSlot, newId, positionOf, SLOT_LABEL, ZONE_LABEL, type Plan, type Proposal, type Slot, type Step,
 } from './model';
 
 export { EDIT_TOOL, PROPOSE_TOOL };
@@ -14,7 +14,7 @@ export { EDIT_TOOL, PROPOSE_TOOL };
 /** The accepted steps as the assistant sees them in the page context (ids included so it can name a step to edit). */
 export const stepsForContext = (steps: Step[]): RoutineStepContext[] =>
   [...steps].sort((a, b) => (a.slot === b.slot ? a.order - b.order : a.slot === 'am' ? -1 : 1)).slice(0, 60).map((s) => ({
-    id: s.id, title: s.title, slot: s.slot, days: s.days, zone: s.zone, category: s.category, note: s.note,
+    id: s.id, title: s.title, slot: s.slot, position: positionOf(steps, s.id) ?? 1, days: s.days, zone: s.zone, category: s.category, note: s.note,
     product: s.product ? { id: s.product.id, category: s.product.category, brand: s.product.brand, title: s.product.title, rank: s.product.rank } : null,
   }));
 
@@ -88,10 +88,17 @@ export function editsFrom(result: Record<string, unknown>, batch: string, steps:
     const days = Array.isArray(after.days) ? [...new Set(after.days.filter(isDay))] : target.days;
     if (!days.length) continue;
     const product = 'product' in after ? validProduct(after.product) : target.product;
+    const from = positionOf(steps, target.id) ?? 1;
+    const to = typeof after.position === 'number' && Number.isInteger(after.position) && after.position >= 1 ? after.position : null;
+    if (entry.op === 'reorder' && to === null) continue;
     out.push({
       id: newId(), status: 'pending', createdAt: now, batch,
       why: typeof entry.why === 'string' ? entry.why : '',
-      edit: { op: entry.op, targetStepId: target.id, before: { title: target.title, slot: target.slot, zone: target.zone, days: target.days, category: target.category, product: target.product, note: target.note } },
+      edit: {
+        op: entry.op, targetStepId: target.id,
+        before: { title: target.title, slot: target.slot, zone: target.zone, days: target.days, category: target.category, product: target.product, note: target.note },
+        ...(to !== null ? { position: { from, to } } : {}),
+      },
       step: {
         slot: isSlot(after.slot) ? after.slot : target.slot, zone: target.zone, days,
         title: typeof after.title === 'string' && after.title.trim() ? after.title.trim() : target.title,

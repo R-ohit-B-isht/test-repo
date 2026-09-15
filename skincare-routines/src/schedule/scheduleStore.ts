@@ -5,7 +5,8 @@ import { chatConfig } from '../chat/config';
 import { getPage, publishPage } from '../chat/pageContext';
 import { transportFor } from '../chat/transport';
 import type { ChatEvent, ChatError } from '../chat/types';
-import { EMPTY_PLAN, newId, type Plan, type Proposal, type Setup, type Step } from './model';
+import { applicationPosition, byApplicationOrder } from './applicationOrder';
+import { EMPTY_PLAN, newId, stepsFor, type Plan, type Proposal, type Setup, type Slot, type Step } from './model';
 import { EDIT_TOOL, editsFrom, fillMessage, NUDGE_MESSAGE, PROPOSE_TOOL, problemsFrom, proposalsFrom, stepsForContext, toolStatus, type FillScope } from './proposer';
 import * as storage from './storage';
 
@@ -74,15 +75,26 @@ export function moveStep(id: string, dir: -1 | 1) {
   commit((p) => {
     const me = p.steps.find((s) => s.id === id);
     if (!me) return p;
-    const siblings = p.steps.filter((s) => s.slot === me.slot).sort((a, b) => a.order - b.order);
-    const i = siblings.findIndex((s) => s.id === id);
-    const j = i + dir;
-    if (j < 0 || j >= siblings.length) return p;
-    const reordered = [...siblings];
-    [reordered[i], reordered[j]] = [reordered[j], reordered[i]];
-    const order = new Map(reordered.map((s, k) => [s.id, k]));
-    return { ...p, steps: p.steps.map((s) => (order.has(s.id) ? { ...s, order: order.get(s.id)! } : s)) };
+    const i = stepsFor(p.steps, me.slot, null).findIndex((s) => s.id === id);
+    return placeAt(p, id, me.slot, i + 1 + dir);
   });
+}
+
+/** Put every step of a slot into application order (cleanse → toner → serums → moisturiser → sunscreen); ties keep their place. */
+export const sortSlot = (slot: Slot) => commit((p) => renumber(p, slot, byApplicationOrder(stepsFor(p.steps, slot, null))));
+
+/** Move `id` to the 1-based `position` among the steps of `slot` (clamped to the ends); every sibling is renumbered 0..n-1. */
+function placeAt(p: Plan, id: string, slot: Slot, position: number): Plan {
+  const me = p.steps.find((s) => s.id === id);
+  if (!me) return p;
+  const rest = stepsFor(p.steps, slot, null).filter((s) => s.id !== id);
+  const at = Math.min(Math.max(position - 1, 0), rest.length);
+  return renumber(p, slot, [...rest.slice(0, at), me, ...rest.slice(at)]);
+}
+
+function renumber(p: Plan, slot: Slot, ordered: Step[]): Plan {
+  const order = new Map(ordered.map((s, k) => [s.id, k]));
+  return { ...p, steps: p.steps.map((s) => (s.slot === slot && order.has(s.id) ? { ...s, order: order.get(s.id)! } : s)) };
 }
 
 /** Accept as proposed, or with the user's edits — either way it becomes a step and the proposal is marked accepted.
@@ -100,20 +112,23 @@ export function acceptProposal(id: string, edits?: Partial<Proposal['step']>): {
       return { applied: false, reason: `“${edit.before.title}” is no longer in the routine, so this change was dropped.` };
     }
     const op = edit.op;
-    commit((p) => ({
-      ...p,
-      steps: op === 'remove'
-        ? p.steps.filter((s) => s.id !== target.id)
-        : p.steps.map((s) => (s.id === target.id ? { ...s, ...step, note: step.note || s.note, order: s.slot === step.slot ? s.order : nextOrder(p.steps, step.slot) } : s)),
-      proposals: p.proposals.map((x) => (x.id === id ? { ...x, status: 'accepted' as const } : x)),
-    }));
+    commit((p) => {
+      const decided = { ...p, proposals: p.proposals.map((x) => (x.id === id ? { ...x, status: 'accepted' as const } : x)) };
+      if (op === 'remove') return { ...decided, steps: p.steps.filter((s) => s.id !== target.id) };
+      const changed = {
+        ...decided,
+        steps: p.steps.map((s) => (s.id === target.id ? { ...s, ...step, note: step.note || s.note, order: s.slot === step.slot ? s.order : nextOrder(p.steps, step.slot) } : s)),
+      };
+      return edit.position ? placeAt(changed, target.id, step.slot, edit.position.to) : changed;
+    });
     return { applied: true };
   }
-  commit((p) => ({
-    ...p,
-    steps: [...p.steps, { ...step, id: newId(), origin: 'ai' as const, order: nextOrder(p.steps, step.slot) }],
-    proposals: p.proposals.map((x) => (x.id === id ? { ...x, status: 'accepted' as const } : x)),
-  }));
+  // Assistant-added steps slot in by application layer (a sunscreen lands after the moisturiser, a cleanser first).
+  commit((p) => {
+    const added: Step = { ...step, id: newId(), origin: 'ai', order: nextOrder(p.steps, step.slot) };
+    const withStep = { ...p, steps: [...p.steps, added], proposals: p.proposals.map((x) => (x.id === id ? { ...x, status: 'accepted' as const } : x)) };
+    return placeAt(withStep, added.id, step.slot, applicationPosition(added, stepsFor(p.steps, step.slot, null)));
+  });
   return { applied: true };
 }
 
@@ -229,4 +244,5 @@ function apply(ev: ChatEvent, batch: string) {
 const nextOrder = (steps: Step[], slot: Step['slot']) => steps.filter((s) => s.slot === slot).reduce((m, s) => Math.max(m, s.order + 1), 0);
 
 const subscribe = (l: () => void) => { listeners.add(l); return () => { listeners.delete(l); }; };
-export const useSchedule = (): ScheduleState => useSyncExternalStore(subscribe, () => state, () => state);
+export const snapshot = (): ScheduleState => state;
+export const useSchedule = (): ScheduleState => useSyncExternalStore(subscribe, snapshot, snapshot);

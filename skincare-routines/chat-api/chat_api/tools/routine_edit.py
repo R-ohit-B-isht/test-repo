@@ -1,5 +1,5 @@
 """Routine-editing tool: Gemini reads the user's saved steps from the page context (`routineSteps`) and proposes changes
-to them — swap the product, move days/slot, retitle, or remove. Step ids must be ones the page listed and product ids must
+to them — swap the product, move days/slot, reorder within the slot, retitle, or remove. Step ids must be ones the page listed and product ids must
 exist in the search index. Twin of src/chat/local/tools/routineEdit.ts — surfaced as a `tool_payload` and shown as PENDING
 before/after diffs; nothing is changed by this call."""
 from __future__ import annotations
@@ -7,7 +7,7 @@ from __future__ import annotations
 from .base import Tool, ToolContext, ToolError
 from .routine import SLOTS, parse_days
 
-OPS = ("replace", "move", "update", "remove")
+OPS = ("replace", "move", "update", "remove", "reorder")
 MAX_EDITS = 16
 
 EDIT_TOOL = "edit_routine_steps"
@@ -20,7 +20,38 @@ def _s(value: object) -> str:
 def _step_line(step: dict) -> str:
     product = step.get("product")
     prod = f" · {product.get('brand')} {product.get('title')}" if isinstance(product, dict) else ""
-    return f"{step.get('id')}: {step.get('title')} ({str(step.get('slot', '')).upper()} · {'/'.join(map(str, step.get('days') or []))} · {step.get('zone')}{prod})"
+    pos = f" #{step['position']}" if isinstance(step.get("position"), int) else ""
+    return f"{step.get('id')}: {step.get('title')} ({str(step.get('slot', '')).upper()}{pos} · {'/'.join(map(str, step.get('days') or []))} · {step.get('zone')}{prod})"
+
+
+def _slot_size(steps: list[dict], target: dict, slot: str) -> int:
+    """How many steps the slot holds after the edit — the target counts once, wherever it ends up."""
+    return sum(1 for s in steps if s.get("slot") == slot and s.get("id") != target.get("id")) + 1
+
+
+def _check_position(raw: object, steps: list[dict], target: dict, slot: str, alone: bool, problems: list[str]) -> int | None:
+    """1-based place within `slot`; a position equal to the current one is kept when other edits ride along (re-sequencing a
+    whole slot needs every step pinned) and only refused on its own."""
+    n: int | None = None
+    if isinstance(raw, bool):
+        n = None
+    elif isinstance(raw, int):
+        n = raw
+    elif isinstance(raw, float) and raw.is_integer():
+        n = int(raw)
+    elif isinstance(raw, str) and raw.strip().isdigit():
+        n = int(raw.strip())
+    if n is None or n < 1:
+        problems.append(f"position must be a whole number from 1 (got '{raw}')")
+        return None
+    size = _slot_size(steps, target, slot)
+    if n > size:
+        problems.append(f"position {n} is past the end — the {slot.upper()} slot will have {size} step{'' if size == 1 else 's'}")
+        return None
+    if alone and slot == target.get("slot") and n == target.get("position"):
+        problems.append(f"this step is already #{n} in the {slot.upper()} slot")
+        return None
+    return n
 
 
 class EditRoutineSteps(Tool):
@@ -28,10 +59,13 @@ class EditRoutineSteps(Tool):
     surface = True
     description = (
         "Change steps that are ALREADY in the user's saved routine (listed in the page context with their step ids). Use it when "
-        "the user asks to swap a product, move a step to other days or the other slot, rename it, change its note, or remove it. "
+        "the user asks to swap a product, move a step to other days or the other slot, change the order steps are applied in, rename it, change its note, or remove it. "
         "op 'replace' needs product_id (a listing id from get_top_products / search_products in this conversation — never "
-        "invented) or the word 'none' to unpin the listing and keep the step; 'move' needs days and/or slot; 'update' takes any "
-        "of title, note, days, slot, product_id; 'remove' deletes the step and needs nothing else. Every change is shown to the user as a before/after diff they accept or reject — this call changes "
+        "invented) or the word 'none' to unpin the listing and keep the step; 'move' needs days and/or slot; 'reorder' needs "
+        "position — the 1-based place within the step's AM or PM slot (the context shows each step's current #position; usual "
+        "order is cleanse → exfoliant → toner → essence → serums → eye → moisturiser → oil → sunscreen last in the morning); 'update' takes any "
+        "of title, note, days, slot, position, product_id; 'remove' deletes the step and needs nothing else. To re-sequence a whole "
+        "slot, send one reorder per step in ascending position order (1, 2, 3…). Every change is shown to the user as a before/after diff they accept or reject — this call changes "
         "nothing by itself. To ADD new steps use propose_routine_steps instead. Call once with all the edits."
     )
 
@@ -49,6 +83,7 @@ class EditRoutineSteps(Tool):
                             "product_id": {"type": "string", "nullable": True, "description": "Listing id from a tool result in this conversation, or 'none' to unpin the product (for 'replace' / 'update')"},
                             "days": {"type": "string", "nullable": True, "description": "Comma-separated weekdays from mon,tue,wed,thu,fri,sat,sun or 'daily' (for 'move' / 'update')"},
                             "slot": {"type": "string", "nullable": True, "enum": list(SLOTS), "description": "am or pm (for 'move' / 'update')"},
+                            "position": {"type": "integer", "nullable": True, "description": "1-based place within the slot the step ends up in — 1 goes on first, the slot's step count goes on last (for 'reorder' / 'move' / 'update')"},
                             "title": {"type": "string", "nullable": True, "description": "New short step name (for 'update')"},
                             "note": {"type": "string", "nullable": True, "description": "New note shown under the step (for 'update')"},
                             "why": {"type": "string", "description": "One sentence: why this change, plain words, no marketing"},
@@ -86,8 +121,11 @@ class EditRoutineSteps(Tool):
                 note = e.get("note").strip() if isinstance(e.get("note"), str) else None
                 if op == "replace" and not product_id:
                     problems.append("'replace' needs product_id")
+                has_position = e.get("position") not in (None, "")
                 if op == "move" and not days_raw and not slot:
                     problems.append("'move' needs days and/or slot")
+                if op == "reorder" and not has_position:
+                    problems.append("'reorder' needs position")
                 if product_id and product_id.lower() == "none":
                     if not target.get("product"):
                         problems.append("this step has no product to unpin")
@@ -123,6 +161,11 @@ class EditRoutineSteps(Tool):
                     after["title"] = title
                 if note:
                     after["note"] = note
+                if has_position:
+                    alone = len(raw) == 1 and not after
+                    position = _check_position(e.get("position"), steps, target, after.get("slot") or str(target.get("slot", "")), alone, problems)
+                    if position is not None:
+                        after["position"] = position
                 if not problems and not after:
                     problems.append("the edit changes nothing")
             if problems:

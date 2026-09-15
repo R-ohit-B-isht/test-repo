@@ -1,5 +1,6 @@
-import { CalendarRange, Moon, Plus, Sun } from 'lucide-react';
+import { ArrowDownWideNarrow, CalendarRange, Moon, Plus, Sun } from 'lucide-react';
 import { StepCard } from './StepCard';
+import { byApplicationOrder } from '../../schedule/applicationOrder';
 import { DAY_LABEL, SLOT_LABEL, SLOTS, stepsFor, type Day, type Slot, type Step } from '../../schedule/model';
 
 interface Props {
@@ -11,12 +12,15 @@ interface Props {
   onEdit: (step: Step) => void;
   onRemove: (id: string) => void;
   onMove: (id: string, dir: -1 | 1) => void;
+  onSort: (slot: Slot) => void;
 }
+
+const isSorted = (list: Step[]) => byApplicationOrder(list).every((s, i) => s.id === list[i].id);
 
 const SLOT_ICON = { am: Sun, pm: Moon } as const;
 
 /** Morning / Night columns (Headspace timeline, Todoist grouped list): accepted steps only, in order, for the chosen day or the whole week. */
-export function Timeline({ steps, day, categoryLabel, onAdd, onPlan, onEdit, onRemove, onMove }: Props) {
+export function Timeline({ steps, day, categoryLabel, onAdd, onPlan, onEdit, onRemove, onMove, onSort }: Props) {
   return (
     <div className="grid gap-6 lg:grid-cols-2">
       {SLOTS.map((slot) => {
@@ -55,6 +59,12 @@ export function Timeline({ steps, day, categoryLabel, onAdd, onPlan, onEdit, onR
                   <button type="button" onClick={onPlan} className="press flex h-10 items-center gap-1.5 rounded-full px-3 text-[13px] font-bold text-accent hover:bg-raised">
                     <CalendarRange size={14} aria-hidden />Plan more
                   </button>
+                  {all.length > 1 && !isSorted(all) && (
+                    <button type="button" onClick={() => onSort(slot)} title="Cleanse → toner → serums → moisturiser → sunscreen"
+                      className="press flex h-10 items-center gap-1.5 rounded-full px-3 text-[13px] font-bold text-secondary hover:bg-raised hover:text-display">
+                      <ArrowDownWideNarrow size={14} aria-hidden />Sort by application order
+                    </button>
+                  )}
                 </div>
               </>
             )}

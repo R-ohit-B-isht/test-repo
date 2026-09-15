@@ -65,6 +65,8 @@ export interface RoutineStepContext {
   id: string;
   title: string;
   slot: string;
+  /** 1-based place among the steps of the same slot, in the order they are applied. */
+  position: number;
   days: string[];
   zone: string;
   category: string | null;

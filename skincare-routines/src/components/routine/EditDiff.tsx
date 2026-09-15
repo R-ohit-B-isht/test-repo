@@ -15,6 +15,7 @@ export function EditDiff({ edit, after, categoryLabel }: Props) {
     if (b.zone !== after.zone) rows.push({ label: 'Zone', from: ZONE_LABEL[b.zone], to: ZONE_LABEL[after.zone] });
     if (b.category !== after.category) rows.push({ label: 'Category', from: b.category ? categoryLabel(b.category) : '—', to: after.category ? categoryLabel(after.category) : '—' });
     if (b.note !== after.note) rows.push({ label: 'Note', from: b.note || '—', to: after.note || '—' });
+    if (edit.position) rows.push({ label: 'Order', from: `#${edit.position.from} in ${SLOT_LABEL[b.slot]}`, to: `#${edit.position.to} in ${SLOT_LABEL[after.slot]}` });
   }
   const productChanged = edit.op !== 'remove' && (b.product?.id ?? null) !== (after.product?.id ?? null);
   return (

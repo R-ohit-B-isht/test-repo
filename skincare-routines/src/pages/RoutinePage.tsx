@@ -19,7 +19,7 @@ import { useDevPublish } from '../components/dev/devStore';
 import { EDIT_VERB, planAsText, SLOT_LABEL, type Day, type Proposal, type Slot, type Step } from '../schedule/model';
 import {
   acceptAllPending, acceptProposal, addStep, clearDecided, clearPlan, dismissFill, moveStep, registerCategoryLabels,
-  rejectAllPending, rejectProposal, removeStep, updateSetup, updateStep, useSchedule,
+  rejectAllPending, rejectProposal, removeStep, sortSlot, updateSetup, updateStep, useSchedule,
 } from '../schedule/scheduleStore';
 import {
   buildPlan, choosePick, effectivePick, proposeSteps, registerPlannerContext, resetPlanner, reviewWithAssistant,
@@ -160,7 +160,8 @@ export default function RoutinePage() {
           <WeekStrip steps={plan.steps} day={day} onChange={setDay} />
           <Timeline steps={plan.steps} day={day} categoryLabel={categoryLabel}
             onAdd={(slot) => setEditor({ kind: 'add', slot })} onPlan={() => setView(plan.setup.zones.length ? 'inventory' : 'setup')}
-            onEdit={(step) => setEditor({ kind: 'edit', step })} onRemove={(id) => { removeStep(id); toast('Step removed'); }} onMove={moveStep} />
+            onEdit={(step) => setEditor({ kind: 'edit', step })} onRemove={(id) => { removeStep(id); toast('Step removed'); }} onMove={moveStep}
+            onSort={(slot) => { sortSlot(slot); toast(`${SLOT_LABEL[slot]} steps sorted by application order`); }} />
           {(plan.steps.length > 0 || plan.proposals.length > 0) && (
             <div className="flex flex-wrap gap-2">
               <button type="button" className="btn" onClick={() => void copyPlan()} disabled={plan.steps.length === 0}><ClipboardCopy size={14} aria-hidden />Copy as text</button>

@@ -11,6 +11,8 @@
     "build": "npm run data && tsc -b && vite build",
     "lint": "oxlint src scripts",
     "typecheck": "tsc -b",
+    "check:routine": "node scripts/routine-check.mjs",
+    "check:planner": "node scripts/planner-check.mjs",
     "preview": "vite preview"
   },
   "dependencies": {

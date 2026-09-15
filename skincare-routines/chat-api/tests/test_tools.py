@@ -241,3 +241,51 @@ async def test_edit_routine_steps_binds_to_page_steps_and_real_listings(ctx: Too
     assert "not-a-real-id" in reasons and "already the product" in reasons and "no step with id 'nope'" in reasons and "needs days and/or slot" in reasons and "no product to unpin" in reasons
     err, _ = await reg.execute("edit_routine_steps", {"edits": [{"step_id": "s1", "op": "remove", "why": "x"}]}, ctx)
     assert "no saved routine steps" in err["error"]
+
+
+async def test_edit_routine_steps_reorders_within_a_slot(ctx: ToolContext):
+    reg = ToolRegistry()
+    daily = ["mon", "tue", "wed", "thu", "fri", "sat", "sun"]
+    page = {"routineSteps": [
+        {"id": "t", "title": "Toner", "slot": "am", "position": 1, "days": daily, "zone": "face", "category": "toner", "note": "", "product": None},
+        {"id": "c", "title": "Cleanser", "slot": "am", "position": 2, "days": daily, "zone": "face", "category": "facewash", "note": "", "product": None},
+        {"id": "s", "title": "Sunscreen", "slot": "am", "position": 3, "days": daily, "zone": "face", "category": "sunscreen", "note": "", "product": None},
+        {"id": "m", "title": "Moisturiser", "slot": "am", "position": 4, "days": daily, "zone": "face", "category": "moisturizer", "note": "", "product": None},
+        {"id": "r", "title": "Retinol", "slot": "pm", "position": 1, "days": daily, "zone": "face", "category": "retinol", "note": "", "product": None},
+    ]}
+    ctx2 = ToolContext(store=ctx.store, site_url=ctx.site_url, page=page)
+    # cleanser before toner, sunscreen last — preserves everything else
+    result, _ = await reg.execute("edit_routine_steps", {"edits": [
+        {"step_id": "c", "op": "reorder", "position": 1, "why": "cleanse first"},
+        {"step_id": "s", "op": "reorder", "position": 4, "why": "spf last"},
+    ]}, ctx2)
+    assert result["edited"] == 2 and result["rejected"] == 0
+    assert result["edits"][0]["op"] == "reorder" and result["edits"][0]["after"] == {"position": 1}
+    assert result["edits"][1]["after"] == {"position": 4}
+    assert result["edits"][0]["before"]["slot"] == "am" and result["edits"][0]["before"]["days"] == daily
+    # whole-slot re-sequence: a step already at its position is kept when it rides with others
+    result, _ = await reg.execute("edit_routine_steps", {"edits": [
+        {"step_id": "s", "op": "reorder", "position": 1, "why": "x"},
+        {"step_id": "c", "op": "reorder", "position": 2, "why": "x"},
+        {"step_id": "t", "op": "reorder", "position": 3, "why": "x"},
+        {"step_id": "m", "op": "reorder", "position": 4, "why": "x"},
+    ]}, ctx2)
+    assert result["edited"] == 4 and [e["after"]["position"] for e in result["edits"]] == [1, 2, 3, 4]
+    # invalid: past the end, zero, fraction, missing, no-op on its own, stale id, cross-slot bound
+    result, _ = await reg.execute("edit_routine_steps", {"edits": [
+        {"step_id": "s", "op": "reorder", "position": 9, "why": "x"},
+        {"step_id": "s", "op": "reorder", "position": 0, "why": "x"},
+        {"step_id": "s", "op": "reorder", "position": 2.5, "why": "x"},
+        {"step_id": "s", "op": "reorder", "why": "x"},
+        {"step_id": "nope", "op": "reorder", "position": 1, "why": "x"},
+        {"step_id": "r", "op": "move", "slot": "am", "position": 6, "why": "x"},
+        {"step_id": "r", "op": "move", "slot": "am", "position": 5, "why": "x"},
+    ]}, ctx2)
+    assert result["edited"] == 1 and result["rejected"] == 6
+    assert result["edits"][0]["after"] == {"slot": "am", "position": 5}
+    reasons = " ".join(" ".join(p["reasons"]) for p in result["problems"])
+    assert "position 9 is past the end" in reasons and "will have 4 steps" in reasons
+    assert "whole number" in reasons and "'reorder' needs position" in reasons and "no step with id 'nope'" in reasons
+    assert "position 6 is past the end — the AM slot will have 5 steps" in reasons
+    alone, _ = await reg.execute("edit_routine_steps", {"edits": [{"step_id": "s", "op": "reorder", "position": 3, "why": "x"}]}, ctx2)
+    assert alone["edited"] == 0 and "already #3 in the AM slot" in alone["problems"][0]["reasons"][0]

@@ -37,13 +37,15 @@ export interface Step {
 }
 
 export type ProposalStatus = 'pending' | 'accepted' | 'rejected';
-export type EditOp = 'replace' | 'move' | 'update' | 'remove';
+export type EditOp = 'replace' | 'move' | 'update' | 'remove' | 'reorder';
 /** A proposal that changes an existing step instead of adding one: `step` holds the step as it would look after the change. */
 export interface StepEdit {
   op: EditOp;
   targetStepId: string;
   /** The target as it was when proposed — shown as the "before" half of the diff and used to notice it changed since. */
   before: Omit<Step, 'id' | 'origin' | 'order'>;
+  /** 1-based place among the steps of the slot the step ends up in — `from` as proposed, `to` as requested. */
+  position?: { from: number; to: number };
 }
 export interface Proposal {
   id: string;
@@ -56,7 +58,14 @@ export interface Proposal {
   edit?: StepEdit;
 }
 
-export const EDIT_VERB: Record<EditOp, string> = { replace: 'Swap product', move: 'Move', update: 'Change', remove: 'Remove' };
+export const EDIT_VERB: Record<EditOp, string> = { replace: 'Swap product', move: 'Move', update: 'Change', remove: 'Remove', reorder: 'Reorder' };
+
+/** 1-based place of a step among the steps sharing its slot (the order the timeline shows them in). */
+export const positionOf = (steps: Step[], id: string): number | null => {
+  const me = steps.find((s) => s.id === id);
+  if (!me) return null;
+  return stepsFor(steps, me.slot, null).findIndex((s) => s.id === id) + 1;
+};
 
 export interface Setup {
   zones: PlanZone[];

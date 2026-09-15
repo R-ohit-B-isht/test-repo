@@ -4,7 +4,8 @@ import {
   EMPTY_PLAN, EMPTY_SETUP, isDay, isPlanZone, isSlot, SKIN_TYPES, type EditOp, type Plan, type Proposal, type Setup, type Step, type StepEdit, type StepProduct,
 } from './model';
 
-const EDIT_OPS: readonly EditOp[] = ['replace', 'move', 'update', 'remove'];
+const EDIT_OPS: readonly EditOp[] = ['replace', 'move', 'update', 'remove', 'reorder'];
+const isPosition = (v: unknown): v is number => typeof v === 'number' && Number.isInteger(v) && v >= 1;
 export const isEditOp = (v: unknown): v is EditOp => typeof v === 'string' && (EDIT_OPS as readonly string[]).includes(v);
 
 const KEY = 'ledger.routine.v1';
@@ -42,9 +43,12 @@ export function validEdit(v: unknown): StepEdit | null {
   if (typeof b.title !== 'string' || !isSlot(b.slot) || !isPlanZone(b.zone) || !Array.isArray(b.days)) return null;
   const days = [...new Set(b.days.filter(isDay))];
   if (!days.length) return null;
+  const pos = v.position;
+  const position = isRecord(pos) && isPosition(pos.from) && isPosition(pos.to) ? { from: pos.from, to: pos.to } : null;
   return {
     op: v.op, targetStepId: v.targetStepId,
     before: { title: b.title, slot: b.slot, zone: b.zone, days, category: typeof b.category === 'string' ? b.category : null, product: validProduct(b.product), note: str(b.note) },
+    ...(position ? { position } : {}),
   };
 }
 
