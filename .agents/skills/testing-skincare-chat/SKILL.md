@@ -56,5 +56,13 @@ Wrap `window.fetch` in the console to log `/api/chat` request headers/body, then
 - Reduced motion: Ctrl+Shift+P → "Emulate CSS prefers-reduced-motion: reduce"; verify `matchMedia('(prefers-reduced-motion: reduce)').matches`.
 - Overflow assertion: `document.documentElement.scrollWidth === clientWidth` with drawer open; composer pinned: dialog `lastElementChild` bottom === dialog bottom.
 
+## Editable "My routine" + Gemini routine edits (≥ d342bbc)
+- Fast setup: `#/routine?dev=1` → zone Face → inventory `face wash, toner, retinol, moisturizer, sunscreen, niacinamide` → Build my week → wait for the assistant stage → "Send all N to routine" → "Accept all N". Persisted in `localStorage['ledger.routine.v1']` (`JSON.parse(...).steps.length`).
+- Regenerate / "Regenerate week" only appear once a planner run has completed (`planner.week` set); expect toast "Fresh run started — accepted steps stay as they are" and a Stop button while running. Accepted steps must survive.
+- Chat edits: existing steps → `edit_routine_steps` (replace/move/update/remove; `product_id:"none"` unpins), new steps → `propose_routine_steps`. Verify in the dev trace that `step_id` matches an id from the page context and that replacements are preceded by a product tool. Gemini may answer in prose without calling the tool on the first try (seen with "replace my cleanser with something cheaper") — count pending cards on My routine, never trust the prose; a follow-up "please propose it" usually produces the call.
+- Stale-target test: create a pending edit, remove the target step manually, Apply → toast "“<title>” is no longer in the routine, so this change was dropped." Note the target step is gone afterwards, so do this on a step you don't need for later applies.
+- ListingPicker: when a step already has a product the picker mounts closed — click "Swap listing" first, then change category to None for cross-site search (results show "in <Category>"). Empty query lists "Top of <cat>". Clicking the search input then typing is required at 360px (typing without focus goes nowhere).
+- 360px overflow: `documentElement.scrollWidth` can read 372 vs `clientWidth` 360 purely because fixed `inset-x-0` overlays (toast container, StepEditor sheet) span Chrome's emulated 12px scrollbar gutter (`innerWidth` 372). Confirm real overflow with `scrollTo(50,y)` → `scrollX` stays 0 and by listing non-fixed elements whose `right > 360`.
+
 ## Devin Secrets Needed
 - `GEMINI_API_KEY` (loaded from `/home/ubuntu/.secrets/gemini.env`; never echo it).

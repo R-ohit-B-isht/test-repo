@@ -23,7 +23,8 @@ const isInciStatus = (v: string | null): v is InciStatus => v === 'full' || v ==
 /** Pin any listing the site ranks to a step. Search covers every page by brand/name (narrowed to the step's category when one
  *  is set); with no query, a category shows its top ranks. "No product" is a first-class state, not a failure. */
 export function ListingPicker({ product, category, categoryLabel, onChange, hideEmpty = false }: Props) {
-  const [open, setOpen] = useState(product === null);
+  const [expanded, setOpen] = useState(false);
+  const open = expanded || product === null;
   const [query, setQuery] = useState('');
   const [fetched, setResults] = useState<Results>({ phase: 'loading' });
   const idle = !query.trim() && !category;
@@ -49,7 +50,7 @@ export function ListingPicker({ product, category, categoryLabel, onChange, hide
           <ProductSnippet product={product} categoryLabel={categoryLabel} />
           <div className="flex flex-wrap gap-1.5">
             <button type="button" className="btn h-9" aria-expanded={open} onClick={() => setOpen((o) => !o)}><Search size={13} aria-hidden />{open ? 'Hide search' : 'Swap listing'}</button>
-            <button type="button" className="btn h-9" onClick={() => { onChange(null); setOpen(true); }}><X size={13} aria-hidden />No product</button>
+            <button type="button" className="btn h-9" onClick={() => onChange(null)}><X size={13} aria-hidden />No product</button>
           </div>
         </>
       ) : hideEmpty ? null : (
