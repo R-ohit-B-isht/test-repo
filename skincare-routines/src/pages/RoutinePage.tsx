@@ -3,7 +3,7 @@ import { useSearchParams } from 'react-router-dom';
 import { AlertTriangle, ClipboardCopy, RefreshCw, Trash2 } from 'lucide-react';
 import { useManifest } from '../data/hooks';
 import { Hero } from '../components/layout/Hero';
-import { StatusBlock } from '../components/ui/primitives';
+import { Kicker, StatusBlock } from '../components/ui/primitives';
 import { SetupPanel } from '../components/routine/SetupPanel';
 import { ScheduleView } from '../components/routine/schedule/ScheduleView';
 import { ProposalsPanel } from '../components/routine/ProposalsPanel';
@@ -116,10 +116,20 @@ export default function RoutinePage() {
 
   return (
     <div className="pb-16">
-      <Hero kicker="My routine · AM / PM · Mon – Sun"
-        title="Your week, step by step — actives spaced out, products from real rankings, nothing added without your say-so."
-        lede="Say who it's for and what you have. The planner spreads strong actives across the week using sourced pairing rules, pins ranked listings to each step, and the assistant adds a second opinion. Every step waits for you to accept it. Saved in this browser only."
-        proofs={[`${plan.steps.length} step${plan.steps.length === 1 ? '' : 's'} on the plan`, pending ? `${pending} pending proposal${pending === 1 ? '' : 's'}` : 'No pending proposals', `${m.categories.length} ranked categories to draw from`]} />
+      {plan.steps.length === 0 ? (
+        <Hero kicker="My routine · AM / PM · Mon – Sun"
+          title="Your week, step by step — actives spaced out, products from real rankings, nothing added without your say-so."
+          lede="Say who it's for and what you have. The planner spreads strong actives across the week using sourced pairing rules, pins ranked listings to each step, and the assistant adds a second opinion. Every step waits for you to accept it. Saved in this browser only."
+          proofs={[pending ? `${pending} pending proposal${pending === 1 ? '' : 's'}` : 'No pending proposals', `${m.categories.length} ranked categories to draw from`]} />
+      ) : (
+        <header className="pb-6 pt-8 sm:pb-8 sm:pt-12">
+          <Kicker>My routine · AM / PM · Mon – Sun</Kicker>
+          <h1 className="mt-3 text-[clamp(28px,4vw,44px)] leading-[1.05] text-display">Your routine.</h1>
+          <p className="mt-2 text-[14px] text-secondary sm:text-[15px]">
+            {plan.steps.length} step{plan.steps.length === 1 ? '' : 's'} · {pending ? `${pending} pending proposal${pending === 1 ? '' : 's'}` : 'no pending proposals'} · saved in this browser only. Add steps, swap listings, or plan more with the assistant — nothing changes until you accept it.
+          </p>
+        </header>
+      )}
 
       {!storageOk && (
         <p role="status" className="mb-6 flex items-start gap-2 rounded-[12px] border border-warning/50 bg-warning/10 px-4 py-3 text-[13px] text-primary">

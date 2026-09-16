@@ -1,11 +1,11 @@
-import { ExternalLink, Moon, Sun } from 'lucide-react';
+import { ChevronRight, Moon, Sun } from 'lucide-react';
 import { ApplicationGuide } from '../ApplicationGuide';
-import { AppLink } from '../../ui/AppLink';
 import { EvidenceBadge, ScoreBadge } from '../../ui/primitives';
 import { rupees, storeLabel } from '../../../lib/format';
 import type { InciSourceKind, InciStatus } from '../../../lib/types';
 import { daysSummary, type Step } from '../../../schedule/model';
 import { shelfFrom } from '../../../schedule/shelf';
+import { openListing } from '../../../state/listingPreviewStore';
 
 interface Props { steps: Step[]; categoryLabel: (id: string) => string }
 
@@ -59,9 +59,9 @@ export function Shelf({ steps, categoryLabel }: Props) {
                   })}
                 </ul>
                 <ApplicationGuide step={used[0]} />
-                <AppLink to={`/c/${product.category}?open=${encodeURIComponent(product.id)}`} className="btn mt-auto justify-center no-underline">
-                  Open in {categoryLabel(product.category)}<ExternalLink size={13} aria-hidden />
-                </AppLink>
+                <button type="button" onClick={() => openListing(product.category, product.id)} className="btn mt-auto justify-center">
+                  View listing<ChevronRight size={13} aria-hidden />
+                </button>
               </li>
             );
           })}

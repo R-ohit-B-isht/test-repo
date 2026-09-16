@@ -100,18 +100,12 @@ function SlotList({ slot, day, dateKey, steps, ticked, hiddenOnPhone, categoryLa
               </button>
             )}
           </div>
-          <ol className="mt-3 space-y-2.5">
-            {list.map((s, i) => (
-              <StepCard key={s.id} step={s} index={i} count={list.length} categoryLabel={categoryLabel} done={ticked.has(s.id)} onToggleDone={() => toggleDone(dateKey, s.id)}
-                onEdit={() => onEdit(s)} onRemove={() => onRemove(s.id)} onMove={(dir) => onMove(s.id, dir)} />
-            ))}
-          </ol>
           <div className="mt-2.5 flex flex-wrap gap-2">
-            <button type="button" onClick={() => onAdd(slot)} className="press flex h-10 items-center gap-1.5 rounded-full px-3 text-[13px] font-bold text-secondary hover:bg-raised hover:text-display">
+            <button type="button" onClick={() => onAdd(slot)} className="press flex h-10 items-center gap-1.5 rounded-full border border-line px-3 text-[13px] font-bold text-display hover:bg-raised">
               <Plus size={14} aria-hidden />Add step
             </button>
-            <button type="button" onClick={onPlan} className="press flex h-10 items-center gap-1.5 rounded-full px-3 text-[13px] font-bold text-accent hover:bg-raised">
-              <CalendarRange size={14} aria-hidden />Plan more
+            <button type="button" onClick={onPlan} className="press flex h-10 items-center gap-1.5 rounded-full border border-accent/40 px-3 text-[13px] font-bold text-accent hover:bg-raised">
+              <CalendarRange size={14} aria-hidden />Plan more with assistant
             </button>
             {all.length > 1 && !isSorted(all) && (
               <button type="button" onClick={() => onSort(slot)} title="Cleanse → toner → serums → moisturiser → sunscreen"
@@ -120,6 +114,15 @@ function SlotList({ slot, day, dateKey, steps, ticked, hiddenOnPhone, categoryLa
               </button>
             )}
           </div>
+          <ol className="mt-3 space-y-2.5">
+            {list.map((s, i) => (
+              <StepCard key={s.id} step={s} index={i} count={list.length} categoryLabel={categoryLabel} done={ticked.has(s.id)} onToggleDone={() => toggleDone(dateKey, s.id)}
+                onEdit={() => onEdit(s)} onRemove={() => onRemove(s.id)} onMove={(dir) => onMove(s.id, dir)} />
+            ))}
+          </ol>
+          <button type="button" onClick={() => onAdd(slot)} className="press mt-2.5 flex h-10 w-full items-center justify-center gap-1.5 rounded-[14px] border border-dashed border-line-strong text-[13px] font-bold text-secondary hover:bg-raised hover:text-display">
+            <Plus size={14} aria-hidden />Add a {SLOT_LABEL[slot].toLowerCase()} step
+          </button>
         </>
       )}
     </section>

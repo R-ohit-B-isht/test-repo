@@ -12,6 +12,7 @@ import { CommandSearch } from '../search/CommandSearch';
 import { LiveDataBadge } from '../ui/primitives';
 import { ChatTrigger } from '../chat/ChatTrigger';
 import { ChatDrawer } from '../chat/ChatDrawer';
+import { ListingPreviewHost } from '../category/ListingPreviewHost';
 import { publishPage } from '../../chat/pageContext';
 import { InstallButton } from '../pwa/InstallButton';
 import { PwaStatus } from '../pwa/PwaStatus';
@@ -98,6 +99,7 @@ export function AppShell() {
       </footer>
       <ToastStack />
       <ChatDrawer />
+      <ListingPreviewHost />
       <DevPanel />
     </div>
   );
