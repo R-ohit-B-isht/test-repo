@@ -1,4 +1,5 @@
-import { AlertTriangle, Check, Pencil, Sparkles, X } from 'lucide-react';
+import { useState } from 'react';
+import { AlertTriangle, Check, ChevronDown, Pencil, Sparkles, X } from 'lucide-react';
 import { clsx } from 'clsx';
 import { EditDiff } from './EditDiff';
 import { ProductSnippet } from './ProductSnippet';
@@ -24,29 +25,43 @@ interface Props {
 /** The assistant's written summary, minus citation markers (the products themselves are on the cards below). */
 const plain = (text: string) => text.replace(/\[\[[^\]]*\]\]?/g, '').replace(/\*\*/g, '').replace(/[ \t]{2,}/g, ' ').trim();
 
-/** Pending proposals (Todoist inbox-style list): each card is Accept / Edit / Reject; nothing here is on the routine yet. */
+/**
+ * Pending proposals (Todoist inbox-style list): each card is Accept / Edit / Reject; nothing here is on the routine yet.
+ * Collapsed to a one-line summary by default; a running or failed assistant run is always expanded so its status is visible.
+ */
 export function ProposalsPanel({ proposals, fill, categoryLabel, positionNow, onAccept, onEdit, onReject, onAcceptAll, onRejectAll, onClearDecided, onRetry, onDismiss }: Props) {
+  const [expanded, setExpanded] = useState(false);
   const pending = proposals.filter((p) => p.status === 'pending');
   const decided = proposals.length - pending.length;
   const running = fill.phase === 'running';
   const show = running || fill.phase === 'error' || pending.length > 0 || (fill.phase === 'done' && (fill.note || fill.problems.length));
   if (!show) return null;
+  const open = expanded || running || fill.phase === 'error';
   return (
     <section className="card overflow-hidden" aria-labelledby="proposals-head" aria-live="polite">
-      <div className="flex flex-wrap items-center justify-between gap-3 border-b border-line bg-raised/50 px-5 py-3">
-        <h3 id="proposals-head" className="flex items-center gap-2 text-[15px] font-extrabold text-display">
-          <Sparkles size={15} className="text-accent" aria-hidden />
-          {running ? 'Assistant is proposing…' : pending.length ? `${pending.length} pending proposal${pending.length === 1 ? '' : 's'}` : 'Assistant'}
+      <div className="flex flex-wrap items-center justify-between gap-3 border-b border-line bg-raised/50 py-2 pl-5 pr-3">
+        <h3 id="proposals-head" className="flex min-w-0 items-center gap-2 text-[15px] font-extrabold text-display">
+          <Sparkles size={15} className="shrink-0 text-accent" aria-hidden />
+          <span className="truncate">{running ? 'Assistant is proposing…' : pending.length ? `${pending.length} pending proposal${pending.length === 1 ? '' : 's'}` : 'Assistant'}</span>
+          {!open && pending.length > 0 && <span className="hidden text-[12.5px] font-semibold text-muted sm:inline">· hidden until you show them</span>}
         </h3>
-        {pending.length > 1 && !running && (
-          <div className="flex gap-1.5">
-            <button type="button" className="btn h-9" onClick={onRejectAll}>Reject all</button>
-            <button type="button" className="btn btn-primary h-9" onClick={onAcceptAll}>Accept all {pending.length}</button>
-          </div>
-        )}
+        <div className="flex items-center gap-1.5">
+          {open && pending.length > 1 && !running && (
+            <>
+              <button type="button" className="btn h-9" onClick={onRejectAll}>Reject all</button>
+              <button type="button" className="btn btn-primary h-9" onClick={onAcceptAll}>Accept all {pending.length}</button>
+            </>
+          )}
+          {!running && fill.phase !== 'error' && (
+            <button type="button" className="btn h-9 gap-1 px-3" aria-expanded={open} aria-controls="proposals-body" onClick={() => setExpanded((v) => !v)}>
+              {open ? 'Hide' : 'Show'}
+              <ChevronDown size={14} aria-hidden className={clsx('transition-transform motion-reduce:transition-none', open && 'rotate-180')} />
+            </button>
+          )}
+        </div>
       </div>
 
-      <div className="space-y-4 px-5 py-4">
+      {open && <div id="proposals-body" className="space-y-4 px-5 py-4">
         {running && (
           <p className="flex items-center gap-2 text-[13px] font-semibold text-secondary"><span className="chat-dots" aria-hidden><i /><i /><i /></span>{fill.status || 'Connecting to Gemini…'}</p>
         )}
@@ -88,7 +103,7 @@ export function ProposalsPanel({ proposals, fill, categoryLabel, positionNow, on
             <button type="button" className="font-bold text-secondary underline-offset-2 hover:underline" onClick={onClearDecided}>Clear</button>
           </p>
         )}
-      </div>
+      </div>}
     </section>
   );
 }

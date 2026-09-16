@@ -52,7 +52,7 @@ export function AppShell() {
     <div className="min-h-dvh">
       <button type="button" onClick={() => document.getElementById('main')?.focus()}
         className="sr-only focus:not-sr-only focus:fixed focus:left-4 focus:top-4 focus:z-[60] focus:rounded-full focus:bg-primary focus:px-4 focus:py-2 focus:text-page">Skip to content</button>
-      <header className="glass sticky top-0 z-40 border-b border-line">
+      <header className="glass sticky top-0 z-40 border-b border-line pt-[env(safe-area-inset-top)]">
         <div className="mx-auto flex max-w-[1440px] flex-wrap items-center gap-x-2 px-4 sm:h-16 sm:flex-nowrap sm:gap-4 sm:px-6">
           <NavLink to="/" className="flex h-14 shrink-0 items-center gap-2.5 no-underline sm:h-auto">
             <span className="flex h-8 w-8 items-center justify-center rounded-full bg-accent text-[13px] font-extrabold text-accent-ink" aria-hidden>S</span>

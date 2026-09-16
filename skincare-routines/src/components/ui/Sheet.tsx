@@ -43,7 +43,7 @@ export function Sheet({ open, onClose, title, children, wide, narrow, footer, he
                 <button type="button" onClick={onClose} className="btn h-10 w-10 shrink-0 px-0" aria-label="Close"><X size={16} /></button>
               </div>
             </div>
-            <div className={bodyClassName ?? 'scrollbar-thin flex-1 overflow-y-auto px-5 py-6 sm:px-8'}>{children}</div>
+            <div className={bodyClassName ?? 'scrollbar-thin flex-1 overflow-y-auto px-5 py-6 pb-[max(24px,env(safe-area-inset-bottom))] sm:px-8'}>{children}</div>
             {footer && <div className="glass border-t border-line px-5 py-3 pb-[max(12px,env(safe-area-inset-bottom))] sm:px-8">{footer}</div>}
           </motion.div>
         </motion.div>

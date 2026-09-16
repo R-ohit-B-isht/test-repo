@@ -11,7 +11,7 @@ export function ToastStack() {
   const reduced = usePrefersReducedMotion();
   const dur = reduced ? 0 : 0.22;
   return (
-    <div className="pointer-events-none fixed inset-x-0 bottom-[84px] z-[70] flex flex-col items-center gap-2 px-4 sm:bottom-6" role="status" aria-live="polite">
+    <div className="pointer-events-none fixed inset-x-0 bottom-[calc(84px+env(safe-area-inset-bottom))] z-[70] flex flex-col items-center gap-2 px-4 sm:bottom-6" role="status" aria-live="polite">
       <AnimatePresence initial={false}>
         {toasts.map((t) => (
           <motion.div key={t.id} layout

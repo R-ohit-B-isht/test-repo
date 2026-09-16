@@ -19,7 +19,7 @@ export function CompareTray({ category, zone, shards, rows, ranks, onRemove, onC
   if (!rows.length) return null;
   return (
     <>
-      <div className="fixed inset-x-0 bottom-0 z-40 px-3 pb-3 sm:px-6 sm:pb-5" role="region" aria-label="Compare tray">
+      <div className="fixed inset-x-0 bottom-0 z-40 px-3 pb-[max(12px,env(safe-area-inset-bottom))] sm:px-6 sm:pb-5" role="region" aria-label="Compare tray">
         <div className="card mx-auto flex max-w-[1100px] items-center gap-3 px-3 py-2.5 shadow-[0_12px_40px_-12px_rgba(26,23,29,0.35)] sm:px-4">
           <span className="label hidden sm:inline">Compare</span>
           <ul className="scrollbar-thin flex flex-1 gap-2 overflow-x-auto">

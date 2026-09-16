@@ -325,9 +325,9 @@
   @media (max-width: 639px) {
     .sched-days { gap: 4px; }
     .sched-day { min-height: 54px; padding-block: 4px; }
-    .sched-views { position: fixed; inset: auto 0 0; z-index: 20; display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 4px; border: 0; border-top: 1px solid var(--line); border-radius: 0; padding: 6px max(12px, env(safe-area-inset-right)) max(6px, env(safe-area-inset-bottom)) max(12px, env(safe-area-inset-left)); background: color-mix(in srgb, var(--page) 92%, transparent); backdrop-filter: blur(12px); }
+    .sched-views { position: fixed; inset: auto 0 0; z-index: 20; display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 4px; border: 0; border-top: 1px solid var(--line); border-radius: 0; padding: 6px max(12px, env(safe-area-inset-right)) calc(6px + env(safe-area-inset-bottom)) max(12px, env(safe-area-inset-left)); background: color-mix(in srgb, var(--page) 92%, transparent); backdrop-filter: blur(12px); }
     .sched-views button { flex-direction: column; gap: 2px; min-height: 52px; padding: 6px; border-radius: 12px; font-size: 11.5px; }
     .sched-views button[aria-pressed="true"] { background: var(--accent-soft); color: var(--accent); }
-    .sched-pad-bottom { padding-bottom: 88px; }
+    .sched-pad-bottom { padding-bottom: calc(88px + env(safe-area-inset-bottom)); }
   }
 }

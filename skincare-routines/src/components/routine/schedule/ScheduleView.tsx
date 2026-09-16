@@ -30,8 +30,8 @@ export function ScheduleView({ steps, ...actions }: Props) {
   const open = (d: Day, s: Slot) => { setDay(d); setSlot(s); setView('today'); };
 
   return (
-    <div className="sched-pad-bottom space-y-5">
-      <nav className="sched-views" aria-label="Routine views">
+    <div className="sched-pad-bottom">
+      <nav className="sched-views sm:mb-5" aria-label="Routine views">
         {VIEWS.map(({ id, label, Icon }) => (
           <button key={id} type="button" className="press" aria-pressed={view === id} onClick={() => setView(id)}>
             <Icon size={16} aria-hidden />{label}
@@ -39,10 +39,10 @@ export function ScheduleView({ steps, ...actions }: Props) {
         ))}
       </nav>
       {view === 'today' && (
-        <>
+        <div className="space-y-5">
           <DayStrip dates={dates} steps={steps} selected={day} onSelect={setDay} />
           <DayView steps={steps} date={date} slot={slot} onSlot={setSlot} onToday={() => setDay(dayOf(now))} {...actions} />
-        </>
+        </div>
       )}
       {view === 'week' && <WeekOverview steps={steps} dates={dates} categoryLabel={actions.categoryLabel} onOpen={open} />}
       {view === 'shelf' && <Shelf steps={steps} categoryLabel={actions.categoryLabel} />}

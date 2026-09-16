@@ -144,13 +144,13 @@ function CategoryView({ id }: { id: string }) {
         </section>
       )}
 
-      <div className="glass sticky top-[100px] z-30 sm:top-16 -mx-4 mt-8 border-b border-line px-4 py-3 sm:-mx-6 sm:px-6">
+      <div className="glass sticky top-[calc(100px+env(safe-area-inset-top))] z-30 sm:top-[calc(64px+env(safe-area-inset-top))] -mx-4 mt-8 border-b border-line px-4 py-3 sm:-mx-6 sm:px-6">
         <ScopeControl group={scopeGroup} rows={idx.facets[scopeGroup] ?? []} selected={scopeSelected} onToggle={toggleTag} onClear={() => clearGroup(scopeGroup)} />
       </div>
 
       <div className="mt-6 grid gap-8 lg:grid-cols-[300px_minmax(0,1fr)]">
         <aside className="hidden lg:block" aria-label="Filters">
-          <div className="scrollbar-thin sticky top-[136px] max-h-[calc(100dvh-152px)] overflow-y-auto pr-1">
+          <div className="scrollbar-thin sticky top-[calc(136px+env(safe-area-inset-top))] max-h-[calc(100dvh-152px-env(safe-area-inset-top))] overflow-y-auto pr-1">
             <div className="mb-3 flex items-center justify-between"><h2 className="text-[16px] font-extrabold text-display">Filters</h2>{activeCount > 0 && <button type="button" className="label !text-accent hover:underline" onClick={clearAllWithUndo}>Clear all ({activeCount})</button>}</div>
             {panel}
           </div>
