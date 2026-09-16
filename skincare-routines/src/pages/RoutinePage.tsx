@@ -5,8 +5,7 @@ import { useManifest } from '../data/hooks';
 import { Hero } from '../components/layout/Hero';
 import { StatusBlock } from '../components/ui/primitives';
 import { SetupPanel } from '../components/routine/SetupPanel';
-import { WeekStrip } from '../components/routine/WeekStrip';
-import { Timeline } from '../components/routine/Timeline';
+import { ScheduleView } from '../components/routine/schedule/ScheduleView';
 import { ProposalsPanel } from '../components/routine/ProposalsPanel';
 import { StepEditor } from '../components/routine/StepEditor';
 import { PlanStepper, type PlanView } from '../components/routine/plan/PlanStepper';
@@ -16,7 +15,7 @@ import { blankStep, type StepDraft } from '../schedule/draft';
 import { toast } from '../state/toastStore';
 import { usePagePublish } from '../chat/pageContext';
 import { useDevPublish } from '../components/dev/devStore';
-import { EDIT_VERB, planAsText, positionOf, SLOT_LABEL, type Day, type Proposal, type Slot, type Step } from '../schedule/model';
+import { EDIT_VERB, planAsText, positionOf, SLOT_LABEL, type Proposal, type Slot, type Step } from '../schedule/model';
 import {
   acceptAllPending, acceptProposal, addStep, clearDecided, clearPlan, dismissFill, moveStep, registerCategoryLabels,
   rejectAllPending, rejectProposal, removeStep, sortSlot, updateSetup, updateStep, useSchedule,
@@ -46,7 +45,6 @@ export default function RoutinePage() {
   const planner = usePlanner();
   const [params] = useSearchParams();
   const dev = params.get('dev') === '1';
-  const [day, setDay] = useState<Day | null>(null);
   const [editor, setEditor] = useState<Editor>(null);
   const [view, setView] = useState<PlanView>(() => startView(plan.steps.length, plan.proposals.length, planner.week !== null, plan.setup.zones.length > 0));
 
@@ -157,8 +155,7 @@ export default function RoutinePage() {
             onAccept={accept} onEdit={(p) => setEditor({ kind: 'proposal', proposal: p })} onReject={rejectProposal}
             onAcceptAll={acceptAll} onRejectAll={rejectAllPending} onClearDecided={clearDecided}
             onRetry={() => setView('inventory')} onDismiss={dismissFill} />
-          <WeekStrip steps={plan.steps} day={day} onChange={setDay} />
-          <Timeline steps={plan.steps} day={day} categoryLabel={categoryLabel}
+          <ScheduleView steps={plan.steps} categoryLabel={categoryLabel}
             onAdd={(slot) => setEditor({ kind: 'add', slot })} onPlan={() => setView(plan.setup.zones.length ? 'inventory' : 'setup')}
             onEdit={(step) => setEditor({ kind: 'edit', step })} onRemove={(id) => { removeStep(id); toast('Step removed'); }} onMove={moveStep}
             onSort={(slot) => { sortSlot(slot); toast(`${SLOT_LABEL[slot]} steps sorted by application order`); }} />

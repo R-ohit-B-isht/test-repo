@@ -280,4 +280,54 @@
   .chat-dots i:nth-child(2) { animation-delay: 0.15s; }
   .chat-dots i:nth-child(3) { animation-delay: 0.3s; }
   @keyframes chat-dot { 0%, 80%, 100% { transform: translateY(0); opacity: 0.4; } 40% { transform: translateY(-3px); opacity: 1; } }
+
+  /* Where-to-apply schematic: teal = apply, hatched = keep clear, outline = the rest. Reads on paper and on ink. */
+  .app-map-skin { fill: var(--raised); stroke: var(--line-strong); stroke-width: 1.5; }
+  .app-map-on { fill: color-mix(in srgb, var(--accent) 38%, var(--surface)); stroke: var(--accent); stroke-width: 1.5; }
+  .app-map-off { stroke: var(--secondary); stroke-width: 1; }
+  .app-map-hatch { stroke: var(--secondary); stroke-width: 1.2; }
+  .app-map-stroke { fill: none; stroke: var(--accent); stroke-width: 7; stroke-linecap: round; }
+  .app-map-line { fill: none; stroke: var(--line-strong); stroke-width: 1.5; }
+  .app-legend-on { background: color-mix(in srgb, var(--accent) 38%, var(--surface)); border: 1.5px solid var(--accent); }
+  .app-legend-off { border: 1px solid var(--secondary); background: repeating-linear-gradient(45deg, transparent 0 2px, var(--secondary) 2px 3px); }
+
+  /* Phone weekly schedule (reference: rohit-skincare-site personal-* patterns): day strip that scrolls and reveals the
+     selected day, AM/PM segmented pill, and a fixed bottom view switcher under 640px with safe-area padding. */
+  .sched-days { display: grid; grid-template-columns: repeat(7, minmax(44px, 1fr)); gap: 6px; overflow-x: auto; overscroll-behavior-x: contain; padding-block: 4px; scrollbar-width: none; }
+  .sched-days::-webkit-scrollbar { display: none; }
+  .sched-day { display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 2px; min-height: 60px; padding-block: 6px; border: 1px solid var(--line); border-radius: 12px; background: var(--surface); font-size: 12px; font-weight: 700; color: var(--secondary); transition: background 160ms var(--ease-out-expo), border-color 160ms var(--ease-out-expo), color 160ms var(--ease-out-expo); }
+  .sched-day strong { font-size: 16px; font-weight: 800; color: var(--display); font-variant-numeric: tabular-nums; }
+  .sched-day-dot { width: 5px; height: 5px; border-radius: 999px; background: transparent; }
+  .sched-day[data-has="true"] .sched-day-dot { background: var(--accent); }
+  .sched-day[aria-current="date"] { border-color: var(--accent); }
+  .sched-day[aria-pressed="true"] { background: var(--primary); border-color: var(--primary); color: var(--page); }
+  .sched-day[aria-pressed="true"] strong { color: var(--page); }
+  .sched-day[aria-pressed="true"] .sched-day-dot { background: var(--page); }
+  .sched-period { display: flex; gap: 6px; padding: 4px; border: 1px solid var(--line); border-radius: 999px; background: var(--raised); }
+  .sched-period button { display: flex; flex: 1; align-items: center; justify-content: center; gap: 8px; min-height: 44px; border-radius: 999px; font-size: 13px; font-weight: 700; color: var(--secondary); transition: background 160ms var(--ease-out-expo), color 160ms var(--ease-out-expo); }
+  .sched-period button[aria-pressed="true"] { background: var(--surface); color: var(--display); box-shadow: var(--shadow); }
+  .sched-views { display: flex; gap: 4px; padding: 4px; border: 1px solid var(--line); border-radius: 999px; background: var(--surface); }
+  .sched-views button { display: flex; align-items: center; justify-content: center; gap: 6px; min-height: 40px; padding: 0 14px; border-radius: 999px; font-size: 13px; font-weight: 700; color: var(--secondary); transition: background 160ms var(--ease-out-expo), color 160ms var(--ease-out-expo); }
+  .sched-views button[aria-pressed="true"] { background: var(--primary); color: var(--page); }
+  .sched-progress { height: 6px; border-radius: 999px; background: var(--raised); overflow: hidden; }
+  .sched-progress > span { display: block; height: 100%; border-radius: 999px; background: var(--accent); transition: width 240ms var(--ease-out-expo); }
+  .sched-check { display: flex; align-items: center; justify-content: center; width: 28px; height: 28px; border-radius: 999px; border: 1.5px solid var(--line-strong); background: var(--surface); color: transparent; transition: background 160ms var(--ease-out-expo), border-color 160ms var(--ease-out-expo), color 160ms var(--ease-out-expo); }
+  .sched-check[aria-pressed="true"] { background: var(--accent); border-color: var(--accent); color: var(--accent-ink); }
+  .sched-done h4 { text-decoration: line-through; text-decoration-color: var(--line-strong); color: var(--secondary); }
+  .sched-overview > summary { display: flex; align-items: center; justify-content: space-between; gap: 12px; cursor: pointer; list-style: none; padding: 14px 16px; font-size: 15px; font-weight: 800; color: var(--display); }
+  .sched-overview > summary::-webkit-details-marker { display: none; }
+  .sched-overview > summary .sched-chev { transition: transform 200ms var(--ease-out-expo); color: var(--secondary); }
+  .sched-overview[open] > summary .sched-chev { transform: rotate(180deg); }
+  .apply-guide > summary { display: flex; align-items: center; gap: 8px; cursor: pointer; list-style: none; min-height: 40px; padding: 0 12px; border-radius: 999px; border: 1px solid var(--line); background: var(--surface); font-size: 12.5px; font-weight: 700; color: var(--display); }
+  .apply-guide > summary::-webkit-details-marker { display: none; }
+  .apply-guide > summary:hover { border-color: var(--line-strong); }
+  .apply-guide[open] > summary { border-color: var(--accent); }
+  @media (max-width: 639px) {
+    .sched-days { gap: 4px; }
+    .sched-day { min-height: 54px; padding-block: 4px; }
+    .sched-views { position: fixed; inset: auto 0 0; z-index: 20; display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 4px; border: 0; border-top: 1px solid var(--line); border-radius: 0; padding: 6px max(12px, env(safe-area-inset-right)) max(6px, env(safe-area-inset-bottom)) max(12px, env(safe-area-inset-left)); background: color-mix(in srgb, var(--page) 92%, transparent); backdrop-filter: blur(12px); }
+    .sched-views button { flex-direction: column; gap: 2px; min-height: 52px; padding: 6px; border-radius: 12px; font-size: 11.5px; }
+    .sched-views button[aria-pressed="true"] { background: var(--accent-soft); color: var(--accent); }
+    .sched-pad-bottom { padding-bottom: 88px; }
+  }
 }
