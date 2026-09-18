@@ -6,6 +6,7 @@ import { NotesPanel } from './NotesPanel';
 import { Shelf } from './Shelf';
 import { WeekOverview } from './WeekOverview';
 import type { Day, Slot, Step } from '../../../schedule/model';
+import { weekMonday } from '../../../schedule/rotation';
 import { dayOf, weekDates } from '../../../schedule/week';
 
 type View = 'today' | 'week' | 'shelf' | 'notes';
@@ -44,8 +45,8 @@ export function ScheduleView({ steps, ...actions }: Props) {
           <DayView steps={steps} date={date} slot={slot} onSlot={setSlot} onToday={() => setDay(dayOf(now))} {...actions} />
         </div>
       )}
-      {view === 'week' && <WeekOverview steps={steps} dates={dates} categoryLabel={actions.categoryLabel} onOpen={open} />}
-      {view === 'shelf' && <Shelf steps={steps} categoryLabel={actions.categoryLabel} />}
+      {view === 'week' && <WeekOverview steps={steps} dates={dates} categoryLabel={actions.categoryLabel} onOpen={open} onEdit={actions.onEdit} />}
+      {view === 'shelf' && <Shelf steps={steps} monday={weekMonday(now)} categoryLabel={actions.categoryLabel} />}
       {view === 'notes' && <NotesPanel />}
     </div>
   );

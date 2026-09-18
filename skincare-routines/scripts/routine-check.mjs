@@ -17,13 +17,17 @@ writeFileSync(entry, [
   `export * as model from '${join(root, 'src/schedule/model.ts')}';`,
   `export { stepsForContext, editsFrom } from '${join(root, 'src/schedule/proposer.ts')}';`,
   `export { editRoutineSteps } from '${join(root, 'src/chat/local/tools/routineEdit.ts')}';`,
+  `export * as rotation from '${join(root, 'src/schedule/rotation.ts')}';`,
+  `export * as storage from '${join(root, 'src/schedule/storage.ts')}';`,
+  `export { shelfFrom } from '${join(root, 'src/schedule/shelf.ts')}';`,
+  `export * as owned from '${join(root, 'src/schedule/ownedStore.ts')}';`,
 ].join('\n'));
 const out = join(cache, 'routine-check.mjs');
 await build({ entryPoints: [entry], bundle: true, format: 'esm', platform: 'node', outfile: out, logLevel: 'silent', define: { 'import.meta.env.BASE_URL': '"/"', 'import.meta.env.DEV': 'false' } });
 
 const mem = new Map();
 globalThis.localStorage = { getItem: (k) => mem.get(k) ?? null, setItem: (k, v) => { mem.set(k, v); }, removeItem: (k) => { mem.delete(k); } };
-const { store, order, model, stepsForContext, editRoutineSteps } = await import(pathToFileURL(out).href);
+const { store, order, model, stepsForContext, editRoutineSteps, rotation, storage, shelfFrom, owned } = await import(pathToFileURL(out).href);
 
 let fails = 0;
 const check = (ok, msg) => { if (!ok) { fails++; console.log('FAIL', msg); } };
@@ -145,6 +149,39 @@ check(titles('am')[0] === 'Oil cleanser', `AI balm goes first: ${titles('am').jo
 const persisted = JSON.parse(mem.get('ledger.routine.v1'));
 const kept = persisted.proposals.find((x) => x.edit?.op === 'reorder' && x.edit.position);
 check(kept && Number.isInteger(kept.edit.position.from) && Number.isInteger(kept.edit.position.to), 'reorder position survives storage');
+
+// 9. Weekly rotation: deterministic on calendar Mondays, base = week 1, wraps for 2 and 3 options, reads as before without `rotation`.
+const prod = (id, title) => ({ id, category: 'retinol', brand: 'B', title, url: 'http://x', price: 1, image: null, rank: 1, score: 1, inci: null });
+const plain = { id: 'r1', slot: 'pm', days: DAILY, zone: 'face', title: 'Azelaic', category: 'azelaic', product: prod('p-az', 'Az 10%'), note: '', origin: 'user', order: 0 };
+check(rotation.weekMonday(new Date(2026, 6, 19)).endsWith('-07-13') && rotation.weekMonday(new Date(2026, 6, 13)).endsWith('-07-13'), 'weekMonday: Sun 19 Jul and Mon 13 Jul → Mon 13 Jul');
+check(rotation.shiftWeek('2026-07-13', 1) === '2026-07-20' && rotation.shiftWeek('2026-07-13', -1) === '2026-07-06', 'shiftWeek ±1');
+const v0 = rotation.viewForWeek(plain, '2026-07-13');
+check(v0.rotation === null && v0.now.title === 'Azelaic' && v0.now.product.id === 'p-az', 'step without rotation resolves to itself');
+const two = { ...plain, rotation: { anchor: '2026-07-13', alternatives: [{ title: 'Retinol', category: 'retinol', product: prod('p-ret', 'Ret 0.3%'), note: '' }] } };
+const w = (s, m) => rotation.viewForWeek(s, m);
+check(w(two, '2026-07-13').now.title === 'Azelaic' && w(two, '2026-07-13').rotation.next.title === 'Retinol', '2-cycle: anchor week → base, next retinol');
+check(w(two, '2026-07-20').now.title === 'Retinol' && w(two, '2026-07-27').now.title === 'Azelaic', '2-cycle: alternates week by week');
+check(w(two, '2026-07-06').now.title === 'Retinol', '2-cycle: weeks before the anchor wrap, never negative');
+const three = { ...two, rotation: { ...two.rotation, alternatives: [...two.rotation.alternatives, { title: 'Glycolic', category: 'glycolic', product: prod('p-gly', 'Gly 7%'), note: '' }] } };
+check(['2026-07-13', '2026-07-20', '2026-07-27', '2026-08-03'].map((m) => w(three, m).now.title).join() === 'Azelaic,Retinol,Glycolic,Azelaic', '3-cycle wraps after week 3');
+check(w(three, '2026-07-27').rotation.index === 2 && w(three, '2026-07-27').rotation.total === 3 && w(three, '2026-07-27').rotation.next.title === 'Azelaic', '3-cycle: week 3 of 3, next wraps to base');
+check(w({ ...three, rotation: { ...three.rotation, anchor: rotation.anchorFor('2026-07-13', 2) } }, '2026-07-13').now.title === 'Glycolic', 'anchorFor makes option 3 this week');
+check(storage.validRotation(undefined) === undefined && storage.validRotation({ anchor: 'nope', alternatives: [] }) === undefined && storage.validRotation({ anchor: '2026-07-13', alternatives: [{ title: 5 }] }) === undefined, 'malformed rotation reads as none');
+check(storage.validRotation({ anchor: '2026-07-13', alternatives: three.rotation.alternatives }).alternatives.length === 2, 'well-formed rotation kept');
+const ctxRows = stepsForContext([three], '2026-07-20');
+check(ctxRows[0].title === 'Retinol' && ctxRows[0].product.id === 'p-ret' && /Rotates weekly \(3 options/.test(ctxRows[0].note), `chat context shows this week's option with the cycle: ${ctxRows[0].note.slice(0, 60)}`);
+check(stepsForContext([plain], '2026-07-20')[0].note === '', 'non-rotating step: context note untouched');
+
+// 10. Shelf lists every product in a cycle and says which is in use; ownership lives in its own key and never touches the plan.
+const shelf = shelfFrom([three], '2026-07-20');
+check(shelf.length === 3 && shelf.find((i) => i.product.id === 'p-ret').inUseNow && !shelf.find((i) => i.product.id === 'p-az').inUseNow, 'shelf: 3 products, retinol in use this week');
+const planBefore = mem.get('ledger.routine.v1');
+owned.setHave('p-az', false);
+check(JSON.parse(mem.get('ledger.routine.owned.v1')).missing.join() === 'p-az', 'not-with-me id stored under ledger.routine.owned.v1');
+check(mem.get('ledger.routine.v1') === planBefore, 'marking a product never rewrites the plan');
+check(owned.isMissing(new Set(['p-az']), 'p-az') && !owned.isMissing(new Set(['p-az']), 'p-ret') && !owned.isMissing(new Set(['p-az']), null), 'isMissing: only listed ids, never null');
+owned.setHave('p-az', true);
+check(JSON.parse(mem.get('ledger.routine.owned.v1')).missing.length === 0, 'with me again → id removed');
 
 console.log(fails ? `${fails} check(s) failed` : 'routine-check: all checks passed');
 process.exit(fails ? 1 : 0);

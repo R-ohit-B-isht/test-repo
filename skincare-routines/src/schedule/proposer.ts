@@ -5,18 +5,25 @@ import { PROPOSE_TOOL } from '../chat/local/tools/routine';
 import { EDIT_TOOL } from '../chat/local/tools/routineEdit';
 import type { RoutineStepContext } from '../chat/types';
 import { isEditOp, validProduct } from './storage';
+import { viewForWeek, weekMonday } from './rotation';
 import {
   DAY_LABEL, isDay, isPlanZone, isSlot, newId, positionOf, SLOT_LABEL, ZONE_LABEL, type Plan, type Proposal, type Slot, type Step,
 } from './model';
 
 export { EDIT_TOOL, PROPOSE_TOOL };
 
-/** The accepted steps as the assistant sees them in the page context (ids included so it can name a step to edit). */
-export const stepsForContext = (steps: Step[]): RoutineStepContext[] =>
-  [...steps].sort((a, b) => (a.slot === b.slot ? a.order - b.order : a.slot === 'am' ? -1 : 1)).slice(0, 60).map((s) => ({
-    id: s.id, title: s.title, slot: s.slot, position: positionOf(steps, s.id) ?? 1, days: s.days, zone: s.zone, category: s.category, note: s.note,
-    product: s.product ? { id: s.product.id, category: s.product.category, brand: s.product.brand, title: s.product.title, rank: s.product.rank } : null,
-  }));
+/** The accepted steps as the assistant sees them in the page context (ids included so it can name a step to edit). A rotating
+ *  step is shown as this week's option, with the cycle spelled out in its note so the model never treats the options as used together. */
+export const stepsForContext = (steps: Step[], monday = weekMonday(new Date())): RoutineStepContext[] =>
+  [...steps].sort((a, b) => (a.slot === b.slot ? a.order - b.order : a.slot === 'am' ? -1 : 1)).slice(0, 60).map((s) => {
+    const { now, rotation } = viewForWeek(s, monday);
+    const cycle = rotation ? `Rotates weekly (${rotation.total} options, one per week; this week ${rotation.index + 1}/${rotation.total}, next week: ${rotation.next.title}). Edits made with the tool change option 1 (${s.title}); the other options are edited on the step's sheet.` : '';
+    return {
+      id: s.id, title: now.title, slot: s.slot, position: positionOf(steps, s.id) ?? 1, days: s.days, zone: s.zone, category: now.category,
+      note: [cycle, now.note].filter(Boolean).join(' '),
+      product: now.product ? { id: now.product.id, category: now.product.category, brand: now.product.brand, title: now.product.title, rank: now.product.rank } : null,
+    };
+  });
 
 const isRecord = (v: unknown): v is Record<string, unknown> => typeof v === 'object' && v !== null;
 

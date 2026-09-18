@@ -3,6 +3,8 @@ import { clsx } from 'clsx';
 import { StepCard } from '../StepCard';
 import { byApplicationOrder } from '../../../schedule/applicationOrder';
 import { doneOn, resetDone, toggleDone, useCompletion } from '../../../schedule/completionStore';
+import { useMissing } from '../../../schedule/ownedStore';
+import { weekMonday } from '../../../schedule/rotation';
 import { DAY_LABEL, SLOT_LABEL, SLOTS, stepsFor, type Day, type Slot, type Step } from '../../../schedule/model';
 import { longDate, type WeekDate } from '../../../schedule/week';
 
@@ -31,6 +33,8 @@ const isSorted = (list: Step[]) => byApplicationOrder(list).every((s, i) => s.id
  * `stepsFor` in stored order; ticking a step writes to the completion journal, never to the routine. */
 export function DayView({ steps, date, slot, onSlot, onToday, ...actions }: Props) {
   const done = useCompletion();
+  const missing = useMissing();
+  const monday = weekMonday(date.date);
   const ticked = doneOn(done, date.key);
   const counts = Object.fromEntries(SLOTS.map((s) => [s, stepsFor(steps, s, date.day).length])) as Record<Slot, number>;
   return (
@@ -56,16 +60,16 @@ export function DayView({ steps, date, slot, onSlot, onToday, ...actions }: Prop
 
       <div className="mt-4 grid gap-6 lg:grid-cols-2">
         {SLOTS.map((s) => (
-          <SlotList key={s} slot={s} day={date.day} dateKey={date.key} steps={steps} ticked={ticked} hiddenOnPhone={s !== slot} {...actions} />
+          <SlotList key={s} slot={s} day={date.day} dateKey={date.key} monday={monday} missing={missing} steps={steps} ticked={ticked} hiddenOnPhone={s !== slot} {...actions} />
         ))}
       </div>
     </section>
   );
 }
 
-interface SlotProps extends StepActions { slot: Slot; day: Day; dateKey: string; steps: Step[]; ticked: Set<string>; hiddenOnPhone: boolean }
+interface SlotProps extends StepActions { slot: Slot; day: Day; dateKey: string; monday: string; missing: ReadonlySet<string>; steps: Step[]; ticked: Set<string>; hiddenOnPhone: boolean }
 
-function SlotList({ slot, day, dateKey, steps, ticked, hiddenOnPhone, categoryLabel, onAdd, onPlan, onEdit, onRemove, onMove, onSort }: SlotProps) {
+function SlotList({ slot, day, dateKey, monday, missing, steps, ticked, hiddenOnPhone, categoryLabel, onAdd, onPlan, onEdit, onRemove, onMove, onSort }: SlotProps) {
   const Icon = SLOT_ICON[slot];
   const list = stepsFor(steps, slot, day);
   const all = stepsFor(steps, slot, null);
@@ -116,7 +120,7 @@ function SlotList({ slot, day, dateKey, steps, ticked, hiddenOnPhone, categoryLa
           </div>
           <ol className="mt-3 space-y-2.5">
             {list.map((s, i) => (
-              <StepCard key={s.id} step={s} index={i} count={list.length} categoryLabel={categoryLabel} done={ticked.has(s.id)} onToggleDone={() => toggleDone(dateKey, s.id)}
+              <StepCard key={s.id} step={s} monday={monday} missing={missing} index={i} count={list.length} categoryLabel={categoryLabel} done={ticked.has(s.id)} onToggleDone={() => toggleDone(dateKey, s.id)}
                 onEdit={() => onEdit(s)} onRemove={() => onRemove(s.id)} onMove={(dir) => onMove(s.id, dir)} />
             ))}
           </ol>

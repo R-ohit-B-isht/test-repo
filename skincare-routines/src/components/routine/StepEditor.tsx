@@ -2,8 +2,10 @@ import { useState, type ReactNode } from 'react';
 import { clsx } from 'clsx';
 import { Sheet } from '../ui/Sheet';
 import { ListingPicker } from './ListingPicker';
+import { RotationEditor } from './RotationEditor';
 import type { CategoryMeta } from '../../lib/types';
 import { zoneMatches, type StepDraft } from '../../schedule/draft';
+import { baseVariant } from '../../schedule/rotation';
 import { DAYS, DAY_LABEL, PLAN_ZONES, SLOTS, SLOT_LABEL, ZONE_LABEL, type Day } from '../../schedule/model';
 
 interface Props {
@@ -52,10 +54,12 @@ function StepForm({ initial, categories, categoryLabel, onSubmit }: Pick<Props, 
   const sameDays = (days: Day[]) => days.length === draft.days.length && days.every((d) => draft.days.includes(d));
   const titleError = touched && !draft.title.trim() ? 'Give the step a name.' : null;
   const daysError = touched && draft.days.length === 0 ? 'Pick at least one day.' : null;
+  const unnamed = new Set((draft.rotation?.alternatives ?? []).flatMap((a, i) => (a.title.trim() ? [] : [i])));
   const submit = () => {
     setTouched(true);
-    if (!draft.title.trim() || draft.days.length === 0) return;
-    onSubmit({ ...draft, title: draft.title.trim(), note: draft.note.trim() });
+    if (!draft.title.trim() || draft.days.length === 0 || unnamed.size) return;
+    const rotation = draft.rotation && { ...draft.rotation, alternatives: draft.rotation.alternatives.map((a) => ({ ...a, title: a.title.trim(), note: a.note.trim() })) };
+    onSubmit({ ...draft, title: draft.title.trim(), note: draft.note.trim(), rotation });
   };
   const options = categories.filter((c) => zoneMatches(c, draft.zone) || c.id === draft.category);
   return (
@@ -109,6 +113,10 @@ function StepForm({ initial, categories, categoryLabel, onSubmit }: Pick<Props, 
         <Field label="Product" hint={draft.product ? 'Rank, score and evidence exactly as the site shows them.' : undefined}>
           <ListingPicker product={draft.product} category={draft.category} categoryLabel={categoryLabel}
             onChange={(product) => patch({ product, category: product ? product.category : draft.category })} />
+        </Field>
+        <Field label="Weekly rotation" hint={draft.rotation ? undefined : 'Alternate this step with other products week by week — e.g. azelaic this week, retinol next — instead of using them together.'}>
+          <RotationEditor base={baseVariant(draft)} rotation={draft.rotation} categoryLabel={categoryLabel} invalid={touched ? unnamed : undefined}
+            onChange={(rotation) => patch({ rotation })} />
         </Field>
         <Field label="Note" hint="How to use it, what to watch for.">
           <textarea id="step-note" className="field min-h-[88px] w-full resize-y py-2.5 leading-relaxed" value={draft.note} maxLength={400}

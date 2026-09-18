@@ -1,8 +1,10 @@
 /** localStorage adapter for the routine plan (Memento: the store hands over a snapshot, this file persists/restores it).
  * Corrupt or unavailable storage yields the empty plan plus a flag — never an invented routine. */
 import {
-  EMPTY_PLAN, EMPTY_SETUP, isDay, isPlanZone, isSlot, SKIN_TYPES, type EditOp, type Plan, type Proposal, type Setup, type Step, type StepEdit, type StepProduct,
+  EMPTY_PLAN, EMPTY_SETUP, isDay, isPlanZone, isSlot, SKIN_TYPES, type EditOp, type Plan, type Proposal, type Rotation, type Setup, type Step, type StepEdit,
+  type StepProduct, type StepVariant,
 } from './model';
+import { MAX_ALTERNATIVES } from './rotation';
 
 const EDIT_OPS: readonly EditOp[] = ['replace', 'move', 'update', 'remove', 'reorder'];
 const isPosition = (v: unknown): v is number => typeof v === 'number' && Number.isInteger(v) && v >= 1;
@@ -27,14 +29,29 @@ export function validProduct(v: unknown): StepProduct | null {
   };
 }
 
+function validVariant(v: unknown): StepVariant | null {
+  if (!isRecord(v) || typeof v.title !== 'string' || !v.title.trim()) return null;
+  return { title: v.title, category: strOrNull(v.category), product: validProduct(v.product), note: str(v.note) };
+}
+
+/** A rotation needs a real Monday anchor and at least one well-formed alternative; anything else reads as "no rotation". */
+export function validRotation(v: unknown): Rotation | undefined {
+  if (!isRecord(v) || typeof v.anchor !== 'string' || !/^\d{4}-\d{2}-\d{2}$/.test(v.anchor) || !Array.isArray(v.alternatives)) return undefined;
+  const alternatives = v.alternatives.map(validVariant).filter((a): a is StepVariant => a !== null).slice(0, MAX_ALTERNATIVES);
+  return alternatives.length ? { anchor: v.anchor, alternatives } : undefined;
+}
+
+/** Steps without a rotation carry no `rotation` key at all. */
+const withRotation = <T extends object>(base: T, rotation: Rotation | undefined): T & { rotation?: Rotation } => (rotation ? { ...base, rotation } : base);
+
 function validStep(v: unknown): Step | null {
   if (!isRecord(v) || typeof v.id !== 'string' || !isSlot(v.slot) || !isPlanZone(v.zone) || typeof v.title !== 'string' || !Array.isArray(v.days)) return null;
   const days = v.days.filter(isDay);
   if (!days.length) return null;
-  return {
+  return withRotation({
     id: v.id, slot: v.slot, zone: v.zone, title: v.title, days: [...new Set(days)], category: strOrNull(v.category),
     product: validProduct(v.product), note: str(v.note), origin: v.origin === 'ai' ? 'ai' : 'user', order: typeof v.order === 'number' ? v.order : 0,
-  };
+  }, validRotation(v.rotation));
 }
 
 export function validEdit(v: unknown): StepEdit | null {

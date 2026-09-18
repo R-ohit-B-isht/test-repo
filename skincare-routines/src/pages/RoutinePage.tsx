@@ -110,7 +110,7 @@ export default function RoutinePage() {
     if (n) toast(`${n} step${n === 1 ? '' : 's'} sent to your routine as pending`);
   };
   const initial: StepDraft = editor?.kind === 'add' ? blankStep(editor.slot, plan.setup.zones[0] ?? 'face')
-    : editor?.kind === 'edit' ? { slot: editor.step.slot, days: editor.step.days, zone: editor.step.zone, title: editor.step.title, category: editor.step.category, product: editor.step.product, note: editor.step.note }
+    : editor?.kind === 'edit' ? { slot: editor.step.slot, days: editor.step.days, zone: editor.step.zone, title: editor.step.title, category: editor.step.category, product: editor.step.product, note: editor.step.note, rotation: editor.step.rotation }
     : editor?.kind === 'proposal' ? { ...editor.proposal.step, note: editor.proposal.step.note || editor.proposal.why }
     : blankStep('am', 'face');
 

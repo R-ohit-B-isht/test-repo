@@ -23,6 +23,23 @@ export interface StepProduct {
   inciStatus: string | null; inciSourceKind: string | null; url: string;
 }
 
+/** What changes from week to week inside a rotating step: the name, the page it links to, the pinned listing, the note.
+ * Slot, days and zone stay the step's own. */
+export interface StepVariant {
+  title: string;
+  category: string | null;
+  product: StepProduct | null;
+  note: string;
+}
+
+/** A step that alternates week by week (e.g. azelaic → retinol → azelaic …). The step's own title / category / product /
+ * note are week 1; `alternatives` are weeks 2…n; `anchor` is the local `YYYY-MM-DD` Monday of a week 1. Optional and absent
+ * on every step saved before this existed — such steps read exactly as before. */
+export interface Rotation {
+  anchor: string;
+  alternatives: StepVariant[];
+}
+
 export interface Step {
   id: string;
   slot: Slot;
@@ -34,6 +51,7 @@ export interface Step {
   note: string;
   origin: 'user' | 'ai';
   order: number;
+  rotation?: Rotation;
 }
 
 export type ProposalStatus = 'pending' | 'accepted' | 'rejected';
