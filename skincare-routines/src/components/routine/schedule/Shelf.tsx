@@ -1,3 +1,4 @@
+import { useState } from 'react';
 import { ChevronRight, Moon, Repeat, Sun } from 'lucide-react';
 import { ApplicationGuide } from '../ApplicationGuide';
 import { EvidenceBadge, ScoreBadge } from '../../ui/primitives';
@@ -13,6 +14,13 @@ interface Props { steps: Step[]; monday: string; categoryLabel: (id: string) => 
 const isInciStatus = (v: string | null): v is InciStatus => v === 'full' || v === 'partial' || v === 'garbled' || v === 'none';
 const isSourceKind = (v: string | null): v is InciSourceKind => v === 'listing' || v === 'brand-site' || v === 'secondary';
 const SLOT_ICON = { am: Sun, pm: Moon } as const;
+
+type HaveFilter = 'all' | 'have' | 'missing';
+const FILTERS: { id: HaveFilter; label: string }[] = [
+  { id: 'all', label: 'All' },
+  { id: 'have', label: 'With me' },
+  { id: 'missing', label: 'Not with me' },
+];
 
 function UseRow({ use }: { use: ShelfUse }) {
   const Icon = SLOT_ICON[use.step.slot];
@@ -35,23 +43,39 @@ function UseRow({ use }: { use: ShelfUse }) {
 export function Shelf({ steps, monday, categoryLabel }: Props) {
   const items = shelfFrom(steps, monday);
   const missing = useMissing();
+  const [filter, setFilter] = useState<HaveFilter>('all');
   const missingCount = items.filter((i) => missing.has(i.product.id)).length;
+  const counts: Record<HaveFilter, number> = { all: items.length, have: items.length - missingCount, missing: missingCount };
+  const shown = filter === 'all' ? items : items.filter((i) => missing.has(i.product.id) === (filter === 'missing'));
   return (
     <section aria-label="Product shelf">
       <p className="label">What you’re using</p>
       <h3 className="mt-1 text-[22px] leading-tight text-display sm:text-[26px]">Your shelf — {items.length} product{items.length === 1 ? '' : 's'}.</h3>
       <p className="mt-1 text-[13px] text-secondary">
         Only listings pinned to your steps. Rank, score and formula evidence are the site’s, not the seller’s.
-        {items.length > 0 && (missingCount ? ` ${missingCount} marked not with you — those steps show greyed on Today and Full week.` : ' Switch off anything you’ve run out of; its steps grey out on Today and Full week.')}
+        {items.length > 0 && ' Switch off anything you’ve run out of; its steps grey out on Today and Full week.'}
       </p>
+      {items.length > 0 && (
+        <div className="mt-3 flex flex-wrap gap-2" role="group" aria-label="Show products">
+          {FILTERS.map((f) => (
+            <button key={f.id} type="button" className="chip h-8 px-3 text-[12px]" aria-pressed={filter === f.id} onClick={() => setFilter(f.id)}>
+              {f.label}<span className="chip-count" aria-live={f.id === 'all' ? undefined : 'polite'}>{counts[f.id]}</span>
+            </button>
+          ))}
+        </div>
+      )}
       {items.length === 0 ? (
         <div className="mt-4 rounded-[16px] border border-dashed border-line-strong px-5 py-8 text-center">
           <p className="text-[14px] font-bold text-display">No products pinned yet</p>
           <p className="mx-auto mt-1 max-w-xs text-[13px] text-secondary">Edit a step and swap in a listing, or plan the week — the shelf fills from your steps.</p>
         </div>
+      ) : shown.length === 0 ? (
+        <p className="mt-4 rounded-[16px] border border-dashed border-line-strong px-5 py-6 text-center text-[13px] text-secondary">
+          {filter === 'missing' ? 'Everything on your shelf is with you.' : 'Nothing on your shelf is marked with you.'}
+        </p>
       ) : (
         <ul className="mt-4 grid grid-cols-1 gap-3 sm:grid-cols-2">
-          {items.map(({ product, uses, inUseNow }) => {
+          {shown.map(({ product, uses, inUseNow }) => {
             const have = !missing.has(product.id);
             const facts: string[] = [];
             if (product.rank != null && product.of != null) facts.push(`#${product.rank} of ${product.of.toLocaleString('en-IN')} in ${categoryLabel(product.category)}`);
