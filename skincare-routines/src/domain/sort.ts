@@ -1,0 +1,43 @@
+import type { ProductRow, Zone } from '../lib/types';
+import { scoreMetaFor } from './scoreMeta';
+
+export type SortKey = 'score' | 'trust' | 'skin' | 'ingredients' | 'experience' | 'rating' | 'reviews' | 'priceAsc' | 'priceDesc';
+
+type Cmp = (a: ProductRow, b: ProductRow) => number;
+
+const byScore: Cmp = (a, b) => b.s - a.s || a.p - b.p;
+const byDim = (k: keyof ProductRow['sc']): Cmp => (a, b) => b.sc[k] - a.sc[k] || byScore(a, b);
+
+/** Strategy pattern: one comparator per sort option; price never feeds the score itself. */
+export const SORT_STRATEGIES: Record<SortKey, { label: string; hint: string; cmp: Cmp }> = {
+  score: { label: 'Overall score', hint: 'Weighted total of the four dimensions', cmp: byScore },
+  ingredients: { label: 'Formula (verified INCI)', hint: 'Evidence-graded actives on the published ingredient list', cmp: byDim('ingredients') },
+  skin: { label: 'Skin safety (verified INCI)', hint: 'Named fragrance, allergens, drying alcohol, harsh surfactants', cmp: byDim('skin') },
+  trust: { label: 'Maker & transparency', hint: 'Accountable manufacturer + full ingredient disclosure', cmp: byDim('trust') },
+  experience: { label: 'Buyer evidence', hint: 'Real star rating and review depth, bounded', cmp: byDim('experience') },
+  rating: { label: 'Buyer rating', hint: 'Stars first, review count breaks ties', cmp: (a, b) => (b.r ?? -1) - (a.r ?? -1) || (b.rc ?? 0) - (a.rc ?? 0) || byScore(a, b) },
+  reviews: { label: 'Most reviewed', hint: 'Review count, unrated last', cmp: (a, b) => (b.rc ?? 0) - (a.rc ?? 0) || byScore(a, b) },
+  priceAsc: { label: 'Price: low → high', hint: 'Price never affects the score itself', cmp: (a, b) => a.p - b.p || byScore(a, b) },
+  priceDesc: { label: 'Price: high → low', hint: 'Price never affects the score itself', cmp: (a, b) => b.p - a.p || byScore(a, b) },
+};
+
+export const SORT_KEYS = Object.keys(SORT_STRATEGIES) as SortKey[];
+
+export interface SortOption { value: SortKey; label: string; hint: string }
+
+/** Sort options with the safety dimension named for the zone ("Skin safety" on skincare pages, "Scalp & hair safety" on hair pages). */
+export function sortOptionsFor(zone: Zone): SortOption[] {
+  const safety = scoreMetaFor(zone).find((m) => m.key === 'skin');
+  return SORT_KEYS.map((k) => {
+    const s = SORT_STRATEGIES[k];
+    return k === 'skin' && safety ? { value: k, label: `${safety.label} (verified INCI)`, hint: s.hint } : { value: k, label: s.label, hint: s.hint };
+  });
+}
+export const isSortKey = (s: string | null): s is SortKey => !!s && s in SORT_STRATEGIES;
+
+export function sortPositions(items: ProductRow[], positions: Uint32Array, key: SortKey): Uint32Array {
+  const cmp = SORT_STRATEGIES[key].cmp;
+  const arr = Array.from(positions);
+  arr.sort((x, y) => cmp(items[x], items[y]));
+  return Uint32Array.from(arr);
+}
